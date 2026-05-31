@@ -1,0 +1,309 @@
+feature,mean_importance,target,horizon
+acled_28d_lag,0.2646204575,Any protest (next N days),7
+acled_7d_lag,0.24547877850000002,Any protest (next N days),7
+riot_28d_lag,0.094489251675,Any protest (next N days),7
+voice_accountability_est,0.0823502853525,Any protest (next N days),7
+government_effectiveness_est,0.04483303259,Any protest (next N days),7
+rule_of_law_est,0.04465503461275,Any protest (next N days),7
+political_stability_est,0.041958813569749995,Any protest (next N days),7
+violence_28d_lag,0.03414439556,Any protest (next N days),7
+fao_food_index_yoy_lag3m,0.0321491573395,Any protest (next N days),7
+unemployment_youth,0.02334488851,Any protest (next N days),7
+gdp_per_capita_growth_z,0.0228521780515625,Any protest (next N days),7
+fao_food_index_yoy_lag1m,0.020955974734,Any protest (next N days),7
+unemployment_sa,0.0203487691225,Any protest (next N days),7
+unemployment_total,0.01841344661575,Any protest (next N days),7
+unemployment_rate,0.017558943222000002,Any protest (next N days),7
+gdp_growth,0.0163584493275,Any protest (next N days),7
+fao_oils_index_yoy,0.015041136222500001,Any protest (next N days),7
+unemployment_sa_z,0.0136480985785,Any protest (next N days),7
+government_effectiveness_est_z,0.0133433350440625,Any protest (next N days),7
+inflation_cpi_yoy,0.012415332366500002,Any protest (next N days),7
+gta_90d_count,0.012398558695,Any protest (next N days),7
+gdp_growth_z,0.01234665019375,Any protest (next N days),7
+protest_mobilisation_index,0.01135989431175,Any protest (next N days),7
+gdp_per_capita_growth,0.01053520131025,Any protest (next N days),7
+riot_7d_lag,0.010149620223,Any protest (next N days),7
+inflation_cpi_yoy_z,0.0101243178515625,Any protest (next N days),7
+fx_vol_30d,0.010102569341250001,Any protest (next N days),7
+gta_harmful_events_z,0.009678066575250001,Any protest (next N days),7
+labour_conflict_index_z,0.008285690352075,Any protest (next N days),7
+economic_stress_index,0.00755349985625,Any protest (next N days),7
+energy_cpi_inflation,0.007425013294000001,Any protest (next N days),7
+unemployment_youth_z,0.0071857284484374995,Any protest (next N days),7
+political_stability_est_z,0.006576465071875,Any protest (next N days),7
+food_cpi_inflation,0.0064547004835,Any protest (next N days),7
+rule_of_law_est_z,0.006435749975,Any protest (next N days),7
+yield_us10y,0.00631876688,Any protest (next N days),7
+unemployment_total_z,0.0058550165115625,Any protest (next N days),7
+voice_accountability_est_z,0.005701052225625,Any protest (next N days),7
+gta_liberalising_events_z,0.005610181843,Any protest (next N days),7
+fao_cereals_index_yoy_lag6m,0.005168174237,Any protest (next N days),7
+labour_conflict_index,0.00491011199925,Any protest (next N days),7
+fao_food_index_yoy,0.00456566433065,Any protest (next N days),7
+fao_food_yoy_x_youth_unemp,0.0045326477187499995,Any protest (next N days),7
+fao_cereals_index_yoy_lag1m,0.0044100219284,Any protest (next N days),7
+earnings_monthly,0.004404216046842105,Any protest (next N days),7
+fao_cereals_yoy_x_instability,0.00425304051375,Any protest (next N days),7
+protest_mobilisation_index_z,0.004127602016,Any protest (next N days),7
+fx_vol_7d,0.0039405626525,Any protest (next N days),7
+violence_7d_lag,0.0037818711215,Any protest (next N days),7
+fao_cereals_index_yoy,0.0035889686002499996,Any protest (next N days),7
+gta_90d_count_z,0.003530638905,Any protest (next N days),7
+oil_brent_pct_30d_x_inflation,0.0033428887824999997,Any protest (next N days),7
+fx_pct_30d_x_instability,0.003234124051,Any protest (next N days),7
+gta_30d_count,0.003201904647,Any protest (next N days),7
+month_cos,0.00312591248625,Any protest (next N days),7
+food_cpi_inflation_z,0.0031103648012500004,Any protest (next N days),7
+fx_pct_30d_z,0.003108223991325,Any protest (next N days),7
+unemployment_rate_z,0.003071225779,Any protest (next N days),7
+fao_cereals_index_yoy_lag3m,0.00303010054225,Any protest (next N days),7
+energy_cpi_inflation_z,0.00291935128,Any protest (next N days),7
+economic_stress_index_z,0.00283135657575,Any protest (next N days),7
+gta_30d_count_z,0.0028124558485,Any protest (next N days),7
+fx_vol_30d_z,0.0026083246558,Any protest (next N days),7
+fx_pct_90d,0.00257314313175,Any protest (next N days),7
+month_sin,0.00232110289675,Any protest (next N days),7
+fx_pct_30d,0.0020112651495,Any protest (next N days),7
+fao_food_index_yoy_above90,0.0019893483355000003,Any protest (next N days),7
+oil_brent_pct_30d,0.00197475879475,Any protest (next N days),7
+oil_brent_pct_30d_z,0.0016501330165000002,Any protest (next N days),7
+fx_pct_7d,0.00162564145675,Any protest (next N days),7
+oil_brent_pct_14d,0.00150159384115,Any protest (next N days),7
+gta_liberalising_events,0.0008705006280000001,Any protest (next N days),7
+fao_cereals_index_yoy_above90,0.000650854168625,Any protest (next N days),7
+gta_harmful_events,0.00042220342925000003,Any protest (next N days),7
+earnings_monthly_z,0.00042191352083333333,Any protest (next N days),7
+protest_fat_7d_lag,0.0,Any protest (next N days),7
+protest_fat_28d_lag,0.0,Any protest (next N days),7
+acled_7d_lag,0.2770269195,Any protest (next N days),30
+acled_28d_lag,0.2522831154,Any protest (next N days),30
+riot_28d_lag,0.07551446283150001,Any protest (next N days),30
+political_stability_est,0.064680251225,Any protest (next N days),30
+voice_accountability_est,0.05074290663375001,Any protest (next N days),30
+fao_oils_index_yoy,0.043873045245,Any protest (next N days),30
+rule_of_law_est,0.04147182106175,Any protest (next N days),30
+government_effectiveness_est,0.03757313857125,Any protest (next N days),30
+unemployment_total,0.028403075707500003,Any protest (next N days),30
+fao_food_index_yoy_lag3m,0.0274513248672,Any protest (next N days),30
+violence_28d_lag,0.022158454847,Any protest (next N days),30
+unemployment_youth,0.0194038521125,Any protest (next N days),30
+fao_food_index_yoy,0.0142170267375,Any protest (next N days),30
+fao_cereals_yoy_x_instability,0.014032591183749998,Any protest (next N days),30
+unemployment_rate,0.0135855881505,Any protest (next N days),30
+fao_cereals_index_yoy_lag6m,0.013233698765999998,Any protest (next N days),30
+gdp_growth,0.013202528215,Any protest (next N days),30
+gdp_growth_z,0.0130417633365625,Any protest (next N days),30
+labour_conflict_index_z,0.012320463569,Any protest (next N days),30
+fx_vol_30d,0.011450507355,Any protest (next N days),30
+government_effectiveness_est_z,0.011310357530352188,Any protest (next N days),30
+inflation_cpi_yoy,0.01119402451425,Any protest (next N days),30
+month_cos,0.0102051764136125,Any protest (next N days),30
+unemployment_total_z,0.0097539200275,Any protest (next N days),30
+energy_cpi_inflation,0.009657311742749999,Any protest (next N days),30
+economic_stress_index,0.009478477955,Any protest (next N days),30
+protest_mobilisation_index,0.00932887577275,Any protest (next N days),30
+unemployment_sa,0.009265171469249999,Any protest (next N days),30
+gdp_per_capita_growth,0.009089035542824999,Any protest (next N days),30
+protest_mobilisation_index_z,0.0088982048535,Any protest (next N days),30
+political_stability_est_z,0.0087579704134375,Any protest (next N days),30
+unemployment_youth_z,0.00858447003515625,Any protest (next N days),30
+gta_harmful_events_z,0.008535246641499999,Any protest (next N days),30
+unemployment_sa_z,0.00844454036825,Any protest (next N days),30
+gta_90d_count,0.00783477961525,Any protest (next N days),30
+fao_food_yoy_x_youth_unemp,0.007371468815625,Any protest (next N days),30
+fao_cereals_index_yoy,0.007086644185250001,Any protest (next N days),30
+fao_food_index_yoy_lag1m,0.007065106275000001,Any protest (next N days),30
+fao_cereals_index_yoy_lag1m,0.00686328031075,Any protest (next N days),30
+food_cpi_inflation,0.006705990145,Any protest (next N days),30
+inflation_cpi_yoy_z,0.006665983990625,Any protest (next N days),30
+voice_accountability_est_z,0.0060095328125,Any protest (next N days),30
+energy_cpi_inflation_z,0.00592879348825,Any protest (next N days),30
+fao_food_index_yoy_above90,0.005918129928,Any protest (next N days),30
+fao_cereals_index_yoy_lag3m,0.0053752213175,Any protest (next N days),30
+yield_us10y,0.0051445256503,Any protest (next N days),30
+month_sin,0.0050629798486,Any protest (next N days),30
+gta_90d_count_z,0.004463186968,Any protest (next N days),30
+food_cpi_inflation_z,0.00442513314425,Any protest (next N days),30
+economic_stress_index_z,0.0043740877565,Any protest (next N days),30
+fx_vol_30d_z,0.004039827336,Any protest (next N days),30
+gta_liberalising_events_z,0.00396778073125,Any protest (next N days),30
+gdp_per_capita_growth_z,0.00393540152165625,Any protest (next N days),30
+fx_vol_7d,0.0036182357625000002,Any protest (next N days),30
+earnings_monthly,0.0035881927147368422,Any protest (next N days),30
+rule_of_law_est_z,0.003573281415625,Any protest (next N days),30
+violence_7d_lag,0.0035458376275000003,Any protest (next N days),30
+gta_30d_count,0.003029771715875,Any protest (next N days),30
+labour_conflict_index,0.002936675132,Any protest (next N days),30
+unemployment_rate_z,0.002450221089,Any protest (next N days),30
+riot_7d_lag,0.00243802662,Any protest (next N days),30
+gta_30d_count_z,0.00243094909675,Any protest (next N days),30
+fx_pct_30d_z,0.0022064766270000003,Any protest (next N days),30
+fx_pct_7d,0.002003225071675,Any protest (next N days),30
+oil_brent_pct_30d_z,0.00196090615425,Any protest (next N days),30
+fx_pct_30d_x_instability,0.00180298233325,Any protest (next N days),30
+fx_pct_30d,0.00175504859075,Any protest (next N days),30
+fx_pct_90d,0.00168287477925,Any protest (next N days),30
+oil_brent_pct_30d_x_inflation,0.0015900720104999998,Any protest (next N days),30
+oil_brent_pct_14d,0.001503778117,Any protest (next N days),30
+oil_brent_pct_30d,0.0012115556284999999,Any protest (next N days),30
+earnings_monthly_z,0.0008853077363888888,Any protest (next N days),30
+gta_liberalising_events,0.00031492312775,Any protest (next N days),30
+gta_harmful_events,0.00010756990025000001,Any protest (next N days),30
+fao_cereals_index_yoy_above90,3.478761125e-05,Any protest (next N days),30
+protest_fat_7d_lag,0.0,Any protest (next N days),30
+protest_fat_28d_lag,0.0,Any protest (next N days),30
+acled_7d_lag,0.17259211345,Elevated spike,7
+acled_28d_lag,0.15217895265,Elevated spike,7
+voice_accountability_est,0.049288833225,Elevated spike,7
+political_stability_est,0.037456957745000005,Elevated spike,7
+fao_cereals_index_yoy_lag6m,0.032401813767499996,Elevated spike,7
+riot_28d_lag,0.02954963879,Elevated spike,7
+government_effectiveness_est,0.022322274725,Elevated spike,7
+labour_conflict_index_z,0.021996401792500002,Elevated spike,7
+unemployment_total,0.0190456787275,Elevated spike,7
+rule_of_law_est,0.01892140887,Elevated spike,7
+month_cos,0.0186441201325,Elevated spike,7
+unemployment_rate,0.017423410395,Elevated spike,7
+gdp_growth,0.0170804011475,Elevated spike,7
+fao_food_index_yoy_lag3m,0.0166164331425,Elevated spike,7
+fao_food_index_yoy,0.0163505098375,Elevated spike,7
+unemployment_youth,0.0160258171,Elevated spike,7
+fao_cereals_index_yoy_lag1m,0.015991202625,Elevated spike,7
+fao_cereals_index_yoy_lag3m,0.0156479079425,Elevated spike,7
+fao_oils_index_yoy,0.014771942187500001,Elevated spike,7
+fao_food_index_yoy_lag1m,0.014138149345,Elevated spike,7
+gta_harmful_events_z,0.01411100870525,Elevated spike,7
+month_sin,0.0140609461775,Elevated spike,7
+fao_food_yoy_x_youth_unemp,0.0140175115125,Elevated spike,7
+unemployment_total_z,0.0139432965,Elevated spike,7
+gta_liberalising_events_z,0.0138761370075,Elevated spike,7
+unemployment_sa,0.0133906400175,Elevated spike,7
+protest_mobilisation_index_z,0.012091813197499999,Elevated spike,7
+gta_90d_count,0.0120613663575,Elevated spike,7
+gdp_per_capita_growth,0.012045049105,Elevated spike,7
+fao_cereals_yoy_x_instability,0.011962972697500001,Elevated spike,7
+yield_us10y,0.0119584461125,Elevated spike,7
+food_cpi_inflation,0.0119375454425,Elevated spike,7
+energy_cpi_inflation_z,0.0118591960975,Elevated spike,7
+economic_stress_index,0.011758556372500001,Elevated spike,7
+violence_28d_lag,0.011528761525,Elevated spike,7
+government_effectiveness_est_z,0.01150648699375,Elevated spike,7
+protest_mobilisation_index,0.011301137192500001,Elevated spike,7
+unemployment_sa_z,0.0111798562875,Elevated spike,7
+unemployment_rate_z,0.011179854305,Elevated spike,7
+food_cpi_inflation_z,0.0108382759575,Elevated spike,7
+energy_cpi_inflation,0.0107035602425,Elevated spike,7
+unemployment_youth_z,0.010674865906249999,Elevated spike,7
+gdp_growth_z,0.01063355843125,Elevated spike,7
+fx_vol_30d,0.010509564606000001,Elevated spike,7
+economic_stress_index_z,0.010081434255,Elevated spike,7
+political_stability_est_z,0.010063630434375,Elevated spike,7
+gta_90d_count_z,0.009969050427499999,Elevated spike,7
+fao_cereals_index_yoy,0.0098913456325,Elevated spike,7
+inflation_cpi_yoy,0.00985987897575,Elevated spike,7
+oil_brent_pct_30d_x_inflation,0.009703069125,Elevated spike,7
+oil_brent_pct_30d,0.00857176037075,Elevated spike,7
+gta_30d_count,0.007997403596499999,Elevated spike,7
+voice_accountability_est_z,0.0077123953,Elevated spike,7
+fx_pct_90d,0.0075605698394749996,Elevated spike,7
+oil_brent_pct_30d_z,0.007486408205,Elevated spike,7
+rule_of_law_est_z,0.006818694503125,Elevated spike,7
+inflation_cpi_yoy_z,0.0068167714875,Elevated spike,7
+fx_vol_30d_z,0.006795665859999999,Elevated spike,7
+gdp_per_capita_growth_z,0.00664527384375,Elevated spike,7
+gta_30d_count_z,0.0065052953725,Elevated spike,7
+labour_conflict_index,0.006126621325,Elevated spike,7
+fx_vol_7d,0.0059253439075,Elevated spike,7
+oil_brent_pct_14d,0.00582693038,Elevated spike,7
+fx_pct_30d_z,0.0054584216676,Elevated spike,7
+fx_pct_30d_x_instability,0.005434759224,Elevated spike,7
+violence_7d_lag,0.00527379998,Elevated spike,7
+earnings_monthly,0.004715189636842105,Elevated spike,7
+riot_7d_lag,0.00438996385,Elevated spike,7
+fao_food_index_yoy_above90,0.0041978317,Elevated spike,7
+protest_fat_28d_lag,0.004155707329999999,Elevated spike,7
+earnings_monthly_z,0.004091977566666667,Elevated spike,7
+fx_pct_30d,0.00353534084,Elevated spike,7
+fao_cereals_index_yoy_above90,0.003335161925,Elevated spike,7
+fx_pct_7d,0.0030038321425,Elevated spike,7
+gta_harmful_events,0.00107195582019,Elevated spike,7
+gta_liberalising_events,0.00064579569045,Elevated spike,7
+protest_fat_7d_lag,0.000401548805,Elevated spike,7
+acled_28d_lag,0.0654369353,Elevated spike,30
+month_cos,0.0529381828625,Elevated spike,30
+acled_7d_lag,0.046868519065,Elevated spike,30
+fao_cereals_index_yoy_lag6m,0.040435689425,Elevated spike,30
+voice_accountability_est,0.033897888249999994,Elevated spike,30
+fao_food_index_yoy,0.0337587987975,Elevated spike,30
+fao_oils_index_yoy,0.033134489375,Elevated spike,30
+labour_conflict_index_z,0.0325938290075,Elevated spike,30
+unemployment_youth,0.03202868895,Elevated spike,30
+political_stability_est,0.0245280329475,Elevated spike,30
+fao_food_yoy_x_youth_unemp,0.023017941275000002,Elevated spike,30
+food_cpi_inflation_z,0.02100351257625,Elevated spike,30
+government_effectiveness_est,0.02075026882,Elevated spike,30
+rule_of_law_est,0.020229725339999997,Elevated spike,30
+fao_cereals_index_yoy_lag3m,0.0189661179225,Elevated spike,30
+unemployment_rate,0.0187511914475,Elevated spike,30
+unemployment_rate_z,0.018700372362500002,Elevated spike,30
+energy_cpi_inflation_z,0.018641959745,Elevated spike,30
+yield_us10y,0.018165427745,Elevated spike,30
+gta_90d_count,0.0175181244175,Elevated spike,30
+month_sin,0.0173645177825,Elevated spike,30
+riot_28d_lag,0.017063360815,Elevated spike,30
+fao_cereals_yoy_x_instability,0.0166321550175,Elevated spike,30
+fao_cereals_index_yoy_lag1m,0.01662129206975,Elevated spike,30
+energy_cpi_inflation,0.015945808525,Elevated spike,30
+fao_food_index_yoy_lag1m,0.014379415279999998,Elevated spike,30
+gdp_growth,0.014370564890000001,Elevated spike,30
+food_cpi_inflation,0.01424180927,Elevated spike,30
+unemployment_total,0.014239372642500001,Elevated spike,30
+unemployment_youth_z,0.013857970659375,Elevated spike,30
+unemployment_sa_z,0.013371544587500001,Elevated spike,30
+fao_cereals_index_yoy,0.013075738889999999,Elevated spike,30
+inflation_cpi_yoy,0.0129789357175,Elevated spike,30
+gta_liberalising_events_z,0.0129603956325,Elevated spike,30
+gta_harmful_events_z,0.012526701078999999,Elevated spike,30
+fao_food_index_yoy_lag3m,0.0125249714875,Elevated spike,30
+inflation_cpi_yoy_z,0.01211507078125,Elevated spike,30
+violence_28d_lag,0.01136845725,Elevated spike,30
+economic_stress_index_z,0.011247422573,Elevated spike,30
+gta_90d_count_z,0.011157056995000001,Elevated spike,30
+gdp_growth_z,0.010852615790625,Elevated spike,30
+fx_vol_30d,0.010483623705,Elevated spike,30
+government_effectiveness_est_z,0.01009373809375,Elevated spike,30
+gdp_per_capita_growth,0.009419976725,Elevated spike,30
+unemployment_total_z,0.0092773833125,Elevated spike,30
+economic_stress_index,0.009048265980000001,Elevated spike,30
+fx_pct_90d,0.008623498862499999,Elevated spike,30
+rule_of_law_est_z,0.008163121528125,Elevated spike,30
+unemployment_sa,0.0081520352225,Elevated spike,30
+gta_30d_count_z,0.008114236764,Elevated spike,30
+protest_mobilisation_index,0.008082936990000001,Elevated spike,30
+fx_vol_30d_z,0.008004582327499999,Elevated spike,30
+fx_pct_30d_z,0.007733137795250001,Elevated spike,30
+riot_7d_lag,0.007569324461999999,Elevated spike,30
+voice_accountability_est_z,0.007373105328125001,Elevated spike,30
+gdp_per_capita_growth_z,0.0072995482437500005,Elevated spike,30
+fao_food_index_yoy_above90,0.0070947084675,Elevated spike,30
+political_stability_est_z,0.00690799816875,Elevated spike,30
+gta_30d_count,0.00621339086475,Elevated spike,30
+protest_mobilisation_index_z,0.0060408917525,Elevated spike,30
+oil_brent_pct_30d_x_inflation,0.0060332952885,Elevated spike,30
+earnings_monthly_z,0.005960728127777777,Elevated spike,30
+oil_brent_pct_30d,0.005913821039,Elevated spike,30
+oil_brent_pct_30d_z,0.00566968285125,Elevated spike,30
+labour_conflict_index,0.005362689665,Elevated spike,30
+fx_pct_30d_x_instability,0.005072719945499999,Elevated spike,30
+oil_brent_pct_14d,0.0047629731247500005,Elevated spike,30
+fx_pct_30d,0.0038568835125,Elevated spike,30
+earnings_monthly,0.003778978589473684,Elevated spike,30
+fao_cereals_index_yoy_above90,0.0032813521025,Elevated spike,30
+fx_vol_7d,0.00314036104375,Elevated spike,30
+violence_7d_lag,0.00257159447,Elevated spike,30
+fx_pct_7d,0.0021636843295,Elevated spike,30
+protest_fat_28d_lag,0.001475797275,Elevated spike,30
+gta_liberalising_events,0.0007391642825,Elevated spike,30
+gta_harmful_events,0.00027387300347499996,Elevated spike,30
+protest_fat_7d_lag,0.00027229981500000004,Elevated spike,30

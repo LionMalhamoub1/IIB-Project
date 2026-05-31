@@ -1,0 +1,85 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+SWA566,2023-01-04,2,Violence against civilians,Attack,Unidentified Armed Group (eSwatini),,Civilians (eSwatini),SFDF: Swazis First Democratic Front,eSwatini,Manzini,Ntontozi,Ntondozi,-26.6106,31.2066,1,National,1,SWZ
+SWA571,2023-01-15,1,Battles,Armed clash,Unidentified Armed Group (eSwatini),,Military Forces of eSwatini (1986-),,eSwatini,Hhohho,Piggs Peak,Bulembu,-25.948,31.1341,1,National,1,SWZ
+SWA572,2023-01-04,2,Riots,Mob violence,Rioters (eSwatini),Vigilante Group (eSwatini),Civilians (eSwatini),,eSwatini,Hhohho,Piggs Peak,Piggs Peak,-25.9667,31.25,2,National,1,SWZ
+SWA573,2023-01-21,2,Riots,Mob violence,Rioters (eSwatini),Vigilante Group (eSwatini),Civilians (eSwatini),,eSwatini,Hhohho,Piggs Peak,Piggs Peak,-25.9667,31.25,2,National,1,SWZ
+SWA577,2023-01-30,1,Riots,Mob violence,Rioters (eSwatini),Vigilante Group (eSwatini),Civilians (eSwatini),,eSwatini,Shiselweni,Maseyisini,Nhlangano,-27.1166,31.1676,2,National,4,SWZ
+SWA581,2023-02-06,1,Riots,Mob violence,Rioters (eSwatini),Vigilante Group (eSwatini),Civilians (eSwatini),,eSwatini,Lubombo,Siphofaneni,Siphofaneni,-26.6833,31.6833,2,National,1,SWZ
+SWA583,2023-02-11,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (eSwatini),,SFDF: Swazis First Democratic Front,,eSwatini,Shiselweni,Hosea,Hluti,-27.2166,31.6166,1,National,0,SWZ
+SWA584,2023-02-17,1,Riots,Mob violence,Rioters (eSwatini),Vigilante Group (eSwatini),Civilians (eSwatini),,eSwatini,Shiselweni,Mtsambama,Hlatikulu,-26.9667,31.3167,2,National,1,SWZ
+SWA585,2023-02-21,2,Riots,Mob violence,Rioters (eSwatini),Vigilante Group (eSwatini),Civilians (eSwatini),,eSwatini,Manzini,Mkhiweni,Mliba,-26.2397,31.5827,1,National,1,SWZ
+SWA586,2023-02-22,1,Riots,Mob violence,Rioters (eSwatini),Vigilante Group (eSwatini),Civilians (eSwatini),Civilians (Mozambique),eSwatini,Lubombo,Lugongolweni,Siteki,-26.45,31.95,2,National,1,SWZ
+SWA587,2023-02-20,1,Riots,Mob violence,Rioters (eSwatini),,Civilians (Taiwan),,eSwatini,Shiselweni,Gege,Gege,-26.95,31.0167,1,National,0,SWZ
+SWA569,2023-01-11,1,Violence against civilians,Attack,Unidentified Armed Group (eSwatini),,Civilians (eSwatini),Lawyers (eSwatini),eSwatini,Hhohho,Mbabane East,Mbabane,-26.3167,31.1333,1,National,0,SWZ
+SWA589,2023-02-05,1,Protests,Peaceful protest,Protesters (eSwatini),CPS: Communist Party of Swaziland,,,eSwatini,Shiselweni,Hosea,Hluti,-27.2166,31.6166,2,National,0,SWZ
+SWA590,2023-02-07,1,Violence against civilians,Attack,Police Forces of eSwatini (1986-),,Civilians (eSwatini),CPS: Communist Party of Swaziland; Prisoners (eSwatini),eSwatini,Shiselweni,Hosea,Hluti,-27.2166,31.6166,2,National,0,SWZ
+SWA591,2023-02-08,1,Protests,Peaceful protest,Protesters (eSwatini),,,,eSwatini,Shiselweni,Hosea,Hluti,-27.2166,31.6166,2,National,0,SWZ
+SWA592,2023-03-12,2,Violence against civilians,Attack,Military Forces of eSwatini (1986-),,Civilians (eSwatini),EFFSWA: Economic Freedom Fighters of Swaziland,eSwatini,Hhohho,Mbabane East,Mbabane,-26.3167,31.1333,1,National,1,SWZ
+SWA593,2023-03-18,1,Protests,Protest with intervention,Protesters (eSwatini),SWAYOCO: Swaziland Youth Congress; EFFSWA: Economic Freedom Fighters of Swaziland,Military Forces of eSwatini (1986-),,eSwatini,Lubombo,Lubuli,Nsoko,-27.074,31.9289,2,National,0,SWZ
+SWA594,2023-03-30,1,Protests,Peaceful protest,Protesters (eSwatini),,,,eSwatini,Lubombo,Dvokodvweni,Malindza,-26.4039,31.7711,1,National,0,SWZ
+SWA595,2023-04-10,1,Violence against civilians,Attack,Police Forces of eSwatini (1986-),,Civilians (eSwatini),Labor Group (eSwatini),eSwatini,Hhohho,Mbabane East,Mbabane,-26.3167,31.1333,1,National,0,SWZ
+SWA596,2023-04-12,1,Protests,Peaceful protest,Protesters (eSwatini),,,,eSwatini,Hhohho,Mbabane East,Mbabane,-26.3167,31.1333,1,National,0,SWZ
+SWA597,2023-04-12,1,Violence against civilians,Attack,Military Forces of eSwatini (1986-),,Civilians (eSwatini),Former SWALIMO: Swaziland Liberation Movement,eSwatini,Hhohho,Mbabane West,Mangwaneni,-26.3385,31.144,2,National,0,SWZ
+SWA616,2023-02-01,2,Protests,Peaceful protest,Protesters (eSwatini),,,,eSwatini,Shiselweni,Somntongo,Lavumisa,-27.3167,31.9,1,National,0,SWZ
+SWA621,2023-02-14,2,Protests,Peaceful protest,Protesters (eSwatini),Labor Group (eSwatini),,,eSwatini,Lubombo,Nkilongo,Big Bend,-26.8167,31.9333,1,National,0,SWZ
+SWA686,2023-03-03,1,Protests,Protest with intervention,Protesters (eSwatini),,Police Forces of eSwatini (1986-),,eSwatini,Shiselweni,Somntongo,Lavumisa,-27.3167,31.9,2,National,0,SWZ
+SWA687,2023-03-04,2,Violence against civilians,Attack,Military Forces of eSwatini (1986-),,Civilians (eSwatini),,eSwatini,Manzini,Mhlambanyatsi,Bhunya,-26.5403,31.0113,2,National,1,SWZ
+SWA688,2023-03-08,1,Protests,Peaceful protest,Protesters (eSwatini),NAWUSHI: National Workers Union of Swaziland Higher Institutions; Teachers (eSwatini),,,eSwatini,Hhohho,Mbabane East,Mbabane,-26.3167,31.1333,1,National,0,SWZ
+SWA689,2023-03-09,1,Protests,Peaceful protest,Protesters (eSwatini),PUDEMO: People's United Democratic Movement,,,eSwatini,Manzini,Ngwempisi,Mankayane,-26.6792,31.0481,1,National,0,SWZ
+SWA690,2023-03-10,1,Protests,Peaceful protest,Protesters (eSwatini),NAWUSHI: National Workers Union of Swaziland Higher Institutions; Teachers (eSwatini),,,eSwatini,Hhohho,Mbabane East,Mbabane,-26.3167,31.1333,1,National,0,SWZ
+SWA692,2023-03-27,1,Protests,Peaceful protest,Protesters (eSwatini),Women (eSwatini); SWAGAA: Swaziland Action Group Against Abuse; One Billion Rising eSwatini,,,eSwatini,Shiselweni,Maseyisini,Nhlangano,-27.1166,31.1676,1,National,0,SWZ
+SWA693,2023-03-28,2,Riots,Mob violence,Rioters (eSwatini),,,,eSwatini,Shiselweni,Hosea,Hluti,-27.2166,31.6166,1,National,0,SWZ
+SWA740,2023-04-13,1,Riots,Mob violence,Rioters (eSwatini),Vigilante Group (eSwatini),Civilians (eSwatini),,eSwatini,Hhohho,Mayiwane,Buhleni,-25.9229,31.5102,1,National,0,SWZ
+SWA742,2023-04-22,1,Violence against civilians,Attack,Military Forces of eSwatini (1986-),,Civilians (eSwatini),,eSwatini,Shiselweni,Gege,Mashobeni,-27.011,31.0898,2,National,1,SWZ
+SWA743,2023-04-23,1,Protests,Peaceful protest,Protesters (eSwatini),Christian Group (eSwatini),,,eSwatini,Hhohho,Mbabane East,Mbabane,-26.3167,31.1333,1,National,0,SWZ
+SWA744,2023-04-24,1,Protests,Peaceful protest,Protesters (eSwatini),SNUS: Swaziland National Union of Students; Students (eSwatini),,,eSwatini,Shiselweni,Maseyisini,Nhlangano,-27.1166,31.1676,1,National,0,SWZ
+SWA746,2023-05-12,1,Violence against civilians,Attack,Police Forces of eSwatini (1986-),,Civilians (eSwatini),,eSwatini,Hhohho,Madlangemphisi,Madlangempisi,-26.089,31.5485,1,National,1,SWZ
+SWA747,2023-05-01,1,Protests,Peaceful protest,Protesters (eSwatini),Labor Group (eSwatini); TUCOSWA: Trade Union Congress of Swaziland; PUDEMO: People's United Democratic Movement; CPS: Communist Party of Swaziland; NNLC: Ngwane National Liberatory Congress; SWADEPA: Swazi Democratic Party; SFDF: Swazis First Democratic Front; EFFSWA: Economic Freedom Fighters of Swaziland,,,eSwatini,Lubombo,Nkilongo,Big Bend,-26.8167,31.9333,1,National,0,SWZ
+SWA748,2023-05-22,1,Riots,Mob violence,Rioters (eSwatini),Vigilante Group (eSwatini),Civilians (eSwatini),,eSwatini,Lubombo,Lomahasha,Lomahasha,-25.9949,31.9932,2,National,1,SWZ
+SWA749,2023-05-23,1,Protests,Peaceful protest,Protesters (eSwatini),Students (eSwatini),,,eSwatini,Hhohho,Mbabane East,Mbabane,-26.3167,31.1333,1,National,0,SWZ
+SWA750,2023-05-22,1,Protests,Peaceful protest,Protesters (eSwatini),SWADNU: Swaziland Democratic Nurses Union; Health Workers (eSwatini),,,eSwatini,Hhohho,Mayiwane,Mkhuzweni,-25.9018,31.5104,1,National,0,SWZ
+SWA752,2023-06-06,1,Riots,Mob violence,Rioters (eSwatini),,,,eSwatini,Shiselweni,Hosea,Hluti,-27.2166,31.6166,2,National,0,SWZ
+SWA754,2023-06-08,1,Violence against civilians,Attack,Police Forces of eSwatini (1986-),,Civilians (eSwatini),Prisoners (eSwatini); SISF: Swaziland International Solidarity Forces,eSwatini,Manzini,Nhlambeni,Sidvokodvo,-26.6307,31.4213,1,National,0,SWZ
+SWA755,2023-06-16,1,Protests,Peaceful protest,Protesters (eSwatini),LGBTQ+ (eSwatini),,,eSwatini,Hhohho,Mbabane East,Mbabane,-26.3167,31.1333,1,National,0,SWZ
+SWA741,2023-04-18,2,Violence against civilians,Attack,Unidentified Armed Group (eSwatini),,Civilians (eSwatini),Government of eSwatini (1986-) Inkhundla,eSwatini,Manzini,Nhlambeni,Sidvokodvo,-26.6307,31.4213,1,National,1,SWZ
+SWA756,2023-06-30,2,Protests,Peaceful protest,Protesters (eSwatini),Health Workers (eSwatini),,,eSwatini,Hhohho,Mbabane East,Mbabane,-26.3167,31.1333,1,National,0,SWZ
+SWA757,2023-07-06,2,Protests,Peaceful protest,Protesters (eSwatini),Labor Group (eSwatini),,,eSwatini,Shiselweni,Maseyisini,Nhlangano,-27.1166,31.1676,1,National,0,SWZ
+SWA758,2023-06-28,1,Violence against civilians,Attack,Military Forces of eSwatini (1986-),,Civilians (eSwatini),CPS: Communist Party of Swaziland,eSwatini,Hhohho,Mbabane East,Mbabane,-26.3167,31.1333,1,National,0,SWZ
+SWA760,2023-07-09,1,Riots,Mob violence,Rioters (eSwatini),Vigilante Group (eSwatini),Civilians (South Africa),,eSwatini,Shiselweni,Sandleni,Ngololweni,-27.1109,31.4524,1,National,1,SWZ
+SWA761,2023-07-11,1,Violence against civilians,Attack,Police Forces of eSwatini (1986-),,Civilians (eSwatini),CPS: Communist Party of Swaziland; SNUS: Swaziland National Union of Students; Students (eSwatini); Prisoners (eSwatini),eSwatini,Hhohho,Mbabane East,Mbabane,-26.3167,31.1333,1,National,0,SWZ
+SWA762,2023-07-11,1,Strategic developments,Other,Government of eSwatini (1986-),,,,eSwatini,Hhohho,Mbabane East,Mbabane,-26.3167,31.1333,3,National,0,SWZ
+SWA763,2023-07-16,1,Riots,Mob violence,Rioters (eSwatini),Vigilante Group (eSwatini),Civilians (eSwatini),Private Security Forces (eSwatini),eSwatini,Shiselweni,Maseyisini,Mahamba,-27.1,31.0833,1,National,0,SWZ
+SWA764,2023-07-19,2,Strategic developments,Other,Government of eSwatini (1986-),,,,eSwatini,Hhohho,Mbabane East,Mbabane,-26.3167,31.1333,3,National,0,SWZ
+SWA765,2023-07-26,1,Protests,Peaceful protest,Protesters (eSwatini),Military Forces of eSwatini (1986-),,,eSwatini,Hhohho,Mbabane East,Mbabane,-26.3167,31.1333,1,National,0,SWZ
+SWA766,2023-07-29,2,Protests,Peaceful protest,Protesters (eSwatini),Health Workers (eSwatini); NAPSAWU: National Association of Public Service and Allied Workers Union,,,eSwatini,Hhohho,Piggs Peak,Piggs Peak,-25.9667,31.25,1,National,0,SWZ
+SWA767,2023-08-02,1,Protests,Peaceful protest,Protesters (eSwatini),,,,eSwatini,Hhohho,Mbabane East,Mbabane,-26.3167,31.1333,1,National,0,SWZ
+SWA768,2023-08-21,1,Protests,Peaceful protest,Protesters (eSwatini),Students (eSwatini),,,eSwatini,Hhohho,Mbabane East,Mbabane,-26.3167,31.1333,1,National,0,SWZ
+SWA769,2023-08-26,1,Protests,Peaceful protest,Protesters (eSwatini),,,,eSwatini,Shiselweni,Nkwene,Nkwene,-26.8567,31.3106,2,National,0,SWZ
+SWA771,2023-09-06,1,Riots,Mob violence,Rioters (eSwatini),Vigilante Group (eSwatini),Civilians (eSwatini),Labor Group (eSwatini),eSwatini,Hhohho,Piggs Peak,Piggs Peak,-25.9667,31.25,1,National,0,SWZ
+SWA772,2023-09-02,2,Riots,Mob violence,Rioters (eSwatini),Vigilante Group (eSwatini),Civilians (eSwatini),,eSwatini,Hhohho,Piggs Peak,Piggs Peak,-25.9667,31.25,2,National,0,SWZ
+SWA773,2023-09-09,2,Riots,Mob violence,Rioters (eSwatini),Vigilante Group (eSwatini),,,eSwatini,Hhohho,Mhlangatane,Mhlangatane,-25.9333,31.6333,1,National,0,SWZ
+SWA774,2023-09-22,1,Protests,Peaceful protest,Protesters (eSwatini),SWAYOCO: Swaziland Youth Congress,,,eSwatini,Hhohho,Mbabane East,Mbabane,-26.3167,31.1333,1,National,0,SWZ
+SWA775,2023-09-24,1,Violence against civilians,Attack,Military Forces of eSwatini (1986-),,Civilians (eSwatini),,eSwatini,Hhohho,Ntfonjeni,Ntfonjeni,-25.8395,31.3392,1,National,3,SWZ
+SWA776,2023-09-29,1,Violence against civilians,Attack,Police Forces of eSwatini (1986-) Prison Guards,,Civilians (eSwatini),Prisoners (eSwatini); Government of eSwatini (1986-),eSwatini,Hhohho,Mbabane East,Mbabane,-26.3167,31.1333,1,National,0,SWZ
+SWA778,2023-10-14,2,Riots,Mob violence,Rioters (eSwatini),Vigilante Group (eSwatini),Civilians (eSwatini),,eSwatini,Shiselweni,Hosea,Nsingizini,-27.1811,31.5797,2,National,2,SWZ
+SWA779,2023-10-14,2,Riots,Mob violence,Rioters (eSwatini),Vigilante Group (eSwatini),Civilians (eSwatini),,eSwatini,Hhohho,Piggs Peak,Nginamadvolo,-26.0223,31.294,2,National,1,SWZ
+SWA783,2023-11-15,1,Protests,Peaceful protest,Protesters (eSwatini),,,,eSwatini,Hhohho,Mbabane East,Mbabane,-26.3167,31.1333,1,National,0,SWZ
+SWA685,2023-02-28,1,Riots,Violent demonstration,Rioters (eSwatini),CPS: Communist Party of Swaziland,Police Forces of eSwatini (1986-),,eSwatini,Shiselweni,Hosea,Hluti,-27.2166,31.6166,2,National,0,SWZ
+SWA575,2023-01-25,1,Riots,Mob violence,Rioters (eSwatini),Vigilante Group (eSwatini),,,eSwatini,Shiselweni,Shiselweni II,Mkhitsini,-26.9092,31.2039,1,National,0,SWZ
+SWA576,2023-01-27,2,Riots,Mob violence,Rioters (eSwatini),Vigilante Group (eSwatini),,,eSwatini,Shiselweni,Shiselweni II,Mkhitsini,-26.9092,31.2039,1,National,0,SWZ
+SWA759,2023-06-24,1,Riots,Mob violence,Rioters (eSwatini),Vigilante Group (eSwatini),Civilians (eSwatini),,eSwatini,Manzini,Mafutseni,Ntabamhloshana,-26.5134,31.5303,1,National,1,SWZ
+SWA570,2023-01-13,1,Violence against civilians,Attack,Military Forces of eSwatini (1986-),,Civilians (eSwatini),,eSwatini,Manzini,Ludzeludze,Ekudzeni,-26.4054,31.2862,2,National,0,SWZ
+SWA565,2023-01-11,1,Riots,Mob violence,Rioters (eSwatini),Vigilante Group (eSwatini),Civilians (eSwatini),,eSwatini,Manzini,Manzini North,Matsapha,-26.5167,31.3167,1,National,1,SWZ
+SWA567,2023-01-07,1,Violence against civilians,Attack,Military Forces of eSwatini (1986-),,Civilians (eSwatini),SISF: Swaziland International Solidarity Forces,eSwatini,Manzini,Manzini North,Matsapha,-26.5167,31.3167,1,National,1,SWZ
+SWA568,2023-01-09,1,Violence against civilians,Attack,Unidentified Armed Group (eSwatini),,Civilians (eSwatini),PUDEMO: People's United Democratic Movement; Women (eSwatini),eSwatini,Manzini,Manzini North,Matsapha,-26.5167,31.3167,1,National,0,SWZ
+SWA745,2023-04-25,2,Protests,Peaceful protest,Protesters (eSwatini),Labor Group (eSwatini),,,eSwatini,Manzini,Manzini North,Matsapha,-26.5167,31.3167,1,National,0,SWZ
+SWA777,2023-09-29,1,Strategic developments,Other,Government of eSwatini (1986-),,,,eSwatini,Hhohho,Mbabane East,Mbabane,-26.3167,31.1333,3,Other-National,0,SWZ
+SWA579,2023-01-21,1,Violence against civilians,Attack,Unidentified Armed Group (eSwatini),,Civilians (eSwatini),Lawyers (eSwatini),eSwatini,Manzini,Mhlambanyatsi,Bhunya,-26.5403,31.0113,2,Other-National,1,SWZ
+SWA582,2023-01-15,3,Riots,Mob violence,Rioters (eSwatini),Vigilante Group (eSwatini),Civilians (eSwatini),,eSwatini,Manzini,Mafutseni,Ngculwini,-26.547,31.4825,2,National,1,SWZ
+SWA578,2023-01-27,1,Protests,Excessive force against protesters,Protesters (eSwatini),CPS: Communist Party of Swaziland; EFFSWA: Economic Freedom Fighters of Swaziland; Labor Group (eSwatini); PUDEMO: People's United Democratic Movement; SRWA: Swaziland Rural Womens Association; SWALIMO: Swaziland Liberation Movement; SWAYOCO: Swaziland Youth Congress; TUCOSWA: Trade Union Congress of Swaziland; Women (eSwatini),Police Forces of eSwatini (1986-),,eSwatini,Manzini,Manzini North,Kwaluseni,-26.4833,31.3333,1,National,0,SWZ
+SWA691,2023-03-22,1,Protests,Peaceful protest,Protesters (eSwatini),Teachers (eSwatini),,,eSwatini,Manzini,Manzini North,Kwaluseni,-26.4833,31.3333,1,National,0,SWZ
+SWA751,2023-05-31,1,Strategic developments,Arrests,Police Forces of eSwatini (1986-),,SISF: Swaziland International Solidarity Forces,,eSwatini,Manzini,Manzini North,Kwaluseni,-26.4833,31.3333,3,National,0,SWZ
+SWA780,2023-11-08,2,Violence against civilians,Attack,Police Forces of eSwatini (1986-),,Civilians (eSwatini),Prisoners (eSwatini); Women (eSwatini),eSwatini,Manzini,Manzini North,Kwaluseni,-26.4833,31.3333,1,National,0,SWZ
+SWA781,2023-11-12,1,Riots,Mob violence,Rioters (eSwatini),Christian Group (eSwatini); Vigilante Group (eSwatini),Civilians (eSwatini),,eSwatini,Manzini,Manzini North,Kwaluseni,-26.4833,31.3333,1,National,1,SWZ
+SWA782,2023-11-20,1,Riots,Mob violence,Rioters (eSwatini),Vigilante Group (eSwatini),Civilians (eSwatini),,eSwatini,Manzini,Manzini North,Kwaluseni,-26.4833,31.3333,2,National,1,SWZ
+SWA770,2023-08-30,1,Protests,Protest with intervention,Protesters (eSwatini),Health Workers (eSwatini); SWADNU: Swaziland Democratic Nurses Union,Police Forces of eSwatini (1986-),,eSwatini,Manzini,Manzini North,Kwaluseni,-26.4833,31.3333,1,National,0,SWZ

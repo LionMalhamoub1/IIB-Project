@@ -1,0 +1,18 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+FJI17,2021-12-10,1,Protests,Peaceful protest,Protesters (Fiji),Women (Fiji),,,Fiji,Central,Rewa,Suva,-18.1277,178.4487,1,Other-National,0,FJI
+FJI5,2021-07-30,1,Riots,Violent demonstration,Rioters (Fiji),,,,Fiji,Western,Ba,Ba,-17.5511,177.6819,1,International,0,FJI
+FJI9,2021-06-12,1,Protests,Peaceful protest,Protesters (Fiji),,,,Fiji,Western,Ba,Nawaka,-17.8011,177.4332,1,National,0,FJI
+FJI7,2021-08-08,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Fiji),,Civilians (Fiji),Muslim Group (Fiji),Fiji,Western,Ba,Ba,-17.5511,177.6819,1,National,0,FJI
+FJI12,2021-06-08,1,Protests,Peaceful protest,Protesters (Fiji),,,,Fiji,Central,Rewa,Muanikoso,-18.0839,178.5017,1,National,0,FJI
+FJI6,2021-07-30,1,Riots,Violent demonstration,Rioters (Fiji),,,,Fiji,Central,Rewa,Suva,-18.1277,178.4487,1,International,0,FJI
+FJI10,2021-06-14,1,Protests,Protest with intervention,Protesters (Fiji),,Police Forces of Fiji (2015-2022),,Fiji,Western,Nadroga-Navosa,Namatakula,-18.229,177.7837,1,National,0,FJI
+FJI11,2021-06-14,1,Protests,Peaceful protest,Protesters (Fiji),Government of Fiji (2015-2022); SODELPA: Social Democratic Liberal Party,,,Fiji,Western,Nadroga-Navosa,Votualailai,-18.2035,177.6917,1,National,0,FJI
+FJI13,2021-04-10,1,Protests,Protest with intervention,Protesters (Fiji),,Police Forces of Fiji (2015-2022),,Fiji,Central,Rewa,Lami,-18.1127,178.407,1,National,0,FJI
+FJI14,2021-11-06,1,Protests,Protest with intervention,Protesters (Fiji),Catholic Christian Group (Fiji),Police Forces of Fiji (2015-2022),,Fiji,Central,Rewa,Suva,-18.1277,178.4487,1,Regional-International,0,FJI
+FJI15,2021-06-22,1,Protests,Protest with intervention,Protesters (Fiji),Labor Group (Fiji),Police Forces of Fiji (2015-2022),,Fiji,Western,Ba,Lautoka,-17.6152,177.4504,1,National,0,FJI
+FJI3,2021-07-25,1,Strategic developments,Arrests,Police Forces of Fiji (2015-2022),,Civilians (Fiji),FLP: Fiji Labour Party; Former Government of Fiji (2015-2022); Government of Fiji (2015-2022); NFP: National Federation Party; SODELPA: Social Democratic Liberal Party; UFP: Unity Fiji Party,Fiji,Central,Rewa,Suva,-18.1277,178.4487,3,National-International,0,FJI
+FJI4,2021-07-30,1,Strategic developments,Change to group/activity,Police Forces of Fiji (2015-2022),,,,Fiji,Central,Rewa,Suva,-18.1277,178.4487,3,International,0,FJI
+FJI8,2021-10-22,1,Strategic developments,Other,Government of Fiji (2015-2022),FijiFirst,,,Fiji,Central,Rewa,Suva,-18.1277,178.4487,1,National,0,FJI
+FJI1,2021-07-07,1,Protests,Protest with intervention,Protesters (Fiji),,Police Forces of Fiji (2015-2022),Military Forces of Fiji (2015-2022),Fiji,Central,Rewa,Lami,-18.1127,178.407,1,National,0,FJI
+FJI16,2021-12-02,1,Protests,Protest with intervention,Protesters (Fiji),,Police Forces of Fiji (2015-2022),,Fiji,Central,Rewa,Suva,-18.1277,178.4487,1,National,0,FJI
+FJI2,2021-07-24,1,Riots,Mob violence,Rioters (Fiji),,,,Fiji,Northern,Cakaudrove,Somosomo,-16.777,-179.9726,1,National-Regional,0,FJI

@@ -1,0 +1,32 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+UZB1027,2025-01-03,1,Riots,Mob violence,Rioters (Uzbekistan),,,,Uzbekistan,Republic of Karakalpakstan,Nukus,Nukus,42.4589,59.607,1,National,1,UZB
+UZB1028,2025-01-04,1,Riots,Mob violence,Rioters (Uzbekistan),,Civilians (Uzbekistan),,Uzbekistan,Tashkent,Yangiyol,Toshloq,41.1341,69.2012,2,National,0,UZB
+UZB1029,2025-01-06,1,Protests,Peaceful protest,Protesters (Uzbekistan),Labor Group (Uzbekistan),,,Uzbekistan,Tashkent,Piskent,Pskent,40.8979,69.3519,2,International,0,UZB
+UZB1030,2025-01-06,2,Protests,Peaceful protest,Protesters (Uzbekistan),,,,Uzbekistan,Sirdaryo,Akaltyn,Sardoba,40.5435,68.4115,2,New media,0,UZB
+UZB1045,2025-01-15,1,Protests,Peaceful protest,Protesters (Uzbekistan),,,,Uzbekistan,Fergana,Uchkuprik,Uchkuprik,40.5461,71.0551,2,New media,0,UZB
+UZB1046,2025-01-15,1,Protests,Peaceful protest,Protesters (Uzbekistan),,,,Uzbekistan,Tashkent City,Yakkasaray,Yakkasaray,41.2854,69.2536,1,National,0,UZB
+UZB1047,2025-01-21,1,Protests,Peaceful protest,Protesters (Uzbekistan),Labor Group (Uzbekistan),,,Uzbekistan,Surkhandarya,Denov,Denov,38.2732,67.8986,1,National,0,UZB
+UZB1048,2025-01-21,1,Protests,Peaceful protest,Protesters (Uzbekistan),,,,Uzbekistan,Fergana,Fergana,Fergana,40.3775,71.7912,2,New media,0,UZB
+UZB1049,2025-01-24,1,Protests,Peaceful protest,Protesters (Uzbekistan),,,,Uzbekistan,Tashkent City,Almazar,Almazar,41.3497,69.2271,1,National,0,UZB
+UZB1050,2025-01-25,1,Protests,Peaceful protest,Protesters (Uzbekistan),,,,Uzbekistan,Tashkent City,Yashnobod,Yashnobod,41.2844,69.3276,1,New media,0,UZB
+UZB1051,2025-01-30,1,Protests,Peaceful protest,Protesters (Uzbekistan),Labor Group (Uzbekistan),,,Uzbekistan,Fergana,Bagdad,Bagdad,40.461,71.2113,1,New media,0,UZB
+UZB1052,2025-01-18,1,Violence against civilians,Attack,Unidentified Armed Group (Uzbekistan),Judges (Uzbekistan),Civilians (Uzbekistan),Labor Group (Uzbekistan),Uzbekistan,Namangan,Chust,Chust,40.998,71.2319,1,National,0,UZB
+UZB1054,2025-02-08,1,Protests,Peaceful protest,Protesters (Uzbekistan),,,,Uzbekistan,Tashkent City,Shaykhantokhur,Labzak,41.3271,69.2598,1,National,0,UZB
+UZB1055,2025-02-09,1,Protests,Peaceful protest,Protesters (Uzbekistan),,,,Uzbekistan,Tashkent City,Mirzo-Ulugbek,Karasu-4,41.3314,69.3721,1,New media,0,UZB
+UZB1056,2025-02-10,1,Protests,Peaceful protest,Protesters (Uzbekistan),,,,Uzbekistan,Tashkent City,Mirzo-Ulugbek,Feruza,41.3552,69.3655,1,New media,0,UZB
+UZB1057,2025-02-12,1,Protests,Peaceful protest,Protesters (Uzbekistan),,,,Uzbekistan,Tashkent City,,Tashkent,41.3167,69.25,1,New media,0,UZB
+UZB1058,2025-02-15,1,Violence against civilians,Attack,Police Forces of Uzbekistan (2016-) Prison Guards,,Civilians (Uzbekistan),Prisoners (Uzbekistan),Uzbekistan,Tashkent City,Olmaliq,Olmaliq,40.8633,69.5944,1,National,1,UZB
+UZB1059,2025-02-15,1,Protests,Peaceful protest,Protesters (Uzbekistan),,,,Uzbekistan,Tashkent City,,Tashkent,41.3167,69.25,1,New media,0,UZB
+UZB1060,2025-02-17,1,Riots,Mob violence,Rioters (Uzbekistan),Government of Uzbekistan (2016-),Civilians (Uzbekistan),Women (Uzbekistan),Uzbekistan,Tashkent City,Mirabad,Mirabad,41.2729,69.2944,1,New media,0,UZB
+UZB1061,2025-02-19,2,Protests,Peaceful protest,Protesters (Uzbekistan),,,,Uzbekistan,Tashkent City,,Tashkent,41.3167,69.25,1,New media,0,UZB
+UZB1062,2025-02-20,2,Violence against civilians,Sexual violence,Police Forces of Uzbekistan (2016-),,Civilians (Uzbekistan),Women (Uzbekistan),Uzbekistan,Tashkent City,,Tashkent,41.3167,69.25,1,International,0,UZB
+UZB1063,2025-02-25,1,Violence against civilians,Attack,Police Forces of Uzbekistan (2016-),,Civilians (Uzbekistan),Prisoners (Uzbekistan),Uzbekistan,Surkhandarya,Uzun,Uzun,38.3648,68.0052,1,National,1,UZB
+UZB1064,2025-03-02,1,Protests,Protest with intervention,Protesters (Uzbekistan),,Police Forces of Uzbekistan (2016-),,Uzbekistan,Tashkent City,Uchtepa,Uchtepa,41.2962,69.1755,1,New media,0,UZB
+UZB1065,2025-03-03,2,Protests,Peaceful protest,Protesters (Uzbekistan),Women (Uzbekistan),,,Uzbekistan,Tashkent City,Uchtepa,Uchtepa,41.2962,69.1755,1,New media,0,UZB
+UZB1066,2025-03-04,1,Protests,Peaceful protest,Protesters (Uzbekistan),,,,Uzbekistan,Tashkent City,Yakkasaray,Yakkasaray,41.2854,69.2536,1,New media,0,UZB
+UZB1067,2025-03-04,2,Protests,Peaceful protest,Protesters (Uzbekistan),,,,Uzbekistan,Tashkent,Chinaz,Chinoz,40.9385,68.7629,2,International,0,UZB
+UZB1068,2025-03-10,1,Protests,Peaceful protest,Protesters (Uzbekistan),,,,Uzbekistan,Tashkent City,Yakkasaray,Yakkasaray,41.2854,69.2536,1,New media,0,UZB
+UZB1069,2025-03-14,1,Protests,Peaceful protest,Protesters (Uzbekistan),,,,Uzbekistan,Tashkent City,Mirabad,Mirabad,41.2729,69.2944,1,New media,0,UZB
+UZB1070,2025-03-11,1,Violence against civilians,Attack,Police Forces of Uzbekistan (2016-),,Civilians (Uzbekistan),Women (Uzbekistan),Uzbekistan,Tashkent City,Mirabad,Mirabad,41.2729,69.2944,1,National,0,UZB
+UZB1115,2025-01-14,1,Riots,Mob violence,Rioters (Uzbekistan),Labor Group (Uzbekistan),Civilians (Uzbekistan),,Uzbekistan,Samarkand,Pakhtachi,Ziyodin,40.0282,65.6663,2,National,0,UZB
+UZB1167,2025-01-24,3,Violence against civilians,Attack,Police Forces of Uzbekistan (2016-) National Security Service,,Civilians (Uzbekistan),Prisoners (Uzbekistan),Uzbekistan,Tashkent City,,Tashkent,41.3167,69.25,2,International,0,UZB

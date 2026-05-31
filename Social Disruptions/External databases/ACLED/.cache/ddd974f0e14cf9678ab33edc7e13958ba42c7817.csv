@@ -1,0 +1,11 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities
+GAM279,2022-03-19,1,Riots,Mob violence,Rioters (Gambia),,Police Forces of Gambia (2017-),,Gambia,Basse,Basse Fulladu East,Basse,13.3167,-14.2167,1,National,0
+GAM284,2022-10-06,1,Riots,Mob violence,Rioters (Gambia),Vigilante Group (Gambia),Civilians (Gambia),,Gambia,Banjul,Banjul Central,Banjul,13.4531,-16.5775,2,National,0
+GAM287,2022-12-26,1,Protests,Protest with intervention,Protesters (Gambia),,Police Forces of Gambia (2017-),,Gambia,Banjul,Banjul Central,Banjul,13.4531,-16.5775,3,National,0
+GAM285,2022-08-06,1,Violence against civilians,Attack,Police Forces of Gambia (2017-) Prison Guards,,Civilians (Gambia),Prisoners (Gambia),Gambia,Brikama,Kombo North,Sukuta,13.4147,-16.7076,1,National,1
+GAM281,2022-05-18,1,Explosions/Remote violence,Air/drone strike,Military Forces of Senegal (2012-2024),,Civilians (Gambia),,Gambia,Brikama,Foni Bintang Karanai,Foni,13.25,-16.3333,2,International,0
+GAM282,2022-05-18,2,Strategic developments,Other,Military Forces of Senegal (2012-2024),,Civilians (Gambia),,Gambia,Brikama,Foni Bintang Karanai,Foni,13.25,-16.3333,1,National,0
+GAM283,2022-03-13,1,Battles,Armed clash,Military Forces of Senegal (2012-2024),,MFDC: Movement of Democratic Forces of Casamance,,Gambia,Brikama,Foni Bintang Karanai,Foni,13.25,-16.3333,2,National,0
+GAM280,2022-03-21,2,Strategic developments,Other,Civilians (Gambia),Civilians (Senegal); Refugees/IDPs (Gambia); Refugees/IDPs (Senegal),,,Gambia,Brikama,Foni Bintang Karanai,Foni,13.25,-16.3333,2,Other-National,0
+GAM286,2022-12-01,1,Riots,Violent demonstration,Rioters (Gambia),,Police Forces of Gambia (2017-),,Gambia,Kanifing,Kanifing,Bakau,13.478,-16.6819,1,Other-National,0
+GAM278,2022-01-24,1,Battles,Armed clash,MFDC: Movement of Democratic Forces of Casamance,,ECOMIG: Economic Community of West African States Mission in Gambia (2017-),,Gambia,Brikama,Foni Kansala,Bwiam,13.23,-16.0824,2,Other-National,3

@@ -1,0 +1,11 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+GAM288,2023-01-16,1,Battles,Armed clash,Unidentified Armed Group (Gambia),,Unidentified Armed Group (Gambia),,Gambia,Brikama,Foni Bintang Karanai,Djifanga,13.1706,-16.1922,2,National,0,GMB
+GAM289,2023-02-12,1,Battles,Armed clash,Unidentified Armed Group (Gambia),,Police Forces of Gambia (2017-),,Gambia,Kerewan,Lower Niumi,Fass,13.563,-16.4283,1,National,0,GMB
+GAM290,2023-03-10,1,Protests,Peaceful protest,Protesters (Gambia),UDP: United Democratic Party (Gambia),,,Gambia,Banjul,Banjul Central,Banjul,13.4531,-16.5775,1,Subnational,0,GMB
+GAM291,2023-03-11,2,Riots,Mob violence,Rioters (Gambia),Vigilante Group (Gambia),Civilians (Gambia),,Gambia,Kanifing,Kanifing,Serrekunda,13.4383,-16.6781,1,National,0,GMB
+GAM292,2023-04-26,1,Riots,Mob violence,Rioters (Gambia),,Civilians (Gambia),NPP: National People's Party (Gambia),Gambia,Kanifing,Kanifing,Bakau,13.478,-16.6819,1,National,0,GMB
+GAM294,2023-05-09,2,Strategic developments,Other,Civilians (Gambia),Refugees/IDPs (Gambia),,,Gambia,Brikama,Foni Bintang Karanai,Kabokorr,13.2071,-16.2521,2,National,0,GMB
+GAM295,2023-05-26,1,Riots,Mob violence,Rioters (Gambia),,Civilians (Gambia),,Gambia,Banjul,Banjul Central,Banjul,13.4531,-16.5775,1,National,2,GMB
+GAM296,2023-07-18,1,Strategic developments,Arrests,Military Forces of Gambia (2017-),,Civilians (Gambia),,Gambia,Brikama,Kombo North,Brufut,13.3842,-16.7514,2,National,0,GMB
+GAM297,2023-10-09,1,Strategic developments,Arrests,Police Forces of Gambia (2017-),,Civilians (Gambia),,Gambia,Banjul,Banjul Central,Banjul,13.4531,-16.5775,1,Subnational,0,GMB
+GAM293,2023-05-09,2,Battles,Armed clash,Military Forces of Senegal (2012-2024),,MFDC: Movement of Democratic Forces of Casamance,,Gambia,Brikama,Foni Bintang Karanai,Kabokorr,13.2071,-16.2521,2,National,0,GMB

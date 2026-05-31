@@ -1,0 +1,231 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities
+SRB38,2018-04-13,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,Nisava,Nis-Medijana,Nis,43.3234,21.9018,1,National,0
+SRB202,2018-11-07,2,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Sumadija,Arandelovac,Arandelovac,44.3076,20.5611,1,National,0
+SRB145,2018-07-11,2,Strategic developments,Looting/property destruction,Albanian Ethnic Militia (Serbia),,Civilians (Serbia),Serbian Ethnic Group (Serbia),Serbia,Toplica,Kursumlija,Kursumlija,43.139,21.2735,2,National-International,0
+SRB51,2018-04-25,2,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,Sumadija,Kragujevac,Kragujevac,44.0109,20.909,1,International,0
+SRB226,2018-12-27,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Serbia),,Civilians (Serbia),,Serbia,Belgrade,Zemun,Belgrade - Zemun,44.8483,20.3624,1,International,1
+SRB188,2018-10-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Serbia),,Civilians (Serbia),,Serbia,Belgrade,Vozdovac,Belgrade - Vozdovac,44.7761,20.4776,1,International,0
+SRB185,2018-10-07,1,Violence against civilians,Attack,Unidentified Armed Group (Serbia),,Civilians (Kosovo),Albanian Ethnic Group (Serbia),Serbia,South Backa,Novi Sad,Novi Sad,45.2593,19.8291,1,International,0
+SRB182,2018-10-05,1,Protests,Peaceful protest,Protesters (Serbia),Women in Black; Women (Serbia),,,Serbia,Belgrade,Savski Venac,Belgrade - Savski Venac,44.7821,20.4517,1,International,0
+SRB183,2018-10-05,1,Protests,Peaceful protest,Protesters (Serbia),Justice for David,,,Serbia,Belgrade,Stari Grad,Belgrade - Stari Grad,44.823,20.4605,1,International,0
+SRB133,2018-06-19,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Serbia),,Civilians (Serbia),,Serbia,Belgrade,Vozdovac,Belgrade - Vozdovac,44.7761,20.4776,1,National,1
+SRB125,2018-06-13,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Srem,Indija,Indija,45.0481,20.0816,1,National,0
+SRB126,2018-06-13,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Sumadija,Kragujevac,Kragujevac,44.0109,20.909,1,National,0
+SRB127,2018-06-13,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,Mladenovac,Mladenovac,44.4363,20.6918,1,National,0
+SRB128,2018-06-13,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Nisava,Nis-Medijana,Nis,43.3234,21.9018,1,National,0
+SRB129,2018-06-13,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,South Backa,Novi Sad,Novi Sad,45.2593,19.8291,1,National,0
+SRB130,2018-06-13,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Srem,Sid,Sid,45.1275,19.2266,1,National,0
+SRB124,2018-06-13,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB121,2018-06-12,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Sumadija,Kragujevac,Kragujevac,44.0109,20.909,1,National,0
+SRB123,2018-06-12,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Srem,Sid,Sid,45.1275,19.2266,1,International,0
+SRB116,2018-06-11,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Sumadija,Kragujevac,Kragujevac,44.0109,20.909,1,National,0
+SRB119,2018-06-11,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,South Backa,Novi Sad,Novi Sad,45.2593,19.8291,1,International,0
+SRB118,2018-06-11,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Nisava,Nis-Medijana,Nis,43.3234,21.9018,1,National,0
+SRB112,2018-06-10,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Sumadija,Kragujevac,Kragujevac,44.0109,20.909,1,National,0
+SRB113,2018-06-10,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,South Backa,Novi Sad,Novi Sad,45.2593,19.8291,2,National,0
+SRB114,2018-06-10,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Nisava,Nis-Niska Banja,Prosek,43.3201,22.0539,1,National,0
+SRB115,2018-06-10,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Macva,Sabac,Sabac,44.7538,19.6876,1,National,0
+SRB111,2018-06-10,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB106,2018-06-09,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Jablanica,Leskovac,Leskovac,42.9976,21.9445,1,National,0
+SRB108,2018-06-09,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Raska,Novi Pazar,Novi Pazar,43.1375,20.5149,1,National,0
+SRB109,2018-06-09,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Nisava,Nis-Niska Banja,Prosek,43.3201,22.0539,1,National,0
+SRB110,2018-06-09,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Srem,Sremska Mitrovica,Sremska Mitrovica,44.9764,19.6122,1,National,0
+SRB105,2018-06-09,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Moravica,Gornji Milanovac,Gornji Milanovac,44.0245,20.4586,1,International,0
+SRB103,2018-06-09,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB85,2018-06-08,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Sumadija,Batocina,Batocina,44.1547,21.0799,1,National,0
+SRB87,2018-06-08,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Bor,Bor,Bor,44.0819,22.0967,1,National,0
+SRB89,2018-06-08,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Sumadija,Kragujevac,Kragujevac,44.0109,20.909,1,National,0
+SRB91,2018-06-08,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Rasina,Krusevac,Krusevac,43.5811,21.3352,1,National,0
+SRB92,2018-06-08,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Jablanica,Leskovac,Leskovac,42.9976,21.9445,1,National,0
+SRB93,2018-06-08,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Nisava,Nis-Medijana,Nis,43.3234,21.9018,1,National,0
+SRB94,2018-06-08,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Raska,Novi Pazar,Novi Pazar,43.1375,20.5149,1,National,0
+SRB95,2018-06-08,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,South Backa,Novi Sad,Novi Sad,45.2593,19.8291,1,National,0
+SRB96,2018-06-08,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,South Banat,Pancevo,Pancevo,44.8713,20.6443,1,National,0
+SRB98,2018-06-08,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Macva,Sabac,Sabac,44.7538,19.6876,1,National,0
+SRB99,2018-06-08,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Podunavlje,Smederevo,Smederevo,44.6516,20.9258,1,National,0
+SRB101,2018-06-08,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Kolubara,Valjevo,Valjevo,44.272,19.8874,1,National,0
+SRB102,2018-06-08,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Zajecar,Zajecar,Zajecar,43.9019,22.2755,1,National,0
+SRB88,2018-06-08,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Moravica,Cacak,Cacak,43.888,20.344,1,International,0
+SRB90,2018-06-08,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Raska,Kraljevo,Kraljevo,43.7259,20.6896,1,International,0
+SRB84,2018-06-08,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,South Backa,Backa Palanka,Backa Palanka,45.2518,19.3916,1,International,0
+SRB83,2018-06-08,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Sumadija,Arandelovac,Arandelovac,44.3076,20.5611,1,International,0
+SRB97,2018-06-08,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Toplica,Prokuplje,Prokuplje,43.2383,21.5932,1,International,0
+SRB100,2018-06-08,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,North Backa,Subotica,Subotica,46.101,19.6682,1,International,0
+SRB86,2018-06-08,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB16,2018-02-22,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB4,2018-01-26,1,Riots,Violent demonstration,Rioters (Serbia),,Police Forces of Serbia (2017-),,Serbia,Bor,Bor,Bor,44.0819,22.0967,1,National-International,0
+SRB227,2018-12-28,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Raska,Kraljevo,Kraljevo,43.7259,20.6896,1,National,0
+SRB228,2018-12-28,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Toplica,Kursumlija,Kursumlija,43.139,21.2735,1,International,0
+SRB229,2018-12-28,1,Protests,Peaceful protest,Protesters (Serbia),Students (Serbia),,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National-International,0
+SRB230,2018-12-28,1,Protests,Peaceful protest,Protesters (Serbia),Teachers (Serbia),,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,International,0
+SRB225,2018-12-26,1,Protests,Peaceful protest,Protesters (Serbia),Justice for David,,,Serbia,Central Banat,Zrenjanin,Zrenjanin,45.3818,20.3954,1,International,0
+SRB224,2018-12-26,1,Protests,Peaceful protest,Protesters (Serbia),Justice for David,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB223,2018-12-23,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Nisava,Nis-Palilula,Donje Medjurovo,43.2973,21.8232,1,International,0
+SRB221,2018-12-15,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB220,2018-12-15,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,International,0
+SRB218,2018-12-11,1,Protests,Peaceful protest,Protesters (Serbia),Teachers (Serbia); Labor Group (Serbia),,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB217,2018-12-10,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,International,0
+SRB216,2018-12-09,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Podunavlje,Smederevo,Smederevo,44.6516,20.9258,1,National,0
+SRB213,2018-12-06,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB212,2018-11-30,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Rasina,Krusevac,Krusevac,43.5811,21.3352,1,International,0
+SRB211,2018-11-28,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Zlatibor,Prijepolje,Prijepolje,43.3903,19.6506,1,National,0
+SRB209,2018-11-27,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Sumadija,Arandelovac,Arandelovac,44.3076,20.5611,1,National,0
+SRB210,2018-11-27,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB208,2018-11-23,1,Violence against civilians,Attack,Unidentified Armed Group (Serbia),,Civilians (Serbia),Serbian Left,Serbia,Rasina,Krusevac,Krusevac,43.5811,21.3352,1,National,0
+SRB207,2018-11-18,1,Protests,Peaceful protest,Protesters (Serbia),Women in Black; Women (Serbia),,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,International,0
+SRB206,2018-11-15,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Serbia),,,,Serbia,Belgrade,Zemun,Belgrade - Zemun,44.8483,20.3624,1,National,0
+SRB205,2018-11-14,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Pirot,Babusnica,Rakita,42.9136,22.5584,1,National,0
+SRB204,2018-11-13,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Sumadija,Arandelovac,Arandelovac,44.3076,20.5611,1,National,0
+SRB203,2018-11-12,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Sumadija,Arandelovac,Arandelovac,44.3076,20.5611,1,National,0
+SRB201,2018-11-04,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,South Backa,Novi Sad,Novi Sad,45.2593,19.8291,1,National,0
+SRB198,2018-11-01,1,Protests,Peaceful protest,Protesters (Serbia),YIHR: Youth Initiative for Human Rights,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,International,0
+SRB197,2018-10-30,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB195,2018-10-27,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Nisava,Nis-Medijana,Nis,43.3234,21.9018,1,National,0
+SRB191,2018-10-22,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB190,2018-10-19,1,Protests,Peaceful protest,Protesters (Serbia),Gradjanski Blok 381,,,Serbia,Belgrade,Stari Grad,Belgrade - Stari Grad,44.823,20.4605,1,National,0
+SRB189,2018-10-16,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,Moravica,Lucani,Lucani,43.8608,20.138,1,National,0
+SRB187,2018-10-11,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Nisava,Nis-Medijana,Nis,43.3234,21.9018,1,National,0
+SRB186,2018-10-11,1,Protests,Peaceful protest,Protesters (Serbia),PS: Movement of Socialists; Women (Serbia),,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB184,2018-10-05,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Zlatibor,Pozega,Pozega,43.8458,20.0367,1,International,0
+SRB181,2018-10-05,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,Novi Beograd,Belgrade - Novi Beograd,44.808,20.3874,1,National,0
+SRB177,2018-10-03,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,North Backa,Subotica,Kelebija,46.1523,19.5776,1,National,0
+SRB178,2018-10-03,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,Pcinja,Presevo,Presevo,42.3171,21.6675,1,National,0
+SRB179,2018-10-03,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,Srem,Sid,Sid,45.1275,19.2266,1,National,0
+SRB180,2018-10-03,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,South Banat,Vrsac,Vatin,45.2327,21.2439,1,National,0
+SRB176,2018-09-25,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,Sumadija,Kragujevac,Kragujevac,44.0109,20.909,1,National,0
+SRB175,2018-09-25,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia); Women (Serbia),,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB174,2018-09-22,1,Violence against civilians,Attack,Unidentified Armed Group (Serbia),,Civilians (Serbia),SNS: Serbian Progressive Party,Serbia,Macva,Sabac,Sabac,44.7538,19.6876,1,National,0
+SRB173,2018-09-21,1,Protests,Peaceful protest,Protesters (Serbia),Women in Black; Women (Serbia),,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB172,2018-09-18,1,Protests,Peaceful protest,Protesters (Serbia),Students (Serbia),,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB171,2018-09-17,1,Protests,Peaceful protest,Protesters (Serbia),LGBTQ+ (Serbia),,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,International,0
+SRB169,2018-09-13,1,Protests,Peaceful protest,Protesters (Serbia),Lawyers (Serbia),,,Serbia,Pomoravlje,Jagodina,Jagodina,43.9791,21.2583,1,National,0
+SRB167,2018-09-10,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,Sumadija,Kragujevac,Kragujevac,44.0109,20.909,1,National,0
+SRB166,2018-09-06,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,Palilula,Belgrade - Palilula,44.8103,20.4744,1,International,0
+SRB165,2018-09-04,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Pirot,Pirot,Pirot,43.1617,22.5871,1,National,0
+SRB164,2018-09-04,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,Vozdovac,Belgrade - Vozdovac,44.7761,20.4776,1,National,0
+SRB163,2018-09-03,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Pirot,Pirot,Pirot,43.1617,22.5871,1,National,0
+SRB162,2018-09-02,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Pirot,Pirot,Pirot,43.1617,22.5871,1,National,0
+SRB161,2018-09-01,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Serbia),,,,Serbia,Belgrade,Vozdovac,Belgrade - Vozdovac,44.7761,20.4776,1,National,0
+SRB160,2018-08-31,1,Protests,Peaceful protest,Protesters (Serbia),Teachers (Serbia),,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB159,2018-08-27,1,Protests,Peaceful protest,Protesters (Serbia),Farmers (Serbia),,,Serbia,Branicevo,Pozarevac,Pozarevac,44.6222,21.1826,1,National,0
+SRB158,2018-08-15,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Macva,Loznica,Loznica,44.5311,19.2426,1,National,0
+SRB157,2018-08-11,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Serbia),,Civilians (Spain),,Serbia,Belgrade,Zemun,Belgrade - Zemun,44.8483,20.3624,1,National,0
+SRB156,2018-08-05,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,Novi Beograd,Belgrade - Novi Beograd,44.808,20.3874,1,National,0
+SRB154,2018-08-03,1,Protests,Peaceful protest,Protesters (Serbia),PSG: Movement of Free Citizens,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,International,0
+SRB153,2018-07-28,1,Violence against civilians,Attack,Unidentified Armed Group (Serbia),,Civilians (Serbia),Lawyers (Serbia),Serbia,Belgrade,Novi Beograd,Belgrade - Novi Beograd,44.808,20.3874,1,International,1
+SRB152,2018-07-27,1,Protests,Peaceful protest,Protesters (Serbia),PSG: Movement of Free Citizens,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,International,0
+SRB151,2018-07-24,1,Protests,Protest with intervention,Protesters (Serbia),,Police Forces of Serbia (2017-),,Serbia,Belgrade,Vozdovac,Belgrade - Vozdovac,44.7761,20.4776,1,National,0
+SRB148,2018-07-21,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,Vozdovac,Belgrade - Vozdovac,44.7761,20.4776,1,National,0
+SRB147,2018-07-14,1,Protests,Peaceful protest,Protesters (Serbia),Teachers (Serbia),,,Serbia,Belgrade,Mladenovac,Mladenovac,44.4363,20.6918,1,National,0
+SRB146,2018-07-14,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,Vracar,Belgrade - Vracar,44.7981,20.4772,1,National,0
+SRB144,2018-07-11,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,Vozdovac,Belgrade - Vozdovac,44.7761,20.4776,1,International,0
+SRB143,2018-07-10,1,Violence against civilians,Attack,Unidentified Armed Group (Serbia),,Civilians (Serbia),Journalists (Serbia),Serbia,South Banat,Bela Crkva,Bela Crkva,44.9097,21.3519,1,National,0
+SRB142,2018-07-09,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,Sumadija,Kragujevac,Kragujevac,44.0109,20.909,1,International,0
+SRB141,2018-06-30,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,Vozdovac,Belgrade - Vozdovac,44.7761,20.4776,1,National,0
+SRB140,2018-06-28,1,Protests,Peaceful protest,Protesters (Serbia),Former Military Forces of Serbia (2017-),,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB139,2018-06-27,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,Sumadija,Kragujevac,Kragujevac,44.0109,20.909,1,International,0
+SRB136,2018-06-22,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Nisava,Nis-Medijana,Nis,43.3234,21.9018,1,National,0
+SRB135,2018-06-21,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,Vozdovac,Belgrade - Vozdovac,44.7761,20.4776,1,National,0
+SRB132,2018-06-15,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,Lazarevac,Lazarevac,44.3805,20.2587,1,International,0
+SRB131,2018-06-14,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,Lazarevac,Lazarevac,44.3805,20.2587,1,International,0
+SRB120,2018-06-12,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB107,2018-06-09,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Nisava,Nis-Medijana,Nis,43.3234,21.9018,1,International,0
+SRB104,2018-06-09,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,Vozdovac,Belgrade - Vozdovac,44.7761,20.4776,1,International,0
+SRB82,2018-06-06,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB81,2018-06-05,1,Protests,Peaceful protest,Protesters (Serbia),Farmers (Serbia),,,Serbia,Zlatibor,Prijepolje,Prijepolje,43.3903,19.6506,1,National,0
+SRB80,2018-06-04,1,Protests,Peaceful protest,Protesters (Serbia),Farmers (Serbia),,,Serbia,Zlatibor,Prijepolje,Prijepolje,43.3903,19.6506,1,National,0
+SRB79,2018-06-03,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,Zlatibor,Prijepolje,Prijepolje,43.3903,19.6506,1,National,0
+SRB78,2018-06-02,1,Riots,Violent demonstration,Rioters (Serbia),Labor Group (Serbia),Police Forces of Serbia (2017-),,Serbia,Zlatibor,Prijepolje,Prijepolje,43.3903,19.6506,1,National,0
+SRB77,2018-05-30,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Rasina,Krusevac,Krusevac,43.5811,21.3352,1,National,0
+SRB73,2018-05-26,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,Novi Beograd,Belgrade - Novi Beograd,44.808,20.3874,1,International,0
+SRB72,2018-05-25,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,Central Banat,Zrenjanin,Zrenjanin,45.3818,20.3954,1,National,0
+SRB71,2018-05-25,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Pirot,Pirot,Pirot,43.1617,22.5871,2,International,0
+SRB70,2018-05-23,1,Protests,Protest with intervention,Protesters (Serbia),,Police Forces of Serbia (2017-),,Serbia,Belgrade,Rakovica,Belgrade - Rakovica,44.7258,20.4461,1,International,0
+SRB69,2018-05-19,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,Zemun,Belgrade - Zemun,44.8483,20.3624,1,International,0
+SRB68,2018-05-19,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,Stari Grad,Belgrade - Stari Grad,44.823,20.4605,1,National,0
+SRB67,2018-05-18,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,International,0
+SRB66,2018-05-17,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,International,0
+SRB65,2018-05-16,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Raska,Kraljevo,Kraljevo,43.7259,20.6896,1,International,0
+SRB64,2018-05-13,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,Rakovica,Belgrade - Rakovica,44.7258,20.4461,1,National,0
+SRB63,2018-05-12,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Srem,Stara Pazova,Stara Pazova,44.9861,20.1597,1,National,0
+SRB62,2018-05-10,1,Protests,Peaceful protest,Protesters (Bosnia and Herzegovina),Labor Group (Serbia),,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,International,0
+SRB61,2018-05-09,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,International,0
+SRB59,2018-05-06,1,Riots,Mob violence,Rioters (Serbia),SRS: Serbian Radical Party,Rioters (Serbia),LDP: Liberal Democratic Party,Serbia,Srem,Sremska Mitrovica,Jarak,44.9184,19.7547,1,International,0
+SRB60,2018-05-06,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Pirot,Pirot,Paklestica,43.2066,22.7404,1,National,0
+SRB58,2018-05-05,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,International,0
+SRB57,2018-05-04,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,International,0
+SRB56,2018-05-01,1,Protests,Protest with intervention,Protesters (Serbia),Labor Group (Serbia),Police Forces of Serbia (2017-),,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,International,0
+SRB55,2018-04-26,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Toplica,Prokuplje,Prokuplje,43.2383,21.5932,1,National,0
+SRB54,2018-04-26,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Serbia),,Civilians (Serbia),,Serbia,Belgrade,Stari Grad,Belgrade - Stari Grad,44.823,20.4605,1,National,1
+SRB53,2018-04-26,1,Explosions/Remote violence,Grenade,Unidentified Armed Group (Serbia),,Civilians (Serbia),,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,International,1
+SRB52,2018-04-25,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Nisava,Nis-Medijana,Nis,43.3234,21.9018,1,International,0
+SRB50,2018-04-25,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia); Teachers (Serbia),,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB48,2018-04-24,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,Nisava,Nis-Medijana,Nis,43.3234,21.9018,1,National,0
+SRB49,2018-04-24,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,South Backa,Novi Sad,Novi Sad,45.2593,19.8291,1,National,0
+SRB47,2018-04-24,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,Belgrade,Zemun,Belgrade - Zemun,44.8483,20.3624,1,National,0
+SRB46,2018-04-23,1,Protests,Peaceful protest,Protesters (Bosnia and Herzegovina),Labor Group (Serbia),,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,International,0
+SRB44,2018-04-17,1,Violence against civilians,Attack,Unidentified Armed Group (Serbia),,Civilians (Serbia),Journalists (Serbia),Serbia,Jablanica,Leskovac,Leskovac,42.9976,21.9445,1,National,0
+SRB43,2018-04-17,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,International,0
+SRB41,2018-04-16,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Zlatibor,Pozega,Pozega,43.8458,20.0367,1,International,0
+SRB40,2018-04-16,1,Protests,Peaceful protest,Protesters (Serbia),Srpski sabor Zavetnici,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National-International,0
+SRB39,2018-04-14,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Zlatibor,Pozega,Pozega,43.8458,20.0367,1,International,0
+SRB37,2018-04-13,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB36,2018-04-11,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,International,0
+SRB34,2018-04-10,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Nisava,Nis-Medijana,Nis,43.3234,21.9018,1,National,0
+SRB35,2018-04-10,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,South Backa,Novi Sad,Novi Sad,45.2593,19.8291,1,National,0
+SRB33,2018-04-05,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Zlatibor,Pozega,Pozega,43.8458,20.0367,1,International,0
+SRB31,2018-04-01,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Nisava,Nis-Medijana,Nis,43.3234,21.9018,1,National,0
+SRB29,2018-03-31,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Nisava,Nis-Medijana,Nis,43.3234,21.9018,1,National,0
+SRB28,2018-03-29,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB27,2018-03-27,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,Pomoravlje,Paracin,Paracin,43.8591,21.4119,1,International,0
+SRB26,2018-03-25,1,Violence against civilians,Attack,Unidentified Armed Group (Serbia),,Civilians (Serbia),Muslim Group (Serbia),Serbia,Raska,Novi Pazar,Novi Pazar,43.1375,20.5149,1,International,0
+SRB24,2018-03-16,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,International,0
+SRB22,2018-03-14,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Kolubara,Valjevo,Valjevo,44.272,19.8874,1,National,0
+SRB23,2018-03-14,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,Pcinja,Vranje,Vranje,42.556,21.9002,1,International,0
+SRB21,2018-03-11,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Zlatibor,Pozega,Pozega,43.8458,20.0367,1,International,0
+SRB20,2018-03-08,1,Protests,Peaceful protest,Protesters (Serbia),Women (Serbia),,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB18,2018-03-04,1,Violence against civilians,Attack,Unidentified Armed Group (Serbia),,Civilians (Serbia),"CRTA: Centre for Research, Transparency, and Accountability",Serbia,Belgrade,Novi Beograd,Belgrade - Novi Beograd,44.808,20.3874,1,National-International,0
+SRB17,2018-02-26,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Zlatibor,Pozega,Pozega,43.8458,20.0367,1,International,0
+SRB15,2018-02-20,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,Grocka,Ritopek,44.7382,20.6552,1,National,0
+SRB14,2018-02-18,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Zlatibor,Pozega,Pozega,43.8458,20.0367,1,National,0
+SRB13,2018-02-16,1,Violence against civilians,Attack,Unidentified Armed Group (Serbia),,Civilians (Serbia),Journalists (Serbia),Serbia,Belgrade,Palilula,Belgrade - Palilula,44.8103,20.4744,1,National,0
+SRB11,2018-02-11,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Zlatibor,Pozega,Pozega,43.8458,20.0367,1,International,0
+SRB9,2018-02-04,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,Stari Grad,Belgrade - Stari Grad,44.823,20.4605,1,National-International,0
+SRB8,2018-02-04,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,International,0
+SRB5,2018-02-01,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Rasina,Brus,Brus,43.3845,21.0288,1,National,0
+SRB3,2018-01-23,1,Protests,Peaceful protest,Protesters (Serbia),Teachers (Serbia); Students (Serbia),,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,International,0
+SRB10,2018-02-07,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,Stari Grad,Belgrade - Stari Grad,44.823,20.4605,1,National,0
+SRB7,2018-02-02,1,Protests,Peaceful protest,Protesters (Serbia),Srpski sabor Zavetnici,,,Serbia,Belgrade,Stari Grad,Belgrade - Stari Grad,44.823,20.4605,1,National,0
+SRB25,2018-03-23,1,Riots,Violent demonstration,Rioters (Serbia),,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB196,2018-10-29,1,Riots,Mob violence,Rioters (Serbia),,,,Serbia,Rasina,Krusevac,Krusevac,43.5811,21.3352,2,International,0
+SRB155,2018-08-05,1,Explosions/Remote violence,Grenade,Unidentified Armed Group (Serbia),,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB134,2018-06-20,1,Explosions/Remote violence,Grenade,Unidentified Armed Group (Serbia),,,,Serbia,Nisava,Nis-Medijana,Nis,43.3234,21.9018,1,National,0
+SRB194,2018-10-26,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Serbia),,,,Serbia,South Backa,Novi Sad,Novi Sad,45.2593,19.8291,1,International,0
+SRB200,2018-11-03,1,Explosions/Remote violence,Grenade,Unidentified Armed Group (Serbia),,,,Serbia,Zlatibor,Prijepolje,Prijepolje,43.3903,19.6506,1,National,0
+SRB215,2018-12-08,1,Explosions/Remote violence,Grenade,Unidentified Armed Group (Serbia),,,,Serbia,Belgrade,Zvezdara,Belgrade - Zvezdara,44.782,20.5282,1,National,0
+SRB30,2018-04-01,1,Explosions/Remote violence,Grenade,Unidentified Armed Group (Serbia),,,,Serbia,Belgrade,Palilula,Belgrade - Palilula,44.8103,20.4744,1,National,0
+SRB1,2018-01-05,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Zlatibor,Pozega,Pozega,43.8458,20.0367,1,National,0
+SRB117,2018-06-11,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Jablanica,Leskovac,Leskovac,42.9976,21.9445,1,National,0
+SRB12,2018-02-13,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Pcinja,Vranje,Vranje,42.556,21.9002,1,National,0
+SRB138,2018-06-23,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Pirot,Babusnica,Rakita,42.9136,22.5584,1,National,0
+SRB149,2018-07-21,2,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Pirot,Pirot,Temska,43.2611,22.5429,1,National,0
+SRB192,2018-10-22,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Nisava,Nis-Medijana,Nis,43.3234,21.9018,1,Subnational,0
+SRB193,2018-10-26,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Pirot,Babusnica,Babusnica,43.0679,22.4115,1,National,0
+SRB233,2018-12-31,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,Toplica,Prokuplje,Prokuplje,43.2383,21.5932,1,National,0
+SRB32,2018-04-04,1,Protests,Peaceful protest,Protesters (Serbia),Labor Group (Serbia),,,Serbia,Nisava,Nis-Medijana,Nis,43.3234,21.9018,1,Subnational,0
+SRB137,2018-06-23,1,Protests,Peaceful protest,Protesters (Serbia),LGBTQ+ (Serbia),,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB75,2018-05-29,1,Protests,Peaceful protest,Protesters (Serbia),NDSS: New Democratic Party of Serbia; Serbian Movement Dveri,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,National,0
+SRB19,2018-03-04,1,Violence against civilians,Attack,Unidentified Armed Group (Serbia),,Civilians (Serbia),SNS: Serbian Progressive Party,Serbia,Belgrade,Vozdovac,Belgrade - Vozdovac,44.7761,20.4776,1,Regional-International,0
+SRB42,2018-04-16,1,Explosions/Remote violence,Grenade,Unidentified Armed Group (Serbia),,,,Serbia,Raska,Tutin,Tutin,43.0072,20.3083,1,National,0
+SRB74,2018-05-27,1,Protests,Protest with intervention,Protesters (Serbia),,Police Forces of Serbia (2017-),,Serbia,Belgrade,Rakovica,Belgrade - Rakovica,44.7258,20.4461,1,Regional,0
+SRB170,2018-09-15,1,Protests,Peaceful protest,Protesters (Serbia),Green-Left Front,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,Regional,0
+SRB122,2018-06-12,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Jablanica,Leskovac,Leskovac,42.9976,21.9445,1,Regional,0
+SRB199,2018-11-03,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Central Banat,Zrenjanin,Lukicevo,45.3381,20.4989,1,Regional,0
+SRB219,2018-12-12,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Serbia),,Civilians (Serbia),Journalists (Serbia),Serbia,Belgrade,Grocka,Grocka,44.6683,20.7236,1,Regional,0
+SRB45,2018-04-18,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,Stari Grad,Belgrade - Stari Grad,44.823,20.4605,1,National-Regional,0
+SRB214,2018-12-08,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,International,0
+SRB222,2018-12-22,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,International,0
+SRB231,2018-12-29,1,Protests,Peaceful protest,Protesters (Serbia),,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,International,0
+SRB76,2018-05-30,1,Protests,Peaceful protest,Protesters (Serbia),SRS: Serbian Radical Party,,,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,International,0
+SRB168,2018-09-13,1,Protests,Protest with intervention,Protesters (Serbia),People's Party (Serbia),Police Forces of Serbia (2017-),,Serbia,South Backa,Vrbas,Vrbas,45.5704,19.6478,1,National,0
+SRB2,2018-01-17,1,Protests,Protest with intervention,Protesters (Serbia),Labor Group (Serbia),Police Forces of Serbia (2017-),,Serbia,Belgrade,,Belgrade,44.6916,20.4261,1,Regional,0

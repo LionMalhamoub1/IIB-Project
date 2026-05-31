@@ -1,0 +1,994 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities
+LBN32288,2025-01-01,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Beirut,Beirut,Beirut,33.8889,35.4944,1,National,0
+LBN32289,2025-01-01,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Mount Lebanon,Baabda,Chiyah,33.8644,35.5186,2,National,0
+LBN32291,2025-01-01,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Tyr,33.2733,35.1939,2,National,0
+LBN32300,2025-01-02,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Al Nabatieh,Nabatiye El Tahta,33.3772,35.4837,1,National,0
+LBN32307,2025-01-02,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Yater,33.1541,35.3302,2,National,0
+LBN32311,2025-01-02,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Beirut,Beirut,Beirut,33.8889,35.4944,1,National,0
+LBN32313,2025-01-02,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Mount Lebanon,Baabda,Chiyah,33.8644,35.5186,2,National,0
+LBN32321,2025-01-02,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Tyr,33.2733,35.1939,2,National,0
+LBN32337,2025-01-03,1,Battles,Armed clash,Military Forces of Lebanon (2021-),,Unidentified Armed Group (Syria),,Lebanon,Baalbek-Hermel,Baalbek,Maaraboun,33.8506,36.1892,1,National,0
+LBN32338,2025-01-03,1,Protests,Peaceful protest,Protesters (Lebanon),,,,Lebanon,Baalbek-Hermel,Baalbek,Saraain,33.8856,36.0722,1,National,0
+LBN32340,2025-01-03,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Beirut,Beirut,Beirut,33.8889,35.4944,1,National,0
+LBN32342,2025-01-03,1,Protests,Peaceful protest,Protesters (Lebanon),Hezbollah,,,Lebanon,Mount Lebanon,Aley,Beirut International Airport,33.8209,35.4884,1,National,0
+LBN32343,2025-01-03,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Mount Lebanon,Baabda,Chiyah,33.8644,35.5186,2,National,0
+LBN32346,2025-01-03,1,Battles,Armed clash,Unidentified Clan Militia (Lebanon),,Unidentified Clan Militia (Lebanon),Journalists (Lebanon),Lebanon,South,Tyr,Qana,33.2088,35.2994,1,Local partner-New media,1
+LBN32349,2025-01-03,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Tyr,33.2733,35.1939,2,National,0
+LBN32366,2025-01-09,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Mount Lebanon,Baabda,Chiyah,33.8644,35.5186,2,National,0
+LBN32368,2025-01-07,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Aalma Ech Chaab,33.1042,35.1819,1,National,0
+LBN32373,2025-01-08,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Tyr,33.2733,35.1939,1,National,0
+LBN32390,2025-01-10,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,Civilians (Lebanon),Lebanon,South,Tyr,Tayr Debba,33.2757,35.2784,1,Local partner-New media,5
+LBN32396,2025-01-07,1,Protests,Peaceful protest,Protesters (Lebanon),Association for Lebanese Depositors,,,Lebanon,Beirut,Beirut,Beirut - Port,33.8982,35.5074,1,National,0
+LBN32429,2025-01-09,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Beirut,Beirut,Beirut,33.8889,35.4944,1,National,0
+LBN32451,2025-01-04,1,Battles,Armed clash,Unidentified Armed Group (Lebanon),,Unidentified Armed Group (Lebanon),,Lebanon,South,Tyr,Maaroub,33.2856,35.3478,1,National,3
+LBN32487,2025-01-04,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,South,Sayda,Ez Zahrani,33.4973,35.3401,1,National,0
+LBN32488,2025-01-04,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Srifa,33.2817,35.3971,2,National,0
+LBN32492,2025-01-05,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Chabriha,33.2926,35.2186,2,National,0
+LBN32493,2025-01-06,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,South,Sayda,Sidon,33.5599,35.3756,2,National,0
+LBN32495,2025-01-04,1,Protests,Peaceful protest,Protesters (Lebanon),,,,Lebanon,Beirut,Beirut,Beirut - Port,33.8982,35.5074,1,National,0
+LBN32384,2025-01-07,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,,,Lebanon,South,Tyr,Aalma Ech Chaab,33.1042,35.1819,1,National,0
+LBN32387,2025-01-07,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,,,Lebanon,South,Tyr,Tayr Harfa,33.1285,35.2192,1,National,0
+LBN32478,2025-01-05,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,South,Tyr,Tayr Harfa,33.1285,35.2192,2,National,0
+LBN32481,2025-01-05,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,South,Tyr,Hamoul,33.1232,35.1657,1,National,0
+LBN32482,2025-01-05,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,South,Tyr,Ed Dhayra,33.1053,35.2248,1,National,0
+LBN32476,2025-01-04,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,South,Tyr,Aalma Ech Chaab,33.1042,35.1819,2,National,0
+LBN32344,2025-01-03,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,South,Tyr,Ed Dhayra,33.1053,35.2248,1,Local partner-New media,0
+LBN32599,2025-01-12,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Baalbek-Hermel,Baalbek,Jenta,33.8575,36.1075,1,New media-National,0
+LBN32620,2025-01-15,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,South,Tyr,Ed Dhayra,33.1053,35.2248,1,National,0
+LBN32621,2025-01-12,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Jbal el Botm,33.1739,35.2931,1,Local partner-New media,0
+LBN32623,2025-01-15,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,South,Tyr,Marwahin,33.1086,35.2754,1,National,0
+LBN32616,2025-01-11,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,South,Tyr,Ain Zarqa,33.1214,35.2002,1,National,0
+LBN32615,2025-01-11,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,South,Tyr,Aalma Ech Chaab,33.1042,35.1819,1,New media-National,0
+LBN32617,2025-01-11,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,South,Tyr,Btaichiye,33.1073,35.2086,1,National,0
+LBN32618,2025-01-11,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,South,Tyr,Ed Dhayra,33.1053,35.2248,2,National,0
+LBN32622,2025-01-11,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,South,Tyr,Majdel Zoun,33.1514,35.2261,1,New media-National,0
+LBN32628,2025-01-11,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,South,Tyr,Tayr Harfa,33.1285,35.2192,1,National,0
+LBN32650,2025-01-18,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Tallit el Azziye,33.293,35.5419,1,National,0
+LBN32631,2025-01-19,1,Explosions/Remote violence,Remote explosive/landmine/IED,Military Forces of Lebanon (2021-),,PFLP-GC: Popular Front for the Liberation of Palestine - General Command,,Lebanon,Bekaa,Zahle,Qusaya,33.8122,36.025,1,National,0
+LBN32635,2025-01-20,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,South,Tyr,Ed Dhayra,33.1053,35.2248,1,National,0
+LBN32637,2025-01-20,1,Protests,Peaceful protest,Protesters (Lebanon),Health Workers (Lebanon); Labor Group (Lebanon),,,Lebanon,Mount Lebanon,Baabda,Baabda,33.8339,35.5442,1,National,0
+LBN32643,2025-01-18,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Bekaa,Rashayya,Ain Arab,33.5769,35.8743,1,National,0
+LBN32644,2025-01-19,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Bekaa,Rashayya,Ain Arab,33.5769,35.8743,1,National,0
+LBN32657,2025-01-23,1,Protests,Peaceful protest,Protesters (Lebanon),,,,Lebanon,Beirut,Beirut,Beirut - Achrafieh,33.8853,35.5196,1,New media,0
+LBN32661,2025-01-15,2,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Al Nabatieh,Marjayoun,Wadi Saluki,33.2154,35.4873,1,National,0
+LBN32667,2025-01-18,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Wadi Saluki,33.2154,35.4873,1,National,0
+LBN32671,2025-01-19,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Ain Ebel,33.1112,35.4036,1,National,0
+LBN32676,2025-01-19,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Yater,33.1541,35.3302,2,National,0
+LBN32684,2025-01-20,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Es Sedaneh,33.3464,35.7135,1,Local partner-New media,0
+LBN32693,2025-01-20,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Wadi Saluki,33.2154,35.4873,1,National,0
+LBN32694,2025-01-20,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Wadi Saluki,33.2154,35.4873,1,National,0
+LBN32701,2025-01-21,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Es Sedaneh,33.3464,35.7135,1,National,0
+LBN32708,2025-01-21,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),Muslim Group (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Wadi Saluki,33.2154,35.4873,1,National,0
+LBN32710,2025-01-21,1,Violence against civilians,Attack,Unidentified Armed Group (Lebanon),,Civilians (Lebanon),Hezbollah,Lebanon,Bekaa,West Bekaa,Machgara,33.5306,35.6536,1,Local partner-New media,1
+LBN32748,2025-01-24,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Es Sedaneh,33.3464,35.7135,1,National,0
+LBN32764,2025-01-19,1,Violence against civilians,Abduction/forced disappearance,Military Forces of Israel (2022-),,Civilians (Lebanon),Farmers (Lebanon),Lebanon,Bekaa,Rashayya,Ain Arab,33.5769,35.8743,1,National,0
+LBN32447,2025-01-10,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,El Mansouri,33.1786,35.2061,2,National,0
+LBN32378,2025-01-07,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,El Mansouri,33.1786,35.2061,2,National,0
+LBN32460,2025-01-06,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,El Mansouri,33.1786,35.2061,2,National,0
+LBN32463,2025-01-06,1,Strategic developments,Change to group/activity,Military Forces of Lebanon (2021-),,,,Lebanon,South,Tyr,Hamoul,33.1232,35.1657,1,National,0
+LBN32316,2025-01-02,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Majdel Zoun,33.1514,35.2261,1,National,0
+LBN32769,2025-01-25,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,Unidentified Armed Group (Palestine),,Lebanon,Akkar,Akkar,Nahr el Bared,34.5133,35.9597,1,National,0
+LBN32774,2025-01-28,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,Civilians (Lebanon),Lebanon,Al Nabatieh,Al Nabatieh,Nabatiyeh El Faouqa,33.3618,35.4987,1,Local partner-New media,0
+LBN32911,2025-01-25,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Wadi Saluki,33.2154,35.4873,1,National,0
+LBN32912,2025-01-25,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Wadi Saluki,33.2154,35.4873,1,National,0
+LBN32914,2025-01-29,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Civilians (Lebanon),Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Wadi Saluki,33.2154,35.4873,1,National,0
+LBN32916,2025-01-31,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,Civilians (Lebanon),Lebanon,Baalbek-Hermel,Baalbek,Jenta,33.8575,36.1075,1,Local partner-New media,2
+LBN32921,2025-01-30,1,Protests,Peaceful protest,Protesters (Lebanon),Labor Group (Lebanon),,,Lebanon,Beirut,Beirut,Beirut - Port,33.8982,35.5074,1,National,0
+LBN32922,2025-01-31,1,Protests,Peaceful protest,Protesters (Lebanon),,,,Lebanon,Beirut,Beirut,Beirut - Ras Beirut,33.8919,35.4816,1,National,0
+LBN32923,2025-01-26,1,Riots,Mob violence,Rioters (Lebanon),Amal Movement; Hezbollah,Rioters (Lebanon),,Lebanon,Mount Lebanon,Baabda,Ain er Roummane,33.8678,35.5225,1,National,0
+LBN32928,2025-01-25,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,PFLP-GC: Popular Front for the Liberation of Palestine - General Command,Fatah Uprising,Lebanon,North,Al Miniyeh Al Danniyeh,Beddawi,34.4469,35.8678,1,National,0
+LBN32929,2025-01-26,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,Unidentified Armed Group (Palestine),,Lebanon,North,Al Miniyeh Al Danniyeh,Beddawi,34.4469,35.8678,1,National,0
+LBN32931,2025-01-26,1,Riots,Mob violence,Rioters (Lebanon),Amal Movement; Hezbollah,Rioters (Lebanon),,Lebanon,South,Sayda,Maghdouche,33.5222,35.3863,1,National,0
+LBN32932,2025-01-31,1,Violence against civilians,Attack,Militia (Ahmed al Assir),,Civilians (Lebanon),Hezbollah,Lebanon,South,Sayda,Sarafand,33.4495,35.2995,1,National,0
+LBN32934,2025-01-28,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,South,Tyr,Boustane,33.1045,35.2573,1,National,0
+LBN32935,2025-01-30,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,South,Tyr,Boustane,33.1045,35.2573,1,National,0
+LBN32937,2025-01-27,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Refugees/IDPs (Lebanon),Lebanon,South,Tyr,Ed Dhayra,33.1053,35.2248,1,National,0
+LBN32938,2025-01-30,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,South,Tyr,Ed Dhayra,33.1053,35.2248,1,National,0
+LBN32939,2025-01-30,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Ed Dhayra,33.1053,35.2248,1,National,0
+LBN32941,2025-01-27,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,South,Tyr,Marwahin,33.1086,35.2754,1,National,0
+LBN32942,2025-01-28,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,South,Tyr,Marwahin,33.1086,35.2754,1,National,0
+LBN32943,2025-01-25,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,South,Tyr,Tayr Harfa,33.1285,35.2192,1,National,0
+LBN32947,2025-01-30,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Civilians (Lebanon),Labor Group (Lebanon),Lebanon,South,Tyr,Yarine,33.1064,35.2324,1,Local partner-New media,0
+LBN32950,2025-01-31,1,Riots,Mob violence,Rioters (Lebanon),Hezbollah,Militia (Ahmed al Assir),,Lebanon,South,Sayda,Sarafand,33.4495,35.2995,1,National,0
+LBN32483,2025-01-05,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,South,Tyr,Tayr Harfa,33.1285,35.2192,1,Local partner-New media,0
+LBN32619,2025-01-12,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,South,Tyr,Ed Dhayra,33.1053,35.2248,1,National,0
+LBN32953,2025-02-07,1,Protests,Peaceful protest,Protesters (Lebanon),Militia (Ahmed al Assir); Sunni Muslim Group (Lebanon),,,Lebanon,South,Sayda,Sidon,33.5599,35.3756,1,National,0
+LBN32962,2025-02-02,1,Riots,Violent demonstration,Rioters (Lebanon),,,,Lebanon,Mount Lebanon,Keserwan,Faraya,34.0128,35.8204,1,National,0
+LBN32964,2025-02-07,1,Explosions/Remote violence,Remote explosive/landmine/IED,Military Forces of Israel (2022-),,Hezbollah,Civilians (Lebanon); Refugees/IDPs (Lebanon),Lebanon,South,Tyr,Tayr Harfa,33.1285,35.2192,1,Local partner-New media,4
+LBN32966,2025-02-03,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),Norwegian People's Aid Organization,Military Forces of Israel (2022-),,Lebanon,South,Tyr,Chabriha,33.2926,35.2186,1,National,0
+LBN32967,2025-02-04,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,Hezbollah,,Lebanon,Mount Lebanon,Chouf,Wardaniyeh,33.6134,35.4353,1,National,0
+LBN32968,2025-02-05,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Lebanon,Akkar,Akkar,Nahr el Bared,34.5133,35.9597,1,New media-National,0
+LBN32969,2025-02-05,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Lebanon,Beirut,Beirut,Beirut - Mousseitbeh,33.8786,35.4907,1,New media-National,0
+LBN32970,2025-02-05,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Lebanon,North,Al Miniyeh Al Danniyeh,Beddawi,34.4469,35.8678,1,New media-National,0
+LBN32971,2025-02-05,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Lebanon,South,Sayda,Ein el Hilweh,33.5408,35.3767,1,New media-National,0
+LBN32993,2025-02-02,1,Violence against civilians,Abduction/forced disappearance,Military Forces of Israel (2022-),,Civilians (Lebanon),Fishers (Lebanon),Lebanon,South,Tyr,Coast of Ras al Naqoura,33.127,35.1293,1,National,0
+LBN32994,2025-02-02,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Jabal Blat,33.1148,35.2908,1,National,0
+LBN33022,2025-02-04,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,Unidentified Clan Militia (Lebanon),,Lebanon,Baalbek-Hermel,Baalbek,Saraain,33.8856,36.0722,1,National,0
+LBN33023,2025-02-04,1,Protests,Peaceful protest,Protesters (Lebanon),,,,Lebanon,Beirut,Beirut,Beirut - Port,33.8982,35.5074,1,New media-National,0
+LBN33024,2025-02-04,1,Battles,Armed clash,Unidentified Armed Group (Lebanon),,Military Forces of Lebanon (2021-),,Lebanon,North,Al Miniyeh Al Danniyeh,Beddawi,34.4469,35.8678,1,National,0
+LBN33037,2025-02-06,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Baalbek-Hermel,Baalbek,Jenta,33.8575,36.1075,1,New media-National,0
+LBN33038,2025-02-06,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Baalbek-Hermel,Baalbek,Khraibeh,33.8723,36.1632,1,Local partner-New media,0
+LBN33044,2025-02-07,1,Riots,Violent demonstration,Rioters (Lebanon),,,,Lebanon,Beirut,Beirut,Beirut - Mousseitbeh,33.8786,35.4907,1,National,0
+LBN33046,2025-02-07,1,Riots,Violent demonstration,Rioters (Lebanon),Amal Movement; Hezbollah,,,Lebanon,Mount Lebanon,Aley,Beirut International Airport,33.8209,35.4884,1,Local partner-New media,0
+LBN33047,2025-02-07,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,South,Sayda,Tebna,33.4376,35.3407,1,Local partner-New media,0
+LBN33053,2025-02-08,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,Civilians (Lebanon),Lebanon,Baalbek-Hermel,Baalbek,Jenta,33.8575,36.1075,1,Local partner-New media,6
+LBN33071,2025-02-09,1,Strategic developments,Arrests,Military Forces of Lebanon (2021-),,Civilians (Syria),,Lebanon,North,Al Miniyeh Al Danniyeh,Deir Aamar,34.4575,35.9053,1,National,0
+LBN33078,2025-02-14,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Ed Dhayra,33.1053,35.2248,2,National,0
+LBN33079,2025-02-14,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Boustane,33.1045,35.2573,2,National,0
+LBN33081,2025-02-10,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,Unidentified Armed Group (Lebanon),,Lebanon,Akkar,Akkar,Aakkar El Aatiqa,34.517,36.2355,2,National,0
+LBN33083,2025-02-11,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,Unidentified Armed Group (Lebanon),,Lebanon,Akkar,Akkar,Akroum,34.5436,36.3631,1,National,0
+LBN33109,2025-02-13,1,Protests,Peaceful protest,Protesters (Lebanon),Hezbollah,,,Lebanon,Mount Lebanon,Baabda,Ghobeiry,33.8593,35.5041,1,National,0
+LBN33110,2025-02-13,1,Protests,Peaceful protest,Protesters (Lebanon),Hezbollah,,,Lebanon,Mount Lebanon,Baabda,Burj el Barajneh,33.8475,35.5033,1,National,0
+LBN33151,2025-02-12,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,South,Tyr,Ed Dhayra,33.1053,35.2248,2,National,0
+LBN33152,2025-02-13,1,Riots,Violent demonstration,Rioters (Lebanon),Hezbollah,Police Forces of Lebanon (2021-),Military Forces of Lebanon (2021-),Lebanon,Mount Lebanon,Aley,Beirut International Airport,33.8209,35.4884,1,National,0
+LBN33153,2025-02-13,1,Riots,Violent demonstration,Rioters (Lebanon),Hezbollah,Police Forces of Lebanon (2021-),Military Forces of Lebanon (2021-),Lebanon,Beirut,Beirut,Beirut - Mousseitbeh,33.8786,35.4907,1,National,0
+LBN33156,2025-02-14,1,Riots,Violent demonstration,Rioters (Lebanon),Hezbollah,Military Forces of Lebanon (2021-),UNIFIL: United Nations Interim Force in Lebanon (1978-),Lebanon,Mount Lebanon,Aley,Beirut International Airport,33.8209,35.4884,1,Local partner-New media,0
+LBN33157,2025-02-14,1,Riots,Violent demonstration,Rioters (Lebanon),Hezbollah,,,Lebanon,Mount Lebanon,Aley,Chouaifat,33.8086,35.5178,1,National,0
+LBN33158,2025-02-14,1,Riots,Violent demonstration,Rioters (Lebanon),Hezbollah,,,Lebanon,Beirut,Beirut,Beirut - Saifi,33.8927,35.509,1,National,0
+LBN33159,2025-02-14,1,Riots,Violent demonstration,Rioters (Lebanon),Hezbollah,,,Lebanon,Beirut,Beirut,Beirut - Mousseitbeh,33.8786,35.4907,1,National,0
+LBN33201,2025-02-17,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Ain Zarqa,33.1214,35.2002,2,Local partner-New media,0
+LBN32659,2025-01-08,2,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Jabal Blat,33.1148,35.2908,1,Regional,0
+LBN32655,2025-01-24,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Wadi Saluki,33.2154,35.4873,1,National,0
+LBN33195,2025-02-15,1,Strategic developments,Arrests,Military Forces of Lebanon (2021-),,Civilians (Lebanon),Hezbollah,Lebanon,Mount Lebanon,Baabda,Burj el Barajneh,33.8475,35.5033,1,Local partner-New media,0
+LBN33199,2025-02-15,1,Riots,Violent demonstration,Rioters (Lebanon),Hezbollah,Military Forces of Lebanon (2021-),UNIFIL: United Nations Interim Force in Lebanon (1978-),Lebanon,Mount Lebanon,Aley,Beirut International Airport,33.8209,35.4884,1,National,0
+LBN33224,2025-02-21,1,Strategic developments,Change to group/activity,Military Forces of Lebanon (2021-),,,,Lebanon,Beirut,Beirut,Beirut,33.8889,35.4944,2,National,0
+LBN33229,2025-02-16,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Civilians (Lebanon),Labor Group (Lebanon),Lebanon,South,Tyr,Marwahin,33.1086,35.2754,1,National,0
+LBN33285,2025-02-16,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Wadi Saluki,33.2154,35.4873,1,National,0
+LBN33288,2025-02-16,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Baalbek-Hermel,Baalbek,Hlabta,34.2557,36.288,1,Local partner-New media,0
+LBN33289,2025-02-15,1,Riots,Violent demonstration,Rioters (Lebanon),Hezbollah,,,Lebanon,Beirut,Beirut,Beirut - Mousseitbeh,33.8786,35.4907,1,National,0
+LBN33290,2025-02-15,1,Riots,Violent demonstration,Rioters (Lebanon),Hezbollah,,,Lebanon,Beirut,Beirut,Beirut - Saifi,33.8927,35.509,1,National,0
+LBN33292,2025-02-15,1,Riots,Violent demonstration,Rioters (Lebanon),Hezbollah,,,Lebanon,South,Sayda,Haret Saida,33.5576,35.3849,1,Local partner-New media,0
+LBN33293,2025-02-17,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hamas Movement,Civilians (Lebanon),Lebanon,South,Sayda,Sidon,33.5599,35.3756,1,Local partner-New media,1
+LBN33298,2025-02-17,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Tayr Harfa,33.1285,35.2192,1,National,0
+LBN33316,2025-02-28,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,Unidentified Armed Group (Lebanon),,Lebanon,Mount Lebanon,Chouf,Ketermaya,33.6169,35.4481,1,National,0
+LBN33317,2025-02-26,1,Protests,Peaceful protest,Protesters (Lebanon),Refugees/IDPs (Lebanon),,,Lebanon,South,Tyr,Ed Dhayra,33.1053,35.2248,1,National,0
+LBN33318,2025-02-26,1,Strategic developments,Arrests,Military Forces of Lebanon (2021-),,Civilians (Syria),,Lebanon,North,Al Miniyeh Al Danniyeh,Deir Aamar,34.4575,35.9053,1,National,0
+LBN33330,2025-02-23,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Beirut,Beirut,Beirut,33.8889,35.4944,2,National,0
+LBN33351,2025-02-26,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Mjadel,33.2286,35.3589,2,National,0
+LBN33360,2025-02-28,1,Protests,Peaceful protest,Protesters (Lebanon),Militia (Ahmed al Assir); Sunni Muslim Group (Lebanon),,,Lebanon,Mount Lebanon,Al Matn,Roumie,33.8831,35.6192,1,National,0
+LBN33365,2025-03-01,1,Strategic developments,Other,Unidentified Armed Group (Lebanon),,,,Lebanon,Akkar,Akkar,Knaisse,34.6011,36.4403,1,National,0
+LBN33377,2025-03-03,1,Violence against civilians,Abduction/forced disappearance,Military Forces of Israel (2022-),,Civilians (Lebanon),Farmers (Lebanon),Lebanon,South,Tyr,Aabbassiye,33.2983,35.2821,2,National,0
+LBN33380,2025-03-03,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Baalbek-Hermel,Baalbek,Jenta,33.8575,36.1075,1,National,0
+LBN33381,2025-03-06,1,Battles,Armed clash,Military Forces of Lebanon (2021-),,Unidentified Clan Militia (Lebanon),,Lebanon,North,Tripoli,Tripoli,34.4367,35.8497,1,National,1
+LBN33384,2025-03-04,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,South,Tyr,Rechknanay,33.1892,35.3223,1,Local partner-New media,1
+LBN33387,2025-03-04,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Jabal Blat,33.1148,35.2908,1,National,0
+LBN33402,2025-03-07,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,South,Sayda,Baisariyeh,33.4444,35.3116,2,National,0
+LBN33403,2025-03-07,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,South,Sayda,Tebna,33.4376,35.3407,1,Local partner-New media,0
+LBN33404,2025-03-07,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,South,Jezzine,Zaghrine Valley,33.4355,35.5258,1,National,0
+LBN33408,2025-03-02,1,Battles,Armed clash,Unidentified Clan Militia (Lebanon),,Unidentified Clan Militia (Lebanon),,Lebanon,North,Tripoli,Tripoli,34.4367,35.8497,1,National,0
+LBN33412,2025-03-07,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,Unidentified Clan Militia (Lebanon),,Lebanon,Akkar,Akkar,Aamayer,34.6291,36.3865,1,National,0
+LBN33413,2025-03-07,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,South,Sayda,El Babliye,33.4211,35.3428,1,National,0
+LBN33414,2025-03-07,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,South,Sayda,El Babliye,33.4211,35.3428,2,National,0
+LBN33415,2025-03-07,1,Battles,Armed clash,Unidentified Clan Militia (Lebanon),,Unidentified Clan Militia (Lebanon),,Lebanon,North,Tripoli,El Mina,34.4511,35.8142,1,National,0
+LBN33419,2025-03-04,1,Protests,Peaceful protest,Protesters (Lebanon),,,,Lebanon,Beirut,Beirut,Beirut - Port,33.8982,35.5074,1,New media-National,0
+LBN33431,2025-03-13,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Baalbek-Hermel,Baalbek,Jenta,33.8575,36.1075,1,New media-National,0
+LBN33432,2025-03-13,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Bekaa,Zahle,Qusaya,33.8122,36.025,1,National,0
+LBN33434,2025-03-08,1,Battles,Armed clash,Al Akkari Clan Militia (Lebanon),,Unidentified Clan Militia (Lebanon),,Lebanon,Akkar,Akkar,Wadi el Jamous,34.5011,36.0169,1,National,0
+LBN33452,2025-03-14,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,Unidentified Armed Group (Lebanon),,Lebanon,Mount Lebanon,Aley,Qabrchmoun,33.7539,35.545,1,National,0
+LBN33457,2025-03-10,1,Riots,Mob violence,Rioters (Lebanon),,Civilians (Syria),Refugees/IDPs (Syria),Lebanon,South,Sayda,Aaqbiyeh,33.4687,35.3192,1,National,0
+LBN33459,2025-03-10,1,Protests,Peaceful protest,Protesters (Lebanon),Labor Group (Lebanon),,,Lebanon,Beirut,Beirut,Beirut - Bachoura,33.8924,35.5046,1,National,0
+LBN33460,2025-03-10,1,Protests,Peaceful protest,Protesters (Lebanon),Labor Group (Lebanon),,,Lebanon,Mount Lebanon,Al Matn,Ed Dekouane,33.8781,35.5508,1,National,0
+LBN33472,2025-03-09,1,Riots,Mob violence,Rioters (Syria),,Rioters (Lebanon),,Lebanon,South,Sayda,Aaqbiyeh,33.4687,35.3192,1,National,0
+LBN33474,2025-03-15,1,Protests,Peaceful protest,Protesters (Lebanon),,,,Lebanon,Mount Lebanon,Keserwan,Sarba,33.9767,35.6211,1,National,0
+LBN33477,2025-03-17,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Bekaa,West Bekaa,Zillaya,33.4587,35.6707,2,New media-National,0
+LBN33479,2025-03-16,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Coast of Ras al Naqoura,33.127,35.1293,2,National,0
+LBN33495,2025-03-15,1,Protests,Protest with intervention,Protesters (Lebanon),,Military Forces of Lebanon (2021-),,Lebanon,North,Al Miniyeh Al Danniyeh,Beddawi,34.4469,35.8678,1,National,0
+LBN33513,2025-03-16,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,Civilians (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Yater,33.1541,35.3302,1,Local partner-New media,1
+LBN33544,2025-03-17,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Bekaa,West Bekaa,Libbaya,33.4837,35.7265,1,Local partner-New media,0
+LBN33545,2025-03-17,1,Protests,Peaceful protest,Protesters (Lebanon),Labor Group (Lebanon),,,Lebanon,Bekaa,Zahle,Tal al Amara,33.8639,35.9851,1,National,0
+LBN33548,2025-03-12,2,Strategic developments,Arrests,Police Forces of Lebanon (2021-),,Civilians (Lebanon),Civilians (Palestine); Civilians (Syria); Civilians (Yemen),Lebanon,North,Tripoli,Tripoli,34.4367,35.8497,1,National,0
+LBN32494,2025-01-05,1,Protests,Peaceful protest,Protesters (Lebanon),Hizb at-Tahrir; Islamic Group in Lebanon,,,Lebanon,North,Tripoli,Tripoli,34.4367,35.8497,1,National,0
+LBN33004,2025-02-04,1,Explosions/Remote violence,Grenade,Unidentified Armed Group (Lebanon),,Civilians (Lebanon),Government of Lebanon (2021-),Lebanon,Akkar,Akkar,Bebnine,34.4992,35.9931,1,National,0
+LBN33763,2025-02-20,1,Battles,Armed clash,Unidentified Clan Militia (Lebanon),,Unidentified Clan Militia (Lebanon),,Lebanon,Akkar,Akkar,Kroum el Arab,34.555,36.0933,1,National,0
+LBN33764,2025-03-01,1,Battles,Armed clash,Unidentified Clan Militia (Lebanon),,Unidentified Clan Militia (Lebanon),,Lebanon,North,Tripoli,Bab al Tabbaneh,34.4416,35.849,1,National,0
+LBN32614,2025-01-17,1,Battles,Armed clash,Unidentified Clan Militia (Lebanon),,Unidentified Clan Militia (Lebanon),,Lebanon,North,Tripoli,Tripoli,34.4367,35.8497,1,National,0
+LBN33470,2025-03-14,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Syria (2024-),,,,Lebanon,Baalbek-Hermel,Baalbek,Mesherfeh,34.4474,36.5055,2,National,0
+LBN33343,2025-02-25,1,Battles,Armed clash,Unidentified Armed Group (Lebanon),,Unidentified Armed Group (Lebanon),,Lebanon,South,Sayda,Sidon,33.5599,35.3756,1,National,0
+LBN32645,2025-01-24,1,Riots,Violent demonstration,Rioters (Lebanon),,,,Lebanon,Akkar,Akkar,El Aabboudiye,34.6328,36.1172,1,National,0
+LBN32765,2025-01-26,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,Unidentified Armed Group (Lebanon),Unidentified Armed Group (Syria),Lebanon,Akkar,Akkar,El Aabboudiye,34.6328,36.1172,1,National,0
+LBN32282,2025-01-01,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,Local partner-New media,0
+LBN32283,2025-01-01,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,National,0
+LBN32284,2025-01-01,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,1,National,0
+LBN32285,2025-01-01,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Chebaa,33.3475,35.7492,1,National,0
+LBN32286,2025-01-01,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Hasbaya,33.3978,35.685,1,National,0
+LBN32293,2025-01-02,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Al Nabatieh,Aarab Salim,33.4297,35.5158,1,National,0
+LBN32294,2025-01-02,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Al Nabatieh,Deir Ez Zahrani,33.4333,35.4617,1,National,0
+LBN32295,2025-01-02,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Al Nabatieh,Habbouch,33.4073,35.4817,1,National,0
+LBN32296,2025-01-02,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Al Nabatieh,Al Nabatieh,Jbaa,33.4869,35.5188,2,Local partner-New media,0
+LBN32297,2025-01-02,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Al Nabatieh,Kfar Jaouz,33.3972,35.4739,1,National,0
+LBN32298,2025-01-02,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Al Nabatieh,Kfar Roummane,33.3894,35.5017,1,National,0
+LBN32299,2025-01-02,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Al Nabatieh,Kfour,33.4007,35.4518,1,National,0
+LBN32301,2025-01-02,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Beit Lif,33.1328,35.3356,2,National,0
+LBN32302,2025-01-02,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Beit Lif,33.1328,35.3356,1,National,0
+LBN32303,2025-01-02,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Bent Jbeil,33.1194,35.4333,1,National,0
+LBN32304,2025-01-02,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,1,National,0
+LBN32305,2025-01-02,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Ramieh,33.1108,35.3103,2,National,0
+LBN32315,2025-01-02,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,South,Jezzine,Rihan,33.4445,35.567,1,Local partner-New media,0
+LBN32318,2025-01-02,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Ras al Naqoura,33.1181,35.1397,1,National,0
+LBN32319,2025-01-02,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Ras al Naqoura,33.1181,35.1397,1,National,0
+LBN32320,2025-01-02,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,South,Tyr,Ras al Naqoura,33.1181,35.1397,2,National,0
+LBN32323,2025-01-03,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Bent Jbeil,33.1194,35.4333,2,National,0
+LBN32324,2025-01-03,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Berghoz,33.4126,35.6244,1,National,0
+LBN32325,2025-01-03,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Hasbaya,33.3978,35.685,1,National,0
+LBN32326,2025-01-03,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Kfar Hamam,33.3439,35.6789,1,National,0
+LBN32327,2025-01-03,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Khraibe,33.3387,35.6447,1,National,0
+LBN32328,2025-01-03,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Rachaya al Foukhar,33.3541,35.6675,1,National,0
+LBN32329,2025-01-03,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Bani Haiyan,33.2431,35.489,2,National,0
+LBN32330,2025-01-03,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Bani Haiyan,33.2431,35.489,1,National,0
+LBN32331,2025-01-03,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,National,0
+LBN32332,2025-01-03,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,Local partner-New media,0
+LBN32333,2025-01-03,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN32334,2025-01-03,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Markaba,33.2333,35.513,1,National,0
+LBN32336,2025-01-03,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Talouseh,33.2324,35.4851,2,National,0
+LBN32345,2025-01-03,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,South,Tyr,Jebbayn,33.1235,35.2358,2,National,0
+LBN32348,2025-01-03,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,South,Tyr,Ras al Naqoura,33.1181,35.1397,1,National,0
+LBN32365,2025-01-09,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Al Nabatieh,Nabatiye,33.3789,35.4839,2,National,0
+LBN32367,2025-01-08,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Bent Jbeil,33.1194,35.4333,2,National,0
+LBN32369,2025-01-10,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,Local partner-New media,0
+LBN32370,2025-01-07,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,1,National,0
+LBN32371,2025-01-08,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Bent Jbeil,33.1194,35.4333,1,National,0
+LBN32374,2025-01-07,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Al Nabatieh,Arnoun,33.3317,35.5264,2,National,0
+LBN32375,2025-01-07,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Baraachit,33.1761,35.4433,2,National,0
+LBN32376,2025-01-07,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,El Habbariye,33.3675,35.6975,2,National,0
+LBN32377,2025-01-07,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Marjayoun,33.3603,35.5911,2,National,0
+LBN32379,2025-01-08,1,Strategic developments,Disrupted weapons use,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Al Nabatieh,Marjayoun,Markaba,33.2333,35.513,3,New media-National,0
+LBN32381,2025-01-08,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Hilta,33.3088,35.6667,1,National,0
+LBN32382,2025-01-10,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Taybeh,33.2755,35.5179,1,National,0
+LBN32383,2025-01-07,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Beit Lif,33.1328,35.3356,1,National,0
+LBN32385,2025-01-07,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,,,Lebanon,South,Tyr,Labbouneh,33.0977,35.1498,1,National,0
+LBN32386,2025-01-07,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,,,Lebanon,South,Tyr,Ras al Naqoura,33.1181,35.1397,1,National,0
+LBN32388,2025-01-10,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Ramieh,33.1108,35.3103,2,National,0
+LBN32389,2025-01-07,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,National,0
+LBN32391,2025-01-07,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Qouzah,33.1203,35.3382,2,National,0
+LBN32392,2025-01-07,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,National,0
+LBN32393,2025-01-07,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN32394,2025-01-07,1,Violence against civilians,Abduction/forced disappearance,Military Forces of Israel (2022-),,Civilians (Syria),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN32399,2025-01-08,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,Local partner-New media,0
+LBN32400,2025-01-08,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Bent Jbeil,33.1194,35.4333,1,Local partner-New media,0
+LBN32401,2025-01-08,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,1,National,0
+LBN32402,2025-01-08,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Rmaysh,33.0783,35.3661,1,Local partner-New media,0
+LBN32403,2025-01-08,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Bani Haiyan,33.2431,35.489,1,Local partner-New media,0
+LBN32404,2025-01-08,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Borj el Mlouk,33.3215,35.5632,2,Local partner-New media,0
+LBN32405,2025-01-08,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN32406,2025-01-08,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Marjayoun,33.3603,35.5911,1,National,0
+LBN32407,2025-01-08,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Markaba,33.2333,35.513,1,National,0
+LBN32408,2025-01-08,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN32409,2025-01-08,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,2,National,0
+LBN32410,2025-01-08,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Rab el Thalathine,33.2482,35.5194,2,National,0
+LBN32411,2025-01-08,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Talouseh,33.2324,35.4851,1,National,0
+LBN32412,2025-01-08,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Taybeh,33.2755,35.5179,1,National,0
+LBN32416,2025-01-08,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,South,Tyr,Jebbayn,33.1235,35.2358,1,National,0
+LBN32419,2025-01-09,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,National,0
+LBN32420,2025-01-09,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,2,National,0
+LBN32421,2025-01-09,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Bent Jbeil,33.1194,35.4333,1,National,0
+LBN32422,2025-01-09,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Ramieh,33.1108,35.3103,2,National,0
+LBN32423,2025-01-09,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Hasbeiya,Al Wazzani,33.2756,35.6228,2,National,0
+LBN32424,2025-01-09,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,National,0
+LBN32425,2025-01-09,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN32427,2025-01-09,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Rab el Thalathine,33.2482,35.5194,1,National,0
+LBN32430,2025-01-10,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Al Nabatieh,Arnoun,33.3317,35.5264,2,National,0
+LBN32431,2025-01-10,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,National,0
+LBN32432,2025-01-10,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Baraachit,33.1761,35.4433,2,National,0
+LBN32434,2025-01-10,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,Local partner-New media,0
+LBN32435,2025-01-10,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,El Habbariye,33.3675,35.6975,2,National,0
+LBN32436,2025-01-10,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Aadayseh Marjayoun,33.2544,35.5424,2,National,0
+LBN32437,2025-01-10,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Aadayseh Marjayoun,33.2544,35.5424,2,National,0
+LBN32438,2025-01-10,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN32439,2025-01-10,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Marjayoun,33.3603,35.5911,2,National,0
+LBN32440,2025-01-10,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN32449,2025-01-06,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Bent Jbeil,33.1194,35.4333,1,National,0
+LBN32450,2025-01-04,1,Battles,Armed clash,Jaafar Clan Militia (Lebanon),,Arab Clan Militia (Syria),,Lebanon,Baalbek-Hermel,Al Hermel,El Qasr,34.4805,36.4402,1,National,0
+LBN32452,2025-01-04,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Aadayseh Marjayoun,33.2544,35.5424,2,National,0
+LBN32453,2025-01-04,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Borj el Mlouk,33.3215,35.5632,1,National,0
+LBN32454,2025-01-04,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Al Nabatieh,Aadchit,33.3477,35.4183,2,National,0
+LBN32455,2025-01-04,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Deir Siriane,33.292,35.5002,2,National,0
+LBN32456,2025-01-06,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,El Habbariye,33.3675,35.6975,2,National,0
+LBN32457,2025-01-06,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Marjayoun,33.3603,35.5911,2,National,0
+LBN32458,2025-01-06,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Al Nabatieh,Arnoun,33.3317,35.5264,2,National,0
+LBN32459,2025-01-06,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Baraachit,33.1761,35.4433,2,National,0
+LBN32461,2025-01-06,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,,,Lebanon,South,Tyr,Ras al Naqoura,33.1181,35.1397,1,Local partner-New media,0
+LBN32462,2025-01-06,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,,,Lebanon,South,Tyr,Ras al Naqoura,33.1181,35.1397,2,National,0
+LBN32475,2025-01-04,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Rab el Thalathine,33.2482,35.5194,2,National,0
+LBN32477,2025-01-04,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Markaba,33.2333,35.513,1,National,0
+LBN32479,2025-01-05,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Taybeh,33.2755,35.5179,1,Local partner-New media,0
+LBN32480,2025-01-05,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,2,National,0
+LBN32484,2025-01-06,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,2,National,0
+LBN32485,2025-01-06,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,South,Tyr,Ras al Naqoura,33.1181,35.1397,1,National,0
+LBN32486,2025-01-06,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,South,Tyr,Chihhine,33.1265,35.256,1,Local partner-New media,0
+LBN32489,2025-01-04,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Al Nabatieh,Douair,33.3903,35.4177,2,National,0
+LBN32490,2025-01-04,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Kfar Hamam,33.3439,35.6789,2,National,0
+LBN32491,2025-01-05,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Chebaa,33.3475,35.7492,2,National,0
+LBN32496,2025-01-04,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,Local partner-New media,0
+LBN32497,2025-01-04,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,1,National,0
+LBN32498,2025-01-04,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Bent Jbeil,33.1194,35.4333,2,National,0
+LBN32499,2025-01-04,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Taybeh,33.2755,35.5179,1,National,0
+LBN32500,2025-01-05,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,1,National,0
+LBN32501,2025-01-05,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,1,National,0
+LBN32502,2025-01-05,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Taybeh,33.2755,35.5179,1,National,0
+LBN32503,2025-01-05,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN32504,2025-01-05,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,2,National,0
+LBN32505,2025-01-06,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,2,National,0
+LBN32506,2025-01-06,1,Riots,Violent demonstration,Rioters (Lebanon),,,,Lebanon,Al Nabatieh,Al Nabatieh,Charqiyeh,33.3997,35.4181,1,National,0
+LBN32508,2025-01-12,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Al Nabatieh,Deir Ez Zahrani,33.4333,35.4617,2,Local partner-New media,0
+LBN32509,2025-01-13,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Al Nabatieh,Deir Ez Zahrani,33.4333,35.4617,2,National,0
+LBN32510,2025-01-14,1,Explosions/Remote violence,Remote explosive/landmine/IED,Military Forces of Israel (2022-),,Civilians (Lebanon),Labor Group (Lebanon),Lebanon,Al Nabatieh,Al Nabatieh,Douair,33.3903,35.4177,1,Local partner-New media,0
+LBN32511,2025-01-12,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Al Nabatieh,Houmine el Faouqa,33.4413,35.4977,2,Local partner-New media,0
+LBN32513,2025-01-12,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Al Nabatieh,Roumine,33.4639,35.4418,2,Local partner-New media,0
+LBN32515,2025-01-11,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,Local partner-New media,0
+LBN32516,2025-01-11,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,National,0
+LBN32517,2025-01-12,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,Local partner-New media,0
+LBN32518,2025-01-12,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,National,0
+LBN32519,2025-01-13,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,Local partner-New media,0
+LBN32520,2025-01-14,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,Local partner-New media,0
+LBN32521,2025-01-14,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,2,National,0
+LBN32522,2025-01-15,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,Local partner-New media,0
+LBN32523,2025-01-16,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,Local partner-New media,0
+LBN32524,2025-01-17,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,National,0
+LBN32525,2025-01-11,1,Strategic developments,Other,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,1,National,0
+LBN32526,2025-01-11,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Military Forces of Lebanon (2021-),,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,1,National,0
+LBN32527,2025-01-12,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,2,National,0
+LBN32528,2025-01-12,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,1,National,0
+LBN32529,2025-01-13,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,1,National,0
+LBN32530,2025-01-14,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,1,Local partner-New media,0
+LBN32531,2025-01-14,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,2,National,0
+LBN32532,2025-01-14,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,1,National,0
+LBN32533,2025-01-15,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,1,National,0
+LBN32534,2025-01-17,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,1,National,0
+LBN32535,2025-01-11,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,As Salihani,33.1291,35.3032,1,New media-National,0
+LBN32537,2025-01-11,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Bent Jbeil,33.1194,35.4333,1,New media-National,0
+LBN32538,2025-01-12,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Bent Jbeil,33.1194,35.4333,1,National,0
+LBN32539,2025-01-16,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Bent Jbeil,33.1194,35.4333,1,National,0
+LBN32540,2025-01-12,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Debl,33.12,35.367,2,National,0
+LBN32541,2025-01-14,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Hanine,33.1085,35.3796,1,National,0
+LBN32542,2025-01-15,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Hanine,33.1085,35.3796,1,National,0
+LBN32543,2025-01-11,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,Civilians (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Kounine,33.1487,35.433,1,New media-National,0
+LBN32544,2025-01-12,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,2,National,0
+LBN32545,2025-01-12,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,2,National,0
+LBN32546,2025-01-12,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,1,National,0
+LBN32547,2025-01-15,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,1,National,0
+LBN32548,2025-01-15,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,1,National,0
+LBN32549,2025-01-16,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,1,National,0
+LBN32550,2025-01-17,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,1,National,0
+LBN32551,2025-01-11,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Ramieh,33.1108,35.3103,1,National,0
+LBN32552,2025-01-15,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Ramieh,33.1108,35.3103,1,National,0
+LBN32553,2025-01-17,1,Violence against civilians,Abduction/forced disappearance,Military Forces of Israel (2022-),,Civilians (Syria),Farmers (Syria),Lebanon,Al Nabatieh,Bint Jbeil,Rmaysh,33.0783,35.3661,2,National,0
+LBN32554,2025-01-11,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,Local partner-New media,0
+LBN32555,2025-01-11,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,2,National,0
+LBN32556,2025-01-12,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,2,National,0
+LBN32557,2025-01-12,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,National,0
+LBN32558,2025-01-13,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,National,0
+LBN32559,2025-01-14,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,National,0
+LBN32560,2025-01-15,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,National,0
+LBN32561,2025-01-15,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,National,0
+LBN32562,2025-01-17,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,National,0
+LBN32563,2025-01-12,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,El Meri,33.3204,35.6423,1,National,0
+LBN32564,2025-01-13,1,Strategic developments,Other,Military Forces of Israel (2022-),,Civilians (Lebanon),Labor Group (Lebanon),Lebanon,Al Nabatieh,Hasbeiya,El Meri,33.3204,35.6423,1,National,0
+LBN32565,2025-01-15,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,2,National,0
+LBN32566,2025-01-15,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,1,National,0
+LBN32569,2025-01-15,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,El Hamames,33.2924,35.59,1,National,0
+LBN32570,2025-01-13,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,National,0
+LBN32571,2025-01-15,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,2,National,0
+LBN32572,2025-01-16,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,National,0
+LBN32573,2025-01-17,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,National,0
+LBN32574,2025-01-11,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN32575,2025-01-12,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN32576,2025-01-14,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN32577,2025-01-13,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Khiyam,33.3278,35.6128,1,National,0
+LBN32579,2025-01-15,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Khiyam,33.3278,35.6128,1,National,0
+LBN32580,2025-01-15,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Khiyam,33.3278,35.6128,2,National,0
+LBN32581,2025-01-15,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Markaba,33.2333,35.513,1,National,0
+LBN32582,2025-01-12,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN32583,2025-01-13,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN32584,2025-01-13,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN32585,2025-01-13,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,2,National,0
+LBN32586,2025-01-14,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN32587,2025-01-14,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,Local partner-New media,0
+LBN32588,2025-01-16,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Journalists (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN32589,2025-01-16,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,Local partner-New media,0
+LBN32590,2025-01-17,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN32593,2025-01-11,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Taybeh,33.2755,35.5179,2,National,0
+LBN32594,2025-01-16,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Taybeh,33.2755,35.5179,1,National,0
+LBN32595,2025-01-16,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Taybeh,33.2755,35.5179,1,National,0
+LBN32596,2025-01-15,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Tell en Nhas,33.3125,35.5666,1,National,0
+LBN32597,2025-01-12,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Baalbek-Hermel,Al Hermel,El Qasr,34.4805,36.4402,1,New media-National,0
+LBN32629,2025-01-24,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),Government of Lebanon (2021-),Lebanon,Al Nabatieh,Marjayoun,Bani Haiyan,33.2431,35.489,1,National,0
+LBN32630,2025-01-24,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),Muslim Group (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,Local partner-New media,0
+LBN32633,2025-01-20,1,Violence against civilians,Abduction/forced disappearance,Military Forces of Israel (2022-),,Civilians (Lebanon),Farmers (Lebanon),Lebanon,Al Nabatieh,Hasbeiya,Al Wazzani,33.2756,35.6228,2,National,0
+LBN32634,2025-01-22,1,Explosions/Remote violence,Remote explosive/landmine/IED,Military Forces of Israel (2022-),,UNIFIL: United Nations Interim Force in Lebanon (1978-),,Lebanon,Al Nabatieh,Marjayoun,Markaba,33.2333,35.513,1,Local partner-New media,0
+LBN32636,2025-01-23,1,Strategic developments,Disrupted weapons use,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Al Nabatieh,Marjayoun,Marjayoun,33.3603,35.5911,3,New media,0
+LBN32638,2025-01-23,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Qantara,33.2716,35.4649,2,National,0
+LBN32640,2025-01-18,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Marjayoun,33.3603,35.5911,2,National,0
+LBN32641,2025-01-19,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Marjayoun,33.3603,35.5911,2,National,0
+LBN32642,2025-01-23,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Marjayoun,33.3603,35.5911,2,National,0
+LBN32646,2025-01-19,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,2,National,0
+LBN32647,2025-01-23,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN32648,2025-01-24,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,2,National,0
+LBN32649,2025-01-18,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Bent Jbeil,33.1194,35.4333,1,Local partner-New media,0
+LBN32651,2025-01-18,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Taybeh,33.2755,35.5179,2,National,0
+LBN32652,2025-01-20,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,1,National,0
+LBN32653,2025-01-20,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Talouseh,33.2324,35.4851,1,Local partner-New media,0
+LBN32654,2025-01-21,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Al Nabatieh,Aadchit,33.3477,35.4183,1,Local partner-New media,0
+LBN32656,2025-01-19,1,Battles,Armed clash,Unidentified Armed Group (Syria),,Military Forces of Lebanon (2021-),,Lebanon,Baalbek-Hermel,Al Hermel,El Qasr,34.4805,36.4402,1,National,0
+LBN32658,2025-01-08,2,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,El Hamames,33.2924,35.59,1,Regional,0
+LBN32660,2025-01-08,2,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Labbouneh,33.0977,35.1498,1,Regional,0
+LBN32662,2025-01-18,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Bent Jbeil,33.1194,35.4333,2,National,0
+LBN32665,2025-01-18,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN32672,2025-01-19,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Ainata,33.1297,35.4409,1,National,0
+LBN32673,2025-01-19,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Bent Jbeil,33.1194,35.4333,1,National,0
+LBN32674,2025-01-19,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Debl,33.12,35.367,1,National,0
+LBN32675,2025-01-19,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Rmaysh,33.0783,35.3661,1,National,0
+LBN32678,2025-01-19,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Labbouneh,33.0977,35.1498,1,Local partner-New media,0
+LBN32679,2025-01-19,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Ras al Naqoura,33.1181,35.1397,1,Local partner-New media,0
+LBN32681,2025-01-20,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,1,National,0
+LBN32682,2025-01-20,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,2,National,0
+LBN32683,2025-01-20,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,2,National,0
+LBN32685,2025-01-20,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,2,Local partner-New media,0
+LBN32686,2025-01-20,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,1,Local partner-New media,0
+LBN32687,2025-01-20,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,Local partner-New media,0
+LBN32688,2025-01-20,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Khiyam,33.3278,35.6128,1,National,0
+LBN32689,2025-01-20,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,Local partner-New media,0
+LBN32690,2025-01-20,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN32692,2025-01-20,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Talouseh,33.2324,35.4851,1,National,0
+LBN32697,2025-01-21,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Bent Jbeil,33.1194,35.4333,2,National,0
+LBN32698,2025-01-21,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Bent Jbeil,33.1194,35.4333,2,National,0
+LBN32699,2025-01-21,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,1,National,0
+LBN32700,2025-01-21,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,Local partner-New media,0
+LBN32702,2025-01-21,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Hasbeiya,Kfar Hamam,33.3439,35.6789,2,National,0
+LBN32703,2025-01-21,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),Labor Group (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Borj el Mlouk,33.3215,35.5632,1,National,0
+LBN32704,2025-01-21,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN32705,2025-01-21,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN32706,2025-01-21,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN32714,2025-01-22,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,National,0
+LBN32715,2025-01-22,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Hanine,33.1085,35.3796,2,National,0
+LBN32716,2025-01-22,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Hasbeiya,El Majidiye,33.2842,35.6564,1,Local partner-New media,0
+LBN32717,2025-01-22,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,El Majidiye,33.2842,35.6564,2,National,0
+LBN32718,2025-01-22,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,1,National,0
+LBN32719,2025-01-22,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,2,National,0
+LBN32720,2025-01-22,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Hasbeiya,Kfar Hamam,33.3439,35.6789,1,National,0
+LBN32721,2025-01-22,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Hasbeiya,Rachaya al Foukhar,33.3541,35.6675,1,National,0
+LBN32723,2025-01-22,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,National,0
+LBN32724,2025-01-22,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,2,National,0
+LBN32725,2025-01-22,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN32726,2025-01-22,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN32728,2025-01-22,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Rab el Thalathine,33.2482,35.5194,1,National,0
+LBN32729,2025-01-22,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Taybeh,33.2755,35.5179,1,Local partner-New media,0
+LBN32730,2025-01-22,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Taybeh,33.2755,35.5179,1,National,0
+LBN32731,2025-01-22,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Tell en Nhas,33.3125,35.5666,1,National,0
+LBN32738,2025-01-23,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Hasbeiya,Al Wazzani,33.2756,35.6228,1,National,0
+LBN32739,2025-01-23,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,Local partner-New media,0
+LBN32740,2025-01-23,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,Local partner-New media,0
+LBN32744,2025-01-24,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Al Nabatieh,Yohmor,33.3114,35.5163,2,Local partner-New media,0
+LBN32745,2025-01-24,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,2,Local partner-New media,0
+LBN32746,2025-01-24,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,1,National,0
+LBN32747,2025-01-24,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,National,0
+LBN32749,2025-01-24,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Bani Haiyan,33.2431,35.489,1,National,0
+LBN32750,2025-01-24,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,Local partner-New media,0
+LBN32751,2025-01-24,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN32752,2025-01-24,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Khiyam,33.3278,35.6128,1,National,0
+LBN32753,2025-01-24,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Markaba,33.2333,35.513,2,National,0
+LBN32754,2025-01-24,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),Muslim Group (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Qantara,33.2716,35.4649,1,National,0
+LBN32755,2025-01-24,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Rab el Thalathine,33.2482,35.5194,1,National,0
+LBN32756,2025-01-24,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Rab el Thalathine,33.2482,35.5194,2,National,0
+LBN32757,2025-01-24,1,Strategic developments,Headquarters or base established,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Taybeh,33.2755,35.5179,2,National,0
+LBN32759,2025-01-24,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,South,Tyr,Chihhine,33.1265,35.256,1,National,0
+LBN32761,2025-01-24,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,South,Tyr,Jebbayn,33.1235,35.2358,1,National,0
+LBN32772,2025-01-21,2,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Hezbollah,,Lebanon,Al Nabatieh,Al Nabatieh,Aadchit,33.3477,35.4183,1,National,0
+LBN32775,2025-01-28,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,Civilians (Lebanon),Lebanon,Al Nabatieh,Al Nabatieh,Yohmor,33.3114,35.5163,1,Local partner-New media,0
+LBN32776,2025-01-29,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Al Nabatieh,Yohmor,33.3114,35.5163,2,Local partner-New media,0
+LBN32780,2025-01-27,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,National,0
+LBN32781,2025-01-31,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,Local partner-New media,0
+LBN32784,2025-01-27,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,1,National,0
+LBN32785,2025-01-28,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,1,Local partner-New media,0
+LBN32786,2025-01-29,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,1,Local partner-New media,0
+LBN32787,2025-01-30,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,2,National,0
+LBN32788,2025-01-25,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Beit Lif,33.1328,35.3356,1,National,0
+LBN32791,2025-01-25,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),Farmers (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Chaqra,33.1933,35.4678,2,National,0
+LBN32792,2025-01-25,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Chaqra,33.1933,35.4678,2,National,0
+LBN32794,2025-01-25,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Debl,33.12,35.367,1,National,0
+LBN32795,2025-01-25,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Hanine,33.1085,35.3796,1,National,0
+LBN32799,2025-01-27,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,1,National,0
+LBN32800,2025-01-28,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Military Forces of Lebanon (2021-); Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,2,National,0
+LBN32801,2025-01-29,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Amal Movement; Health Workers (Lebanon); Islamic Risala Scout Association; Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,1,Local partner-New media,0
+LBN32802,2025-01-30,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Farmers (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Qatmoun Valley,33.066,35.3604,1,National,0
+LBN32803,2025-01-25,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Qouzah,33.1203,35.3382,1,National,0
+LBN32805,2025-01-29,2,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Civilians (Turkey),,Lebanon,Al Nabatieh,Bint Jbeil,Qouzah,33.1203,35.3382,3,National,3
+LBN32806,2025-01-27,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Amal Movement; Health Workers (Lebanon); Islamic Risala Scout Association,Lebanon,Al Nabatieh,Bint Jbeil,Ramieh,33.1108,35.3103,1,National,0
+LBN32807,2025-01-29,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Rmaysh,33.0783,35.3661,1,Local partner-New media,0
+LBN32810,2025-01-27,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Civilians (Lebanon),Government of Lebanon (2021-); Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,National,0
+LBN32811,2025-01-27,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,National,0
+LBN32812,2025-01-28,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,Local partner-New media,0
+LBN32813,2025-01-28,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Civilians (Lebanon),Military Forces of Lebanon (2021-); Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,Local partner-New media,0
+LBN32814,2025-01-31,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,National,0
+LBN32817,2025-01-27,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Hasbeiya,Al Wazzani,33.2756,35.6228,1,National,0
+LBN32818,2025-01-28,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),Muslim Group (Lebanon),Lebanon,Al Nabatieh,Hasbeiya,Al Wazzani,33.2756,35.6228,1,National,0
+LBN32819,2025-01-30,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Chebaa,33.3475,35.7492,2,Local partner-New media,0
+LBN32821,2025-01-25,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,1,National,0
+LBN32822,2025-01-25,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,1,Local partner-New media,0
+LBN32823,2025-01-28,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,1,National,0
+LBN32824,2025-01-30,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,1,Local partner-New media,0
+LBN32827,2025-01-27,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Aadayseh Marjayoun,33.2544,35.5424,1,National,1
+LBN32828,2025-01-28,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Aadayseh Marjayoun,33.2544,35.5424,1,National,0
+LBN32829,2025-01-29,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Aadayseh Marjayoun,33.2544,35.5424,1,National,0
+LBN32830,2025-01-30,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Aadayseh Marjayoun,33.2544,35.5424,1,National,0
+LBN32831,2025-01-25,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Bani Haiyan,33.2431,35.489,2,National,0
+LBN32835,2025-01-27,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Civilians (Lebanon),Government of Lebanon (2021-); Labor Group (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Bani Haiyan,33.2431,35.489,1,National,0
+LBN32836,2025-01-29,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Bani Haiyan,33.2431,35.489,1,Local partner-New media,0
+LBN32838,2025-01-29,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Blida,33.14,35.5147,2,National,0
+LBN32840,2025-01-27,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Borj el Mlouk,33.3215,35.5632,1,National,0
+LBN32841,2025-01-29,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Borj el Mlouk,33.3215,35.5632,2,National,0
+LBN32842,2025-01-30,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Borj el Mlouk,33.3215,35.5632,1,National,0
+LBN32845,2025-01-27,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Deir Mimas,33.3025,35.5458,1,National,0
+LBN32847,2025-01-28,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,El Hamames,33.2924,35.59,2,Local partner-New media,0
+LBN32848,2025-01-25,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,National,0
+LBN32852,2025-01-27,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,National,0
+LBN32853,2025-01-27,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,National,0
+LBN32854,2025-01-28,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,National,0
+LBN32855,2025-01-29,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,National,0
+LBN32856,2025-01-25,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN32857,2025-01-26,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,Local partner-New media,0
+LBN32859,2025-01-27,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN32860,2025-01-27,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN32861,2025-01-28,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,Local partner-New media,0
+LBN32862,2025-01-29,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,Local partner-New media,0
+LBN32863,2025-01-30,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN32864,2025-01-31,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN32865,2025-01-31,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,Local partner-New media,0
+LBN32868,2025-01-29,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Majdel Selm,33.2222,35.4647,1,National,1
+LBN32869,2025-01-25,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Markaba,33.2333,35.513,1,National,0
+LBN32872,2025-01-27,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Military Forces of Lebanon (2021-); Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Markaba,33.2333,35.513,1,National,0
+LBN32873,2025-01-29,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Markaba,33.2333,35.513,1,National,0
+LBN32874,2025-01-29,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Markaba,33.2333,35.513,1,Local partner-New media,0
+LBN32875,2025-01-30,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Markaba,33.2333,35.513,1,National,0
+LBN32876,2025-01-25,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN32879,2025-01-27,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,Local partner-New media,0
+LBN32880,2025-01-27,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,Military Forces of Lebanon (2021-),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN32881,2025-01-28,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN32882,2025-01-29,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN32883,2025-01-29,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,Local partner-New media,0
+LBN32884,2025-01-30,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN32885,2025-01-25,1,Explosions/Remote violence,Remote explosive/landmine/IED,Hezbollah,,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Qabrikha,33.2489,35.4623,3,National,0
+LBN32886,2025-01-25,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Qantara,33.2716,35.4649,1,National,0
+LBN32888,2025-01-29,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Qantara,33.2716,35.4649,2,National,0
+LBN32890,2025-01-28,1,Protests,Peaceful protest,Protesters (Lebanon),Refugees/IDPs (Lebanon),,,Lebanon,Al Nabatieh,Marjayoun,Qlayaa,33.3347,35.5709,1,National,0
+LBN32896,2025-01-27,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Rab el Thalathine,33.2482,35.5194,2,National,0
+LBN32897,2025-01-25,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Talouseh,33.2324,35.4851,1,National,0
+LBN32898,2025-01-25,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Talouseh,33.2324,35.4851,2,National,0
+LBN32901,2025-01-30,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Talouseh,33.2324,35.4851,1,National,0
+LBN32902,2025-01-30,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Talouseh,33.2324,35.4851,2,Local partner-New media,0
+LBN32903,2025-01-30,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Civilians (Lebanon),Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Talouseh,33.2324,35.4851,1,National,0
+LBN32907,2025-01-28,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Taybeh,33.2755,35.5179,2,National,0
+LBN32908,2025-01-30,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Taybeh,33.2755,35.5179,1,Local partner-New media,0
+LBN32909,2025-01-30,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Tell en Nhas,33.3125,35.5666,1,National,0
+LBN32910,2025-01-31,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Tell en Nhas,33.3125,35.5666,1,National,0
+LBN32915,2025-01-31,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Baalbek-Hermel,Al Hermel,El Qasr,34.4805,36.4402,1,National,0
+LBN32949,2025-01-27,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Bani Haiyan,33.2431,35.489,1,National,1
+LBN32954,2025-02-01,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Civilians (Lebanon),Labor Group (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Taybeh,33.2755,35.5179,1,Local partner-New media,0
+LBN32955,2025-02-07,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Syria (2024-),,Civilians (Lebanon),,Lebanon,Baalbek-Hermel,Al Hermel,El Qasr,34.4805,36.4402,1,National,0
+LBN32959,2025-02-05,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,Local partner-New media,0
+LBN32960,2025-02-06,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN32961,2025-02-04,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),Farmers (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,National,0
+LBN32963,2025-02-04,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Kfar Hamam,33.3439,35.6789,2,National,0
+LBN32965,2025-02-04,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Al Nabatieh,Nabatiye,33.3789,35.4839,2,National,0
+LBN32972,2025-02-03,2,Strategic developments,Disrupted weapons use,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,3,New media-National,0
+LBN32973,2025-02-03,2,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Al Nabatieh,Bint Jbeil,Ainata,33.1297,35.4409,3,New media-National,0
+LBN32974,2025-02-04,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Jebbayn,33.1235,35.2358,1,National,0
+LBN32976,2025-01-27,1,Violence against civilians,Abduction/forced disappearance,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Taybeh,33.2755,35.5179,1,National,0
+LBN32977,2025-02-01,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,1,Local partner-New media,0
+LBN32979,2025-02-01,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,1,National,0
+LBN32980,2025-02-01,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Hasbeiya,Al Wazzani,33.2756,35.6228,1,National,0
+LBN32981,2025-02-01,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Aadayseh Marjayoun,33.2544,35.5424,1,Local partner-New media,0
+LBN32982,2025-02-01,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN32983,2025-02-01,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Rab el Thalathine,33.2482,35.5194,2,National,0
+LBN32984,2025-02-01,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Rab el Thalathine,33.2482,35.5194,1,Local partner-New media,0
+LBN32988,2025-02-02,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Blida,33.14,35.5147,2,National,0
+LBN32989,2025-02-02,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,Local partner-New media,0
+LBN32990,2025-02-02,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN32991,2025-02-02,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN32998,2025-02-03,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,1,National,0
+LBN32999,2025-02-03,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,Local partner-New media,0
+LBN33000,2025-02-03,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Blida,33.14,35.5147,1,Local partner-New media,0
+LBN33001,2025-02-03,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Rab el Thalathine,33.2482,35.5194,2,National,0
+LBN33006,2025-02-04,1,Strategic developments,Other,Military Forces of Israel (2022-),,Civilians (Lebanon),Amal Movement; Health Workers (Lebanon); Islamic Risala Scout Association,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,National,0
+LBN33007,2025-02-04,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,1,National,0
+LBN33008,2025-02-04,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,National,0
+LBN33009,2025-02-04,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,National,0
+LBN33010,2025-02-04,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Kfar Hamam,33.3439,35.6789,2,National,0
+LBN33011,2025-02-04,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Aadayseh Marjayoun,33.2544,35.5424,1,National,0
+LBN33012,2025-02-04,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Aadayseh Marjayoun,33.2544,35.5424,1,National,0
+LBN33013,2025-02-04,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Blida,33.14,35.5147,1,National,0
+LBN33014,2025-02-04,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),Government of Lebanon (2021-),Lebanon,Al Nabatieh,Marjayoun,Marjayoun,33.3603,35.5911,1,National,0
+LBN33015,2025-02-04,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Markaba,33.2333,35.513,2,National,0
+LBN33017,2025-02-04,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Rab el Thalathine,33.2482,35.5194,1,National,0
+LBN33018,2025-02-04,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Taybeh,33.2755,35.5179,1,National,0
+LBN33019,2025-02-04,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Taybeh,33.2755,35.5179,1,National,0
+LBN33025,2025-02-05,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,National,0
+LBN33026,2025-02-05,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Ramieh,33.1108,35.3103,1,National,0
+LBN33027,2025-02-05,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,National,0
+LBN33028,2025-02-05,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Rab el Thalathine,33.2482,35.5194,1,Local partner-New media,0
+LBN33029,2025-02-06,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Al Nabatieh,Al Nabatieh,Aazze,33.4557,35.4312,2,National,0
+LBN33030,2025-02-06,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Al Nabatieh,Al Nabatieh,Houmine el Faouqa,33.4413,35.4977,1,National,0
+LBN33031,2025-02-06,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Al Nabatieh,Al Nabatieh,Roumine,33.4639,35.4418,2,National,0
+LBN33032,2025-02-06,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Al Nabatieh,Al Nabatieh,Roumine,33.4639,35.4418,1,National,0
+LBN33033,2025-02-06,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Al Nabatieh,Al Nabatieh,Zefta,33.4463,35.3944,1,National,0
+LBN33034,2025-02-06,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,Local partner-New media,0
+LBN33039,2025-02-07,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,2,National,0
+LBN33040,2025-02-07,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,2,National,0
+LBN33041,2025-02-07,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN33042,2025-02-07,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,Local partner-New media,0
+LBN33048,2025-02-06,1,Strategic developments,Change to group/activity,Military Forces of Lebanon (2021-),,,,Lebanon,Baalbek-Hermel,Al Hermel,El Qasr,34.4805,36.4402,2,National,0
+LBN33050,2025-02-02,1,Strategic developments,Other,Military Forces of Israel (2022-),,Civilians (Lebanon),Military Forces of Lebanon (2021-); Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,National,0
+LBN33051,2025-02-02,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Journalists (Lebanon); Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,National,0
+LBN33054,2025-02-08,1,Strategic developments,Other,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,National,0
+LBN33057,2025-02-09,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Baalbek-Hermel,Baalbek,Harabta,34.2081,36.2663,1,Local partner-New media,0
+LBN33058,2025-02-09,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,South,Jezzine,Berkat Jabbour,33.4735,35.6073,1,Local partner-New media,0
+LBN33059,2025-02-09,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Al Nabatieh,Al Nabatieh,Roumine,33.4639,35.4418,2,Local partner-New media,0
+LBN33060,2025-02-09,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,South,Jezzine,Sejoud,33.4335,35.5338,2,Local partner-New media,0
+LBN33062,2025-02-09,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Baalbek-Hermel,Baalbek,Harabta,34.2081,36.2663,2,Local partner-New media,0
+LBN33063,2025-02-09,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Baalbek-Hermel,Baalbek,Sbouba,34.2219,36.2759,2,Local partner-New media,0
+LBN33064,2025-02-09,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Al Nabatieh,Zefta,33.4463,35.3944,1,National,0
+LBN33065,2025-02-09,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Al Nabatieh,Houmine el Faouqa,33.4413,35.4977,2,National,0
+LBN33066,2025-02-09,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Al Nabatieh,Kfar Fila,33.4818,35.4983,2,National,0
+LBN33067,2025-02-13,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Baraachit,33.1761,35.4433,2,National,0
+LBN33068,2025-02-13,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Al Nabatieh,Marjayoun,Deir Siriane,33.292,35.5002,1,Local partner-New media,0
+LBN33069,2025-02-13,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,South,Tyr,Zebqine,33.1674,35.2586,2,Local partner-New media,0
+LBN33070,2025-02-14,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,El Hamames,33.2924,35.59,1,National,0
+LBN33074,2025-02-09,1,Strategic developments,Change to group/activity,Military Forces of Lebanon (2021-),,,,Lebanon,Baalbek-Hermel,Al Hermel,El Qasr,34.4805,36.4402,1,National,0
+LBN33076,2025-02-10,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,2,National,0
+LBN33077,2025-02-11,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,Local partner-New media,0
+LBN33080,2025-02-10,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,Unidentified Armed Group (Lebanon),,Lebanon,Baalbek-Hermel,Al Hermel,El Qasr,34.4805,36.4402,1,National,0
+LBN33084,2025-02-11,1,Strategic developments,Disrupted weapons use,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,South,Tyr,Ras al Naqoura,33.1181,35.1397,1,Local partner-New media,0
+LBN33085,2025-02-08,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Aadayseh Marjayoun,33.2544,35.5424,1,National,0
+LBN33087,2025-02-08,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,Local partner-New media,0
+LBN33088,2025-02-08,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN33089,2025-02-09,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),Farmers (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,National,0
+LBN33090,2025-02-09,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,Local partner-New media,0
+LBN33091,2025-02-09,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN33092,2025-02-09,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Aadayseh Marjayoun,33.2544,35.5424,1,National,0
+LBN33093,2025-02-10,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN33094,2025-02-10,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,National,0
+LBN33095,2025-02-10,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,2,National,0
+LBN33096,2025-02-10,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,2,National,0
+LBN33097,2025-02-11,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,National,0
+LBN33098,2025-02-11,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,El Hamames,33.2924,35.59,1,National,0
+LBN33099,2025-02-12,1,Strategic developments,Headquarters or base established,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,2,National,0
+LBN33100,2025-02-11,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Markaba,33.2333,35.513,1,National,0
+LBN33101,2025-02-11,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Talouseh,33.2324,35.4851,2,National,0
+LBN33102,2025-02-11,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Blida,33.14,35.5147,1,National,0
+LBN33103,2025-02-11,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,2,National,0
+LBN33104,2025-02-12,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,National,0
+LBN33105,2025-02-12,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,Local partner-New media,0
+LBN33106,2025-02-12,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Aadayseh Marjayoun,33.2544,35.5424,1,National,0
+LBN33107,2025-02-11,1,Protests,Peaceful protest,Protesters (Lebanon),,,,Lebanon,South,Jezzine,Jensnaya,33.5352,35.4326,1,National,0
+LBN33108,2025-02-11,1,Protests,Peaceful protest,Protesters (Lebanon),,,,Lebanon,South,Sayda,El Qraiye,33.5392,35.4169,1,National,0
+LBN33111,2025-02-12,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,National,0
+LBN33112,2025-02-12,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN33113,2025-02-12,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN33114,2025-02-13,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Aadayseh Marjayoun,33.2544,35.5424,1,National,0
+LBN33115,2025-02-13,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN33116,2025-02-14,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,Local partner-New media,0
+LBN33117,2025-02-14,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,Local partner-New media,0
+LBN33118,2025-02-14,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,2,National,0
+LBN33119,2025-02-14,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Blida,33.14,35.5147,2,National,0
+LBN33120,2025-02-14,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN33121,2025-02-13,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,National,0
+LBN33122,2025-02-09,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Rab el Thalathine,33.2482,35.5194,1,Local partner-New media,0
+LBN33123,2025-02-09,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Bani Haiyan,33.2431,35.489,1,National,0
+LBN33124,2025-02-09,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Talouseh,33.2324,35.4851,1,National,0
+LBN33125,2025-02-10,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Rab el Thalathine,33.2482,35.5194,1,National,0
+LBN33126,2025-02-10,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Bani Haiyan,33.2431,35.489,1,National,0
+LBN33127,2025-02-10,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Talouseh,33.2324,35.4851,1,National,0
+LBN33135,2025-02-08,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Syria (2024-),,Civilians (Syria),Refugees/IDPs (Syria),Lebanon,Baalbek-Hermel,Al Hermel,El Qasr,34.4805,36.4402,1,National,1
+LBN33136,2025-02-09,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,National,0
+LBN33138,2025-02-09,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Syria (2024-),,,,Lebanon,Baalbek-Hermel,Al Hermel,El Qasr,34.4805,36.4402,2,National,0
+LBN33142,2025-02-09,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Khiyam,33.3278,35.6128,2,National,0
+LBN33143,2025-02-09,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,El Hamames,33.2924,35.59,1,National,0
+LBN33144,2025-02-10,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,National,0
+LBN33145,2025-02-10,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,El Hamames,33.2924,35.59,1,National,0
+LBN33146,2025-02-10,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Khiyam,33.3278,35.6128,2,National,0
+LBN33148,2025-02-11,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Chebaa,33.3475,35.7492,1,Local partner-New media,0
+LBN33149,2025-02-12,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Chebaa,33.3475,35.7492,1,National,0
+LBN33150,2025-02-12,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Bent Jbeil,33.1194,35.4333,2,National,0
+LBN33154,2025-02-14,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,2,National,0
+LBN33155,2025-02-14,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Chebaa,33.3475,35.7492,1,Local partner-New media,0
+LBN33198,2025-02-17,1,Strategic developments,Change to group/activity,Military Forces of Lebanon (2021-),,,,Lebanon,Al Nabatieh,Marjayoun,Blida,33.14,35.5147,1,National,0
+LBN33200,2025-02-15,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,2,National,0
+LBN33208,2025-02-15,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,Civilians (Lebanon),Lebanon,Al Nabatieh,Al Nabatieh,Aarab Salim,33.4297,35.5158,2,Local partner-New media,3
+LBN33209,2025-02-16,1,Violence against civilians,Abduction/forced disappearance,Military Forces of Israel (2022-),,Civilians (Lebanon),Police Forces of Lebanon (2021-),Lebanon,Al Nabatieh,Bint Jbeil,Bent Jbeil,33.1194,35.4333,1,National,0
+LBN33227,2025-02-16,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Health Workers (Lebanon); Hezbollah; Islamic Health Society; Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,Local partner-New media,1
+LBN33228,2025-02-17,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,1,National,0
+LBN33231,2025-02-17,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,1,Local partner-New media,0
+LBN33233,2025-02-15,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,South,Tyr,Labbouneh,33.0977,35.1498,1,National,0
+LBN33235,2025-02-15,2,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Al Nabatieh,Ain Qana,33.4719,35.5101,1,Local partner-New media,1
+LBN33237,2025-02-15,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Ainata,33.1297,35.4409,1,National,0
+LBN33240,2025-02-16,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,1,Local partner-New media,0
+LBN33241,2025-02-17,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,2,National,0
+LBN33242,2025-02-17,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,1,National,0
+LBN33245,2025-02-15,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,Local partner-New media,0
+LBN33246,2025-02-15,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,2,National,0
+LBN33247,2025-02-17,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,National,0
+LBN33250,2025-02-16,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Hasbeiya,Chebaa,33.3475,35.7492,2,National,0
+LBN33253,2025-02-15,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),Government of Lebanon (2021-),Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,1,National,0
+LBN33254,2025-02-16,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,2,National,0
+LBN33255,2025-02-16,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,1,National,0
+LBN33259,2025-02-16,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Hasbeiya,Kfar Hamam,33.3439,35.6789,2,National,0
+LBN33260,2025-02-16,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Aadayseh Marjayoun,33.2544,35.5424,1,National,0
+LBN33261,2025-02-17,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Aadayseh Marjayoun,33.2544,35.5424,1,Local partner-New media,0
+LBN33265,2025-02-17,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Blida,33.14,35.5147,1,National,0
+LBN33268,2025-02-15,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,National,0
+LBN33269,2025-02-16,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,Local partner-New media,0
+LBN33270,2025-02-16,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,2,National,0
+LBN33272,2025-02-15,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN33273,2025-02-16,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN33274,2025-02-17,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN33278,2025-02-15,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN33279,2025-02-16,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN33280,2025-02-17,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN33281,2025-02-17,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN33284,2025-02-17,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Mhaibib,33.1544,35.5052,1,National,0
+LBN33287,2025-02-16,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Baalbek-Hermel,Baalbek,Harabta,34.2081,36.2663,2,Local partner-New media,0
+LBN33291,2025-02-17,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,South,Jezzine,Mahmoudiya,33.3868,35.5523,2,Local partner-New media,0
+LBN33296,2025-02-16,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,South,Tyr,Labbouneh,33.0977,35.1498,1,National,0
+LBN33297,2025-02-17,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,South,Tyr,Labbouneh,33.0977,35.1498,1,Local partner-New media,0
+LBN33299,2025-02-15,1,Riots,Mob violence,Rioters (Lebanon),Haredi Jewish Group (Israel); Settlers (Israel),Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,2,National,0
+LBN33300,2025-02-18,1,Riots,Mob violence,Rioters (Lebanon),Haredi Jewish Group (Israel); Settlers (Israel),Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,2,National,0
+LBN33315,2025-02-26,1,Battles,Armed clash,Military Forces of Syria (2024-),,Jaafar Clan Militia (Lebanon),Hezbollah; Smugglers (Lebanon); Unidentified Clan Militia (Lebanon); Zaiter Clan Militia (Lebanon),Lebanon,Baalbek-Hermel,Al Hermel,El Qasr,34.4805,36.4402,1,National,0
+LBN33345,2025-02-26,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN33363,2025-03-01,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN33366,2025-03-02,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,1,National,0
+LBN33367,2025-03-02,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,2,National,0
+LBN33368,2025-03-02,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,2,National,0
+LBN33369,2025-03-02,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN33371,2025-03-03,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Blida,33.14,35.5147,2,National,0
+LBN33372,2025-03-03,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,Local partner-New media,0
+LBN33378,2025-03-03,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,1,National,0
+LBN33382,2025-03-07,1,Battles,Armed clash,Military Forces of Syria (2024-),,Jaafar Clan Militia (Lebanon),Hezbollah; Smugglers (Lebanon); Unidentified Clan Militia (Lebanon); Zaiter Clan Militia (Lebanon),Lebanon,Baalbek-Hermel,Al Hermel,El Qasr,34.4805,36.4402,1,National,0
+LBN33383,2025-03-04,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Majdel Selm,33.2222,35.4647,1,National,0
+LBN33386,2025-03-06,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Borj el Mlouk,33.3215,35.5632,1,Local partner-New media,0
+LBN33388,2025-03-04,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Kafra,33.1685,35.3412,1,National,0
+LBN33389,2025-03-05,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,South,Tyr,Ras al Naqoura,33.1181,35.1397,1,Local partner-New media,0
+LBN33390,2025-03-05,1,Strategic developments,Other,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Tell en Nhas,33.3125,35.5666,2,National,0
+LBN33391,2025-03-05,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN33392,2025-03-07,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Civilians (Syria); Hezbollah,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,2,Local partner-New media,0
+LBN33393,2025-03-06,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Civilians (Lebanon),Farmers (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Rmaysh,33.0783,35.3661,1,National,0
+LBN33396,2025-03-07,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Al Nabatieh,Al Nabatieh,Aazze,33.4557,35.4312,2,Local partner-New media,0
+LBN33397,2025-03-07,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,South,Tyr,Zebqine,33.1674,35.2586,2,Local partner-New media,0
+LBN33398,2025-03-07,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Al Nabatieh,Bint Jbeil,Beit Yahoun,33.1592,35.4225,2,Local partner-New media,0
+LBN33399,2025-03-07,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,South,Jezzine,Aaychiyeh,33.4089,35.5567,2,Local partner-New media,0
+LBN33400,2025-03-07,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,South,Jezzine,Rihan,33.4445,35.567,2,Local partner-New media,0
+LBN33401,2025-03-07,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Al Nabatieh,Al Nabatieh,Ansar,33.3784,35.3537,2,Local partner-New media,0
+LBN33405,2025-03-07,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,South,Tyr,Zebqine,33.1674,35.2586,1,Local partner-New media,0
+LBN33406,2025-03-07,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Al Nabatieh,Bint Jbeil,Aayta Ej Jabal,33.1748,35.4044,2,National,0
+LBN33407,2025-03-04,1,Violence against civilians,Attack,Unidentified Armed Group (Lebanon),,Civilians (Lebanon),Labor Group (Lebanon),Lebanon,South,Jezzine,Qatrani,33.4402,35.6036,1,National,0
+LBN33411,2025-03-07,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN33416,2025-03-07,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,South,Sayda,Zrariyeh,33.3438,35.3346,1,National,0
+LBN33417,2025-03-07,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Al Nabatieh,Hasbeiya,Berghoz,33.4126,35.6244,1,Local partner-New media,0
+LBN33418,2025-03-07,1,Strategic developments,Other,Settlers (Israel),Haredi Jewish Group (Israel); Military Forces of Israel (2022-),,,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,2,National,0
+LBN33420,2025-03-13,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Chebaa,33.3475,35.7492,1,National,0
+LBN33421,2025-03-13,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Markaba and Houla Military Post,33.2878,35.5872,1,National,0
+LBN33422,2025-03-13,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,1,National,0
+LBN33423,2025-03-13,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,Military Forces of Lebanon (2021-),,Lebanon,Al Nabatieh,Hasbeiya,Al Wazzani,33.2756,35.6228,1,National,0
+LBN33424,2025-03-09,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Military Forces of Lebanon (2021-),Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,Local partner-New media,1
+LBN33425,2025-03-13,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN33428,2025-03-08,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN33430,2025-03-11,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Al Nabatieh,Al Nabatieh,Houmine el Faouqa,33.4413,35.4977,2,Local partner-New media,1
+LBN33436,2025-03-10,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Ramieh,33.1108,35.3103,1,National,0
+LBN33437,2025-03-12,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Farmers (Lebanon),Lebanon,Al Nabatieh,Al Nabatieh,Mazraat Sardah,33.4351,35.4785,1,National,0
+LBN33438,2025-03-12,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Ramieh,33.1108,35.3103,2,National,0
+LBN33455,2025-03-09,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN33456,2025-03-12,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Rmaysh,33.0783,35.3661,2,National,0
+LBN33458,2025-03-08,1,Strategic developments,Other,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,1,National,0
+LBN33461,2025-03-09,1,Explosions/Remote violence,Remote explosive/landmine/IED,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Blida,33.14,35.5147,1,National,0
+LBN33462,2025-03-09,1,Explosions/Remote violence,Remote explosive/landmine/IED,Military Forces of Israel (2022-),,Civilians (Syria),,Lebanon,Baalbek-Hermel,Al Hermel,El Qasr,34.4805,36.4402,1,National,1
+LBN33463,2025-03-08,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,2,Local partner-New media,0
+LBN33464,2025-03-08,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,El Hamames,33.2924,35.59,2,National,0
+LBN33465,2025-03-09,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Farmers (Lebanon),Lebanon,Al Nabatieh,Hasbeiya,Chebaa,33.3475,35.7492,1,National,0
+LBN33466,2025-03-09,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Military Forces of Lebanon (2021-),Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,1,National,0
+LBN33467,2025-03-11,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,2,Local partner-New media,0
+LBN33468,2025-03-12,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,El Hamames,33.2924,35.59,1,National,0
+LBN33469,2025-03-13,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN33471,2025-03-14,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Al Wazzani,33.2756,35.6228,2,National,0
+LBN33473,2025-02-02,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Journalists (Lebanon); Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,National,0
+LBN33475,2025-03-16,1,Battles,Armed clash,Military Forces of Syria (2024-),,Unidentified Clan Militia (Lebanon),Hezbollah; Smugglers (Lebanon),Lebanon,Baalbek-Hermel,Al Hermel,El Qasr,34.4805,36.4402,2,Local partner-New media,6
+LBN33482,2025-03-16,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,Local partner-New media,0
+LBN33484,2025-03-16,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Aadayseh Marjayoun,33.2544,35.5424,1,National,0
+LBN33500,2025-03-17,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,Civilians (Lebanon),Lebanon,Al Nabatieh,Al Nabatieh,Yohmor,33.3114,35.5163,1,Local partner-New media,2
+LBN33501,2025-03-16,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,Civilians (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Ainata,33.1297,35.4409,1,Local partner-New media,2
+LBN33502,2025-03-16,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Ainata,33.1297,35.4409,2,National,0
+LBN33503,2025-03-17,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,National,0
+LBN33508,2025-03-16,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Bint Jbeil,Ramieh,33.1108,35.3103,1,National,0
+LBN33509,2025-03-16,1,Strategic developments,Other,Military Forces of Israel (2022-),,Civilians (Lebanon),Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Ramieh,33.1108,35.3103,2,National,0
+LBN33510,2025-03-16,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,Local partner-New media,0
+LBN33511,2025-03-16,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,2,National,0
+LBN33512,2025-03-17,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,National,0
+LBN33514,2025-03-15,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Chebaa,33.3475,35.7492,2,National,0
+LBN33515,2025-03-17,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,El Majidiye,33.2842,35.6564,1,National,0
+LBN33516,2025-03-16,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,2,National,0
+LBN33519,2025-03-15,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Aadayseh Marjayoun,33.2544,35.5424,1,National,0
+LBN33520,2025-03-15,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Aadayseh Marjayoun,33.2544,35.5424,1,National,0
+LBN33521,2025-03-15,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,Civilians (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Borj el Mlouk,33.3215,35.5632,1,New media-National,2
+LBN33522,2025-03-17,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Al Nabatieh,Marjayoun,Deir Mimas,33.3025,35.5458,2,Local partner-New media,0
+LBN33525,2025-03-16,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,Local partner-New media,1
+LBN33530,2025-03-17,1,Battles,Armed clash,Military Forces of Syria (2024-),,Jaafar Clan Militia (Lebanon),Hezbollah; Smugglers (Lebanon); Unidentified Clan Militia (Lebanon); Zaiter Clan Militia (Lebanon),Lebanon,Baalbek-Hermel,Al Hermel,El Qasr,34.4805,36.4402,1,National,6
+LBN33550,2025-03-17,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,South,Jezzine,Berkat Jabbour,33.4735,35.6073,1,Local partner-New media,0
+LBN33453,2025-03-14,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,Unidentified Armed Group (Lebanon),Unidentified Armed Group (Palestine),Lebanon,Mount Lebanon,Aley,Btater,33.7683,35.6319,1,National,0
+LBN33020,2025-02-04,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,Unidentified Clan Militia (Lebanon),,Lebanon,Baalbek-Hermel,Baalbek,Al Nabi Sheet,33.8731,36.1117,1,National,0
+LBN33035,2025-02-06,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Baalbek-Hermel,Baalbek,Al Nabi Sheet,33.8731,36.1117,1,New media-National,0
+LBN33232,2025-02-08,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Civilians (Lebanon),Hezbollah,Lebanon,Baalbek-Hermel,Baalbek,Al Nabi Sheet,33.8731,36.1117,1,National,3
+LBN33286,2025-02-16,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Baalbek-Hermel,Baalbek,Boudai,34.0611,36.0611,1,Local partner-New media,0
+LBN33426,2025-03-13,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Baalbek-Hermel,Baalbek,Al Nabi Sheet,33.8731,36.1117,1,National,0
+LBN33532,2025-03-17,1,Battles,Armed clash,Military Forces of Syria (2024-),,Military Forces of Lebanon (2021-),,Lebanon,Baalbek-Hermel,Al Hermel,Hosh Al-Sayyid Ali,34.4539,36.4869,1,National,0
+LBN33160,2025-02-09,1,Riots,Violent demonstration,Rioters (Lebanon),,,,Lebanon,Baalbek-Hermel,Al Hermel,Chouaghir,34.3761,36.4083,1,National,0
+LBN32372,2025-01-08,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Baalbek-Hermel,Al Hermel,Al Hermel,34.3972,36.3874,1,National,0
+LBN32413,2025-01-08,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Baalbek-Hermel,Baalbek,Baalbek,34.0058,36.2181,1,National,0
+LBN32442,2025-01-10,1,Strategic developments,Other,Military Forces of Israel (2022-),,,,Lebanon,Baalbek-Hermel,Al Hermel,Al Hermel,34.3972,36.3874,1,National,0
+LBN32598,2025-01-13,1,Battles,Armed clash,Unidentified Clan Militia (Lebanon),,Unidentified Armed Group (Syria),,Lebanon,Baalbek-Hermel,Al Hermel,Hosh Bint Ismail,34.4551,36.484,2,National,0
+LBN32632,2025-01-22,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,Unidentified Armed Group (Lebanon),,Lebanon,Baalbek-Hermel,Al Hermel,Kouakh,34.467,36.3906,1,National,0
+LBN32639,2025-01-19,1,Battles,Armed clash,Unidentified Armed Group (Lebanon),,Unidentified Armed Group (Syria),,Lebanon,Baalbek-Hermel,Al Hermel,Al Hermel,34.3972,36.3874,2,National,0
+LBN32766,2025-01-31,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Akkar,Akkar,Hnaider,34.6156,36.4286,1,National,0
+LBN32771,2025-01-31,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Akkar,Akkar,Wadi Khaled,34.6194,36.3736,1,Local partner-New media,0
+LBN32956,2025-02-07,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Syria (2024-),,Civilians (Lebanon),,Lebanon,Baalbek-Hermel,Al Hermel,Kouakh,34.467,36.3906,1,National,0
+LBN32957,2025-02-07,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Syria (2024-),,Civilians (Lebanon),,Lebanon,Baalbek-Hermel,Al Hermel,Salhat el Ma,34.476,36.3809,1,National,0
+LBN32958,2025-02-06,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Syria (2024-),,Hezbollah,,Lebanon,Baalbek-Hermel,Al Hermel,Al Hermel,34.3972,36.3874,1,Local partner-New media,0
+LBN33036,2025-02-06,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Baalbek-Hermel,Baalbek,Braytal,33.9342,36.1494,1,National,0
+LBN33043,2025-02-07,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Syria (2024-),,,,Lebanon,Baalbek-Hermel,Al Hermel,Kouakh,34.467,36.3906,2,National,0
+LBN33049,2025-02-07,1,Strategic developments,Change to group/activity,Military Forces of Lebanon (2021-),,,,Lebanon,Baalbek-Hermel,Al Hermel,Al Hermel,34.3972,36.3874,1,National,0
+LBN33052,2025-02-09,1,Battles,Armed clash,Military Forces of Syria (2024-),,Jaafar Clan Militia (Lebanon),Hezbollah; Smugglers (Lebanon); Unidentified Clan Militia (Lebanon); Zaiter Clan Militia (Lebanon),Lebanon,Baalbek-Hermel,Al Hermel,Al Hermel,34.3972,36.3874,2,National,0
+LBN33055,2025-02-09,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Baalbek-Hermel,Al Hermel,Mrah Ez Zakbe,34.4792,36.3933,1,National,0
+LBN33056,2025-02-09,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Baalbek-Hermel,Al Hermel,Qanafez,34.4861,36.3965,2,National,0
+LBN33061,2025-02-09,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Baalbek-Hermel,Al Hermel,Salhat el Ma,34.476,36.3809,1,National,0
+LBN33072,2025-02-09,1,Strategic developments,Change to group/activity,Military Forces of Lebanon (2021-),,,,Lebanon,Baalbek-Hermel,Baalbek,El Qaa,34.3442,36.4744,1,Local partner-New media,0
+LBN33073,2025-02-09,1,Strategic developments,Change to group/activity,Military Forces of Lebanon (2021-),,,,Lebanon,Baalbek-Hermel,Baalbek,Mshayerfeh,34.1437,36.1394,1,National,0
+LBN33075,2025-02-09,1,Strategic developments,Change to group/activity,Military Forces of Lebanon (2021-),,,,Lebanon,Baalbek-Hermel,Al Hermel,Salhat el Ma,34.476,36.3809,1,National,0
+LBN33086,2025-02-08,1,Strategic developments,Looting/property destruction,Jaafar Clan Militia (Lebanon),Hezbollah; Smugglers (Lebanon),Military Forces of Syria (2024-),,Lebanon,Baalbek-Hermel,Al Hermel,Al Hermel,34.3972,36.3874,2,Local partner-New media,0
+LBN33128,2025-02-10,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Jaafar Clan Militia (Lebanon),Hezbollah; Smugglers (Lebanon),Lebanon,Baalbek-Hermel,Al Hermel,Al Hermel,34.3972,36.3874,2,Local partner-New media,0
+LBN33129,2025-02-10,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Jaafar Clan Militia (Lebanon),Hezbollah; Smugglers (Lebanon),Lebanon,Baalbek-Hermel,Al Hermel,Qanafez,34.4861,36.3965,1,National,0
+LBN33130,2025-02-10,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Jaafar Clan Militia (Lebanon),Hezbollah; Smugglers (Lebanon),Lebanon,Baalbek-Hermel,Al Hermel,Ed Daoura El Hermel,34.4028,36.3895,1,National,0
+LBN33131,2025-02-10,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Jaafar Clan Militia (Lebanon),Hezbollah; Smugglers (Lebanon),Lebanon,Baalbek-Hermel,Al Hermel,Hosh Bint Ismail,34.4551,36.484,1,National,0
+LBN33132,2025-02-08,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Syria (2024-),,Military Forces of Lebanon (2021-),,Lebanon,Baalbek-Hermel,Al Hermel,Al Hermel,34.3972,36.3874,2,National,0
+LBN33133,2025-02-08,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Syria (2024-),,Civilians (Lebanon),,Lebanon,Baalbek-Hermel,Al Hermel,Qanafez,34.4861,36.3965,1,National,0
+LBN33134,2025-02-08,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Syria (2024-),,Civilians (Lebanon),,Lebanon,Baalbek-Hermel,Al Hermel,Salhat el Ma,34.476,36.3809,1,National,0
+LBN33137,2025-02-09,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Syria (2024-),,Civilians (Lebanon),,Lebanon,Baalbek-Hermel,Al Hermel,Mrah Ez Zakbe,34.4792,36.3933,1,National,0
+LBN33139,2025-02-09,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Syria (2024-),,,,Lebanon,Baalbek-Hermel,Al Hermel,Salhat el Ma,34.476,36.3809,1,National,0
+LBN33140,2025-02-09,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Syria (2024-),,,,Lebanon,Baalbek-Hermel,Al Hermel,Kouakh,34.467,36.3906,2,National,0
+LBN33141,2025-02-09,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Syria (2024-),,,,Lebanon,Baalbek-Hermel,Al Hermel,Qanafez,34.4861,36.3965,1,National,0
+LBN33147,2025-02-08,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Syria (2024-),,Jaafar Clan Militia (Lebanon),Hezbollah; Smugglers (Lebanon); Unidentified Clan Militia (Lebanon); Zaiter Clan Militia (Lebanon),Lebanon,Baalbek-Hermel,Al Hermel,Mrah Ez Zakbe,34.4792,36.3933,1,National,0
+LBN33427,2025-03-08,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,Civilians (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Kherbet Selm,33.2302,35.4218,1,New media-National,1
+LBN33429,2025-03-11,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Al Nabatieh,Bint Jbeil,Froun,33.2947,35.4278,1,Local partner-New media,1
+LBN33450,2025-03-13,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,Unidentified Armed Group (Lebanon),,Lebanon,Baalbek-Hermel,Baalbek,Aarsal,34.1794,36.4208,1,National,0
+LBN33451,2025-03-13,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,Unidentified Armed Group (Lebanon),,Lebanon,Baalbek-Hermel,Baalbek,Braytal,33.9342,36.1494,1,National,0
+LBN33529,2025-03-17,1,Strategic developments,Change to group/activity,Military Forces of Lebanon (2021-),,,,Lebanon,Baalbek-Hermel,Al Hermel,Al Hermel,34.3972,36.3874,2,National,0
+LBN33531,2025-03-16,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Syria (2024-),,,,Lebanon,Baalbek-Hermel,Al Hermel,Hosh Bint Ismail,34.4551,36.484,2,National,0
+LBN33534,2025-03-16,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Syria (2024-),,,,Lebanon,Baalbek-Hermel,Al Hermel,Kouakh,34.467,36.3906,1,National,0
+LBN33535,2025-03-16,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Syria (2024-),,,,Lebanon,Baalbek-Hermel,Al Hermel,Salhat el Ma,34.476,36.3809,1,National,0
+LBN32339,2025-01-03,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,Unidentified Armed Group (International),,Lebanon,Baalbek-Hermel,Baalbek,Taybeh,33.9583,36.1661,1,National,0
+LBN32398,2025-01-07,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,Unidentified Armed Group (International),,Lebanon,South,Tyr,Qlaileh,33.1984,35.2291,1,National,0
+LBN32602,2025-01-14,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,Unidentified Armed Group (International),,Lebanon,Baalbek-Hermel,Baalbek,Taybeh,33.9583,36.1661,1,National,0
+LBN32604,2025-01-16,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,Unidentified Armed Group (International),,Lebanon,Baalbek-Hermel,Baalbek,Taybeh,33.9583,36.1661,1,National,0
+LBN32592,2025-01-17,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,Unidentified Armed Group (International),,Lebanon,Al Nabatieh,Marjayoun,Qlayaa,33.3347,35.5709,1,National,0
+LBN32677,2025-01-19,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,Unidentified Armed Group (International),,Lebanon,Baalbek-Hermel,Baalbek,Taybeh,33.9583,36.1661,1,National,0
+LBN32709,2025-01-21,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,Unidentified Armed Group (International),,Lebanon,Baalbek-Hermel,Baalbek,Taybeh,33.9583,36.1661,1,National,0
+LBN32904,2025-01-25,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,Unidentified Armed Group (International),,Lebanon,Al Nabatieh,Marjayoun,Taybeh,33.2755,35.5179,1,National,0
+LBN33357,2025-02-28,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,2,National,0
+LBN33358,2025-02-28,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Blida,33.14,35.5147,2,National,0
+LBN33354,2025-02-27,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Al Nabatieh,Bint Jbeil,Ainata,33.1297,35.4409,1,New media-National,0
+LBN33310,2025-02-27,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,Civilians (Lebanon),Lebanon,Baalbek-Hermel,Al Hermel,Al Hermel,34.3972,36.3874,1,Local partner-New media,2
+LBN33306,2025-02-26,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Journalists (Lebanon),Lebanon,South,Tyr,Ed Dhayra,33.1053,35.2248,1,National,0
+LBN33307,2025-02-26,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Coast of Ras al Naqoura,33.127,35.1293,2,National,0
+LBN33319,2025-02-26,1,Strategic developments,Other,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,1,National,0
+LBN33347,2025-02-26,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Baalbek-Hermel,Al Hermel,El Qasr,34.4805,36.4402,1,Local partner-New media,2
+LBN33348,2025-02-26,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,South,Jezzine,Mahmoudiya,33.3868,35.5523,1,Local partner-New media,0
+LBN33353,2025-02-26,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Ras al Naqoura,33.1181,35.1397,1,National,0
+LBN33309,2025-02-25,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Baalbek-Hermel,Baalbek,Jenta,33.8575,36.1075,1,Local partner-New media,2
+LBN33344,2025-02-25,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Aalma Ech Chaab,33.1042,35.1819,2,National,0
+LBN33342,2025-02-25,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Baalbek-Hermel,Baalbek,Al Nabi Sheet,33.8731,36.1117,1,Other-Regional,0
+LBN33314,2025-02-24,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),Norwegian People's Aid Organization,Military Forces of Israel (2022-),,Lebanon,South,Tyr,Chabriha,33.2926,35.2186,1,National,0
+LBN33329,2025-02-23,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Baalbek-Hermel,Baalbek,Flawiye,34.0473,36.0917,2,Local partner-New media,0
+LBN33333,2025-02-23,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,South,Sayda,Aaqbiyeh,33.4687,35.3192,1,Local partner-New media,0
+LBN33334,2025-02-23,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,South,Sayda,Baisariyeh,33.4444,35.3116,1,Other-National,0
+LBN33335,2025-02-23,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,South,Sayda,Tebna,33.4376,35.3407,1,Local partner-New media,0
+LBN33337,2025-02-23,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,South,Tyr,Aaziyyeh,33.1835,35.2342,1,Other-National,0
+LBN33338,2025-02-23,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,South,Tyr,Maaroub,33.2856,35.3478,2,Local partner-New media,0
+LBN33339,2025-02-23,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,South,Tyr,Qlaileh,33.1984,35.2291,2,Other-National,0
+LBN33340,2025-02-23,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,Civilians (Syria),Lebanon,South,Tyr,Sammaiyyeh,33.2218,35.2258,2,Local partner-New media,0
+LBN33311,2025-02-23,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,South,Tyr,Zebqine,33.1674,35.2586,2,Local partner-New media,0
+LBN33312,2025-02-23,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Al Nabatieh,Al Nabatieh,Ansar,33.3784,35.3537,2,Local partner-New media,0
+LBN33313,2025-02-23,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Rmaysh,33.0783,35.3661,1,National,0
+LBN33324,2025-02-23,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Al Nabatieh,Hasbeiya,Berghoz,33.4126,35.6244,1,Local partner-New media,0
+LBN33331,2025-02-23,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,South,Jezzine,Mahmoudiya,33.3868,35.5523,1,Local partner-New media,0
+LBN33332,2025-02-23,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,South,Jezzine,Rihan,33.4445,35.567,1,Local partner-New media,0
+LBN33336,2025-02-23,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,South,Sayda,Zrariyeh,33.3438,35.3346,2,Local partner-New media,0
+LBN33327,2025-02-23,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Baalbek-Hermel,Al Hermel,Sharbine,34.4583,36.3595,1,Local partner-New media,0
+LBN33328,2025-02-23,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Baalbek-Hermel,Baalbek,Boudai,34.0611,36.0611,1,Local partner-New media,0
+LBN33326,2025-02-23,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Baalbek-Hermel,Al Hermel,Al Hermel,34.3972,36.3874,1,Local partner-New media,0
+LBN33323,2025-02-22,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Bekaa,Zahle,Qusaya,33.8122,36.025,1,National,0
+LBN33305,2025-02-22,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,2,National,0
+LBN33321,2025-02-22,1,Strategic developments,Other,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Hasbeiya,Chebaa,33.3475,35.7492,1,National,0
+LBN33322,2025-02-22,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,2,National,0
+LBN33234,2025-02-20,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,,Lebanon,Akkar,Akkar,Wadi Khaled,34.6194,36.3736,2,New media-National,0
+LBN33225,2025-02-19,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Hasbeiya,Al Wazzani,33.2756,35.6228,1,National,0
+LBN33230,2025-02-19,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,New media-National,0
+LBN33239,2025-02-19,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Hezbollah,Civilians (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,Local partner-New media,1
+LBN33251,2025-02-19,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,Military Forces of Lebanon (2021-),,Lebanon,Al Nabatieh,Hasbeiya,Chebaa,33.3475,35.7492,1,Local partner-New media,0
+LBN33264,2025-02-19,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Aadayseh Marjayoun,33.2544,35.5424,1,National,0
+LBN33205,2025-02-18,1,Strategic developments,Headquarters or base established,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Jabal Blat Military Post,33.1107,35.2895,1,National,0
+LBN33206,2025-02-18,1,Strategic developments,Headquarters or base established,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Labbouneh Hills Military Post,33.0917,35.149,1,National,0
+LBN33294,2025-02-18,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,South,Tyr,Aabbassiye,33.2983,35.2821,1,National,0
+LBN33295,2025-02-18,2,Strategic developments,Headquarters or base established,Military Forces of Israel (2022-),,,,Lebanon,South,Tyr,Ed Dhayra,33.1053,35.2248,2,National,0
+LBN33202,2025-02-18,1,Strategic developments,Headquarters or base established,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Jal al Deir Military Post,33.2124,35.5349,1,National,0
+LBN33203,2025-02-18,1,Strategic developments,Headquarters or base established,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Hamames Hill Military Post,33.0941,35.4871,1,National,0
+LBN33204,2025-02-18,1,Strategic developments,Headquarters or base established,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Markaba and Houla Military Post,33.2878,35.5872,1,National,0
+LBN33207,2025-02-18,1,Battles,Armed clash,Military Forces of Israel (2022-),,Military Forces of Lebanon (2021-),,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,2,National,0
+LBN33226,2025-02-18,2,Strategic developments,Headquarters or base established,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,2,National,0
+LBN33236,2025-02-18,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Al Nabatieh,Mazraat Sardah,33.4351,35.4785,1,National,0
+LBN33238,2025-02-18,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,2,National,0
+LBN33243,2025-02-18,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,1,National,0
+LBN33244,2025-02-18,1,Strategic developments,Change to group/activity,Military Forces of Lebanon (2021-),,,,Lebanon,Al Nabatieh,Bint Jbeil,Rmaysh,33.0783,35.3661,1,National,0
+LBN33248,2025-02-18,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,National,0
+LBN33249,2025-02-18,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Hasbeiya,Al Wazzani,33.2756,35.6228,1,National,0
+LBN33252,2025-02-18,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),UNIFIL: United Nations Interim Force in Lebanon (1978-),Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Hasbeiya,El Majidiye,33.2842,35.6564,1,National,0
+LBN33256,2025-02-18,1,Strategic developments,Change to group/activity,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,1,National,0
+LBN33257,2025-02-18,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,1,Local partner-New media,0
+LBN33258,2025-02-18,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Hasbeiya,Kfar Chouba,33.3278,35.6925,2,National,0
+LBN33262,2025-02-18,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Aadayseh Marjayoun,33.2544,35.5424,1,National,0
+LBN33263,2025-02-18,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,,,Lebanon,Al Nabatieh,Marjayoun,Aadayseh Marjayoun,33.2544,35.5424,1,National,0
+LBN33266,2025-02-18,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Blida,33.14,35.5147,1,National,0
+LBN33267,2025-02-18,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Borj el Mlouk,33.3215,35.5632,1,National,0
+LBN33271,2025-02-18,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,National,0
+LBN33275,2025-02-18,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN33276,2025-02-18,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,National,0
+LBN33277,2025-02-18,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Markaba,33.2333,35.513,1,National,0
+LBN33282,2025-02-18,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN33283,2025-02-18,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,2,Local partner-New media,0
+LBN32913,2025-01-26,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Hezbollah; Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Wadi Saluki,33.2154,35.4873,1,New media-National,0
+LBN32936,2025-01-26,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,South,Tyr,Ed Dhayra,33.1053,35.2248,1,National,0
+LBN32944,2025-01-26,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,South,Tyr,Umm Touteh,33.1085,35.2553,1,National,0
+LBN32946,2025-01-26,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,South,Tyr,Yarine,33.1064,35.2324,1,National,0
+LBN32948,2025-01-26,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,South,Tyr,Zalloutieh,33.1092,35.245,1,National,0
+LBN32945,2025-01-26,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Military Forces of Lebanon (2021-); Refugees/IDPs (Lebanon),Lebanon,South,Tyr,Yarine,33.1064,35.2324,1,New media-National,0
+LBN32940,2025-01-26,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Military Forces of Lebanon (2021-); Refugees/IDPs (Lebanon),Lebanon,South,Tyr,Marwahin,33.1086,35.2754,1,Local partner-New media,1
+LBN32773,2025-01-26,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Al Nabatieh,Aadchit,33.3477,35.4183,1,National,0
+LBN32777,2025-01-26,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Hezbollah; Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Ainata,33.1297,35.4409,1,New media-National,0
+LBN32778,2025-01-26,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,National,0
+LBN32779,2025-01-26,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Hezbollah; Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Aita ech Chaab,33.0971,35.3367,1,National,0
+LBN32782,2025-01-26,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Hezbollah; Police Forces of Lebanon (2021-); Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,1,National,6
+LBN32783,2025-01-26,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Aitaroun,33.1153,35.4714,1,National,0
+LBN32789,2025-01-26,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Hezbollah; Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Beit Yahoun,33.1592,35.4225,1,New media-National,0
+LBN32790,2025-01-26,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Hezbollah; Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Bent Jbeil,33.1194,35.4333,1,New media-National,0
+LBN32793,2025-01-26,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Hezbollah; Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Chaqra,33.1933,35.4678,1,New media-National,0
+LBN32796,2025-01-26,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Hezbollah; Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,1,National,0
+LBN32797,2025-01-26,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Hezbollah; Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,1,New media-National,0
+LBN32798,2025-01-26,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Maroun er Ras,33.1038,35.4444,1,National,0
+LBN32804,2025-01-26,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Qouzah,33.1203,35.3382,1,National,0
+LBN32808,2025-01-26,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Hezbollah; Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,New media-National,0
+LBN32809,2025-01-26,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Bint Jbeil,Yaroun,33.0803,35.4225,1,National,0
+LBN32815,2025-01-26,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Hezbollah; Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Hasbeiya,Al Wazzani,33.2756,35.6228,1,New media-National,0
+LBN32816,2025-01-26,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Hasbeiya,Al Wazzani,33.2756,35.6228,1,National,0
+LBN32825,2025-01-26,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Hezbollah; Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Aadayseh Marjayoun,33.2544,35.5424,1,New media-National,2
+LBN32826,2025-01-26,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Aadayseh Marjayoun,33.2544,35.5424,1,National,0
+LBN32832,2025-01-26,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Civilians (Lebanon),Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Bani Haiyan,33.2431,35.489,1,National,0
+LBN32833,2025-01-26,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Hezbollah; Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Bani Haiyan,33.2431,35.489,1,New media-National,0
+LBN32834,2025-01-26,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Bani Haiyan,33.2431,35.489,1,National,0
+LBN32837,2025-01-26,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Amal Movement; Health Workers (Lebanon); Hezbollah; Islamic Risala Scout Association; Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Blida,33.14,35.5147,1,New media-National,1
+LBN32839,2025-01-26,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Hezbollah; Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Borj el Mlouk,33.3215,35.5632,1,New media-National,0
+LBN32844,2025-01-26,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Military Forces of Lebanon (2021-),Lebanon,Al Nabatieh,Marjayoun,Deir Mimas,33.3025,35.5458,1,New media-National,1
+LBN32846,2025-01-26,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Deir Siriane,33.292,35.5002,1,National,0
+LBN32849,2025-01-26,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2022-),,Civilians (Lebanon),,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,National,0
+LBN32850,2025-01-26,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Amal Movement; Hezbollah; Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,Local partner-New media,3
+LBN32851,2025-01-26,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Houla,33.2092,35.515,1,National,0
+LBN32858,2025-01-26,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Hezbollah; Journalists (Lebanon); Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Kfar Kila,33.2772,35.5517,1,New media-National,4
+LBN32870,2025-01-26,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Hezbollah; PIJ: Palestinian Islamic Jihad; Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Markaba,33.2333,35.513,1,New media-National,4
+LBN32871,2025-01-26,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Markaba,33.2333,35.513,1,National,0
+LBN32877,2025-01-26,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Civilians (Lebanon),Military Forces of Lebanon (2021-); Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,3
+LBN32878,2025-01-26,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),UNIFIL: United Nations Interim Force in Lebanon (1978-),Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,National,0
+LBN32887,2025-01-26,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Qantara,33.2716,35.4649,1,National,0
+LBN32894,2025-01-26,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Hezbollah; Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Rab el Thalathine,33.2482,35.5194,1,New media-National,1
+LBN32895,2025-01-26,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Rab el Thalathine,33.2482,35.5194,1,National,0
+LBN32899,2025-01-26,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Talouseh,33.2324,35.4851,1,National,0
+LBN32900,2025-01-26,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Hezbollah; Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Talouseh,33.2324,35.4851,1,National,0
+LBN32905,2025-01-26,1,Strategic developments,Non-violent transfer of territory,Military Forces of Lebanon (2021-),,Military Forces of Israel (2022-),,Lebanon,Al Nabatieh,Marjayoun,Taybeh,33.2755,35.5179,1,National,0
+LBN32906,2025-01-26,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Hezbollah; Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Taybeh,33.2755,35.5179,1,National,0
+LBN32952,2025-01-26,1,Violence against civilians,Attack,Military Forces of Israel (2022-),,Civilians (Lebanon),Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Marjayoun,Mays el Jabal,33.1691,35.5234,1,Local partner-New media,2
+LBN33021,2025-02-04,1,Strategic developments,Disrupted weapons use,Military Forces of Lebanon (2021-),,Unidentified Clan Militia (Lebanon),,Lebanon,Baalbek-Hermel,Baalbek,Chmistar,33.9647,36.0175,1,National,0
+LBN36078,2025-02-06,1,Battles,Armed clash,Unidentified Clan Militia (Lebanon),,Military Forces of Syria (2024-),,Lebanon,Baalbek-Hermel,Al Hermel,El Qasr,34.4805,36.4402,1,Other,0
+LBN36080,2025-03-11,1,Riots,Mob violence,Rioters (Lebanon),,UNIFIL: United Nations Interim Force in Lebanon (1978-),,Lebanon,Al Nabatieh,Bint Jbeil,Beit Lif,33.1328,35.3356,1,Other,0
+LBN43416,2025-01-28,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2022-),,Civilians (Lebanon),Refugees/IDPs (Lebanon),Lebanon,Al Nabatieh,Al Nabatieh,Zaoutar ech Charqiye,33.3197,35.4725,1,National,0

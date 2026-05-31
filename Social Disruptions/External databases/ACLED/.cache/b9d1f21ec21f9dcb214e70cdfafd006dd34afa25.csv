@@ -1,0 +1,367 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities
+UGA5297,2018-12-08,2,Violence against civilians,Attack,Unidentified Armed Group (Uganda),,Civilians (Uganda),Women (Uganda),Uganda,Dokolo,Dokolo,Dokolo,1.9133,33.1714,1,National,1
+UGA5279,2018-11-27,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Police Forces of Uganda (1986-),,Uganda,Amuru,Kilak,Atiak,3.245,32.1411,1,National,0
+UGA5288,2018-11-26,2,Strategic developments,Arrests,Military Forces of Uganda (1986-),,Civilians (Uganda),Labor Group (Uganda),Uganda,Amuru,Kilak,Atiak,3.245,32.1411,2,National,0
+UGA5258,2018-11-17,1,Violence against civilians,Attack,Unidentified Armed Group (Democratic Republic of Congo),,Civilians (Uganda),Labor Group (Uganda),Uganda,Hoima,Bugahya,Kaiso,1.5333,30.9667,2,National,7
+UGA5257,2018-11-17,1,Riots,Violent demonstration,Rioters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Kole,Kole,Alito,2.4167,32.7833,1,National,0
+UGA5255,2018-11-16,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Civilians (Uganda),,Uganda,Arua,Vurra,Arivu,2.874,30.9828,2,National,0
+UGA5256,2018-11-16,1,Protests,Peaceful protest,Protesters (Uganda),Labor Group (Uganda),,,Uganda,Lyantonde,Kabula,Lyantonde,-0.4031,31.1572,2,National,0
+UGA5253,2018-11-14,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Police Forces of Uganda (1986-) Uganda Wildlife Authority,,Uganda,Bududa,Manjiya,Bufuma,1.0533,34.4107,1,National,2
+UGA5252,2018-11-12,1,Violence against civilians,Attack,Unidentified Communal Militia (Democratic Republic of Congo),,Civilians (Uganda),Labor Group (Uganda),Uganda,Hoima,Bugahya,Kaiso,1.5333,30.9667,2,National,5
+UGA5250,2018-11-11,1,Violence against civilians,Attack,Unidentified Communal Militia (Uganda),,Civilians (Uganda),Students (Uganda),Uganda,Rakai,Kooki,Rakai,-0.707,31.4041,1,National,9
+UGA5248,2018-11-10,1,Riots,Mob violence,Police Forces of Uganda (1986-),,Rioters (Uganda),Vigilante Group (Uganda),Uganda,Bukedea,Bukedea,Tajar,1.3936,34.2391,2,National,1
+UGA5249,2018-11-10,1,Violence against civilians,Attack,Police Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Bukedea,Bukedea,Tajar,1.3936,34.2391,2,National,1
+UGA5246,2018-11-09,2,Riots,Violent demonstration,Rioters (South Sudan),Refugees/IDPs (South Sudan),Police Forces of Uganda (1986-),Aid Workers (Uganda),Uganda,Arua,Terego,Omugo,3.2745,31.1142,2,National,0
+UGA5244,2018-11-08,1,Violence against civilians,Attack,Unidentified Armed Group (Uganda),,Civilians (Uganda),,Uganda,Kagadi,Buyaga,Kasojo,1.0,30.6667,1,National,1
+UGA5225,2018-10-27,1,Battles,Armed clash,Unidentified Communal Militia (Uganda),,Kween Communal Militia (Uganda),,Uganda,Kween,Kween,Binyiny,1.4167,34.5333,3,National,1
+UGA5209,2018-10-12,2,Violence against civilians,Attack,Police Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Wakiso,Kyadondo,Lusanja,0.4014,32.572,1,National,0
+UGA5206,2018-10-09,1,Violence against civilians,Attack,Police Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Soroti,Soroti,Soroti,1.6856,33.6164,1,National,0
+UGA5204,2018-10-08,1,Riots,Violent demonstration,Rioters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Hoima,Bugahya,Kiryatete,1.5554,31.2622,1,National,0
+UGA5203,2018-10-06,1,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Rubanda,Rubanda,Rubanda,-1.1846,29.8517,1,National,0
+UGA5202,2018-10-06,1,Riots,Violent demonstration,Rioters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Namutumba,Busiki,Nawangisa,0.8263,33.565,1,National,1
+UGA6121,2018-10-04,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Uganda),,Civilians (Uganda),,Uganda,Kampala,Kampala,Kisugu,0.3053,32.6034,1,National,0
+UGA5198,2018-09-25,1,Protests,Peaceful protest,Protesters (Uganda),Refugees/IDPs (International),,,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5193,2018-09-23,1,Battles,Armed clash,Police Forces of Uganda (1986-) Uganda Wildlife Authority,,Poachers,,Uganda,Rubirizi,Bunyaruguru,Rubirizi,-0.2631,30.1086,2,International,4
+UGA5197,2018-09-22,1,Strategic developments,Change to group/activity,Military Forces of Uganda (1986-),,,,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5196,2018-09-21,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Civilians (Uganda),Civilians (Rwanda); Police Forces of Uganda (1986-),Uganda,Kisoro,Bufumbira,Kisoro,-1.3539,29.6983,1,National,0
+UGA5195,2018-09-20,1,Protests,Excessive force against protesters,Protesters (Uganda),,Military Forces of Uganda (1986-),,Uganda,Wakiso,Kyadondo,Kasangati,0.4402,32.6035,1,National,0
+UGA5194,2018-09-20,1,Strategic developments,Other,Government of Uganda (1986-),Police Forces of Uganda (1986-),Civilians (Uganda),Journalists (Uganda),Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National-International,0
+UGA5191,2018-09-11,1,Strategic developments,Arrests,Police Forces of Uganda (1986-),,Civilians (Uganda),FDC: Forum for Democratic Change,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,International,0
+UGA5188,2018-09-08,1,Violence against civilians,Attack,Unidentified Armed Group (Uganda),,Civilians (Uganda),Police Forces of Uganda (1986-),Uganda,Wakiso,Busiro,Bulenga,0.3167,32.5,1,National,2
+UGA5187,2018-09-04,1,Protests,Peaceful protest,Protesters (South Sudan),Refugees/IDPs (South Sudan),,,Uganda,Yumbe,Aringa,Bidi Bidi Refugee Camp,3.53,31.35,1,International,0
+UGA5273,2018-09-03,1,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Pader,Aruu,Pajule,2.9397,32.9439,1,National,0
+UGA5186,2018-09-02,2,Riots,Mob violence,Rioters (South Sudan),Refugees/IDPs (South Sudan),Rioters (South Sudan),Refugees/IDPs (South Sudan),Uganda,Adjumani,East Moyo,Nyumazi,3.4602,31.9475,2,International,0
+UGA5184,2018-08-31,1,Riots,Violent demonstration,Rioters (Uganda),,Police Forces of Uganda (1986-),Military Forces of Uganda (1986-),Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,International,0
+UGA5185,2018-08-31,1,Violence against civilians,Attack,Police Forces of Uganda (1986-),Military Forces of Uganda (1986-),Civilians (Uganda),Journalists (Uganda),Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,International,0
+UGA5182,2018-08-28,2,Strategic developments,Arrests,Government of Uganda (1986-),Military Forces of Uganda (1986-),Military Forces of Uganda (1986-),,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,International,0
+UGA5181,2018-08-27,1,Riots,Violent demonstration,Rioters (Uganda),,Police Forces of Uganda (1986-),Military Forces of Uganda (1986-),Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,3,International,0
+UGA5180,2018-08-23,1,Riots,Violent demonstration,Rioters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Gomba,Gomba,Bukalagi,0.1833,31.8667,1,National,1
+UGA5177,2018-08-20,1,Riots,Violent demonstration,Rioters (Uganda),,Police Forces of Uganda (1986-),Military Forces of Uganda (1986-),Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National-International,0
+UGA5178,2018-08-20,1,Violence against civilians,Attack,Military Forces of Uganda (1986-),,Civilians (Uganda),Journalists (Uganda),Uganda,Kampala,Kampala,Mulago,0.35,32.5833,1,National,0
+UGA5176,2018-08-20,1,Protests,Excessive force against protesters,Protesters (Uganda),,Police Forces of Uganda (1986-),Military Forces of Uganda (1986-),Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,1
+UGA5173,2018-08-17,1,Riots,Violent demonstration,Rioters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5172,2018-08-16,1,Riots,Violent demonstration,Rioters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5171,2018-08-16,1,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Moroto,Matheniko,Rupa,2.5922,34.7631,1,National,0
+UGA5164,2018-08-09,1,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Moroto,Matheniko,Rupa,2.5922,34.7631,1,National,0
+UGA5163,2018-08-08,2,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Kyankwanzi,Kiboga,Igayaza,0.943,31.532,1,National,0
+UGA5162,2018-08-07,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Civilians (Uganda),Christian Group (Uganda); Women (Uganda),Uganda,Adjumani,East Moyo,Pagirinya,3.3539,31.9923,1,National,1
+UGA5161,2018-08-06,1,Riots,Mob violence,Rioters (Uganda),Students (Uganda),Civilians (Uganda),,Uganda,Gulu,Aswa,Omel,2.8767,32.5822,1,National,0
+UGA5160,2018-08-03,1,Violence against civilians,Attack,Unidentified Armed Group (Uganda),Unidentified Armed Group (Democratic Republic of Congo),Civilians (Uganda),,Uganda,Kanungu,Kinkizi,Kanungu,-0.897,29.7754,2,National,0
+UGA5158,2018-08-03,1,Violence against civilians,Attack,Unidentified Armed Group (Democratic Republic of Congo),,Civilians (Uganda),,Uganda,Kanungu,Kinkizi,Kanungu,-0.897,29.7754,1,National,0
+UGA5358,2018-08-01,1,Protests,Excessive force against protesters,Protesters (Uganda),Students (Uganda),Police Forces of Uganda (1986-),,Uganda,Buhweju,Buhweju,Nyakitoko,-0.447,30.3268,1,National,1
+UGA5356,2018-07-27,1,Battles,Armed clash,Police Forces of Uganda (1986-),,Unidentified Armed Group (Uganda),,Uganda,Budaka,Iki-Iki,Kadimukoli,1.1149,34.0611,2,National,1
+UGA5149,2018-07-23,1,Violence against civilians,Attack,Unidentified Armed Group (South Sudan),,Civilians (Uganda),FDC: Forum for Democratic Change,Uganda,Bunyangabu,Rukiga,Mparo,-1.1844,30.0544,1,National,0
+UGA5146,2018-07-22,1,Violence against civilians,Attack,Unidentified Armed Group (South Sudan),,Civilians (South Sudan),NAS: National Salvation Front,Uganda,Obongi,Obongi,Palorinya,3.4774,31.6121,1,National,1
+UGA5144,2018-07-21,1,Riots,Mob violence,Rioters (Uganda),Rioters (Democratic Republic of Congo); Vigilante Group (Uganda); Vigilante Group (Democratic Republic of Congo),Military Forces of Uganda (1986-),,Uganda,Arua,Vurra,Vurra,2.9091,30.8825,1,International,3
+UGA5145,2018-07-21,1,Violence against civilians,Attack,Military Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Rukungiri,Rubabo,Kafunjo Health Center II,-1.0163,29.923,1,National,0
+UGA5140,2018-07-18,1,Protests,Protest with intervention,Protesters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5142,2018-07-18,1,Violence against civilians,Attack,NRM: National Resistance Movement,Military Forces of Uganda (1986-),Civilians (Uganda),FDC: Forum for Democratic Change,Uganda,Sheema,Sheema,Kashozi,-0.6833,30.3667,1,National,0
+UGA5139,2018-07-17,1,Riots,Mob violence,Rioters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Kisoro,Bufumbira,Kisoro,-1.3539,29.6983,1,National,1
+UGA5137,2018-07-11,2,Protests,Protest with intervention,Protesters (Uganda),Journalists (Uganda),Police Forces of Uganda (1986-),,Uganda,Katakwi,Katakwi,Katakwi,1.9143,33.9564,1,Other,0
+UGA5135,2018-07-11,1,Riots,Violent demonstration,Rioters (Uganda),Journalists (Uganda),Police Forces of Uganda (1986-),,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,International,0
+UGA5580,2018-07-04,1,Riots,Mob violence,Rioters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,2,Local partner-Other,0
+UGA5133,2018-07-02,1,Violence against civilians,Abduction/forced disappearance,Police Forces of Uganda (1986-) Internal Security Organisation,,Civilians (Uganda),,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5132,2018-06-30,1,Protests,Peaceful protest,Protesters (Uganda),Women (Uganda),,,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,International,0
+UGA5128,2018-06-17,1,Riots,Mob violence,Rioters (South Sudan),Nuer Ethnic Group (South Sudan); Refugees/IDPs (South Sudan),Rioters (South Sudan),Dinka Ethnic Group (South Sudan); Refugees/IDPs (South Sudan),Uganda,Madi Okollo,Madi Okollo,Rhino Camp,2.9729,31.3956,1,National,4
+UGA5271,2018-06-15,1,Strategic developments,Disrupted weapons use,Police Forces of Uganda (1986-),,Unidentified Armed Group (Uganda),,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5127,2018-06-14,1,Protests,Protest with intervention,Protesters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Kisoro,Bufumbira,Kisoro,-1.3539,29.6983,1,National,0
+UGA5126,2018-06-13,1,Protests,Protest with intervention,Protesters (Uganda),Women (Uganda),Police Forces of Uganda (1986-),,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5635,2018-06-13,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Civilians (Uganda),,Uganda,Bukomansimbi,Bukomansimbi,Kasenyi,-0.0333,31.6833,2,National,2
+UGA5653,2018-06-12,1,Violence against civilians,Attack,Police Forces of the Democratic Republic of Congo (2001-2019),Military Forces of the Democratic Republic of Congo (2001-2019),Civilians (Democratic Republic of Congo),,Uganda,Hoima,Bugahya,Kibiro,1.6731,31.2544,3,International,2
+UGA7745,2018-06-08,1,Violence against civilians,Attack,Private Security Forces (Uganda),,Civilians (Uganda),,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5124,2018-06-08,1,Violence against civilians,Attack,Unidentified Armed Group (Uganda),,Civilians (Uganda),NRM: National Resistance Movement,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National-International,2
+UGA5136,2018-06-07,1,Violence against civilians,Abduction/forced disappearance,Military Forces of Uganda (1986-),,Civilians (Uganda),NRM: National Resistance Movement,Uganda,Bugiri,Bukooli,Busoga,0.5,33.65,1,National,0
+UGA5122,2018-06-07,1,Riots,Violent demonstration,Rioters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Kassanda,Kassanda,Nyendo,0.2939,31.735,1,National,0
+UGA5120,2018-06-05,1,Protests,Protest with intervention,Protesters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,International,0
+UGA5269,2018-06-04,2,Violence against civilians,Attack,Police Forces of Uganda (1986-) Prison Guards,,Civilians (Uganda),Prisoners (Uganda),Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5116,2018-05-24,1,Riots,Violent demonstration,Rioters (South Sudan),Refugees/IDPs (South Sudan),Police Forces of Uganda (1986-),,Uganda,Arua,Terego,Omugo,3.2745,31.1142,1,National,0
+UGA5117,2018-05-24,1,Riots,Violent demonstration,Rioters (Uganda),Vigilante Group (Uganda),Police Forces of Uganda (1986-),,Uganda,Namutumba,Busiki,Namutumba,0.8361,33.6861,1,National,0
+UGA5268,2018-05-22,1,Strategic developments,Change to group/activity,Police Forces of Uganda (1986-),,,,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5114,2018-05-19,1,Riots,Mob violence,Rioters (Uganda),,Police Forces of Uganda (1986-),Military Forces of Uganda (1986-),Uganda,Kyenjojo,Mwenge,Ganyinayo,0.5585,30.7763,1,National,0
+UGA5113,2018-05-19,1,Violence against civilians,Abduction/forced disappearance,Mayi Mayi Militia,,Civilians (Uganda),,Uganda,Rukungiri,Bujumbura,Rweshama,-0.4123,29.775,2,International,0
+UGA5658,2018-05-04,1,Violence against civilians,Attack,Unidentified Armed Group (Uganda),,Civilians (Uganda),,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,Local partner-Other,0
+UGA5312,2018-05-02,1,Violence against civilians,Attack,Police Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Kampala,Kampala,Nakawa,0.3333,32.6333,1,National,1
+UGA5112,2018-04-29,1,Strategic developments,Change to group/activity,Police Forces of Uganda (1986-),Military Forces of Uganda (1986-),Muslim Militia (Uganda),,Uganda,Kampala,Kampala,Makindye,0.2833,32.5833,1,National,0
+UGA5111,2018-04-28,1,Battles,Armed clash,Police Forces of Uganda (1986-),Military Forces of Uganda (1986-),Muslim Militia (Uganda),ADF: Allied Democratic Forces,Uganda,Kampala,Kampala,Kisenyi,0.3083,32.5727,1,National,2
+UGA5109,2018-04-26,1,Riots,Mob violence,Rioters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Kampala,Kampala,Nakasero,0.3244,32.5788,2,National,0
+UGA5110,2018-04-26,1,Riots,Violent demonstration,Rioters (Uganda),,Police Forces of Uganda (1986-),Military Forces of Uganda (1986-),Uganda,Kassanda,Kassanda,Nyendo,0.2939,31.735,1,National,0
+UGA5108,2018-04-25,1,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Kabale,Ndorwa,Rwamucucu,-1.2097,30.06,1,National,0
+UGA5105,2018-04-25,1,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Bunyangabu,Rukiga,Kashambya,-1.0456,29.9808,1,National,0
+UGA5104,2018-04-25,1,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Bunyangabu,Rukiga,Kamwezi,-1.226,30.2173,1,National,0
+UGA5107,2018-04-25,1,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Bunyangabu,Rukiga,Muhanga,-1.1833,30.1333,1,National,0
+UGA5106,2018-04-25,1,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Kisoro,Bufumbira,Kisoro,-1.3539,29.6983,1,National,0
+UGA5102,2018-04-23,1,Violence against civilians,Attack,Military Forces of Uganda (1986-) Presidential Security Unit,,Civilians (Uganda),Teachers (Uganda),Uganda,Kampala,Kampala,Makerere University,0.3333,32.5667,1,National,0
+UGA5103,2018-04-23,1,Violence against civilians,Attack,Police Forces of Uganda (1986-) Uganda Wildlife Authority,,Civilians (Uganda),,Uganda,Kisoro,Bufumbira,Mgahinga National Park,-1.3667,29.65,1,National,1
+UGA5155,2018-04-20,2,Violence against civilians,Attack,Military Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Pakwach,Jonam,Pakwach,2.4634,31.4983,2,National,0
+UGA5100,2018-04-17,1,Protests,Protest with intervention,Protesters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5099,2018-04-17,1,Riots,Mob violence,Rioters (Uganda),Students (Uganda),Police Forces of Uganda (1986-),,Uganda,Kampala,Kampala,Makerere University,0.3333,32.5667,1,National,0
+UGA5098,2018-04-16,1,Riots,Violent demonstration,Rioters (Uganda),Students (Uganda),Police Forces of Uganda (1986-),,Uganda,Kampala,Kampala,Makerere University,0.3333,32.5667,1,National,0
+UGA5097,2018-04-11,2,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Civilians (Uganda),,Uganda,Kalungu,Kalungu,Mukoko,-0.1833,31.85,1,National,1
+UGA5154,2018-04-10,2,Violence against civilians,Attack,Military Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Pakwach,Jonam,Pakwach,2.4634,31.4983,2,National,0
+UGA5093,2018-04-04,1,Battles,Armed clash,Military Forces of Uganda (1986-),Police Forces of Uganda (1986-),Military Forces of South Sudan (2011-),,Uganda,Moyo,Moyo,Dufile,3.5641,31.9236,1,National,0
+UGA5092,2018-04-04,1,Battles,Armed clash,Military Forces of Uganda (1986-),Police Forces of Uganda (1986-),Military Forces of South Sudan (2011-),,Uganda,Moyo,Moyo,Metu,3.6536,31.8014,1,National,0
+UGA5091,2018-03-28,2,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Civilians (Uganda),,Uganda,Kyotera,Kyotera,Kyotera,-0.631,31.5445,1,National,0
+UGA5089,2018-03-27,1,Riots,Mob violence,Rioters (Uganda),,Private Security Forces (Uganda),Police Forces of Uganda (1986-); Military Forces of Uganda (1986-),Uganda,Yumbe,Aringa,Yumbe,3.4696,31.247,1,National,0
+UGA5087,2018-03-26,1,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Kampala,Kampala,Nakawa,0.3333,32.6333,1,National,0
+UGA5085,2018-03-23,1,Violence against civilians,Attack,Military Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Adjumani,East Moyo,Apaa,3.0009,31.7816,1,National,1
+UGA5083,2018-03-21,2,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Civilians (Uganda),,Uganda,Jinja,Kagoma,Buwenge,0.6491,33.1671,2,National,2
+UGA5084,2018-03-21,2,Violence against civilians,Attack,Nwoya Communal Militia (Uganda),Police Forces of Uganda (1986-),Civilians (Uganda),,Uganda,Nwoya,Nwoya,Nwoya,2.64,32.01,2,National,0
+UGA5086,2018-03-21,2,Violence against civilians,Attack,Military Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Nwoya,Nwoya,Got-Apwoyo,2.4628,31.5565,3,National,0
+UGA5153,2018-03-20,2,Violence against civilians,Attack,Military Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Pakwach,Jonam,Pakwach,2.4634,31.4983,2,National,0
+UGA5267,2018-03-20,1,Strategic developments,Change to group/activity,Police Forces of Uganda (1986-),,,,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5078,2018-03-16,1,Strategic developments,Looting/property destruction,Military Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Adjumani,East Moyo,Apaa,3.0009,31.7816,1,National,0
+UGA5074,2018-03-11,1,Battles,Armed clash,Military Forces of Uganda (1986-),,Unidentified Communal Militia (South Sudan),,Uganda,Moyo,Moyo,Metu,3.6536,31.8014,1,National,1
+UGA5075,2018-03-11,1,Riots,Mob violence,Rioters (Uganda),,Rioters (Uganda),,Uganda,Jinja,Butembe,Nakabango,0.5168,33.2204,1,National,0
+UGA5152,2018-03-10,2,Violence against civilians,Attack,Military Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Pakwach,Jonam,Pakwach,2.4634,31.4983,2,National,0
+UGA5072,2018-03-09,1,Riots,Mob violence,Police Forces of Uganda (1986-),,Rioters (Uganda),Vigilante Group (Uganda),Uganda,Bunyangabu,Rukiga,Kamwezi,-1.226,30.2173,2,National,1
+UGA5071,2018-03-06,1,Protests,Protest with intervention,Police Forces of Uganda (1986-),,Protesters (Uganda),Students (Uganda),Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5073,2018-03-05,2,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Jinja,Butembe,Bugembe,0.4797,33.2344,1,National,0
+UGA5307,2018-03-02,1,Battles,Armed clash,Paluo Ethnic Militia (Uganda),,Acholi Ethnic Militia (Uganda),,Uganda,Kiryandongo,Kibanda,Kibanda,2.0,31.9167,2,National,0
+UGA5068,2018-02-25,1,Riots,Violent demonstration,Police Forces of Uganda (1986-),,Rioters (Uganda),Students (Uganda),Uganda,Lira,Erute,Boroboro,2.2,32.9333,1,National,0
+UGA5067,2018-02-24,1,Strategic developments,Arrests,Police Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5066,2018-02-23,1,Violence against civilians,Attack,Military Forces of South Sudan (2011-),,Civilians (South Sudan),Refugees/IDPs (South Sudan),Uganda,Moyo,Moyo,Metu,3.6536,31.8014,1,National,1
+UGA5065,2018-02-22,1,Violence against civilians,Attack,Police Forces of Uganda (1986-),,Civilians (Uganda),Journalists (Uganda),Uganda,Kampala,Kampala,Kololo,0.3331,32.593,1,National,0
+UGA5064,2018-02-16,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Civilians (Uganda),,Uganda,Kanungu,Kinkizi,Kihihi,-0.75,29.7,1,National,1
+UGA5063,2018-02-15,1,Battles,Armed clash,Police Forces of Uganda (1986-),,Unidentified Armed Group (Uganda),,Uganda,Kampala,Kampala,Kanyanya,0.3831,32.57,2,National,2
+UGA5062,2018-02-14,1,Explosions/Remote violence,Grenade,Unidentified Armed Group (Uganda),,Civilians (Uganda),,Uganda,Bukwo,Kongasis,Bukwo,1.2926,34.7468,2,National,1
+UGA5060,2018-02-12,2,Battles,Armed clash,Unidentified Armed Group (Uganda),,Private Security Forces (Uganda),,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5059,2018-02-09,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Uganda),,,,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,International,0
+UGA7578,2018-02-08,1,Riots,Mob violence,Rioters (Uganda),,Private Security Forces (Uganda),Civilians (Uganda); HRAPF: Human Rights Awareness and Promotion Forum,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,Other,0
+UGA5266,2018-02-07,1,Violence against civilians,Attack,Unidentified Armed Group (Uganda),,Civilians (Uganda),Farmers (Uganda); Women (Uganda),Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,1
+UGA5058,2018-02-05,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Civilians (Uganda),,Uganda,Ibanda,Ibanda,Keihangara,-0.2293,30.5467,1,National,1
+UGA5057,2018-01-31,1,Violence against civilians,Attack,Police Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Arua,Ayivu,Mingoro,3.0974,30.8194,2,National,3
+UGA5056,2018-01-22,1,Strategic developments,Looting/property destruction,Boda Boda 2010 Militia (Uganda),,Boda Boda Militia (Uganda),,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5055,2018-01-19,1,Riots,Violent demonstration,Police Forces of Uganda (1986-),,Rioters (Uganda),Boda Boda 2010 Militia (Uganda),Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5054,2018-01-08,1,Riots,Mob violence,Police Forces of Uganda (1986-),,Rioters (Uganda),,Uganda,Luwero,Katikamu,Luwero,0.8413,32.4933,1,National,0
+UGA5053,2018-01-02,1,Protests,Peaceful protest,Protesters (Uganda),NRM: National Resistance Movement,,,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,International,0
+UGA5051,2018-01-02,1,Violence against civilians,Attack,Unidentified Armed Group (Uganda),,Civilians (Uganda),,Uganda,Bukomansimbi,Bukomansimbi,Kibinge,-0.2595,31.6304,2,National,3
+UGA5052,2018-01-02,1,Violence against civilians,Attack,Unidentified Armed Group (Uganda),,Civilians (Uganda),,Uganda,Lwengo,Bukoto,Lwengo,-0.4161,31.4081,2,National,2
+UGA5050,2018-01-01,1,Riots,Mob violence,Police Forces of Uganda (1986-),,Rioters (Uganda),Vigilante Group (Uganda),Uganda,Kampala,Kampala,Makindye,0.2833,32.5833,1,National,1
+UGA5259,2018-11-17,1,Riots,Violent demonstration,Rioters (Uganda),,Police Forces of Uganda (1986-),Military Forces of Uganda (1986-); Civilians (India),Uganda,Lira,Lira,Lira,2.2426,32.8913,1,National,0
+UGA5251,2018-11-12,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Civilians (Uganda),,Uganda,Hoima,Hoima,Hoima,1.4356,31.3436,1,National,1
+UGA5218,2018-10-19,2,Battles,Armed clash,SPLM-In Opposition: Sudan People's Liberation Movement-In Opposition,,Military Forces of Uganda (1986-),,Uganda,Koboko,Koboko,Koboko,3.4139,30.9597,2,National,1
+UGA5217,2018-10-19,2,Violence against civilians,Sexual violence,SPLM-In Opposition: Sudan People's Liberation Movement-In Opposition,,Civilians (Uganda),Women (Uganda),Uganda,Koboko,Koboko,Koboko,3.4139,30.9597,2,National,0
+UGA5210,2018-10-13,2,Protests,Peaceful protest,Protesters (Uganda),Labor Group (Uganda),,,Uganda,Jinja,Jinja,Jinja,0.4389,33.2031,1,National,0
+UGA5208,2018-10-11,1,Strategic developments,Arrests,Police Forces of Uganda (1986-),,Civilians (Uganda),Government of Uganda (1986-),Uganda,Wakiso,Entebbe,Entebbe Airport,0.0424,32.4435,1,International,0
+UGA5207,2018-10-11,1,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Kabale,Kabale,Kabale,-1.2483,29.9897,1,National,0
+UGA5199,2018-10-02,1,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Ibanda,Ibanda,Ibanda,-0.1331,30.4954,2,National,0
+UGA5201,2018-09-29,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Uganda),,Civilians (Uganda),Police Forces of Uganda (1986-),Uganda,Wakiso,Entebbe,Entebbe Airport,0.0424,32.4435,1,National,0
+UGA5200,2018-09-24,2,Violence against civilians,Abduction/forced disappearance,Military Forces of Uganda (1986-),,Civilians (Uganda),Police Forces of Uganda (1986-),Uganda,Wakiso,Entebbe,Entebbe Airport,0.0424,32.4435,3,National,0
+UGA5183,2018-08-30,1,Strategic developments,Arrests,Police Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Wakiso,Entebbe,Entebbe Airport,0.0424,32.4435,1,International,0
+UGA5179,2018-08-21,1,Riots,Mob violence,Rioters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Mityana,Mityana,Mityana,0.4015,32.0452,1,National,0
+UGA5174,2018-08-18,1,Protests,Excessive force against protesters,Protesters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Mukono,Mukono,Mukono,0.3533,32.7553,1,National,0
+UGA5189,2018-08-16,2,Violence against civilians,Attack,Military Forces of Uganda (1986-),,Civilians (Uganda),FDC: Forum for Democratic Change,Uganda,Gulu,Gulu,Gulu,2.7667,32.3056,1,National,0
+UGA5168,2018-08-14,1,Strategic developments,Arrests,Military Forces of Uganda (1986-),,Civilians (Uganda),FDC: Forum for Democratic Change,Uganda,Arua,Arua,Arua,3.02,30.9108,1,National,0
+UGA5169,2018-08-14,1,Strategic developments,Change to group/activity,Police Forces of Uganda (1986-),Military Forces of Uganda (1986-),,,Uganda,Arua,Arua,Arua,3.02,30.9108,1,National,0
+UGA5167,2018-08-13,1,Violence against civilians,Attack,Police Forces of Uganda (1986-),,Civilians (Uganda),Journalists (Uganda),Uganda,Arua,Arua,Arua,3.02,30.9108,1,National,0
+UGA5166,2018-08-13,1,Riots,Violent demonstration,Rioters (Uganda),FDC: Forum for Democratic Change,Military Forces of Uganda (1986-) Presidential Security Unit,Rioters (Uganda); NRM: National Resistance Movement,Uganda,Arua,Arua,Arua,3.02,30.9108,1,National,1
+UGA5165,2018-08-11,2,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Military Forces of Uganda (1986-),Civilians (Uganda),Uganda,Wakiso,Entebbe,Katabi,0.0833,32.4667,1,National,0
+UGA5359,2018-08-04,1,Violence against civilians,Attack,Military Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Gulu,Gulu,Gulu,2.7667,32.3056,1,National,3
+UGA5159,2018-08-03,1,Riots,Mob violence,Rioters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Arua,Arua,Arua,3.02,30.9108,1,National,0
+UGA5156,2018-07-30,1,Riots,Violent demonstration,Rioters (Uganda),,Civilians (Uganda),Journalists (Uganda),Uganda,Sheema,Sheema,Kibingo,-0.5527,30.4159,2,National,0
+UGA5157,2018-07-30,1,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Kasese,Kasese,Kasese,0.1833,30.0833,1,National,0
+UGA5357,2018-07-29,2,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Civilians (Uganda),Police Forces of Uganda (1986-),Uganda,Wakiso,Makindye Ssabagabo,Natete,0.296,32.5271,1,National,1
+UGA5151,2018-07-26,1,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Mbale,Mbale,Mbale,1.0806,34.175,1,National,0
+UGA5150,2018-07-25,2,Violence against civilians,Attack,UPC: Uganda People's Congress,,Civilians (Uganda),NRM: National Resistance Movement,Uganda,Apac,Apac,Apac,1.9756,32.5386,1,National,0
+UGA5147,2018-07-23,1,Riots,Mob violence,Rioters (Uganda),Students (Uganda),Rioters (Uganda),Students (Uganda),Uganda,Gulu,Gulu,Gulu,2.7667,32.3056,1,National,0
+UGA5148,2018-07-23,1,Violence against civilians,Attack,"JEEMA: Justice, Education, Economic Revitalization, Morality and African Unity",,Civilians (Uganda),NRM: National Resistance Movement,Uganda,Bugiri,Bugiri,Bugiri,0.5714,33.7417,1,National,0
+UGA5141,2018-07-18,1,Riots,Mob violence,Rioters (Uganda),"JEEMA: Justice, Education, Economic Revitalization, Morality and African Unity",Police Forces of Uganda (1986-),,Uganda,Bugiri,Bugiri,Bugiri,0.5714,33.7417,1,National,1
+UGA5138,2018-07-11,2,Violence against civilians,Attack,NRM: National Resistance Movement,,Civilians (Uganda),Journalists (Uganda),Uganda,Apac,Apac,Apac,1.9756,32.5386,1,Other,0
+UGA5143,2018-07-11,1,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Gulu,Gulu,Gulu,2.7667,32.3056,1,National,0
+UGA5131,2018-06-26,1,Violence against civilians,Attack,NRM: National Resistance Movement,FDC: Forum for Democratic Change,Civilians (Uganda),"JEEMA: Justice, Education, Economic Revitalization, Morality and African Unity",Uganda,Bugiri,Bugiri,Bugiri,0.5714,33.7417,1,National,0
+UGA5130,2018-06-25,1,Riots,Mob violence,Rioters (Uganda),Government of Uganda (1986-),Civilians (Uganda),Journalists (Uganda),Uganda,Kabale,Kabale,Kabale,-1.2483,29.9897,1,National,0
+UGA5129,2018-06-21,1,Riots,Violent demonstration,Rioters (Uganda),Students (Uganda),Police Forces of Uganda (1986-),,Uganda,Mbarara,Mbarara,Mbarara,-0.6047,30.6485,1,National,0
+UGA5272,2018-06-19,1,Strategic developments,Arrests,Military Forces of Uganda (1986-),,Police Forces of Uganda (1986-),,Uganda,Mbarara,Mbarara,Mbarara,-0.6047,30.6485,1,National,0
+UGA5125,2018-06-10,1,Riots,Violent demonstration,Rioters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Arua,Arua,Arua,3.02,30.9108,1,National,1
+UGA5123,2018-06-08,1,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Kabale,Kabale,Kabale,-1.2483,29.9897,1,National,0
+UGA5121,2018-06-06,1,Riots,Violent demonstration,Rioters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Busia,Busia,Busia,0.4658,34.0922,1,National,1
+UGA5270,2018-06-05,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Civilians (Uganda),,Uganda,Wakiso,Nansana,Kawempe,0.3833,32.55,1,National,0
+UGA5119,2018-06-04,1,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Mbale,Mbale,Mbale,1.0806,34.175,1,National,0
+UGA5118,2018-05-30,2,Riots,Mob violence,Rioters (Uganda),Muslim Group (Uganda),Rioters (Uganda),Christian Group (Uganda),Uganda,Iganga,Iganga,Iganga,0.615,33.485,1,National,0
+UGA5115,2018-05-23,2,Strategic developments,Arrests,Police Forces of Uganda (1986-),,Civilians (Democratic Republic of Congo),,Uganda,Rukungiri,Rukungiri,Rukungiri,-0.75,29.9167,3,International,0
+UGA5313,2018-05-07,1,Protests,Peaceful protest,Protesters (Uganda),Students (Uganda),,,Uganda,Iganga,Iganga,Iganga,0.615,33.485,1,National,0
+UGA5311,2018-05-02,2,Strategic developments,Looting/property destruction,Military Forces of Uganda (1986-),,Civilians (Uganda),Fishers (Uganda),Uganda,Wakiso,Entebbe,Entebbe,0.0561,32.4794,2,National,0
+UGA5101,2018-04-17,1,Protests,Protest with intervention,Protesters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Wakiso,Kira,Kira,0.3967,32.6381,1,National,0
+UGA5096,2018-04-11,1,Protests,Protest with intervention,Protesters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Mbale,Mbale,Mbale,1.0806,34.175,1,National,0
+UGA5095,2018-04-05,1,Riots,Mob violence,Rioters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Arua,Arua,Arua,3.02,30.9108,2,National,0
+UGA5094,2018-04-05,1,Riots,Violent demonstration,Rioters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Mityana,Mityana,Mityana,0.4015,32.0452,1,National,0
+UGA5090,2018-03-27,1,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Kamuli,Kamuli,Kamuli,0.9472,33.1197,1,National,0
+UGA5088,2018-03-26,1,Protests,Peaceful protest,Protesters (Uganda),Students (Uganda),,,Uganda,Kabale,Kabale,Kabale,-1.2483,29.9897,1,National,0
+UGA5082,2018-03-18,1,Protests,Protest with intervention,Protesters (Uganda),Muslim Group (Uganda),Police Forces of Uganda (1986-),Military Forces of Uganda (1986-),Uganda,Bushenyi,Bushenyi,Bushenyi,-0.53,30.18,1,National,0
+UGA5081,2018-03-17,1,Protests,Protest with intervention,Protesters (Uganda),Muslim Group (Uganda),Police Forces of Uganda (1986-),,Uganda,Bushenyi,Bushenyi,Bushenyi,-0.53,30.18,1,National,0
+UGA5076,2018-03-13,1,Strategic developments,Arrests,Police Forces of Uganda (1986-),,Civilians (Uganda),FDC: Forum for Democratic Change,Uganda,Jinja,Jinja,Jinja,0.4389,33.2031,1,National,0
+UGA5070,2018-03-05,1,Protests,Peaceful protest,Protesters (Uganda),Students (Uganda),,,Uganda,Kabale,Kabale,Kabale,-1.2483,29.9897,1,National,0
+UGA5069,2018-03-01,1,Battles,Armed clash,Unidentified Armed Group (Uganda),,Police Forces of Uganda (1986-),,Uganda,Wakiso,Kira,Bweyogerere,0.3669,32.6669,1,National-International,2
+UGA5061,2018-02-12,1,Protests,Protest with intervention,Protesters (Uganda),Students (Uganda),Police Forces of Uganda (1986-),,Uganda,Jinja,Jinja,Jinja,0.4389,33.2031,1,National,0
+UGA5330,2018-12-28,2,Strategic developments,Change to group/activity,Police Forces of Uganda (1986-),Military Forces of Uganda (1986-),,,Uganda,Kasese,Bukonjo,Mpondwe,0.0401,29.7248,1,National,0
+UGA5331,2018-12-28,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda); Labor Group (Uganda),Rioters (Uganda),,Uganda,Luwero,Katikamu,Nyimbwa,0.6167,32.5333,2,National,2
+UGA5327,2018-12-27,2,Protests,Protest with intervention,Protesters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Kampala,Kampala,Kamwokya,0.3456,32.5819,1,National,0
+UGA5328,2018-12-27,2,Violence against civilians,Sexual violence,Military Forces of South Sudan (2011-),,Civilians (Uganda),Women (Uganda),Uganda,Lamwo,Lamwo,Ngomoromo,3.6797,32.5794,2,National,0
+UGA5329,2018-12-27,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda); Labor Group (Uganda),Civilians (Uganda),,Uganda,Luwero,Bamunanika,Koko,0.6167,32.6333,2,National,2
+UGA5326,2018-12-26,1,Violence against civilians,Attack,Unidentified Armed Group (Uganda),,Civilians (Rwanda),Refugees/IDPs (Rwanda),Uganda,Kiruhura,Nyabushozi,Nakivale Refugee Camp,-0.4167,30.75,1,National,1
+UGA5324,2018-12-26,1,Violence against civilians,Attack,Police Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Kikuube,Buhaguzi,Kyangwali,1.2167,30.8167,2,National,0
+UGA5325,2018-12-26,1,Riots,Mob violence,Rioters (Uganda),,Rioters (Uganda),,Uganda,Kikuube,Buhaguzi,Kyangwali,1.2167,30.8167,2,National,0
+UGA5323,2018-12-26,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda); Private Security Forces (Uganda),Private Security Forces (Uganda),,Uganda,Kabarole,Fort Portal,Fort Portal,0.6939,30.2664,1,National,0
+UGA5322,2018-12-25,1,Violence against civilians,Attack,Turkana Ethnic Militia (Uganda),,Civilians (Uganda),Taxi Drivers (Uganda),Uganda,Kaabong,Dodoth,Mt. Morungole,3.8167,34.0333,2,National,1
+UGA5321,2018-12-25,2,Protests,Peaceful protest,Protesters (Uganda),Fishers (Uganda),,,Uganda,Jinja,Jinja,Jinja,0.4389,33.2031,2,National,0
+UGA5320,2018-12-23,1,Riots,Violent demonstration,Rioters (South Sudan),Refugees/IDPs (South Sudan),Civilians (Uganda),Aid Workers (Uganda); Military Forces of Uganda (1986-),Uganda,Yumbe,Aringa,Bidi Bidi Refugee Camp,3.53,31.35,1,National,0
+UGA5319,2018-12-22,2,Violence against civilians,Attack,Unidentified Armed Group (Uganda),,Civilians (Uganda),,Uganda,Kaabong,Dodoth,Kalapata,3.6442,34.2347,1,National,1
+UGA5317,2018-12-21,1,Violence against civilians,Attack,Military Forces of Uganda (1986-) Fisheries Protection Unit,,Civilians (Uganda),Fishers (Uganda),Uganda,Kalangala,Kyamuswa,Luku,-0.3167,32.3833,2,National,0
+UGA5318,2018-12-21,1,Violence against civilians,Attack,Unidentified Armed Group (Uganda),,Civilians (Uganda),Police Forces of Uganda (1986-),Uganda,Kasese,Kasese,Kasese,0.1833,30.0833,1,National,0
+UGA5316,2018-12-20,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda); Labor Group (Uganda),Civilians (Uganda),,Uganda,Kasese,Kasese,Kasese,0.1833,30.0833,1,National,1
+UGA5315,2018-12-19,1,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Wakiso,Entebbe,Katabi,0.0833,32.4667,1,National,0
+UGA5306,2018-12-15,1,Violence against civilians,Attack,Police Forces of Uganda (1986-),,Civilians (Uganda),PP: People Power,Uganda,Jinja,Jinja,Jinja,0.4389,33.2031,1,National,0
+UGA5305,2018-12-14,1,Violence against civilians,Attack,Unidentified Armed Group (Uganda),,Civilians (Uganda),Health Workers (Uganda),Uganda,Iganga,Iganga,Iganga,0.615,33.485,1,National,1
+UGA5304,2018-12-13,2,Strategic developments,Change to group/activity,Government of Uganda (1986-),,Nwoya Communal Militia (Uganda),,Uganda,Nwoya,Nwoya,Nwoya,2.64,32.01,2,National,0
+UGA5302,2018-12-12,1,Battles,Armed clash,Unidentified Armed Group (Uganda),,Police Forces of Uganda (1986-),,Uganda,Kyankwanzi,Kiboga,Bukomero,1.2245,31.4179,1,National,2
+UGA5303,2018-12-12,1,Violence against civilians,Attack,Unidentified Armed Group (Uganda),,Civilians (Uganda),,Uganda,Kyankwanzi,Kiboga,Bukomero,1.2245,31.4179,1,National,0
+UGA5300,2018-12-11,1,Violence against civilians,Attack,Military Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Alebtong,Moroto,Aloi,2.2573,33.1778,2,National,4
+UGA5301,2018-12-11,2,Protests,Peaceful protest,Protesters (Uganda),Labor Group (Uganda); Taxi Drivers (Uganda),,,Uganda,Rukungiri,Rukungiri,Rukungiri,-0.75,29.9167,1,National,0
+UGA5299,2018-12-09,1,Violence against civilians,Attack,Police Forces of Uganda (1986-) Uganda Wildlife Authority,,Civilians (Uganda),,Uganda,Namisindwa,Bubulo,Bumbo,0.8611,34.398,2,National,1
+UGA5296,2018-12-08,1,Violence against civilians,Attack,Unidentified Armed Group (Uganda),,Civilians (Uganda),,Uganda,Rukungiri,Rukungiri,Rukungiri,-0.75,29.9167,2,National,1
+UGA5295,2018-12-06,2,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda); Labor Group (Uganda),Civilians (Uganda),,Uganda,Nakaseke,Nakaseke,Semuto,0.6272,32.3133,2,National,1
+UGA5294,2018-12-06,1,Strategic developments,Arrests,Police Forces of Uganda (1986-),Military Forces of Uganda (1986-),Unidentified Armed Group (Uganda),,Uganda,Arua,Arua,Arua,3.02,30.9108,1,National,0
+UGA5293,2018-12-05,2,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Masindi,Masindi,Masindi,1.6744,31.715,1,National,0
+UGA5292,2018-12-04,1,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Rukungiri,Rukungiri,Rukungiri,-0.75,29.9167,1,National,0
+UGA5291,2018-12-03,1,Violence against civilians,Attack,Unidentified Armed Group (Uganda),,Civilians (Uganda),,Uganda,Mayuge,Bunya,Mayuge,0.4597,33.4803,1,National,0
+UGA5314,2018-12-03,1,Violence against civilians,Attack,Unidentified Armed Group (Uganda),,Civilians (Uganda),Military Forces of Uganda (1986-); Labor Group (Uganda),Uganda,Kaabong,Dodoth,Mt. Morungole,3.8167,34.0333,2,National,2
+UGA5290,2018-12-02,1,Violence against civilians,Attack,Unidentified Armed Group (Uganda),,Civilians (Uganda),,Uganda,Arua,Arua,Arua,3.02,30.9108,1,National,1
+UGA5289,2018-12-01,1,Battles,Armed clash,Unidentified Armed Group (Uganda),,Private Security Forces (Uganda),,Uganda,Arua,Arua,Arua,3.02,30.9108,1,National,0
+UGA5286,2018-11-30,2,Violence against civilians,Attack,Police Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Wakiso,Makindye Ssabagabo,Mutungo,0.2044,32.5819,1,National,0
+UGA5298,2018-11-30,1,Violence against civilians,Attack,Unidentified Armed Group (Uganda),,Civilians (Uganda),Taxi Drivers (Uganda),Uganda,Wakiso,Kira,Bweyogerere,0.3669,32.6669,1,National,1
+UGA5287,2018-11-30,1,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Kabarole,Fort Portal,Fort Portal,0.6939,30.2664,1,National,0
+UGA5285,2018-11-29,1,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Lamwo,Lamwo,Madi Opei,3.5911,33.1019,1,National,0
+UGA5284,2018-11-29,1,Violence against civilians,Attack,Police Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Lamwo,Lamwo,Madi Opei,3.5911,33.1019,1,National,1
+UGA5281,2018-11-28,1,Violence against civilians,Attack,Unidentified Armed Group (Democratic Republic of Congo),,Civilians (Uganda),Labor Group (Uganda); Fishers (Uganda),Uganda,Hoima,Bugahya,Buseruka,1.5475,31.13,2,National,0
+UGA5282,2018-11-28,1,Violence against civilians,Attack,Unidentified Armed Group (Democratic Republic of Congo),,Civilians (Uganda),Labor Group (Uganda); Fishers (Uganda),Uganda,Kikuube,Buhaguzi,Kabwoya,1.2586,31.0756,2,National,0
+UGA5283,2018-11-28,1,Violence against civilians,Attack,Unidentified Armed Group (Democratic Republic of Congo),,Civilians (Uganda),Labor Group (Uganda); Fishers (Uganda),Uganda,Kikuube,Buhaguzi,Kyangwali,1.2167,30.8167,2,National,0
+UGA5278,2018-11-27,1,Violence against civilians,Attack,Police Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Wakiso,Makindye Ssabagabo,Mutungo,0.2044,32.5819,1,National,0
+UGA5280,2018-11-27,1,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Masaka,Masaka,Masaka,-0.3338,31.7341,2,National,0
+UGA5276,2018-11-26,2,Violence against civilians,Attack,Police Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Wakiso,Makindye Ssabagabo,Mutungo,0.2044,32.5819,1,National,0
+UGA5275,2018-11-23,1,Violence against civilians,Attack,Unidentified Armed Group (Uganda),,Civilians (Uganda),Military Forces of Uganda (1986-),Uganda,Kabarole,Burahya,Kitwera,0.6562,30.1819,2,National,0
+UGA5274,2018-11-21,2,Violence against civilians,Attack,Police Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Wakiso,Makindye Ssabagabo,Mutungo,0.2044,32.5819,1,National,0
+UGA5263,2018-11-19,2,Strategic developments,Change to group/activity,Military Forces of Uganda (1986-),Military Forces of Uganda (1986-) Local Defense Unit,,,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,3,International,0
+UGA5262,2018-11-19,2,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Lamwo,Lamwo,Kal,3.4978,32.5561,2,National,0
+UGA5264,2018-11-19,1,Protests,Excessive force against protesters,Protesters (Uganda),,Police Forces of Uganda (1986-),Military Forces of Uganda (1986-),Uganda,Gulu,Gulu,Gulu,2.7667,32.3056,1,National,0
+UGA5265,2018-11-16,1,Violence against civilians,Abduction/forced disappearance,Police Forces of Uganda (1986-) Internal Security Organisation,Military Forces of Uganda (1986-),Civilians (Uganda),,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5247,2018-11-10,1,Strategic developments,Arrests,Police Forces of Uganda (1986-),,Civilians (Uganda),PP: People Power,Uganda,Wakiso,Makindye Ssabagabo,Busabala,0.2101,32.6186,1,National,0
+UGA5245,2018-11-09,1,Riots,Mob violence,Rioters (Uganda),Muslim Group (Uganda),Rioters (Uganda),,Uganda,Arua,Arua,Arua,3.02,30.9108,1,National,0
+UGA5242,2018-11-07,2,Strategic developments,Arrests,Police Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,International,0
+UGA5243,2018-11-07,1,Riots,Violent demonstration,Rioters (Uganda),Christian Group (Uganda),Civilians (Uganda),,Uganda,Kayunga,Ntenjeru,Kayunga,0.7025,32.8886,1,National,0
+UGA5241,2018-11-06,2,Violence against civilians,Sexual violence,Military Forces of South Sudan (2011-),,Civilians (Uganda),Women (Uganda),Uganda,Lamwo,Lamwo,Ngomoromo,3.6797,32.5794,2,National,0
+UGA5239,2018-11-05,1,Strategic developments,Change to group/activity,Police Forces of Uganda (1986-),,,,Uganda,Kampala,Kampala,Naguru,0.3466,32.6056,1,National,0
+UGA5238,2018-11-05,1,Battles,Armed clash,Police Forces of Uganda (1986-),,Kitarasa Communal Militia (Uganda),,Uganda,Kabarole,Burahya,Kitarasa,0.6895,30.1959,1,National,1
+UGA5235,2018-11-02,1,Riots,Violent demonstration,Rioters (Uganda),Students (Uganda),Police Forces of Uganda (1986-),,Uganda,Mbale,Mbale,Mbale,1.0806,34.175,1,National,0
+UGA5231,2018-11-01,1,Violence against civilians,Attack,Unidentified Armed Group (Uganda),,Civilians (Uganda),,Uganda,Nakaseke,Nakaseke,Semuto,0.6272,32.3133,1,National,1
+UGA5233,2018-11-01,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Police Forces of Uganda (1986-),,Uganda,Buikwe,Buikwe,Buikwe,0.3375,33.0106,3,National,0
+UGA5232,2018-11-01,1,Riots,Violent demonstration,Rioters (Uganda),PP: People Power,Police Forces of Uganda (1986-),,Uganda,Bugweri,Bugweri,Idudi,0.6191,33.6229,1,National,0
+UGA5234,2018-11-01,1,Violence against civilians,Attack,Unidentified Armed Group (Uganda),,Civilians (Uganda),,Uganda,Mbale,Mbale,Mbale,1.0806,34.175,1,National,1
+UGA5230,2018-10-31,1,Strategic developments,Other,Military Forces of Uganda (1986-),,,,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5237,2018-10-31,2,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Bukomansimbi,Bukomansimbi,Bukomansimbi Town,-0.1624,31.6229,2,National,0
+UGA5229,2018-10-30,2,Protests,Peaceful protest,Protesters (Uganda),Teachers (Uganda),,,Uganda,Kitgum,Kitgum,Kitgum,3.2783,32.8867,1,National,0
+UGA5228,2018-10-30,1,Riots,Mob violence,Rioters (Uganda),Students (Uganda),Rioters (Uganda),Students (Uganda),Uganda,Kabale,Kabale,Kabale,-1.2483,29.9897,1,National,0
+UGA5226,2018-10-28,1,Violence against civilians,Attack,Military Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Wakiso,Nansana,Matuga,0.4627,32.5281,1,National,1
+UGA5227,2018-10-28,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Military Forces of Uganda (1986-),Police Forces of Uganda (1986-),Uganda,Wakiso,Nansana,Matuga,0.4627,32.5281,1,National,0
+UGA5224,2018-10-26,1,Strategic developments,Other,FDC: Forum for Democratic Change,,NF: New Formation,,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,3,National,0
+UGA5223,2018-10-23,1,Protests,Peaceful protest,Protesters (Uganda),Labor Group (Uganda),,,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5222,2018-10-22,1,Protests,Protest with intervention,Protesters (Uganda),Students (Uganda),Police Forces of Uganda (1986-),,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5221,2018-10-22,1,Protests,Protest with intervention,Protesters (Uganda),NRM: National Resistance Movement,Police Forces of Uganda (1986-),,Uganda,Lira,Lira,Lira,2.2426,32.8913,1,National,0
+UGA5219,2018-10-21,1,Riots,Mob violence,Rioters (Uganda),Students (Uganda),Rioters (Uganda),Students (Uganda),Uganda,Kabale,Kabale,Kabale,-1.2483,29.9897,1,National,0
+UGA5220,2018-10-21,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Civilians (Uganda),,Uganda,Hoima,Hoima,Hoima,1.4356,31.3436,1,National,3
+UGA5216,2018-10-18,1,Violence against civilians,Attack,Military Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5215,2018-10-17,2,Strategic developments,Change to group/activity,Military Forces of Uganda (1986-) Local Defense Unit,,,,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5214,2018-10-17,1,Violence against civilians,Attack,Unidentified Armed Group (Uganda),,Civilians (Uganda),,Uganda,Kyotera,Kyotera,Kyotera,-0.631,31.5445,2,National,0
+UGA5213,2018-10-16,1,Riots,Violent demonstration,Rioters (Uganda),,,,Uganda,Hoima,Hoima,Hoima,1.4356,31.3436,1,National,0
+UGA5211,2018-10-15,1,Strategic developments,Arrests,Police Forces of Uganda (1986-),,Civilians (Uganda),FDC: Forum for Democratic Change,Uganda,Kasese,Busongora,Bunyangabu,0.3667,30.1667,2,National,0
+UGA5212,2018-10-15,2,Protests,Peaceful protest,Protesters (Uganda),Students (Uganda),,,Uganda,Hoima,Hoima,Hoima,1.4356,31.3436,1,National,0
+UGA5261,2018-10-12,1,Battles,Armed clash,Kambuye Communal Militia (Uganda),,Kambuye Communal Militia (Uganda),,Uganda,Mubende,Mubende,Kambuye,0.6333,31.4,1,National,1
+UGA5260,2018-10-10,2,Riots,Violent demonstration,Rioters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Wakiso,Busiro,Bendegere,0.0619,32.5206,1,National,0
+UGA5555,2018-09-28,1,Battles,Armed clash,Military Forces of Uganda (1986-) Joint Anti-Terrorism Task Force,,Unidentified Armed Group (Uganda),Prisoners (Uganda),Uganda,Kampala,Kampala,Lubaga,0.3031,32.5531,1,National,1
+UGA5553,2018-09-18,1,Riots,Violent demonstration,Rioters (Uganda),,,,Uganda,Rukiga,Bunyangabu,Kibiito,0.4772,30.1925,1,National,0
+UGA5554,2018-09-18,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Civilians (Uganda),,Uganda,Mbale,Bungokho,Bukasakya Parish,1.0455,34.1693,2,National,1
+UGA5552,2018-09-11,1,Protests,Peaceful protest,Protesters (Uganda),Labor Group (Uganda),,,Uganda,Kabale,Kabale,Kabale,-1.2483,29.9897,1,National,0
+UGA5551,2018-09-11,1,Riots,Violent demonstration,Rioters (Uganda),Labor Group (Uganda),Police Forces of Uganda (1986-),,Uganda,Jinja,Jinja,Jinja,0.4389,33.2031,1,National,0
+UGA5550,2018-09-10,1,Riots,Mob violence,Rioters (Uganda),,Civilians (Uganda),,Uganda,Nakaseke,Nakaseke,Namasuba,0.7,32.4333,2,National,0
+UGA5549,2018-09-10,1,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Masaka,Masaka,Masaka,-0.3338,31.7341,1,National,0
+UGA5548,2018-08-31,1,Riots,Violent demonstration,Rioters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Jinja,Butembe,Namulesa,0.4998,33.2177,1,National,0
+UGA5546,2018-08-23,1,Riots,Violent demonstration,Rioters (Uganda),,Police Forces of Uganda (1986-),Military Forces of Uganda (1986-),Uganda,Jinja,Jinja,Jinja,0.4389,33.2031,1,National,0
+UGA5547,2018-08-23,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Civilians (Uganda),Women (Uganda),Uganda,Kasese,Kasese,Kasese,0.1833,30.0833,1,National,0
+UGA5545,2018-08-22,1,Riots,Mob violence,Rioters (Uganda),,Police Forces of Uganda (1986-),Prisoners (Uganda),Uganda,Jinja,Jinja,Jinja,0.4389,33.2031,1,National,0
+UGA5543,2018-08-19,1,Violence against civilians,Attack,Basongora Ethnic Militia (Uganda),,Civilians (Uganda),Banyarwanda Ethnic Group (Uganda),Uganda,Kasese,Busongora,Kitswamba,0.3737,30.1759,2,National,0
+UGA5544,2018-08-19,1,Violence against civilians,Attack,Police Forces of Uganda (1986-),,Civilians (Uganda),Taxi Drivers (Uganda),Uganda,Mityana,Mityana,Mityana,0.4015,32.0452,2,National,1
+UGA5240,2018-08-15,3,Strategic developments,Change to group/activity,Military Forces of South Sudan (2011-),,,,Uganda,Lamwo,Lamwo,Ngomoromo,3.6797,32.5794,2,National,0
+UGA5541,2018-08-15,1,Riots,Mob violence,Rioters (Uganda),,Civilians (Uganda),Government of Uganda (1986-),Uganda,Arua,Arua,Arua,3.02,30.9108,1,National,0
+UGA5540,2018-08-10,1,Violence against civilians,Attack,Police Forces of Uganda (1986-) Uganda Wildlife Authority,,Civilians (Uganda),,Uganda,Bududa,Manjiya,Mount Elgon,1.1185,34.5265,1,National,1
+UGA5538,2018-08-09,1,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Kabale,Kabale,Makanga,-1.2333,30.0,2,National,0
+UGA5539,2018-08-09,2,Violence against civilians,Attack,Police Forces of Uganda (1986-),,Civilians (Uganda),Government of Uganda (1986-),Uganda,Mbarara,Mbarara,Mbarara,-0.6047,30.6485,1,National,0
+UGA5537,2018-08-08,3,Violence against civilians,Attack,Basongora Ethnic Militia (Uganda),,Civilians (Uganda),Banyarwanda Ethnic Group (Uganda),Uganda,Kasese,Busongora,Kitswamba,0.3737,30.1759,2,National,0
+UGA5536,2018-08-04,2,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Police Forces of Uganda (1986-),Civilians (Uganda),Uganda,Moroto,Matheniko,Katikekile,2.3833,34.8333,2,National,0
+UGA5535,2018-08-03,1,Riots,Violent demonstration,Rioters (Uganda),,Civilians (Uganda),Labor Group (Uganda),Uganda,Buikwe,Njeru,Buwampa,0.3728,33.2174,1,National,0
+UGA5745,2018-07-27,1,Riots,Mob violence,Rioters (Uganda),Journalists (Uganda),Civilians (Uganda),NRM: National Resistance Movement; Government of Uganda (1986-),Uganda,Bugiri,Bugiri,Butambula,0.5554,33.7648,1,National,0
+UGA5652,2018-07-25,1,Violence against civilians,Attack,Unidentified Armed Group (Uganda),,Civilians (Democratic Republic of Congo),,Uganda,Hoima,Bugahya,Kibiro,1.6731,31.2544,3,International,0
+UGA5533,2018-07-25,1,Riots,Mob violence,Rioters (Uganda),NRM: National Resistance Movement,Rioters (Uganda),,Uganda,Kotido,Kotido,Kotido,3.0065,34.114,1,National,0
+UGA5532,2018-07-23,1,Violence against civilians,Attack,Military Forces of Uganda (1986-) Fisheries Protection Unit,,Civilians (Uganda),Fishers (Uganda),Uganda,Kalangala,Kyamuswa,Luku,-0.3167,32.3833,2,National,1
+UGA5531,2018-07-21,1,Strategic developments,Other,Military Forces of Uganda (1986-) Fisheries Protection Unit,,Civilians (Uganda),Fishers (Uganda); Women (Uganda),Uganda,Kalangala,Kyamuswa,Luku,-0.3167,32.3833,2,National,0
+UGA5530,2018-07-19,1,Protests,Protest with intervention,Protesters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Bugiri,Bugiri,Bugiri,0.5714,33.7417,1,National,0
+UGA5528,2018-07-18,1,Riots,Mob violence,Rioters (South Sudan),Refugees/IDPs (South Sudan); Rioters (Uganda),Police Forces of Uganda (1986-),,Uganda,Adjumani,East Moyo,Pakele,3.3667,31.8667,2,National,0
+UGA5529,2018-07-18,1,Riots,Violent demonstration,Rioters (Uganda),Students (Uganda),,,Uganda,Napak,Bokora,Lokopo,2.4622,34.3258,2,National,0
+UGA5527,2018-07-15,1,Violence against civilians,Attack,Police Forces of Uganda (1986-),,Civilians (Uganda),Military Forces of Uganda (1986-),Uganda,Kasese,Busongora,Maliba,0.3584,30.0348,1,National,1
+UGA5525,2018-07-13,1,Violence against civilians,Attack,Military Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Kasese,Busongora,Rukoki,0.2181,30.0555,1,National,1
+UGA5526,2018-07-13,1,Violence against civilians,Attack,SPLM-In Opposition: Sudan People's Liberation Movement-In Opposition,,Civilians (Uganda),,Uganda,Lamwo,Lamwo,Lawiye-Oduny Parish,3.6859,33.2305,2,National,1
+UGA5520,2018-07-10,1,Riots,Violent demonstration,Rioters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Kampala,Kampala,Katanga,0.3243,32.5702,1,National,0
+UGA5521,2018-07-10,1,Riots,Violent demonstration,Rioters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Kampala,Kampala,Kikaya,0.3652,32.589,1,National,0
+UGA5522,2018-07-10,1,Riots,Violent demonstration,Rioters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Kampala,Kampala,Masanafu,0.3271,32.54,1,National,0
+UGA5519,2018-07-10,1,Riots,Mob violence,Rioters (Uganda),NRM: National Resistance Movement,Rioters (Uganda),,Uganda,Bushenyi,Bushenyi,Bushenyi,-0.53,30.18,2,National,0
+UGA5236,2018-07-08,1,Violence against civilians,Attack,Military Forces of Uganda (1986-),,Civilians (Uganda),Labor Group (Uganda),Uganda,Kyotera,Kyotera,Makondo,-0.4392,31.5936,1,National,0
+UGA5517,2018-07-08,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Civilians (Uganda),,Uganda,Ibanda,Ibanda,Irimya,-0.1404,30.2883,2,National,1
+UGA5518,2018-07-08,1,Riots,Mob violence,Rioters (Uganda),NRM: National Resistance Movement,Police Forces of Uganda (1986-),,Uganda,Wakiso,Nansana,Nansana,0.3639,32.5286,2,National,0
+UGA5516,2018-07-04,2,Riots,Mob violence,Rioters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5514,2018-07-02,2,Riots,Violent demonstration,Rioters (Uganda),Labor Group (Uganda),,,Uganda,Jinja,Butembe,Kakira,0.5083,33.2878,1,National,0
+UGA5515,2018-07-02,1,Protests,Peaceful protest,Protesters (Uganda),Labor Group (Uganda),,,Uganda,Moroto,Moroto,Moroto,2.5329,34.6575,1,National,0
+UGA5513,2018-07-01,2,Protests,Peaceful protest,Protesters (Uganda),,,,Uganda,Kyotera,Kyotera,Kibanda,-0.7532,31.5993,2,National,0
+UGA5511,2018-06-27,1,Riots,Violent demonstration,Rioters (Uganda),Students (Uganda),Police Forces of Uganda (1986-),,Uganda,Kabarole,Fort Portal,Kyegobe,0.6298,30.2868,1,National,0
+UGA5512,2018-06-27,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Police Forces of Uganda (1986-),,Uganda,Lira,Lira,Lira,2.2426,32.8913,1,National,0
+UGA5510,2018-06-21,1,Riots,Violent demonstration,Rioters (Uganda),Students (Uganda),Police Forces of Uganda (1986-),,Uganda,Kisoro,Bufumbira,Kisoro,-1.3539,29.6983,1,National,0
+UGA5509,2018-06-20,1,Riots,Violent demonstration,Rioters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Mbale,Bungokho,Bungokho-Mutoto,1.0542,34.2089,2,National,0
+UGA5508,2018-06-20,1,Protests,Peaceful protest,Protesters (Uganda),Students (Uganda),,,Uganda,Kumi,Kumi,Kumi,1.489,33.9361,1,National,0
+UGA5507,2018-06-19,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Civilians (Uganda),,Uganda,Kaberamaido,Kaberamaido,Alwa,1.8431,33.1705,2,National,1
+UGA5506,2018-06-17,1,Riots,Mob violence,Rioters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Bugweri,Bugweri,Butende,0.6316,33.5724,1,National,0
+UGA5334,2018-06-15,3,Strategic developments,Arrests,Police Forces of Uganda (1986-),Military Forces of Uganda (1986-),Military Forces of Uganda (1986-),,Uganda,Kampala,Kampala,Makindye,0.2833,32.5833,3,National-International,0
+UGA5505,2018-06-12,1,Protests,Peaceful protest,Protesters (Uganda),Labor Group (Uganda),,,Uganda,Gulu,Gulu,Gulu,2.7667,32.3056,1,National,0
+UGA5504,2018-06-08,1,Protests,Protest with intervention,Protesters (Uganda),Taxi Drivers (Uganda); Labor Group (Uganda),Police Forces of Uganda (1986-),,Uganda,Mbale,Mbale,Mbale,1.0806,34.175,1,National,0
+UGA5503,2018-06-05,1,Protests,Peaceful protest,Protesters (Uganda),Farmers (Uganda),,,Uganda,Kalangala,Bujumba,Kalangala,-0.3089,32.225,1,National,0
+UGA5502,2018-05-30,2,Strategic developments,Other,Military Forces of Uganda (1986-),,HSM: Holy Spirit Movement,,Uganda,Kampala,Kampala,Kasubi,0.3292,32.5533,1,National,0
+UGA5501,2018-05-20,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Civilians (Uganda),,Uganda,Hoima,Hoima,Kyesiga,1.4596,31.3507,1,National,1
+UGA5499,2018-05-19,1,Riots,Violent demonstration,Rioters (Uganda),Women (Uganda),Police Forces of Uganda (1986-),,Uganda,Alebtong,Moroto,Abala Parish,2.3828,33.045,2,National,0
+UGA5500,2018-05-19,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Civilians (Uganda),,Uganda,Sheema,Sheema,Kibingo,-0.5527,30.4159,2,National,1
+UGA5498,2018-05-14,1,Strategic developments,Looting/property destruction,Irarak Clan Militia (Uganda),,Civilians (Uganda),,Uganda,Kalaki,Kalaki,Otuboi,1.92,33.3044,2,National,0
+UGA5497,2018-05-11,1,Battles,Armed clash,Military Forces of Uganda (1986-),,Unidentified Communal Militia (South Sudan),,Uganda,Lamwo,Lamwo,Pobar Parish,3.7699,33.0888,2,National,1
+UGA5496,2018-05-06,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Civilians (Uganda),Women (Uganda),Uganda,Kisoro,Bufumbira,Bushoka,-1.3167,29.7167,2,National,0
+UGA5495,2018-05-06,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Civilians (Uganda),,Uganda,Hoima,Bugahya,Kigorobya,1.6162,31.3089,2,National,1
+UGA5494,2018-04-30,1,Protests,Peaceful protest,Protesters (Uganda),Labor Group (Uganda),,,Uganda,Hoima,Bugahya,Bulemwa,1.5594,31.4791,2,National,0
+UGA5310,2018-04-24,1,Violence against civilians,Attack,Police Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Kampala,Kampala,Wandegeya,0.3311,32.5741,2,National,0
+UGA5493,2018-04-23,1,Riots,Violent demonstration,Rioters (Uganda),,,,Uganda,Masindi,Bujenje,Bwijanga,1.5334,31.5848,1,National,0
+UGA5309,2018-04-22,1,Violence against civilians,Attack,Police Forces of Uganda (1986-),,Civilians (Uganda),,Uganda,Wakiso,Busiro,Kyengera,0.2903,32.5014,2,National,1
+UGA5492,2018-04-21,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Civilians (Uganda),,Uganda,Abim,Labwor,Abim,2.7333,33.6667,2,National,1
+UGA5491,2018-04-19,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Civilians (Uganda),,Uganda,Lira,Erute,Boroboro,2.2,32.9333,2,National,2
+UGA5490,2018-04-15,1,Protests,Protest with intervention,Protesters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Bushenyi,Igara,Nyabubaare,-0.5318,30.0892,1,National,0
+UGA5488,2018-04-07,1,Riots,Mob violence,Police Forces of Uganda (1986-),,Rioters (Uganda),Students (Uganda),Uganda,Kisoro,Bufumbira,Mutolere,-1.247,29.7133,1,National,0
+UGA5489,2018-04-07,1,Violence against civilians,Attack,Military Forces of Uganda (1986-) Local Defense Unit,,Civilians (Uganda),,Uganda,Moroto,Moroto,Moroto,2.5329,34.6575,1,National,1
+UGA5486,2018-04-06,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Mutiny of Military Forces of Uganda (1986-),,Uganda,Kisoro,Bufumbira,Rwaramba,-1.2859,29.6708,2,National,1
+UGA5487,2018-04-06,1,Riots,Mob violence,Rioters (Uganda),Vigilante Group (Uganda),Civilians (Uganda),,Uganda,Rubanda,Rubanda,Kaara,-1.1491,29.7761,2,National,1
+UGA5393,2018-01-14,1,Violence against civilians,Attack,Unidentified Armed Group (Burundi),,Civilians (Burundi),Refugees/IDPs (Burundi),Uganda,Isingiro,Isingiro,Nakivale,-0.7937,30.8736,1,International,0
+UGA5079,2018-03-16,1,Violence against civilians,Attack,Unidentified Armed Group (Uganda),,Civilians (Uganda),,Uganda,Isingiro,Bukanga,Isingiro,-0.8686,30.8302,2,National,0
+UGA5080,2018-03-17,1,Violence against civilians,Attack,Isingiro Communal Militia (Uganda),,Civilians (Uganda),Government of Uganda (1986-),Uganda,Isingiro,Bukanga,Isingiro,-0.8686,30.8302,2,National,0
+UGA5134,2018-07-10,1,Riots,Mob violence,Rioters (Uganda),,Civilians (Uganda),Government of Uganda (1986-),Uganda,Wakiso,Nansana,Kawempe,0.3833,32.55,1,National,0
+UGA5170,2018-08-15,1,Riots,Mob violence,Rioters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Arua,Arua,Arua,3.02,30.9108,1,National,0
+UGA5205,2018-10-09,2,Violence against civilians,Attack,Unidentified Armed Group (Uganda),,Civilians (Uganda),Government of Uganda (1986-),Uganda,Luwero,Katikamu,Luwero,0.8413,32.4933,2,National,0
+UGA5523,2018-07-10,1,Riots,Mob violence,Rioters (Uganda),,Police Forces of Uganda (1986-),Civilians (Uganda),Uganda,Luwero,Katikamu,Luwero,0.8413,32.4933,1,National,0
+UGA5524,2018-07-10,1,Riots,Mob violence,Rioters (Uganda),DP: Democratic Party (Uganda),Police Forces of Uganda (1986-),Military Forces of Uganda (1986-); Civilians (Uganda),Uganda,Wakiso,Nansana,Nansana,0.3639,32.5286,2,National,0
+UGA5175,2018-08-19,1,Protests,Excessive force against protesters,Protesters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Mityana,Mityana,Mityana,0.4015,32.0452,1,International,1
+UGA5077,2018-03-15,1,Riots,Violent demonstration,Rioters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5190,2018-09-11,2,Riots,Violent demonstration,Rioters (Uganda),Students (Uganda),Police Forces of Uganda (1986-),,Uganda,Kampala,Kampala,Makerere University,0.3333,32.5667,1,Regional,0
+UGA5192,2018-09-12,1,Riots,Violent demonstration,Rioters (Uganda),Students (Uganda),Police Forces of Uganda (1986-),,Uganda,Kampala,Kampala,Makerere University,0.3333,32.5667,1,Regional,0
+UGA5254,2018-11-14,1,Protests,Protest with intervention,Protesters (Uganda),,Police Forces of Uganda (1986-),,Uganda,Kampala,Kampala,Kampala,0.3156,32.5656,1,National,0
+UGA5277,2018-11-26,1,Riots,Violent demonstration,Rioters (Uganda),FDC: Forum for Democratic Change,Police Forces of Uganda (1986-),,Uganda,Rukungiri,Rukungiri,Rukungiri,-0.75,29.9167,1,National,0
+UGA5534,2018-07-28,2,Protests,Protest with intervention,Protesters (Uganda),FDC: Forum for Democratic Change,Police Forces of Uganda (1986-),Military Forces of Uganda (1986-),Uganda,Nebbi,Nebbi,Nebbi,2.4758,31.1025,1,National,0
+UGA5542,2018-08-16,1,Riots,Violent demonstration,Rioters (Uganda),Labor Group (Uganda),Police Forces of Uganda (1986-),,Uganda,Mbale,Mbale,Mbale,1.0806,34.175,1,National,0

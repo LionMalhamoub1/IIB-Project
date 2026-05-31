@@ -1,0 +1,28 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+GAM252,2021-02-10,2,Protests,Peaceful protest,Protesters (Gambia),Latrikunda Communal Group (Gambia),,,Gambia,Kanifing,Kanifing,Serrekunda,13.4383,-16.6781,1,National,0,GMB
+GAM254,2021-03-15,1,Riots,Violent demonstration,Rioters (Gambia),,Police Forces of Gambia (2017-),Civilians (Gambia); Labor Group (Gambia); Civilians (Senegal); Military Forces of Gambia (2017-),Gambia,Brikama,Kombo South,Sanyang,13.2667,-16.7606,1,National-International,0,GMB
+GAM255,2021-03-15,1,Violence against civilians,Attack,Forest Guards (Senegal),,Civilians (Gambia),Labor Group (Gambia),Gambia,Janjanbureh,Janjangbureh,Janjanbureh,13.5333,-14.7667,2,National,0,GMB
+GAM256,2021-03-15,2,Strategic developments,Other,Civilians (Senegal),Refugees/IDPs (Senegal),,,Gambia,Brikama,Kombo South,Sanyang,13.2667,-16.7606,1,National,0,GMB
+GAM257,2021-04-09,1,Battles,Armed clash,Unidentified Armed Group (Gambia),,Military Forces of Gambia (2017-) Fire Fighter Corps,,Gambia,Brikama,Kombo South,Gunjur,13.1817,-16.7583,1,National,0,GMB
+GAM259,2021-05-21,2,Strategic developments,Arrests,Police Forces of Gambia (2017-),,Civilians (Gambia),,Gambia,Brikama,Kombo North,Brufut,13.3842,-16.7514,1,National,0,GMB
+GAM260,2021-06-11,2,Strategic developments,Arrests,Military Forces of Gambia (2017-),,Civilians (Gambia),,Gambia,Brikama,Kombo South,Gunjur,13.1817,-16.7583,2,National,0,GMB
+GAM261,2021-06-25,1,Riots,Mob violence,Rioters (Gambia),Gida Sukuta Communal Group (Gambia),Rioters (Gambia),Madina Talokoto Communal Group (Gambia),Gambia,Brikama,Kombo North,Sukuta,13.4147,-16.7076,2,National,0,GMB
+GAM262,2021-06-29,1,Riots,Mob violence,Rioters (Gambia),,Police Forces of Gambia (2017-),,Gambia,Brikama,Kombo Central,Brikama,13.2675,-16.6461,1,National,0,GMB
+GAM266,2021-07-26,1,Protests,Peaceful protest,Protesters (Gambia),APRC: Alliance for Patriotic Re-orientation and Construction,,,Gambia,Banjul,Banjul Central,Banjul,13.4531,-16.5775,1,National,0,GMB
+GAM267,2021-09-01,1,Protests,Peaceful protest,Protesters (Gambia),Health Workers (Gambia),,,Gambia,Banjul,Banjul Central,Banjul,13.4531,-16.5775,1,Subnational,0,GMB
+GAM268,2021-08-13,1,Riots,Mob violence,Rioters (Gambia),Vigilante Group (Gambia),Civilians (Gambia),,Gambia,Kerewan,Illiasa,Farafenni,13.5667,-15.6,1,National,1,GMB
+GAM269,2021-08-19,1,Riots,Mob violence,Rioters (Gambia),,Civilians (Gambia),Labor Group (Gambia),Gambia,Brikama,Kombo Central,Brikama,13.2675,-16.6461,1,National,0,GMB
+GAM270,2021-09-13,1,Riots,Mob violence,Rioters (Gambia),Vigilante Group (Gambia),Police Forces of Gambia (2017-),Military Forces of Gambia (2017-),Gambia,Brikama,Kombo North,Brufut,13.3842,-16.7514,1,National,0,GMB
+GAM271,2021-09-17,1,Protests,Peaceful protest,Protesters (Gambia),Students (Gambia),,,Gambia,Kanifing,Kanifing,Serrekunda,13.4383,-16.6781,1,National,0,GMB
+GAM273,2021-09-22,1,Riots,Mob violence,Rioters (Gambia),Vigilante Group (Gambia),Civilians (Gambia),,Gambia,Kanifing,Kanifing,Serrekunda,13.4383,-16.6781,1,National,0,GMB
+GAM272,2021-09-20,1,Protests,Peaceful protest,Protesters (Gambia),Students (Gambia),,,Gambia,Kanifing,Kanifing,Serrekunda,13.4383,-16.6781,1,National,0,GMB
+GAM274,2021-10-16,1,Protests,Peaceful protest,Protesters (Gambia),,,,Gambia,Banjul,Banjul Central,Banjul,13.4531,-16.5775,1,National,0,GMB
+GAM276,2021-12-11,1,Protests,Peaceful protest,Protesters (Gambia),Women (Gambia),,,Gambia,Kanifing,Kanifing,Kololi,13.45,-16.7167,1,National,0,GMB
+GAM277,2021-12-26,1,Riots,Mob violence,Rioters (Gambia),Vigilante Group (Gambia),Civilians (Gambia),,Gambia,Kanifing,Kanifing,Serrekunda,13.4383,-16.6781,1,National,0,GMB
+GAM275,2021-12-06,1,Riots,Violent demonstration,Rioters (Gambia),UDP: United Democratic Party (Gambia),Police Forces of Gambia (2017-),Civilians (Gambia); Journalists (Gambia),Gambia,Kanifing,Kanifing,Serrekunda,13.4383,-16.6781,1,National-International,0,GMB
+GAM251,2021-02-02,2,Riots,Mob violence,Rioters (Gambia),UDP: United Democratic Party (Gambia),Civilians (Sierra Leone),,Gambia,Kanifing,Kanifing,Serrekunda,13.4383,-16.6781,1,National,0,GMB
+GAM265,2021-07-08,1,Riots,Mob violence,Rioters (Gambia),,,,Gambia,Brikama,Kombo North,Brufut,13.3842,-16.7514,1,National,0,GMB
+GAM258,2021-05-19,1,Riots,Violent demonstration,Rioters (Gambia),,Military Forces of Senegal (2012-2024),,Gambia,Brikama,Kombo East,Faraba Banta,13.2614,-16.52,2,National,0,GMB
+GAM253,2021-02-21,1,Battles,Armed clash,Basori Communal Militia (Gambia),,Duwasu Communal Militia (Gambia),,Gambia,Brikama,Kombo Central,Basori,13.2256,-16.5919,1,National,0,GMB
+GAM263,2021-06-29,1,Riots,Mob violence,Rioters (Gambia),Manduar Mandinka Communal Group (Gambia),Rioters (Gambia),Manduar Touba Wolof Communal Group (Gambia),Gambia,Brikama,Kombo Central,Manduar,13.2482,-16.6384,2,National,0,GMB
+GAM264,2021-07-03,1,Riots,Mob violence,Rioters (Gambia),,Civilians (Gambia),UDP: United Democratic Party (Gambia),Gambia,Brikama,Foni Bondali,Kanilai,13.1764,-16.0165,2,National,0,GMB

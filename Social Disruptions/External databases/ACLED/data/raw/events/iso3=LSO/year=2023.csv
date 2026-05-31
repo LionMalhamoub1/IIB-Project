@@ -1,0 +1,19 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+LES221,2023-01-03,1,Protests,Peaceful protest,Protesters (Lesotho),Health Workers (Lesotho),,,Lesotho,Leribe,,Hlotse,-28.8668,28.0579,1,National,0,LSO
+LES224,2023-01-14,1,Riots,Mob violence,Rioters (Lesotho),,Civilians (Lesotho),,Lesotho,Mafeteng,,Matelile,-29.8377,27.5357,1,National,3,LSO
+LES225,2023-03-13,1,Protests,Peaceful protest,Protesters (Lesotho),Taxi Drivers (Lesotho); Street Traders (Lesotho),,,Lesotho,Maseru,,Maseru,-29.3167,27.4833,1,National,0,LSO
+LES226,2023-05-14,1,Violence against civilians,Attack,Unidentified Armed Group (Lesotho),,Civilians (Lesotho),Journalists (Lesotho),Lesotho,Maseru,,Maseru,-29.3167,27.4833,1,National-Regional,1,LSO
+LES228,2023-05-20,1,Violence against civilians,Attack,Unidentified Armed Group (Lesotho),,Civilians (Lesotho),Government of Lesotho (2017-),Lesotho,Maseru,,Mokema,-29.4666,27.65,1,National,2,LSO
+LES229,2023-07-10,1,Riots,Mob violence,Rioters (Lesotho),Vigilante Group (Lesotho),Civilians (Lesotho),,Lesotho,Qacha's Nek,,Qacha's Nek,-30.1154,28.6894,2,National,1,LSO
+LES230,2023-07-11,1,Protests,Peaceful protest,Protesters (Lesotho),Students (Lesotho),,,Lesotho,Maseru,,Maseru,-29.3167,27.4833,1,National,0,LSO
+LES231,2023-10-09,1,Riots,Violent demonstration,Rioters (Lesotho),Students (Lesotho),,,Lesotho,Maseru,,Roma,-29.4613,27.7249,1,National,0,LSO
+LES227,2023-05-30,1,Riots,Violent demonstration,Rioters (Lesotho),Students (Lesotho),Police Forces of Lesotho (2017-),Military Forces of Lesotho (2017-),Lesotho,Maseru,,Maseru,-29.3167,27.4833,1,National,0,LSO
+LES232,2023-10-16,1,Protests,Peaceful protest,Protesters (Lesotho),RFP: Revolution for Prosperity,,,Lesotho,Maseru,,Maseru,-29.3167,27.4833,1,National,0,LSO
+LES235,2023-10-27,2,Protests,Peaceful protest,Protesters (Lesotho),RFP: Revolution for Prosperity,,,Lesotho,Maseru,,Maseru,-29.3167,27.4833,1,National,0,LSO
+LES238,2023-12-11,2,Riots,Mob violence,Rioters (Lesotho),Vigilante Group (Lesotho),Civilians (Lesotho),,Lesotho,Maseru,,Maseru,-29.3167,27.4833,2,National,1,LSO
+LES239,2023-12-13,1,Violence against civilians,Attack,Police Forces of Lesotho (2017-),,Civilians (Lesotho),Prisoners (Lesotho),Lesotho,Quthing,,Quthing,-30.3974,27.7068,1,National,1,LSO
+LES240,2023-12-19,2,Violence against civilians,Attack,Military Forces of Lesotho (2017-),,Civilians (China),Labor Group (China),Lesotho,Leribe,,Mpharane,-28.9325,27.9375,2,National,0,LSO
+LES241,2023-12-22,1,Violence against civilians,Attack,Police Forces of Lesotho (2017-) Lesotho Correctional Service,,Civilians (Lesotho),Prisoners (Lesotho),Lesotho,Maseru,,Maseru,-29.3167,27.4833,1,National,1,LSO
+LES236,2023-10-29,1,Violence against civilians,Attack,Unidentified Armed Group (Lesotho),,Civilians (Lesotho),Women (Lesotho); Government of Lesotho (2017-),Lesotho,Maseru,,Maseru,-29.3167,27.4833,1,National,2,LSO
+LES246,2023-09-22,1,Violence against civilians,Attack,Military Forces of Lesotho (2017-),,Civilians (Lesotho),,Lesotho,Mokhotlong,,Mokhotlong,-29.2881,29.0665,1,National,0,LSO
+LES249,2023-12-18,1,Violence against civilians,Attack,Military Forces of Lesotho (2017-),,Civilians (Lesotho),,Lesotho,Maseru,,Maseru,-29.3167,27.4833,1,National,0,LSO

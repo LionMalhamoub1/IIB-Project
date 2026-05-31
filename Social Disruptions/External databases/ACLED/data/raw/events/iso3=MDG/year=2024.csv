@@ -1,0 +1,733 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+MAG3358,2024-01-01,2,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Boeny,Soalala,Befatika,-16.6215,45.3925,1,National,0,MDG
+MAG3359,2024-01-03,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,Military Forces of Madagascar (2019-2025),Dahalo Militia,,Madagascar,Boeny,Ambato Boeni,Anjiajia,-16.45,46.95,2,National,1,MDG
+MAG3389,2024-01-06,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Boeny,Ambato Boeni,Mahatazantsoa,-16.3864,46.9099,2,National,3,MDG
+MAG3394,2024-01-04,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Analamanga,Anjozorobe,Antanifotsy,-18.3,47.9807,1,National,1,MDG
+MAG3395,2024-01-06,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Menabe,Belo Sur Tsiribihina,Bemokarana,-19.9404,45.0576,1,National,3,MDG
+MAG3396,2024-01-08,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Analamanga,Ankazobe,Kianjasoa Kiangara,-17.9705,47.0252,1,National,0,MDG
+MAG3402,2024-01-07,2,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 4,-18.9363,47.5149,1,National,1,MDG
+MAG3404,2024-01-11,2,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Sofia,Mampikony,Bekoratsaka,-16.1246,47.5019,1,National,1,MDG
+MAG3405,2024-01-10,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Analamanga,Ankazobe,Mandriambero Andrenivatosoa,-18.4604,47.3642,2,National,0,MDG
+MAG3406,2024-01-08,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Boeny,Marovoay,Marosakoa,-16.1779,46.7649,1,National,3,MDG
+MAG3407,2024-01-09,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),Labor Group (Madagascar),Madagascar,Ihorombe,Ihosy,Andohan Ilakaka,-22.6822,45.2754,2,National,1,MDG
+MAG3409,2024-01-13,2,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Menabe,Belo Sur Tsiribihina,Antsiraraky,-19.8025,44.8295,1,National,0,MDG
+MAG3411,2024-01-16,2,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Melaky,Antsalova,Masoarivo,-19.0257,44.357,1,National,0,MDG
+MAG3412,2024-01-14,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,Lambamena Communal Militia (Madagascar),Madagascar,Amoron I Mania,Ambatofinandrahana,Mandrosonoro,-20.5911,45.9949,2,National,11,MDG
+MAG3413,2024-01-19,2,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Boeny,Ambato Boeni,Ankirihitra,-16.7224,46.4344,1,National,0,MDG
+MAG3416,2024-01-14,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Atsinanana,Vatomandry,Sahamatevina,-19.2702,48.9104,1,National,3,MDG
+MAG3401,2024-01-08,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Boeny,Ambato Boeni,Ambesisika,-16.5804,46.8748,2,National,0,MDG
+MAG3415,2024-01-16,2,Strategic developments,Looting/property destruction,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Analamanga,Ankazobe,Ankazobe,-18.3167,47.1167,2,National,0,MDG
+MAG3419,2024-01-18,1,Explosions/Remote violence,Grenade,Unidentified Armed Group (Madagascar),,Civilians (Madagascar),,Madagascar,Analamanga,Manjakandriana,Manjakandriana,-18.921,47.812,1,National,2,MDG
+MAG3420,2024-01-20,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),Taxi Drivers (Madagascar),Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 1,-18.9082,47.5102,1,National,0,MDG
+MAG3421,2024-01-21,1,Protests,Peaceful protest,Protesters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 1,-18.9082,47.5102,1,National,0,MDG
+MAG3422,2024-01-18,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Boeny,Ambato Boeni,Ankirihitra,-16.7224,46.4344,2,National,0,MDG
+MAG3431,2024-01-25,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,Military Forces of Madagascar (2019-2025),Dahalo Militia,,Madagascar,Menabe,Miandrivazo,Miandrivazo,-19.5167,45.4667,1,National,8,MDG
+MAG3434,2024-01-01,3,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Menabe,Morondava,Befasy,-20.5667,44.3667,1,National,1,MDG
+MAG3436,2024-01-13,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Menabe,Mahabo,Mahabo,-20.3802,44.6667,2,National,0,MDG
+MAG3437,2024-01-15,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Menabe,Belo Sur Tsiribihina,Berevo,-19.7283,44.9664,1,National,1,MDG
+MAG3441,2024-01-26,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Boeny,Soalala,Andranomavo,-16.5666,45.5833,2,National,2,MDG
+MAG3442,2024-01-26,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Boeny,Soalala,Andranomavo,-16.5666,45.5833,2,National,0,MDG
+MAG3446,2024-01-31,2,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Betsiboka,Maevatanana,Bemokotra,-17.05,46.7,2,National,1,MDG
+MAG3447,2024-02-01,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Vatovavy Fitovinany,Manakara Atsimo,Marofarihy,-22.0333,48.0,1,National,0,MDG
+MAG3426,2024-01-19,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Protestant Christian Group (Madagascar),Madagascar,Analamanga,Ankazobe,Manerinerina,-18.0456,47.1882,2,National,0,MDG
+MAG3449,2024-01-31,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Menabe,Mahabo,Saronanala,-20.3,44.8333,1,National,0,MDG
+MAG3452,2024-02-01,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Menabe,Mahabo,Saronanala,-20.3,44.8333,2,National,0,MDG
+MAG3453,2024-02-05,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Atsimo Andrefana,Ampanihy Ouest,Ampanihy Ouest,-24.8336,44.5967,1,National,0,MDG
+MAG3454,2024-02-03,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Menabe,Belo Sur Tsiribihina,Masoarivo I,-19.6456,44.7162,1,National,1,MDG
+MAG3455,2024-02-02,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,Military Forces of Madagascar (2019-2025),Dahalo Militia,,Madagascar,Melaky,Maintirano,Betanatanana,-18.1692,44.1344,2,National,1,MDG
+MAG3456,2024-02-04,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Menabe,Mahabo,Mandabe,-21.0583,44.8532,2,National,4,MDG
+MAG3457,2024-02-03,2,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Menabe,Mahabo,Ambinany Maharivo,-20.9595,44.8754,2,National,1,MDG
+MAG3458,2024-02-03,1,Strategic developments,Change to group/activity,Military Forces of Madagascar (2019-2025) Regional Operational Joint Force (EmmoReg),,,,Madagascar,Analamanga,Ankazobe,Ankazobe,-18.3167,47.1167,1,National,0,MDG
+MAG3459,2024-02-04,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Menabe,Mahabo,Mandabe,-21.0583,44.8532,1,National,0,MDG
+MAG3460,2024-02-02,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Melaky,Maintirano,Betanatanana,-18.1692,44.1344,2,National,0,MDG
+MAG3462,2024-02-03,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 3,-18.9001,47.5221,1,National,0,MDG
+MAG3463,2024-02-02,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Sava,Vohemar,Antsirabe Nord I,-13.9624,49.993,1,National,0,MDG
+MAG3417,2024-01-17,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Atsinanana,Toamasina I,21/74 Tanambao Verrerie,-18.1607,49.3826,1,National,1,MDG
+MAG3466,2024-02-13,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Analamanga,Antananarivo Atsimondrano,Ambodiakondro,-19.0053,47.5494,1,National,0,MDG
+MAG3467,2024-02-14,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 2,-18.9199,47.5379,1,National,0,MDG
+MAG3470,2024-02-09,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Atsimo Atsinanana,Vondrozo,Tsararivotra,-22.3619,47.4153,2,National,0,MDG
+MAG3474,2024-02-14,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Atsimo Andrefana,Toliary-II,Ankililoaka I,-22.7813,43.6137,1,National,0,MDG
+MAG3475,2024-02-13,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Melaky,Maintirano,Manapape,-17.6108,44.1164,1,National,0,MDG
+MAG3476,2024-02-13,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Melaky,Maintirano,Manapape,-17.6108,44.1164,2,National,1,MDG
+MAG3479,2024-02-14,2,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Boeny,Marovoay,Ankazomborona,-16.1202,46.7447,1,National,2,MDG
+MAG3481,2024-02-10,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Betsiboka,Tsaratanana,Ambakireny,-17.6208,47.8487,2,National,1,MDG
+MAG3484,2024-02-19,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Analanjirofo,Mananara-Avaratra,Mananara Nord,-16.1655,49.7609,1,National,0,MDG
+MAG3485,2024-02-19,1,Protests,Protest with intervention,Protesters (Madagascar),,Military Forces of Madagascar (2019-2025) Regional Operational Joint Force (EmmoReg),,Madagascar,Diana,Antsiranana I,Antsiranana,-12.2842,49.2913,1,National,0,MDG
+MAG3482,2024-02-17,1,Riots,Mob violence,Rioters (Madagascar),,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Vakinankaratra,Mandoto,Ankazomiriotra,-19.6675,46.5289,1,National,0,MDG
+MAG3487,2024-02-26,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Betsiboka,Maevatanana,Antanimbaritsara Sud,-17.4236,46.6976,1,National,0,MDG
+MAG3488,2024-02-24,2,Battles,Armed clash,Military Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Menabe,Belo Sur Tsiribihina,Tanandava,-19.9244,44.6115,2,National,0,MDG
+MAG3490,2024-02-26,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Betsiboka,Maevatanana,Tsimandainga,-17.45,46.6,2,National,1,MDG
+MAG3493,2024-02-17,1,Violence against civilians,Attack,Military Forces of Madagascar (2019-2025) Gendarmerie,,Civilians (Madagascar),,Madagascar,Vakinankaratra,Mandoto,Ivory,-19.5181,46.4749,1,National,1,MDG
+MAG3495,2024-02-24,2,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Menabe,Belo Sur Tsiribihina,Tanandava,-19.9244,44.6115,2,National,0,MDG
+MAG3496,2024-02-22,1,Riots,Mob violence,Rioters (Madagascar),Protestant Christian Group (Madagascar),Rioters (Madagascar),Protestant Christian Group (Madagascar),Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 5,-18.8898,47.5478,1,National,0,MDG
+MAG3501,2024-02-28,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Labor Group (Madagascar),Madagascar,Atsimo Atsinanana,Farafangana,Nosibe Marotoko,-22.7197,47.5244,1,National,0,MDG
+MAG3508,2024-03-06,1,Riots,Violent demonstration,Rioters (Madagascar),,Police Forces of Madagascar (2019-2025),,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 1,-18.9082,47.5102,1,National,0,MDG
+MAG3509,2024-03-13,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Vakinankaratra,Antsirabe II,Antsampanimahazo,-19.6667,47.1667,1,National,0,MDG
+MAG3511,2024-03-09,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Atsimo Andrefana,Ankazoabo,Ankilivalokely,-22.2639,44.9015,1,National,0,MDG
+MAG3512,2024-03-09,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Atsimo Andrefana,Ankazoabo,Fotivolo Centre,-22.4712,44.6542,1,National,3,MDG
+MAG3515,2024-03-08,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 4,-18.9363,47.5149,1,National,0,MDG
+MAG3517,2024-03-14,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Vakinankaratra,Antsirabe II,Ambohibary,-19.6167,47.15,1,National,1,MDG
+MAG3519,2024-03-15,1,Protests,Peaceful protest,Protesters (Madagascar),Labor Group (Madagascar),,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 1,-18.9082,47.5102,1,National,0,MDG
+MAG3520,2024-03-15,1,Protests,Peaceful protest,Protesters (Madagascar),Labor Group (Madagascar),,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 3,-18.9001,47.5221,2,National,0,MDG
+MAG3522,2024-03-18,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 2,-18.9199,47.5379,1,National,0,MDG
+MAG3523,2024-03-18,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Vakinankaratra,Antsirabe II,Fanjakamandroso,-19.9288,47.1807,1,National,0,MDG
+MAG3524,2024-03-19,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Amoron I Mania,Ambatofinandrahana,Ambalamontana,-20.6659,46.1464,1,National,5,MDG
+MAG3526,2024-03-20,1,Protests,Peaceful protest,Protesters (Madagascar),,,,Madagascar,Alaotra Mangoro,Andilamena,Andilamena,-17.0101,48.5731,1,National,0,MDG
+MAG3528,2024-03-20,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Sofia,Bealanana,Marofamara,-14.4717,48.7667,1,National,1,MDG
+MAG3529,2024-03-21,2,Protests,Peaceful protest,Protesters (Madagascar),,,,Madagascar,Atsimo Andrefana,Toliary-II,Ankilimalinike,-22.9532,43.5614,1,National,0,MDG
+MAG3450,2024-02-05,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Betsiboka,Tsaratanana,Ambakireny,-17.6208,47.8487,1,National,0,MDG
+MAG3521,2024-03-15,1,Protests,Peaceful protest,Protesters (Madagascar),Labor Group (Madagascar),,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 5,-18.8898,47.5478,2,National,0,MDG
+MAG3530,2024-03-26,1,Protests,Peaceful protest,Protesters (Madagascar),Labor Group (Madagascar),,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 1,-18.9082,47.5102,1,National,0,MDG
+MAG3531,2024-03-20,1,Protests,Peaceful protest,Protesters (Madagascar),Protestant Christian Group (Madagascar),,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 5,-18.8898,47.5478,1,National,0,MDG
+MAG3532,2024-03-26,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Melaky,Maintirano,Ankerabe,-17.292,44.1893,1,National,1,MDG
+MAG3533,2024-03-24,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Bongolava,Fenoarivobe,Ambohitromby,-17.9667,46.3167,1,National,0,MDG
+MAG3534,2024-03-26,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Itasy,Miarinarivo,Andolofotsy,-18.7532,46.6342,1,National,1,MDG
+MAG3537,2024-03-24,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025),Military Forces of Madagascar (2019-2025) Gendarmerie,Dahalo Militia,,Madagascar,Betsiboka,Kandreho,Betaimboraka,-17.8304,46.0643,1,National,3,MDG
+MAG3538,2024-02-27,2,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Melaky,Maintirano,Ankerabe,-17.292,44.1893,1,National,0,MDG
+MAG3541,2024-03-24,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Atsimo Andrefana,Ampanihy Ouest,Androka Ela,-25.0458,44.0934,1,National,0,MDG
+MAG3542,2024-03-26,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Atsimo Andrefana,Toliary-II,Andranovory,-23.1404,44.1407,1,National,0,MDG
+MAG3543,2024-03-28,1,Strategic developments,Other,Government of Madagascar (2019-2025),,Civilians (Madagascar),,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 1,-18.9082,47.5102,1,National-International,0,MDG
+MAG3547,2024-03-27,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025),,Madagascar,Ihorombe,Ihosy,Tanandava Ilola,-22.9138,45.3431,2,National,0,MDG
+MAG3549,2024-03-24,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Bongolava,Fenoarivobe,Ambohitromby,-17.9667,46.3167,2,National,0,MDG
+MAG3489,2024-02-20,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Boeny,Marovoay,Ambohimena,-16.0956,46.2881,1,National,0,MDG
+MAG3494,2024-02-20,2,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Boeny,Marovoay,Ambohimena,-16.0956,46.2881,2,National,0,MDG
+MAG3502,2024-03-01,2,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Boeny,Marovoay,Mavozaza,-16.0212,46.2491,1,National,1,MDG
+MAG3546,2024-03-19,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Amoron I Mania,Ambatofinandrahana,Ambalamontana,-20.6659,46.1464,2,National,1,MDG
+MAG3551,2024-04-04,1,Protests,Protest with intervention,Protesters (Madagascar),,Police Forces of Madagascar (2019-2025),,Madagascar,Analamanga,Avaradrano,Alasora,-18.9555,47.5674,1,National,0,MDG
+MAG3552,2024-03-27,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Melaky,Besalampy,Besalampy,-16.7481,44.4851,2,National,3,MDG
+MAG3555,2024-03-27,2,Violence against civilians,Attack,Unidentified Armed Group (Madagascar),,Civilians (Madagascar),Albino Group (Madagascar),Madagascar,Haute Matsiatra,Ambohimahasoa,Ambalakindresy,-21.1667,47.3333,2,National,1,MDG
+MAG3556,2024-03-27,2,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Androy,Ambovombe-Androy,Ambalatany,-24.5,45.8833,1,National,0,MDG
+MAG3558,2024-04-02,1,Protests,Peaceful protest,Protesters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 5,-18.8898,47.5478,1,National,0,MDG
+MAG3561,2024-04-03,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 2,-18.9199,47.5379,1,National,0,MDG
+MAG3425,2024-01-23,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Analamanga,Ankazobe,Androva Atsimo,-18.233,47.1591,2,National,1,MDG
+MAG3477,2024-02-09,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Boeny,Marovoay,Ankaraobato,-16.1784,46.1912,1,National,2,MDG
+MAG3478,2024-02-14,2,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Bongolava,Tsiroanomandidy,Maritampona,-19.055,46.1036,1,National,1,MDG
+MAG3505,2024-03-05,2,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Bongolava,Tsiroanomandidy,Antanetibe,-19.0052,46.0586,1,National,0,MDG
+MAG3539,2024-03-25,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Analamanga,Ankazobe,Manontanitsiloza,-18.1554,47.1495,1,National,0,MDG
+MAG3550,2024-03-26,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Bongolava,Tsiroanomandidy,Maritampona,-19.055,46.1036,2,National,0,MDG
+MAG3562,2024-03-27,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Betsiboka,Tsaratanana,Androfia,-16.75,47.6,1,National,0,MDG
+MAG3563,2024-04-03,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 3,-18.9001,47.5221,1,National,0,MDG
+MAG3564,2024-04-04,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Vatovavy Fitovinany,Manakara Atsimo,Ambalakondro,-21.8403,47.7129,1,National,0,MDG
+MAG3565,2024-04-04,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 5,-18.8898,47.5478,1,National,0,MDG
+MAG3566,2024-04-05,1,Protests,Peaceful protest,Protesters (Madagascar),Labor Group (Madagascar),,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 3,-18.9001,47.5221,1,National,0,MDG
+MAG3567,2024-04-05,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 5,-18.8898,47.5478,1,National,0,MDG
+MAG3568,2024-04-05,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Sofia,Befandriana Nord,Befandriana Nord,-15.2564,48.5346,1,National,2,MDG
+MAG3570,2024-04-07,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Boeny,Ambato Boeni,Ampombokely,-16.3667,47.2167,1,National,3,MDG
+MAG3571,2024-04-07,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Melaky,Besalampy,Andabozato,-17.1165,45.1419,1,National,0,MDG
+MAG3572,2024-04-07,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Melaky,Besalampy,Mahabe,-17.088,45.354,1,National,3,MDG
+MAG3573,2024-04-09,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Madagascar),,Civilians (Madagascar),Albino Group (Madagascar); Women (Madagascar),Madagascar,Vatovavy Fitovinany,Mananjary,Ambohimanarivo,-21.2947,48.09,2,National,0,MDG
+MAG3574,2024-04-09,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Analamanga,Ankazobe,Ambohitantely,-18.1667,47.2833,1,National,0,MDG
+MAG3575,2024-04-09,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,Military Forces of Madagascar (2019-2025),Madagascar,Analamanga,Ankazobe,Antaniditra,-18.0781,47.3421,1,National,2,MDG
+MAG3576,2024-04-09,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Melaky,Maintirano,Betanatanana,-18.1692,44.1344,1,National,1,MDG
+MAG3581,2024-04-08,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Bongolava,Tsiroanomandidy,Ambaravaranala,-18.2469,45.6804,1,National,1,MDG
+MAG3559,2024-04-02,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 3,-18.9001,47.5221,1,National,0,MDG
+MAG3560,2024-04-02,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 3,-18.9001,47.5221,1,National,0,MDG
+MAG3593,2024-04-16,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Antananarivo Atsimondrano,Antsahadinta,-19.0162,47.4601,1,National,0,MDG
+MAG3391,2024-01-05,2,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Melaky,Antsalova,Ambalakazaha Fenoarivo,-18.8717,44.4151,1,National,1,MDG
+MAG3410,2024-01-16,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Melaky,Antsalova,Ambalakazaha Fenoarivo,-18.8717,44.4151,1,National,0,MDG
+MAG3430,2024-01-23,2,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Boeny,Marovoay,Ambovomavo Diego Kely,-16.0919,46.6485,1,National,2,MDG
+MAG3451,2024-02-06,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025),,Madagascar,Anosy,Amboasary-Atsimo,Berano Ville,-25.1236,46.4032,2,National,1,MDG
+MAG3461,2024-02-05,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Anosy,Amboasary-Atsimo,Berano Ville,-25.1236,46.4032,1,National,0,MDG
+MAG3483,2024-02-19,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Antananarivo Atsimondrano,Soatsimeloka,-18.9846,47.4637,1,National,1,MDG
+MAG3497,2024-02-26,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),Men (Madagascar),Madagascar,Menabe,Morondava,Morondava,-20.2846,44.3168,1,National,0,MDG
+MAG3540,2024-03-24,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Dahalo Militia,,Madagascar,Sofia,Mandritsara,Ambalantsotry,-15.8028,48.9249,1,National,2,MDG
+MAG3598,2024-04-19,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Sava,Sambava,Ambodivoara,-14.3497,49.997,1,National,0,MDG
+MAG3600,2024-04-20,2,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Government of Madagascar (2019-2025),Madagascar,Melaky,Besalampy,Antsakazoato,-16.6525,44.6035,1,National,0,MDG
+MAG3601,2024-04-24,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Ankazobe,Mandriambero Andrenivatosoa,-18.4604,47.3642,2,National,1,MDG
+MAG3604,2024-04-20,2,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Analamanga,Ambohidratrimo,Ankosy,-18.7713,47.5094,1,National,0,MDG
+MAG3605,2024-04-11,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),Labor Group (Madagascar),Madagascar,Bongolava,Tsiroanomandidy,Antsahatanteraka,-18.9555,46.4337,1,National,1,MDG
+MAG3606,2024-04-21,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Anosy,Betroka,Ianakafy,-23.338,45.4548,1,National,0,MDG
+MAG3608,2024-04-23,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Bongolava,Tsiroanomandidy,Antanetibe,-19.0052,46.0586,1,National,0,MDG
+MAG3610,2024-04-19,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Itasy,Soavinandriana,Ambatoasana Afovoany,-19.05,46.7333,1,National,0,MDG
+MAG3612,2024-04-20,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),Labor Group (Madagascar),Madagascar,Itasy,Soavinandriana,Maharavoandriana,-19.2754,46.5944,2,National,0,MDG
+MAG3613,2024-04-18,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025),,Madagascar,Bongolava,Tsiroanomandidy,Ampandrana,-18.8725,45.782,1,National,1,MDG
+MAG3614,2024-04-20,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Itasy,Soavinandriana,Maharavoandriana,-19.2754,46.5944,1,National,1,MDG
+MAG3615,2024-04-23,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,Police Forces of Madagascar (2019-2025),Dahalo Militia,,Madagascar,Melaky,Antsalova,Ampamoty,-18.7907,44.4324,1,National,4,MDG
+MAG3616,2024-04-14,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Betsiboka,Maevatanana,Morafeno,-17.6853,47.1888,2,National,1,MDG
+MAG3617,2024-04-20,2,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Melaky,Besalampy,Antsakazoato,-16.6525,44.6035,2,National,0,MDG
+MAG3618,2024-04-23,1,Protests,Peaceful protest,Protesters (Madagascar),TIM: Tiako I Madagasikara,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 2,-18.9199,47.5379,1,National,0,MDG
+MAG3619,2024-04-18,1,Protests,Protest with intervention,Protesters (Madagascar),,Police Forces of Madagascar (2019-2025),,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 5,-18.8898,47.5478,1,National,0,MDG
+MAG3620,2024-04-23,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Vakinankaratra,Mandoto,Ambatotsipihina,-19.5391,46.1303,1,National,1,MDG
+MAG3622,2024-04-20,1,Violence against civilians,Attack,Unidentified Armed Group (Madagascar),,Civilians (Madagascar),Albino Group (Madagascar),Madagascar,Vatovavy Fitovinany,Ifanadiana,Ifanadiana,-21.3,47.6333,2,National,0,MDG
+MAG3603,2024-04-19,2,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Anosy,Amboasary-Atsimo,Bevoangy,-25.1497,46.377,1,National,0,MDG
+MAG3611,2024-04-20,2,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Melaky,Morafenobe,Morafenobe,-17.8167,44.9167,1,National,0,MDG
+MAG3392,2024-01-07,2,Riots,Mob violence,Rioters (Madagascar),,Civilians (Madagascar),Women (Madagascar),Madagascar,Itasy,Soavinandriana,Antanetibe,-19.1166,46.8333,1,National,0,MDG
+MAG3536,2024-03-23,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),Labor Group (Madagascar),Madagascar,Itasy,Arivonimamo,Antsenakely,-18.9846,47.3243,1,National,2,MDG
+MAG3624,2024-04-30,1,Riots,Violent demonstration,Rioters (Madagascar),Students (Madagascar),Police Forces of Madagascar (2019-2025),,Madagascar,Analamanga,Antananarivo Atsimondrano,Vontovorona,-18.9682,47.4223,1,National,0,MDG
+MAG3625,2024-05-02,1,Riots,Violent demonstration,Rioters (Madagascar),Students (Madagascar),Police Forces of Madagascar (2019-2025),Civilians (Madagascar),Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 2,-18.9199,47.5379,1,National,0,MDG
+MAG3627,2024-04-26,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Melaky,Maintirano,Bemena,-17.8386,44.0844,1,National,0,MDG
+MAG3628,2024-04-18,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Itasy,Soavinandriana,Ambatoasana Afovoany,-19.05,46.7333,1,National,0,MDG
+MAG3630,2024-04-24,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Androy,Ambovombe-Androy,Antanimora,-24.8167,45.6667,1,National,0,MDG
+MAG3631,2024-04-30,2,Battles,Armed clash,Military Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Androy,Ambovombe-Androy,Antanimora,-24.8167,45.6667,1,National,0,MDG
+MAG3633,2024-04-28,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Itasy,Soavinandriana,Ambatoasana Afovoany,-19.05,46.7333,2,National,1,MDG
+MAG3634,2024-04-25,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Sofia,Analalava,Analalava,-14.7245,47.781,2,National,1,MDG
+MAG3635,2024-04-25,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Bongolava,Tsiroanomandidy,Bemahatazana I,-19.0449,45.9466,2,National,1,MDG
+MAG3637,2024-04-26,1,Protests,Peaceful protest,Protesters (Madagascar),Health Workers (Madagascar),,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 1,-18.9082,47.5102,1,National,0,MDG
+MAG3639,2024-05-01,1,Protests,Peaceful protest,Protesters (Madagascar),Labor Group (Madagascar),,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 1,-18.9082,47.5102,2,National,0,MDG
+MAG3629,2024-04-28,1,Violence against civilians,Attack,Military Forces of Madagascar (2019-2025) Gendarmerie,,Civilians (Madagascar),Dahalo Militia; Prisoners (Madagascar),Madagascar,Itasy,Miarinarivo,Ambohimanambola,-19.0432,46.8373,1,National,0,MDG
+MAG3642,2024-05-03,1,Riots,Violent demonstration,Rioters (Madagascar),Students (Madagascar),Police Forces of Madagascar (2019-2025),,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 2,-18.9199,47.5379,1,National,0,MDG
+MAG3645,2024-05-05,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Sofia,Antsohihy,Anjobony,-14.9603,47.8136,1,National,1,MDG
+MAG3646,2024-05-07,1,Battles,Armed clash,Police Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Bongolava,Fenoarivobe,Anosibe,-18.2067,46.2463,1,National,2,MDG
+MAG3653,2024-04-23,1,Battles,Armed clash,Police Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Melaky,Morafenobe,Morafenobe,-17.8167,44.9167,2,National,0,MDG
+MAG3654,2024-04-23,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Melaky,Morafenobe,Morafenobe,-17.8167,44.9167,2,National,0,MDG
+MAG3664,2024-05-11,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Boeny,Ambato Boeni,Tsinjorano,-16.4583,46.8177,2,National,2,MDG
+MAG3665,2024-05-11,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Boeny,Ambato Boeni,Tsinjorano,-16.4583,46.8177,1,National,1,MDG
+MAG3666,2024-05-11,1,Battles,Armed clash,Police Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Melaky,Morafenobe,Morafenobe,-17.8167,44.9167,2,National,0,MDG
+MAG3669,2024-05-15,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Vakinankaratra,Antsirabe II,Antsira,-20.119,46.9402,1,National,3,MDG
+MAG3670,2024-05-15,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Vakinankaratra,Antsirabe II,Antsira,-20.119,46.9402,1,National,0,MDG
+MAG3671,2024-05-13,1,Protests,Peaceful protest,Protesters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 1,-18.9082,47.5102,1,National,0,MDG
+MAG3652,2024-04-23,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),Labor Group (Madagascar),Madagascar,Betsiboka,Kandreho,Betaimboay,-17.6708,46.1133,1,National,2,MDG
+MAG3656,2024-05-08,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Amoron I Mania,Ambatofinandrahana,Tsimamaliavona,-20.8759,46.7736,2,National,1,MDG
+MAG3657,2024-05-08,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Vakinankaratra,Ambatolampy,Bethlehema,-19.3011,47.3318,2,National,1,MDG
+MAG3658,2024-05-09,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Atsimo Atsinanana,Farafangana,Iarindrano,-22.8494,47.5896,2,National,1,MDG
+MAG3659,2024-05-09,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Atsimo Atsinanana,Farafangana,Iarindrano,-22.8494,47.5896,1,National,0,MDG
+MAG3661,2024-05-10,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Sofia,Mandritsara,Ambohimandroso,-15.8259,48.8267,1,National,0,MDG
+MAG3662,2024-05-10,2,Battles,Armed clash,Police Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Sofia,Mandritsara,Ambohimandroso,-15.8259,48.8267,1,National,1,MDG
+MAG3414,2024-01-16,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Anosy,Taolagnaro,Bevilany,-24.9973,46.5904,1,National,0,MDG
+MAG3535,2024-03-20,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Ankazobe,Anjezika,-18.5047,47.337,1,National,1,MDG
+MAG3750,2024-06-19,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Menabe,Miandrivazo,Ankondromena,-18.4022,44.9752,1,National,0,MDG
+MAG3748,2024-06-18,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Alaotra Mangoro,Amparafaravola,Ambohitrarivo,-17.48,48.3479,1,National,0,MDG
+MAG3747,2024-06-16,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Amoron I Mania,Ambositra,Ambalalehibe,-20.7123,47.2473,1,National,1,MDG
+MAG3746,2024-06-15,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Betsiboka,Tsaratanana,Behoraka,-17.2689,48.094,1,National,1,MDG
+MAG3741,2024-06-14,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,Military Forces of Madagascar (2019-2025),Dahalo Militia,,Madagascar,Atsimo Andrefana,Morombe,Befandriana Sud,-22.1012,43.8995,2,National,6,MDG
+MAG3742,2024-06-14,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Atsimo Andrefana,Morombe,Befandriana Sud,-22.1012,43.8995,1,National,0,MDG
+MAG3743,2024-06-14,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Vakinankaratra,Mandoto,Bemahatazana,-19.7,45.9333,2,National,1,MDG
+MAG3744,2024-06-14,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Vakinankaratra,Mandoto,Bemahatazana,-19.7,45.9333,1,National,0,MDG
+MAG3739,2024-06-13,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Albino Group (Madagascar),Madagascar,Atsimo Atsinanana,Vangaindrano,Tanambao,-23.7345,47.3003,1,National,0,MDG
+MAG3738,2024-06-12,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Sofia,Antsohihy,Ankerika Centre,-14.9603,47.8659,2,National,0,MDG
+MAG3737,2024-06-11,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Sofia,Antsohihy,Ankerika Centre,-14.9603,47.8659,1,National,1,MDG
+MAG3734,2024-06-10,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Melaky,Maintirano,Manapape,-17.6108,44.1164,2,National,3,MDG
+MAG3735,2024-06-10,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Melaky,Maintirano,Manapape,-17.6108,44.1164,2,National,0,MDG
+MAG3733,2024-06-09,2,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Itasy,Miarinarivo,Mandiavato,-19.082,47.0251,1,National,0,MDG
+MAG3731,2024-06-08,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 3,-18.9001,47.5221,1,National,0,MDG
+MAG3732,2024-06-08,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 5,-18.8898,47.5478,1,National,0,MDG
+MAG3730,2024-06-07,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Itasy,Miarinarivo,Mandiavato,-19.082,47.0251,1,National,0,MDG
+MAG3724,2024-06-05,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Atsimo Andrefana,Toliary-II,Antseva,-22.6169,43.5966,1,National,0,MDG
+MAG3727,2024-06-05,1,Protests,Peaceful protest,Protesters (Madagascar),,,,Madagascar,Itasy,Miarinarivo,Mangarivotra,-19.0139,46.7474,1,National,0,MDG
+MAG3728,2024-06-05,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Melaky,Antsalova,Anjiabe,-18.62,44.6046,2,National,1,MDG
+MAG3721,2024-06-04,2,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Androy,Ambovombe-Androy,Imanombo,-24.4333,45.8167,2,National,0,MDG
+MAG3719,2024-06-03,1,Protests,Peaceful protest,Protesters (Madagascar),Students (Madagascar),,,Madagascar,Atsinanana,Toamasina I,Ankirihiry,-18.1301,49.3928,1,National,0,MDG
+MAG3713,2024-06-02,1,Battles,Armed clash,Tanamary Communal Militia (Madagascar),,Dahalo Militia,,Madagascar,Atsimo Andrefana,Beroroha,Tanamary,-21.2325,45.5021,2,National,6,MDG
+MAG3714,2024-06-02,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Atsimo Andrefana,Beroroha,Tanamary,-21.2325,45.5021,1,National,0,MDG
+MAG3715,2024-06-02,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Bongolava,Tsiroanomandidy,Soamihary,-19.0763,46.4435,2,National,0,MDG
+MAG3716,2024-06-02,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Bongolava,Tsiroanomandidy,Soamihary,-19.0763,46.4435,1,National,0,MDG
+MAG3717,2024-06-02,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Itasy,Soavinandriana,Andohady,-19.1093,46.5102,1,National,0,MDG
+MAG3712,2024-06-01,1,Riots,Mob violence,Rioters (Madagascar),,,,Madagascar,Bongolava,Tsiroanomandidy,Tsiroanomandidy,-18.7694,46.0443,1,National,0,MDG
+MAG3710,2024-05-31,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Atsinanana,Toamasina I,14/33 Morafeno,-18.1368,49.4043,1,National,0,MDG
+MAG3707,2024-05-30,1,Protests,Peaceful protest,Protesters (Madagascar),,,,Madagascar,Amoron I Mania,Ambatofinandrahana,Ambatofinandrahana,-20.5528,46.8037,1,National,0,MDG
+MAG3708,2024-05-30,1,Protests,Protest with intervention,Protesters (Madagascar),Students (Madagascar),Rioters (Madagascar),Labor Group (Madagascar),Madagascar,Atsinanana,Toamasina I,Ankirihiry,-18.1301,49.3928,1,National,0,MDG
+MAG3705,2024-05-29,1,Protests,Peaceful protest,Protesters (Madagascar),,,,Madagascar,Amoron I Mania,Ambatofinandrahana,Ambatofinandrahana,-20.5528,46.8037,1,National,0,MDG
+MAG3706,2024-05-29,1,Riots,Mob violence,Rioters (Madagascar),,Dahalo Militia,,Madagascar,Atsimo Andrefana,Ankazoabo,Tandrano,-22.0833,44.6333,1,National,1,MDG
+MAG3700,2024-05-25,1,Protests,Peaceful protest,Protesters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 1,-18.9082,47.5102,1,National,0,MDG
+MAG3701,2024-05-25,1,Protests,Peaceful protest,Protesters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 3,-18.9001,47.5221,1,National,0,MDG
+MAG3702,2024-05-25,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,Military Forces of Madagascar (2019-2025),Dahalo Militia,,Madagascar,Bongolava,Tsiroanomandidy,Maroharona,-19.2764,46.2932,1,National,2,MDG
+MAG3703,2024-05-25,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Itasy,Soavinandriana,Morarivo,-19.3167,46.2833,1,National,1,MDG
+MAG3697,2024-05-24,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Atsinanana,Toamasina I,Ankirihiry,-18.1301,49.3928,2,National,1,MDG
+MAG3698,2024-05-24,1,Violence against civilians,Attack,Unidentified Armed Group (Madagascar),,Civilians (Madagascar),Government of Madagascar (2019-2025),Madagascar,Betsiboka,Maevatanana,Mahatsinjo,-17.7375,47.0105,2,National,1,MDG
+MAG3699,2024-05-24,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Military Forces of Madagascar (2019-2025),,Madagascar,Melaky,Maintirano,Andranovao,-17.6039,44.0569,1,National,0,MDG
+MAG3693,2024-05-23,1,Strategic developments,Other,Government of Madagascar (2019-2025),,Civilians (Madagascar),Journalists (Madagascar),Madagascar,Amoron I Mania,Ambatofinandrahana,Ambatofinandrahana,-20.5528,46.8037,1,National,0,MDG
+MAG3694,2024-05-23,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Analamanga,Ankazobe,Anjezika,-18.5047,47.337,1,National,6,MDG
+MAG3695,2024-05-23,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Betsiboka,Maevatanana,Anjiakely Ouest,-16.828,46.8027,1,National,0,MDG
+MAG3696,2024-05-23,1,Strategic developments,Other,Government of Madagascar (2019-2025),,Civilians (Madagascar),Journalists (Madagascar),Madagascar,Itasy,Arivonimamo,Arivonimamo,-18.9167,47.1833,1,National,0,MDG
+MAG3691,2024-05-22,2,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Analamanga,Avaradrano,Ambohipianana,-18.8737,47.6247,1,National,1,MDG
+MAG3692,2024-05-22,2,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Avaradrano,Ambohipianana,-18.8737,47.6247,1,National,0,MDG
+MAG3668,2024-05-13,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Analamanga,Avaradrano,Ambohimangakely,-18.8998,47.5931,2,National,1,MDG
+MAG3644,2024-05-04,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Ankazobe,Tsaramasoandro,-17.9879,47.2079,1,National,0,MDG
+MAG3626,2024-04-27,1,Riots,Mob violence,Rioters (Madagascar),,Police Forces of Madagascar (2019-2025),,Madagascar,Atsinanana,Toamasina I,Toamasina,-18.1667,49.3833,1,National,0,MDG
+MAG3602,2024-04-18,2,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Manjakandriana,Ankadimbazimba,-18.9985,47.7009,1,National,0,MDG
+MAG3591,2024-04-15,2,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Manjakandriana,Ankadimbazimba,-18.9985,47.7009,1,National,0,MDG
+MAG3577,2024-04-09,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Atsinanana,Toamasina I,Toamasina,-18.1667,49.3833,1,National,0,MDG
+MAG3518,2024-03-14,1,Riots,Violent demonstration,Rioters (Madagascar),,Police Forces of Madagascar (2019-2025),,Madagascar,Atsinanana,Toamasina I,Toamasina,-18.1667,49.3833,1,National,0,MDG
+MAG3499,2024-02-29,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Atsinanana,Toamasina I,Toamasina,-18.1667,49.3833,1,National,0,MDG
+MAG3498,2024-02-25,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Analamanga,Antananarivo Atsimondrano,Tsilazaina,-18.9799,47.5723,1,National,0,MDG
+MAG3500,2024-02-23,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Analamanga,Antananarivo Atsimondrano,Tsilazaina,-18.9799,47.5723,1,National,1,MDG
+MAG3465,2024-02-11,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Analamanga,Avaradrano,Betsizaraina,-18.876,47.5908,2,National,0,MDG
+MAG3432,2024-02-01,2,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Atsinanana,Toamasina I,Toamasina,-18.1667,49.3833,1,National,0,MDG
+MAG3473,2024-02-01,2,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Analamanga,Avaradrano,Betsizaraina,-18.876,47.5908,1,National,3,MDG
+MAG3689,2024-01-25,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Analamanga,Ankazobe,Tsinjorano,-17.9483,47.2784,1,National,0,MDG
+MAG3418,2024-01-17,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Atsinanana,Toamasina I,Ankirihiry,-18.1301,49.3928,1,National,0,MDG
+MAG3736,2024-06-11,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Sofia,Antsohihy,Androibe,-14.9139,47.846,1,National,1,MDG
+MAG3751,2024-06-17,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Anosy,Betroka,Isoanala,-23.8333,45.7167,1,National,1,MDG
+MAG3754,2024-06-23,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Melaky,Maintirano,Ankisatra,-18.2333,44.15,1,National,0,MDG
+MAG3755,2024-06-23,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,Military Forces of Madagascar (2019-2025); Police Forces of Madagascar (2019-2025),Dahalo Militia,,Madagascar,Melaky,Maintirano,Ankisatra,-18.2333,44.15,2,National,0,MDG
+MAG3757,2024-06-26,1,Protests,Peaceful protest,Protesters (Madagascar),Labor Group (Madagascar),,,Madagascar,Atsimo Andrefana,Toliary-II,Tulear,-23.3833,43.7284,1,National,0,MDG
+MAG3510,2024-03-12,2,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Bongolava,Tsiroanomandidy,Ambohimahasoa,-18.9922,46.4438,1,National,0,MDG
+MAG3720,2024-06-04,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Farmers (Madagascar),Madagascar,Alaotra Mangoro,Amparafaravola,Ambodirano,-17.8015,48.1876,1,National,0,MDG
+MAG3759,2024-07-02,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Analamanga,Ankazobe,Ambolotarabe,-17.8905,47.1874,1,National,1,MDG
+MAG3761,2024-06-29,2,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Boeny,Mahajanga II,Tsarazazamandimby,-15.8382,47.1023,1,National,2,MDG
+MAG3762,2024-07-02,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Alaotra Mangoro,Andilamena,Andilamena,-17.0101,48.5731,1,National,2,MDG
+MAG3763,2024-06-28,1,Battles,Armed clash,Police Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Betsiboka,Maevatanana,Tsinjorano,-17.4773,47.0166,1,National,0,MDG
+MAG3764,2024-07-01,1,Battles,Armed clash,Police Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Alaotra Mangoro,Amparafaravola,Moratelo,-17.8152,48.1514,1,National,2,MDG
+MAG3765,2024-06-26,2,Battles,Armed clash,Police Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Analamanga,Anjozorobe,Andranomisa,-17.9569,47.831,1,National,3,MDG
+MAG3766,2024-07-01,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Ihorombe,Ihosy,Ambatosia,-22.4319,46.2471,1,National,1,MDG
+MAG3767,2024-06-29,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Alaotra Mangoro,Amparafaravola,Vohitraivo,-17.3026,48.5994,1,National,0,MDG
+MAG3770,2024-06-29,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Atsimo Andrefana,Toliary-I,Sakabera,-23.3128,43.6434,1,National,0,MDG
+MAG3772,2024-06-29,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Boeny,Mahajanga II,Mangatoka,-15.7763,47.0896,1,National,0,MDG
+MAG3773,2024-07-01,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Bongolava,Tsiroanomandidy,Firaisantsoa Mahatsinjo,-18.9717,46.4693,1,National,0,MDG
+MAG3775,2024-07-01,1,Strategic developments,Disrupted weapons use,Police Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Analamanga,Anjozorobe,Marotsipoy,-17.9574,47.5978,1,National,0,MDG
+MAG3777,2024-06-30,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 2,-18.9199,47.5379,1,National,0,MDG
+MAG3778,2024-06-30,1,Riots,Mob violence,Rioters (Madagascar),Protestant Christian Group (Madagascar),Rioters (Madagascar),Protestant Christian Group (Madagascar),Madagascar,Diana,Antsiranana I,Antsiranana,-12.2842,49.2913,1,National,0,MDG
+MAG3586,2024-04-11,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,Military Forces of Madagascar (2019-2025),Madagascar,Analamanga,Ankazobe,Ambohitantely,-18.1667,47.2833,1,National,2,MDG
+MAG3769,2024-06-22,1,Violence against civilians,Attack,Unidentified Armed Group (Madagascar),,Civilians (Madagascar),,Madagascar,Alaotra Mangoro,Moramanga,Ankazondandy,-19.2087,47.9786,1,Other-National,1,MDG
+MAG3789,2024-07-11,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Alaotra Mangoro,Andilamena,Antsomangana,-17.1389,48.4605,2,National,1,MDG
+MAG3788,2024-07-08,1,Violence against civilians,Attack,Unidentified Armed Group (Madagascar),,Civilians (Madagascar),Albino Group (Madagascar); Women (Madagascar),Madagascar,Atsimo Andrefana,Ampanihy Ouest,Tsikombo Haut,-24.0585,44.7519,1,National,1,MDG
+MAG3784,2024-07-06,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Atsinanana,Toamasina I,21/74 Tanambao Verrerie,-18.1607,49.3826,1,National,0,MDG
+MAG3785,2024-07-06,1,Riots,Mob violence,Rioters (Madagascar),,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Sofia,Port-Berge (Boriziny-Vaovao),Ambarimanjevo,-15.4786,47.5306,1,National,0,MDG
+MAG3779,2024-07-05,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Sofia,Port-Berge (Boriziny-Vaovao),Tsiningia,-15.486,47.4423,1,National,2,MDG
+MAG3781,2024-07-04,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Vakinankaratra,Antsirabe II,Iharandramosa,-19.8934,47.3488,1,National,4,MDG
+MAG3749,2024-06-19,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Alaotra Mangoro,Andilamena,Bemaitso,-17.0568,48.5081,1,National,1,MDG
+MAG3729,2024-06-07,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Ambohidratrimo,Bemasoandro Nord,-18.7332,47.2764,1,National,0,MDG
+MAG3655,2024-05-05,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Ambohidratrimo,Ampanataovana Atsimo,-18.757,47.2677,1,National,0,MDG
+MAG3424,2024-01-22,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Vakinankaratra,Antsirabe II,Mahatsinjo,-19.9225,47.3363,2,National,4,MDG
+MAG3594,2024-04-16,1,Protests,Peaceful protest,Protesters (Madagascar),Labor Group (Madagascar),,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 1,-18.9082,47.5102,1,National,0,MDG
+MAG3595,2024-04-16,1,Protests,Peaceful protest,Protesters (Madagascar),Labor Group (Madagascar),,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 1,-18.9082,47.5102,1,National,0,MDG
+MAG3596,2024-04-16,1,Protests,Peaceful protest,Protesters (Madagascar),Labor Group (Madagascar),,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 6,-18.8492,47.4828,1,National,0,MDG
+MAG3774,2024-02-06,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Alaotra Mangoro,Andilamena,Bemaitso,-17.0568,48.5081,1,National,0,MDG
+MAG3776,2024-07-03,1,Strategic developments,Arrests,Military Forces of Madagascar (2019-2025) Gendarmerie,,Civilians (Madagascar),Civilians (Comoros); Civilians (Ethiopia); Civilians (Somalia); Migrants (Comoros); Migrants (Ethiopia); Migrants (Madagascar); Migrants (Somalia),Madagascar,Diana,Ambanja,Bemaneviky Ouest,-13.6402,48.0261,1,National,0,MDG
+MAG3793,2024-07-18,1,Riots,Violent demonstration,Rioters (Madagascar),Students (Madagascar),,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 2,-18.9199,47.5379,1,National,0,MDG
+MAG3791,2024-07-17,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Anjozorobe,Andranokotona,-18.449,47.8949,1,National,0,MDG
+MAG3792,2024-07-17,1,Riots,Violent demonstration,Rioters (Madagascar),Students (Madagascar),Police Forces of Madagascar (2019-2025),,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 2,-18.9199,47.5379,1,National,0,MDG
+MAG3800,2024-07-17,1,Riots,Violent demonstration,Rioters (Madagascar),Students (Madagascar),Police Forces of Madagascar (2019-2025),Civilians (Madagascar),Madagascar,Atsinanana,Toamasina I,Ankirihiry,-18.1301,49.3928,1,National,0,MDG
+MAG3790,2024-07-15,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Betsiboka,Tsaratanana,Ambohibengy,-16.4361,47.6074,1,National,0,MDG
+MAG3794,2024-07-15,1,Protests,Peaceful protest,Protesters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 6,-18.8492,47.4828,1,National,0,MDG
+MAG3795,2024-07-14,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Military Forces of Madagascar (2019-2025) Gendarmerie,Military Forces of Madagascar (2019-2025),Madagascar,Boeny,Mahajanga II,Fenoarivo Besakoa,-15.6835,47.0608,1,National,0,MDG
+MAG3640,2024-05-04,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),Government of Madagascar (2019-2025),Madagascar,Boeny,Mahajanga I,Mahajanga,-15.7167,46.3167,1,National,0,MDG
+MAG3513,2024-03-07,1,Protests,Peaceful protest,Protesters (Madagascar),Labor Group (Madagascar),,,Madagascar,Boeny,Mahajanga I,Mahajanga,-15.7167,46.3167,1,National,0,MDG
+MAG3491,2024-02-28,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Boeny,Mahajanga I,Mahajanga,-15.7167,46.3167,1,National,2,MDG
+MAG3464,2024-02-07,1,Protests,Peaceful protest,Protesters (Madagascar),,,,Madagascar,Boeny,Mahajanga I,Mahajanga,-15.7167,46.3167,2,National,0,MDG
+MAG3803,2024-07-18,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Boeny,Ambato Boeni,Andranomamy,-16.8577,46.3321,2,National,1,MDG
+MAG3804,2024-07-20,2,Battles,Armed clash,Military Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Bongolava,Tsiroanomandidy,Tamponala,-18.5921,46.1172,2,National,0,MDG
+MAG3805,2024-07-20,2,Battles,Armed clash,Military Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Bongolava,Tsiroanomandidy,Tsinjoarivo,-18.9329,46.3184,2,National,1,MDG
+MAG3806,2024-07-18,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Boeny,Ambato Boeni,Mariarano,-16.7602,46.3623,1,National,0,MDG
+MAG3808,2024-07-20,2,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Bongolava,Tsiroanomandidy,Tamponala,-18.5921,46.1172,2,National,0,MDG
+MAG3810,2024-07-25,2,Protests,Peaceful protest,Protesters (Madagascar),Labor Group (Madagascar),,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 5,-18.8898,47.5478,1,National,0,MDG
+MAG3811,2024-07-20,1,Protests,Protest with intervention,Protesters (Madagascar),Students (Madagascar),Police Forces of Madagascar (2019-2025),,Madagascar,Atsimo Andrefana,Toliary-II,Ankoronga Andatabo,-23.3912,43.7645,1,National,0,MDG
+MAG3812,2024-07-22,1,Riots,Violent demonstration,Rioters (Madagascar),Labor Group (Madagascar),,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 5,-18.8898,47.5478,1,National,0,MDG
+MAG3807,2024-07-20,2,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Bongolava,Fenoarivobe,Miandrarivo I,-18.6564,46.7547,1,National,0,MDG
+MAG3813,2024-07-25,1,Strategic developments,Arrests,Military Forces of Madagascar (2019-2025) Gendarmerie,,Civilians (Madagascar),Civilians (Somalia); Migrants (Madagascar); Migrants (Somalia),Madagascar,Sofia,Analalava,Maromandia,-14.2206,48.0592,1,National,0,MDG
+MAG3814,2024-07-28,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Ankazobe,Ambohipiainana,-18.6508,47.2293,1,National,0,MDG
+MAG3816,2024-07-25,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Bongolava,Fenoarivobe,Marohova,-18.5966,46.6723,1,National,0,MDG
+MAG3817,2024-07-28,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Vakinankaratra,Mandoto,Fidirana,-19.5088,46.5613,2,National,0,MDG
+MAG3818,2024-07-29,1,Protests,Protest with intervention,Protesters (Madagascar),Students (Madagascar),Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Analamanga,Antananarivo Atsimondrano,Vontovorona,-18.9682,47.4223,1,National,0,MDG
+MAG3824,2024-07-28,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 1,-18.9082,47.5102,1,National,0,MDG
+MAG3825,2024-07-28,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Dahalo Militia,,Madagascar,Vakinankaratra,Mandoto,Fidirana,-19.5088,46.5613,2,National,1,MDG
+MAG3826,2024-07-30,1,Riots,Violent demonstration,Rioters (Madagascar),Students (Madagascar),Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Analamanga,Antananarivo Atsimondrano,Vontovorona,-18.9682,47.4223,1,National,0,MDG
+MAG3828,2024-08-01,1,Riots,Violent demonstration,Rioters (Madagascar),Students (Madagascar),Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Analamanga,Antananarivo Atsimondrano,Vontovorona,-18.9682,47.4223,1,National,0,MDG
+MAG3822,2024-07-31,1,Protests,Protest with intervention,Protesters (Madagascar),Taxi Drivers (Madagascar),Military Forces of Madagascar (2019-2025) Gendarmerie,Police Forces of Madagascar (2019-2025),Madagascar,Boeny,Mahajanga I,Mahajanga,-15.7167,46.3167,1,National,0,MDG
+MAG3820,2024-07-20,2,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Anjozorobe,Manakana Vohitraivo,-18.287,47.7491,1,National,1,MDG
+MAG3829,2024-08-01,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Farmers (Madagascar),Madagascar,Analamanga,Anjozorobe,Ankazongoaika,-18.2056,47.7358,1,National,0,MDG
+MAG3830,2024-08-03,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Labor Group (Madagascar),Madagascar,Analamanga,Anjozorobe,Marotsipoy,-17.9574,47.5978,1,National,0,MDG
+MAG3832,2024-07-30,2,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,Military Forces of Madagascar (2019-2025),Dahalo Militia,,Madagascar,Itasy,Soavinandriana,Morarivo,-19.3167,46.2833,2,National,1,MDG
+MAG3833,2024-08-02,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Melaky,Maintirano,Bemokotra Sud,-17.3199,44.0894,1,National,1,MDG
+MAG3835,2024-08-04,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Sofia,Analalava,Ankaramihely,-14.0492,48.134,1,National,2,MDG
+MAG3836,2024-08-06,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,Military Forces of Madagascar (2019-2025),Madagascar,Betsiboka,Tsaratanana,Ambakireny,-17.6208,47.8487,1,National,1,MDG
+MAG3837,2024-08-06,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,Police Forces of Madagascar (2019-2025),Dahalo Militia,,Madagascar,Ihorombe,Ivohibe,Ivohibe,-22.4833,46.8833,2,National,0,MDG
+MAG3838,2024-08-07,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Sofia,Antsohihy,Anjiajia,-14.9355,47.9401,1,National,1,MDG
+MAG3839,2024-08-01,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Haute Matsiatra,Fianarantsoa I,Ambatolahy V,-21.4597,47.1215,1,National,0,MDG
+MAG3840,2024-08-01,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),Labor Group (Madagascar); Women (Madagascar),Madagascar,Haute Matsiatra,Vohibato,Alakamisy Itenina,-21.6423,47.1601,1,National,0,MDG
+MAG3841,2024-04-12,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Sofia,Analalava,Ankaramihely,-14.0492,48.134,1,National,0,MDG
+MAG3842,2024-07-15,3,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Sofia,Analalava,Ankaramihely,-14.0492,48.134,1,National,0,MDG
+MAG3843,2024-07-30,2,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Itasy,Soavinandriana,Morarivo,-19.3167,46.2833,1,National,0,MDG
+MAG3844,2024-08-02,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Melaky,Maintirano,Bemokotra Sud,-17.3199,44.0894,2,National,0,MDG
+MAG3845,2024-08-06,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Ihorombe,Ivohibe,Ivohibe,-22.4833,46.8833,1,National,0,MDG
+MAG3846,2024-08-03,1,Protests,Peaceful protest,Protesters (Madagascar),Labor Group (Madagascar),,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 5,-18.8898,47.5478,1,National,0,MDG
+MAG3847,2024-08-05,1,Protests,Peaceful protest,Protesters (Madagascar),Students (Madagascar),,,Madagascar,Analamanga,Antananarivo Atsimondrano,Vontovorona,-18.9682,47.4223,1,National,0,MDG
+MAG3848,2024-08-05,1,Protests,Peaceful protest,Protesters (Madagascar),,,,Madagascar,Boeny,Mahajanga I,Mahajanga,-15.7167,46.3167,1,National,0,MDG
+MAG3821,2024-07-25,1,Violence against civilians,Attack,Unidentified Armed Group (Madagascar),,Civilians (Madagascar),Albino Group (Madagascar),Madagascar,Atsimo Atsinanana,Midongy-Atsimo,Mahazoarivo,-23.7333,46.9333,1,National,1,MDG
+MAG3507,2024-03-06,1,Riots,Violent demonstration,Rioters (Madagascar),Taxi Drivers (Madagascar),Military Forces of Madagascar (2019-2025) Gendarmerie,Military Forces of Madagascar (2019-2025); Police Forces of Madagascar (2019-2025),Madagascar,Vatovavy Fitovinany,Manakara Atsimo,Manakara,-22.1486,48.0106,1,National,0,MDG
+MAG3849,2024-08-06,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Madagascar),,Civilians (Madagascar),Albino Group (Madagascar),Madagascar,Androy,Bekily,Bekily,-24.2167,45.3167,1,National,0,MDG
+MAG3850,2024-08-11,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Androy,Bekily,Ambararata Toby,-24.2975,45.4716,1,National,0,MDG
+MAG3851,2024-08-12,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Androy,Bekily,Ambalasaraka,-24.2404,45.6729,1,National,1,MDG
+MAG3852,2024-08-12,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Androy,Bekily,Beraketa,-24.1833,45.6833,1,National,0,MDG
+MAG3853,2024-08-13,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 1,-18.9082,47.5102,1,National,0,MDG
+MAG3443,2024-01-27,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Betsiboka,Maevatanana,Madirobe,-16.6922,46.7285,1,National,0,MDG
+MAG3445,2024-01-28,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Betsiboka,Maevatanana,Mangabe,-16.6865,46.8473,1,National,1,MDG
+MAG3544,2024-03-24,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Bongolava,Fenoarivobe,Fenoarivo Centre,-18.4522,46.5456,2,National,3,MDG
+MAG3609,2024-04-16,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Itasy,Arivonimamo,Imerinatsimo,-19.0992,47.2548,1,National,0,MDG
+MAG3725,2024-06-05,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Dahalo Militia,,Madagascar,Betsiboka,Maevatanana,Mangabe,-16.6865,46.8473,1,National,1,MDG
+MAG3726,2024-06-05,1,Battles,Armed clash,Dahalo Militia,,Dahalo Militia,,Madagascar,Betsiboka,Maevatanana,Mangabe,-16.6865,46.8473,1,National,1,MDG
+MAG3855,2024-08-15,1,Violence against civilians,Attack,Military Forces of Madagascar (2019-2025),,Civilians (Madagascar),,Madagascar,Bongolava,Tsiroanomandidy,Mandrosoarivo,-18.4969,45.6917,2,National,1,MDG
+MAG3857,2024-08-16,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Betsiboka,Maevatanana,Ambalanjanakomby,-16.7,47.0833,1,National,4,MDG
+MAG3858,2024-08-17,2,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Bongolava,Tsiroanomandidy,Maritampona,-19.055,46.1036,2,National,1,MDG
+MAG3859,2024-08-19,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Bongolava,Fenoarivobe,Tsinjorano,-18.4931,46.502,1,National,0,MDG
+MAG3861,2024-08-19,2,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Itasy,Arivonimamo,Manalalondo Centre,-19.2626,47.114,1,National,0,MDG
+MAG3864,2024-08-17,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Betsiboka,Maevatanana,Merimandroso,-16.7136,46.7971,1,National,1,MDG
+MAG3865,2024-08-15,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Boeny,Marovoay,Androtra,-16.4175,46.2393,2,National,1,MDG
+MAG3866,2024-07-19,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Sofia,Antsohihy,Betainomby,-14.6286,48.174,1,National,0,MDG
+MAG3867,2024-08-13,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Atsimo Atsinanana,Farafangana,Evato,-22.6146,47.6749,1,National,1,MDG
+MAG3869,2024-07-04,1,Violence against civilians,Attack,Unidentified Armed Group (Madagascar),,Civilians (Madagascar),Albino Group (Madagascar); Women (Madagascar),Madagascar,Androy,Tsihombe,Tsihombe,-25.3,45.4833,1,National,1,MDG
+MAG3881,2024-08-29,1,Protests,Peaceful protest,Protesters (Madagascar),Labor Group (Madagascar),,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 5,-18.8898,47.5478,1,National,0,MDG
+MAG3882,2024-08-29,1,Protests,Peaceful protest,Protesters (Madagascar),Labor Group (Madagascar),,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 4,-18.9363,47.5149,1,National,0,MDG
+MAG3886,2024-08-29,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Anjozorobe,Marotsipoy,-17.9574,47.5978,2,National,5,MDG
+MAG3880,2024-08-26,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Betsiboka,Maevatanana,Antanambao,-16.6751,46.9934,1,National,1,MDG
+MAG3884,2024-08-26,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Betsiboka,Maevatanana,Anosikely Avaratra,-16.9445,46.8279,1,National,0,MDG
+MAG3885,2024-08-26,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Betsiboka,Maevatanana,Ambatofotsy,-16.9516,46.8168,1,National,0,MDG
+MAG3876,2024-08-24,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Bongolava,Tsiroanomandidy,Tsiroanomandidy,-18.7694,46.0443,1,National,4,MDG
+MAG3878,2024-08-24,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Betsiboka,Maevatanana,Anjiakely Ouest,-16.828,46.8027,2,National,0,MDG
+MAG3877,2024-08-23,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Betsiboka,Maevatanana,Madiromirafy,-16.8244,46.819,2,National,0,MDG
+MAG3871,2024-08-20,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Atsimo Atsinanana,Farafangana,Mahavelo,-22.7064,47.7103,1,National,0,MDG
+MAG3504,2024-03-04,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Betsiboka,Maevatanana,Andranomangatsiaka,-16.9494,46.8287,1,National,0,MDG
+MAG3480,2024-02-12,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Betsiboka,Maevatanana,Maevatanana,-16.95,46.8333,1,National,2,MDG
+MAG3448,2024-02-02,2,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),Labor Group (Madagascar),Madagascar,Betsiboka,Maevatanana,Maevatanana,-16.95,46.8333,1,National,1,MDG
+MAG3427,2024-01-19,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Madagascar),,Civilians (Madagascar),Albino Group (Madagascar),Madagascar,Atsimo Andrefana,Toliary-II,Betsinjaka Ambony,-23.3479,43.7196,1,National,0,MDG
+MAG3428,2024-01-19,1,Battles,Armed clash,Unidentified Armed Group (Madagascar),,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Atsimo Andrefana,Toliary-II,Betsinjaka Ambony,-23.3479,43.7196,1,National,1,MDG
+MAG3393,2024-01-04,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),Labor Group (Madagascar),Madagascar,Betsiboka,Maevatanana,Maevatanana,-16.95,46.8333,1,National,0,MDG
+MAG3516,2024-02-26,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Atsimo Atsinanana,Farafangana,Tovona,-22.914,47.633,1,National,0,MDG
+MAG3873,2024-08-24,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),FLM: Malagasy Lutheran Church; Protestant Christian Group (Madagascar),Madagascar,Sofia,Mampikony,Andranomadio,-15.9,47.65,1,National,2,MDG
+MAG3874,2024-08-25,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Dahalo Militia,,Madagascar,Sofia,Mampikony,Andranomadio,-15.9,47.65,1,National,2,MDG
+MAG3888,2024-08-27,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Vakinankaratra,Ambatolampy,Bethlehema,-19.3011,47.3318,2,National,1,MDG
+MAG3892,2024-09-02,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Itasy,Soavinandriana,Andrangy,-19.1631,46.7657,1,National,1,MDG
+MAG3435,2024-01-05,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Menabe,Morondava,Tanandava,-20.7936,44.6222,1,National,0,MDG
+MAG3897,2024-08-15,2,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Betsiboka,Maevatanana,Ambalanjanakomby,-16.7,47.0833,2,National,4,MDG
+MAG3896,2024-08-31,2,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Sofia,Analalava,Andrevorevo,-15.3833,47.7333,1,National,3,MDG
+MAG3895,2024-09-04,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Itasy,Soavinandriana,Tamponala,-19.31,46.3958,1,National,2,MDG
+MAG3898,2024-09-06,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Sofia,Mampikony,Andongona Zamiava,-15.9341,47.6056,1,National,1,MDG
+MAG3444,2024-01-27,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Boeny,Ambato Boeni,Madirovalo,-16.4443,46.5454,2,National,0,MDG
+MAG3527,2024-03-20,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025),,Tsianaloka Communal Militia (Madagascar),,Madagascar,Boeny,Marovoay,Tsianaloka,-16.2031,46.1556,1,National,1,MDG
+MAG3545,2024-03-23,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Amoron I Mania,Manandriana,Ambovombe Afovoany,-20.7667,47.0833,2,National,3,MDG
+MAG3636,2024-04-30,2,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Boeny,Ambato Boeni,Madirovalo,-16.4443,46.5454,1,National,1,MDG
+MAG3758,2024-06-26,2,Violence against civilians,Attack,Unidentified Armed Group (Madagascar),,Civilians (Madagascar),Albino Group (Madagascar); Women (Madagascar),Madagascar,Atsimo Atsinanana,Vangaindrano,Bevata,-23.3204,47.2275,1,National,1,MDG
+MAG3863,2024-08-15,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Boeny,Ambato Boeni,Madirovalo,-16.4443,46.5454,1,National,1,MDG
+MAG3891,2024-09-01,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Boeny,Ambato Boeni,Madirovalo,-16.4443,46.5454,1,National,1,MDG
+MAG3899,2024-05-15,3,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Analamanga,Anjozorobe,Ambohitsoa,-18.2222,47.4814,1,National,0,MDG
+MAG3900,2024-06-11,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Bongolava,Tsiroanomandidy,Belobaka,-18.9833,45.6833,2,National,2,MDG
+MAG3901,2024-06-12,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Boeny,Ambato Boeni,Ampanofora,-16.4205,46.5158,1,National,1,MDG
+MAG3902,2024-08-26,2,Riots,Mob violence,Rioters (Madagascar),,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Menabe,Belo Sur Tsiribihina,Tanandava,-19.9244,44.6115,2,National,10,MDG
+MAG3903,2024-09-01,1,Battles,Armed clash,Police Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Amoron I Mania,Manandriana,Sambohery Mahasoa II,-20.8157,47.0615,1,National,1,MDG
+MAG3904,2024-09-03,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 6,-18.8492,47.4828,1,National,0,MDG
+MAG3905,2024-09-03,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Itasy,Soavinandriana,Tamponala,-19.31,46.3958,1,National,0,MDG
+MAG3906,2024-09-05,1,Strategic developments,Change to group/activity,Military Forces of Madagascar (2019-2025) Regional Operational Joint Force (EmmoReg),,,,Madagascar,Analamanga,Anjozorobe,Anjozorobe,-18.3998,47.8565,1,National,0,MDG
+MAG3907,2024-09-06,2,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Labor Group (Madagascar),Madagascar,Atsimo Andrefana,Beroroha,Tanandava,-21.7134,45.1116,2,National,0,MDG
+MAG3908,2024-09-06,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Bongolava,Tsiroanomandidy,Beambiaty,-18.8102,45.6215,1,National,1,MDG
+MAG3909,2024-09-06,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Bongolava,Tsiroanomandidy,Beambiaty,-18.8102,45.6215,2,National,0,MDG
+MAG3910,2024-09-08,1,Battles,Armed clash,Police Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Amoron I Mania,Manandriana,Sambohery Mahasoa II,-20.8157,47.0615,1,National,1,MDG
+MAG3911,2024-09-08,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Sava,Sambava,Sambava,-14.2667,50.1667,1,National,0,MDG
+MAG3912,2024-09-11,2,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Regional Operational Joint Force (EmmoReg),,Dahalo Militia,,Madagascar,Analamanga,Anjozorobe,Anjozorobe,-18.3998,47.8565,1,National,3,MDG
+MAG3913,2024-09-09,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Madagascar),,Civilians (Madagascar),Albino Group (Madagascar),Madagascar,Atsimo Atsinanana,Vangaindrano,Bevata,-23.3204,47.2275,1,National,0,MDG
+MAG3914,2024-09-09,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025),,Unidentified Armed Group (Madagascar),,Madagascar,Atsimo Atsinanana,Vangaindrano,Mahabo,-23.2692,47.2205,1,National,2,MDG
+MAG3916,2024-09-09,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Bongolava,Tsiroanomandidy,Antsakaviro,-18.9105,45.7525,1,National,1,MDG
+MAG3917,2024-09-09,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Vakinankaratra,Mandoto,Fidirana,-19.5088,46.5613,2,National,1,MDG
+MAG3918,2024-09-09,2,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Vakinankaratra,Mandoto,Fidirana,-19.5088,46.5613,2,National,0,MDG
+MAG3919,2024-09-10,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Regional Operational Joint Force (EmmoReg),,Dahalo Militia,,Madagascar,Betsiboka,Maevatanana,Morafeno,-17.25,46.6667,1,National,0,MDG
+MAG3920,2024-09-10,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Vakinankaratra,Mandoto,Ankazomiriotra,-19.6675,46.5289,1,National,1,MDG
+MAG3921,2024-09-11,2,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Boeny,Ambato Boeni,Ambondromamy,-16.4333,47.15,2,National,1,MDG
+MAG3922,2024-09-11,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Boeny,Mitsinjo,Bekipay,-16.2782,46.0977,1,National,1,MDG
+MAG3923,2024-09-11,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Sofia,Antsohihy,Anahidrano,-15.0333,47.9,1,National,1,MDG
+MAG3802,2024-07-22,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Analamanga,Anjozorobe,Anosikely,-18.3049,47.5814,1,National,0,MDG
+MAG3439,2024-01-24,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Analamanga,Anjozorobe,Beronono,-18.3576,47.7733,1,National,1,MDG
+MAG3469,2024-02-15,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Analamanga,Anjozorobe,Ambohimamory,-18.4,47.8,1,National,0,MDG
+MAG3580,2024-04-03,2,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Anjozorobe,Ambohimamory,-18.4,47.8,1,National,0,MDG
+MAG3585,2024-04-10,2,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Anjozorobe,Ambohimamory,-18.4,47.8,2,National,2,MDG
+MAG3589,2024-04-15,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Anjozorobe,Fieferana Atsimo,-18.2892,47.8134,1,National,2,MDG
+MAG3590,2024-04-15,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Analamanga,Anjozorobe,Fieferana Atsimo,-18.2892,47.8134,2,National,1,MDG
+MAG3768,2024-06-29,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Anjozorobe,Ambohimirary,-18.3399,47.7217,2,National,0,MDG
+MAG3786,2024-07-07,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Anjozorobe,Beronono,-18.3576,47.7733,2,National,0,MDG
+MAG3831,2024-08-06,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Analamanga,Anjozorobe,Beronono,-18.3576,47.7733,1,National,0,MDG
+MAG3854,2024-08-16,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,Military Forces of Madagascar (2019-2025),Dahalo Militia,,Madagascar,Analamanga,Anjozorobe,Beronono,-18.3576,47.7733,2,National,0,MDG
+MAG3924,2024-07-30,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Atsimo Atsinanana,Vangaindrano,Manambondro Central,-23.7846,47.5444,1,National,2,MDG
+MAG3926,2024-08-25,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Androy,Ambovombe-Androy,Imanombo,-24.4333,45.8167,1,National,1,MDG
+MAG3928,2024-09-07,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Anjozorobe,Amparihy,-18.3356,47.8065,1,National,0,MDG
+MAG3930,2024-09-12,1,Violence against civilians,Abduction/forced disappearance,Unidentified Communal Militia (Madagascar),,Civilians (Madagascar),Pastoralists (Madagascar),Madagascar,Androy,Bekily,Bekily,-24.2167,45.3167,2,National,0,MDG
+MAG3932,2024-09-12,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Ihorombe,Ihosy,Satrokala,-22.3324,45.7064,1,National,0,MDG
+MAG3933,2024-09-13,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Vakinankaratra,Antanifotsy,Ambatoharanana,-19.7041,47.5002,1,National,2,MDG
+MAG3934,2024-09-13,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Vakinankaratra,Faratsiho,Ambohipoloalina Antaboaka,-19.3497,46.8897,1,National,0,MDG
+MAG3935,2024-09-14,2,Protests,Peaceful protest,Protesters (Madagascar),Labor Group (Madagascar),,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 1,-18.9082,47.5102,1,National,0,MDG
+MAG3936,2024-09-14,2,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Atsinanana,Toamasina I,Toamasina,-18.1667,49.3833,1,National,0,MDG
+MAG3939,2024-09-14,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Bongolava,Tsiroanomandidy,Maritampona,-19.055,46.1036,1,National,0,MDG
+MAG3941,2024-09-16,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Ihorombe,Ihosy,Ambatolahy,-22.4943,45.8837,1,National,0,MDG
+MAG3942,2024-09-16,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Dahalo Militia,,Madagascar,Ihorombe,Ihosy,Ambatolahy,-22.4943,45.8837,1,National,2,MDG
+MAG3944,2024-09-17,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Atsimo Andrefana,Sakaraha,Andranolava,-22.65,44.6833,1,National,0,MDG
+MAG3949,2024-09-18,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Andramasina,Mahasoratra,-19.2572,47.6682,1,National,0,MDG
+MAG3951,2024-09-18,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Bongolava,Tsiroanomandidy,Ambatofotsy Feo,-19.0948,46.0738,1,National,1,MDG
+MAG3667,2024-05-12,1,Riots,Mob violence,Rioters (Madagascar),,,,Madagascar,Analamanga,Ambohidratrimo,Ambohibao,-18.8453,47.4748,1,National,0,MDG
+MAG3796,2024-06-27,1,Protests,Peaceful protest,Protesters (Madagascar),,,,Madagascar,Analamanga,Ambohidratrimo,Mandrosoa Ivato,-18.8237,47.4703,1,National,0,MDG
+MAG3953,2024-09-17,1,Riots,Mob violence,Rioters (Madagascar),Students (Madagascar),Rioters (Madagascar),Students (Madagascar),Madagascar,Atsinanana,Toamasina I,Ankirihiry,-18.1301,49.3928,1,National,0,MDG
+MAG3956,2024-09-20,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Androy,Ambovombe-Androy,Antanimora,-24.8167,45.6667,1,National,1,MDG
+MAG3957,2024-09-20,1,Strategic developments,Disrupted weapons use,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Boeny,Marovoay,Mahabibo RN4,-16.0476,46.7114,1,National,0,MDG
+MAG3958,2024-09-21,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025),,Madagascar,Androy,Ambovombe-Androy,Imanombo,-24.4333,45.8167,1,National,3,MDG
+MAG3959,2024-09-22,2,Protests,Peaceful protest,Protesters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 5,-18.8898,47.5478,1,National,0,MDG
+MAG3962,2024-09-24,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Bongolava,Tsiroanomandidy,Tsiroanomandidy,-18.7694,46.0443,2,National,1,MDG
+MAG3964,2024-09-25,1,Protests,Peaceful protest,Protesters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 5,-18.8898,47.5478,1,National,0,MDG
+MAG3965,2024-09-26,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Ambohidratrimo,Imerinafovoany,-18.8432,47.4683,1,National,0,MDG
+MAG3966,2024-09-26,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 2,-18.9199,47.5379,1,National,0,MDG
+MAG3967,2024-09-26,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 5,-18.8898,47.5478,1,National,0,MDG
+MAG3960,2024-09-23,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Alaotra Mangoro,Amparafaravola,Morarano Chrome,-17.7634,48.1675,1,National,0,MDG
+MAG3423,2024-01-22,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),Military Forces of Madagascar (2019-2025) Gendarmerie,Madagascar,Betsiboka,Maevatanana,Sarodrano,-16.9833,46.7666,1,National,1,MDG
+MAG3970,2024-07-27,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Atsimo Atsinanana,Vangaindrano,Mavorano,-23.9719,47.2051,1,National,0,MDG
+MAG3971,2024-07-27,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Dahalo Militia,,Madagascar,Atsimo Atsinanana,Vangaindrano,Mavorano,-23.9719,47.2051,1,National,1,MDG
+MAG3972,2024-09-22,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Albino Group (Madagascar),Madagascar,Atsimo Atsinanana,Vangaindrano,Ranomena,-23.4259,47.2817,1,National,0,MDG
+MAG3973,2024-09-24,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),Labor Group (Madagascar),Madagascar,Amoron I Mania,Ambatofinandrahana,Ambatofinandrahana,-20.5528,46.8037,2,National,0,MDG
+MAG3978,2024-09-29,1,Battles,Armed clash,Unidentified Communal Militia (Madagascar),,Dahalo Militia,,Madagascar,Melaky,Maintirano,Antsaidoha Bebao,-17.3666,44.55,1,National,1,MDG
+MAG3979,2024-10-01,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Betsiboka,Maevatanana,Mahazoma,-17.278,46.604,1,National,1,MDG
+MAG3980,2024-10-02,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Betsiboka,Tsaratanana,Andranonampanga,-17.7166,47.9333,1,National,2,MDG
+MAG3981,2024-10-02,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Menabe,Miandrivazo,Ankisatra,-18.3077,45.0056,1,National,1,MDG
+MAG3982,2024-10-03,2,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),Women (Madagascar),Madagascar,Itasy,Soavinandriana,Masindray,-19.2806,46.7365,1,National,0,MDG
+MAG3682,2024-05-16,2,Strategic developments,Disrupted weapons use,Military Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Analamanga,Anjozorobe,Tsarahonenana,-18.3392,47.6552,1,National,0,MDG
+MAG3677,2024-05-16,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Ankazobe,Manjakazonirina,-18.5603,47.2769,1,National,0,MDG
+MAG3929,2024-09-12,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Androy,Ambovombe-Androy,Imanombo,-24.4333,45.8167,1,National,1,MDG
+MAG3945,2024-09-17,1,Battles,Armed clash,Dahalo Militia,,Andranovaky Communal Militia (Madagascar),,Madagascar,Atsimo Andrefana,Toliary-II,Andranovaky,-23.4958,43.9357,1,National,2,MDG
+MAG3946,2024-09-17,1,Battles,Armed clash,Dahalo Militia,,Ankerika Communal Militia (Madagascar),,Madagascar,Sofia,Antsohihy,Ankerika Centre,-14.9603,47.8659,1,National,2,MDG
+MAG3948,2024-09-18,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,Mahasoratra Communal Militia (Madagascar),Dahalo Militia,,Madagascar,Analamanga,Andramasina,Mahasoratra,-19.2572,47.6682,2,National,2,MDG
+MAG3675,2024-05-16,1,Strategic developments,Arrests,Military Forces of Madagascar (2019-2025) Gendarmerie,,Civilians (Madagascar),Vitatsika Io,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 2,-18.9199,47.5379,1,National-International,0,MDG
+MAG3961,2024-09-24,1,Strategic developments,Change to group/activity,Military Forces of Madagascar (2019-2025),,,,Madagascar,Androy,Ambovombe-Androy,Imanombo,-24.4333,45.8167,3,National,0,MDG
+MAG3986,2024-02-15,3,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Atsimo Atsinanana,Farafangana,Marovandrika,-22.9936,47.6742,1,National,0,MDG
+MAG3987,2024-05-16,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Bongolava,Tsiroanomandidy,Bemahatazana I,-19.0449,45.9466,1,National,1,MDG
+MAG3988,2024-09-16,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Anjozorobe,Mangarivotra Baiboka,-18.015,47.7022,1,National,0,MDG
+MAG3989,2024-10-01,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),Labor Group (Madagascar),Madagascar,Bongolava,Tsiroanomandidy,Ambatolampy,-18.8519,46.4668,1,National,0,MDG
+MAG3990,2024-10-02,2,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Avaradrano,Andraisoro,-18.95,47.55,1,International,0,MDG
+MAG3991,2024-10-03,1,Protests,Peaceful protest,Protesters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 5,-18.8898,47.5478,1,National,0,MDG
+MAG3994,2024-10-06,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Atsimo Andrefana,Ankazoabo,Berenty II,-22.1581,45.0778,1,National,0,MDG
+MAG3996,2024-10-06,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Bongolava,Tsiroanomandidy,Mandrosoarivo,-18.4969,45.6917,1,National,0,MDG
+MAG3998,2024-10-08,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Betsiboka,Maevatanana,Andramy,-16.9369,46.8772,1,National,0,MDG
+MAG3999,2024-10-09,1,Violence against civilians,Attack,Unidentified Armed Group (Madagascar),,Civilians (Madagascar),IRMAR: Isika Rehetra Miaraka Amin'i Andry Rajoelina,Madagascar,Atsimo Andrefana,Beroroha,Tanandava,-21.7134,45.1116,1,National,1,MDG
+MAG4000,2024-10-09,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Vakinankaratra,Betafo,Ambohinaorina,-19.8494,46.8714,1,National,1,MDG
+MAG3678,2024-05-05,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Madagascar),,Civilians (Madagascar),,Madagascar,Vakinankaratra,Faratsiho,Faratsiho,-19.4304,46.9197,2,National,0,MDG
+MAG3647,2024-05-07,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),Teachers (Madagascar); Women (Madagascar),Madagascar,Analamanga,Anjozorobe,Beronono,-18.3576,47.7733,1,National,2,MDG
+MAG3676,2024-05-15,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Anjozorobe,Anjozorobe,-18.3998,47.8565,1,National,0,MDG
+MAG3685,2024-05-17,1,Protests,Peaceful protest,Protesters (Madagascar),,,,Madagascar,Diana,Antsiranana I,Antsiranana,-12.2842,49.2913,1,National,0,MDG
+MAG3679,2024-05-18,2,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Betsiboka,Tsaratanana,Betenina,-17.8667,47.8667,1,National,0,MDG
+MAG3683,2024-05-20,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Haute Matsiatra,Ambohimahasoa,Vohitrarivo,-21.0622,46.9572,1,National,0,MDG
+MAG3672,2024-05-20,1,Violence against civilians,Attack,Unidentified Armed Group (Madagascar),,Civilians (Madagascar),Former Government of Madagascar (2019-2025),Madagascar,Vakinankaratra,Mandoto,Ankazomiriotra,-19.6675,46.5289,1,National,2,MDG
+MAG3680,2024-05-21,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Anosy,Taolagnaro,Berongo,-25.0444,46.5817,1,National,0,MDG
+MAG3684,2024-05-21,2,Protests,Peaceful protest,Protesters (Madagascar),Christian Group (Madagascar),,,Madagascar,Diana,Antsiranana I,Antsiranana,-12.2842,49.2913,1,National,0,MDG
+MAG3674,2024-05-22,1,Battles,Armed clash,Police Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Sofia,Mandritsara,Amparihibe,-16.1611,48.8511,1,National,1,MDG
+MAG3943,2024-09-17,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Analamanga,Ankazobe,Ankorohoro,-18.3689,47.4098,1,National,0,MDG
+MAG4001,2024-09-12,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Betsiboka,Tsaratanana,Mahamavo,-17.6239,47.7432,1,National,0,MDG
+MAG4002,2024-09-30,2,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Melaky,Morafenobe,Beravina,-18.1769,45.225,1,National,2,MDG
+MAG4003,2024-10-10,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025),,Madagascar,Atsimo Andrefana,Toliary-II,Tsifota,-22.8071,43.414,1,National,1,MDG
+MAG4004,2024-10-12,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Anjozorobe,Anjozorobe,-18.3998,47.8565,2,National,0,MDG
+MAG4005,2024-10-13,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,Military Forces of Madagascar (2019-2025),Dahalo Militia,,Madagascar,Analamanga,Ankazobe,Ambolotarakely,-18.2756,47.39,2,National,8,MDG
+MAG4006,2024-10-13,2,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Ankazobe,Amboditetina,-17.8482,47.3171,1,National,0,MDG
+MAG4007,2024-10-13,1,Battles,Armed clash,Dahalo Militia,,Unidentified Armed Group (Madagascar),,Madagascar,Analamanga,Ankazobe,Manerinerina,-18.0456,47.1882,1,National,0,MDG
+MAG4008,2024-10-13,1,Battles,Armed clash,Police Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Melaky,Maintirano,Tanambao Avaratra,-18.0527,44.029,1,National,1,MDG
+MAG4009,2024-10-14,2,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Atsimo Atsinanana,Midongy-Atsimo,Maroangaty,-23.6608,47.1056,2,National,0,MDG
+MAG4010,2024-10-14,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Atsimo Atsinanana,Midongy-Atsimo,Maroangaty,-23.6608,47.1056,1,National,0,MDG
+MAG4011,2024-10-17,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Boeny,Ambato Boeni,Tsaramandroso,-16.3575,47.0422,1,National,1,MDG
+MAG3553,2024-02-15,3,Strategic developments,Arrests,Military Forces of Madagascar (2019-2025) Gendarmerie,,Civilians (International),Migrants (International),Madagascar,Diana,Ambanja,Ambanja,-13.663,48.4536,1,National,0,MDG
+MAG3554,2024-03-30,1,Strategic developments,Arrests,Military Forces of Madagascar (2019-2025) Gendarmerie,,Civilians (Madagascar),Civilians (Ethiopia); Civilians (Kenya); Civilians (Somalia); Migrants (Ethiopia); Migrants (Kenya); Migrants (Madagascar); Migrants (Somalia),Madagascar,Diana,Ambanja,Ambanja,-13.663,48.4536,1,National-Regional,0,MDG
+MAG3579,2024-02-04,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Betsiboka,Tsaratanana,Ambolosy,-17.6973,47.763,1,National,0,MDG
+MAG3587,2024-04-11,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),Labor Group (Madagascar),Madagascar,Vakinankaratra,Faratsiho,Antsahatanteraka,-19.3172,46.7995,1,National,1,MDG
+MAG3649,2024-05-10,2,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Boeny,Ambato Boeni,Betaramahamay,-16.3167,47.1167,1,National,0,MDG
+MAG3709,2024-05-31,1,Riots,Mob violence,Rioters (Madagascar),,Police Forces of Madagascar (2019-2025),,Madagascar,Androy,Tsihombe,Tsihombe,-25.3,45.4833,1,National-International,0,MDG
+MAG3718,2024-06-02,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Melaky,Maintirano,Maintirano,-18.0635,44.0295,1,National,0,MDG
+MAG3752,2024-06-18,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Betsiboka,Tsaratanana,Ambolosy,-17.6973,47.763,1,National,2,MDG
+MAG3753,2024-06-19,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Menabe,Miandrivazo,Mahavelo,-18.3711,45.0525,1,National,1,MDG
+MAG3798,2024-07-14,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,Military Forces of Madagascar (2019-2025); Police Forces of Madagascar (2019-2025),Dahalo Militia,,Madagascar,Melaky,Maintirano,Tanambao Spm,-18.0535,44.0487,2,National,0,MDG
+MAG3799,2024-07-14,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Melaky,Maintirano,Tanambao Spm,-18.0535,44.0487,1,National,1,MDG
+MAG3827,2024-07-31,1,Riots,Violent demonstration,Rioters (Madagascar),Students (Madagascar),Military Forces of Madagascar (2019-2025) Gendarmerie,Military Forces of Madagascar (2019-2025),Madagascar,Analamanga,Antananarivo Atsimondrano,Vontovorona,-18.9682,47.4223,1,National-International,0,MDG
+MAG3872,2024-08-20,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Atsimo Atsinanana,Farafangana,Marapanahy,-22.9666,47.75,1,National,0,MDG
+MAG3890,2024-09-01,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Atsimo Atsinanana,Farafangana,Marapanahy,-22.9666,47.75,2,National,2,MDG
+MAG3975,2024-09-27,1,Protests,Peaceful protest,Protesters (Madagascar),Students (Madagascar),,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 2,-18.9199,47.5379,1,International,0,MDG
+MAG3977,2024-09-28,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Melaky,Maintirano,Maintirano,-18.0635,44.0295,2,National,0,MDG
+MAG3992,2024-10-04,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 5,-18.8898,47.5478,1,National,0,MDG
+MAG3993,2024-10-04,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Avaradrano,Alasora,-18.9555,47.5674,1,National,0,MDG
+MAG3399,2024-01-04,1,Violence against civilians,Attack,Military Forces of Madagascar (2019-2025) Gendarmerie,,Civilians (Madagascar),,Madagascar,Amoron I Mania,Ambositra,Ambohijato,-20.5692,47.324,2,National,1,MDG
+MAG3782,2024-07-05,1,Protests,Protest with intervention,Protesters (Madagascar),,Police Forces of Madagascar (2019-2025),,Madagascar,Atsimo Atsinanana,Vangaindrano,Vangaindrano,-23.21,47.36,1,National-Regional,0,MDG
+MAG3783,2024-07-06,1,Riots,Violent demonstration,Rioters (Madagascar),,Police Forces of Madagascar (2019-2025),Military Forces of Madagascar (2019-2025); Military Forces of Madagascar (2019-2025) Gendarmerie,Madagascar,Atsimo Atsinanana,Vangaindrano,Vangaindrano,-23.21,47.36,1,National-Regional,0,MDG
+MAG3870,2024-08-22,2,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Atsimo Atsinanana,Vangaindrano,Vangaindrano,-23.21,47.36,1,National,4,MDG
+MAG3974,2024-09-26,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Police Forces of Madagascar (2019-2025) Prison Guards,Military Forces of Madagascar (2019-2025) Gendarmerie; Police Forces of Madagascar (2019-2025),Madagascar,Analanjirofo,Maroantsetra,Maroantsetra,-15.433,49.744,1,National,0,MDG
+MAG3976,2024-09-27,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),,,Madagascar,Analanjirofo,Maroantsetra,Maroantsetra,-15.433,49.744,1,National,0,MDG
+MAG4013,2024-10-20,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),Labor Group (Madagascar),Madagascar,Alaotra Mangoro,Amparafaravola,Ampisarahana,-17.3707,48.6549,1,National,0,MDG
+MAG4014,2024-10-16,1,Strategic developments,Disrupted weapons use,Police Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Melaky,Maintirano,Tanambao Spm,-18.0535,44.0487,1,National,0,MDG
+MAG4015,2024-10-17,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Boeny,Mahajanga II,Fenoarivo Besakoa,-15.6835,47.0608,1,National,1,MDG
+MAG4016,2024-10-12,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Albino Group (Madagascar),Madagascar,Atsimo Atsinanana,Vangaindrano,Fotsivavo Nord,-23.1911,47.4132,1,National,0,MDG
+MAG4019,2024-10-22,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Amoron I Mania,Ambositra,Ambalasoaray,-20.6081,47.3734,1,National,0,MDG
+MAG4020,2024-10-22,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),,,Madagascar,Analanjirofo,Maroantsetra,Ankadibe,-15.3622,49.816,1,National,0,MDG
+MAG4021,2024-10-21,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Betsiboka,Kandreho,Kandreho,-17.4823,46.0905,1,National,0,MDG
+MAG4023,2024-10-19,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Alaotra Mangoro,Andilamena,Maroadabo,-16.6351,48.3794,1,National,1,MDG
+MAG4024,2024-10-20,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Analamanga,Andramasina,Sabotsy,-19.2284,47.5868,1,National,1,MDG
+MAG4025,2024-10-21,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Atsimo Atsinanana,Vangaindrano,Anilobe,-23.1981,47.4794,1,National,2,MDG
+MAG4026,2024-10-22,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Bongolava,Tsiroanomandidy,Zatobe,-19.1401,46.145,1,National,1,MDG
+MAG3468,2024-02-15,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Atsinanana,Toamasina I,21/42 Ambolomadinika,-18.152,49.3922,1,National,0,MDG
+MAG3704,2024-05-28,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Atsinanana,Toamasina I,21/42 Ambolomadinika,-18.152,49.3922,1,National,0,MDG
+MAG3809,2024-07-22,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Atsinanana,Toamasina I,21/42 Ambolomadinika,-18.152,49.3922,1,National,0,MDG
+MAG3588,2024-04-14,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Betsiboka,Maevatanana,Berivotra,-16.7732,47.0208,1,National,1,MDG
+MAG3673,2024-05-15,1,Violence against civilians,Attack,Unidentified Armed Group (Madagascar),,Civilians (Madagascar),,Madagascar,Betsiboka,Maevatanana,Anjiakely,-16.8169,46.8961,1,National,1,MDG
+MAG3722,2024-06-04,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Betsiboka,Maevatanana,Begogo,-16.7333,46.9667,1,National,0,MDG
+MAG3760,2024-06-30,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Betsiboka,Maevatanana,Ambalajia,-16.753,46.9071,1,National,1,MDG
+MAG3868,2024-08-10,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Betsiboka,Maevatanana,Berivotra,-16.7732,47.0208,1,National,1,MDG
+MAG4028,2024-10-25,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 1,-18.9082,47.5102,1,National,0,MDG
+MAG4029,2024-10-26,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo Atsimondrano,Andoharanofotsy,-18.9761,47.5323,1,National,0,MDG
+MAG4030,2024-10-26,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo Atsimondrano,Tanjombato,-18.9596,47.5269,1,National,0,MDG
+MAG4031,2024-10-26,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 5,-18.8898,47.5478,1,National,0,MDG
+MAG4032,2024-10-26,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Betsiboka,Maevatanana,Bekarara,-16.7748,46.9579,1,National,1,MDG
+MAG4033,2024-10-27,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Alaotra Mangoro,Andilamena,Andilamena,-17.0101,48.5731,2,National,2,MDG
+MAG4034,2024-10-27,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Alaotra Mangoro,Andilamena,Bevoay,-16.6776,48.4667,1,National,0,MDG
+MAG4035,2024-10-27,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Ambohidratrimo,Ambohidratrimo,-18.8333,47.4333,1,National,0,MDG
+MAG4036,2024-10-27,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Avaradrano,Alasora,-18.9555,47.5674,1,National,0,MDG
+MAG4037,2024-10-29,1,Riots,Violent demonstration,Rioters (Madagascar),,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Analamanga,Ambohidratrimo,Ambohibao,-18.8453,47.4748,1,National,0,MDG
+MAG3711,2024-06-01,1,Strategic developments,Arrests,Police Forces of Madagascar (2019-2025),,Civilians (Madagascar),Government of Madagascar (2019-2025); Women (Madagascar),Madagascar,Amoron I Mania,Manandriana,Ambovombe Afovoany,-20.7667,47.0833,1,National-International,0,MDG
+MAG4017,2024-10-21,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Alaotra Mangoro,Ambatondrazaka,Betoloho,-17.7774,48.4358,1,National,1,MDG
+MAG4027,2024-10-22,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,Kandreho Communal Militia (Madagascar),Dahalo Militia,,Madagascar,Betsiboka,Kandreho,Kandreho,-17.4823,46.0905,2,National,0,MDG
+MAG3388,2024-01-04,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Melaky,Maintirano,Mangotroky,-17.9786,44.0732,1,National,0,MDG
+MAG3429,2024-01-24,2,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Alaotra Mangoro,Amparafaravola,Amparamanina,-17.6735,48.256,1,National,0,MDG
+MAG3599,2024-04-20,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Alaotra Mangoro,Amparafaravola,Amparafaravola,-17.5873,48.2235,1,National,0,MDG
+MAG3723,2024-06-04,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Melaky,Maintirano,Andrea,-17.8833,44.1167,1,National,0,MDG
+MAG4038,2024-10-15,3,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Alaotra Mangoro,Amparafaravola,Ambohimandroso,-17.6353,48.1978,1,National,0,MDG
+MAG4039,2024-10-15,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Betsiboka,Tsaratanana,Ambodiadabo,-17.0066,47.5509,1,National,1,MDG
+MAG4040,2024-10-28,2,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Alaotra Mangoro,Amparafaravola,Morarano Chrome,-17.7634,48.1675,1,National,0,MDG
+MAG4041,2024-10-28,2,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Melaky,Morafenobe,Morafenobe,-17.8167,44.9167,2,National,0,MDG
+MAG4044,2024-11-02,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 1,-18.9082,47.5102,1,National,0,MDG
+MAG4048,2024-11-03,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 1,-18.9082,47.5102,1,National,0,MDG
+MAG4049,2024-11-03,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 3,-18.9001,47.5221,1,National,0,MDG
+MAG4050,2024-11-03,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Melaky,Maintirano,Andrea,-17.8833,44.1167,2,National,0,MDG
+MAG4051,2024-11-03,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Pastoralists (Madagascar),Madagascar,Melaky,Morafenobe,Ambodivato,-18.0285,45.1149,1,National,0,MDG
+MAG4052,2024-11-03,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Melaky,Morafenobe,Ambodivato,-18.0285,45.1149,2,National,0,MDG
+MAG4054,2024-11-04,1,Riots,Violent demonstration,Rioters (Madagascar),,Police Forces of Madagascar (2019-2025),,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 1,-18.9082,47.5102,1,National,0,MDG
+MAG4055,2024-11-04,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 3,-18.9001,47.5221,1,National,0,MDG
+MAG4056,2024-11-04,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 5,-18.8898,47.5478,1,National,0,MDG
+MAG4057,2024-11-04,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 6,-18.8492,47.4828,1,National,0,MDG
+MAG4058,2024-11-04,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Melaky,Maintirano,Ampandra,-17.9197,44.1004,1,National,5,MDG
+MAG3950,2024-09-18,1,Battles,Armed clash,Dahalo Militia,,Antanimbaribe Communal Militia (Madagascar),,Madagascar,Betsiboka,Kandreho,Antanimbaribe,-17.1977,46.1458,1,National,1,MDG
+MAG4018,2024-10-21,1,Riots,Violent demonstration,Rioters (Madagascar),,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 2,-18.9199,47.5379,1,National,0,MDG
+MAG3486,2024-02-20,1,Protests,Peaceful protest,Protesters (Madagascar),,,,Madagascar,Alaotra Mangoro,Ambatondrazaka,Ambatondrazaka,-17.8333,48.4167,1,National,0,MDG
+MAG4059,2024-11-11,1,Strategic developments,Disrupted weapons use,Military Forces of Madagascar (2019-2025) Gendarmerie,,Unidentified Armed Group (Madagascar),,Madagascar,Atsimo Andrefana,Betioky Atsimo,Betioky,-23.7198,44.3851,1,National,0,MDG
+MAG4060,2024-11-09,1,Violence against civilians,Attack,Unidentified Armed Group (Madagascar),,Civilians (Madagascar),Albino Group (Madagascar); Women (Madagascar),Madagascar,Anosy,Taolagnaro,Enaniliha,-24.6584,46.8784,1,National,1,MDG
+MAG4062,2024-11-13,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 1,-18.9082,47.5102,1,National,0,MDG
+MAG4063,2024-11-12,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Atsinanana,Vatomandry,Ambodiaramy,-19.6675,48.7715,1,National,1,MDG
+MAG4064,2024-11-04,2,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025),Military Forces of Madagascar (2019-2025) Gendarmerie,Madagascar,Menabe,Mahabo,Mandabe,-21.0583,44.8532,1,National,2,MDG
+MAG4066,2024-11-08,1,Protests,Peaceful protest,Protesters (Madagascar),Taxi Drivers (Madagascar),,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 1,-18.9082,47.5102,1,National,0,MDG
+MAG4067,2024-11-10,1,Riots,Mob violence,Rioters (Madagascar),,Police Forces of Madagascar (2019-2025),,Madagascar,Atsimo Andrefana,Sakaraha,Amboronabo,-22.6667,44.4,1,National,2,MDG
+MAG4069,2024-11-13,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Sofia,Bealanana,Antelopolo,-14.5648,48.9433,1,National,0,MDG
+MAG4070,2024-11-06,1,Battles,Armed clash,Police Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Alaotra Mangoro,Ambatondrazaka,Ambodimanga,-17.8212,48.4183,1,National,1,MDG
+MAG4071,2024-11-12,1,Battles,Armed clash,Police Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Androy,Bekily,Beraketa,-24.1833,45.6833,1,National,1,MDG
+MAG3740,2024-06-14,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Labor Group (Madagascar),Madagascar,Anosy,Betroka,Betroka,-23.3572,45.9364,1,National,0,MDG
+MAG3745,2024-06-15,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Anosy,Betroka,Betroka,-23.3572,45.9364,2,National,0,MDG
+MAG4074,2024-11-14,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Bongolava,Tsiroanomandidy,Bemahatazana I,-19.0449,45.9466,1,National,0,MDG
+MAG4075,2024-11-14,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Androy,Ambovombe-Androy,Imanombo,-24.4333,45.8167,2,National,0,MDG
+MAG4076,2024-11-14,1,Battles,Armed clash,Ambatomiloloha Communal Militia (Madagascar),,Dahalo Militia,,Madagascar,Androy,Ambovombe-Androy,Imanombo,-24.4333,45.8167,2,National,8,MDG
+MAG4077,2024-11-16,2,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Androy,Ambovombe-Androy,Imanombo,-24.4333,45.8167,2,National,0,MDG
+MAG4078,2024-11-17,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Melaky,Morafenobe,Antsingilitoka,-18.0112,44.648,1,National,0,MDG
+MAG4079,2024-11-17,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,Antsingilitoka Communal Militia (Madagascar),Dahalo Militia,,Madagascar,Melaky,Morafenobe,Antsingilitoka,-18.0112,44.648,2,National,2,MDG
+MAG4080,2024-11-17,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Betsiboka,Tsaratanana,Mahiagogo,-16.5667,47.5833,1,National,0,MDG
+MAG4081,2024-11-18,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,Mahiagogo Communal Militia (Madagascar),Dahalo Militia,,Madagascar,Betsiboka,Tsaratanana,Mahiagogo,-16.5667,47.5833,2,National,0,MDG
+MAG4082,2024-11-19,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Melaky,Besalampy,Besalampy,-16.7481,44.4851,1,National,0,MDG
+MAG4083,2024-11-20,2,Strategic developments,Disrupted weapons use,Police Forces of Madagascar (2019-2025),,Unidentified Armed Group (Madagascar),,Madagascar,Atsinanana,Toamasina I,Toamasina,-18.1667,49.3833,1,National,0,MDG
+MAG3860,2024-08-19,2,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Vakinankaratra,Faratsiho,Miarinkofeno II,-19.3069,47.053,1,National,0,MDG
+MAG4084,2024-11-07,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Anjozorobe,Antevamarina,-18.0852,47.6919,1,National,0,MDG
+MAG4085,2024-11-10,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),Labor Group (Madagascar),Madagascar,Bongolava,Tsiroanomandidy,Ankadinondry Sakay,-18.9667,46.45,1,National,0,MDG
+MAG4087,2024-11-26,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Atsinanana,Toamasina I,Toamasina,-18.1667,49.3833,1,National,0,MDG
+MAG4088,2024-11-27,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Vakinankaratra,Faratsiho,Ramainandro,-19.3057,46.9999,1,National,1,MDG
+MAG3390,2024-01-07,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Analamanga,Ankazobe,Andranomiely Sud,-17.8483,47.2277,1,National,2,MDG
+MAG4061,2024-11-08,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Madagascar),,Civilians (Madagascar),Albino Group (Madagascar); Women (Madagascar),Madagascar,Anosy,Betroka,Betroka,-23.3572,45.9364,1,National,0,MDG
+MAG4089,2024-11-28,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Sofia,Antsohihy,Ambolobozo,-14.6531,48.024,1,National,0,MDG
+MAG4090,2024-11-29,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Amoron I Mania,Ambatofinandrahana,Ambalamarina,-20.3007,46.9753,1,National,0,MDG
+MAG4091,2024-11-30,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Alaotra Mangoro,Ambatondrazaka,Ambodimanga,-17.8212,48.4183,1,National,0,MDG
+MAG4092,2024-11-30,1,Riots,Mob violence,Rioters (Madagascar),Students (Madagascar); Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Atsinanana,Toamasina I,Ankirihiry,-18.1301,49.3928,1,National,0,MDG
+MAG4093,2024-11-30,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Vakinankaratra,Betafo,Ambohitrambo,-19.8529,46.7336,1,National,2,MDG
+MAG4094,2024-12-02,1,Protests,Peaceful protest,Protesters (Madagascar),Labor Group (Madagascar),,,Madagascar,Boeny,Mahajanga I,Mahajanga,-15.7167,46.3167,1,National,0,MDG
+MAG4095,2024-12-01,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,Military Forces of Madagascar (2019-2025),Dahalo Militia,,Madagascar,Alaotra Mangoro,Ambatondrazaka,Ambodimanga,-17.8212,48.4183,2,National,0,MDG
+MAG4096,2024-12-07,1,Battles,Armed clash,Betsovoy Communal Militia (Madagascar),,Dahalo Militia,,Madagascar,Melaky,Maintirano,Andrea,-17.8833,44.1167,2,National,1,MDG
+MAG4097,2024-12-08,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Melaky,Maintirano,Antsondrodava,-18.404,44.3708,2,National,0,MDG
+MAG4098,2024-12-07,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Sofia,Antsohihy,Anjiamangirana II,-15.1718,47.8556,1,National,0,MDG
+MAG4099,2024-12-07,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Boeny,Mahajanga II,Ambovondramanesy,-15.8978,46.6358,1,National,1,MDG
+MAG4100,2024-12-08,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Melaky,Morafenobe,Andramy,-17.9631,44.7857,1,National,1,MDG
+MAG4101,2024-12-09,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Sofia,Antsohihy,Anjobony,-14.9603,47.8136,1,National,1,MDG
+MAG4104,2024-12-11,1,Strategic developments,Arrests,Police Forces of Madagascar (2019-2025),,Civilians (Madagascar),Former Government of Madagascar (2019-2025),Madagascar,Atsinanana,Toamasina I,Toamasina,-18.1667,49.3833,1,National,0,MDG
+MAG4105,2024-12-10,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Madagascar),,Civilians (Madagascar),Government of Madagascar (2019-2025),Madagascar,Atsinanana,Brickaville,Ambinaninony,-18.5887,49.1215,1,National,0,MDG
+MAG3397,2024-01-03,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Analamanga,Antananarivo Atsimondrano,Ambohimasina,-18.9483,47.4284,1,National,0,MDG
+MAG3514,2024-03-10,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Sofia,Antsohihy,Antsohihy,-14.8747,47.9785,2,National,0,MDG
+MAG3569,2024-04-06,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Itasy,Arivonimamo,Imerintsiatosika,-18.9833,47.3166,2,National,0,MDG
+MAG3592,2024-04-15,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Sofia,Antsohihy,Antsohihy,-14.8747,47.9785,2,National,1,MDG
+MAG3621,2024-04-05,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Antananarivo Atsimondrano,Ankaditany,-18.9518,47.4711,1,National,0,MDG
+MAG3660,2024-05-10,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Manjakandriana,Carion,-18.9104,47.707,1,National,0,MDG
+MAG3690,2024-05-21,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Avaradrano,Andramanonga,-18.9504,47.6379,1,National,0,MDG
+MAG3756,2024-06-25,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Madagascar),,Civilians (Madagascar),Government of Madagascar (2019-2025); HVM: Hery Vaovao hoan'i Madagasikara,Madagascar,Atsimo Andrefana,Toliary-II,Andamasiny Tanambao,-23.3389,43.6843,1,National,0,MDG
+MAG3823,2024-07-29,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Sofia,Antsohihy,Antsohihy,-14.8747,47.9785,1,National,0,MDG
+MAG3862,2024-08-19,2,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Itasy,Arivonimamo,Amboanjobe,-19.0676,47.2268,1,National,0,MDG
+MAG3889,2024-08-31,2,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Sofia,Antsohihy,Antsohihy,-14.8747,47.9785,2,National,1,MDG
+MAG3940,2024-09-16,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Atsimo Andrefana,Toliary-II,Ankoro,-23.2915,43.7049,1,National,0,MDG
+MAG4042,2024-11-02,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo Atsimondrano,Itaosy,-18.9167,47.4667,1,National,0,MDG
+MAG4043,2024-11-02,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo Atsimondrano,Ampitatafika Vaovao,-18.9387,47.4746,1,National,0,MDG
+MAG4046,2024-11-03,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo Atsimondrano,Itaosy,-18.9167,47.4667,1,National,0,MDG
+MAG4047,2024-11-03,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo Atsimondrano,Ampitatafika Vaovao,-18.9387,47.4746,1,National,0,MDG
+MAG4053,2024-11-04,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Analamanga,Antananarivo Atsimondrano,Itaosy,-18.9167,47.4667,1,National,0,MDG
+MAG4123,2024-07-31,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),Pastoralists (Madagascar),Madagascar,Sofia,Analalava,Andavaravina,-14.5195,47.7366,1,National,1,MDG
+MAG4124,2024-12-11,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Androy,Bekily,Ambahita,-24.0063,45.2586,1,National,0,MDG
+MAG4125,2024-12-11,1,Battles,Armed clash,Agnala Communal Militia (Madagascar),,Dahalo Militia,,Madagascar,Androy,Bekily,Bedala Maroviro,-23.9065,45.2903,1,National,0,MDG
+MAG4127,2024-12-14,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Anosy,Taolagnaro,Ambatoabo,-24.85,46.6833,1,National,1,MDG
+MAG4128,2024-12-15,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Sofia,Antsohihy,Mangaoka,-14.8589,48.0556,1,National,0,MDG
+MAG4129,2024-12-16,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,Mangako Communal Militia (Madagascar); Military Forces of Madagascar (2019-2025),Dahalo Militia,,Madagascar,Sofia,Antsohihy,Ampandriankilandy,-14.9381,48.0673,1,National,4,MDG
+MAG4131,2024-12-19,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Atsimo Andrefana,Ankazoabo,Berenty I,-22.1866,45.0727,1,National,0,MDG
+MAG4132,2024-12-19,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Betsiboka,Maevatanana,Bevilany,-16.7041,46.9596,1,National,0,MDG
+MAG4133,2024-12-19,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Betsiboka,Maevatanana,Bevilany,-16.7041,46.9596,2,National,0,MDG
+MAG4134,2024-12-20,1,Riots,Mob violence,Rioters (Madagascar),Students (Madagascar); Vigilante Group (Madagascar),Civilians (Madagascar),Military Forces of Madagascar (2019-2025),Madagascar,Diana,Antsiranana I,Antsiranana,-12.2842,49.2913,1,National,0,MDG
+MAG4135,2024-12-21,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Analamanga,Antananarivo Atsimondrano,Ambavahaditokana,-18.9256,47.4596,1,National,0,MDG
+MAG4136,2024-12-22,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Anosy,Amboasary-Atsimo,Tsivory,-24.2216,46.2078,1,National,0,MDG
+MAG4138,2024-12-24,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),Labor Group (Madagascar); Women (Madagascar),Madagascar,Anosy,Betroka,Kelivaho,-22.9478,46.138,1,National,0,MDG
+MAG4142,2024-12-27,1,Violence against civilians,Attack,Unidentified Armed Group (Madagascar),,Civilians (Madagascar),Albino Group (Madagascar); Women (Madagascar),Madagascar,Amoron I Mania,Ambatofinandrahana,Mandrosonoro,-20.5911,45.9949,1,National,1,MDG
+MAG4143,2024-12-27,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Atsimo Atsinanana,Vangaindrano,Mahazoarivo,-23.601,47.5177,2,National,0,MDG
+MAG4144,2024-12-27,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Betsiboka,Maevatanana,Antsohery,-16.6937,46.9364,1,National,0,MDG
+MAG3440,2024-01-26,2,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Betsiboka,Tsaratanana,Brieville,-17.6009,47.6256,1,National,0,MDG
+MAG3492,2024-02-28,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Betsiboka,Tsaratanana,Brieville,-17.6009,47.6256,1,National,0,MDG
+MAG3506,2024-03-06,2,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Betsiboka,Tsaratanana,Tombakatsa,-17.5917,47.6704,1,National,0,MDG
+MAG3931,2024-09-12,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Betsiboka,Tsaratanana,Brieville,-17.6009,47.6256,1,National,0,MDG
+MAG3947,2024-09-18,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Analamanga,Ambohidratrimo,Anjanadoria,-18.5512,47.3926,1,National,2,MDG
+MAG4126,2024-12-11,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Betsiboka,Tsaratanana,Brieville,-17.6009,47.6256,1,National,2,MDG
+MAG3834,2024-08-03,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,Military Forces of Madagascar (2019-2025),Dahalo Militia,,Madagascar,Analamanga,Anjozorobe,Morarano,-18.0106,47.5765,1,National,0,MDG
+MAG3952,2024-09-08,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Farmers (Madagascar),Madagascar,Analamanga,Anjozorobe,Morarano,-18.0106,47.5765,1,National,0,MDG
+MAG3963,2024-09-25,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,Military Forces of Madagascar (2019-2025); Police Forces of Madagascar (2019-2025),Madagascar,Analamanga,Anjozorobe,Morarano,-18.0106,47.5765,1,National,1,MDG
+MAG3997,2024-10-07,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,Ankarana Communal Militia (Madagascar),Dahalo Militia,,Madagascar,Atsimo Atsinanana,Farafangana,Ankarana,-23.0842,47.6254,1,National,1,MDG
+MAG4130,2024-12-18,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Analamanga,Anjozorobe,Morarano,-18.0106,47.5765,2,National,0,MDG
+MAG4158,2024-10-13,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Albino Group (Madagascar); Women (Madagascar),Madagascar,Anosy,Taolagnaro,Enaniliha,-24.6584,46.8784,1,National,0,MDG
+MAG3360,2024-01-03,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,Military Forces of Madagascar (2019-2025),Dahalo Militia,,Madagascar,Boeny,Marovoay,Amboanjo,-16.1289,46.4708,1,National,1,MDG
+MAG3385,2024-01-04,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,Military Forces of Madagascar (2019-2025),Dahalo Militia,,Madagascar,Boeny,Marovoay,Manaratsandry,-16.2005,46.524,1,National,1,MDG
+MAG3663,2024-05-11,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Boeny,Ambato Boeni,Ambato Boeny,-16.4667,46.7167,1,National,1,MDG
+MAG4045,2024-11-02,2,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Boeny,Ambato Boeni,Ambato Boeny,-16.4667,46.7167,1,National,0,MDG
+MAG4086,2024-11-25,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Boeny,Marovoay,Manaratsandry,-16.2005,46.524,2,National,2,MDG
+MAG4103,2024-12-11,1,Riots,Mob violence,Rioters (Madagascar),,,,Madagascar,Amoron I Mania,Ambositra,Ambohimitombo I,-20.7172,47.4251,1,National,0,MDG
+MAG3582,2024-04-08,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025),,Madagascar,Bongolava,Tsiroanomandidy,Fierenana,-18.5718,45.8675,2,National,1,MDG
+MAG3819,2024-07-23,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),Labor Group (Madagascar),Madagascar,Boeny,Ambato Boeni,Manerinerina,-16.2682,47.299,1,National,0,MDG
+MAG3856,2024-08-18,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Bongolava,Tsiroanomandidy,Fierenana,-18.5718,45.8675,1,National,1,MDG
+MAG4140,2024-12-25,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Miners (Madagascar),Madagascar,Betsiboka,Tsaratanana,Manakana,-17.7617,47.4624,1,National,0,MDG
+MAG4141,2024-12-26,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Betsiboka,Tsaratanana,Manakana,-17.7617,47.4624,2,National,0,MDG
+MAG4209,2024-08-29,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Atsinanana,Antanambao Manampontsy,Antanambao Manampotsy,-19.4854,48.5735,1,National,3,MDG
+MAG4211,2024-05-29,1,Strategic developments,Other,Government of Madagascar (2019-2025),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 1,-18.9082,47.5102,3,National-Regional,0,MDG
+MAG4212,2024-12-11,1,Strategic developments,Other,Government of Madagascar (2019-2025),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 1,-18.9082,47.5102,3,National-International,0,MDG
+MAG3780,2024-07-03,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),Women (Madagascar),Madagascar,Analamanga,Antananarivo Atsimondrano,Amboniandrefana,-19.1068,47.53,1,National,0,MDG
+MAG4145,2024-12-27,1,Riots,Mob violence,Rioters (Madagascar),,Military Forces of Madagascar (2019-2025),,Madagascar,Diana,Antsiranana II,Joffre Ville,-12.4963,49.2037,1,National,0,MDG
+MAG4012,2024-10-15,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Atsimo Atsinanana,Farafangana,Ambalarano,-22.462,47.6452,1,National,2,MDG
+MAG4022,2024-10-07,1,Protests,Peaceful protest,Protesters (Madagascar),,,,Madagascar,Sava,Andapa,Andapa,-14.65,49.65,1,National,0,MDG
+MAG4102,2024-12-09,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Vakinankaratra,Antsirabe I,Antsirabe,-19.8659,47.0333,1,National,0,MDG
+MAG4260,2024-02-17,1,Protests,Peaceful protest,Protesters (Madagascar),,,,Madagascar,Analamanga,Antananarivo-Renivohitra,Antananarivo - Arrondissement 1,-18.9082,47.5102,1,International,0,MDG
+MAG3623,2024-04-30,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Antananarivo Atsimondrano,Ambohijatovo,-18.9254,47.4103,1,National,0,MDG
+MAG3771,2024-06-28,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Betsiboka,Maevatanana,Ambodimanary,-16.9668,46.8067,1,National,0,MDG
+MAG3879,2024-08-24,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Vatovavy Fitovinany,Nosy-Varika,Antanjonomby,-20.6264,47.8658,1,National,1,MDG
+MAG4072,2024-11-14,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,Imanombo Communal Militia (Madagascar); Military Forces of Madagascar (2019-2025); Police Forces of Madagascar (2019-2025),Dahalo Militia,,Madagascar,Anosy,Betroka,Beadabo,-23.3165,45.9834,1,National,2,MDG
+MAG4073,2024-11-14,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,Imanombo Communal Militia (Madagascar); Military Forces of Madagascar (2019-2025); Police Forces of Madagascar (2019-2025),Dahalo Militia,,Madagascar,Atsimo Atsinanana,Befotaka,Beharena,-23.8536,46.8341,1,National,3,MDG
+MAG3503,2024-03-03,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Melaky,Maintirano,Tambohorano,-17.4874,44.0264,1,National,1,MDG
+MAG3887,2024-07-22,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Atsimo Atsinanana,Farafangana,Tsanofoha,-22.8762,47.6818,1,National,2,MDG
+MAG4109,2024-12-18,1,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Atsimo Atsinanana,Farafangana,Iabohazo,-22.8844,47.7169,1,National,1,MDG
+MAG3472,2024-02-08,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Women (Madagascar),Madagascar,Betsiboka,Tsaratanana,Maromaniry,-17.651,47.707,1,National,0,MDG
+MAG3638,2024-04-26,1,Protests,Peaceful protest,Protesters (Madagascar),,,,Madagascar,Atsimo Andrefana,Toliary-I,Toliara,-23.3528,43.6667,1,National,0,MDG
+MAG3641,2024-05-02,1,Battles,Armed clash,Police Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Atsimo Andrefana,Toliary-I,Toliara,-23.3528,43.6667,1,National,1,MDG
+MAG3643,2024-05-04,1,Battles,Armed clash,Police Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Atsimo Andrefana,Toliary-I,Toliara,-23.3528,43.6667,1,National,2,MDG
+MAG3801,2024-07-17,1,Riots,Violent demonstration,Rioters (Madagascar),Students (Madagascar),,,Madagascar,Atsimo Andrefana,Toliary-I,Toliara,-23.3528,43.6667,1,National,0,MDG
+MAG3883,2024-08-27,1,Protests,Protest with intervention,Protesters (Madagascar),Farmers (Madagascar),Police Forces of Madagascar (2019-2025),,Madagascar,Atsimo Andrefana,Toliary-I,Betania Ankilifaly,-23.348,43.6778,1,National,0,MDG
+MAG3894,2024-09-04,1,Battles,Armed clash,Police Forces of Madagascar (2019-2025),,Dahalo Militia,,Madagascar,Atsimo Andrefana,Toliary-I,Tsongobory,-23.3333,43.65,1,National,2,MDG
+MAG3937,2024-09-14,2,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Betsiboka,Maevatanana,Tsararano,-17.3333,46.35,2,National,3,MDG
+MAG3938,2024-09-14,2,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Betsiboka,Maevatanana,Tsararano,-17.3333,46.35,1,National,0,MDG
+MAG4137,2024-12-23,1,Riots,Violent demonstration,Rioters (Madagascar),,,,Madagascar,Atsimo Andrefana,Toliary-II,Mitsinjo Betanimena,-23.3318,43.6815,1,National,0,MDG
+MAG4139,2024-12-24,1,Riots,Violent demonstration,Rioters (Madagascar),,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Atsimo Andrefana,Toliary-II,Mitsinjo Betanimena,-23.3318,43.6815,1,National,0,MDG
+MAG3471,2024-02-09,2,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Betsiboka,Tsaratanana,Ambohidronono,-17.5822,47.787,1,National,1,MDG
+MAG3525,2024-03-19,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Itasy,Arivonimamo,Ambohidrazana,-18.7975,47.2691,1,National,0,MDG
+MAG3557,2024-04-03,1,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Itasy,Arivonimamo,Mahadonga,-19.0558,47.1308,1,National,2,MDG
+MAG3597,2024-04-16,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Itasy,Arivonimamo,Ampahimanga,-19.114,47.2006,1,National,0,MDG
+MAG3648,2024-05-08,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Itasy,Arivonimamo,Fenonanana,-18.926,47.3286,1,National,2,MDG
+MAG3787,2024-07-08,2,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Analamanga,Ambohidratrimo,Anosivolakely,-18.7539,47.2963,1,National,0,MDG
+MAG3815,2024-07-25,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Andramasina,Ambodivato,-19.2866,47.7811,1,National,0,MDG
+MAG3875,2024-08-21,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Bongolava,Tsiroanomandidy,Ambatolampy,-18.9359,46.1235,1,National,0,MDG
+MAG3893,2024-09-04,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,Ambohibary Communal Militia (Madagascar),Madagascar,Analamanga,Anjozorobe,Miadana,-18.2333,47.65,1,National,1,MDG
+MAG3583,2024-04-09,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Boeny,Mahajanga II,Belobaka,-15.6833,46.4167,1,National,0,MDG
+MAG3797,2024-07-17,2,Riots,Mob violence,Rioters (Madagascar),Vigilante Group (Madagascar),Civilians (Madagascar),,Madagascar,Boeny,Mahajanga I,Tanambao Sotema,-15.7223,46.3542,1,National,0,MDG
+MAG3925,2024-08-22,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Ambohidratrimo,Sahalemaka,-18.6446,47.6089,1,National,0,MDG
+MAG3927,2024-09-05,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Ambohidratrimo,Sahalemaka,-18.6446,47.6089,1,National,0,MDG
+MAG3954,2024-09-19,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Analamanga,Manjakandriana,Ambohibemasoandro,-18.7134,47.6953,2,National,1,MDG
+MAG3955,2024-09-19,1,Strategic developments,Looting/property destruction,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Analamanga,Manjakandriana,Ambohibemasoandro,-18.7134,47.6953,1,National,0,MDG
+MAG3681,2024-05-16,1,Strategic developments,Disrupted weapons use,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,Former Military Forces of Madagascar (2019-2025) Gendarmerie,Madagascar,Analamanga,Andramasina,Ankatso,-19.3,47.8333,1,National,0,MDG
+MAG3438,2024-01-20,1,Violence against civilians,Abduction/forced disappearance,Dahalo Militia,,Civilians (Madagascar),Albino Group (Madagascar),Madagascar,Bongolava,Tsiroanomandidy,Tsinjoarivo,-19.0232,45.6341,1,National,0,MDG
+MAG3584,2024-04-09,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025),,Madagascar,Bongolava,Tsiroanomandidy,Analamisakana,-18.9704,46.2889,1,National,1,MDG
+MAG3915,2024-09-09,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Bongolava,Tsiroanomandidy,Andranomavokely,-18.9589,45.6802,1,National,7,MDG
+MAG3995,2024-10-06,1,Battles,Armed clash,Military Forces of Madagascar (2019-2025) Gendarmerie,,Dahalo Militia,,Madagascar,Bongolava,Tsiroanomandidy,Tsinjoarivo,-19.0232,45.6341,1,National,1,MDG
+MAG4065,2024-11-08,1,Battles,Armed clash,Dahalo Militia,,Military Forces of Madagascar (2019-2025) Gendarmerie,,Madagascar,Vakinankaratra,Betafo,Miaramamindra,-19.8662,46.8833,1,National,1,MDG
+MAG4382,2024-12-15,3,Violence against civilians,Attack,Dahalo Militia,,Civilians (Madagascar),,Madagascar,Sofia,Antsohihy,Ambodivohitra,-15.221,47.8217,1,National,1,MDG

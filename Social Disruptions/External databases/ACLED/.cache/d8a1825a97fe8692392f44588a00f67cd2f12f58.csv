@@ -1,0 +1,420 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities
+PER2153,2018-10-03,1,Riots,Mob violence,Rioters (Peru),Vigilante Group (Peru),Civilians (Peru),,Peru,Cusco,Chumbivilcas,Santo Tomas,-14.4456,-72.0842,1,National,0
+PER2162,2018-10-18,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lambayeque,Chiclayo,Chiclayo,-6.7714,-79.8409,1,National,0
+PER2163,2018-10-18,2,Protests,Peaceful protest,Protesters (Peru),Students (Peru),,,Peru,Ica,Pisco,San Clemente,-13.6667,-76.15,1,National,0
+PER2157,2018-10-09,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru),,,Peru,Junin,Tarma,Tarma,-11.419,-75.6899,1,National,0
+PER2164,2018-10-20,2,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Apurimac,Andahuaylas,Pacucha,-13.6089,-73.3436,1,National,0
+PER1959,2018-11-07,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lambayeque,Chiclayo,Tuman,-6.7465,-79.701,1,National,0
+PER2160,2018-10-15,2,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Canete,Chilca,-12.5211,-76.7372,3,National,0
+PER1955,2018-10-24,1,Riots,Violent demonstration,Rioters (Peru),Students (Peru),,,Peru,Huanuco,Leoncio Prado,Tingo Maria,-9.2953,-75.9957,1,National,0
+PER2158,2018-10-29,2,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lambayeque,Chiclayo,Chiclayo,-6.7714,-79.8409,1,National,0
+PER2146,2018-10-09,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lambayeque,Chiclayo,Chiclayo,-6.7714,-79.8409,2,National,0
+PER2159,2018-10-11,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lambayeque,Chiclayo,Chiclayo,-6.7714,-79.8409,1,National,0
+PER2007,2018-02-01,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Pasco,Pasco,Cerro De Pasco,-10.6675,-76.2567,1,National,0
+PER2057,2018-06-01,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Madre de Dios,Manu,Boca Colorado,-12.6184,-70.3945,1,National,0
+PER1975,2018-01-11,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Huancavelica,Huancavelica,Huancavelica,-12.7826,-74.9727,2,National,0
+PER2096,2018-08-08,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lambayeque,Chiclayo,Tuman,-6.7465,-79.701,1,National,0
+PER2200,2018-03-08,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru); Women (Peru),,,Peru,La Libertad,Trujillo,Trujillo,-8.116,-79.03,1,National,0
+PER1996,2018-01-31,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Apurimac,Abancay,Abancay,-13.6339,-72.8814,1,National,0
+PER2229,2018-04-24,1,Riots,Violent demonstration,Rioters (Peru),Labor Group (Peru),,,Peru,La Libertad,Trujillo,Trujillo,-8.116,-79.03,1,National,0
+PER2185,2018-09-04,1,Riots,Violent demonstration,Rioters (Peru),Labor Group (Peru),Civilians (Peru),Labor Group (Peru),Peru,Lambayeque,Chiclayo,Chiclayo,-6.7714,-79.8409,1,National,0
+PER2230,2018-04-25,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Cajamarca,Cajamarca,Cajamarca,-7.1638,-78.5003,1,National,0
+PER1974,2018-01-11,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Junin,Huancayo,El Tambo,-12.0667,-75.2167,1,National,0
+PER2129,2018-09-19,1,Protests,Peaceful protest,Protesters (Peru),Teachers (Peru),,,Peru,Cusco,Cusco,Cusco,-13.5226,-71.9673,1,National,0
+PER2199,2018-03-08,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru); Women (Peru),,,Peru,Tacna,Tacna,Tacna,-18.0147,-70.2536,1,National,0
+PER2020,2018-02-08,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Ancash,Huaraz,Huaraz,-9.5278,-77.5278,1,National,0
+PER2231,2018-04-25,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Ancash,Huaraz,Huaraz,-9.5278,-77.5278,1,National,0
+PER1976,2018-01-11,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Huanuco,Huanuco,Huanuco,-9.9306,-76.2422,2,National,0
+PER2100,2018-08-10,1,Violence against civilians,Attack,Unidentified Armed Group (Peru),,Civilians (Peru),,Peru,Junin,Huancayo,El Tambo,-12.0667,-75.2167,1,National,0
+PER2232,2018-04-25,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lambayeque,Lambayeque,Lambayeque,-6.7011,-79.9061,1,National,0
+PER2204,2018-03-12,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,San Martin,El Dorado,San Martin,-6.5108,-76.7403,1,National,0
+PER2179,2018-12-07,1,Riots,Violent demonstration,Rioters (Peru),,,,Peru,Loreto,Datem del Maranon,Puerto Alegria,-4.3261,-77.2158,1,National,0
+PER2089,2018-08-03,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lambayeque,Chiclayo,Tuman,-6.7465,-79.701,1,National,0
+PER2191,2018-03-07,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,San Martin,El Dorado,San Martin,-6.5108,-76.7403,1,National,0
+PER2105,2018-08-13,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lambayeque,Chiclayo,Tuman,-6.7465,-79.701,1,National,0
+PER2079,2018-07-20,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lambayeque,Chiclayo,Tuman,-6.7465,-79.701,1,National,0
+PER2076,2018-07-19,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru); Lawyers (Peru),,,Peru,Ancash,Huaraz,Huaraz,-9.5278,-77.5278,1,National,0
+PER2131,2018-09-21,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Arequipa,Arequipa,Arequipa,-16.3989,-71.535,1,National,0
+PER1977,2018-01-11,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Junin,Chanchamayo,La Merced,-11.0615,-75.3351,1,National,0
+PER2056,2018-06-01,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Arequipa,Arequipa,Arequipa,-16.3989,-71.535,1,National,0
+PER2202,2018-03-10,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,San Martin,El Dorado,San Martin,-6.5108,-76.7403,1,National,0
+PER2171,2018-04-03,1,Riots,Violent demonstration,Rioters (Peru),Labor Group (Peru),Civilians (Peru),Labor Group (Peru),Peru,Lambayeque,Chiclayo,Pucala,-6.7812,-79.6107,1,National,0
+PER2234,2018-04-25,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,La Libertad,Trujillo,Trujillo,-8.116,-79.03,1,National,0
+PER2197,2018-03-08,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru); Women (Peru),,,Peru,Piura,Piura,Piura,-5.1945,-80.6328,1,National,0
+PER2196,2018-03-08,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru); Women (Peru),,,Peru,Ica,Ica,Ica,-14.0678,-75.7286,1,National,0
+PER2198,2018-03-08,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,San Martin,El Dorado,San Martin,-6.5108,-76.7403,1,National,0
+PER1980,2018-01-11,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,La Libertad,Trujillo,Trujillo,-8.116,-79.03,1,National,0
+PER2201,2018-03-09,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,San Martin,El Dorado,San Martin,-6.5108,-76.7403,1,National,0
+PER2203,2018-03-11,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,San Martin,El Dorado,San Martin,-6.5108,-76.7403,1,National,0
+PER2177,2018-12-05,1,Riots,Violent demonstration,Rioters (Peru),,,,Peru,Loreto,Datem del Maranon,Puerto Alegria,-4.3261,-77.2158,1,National,0
+PER2181,2018-12-09,1,Riots,Violent demonstration,Rioters (Peru),,,,Peru,Loreto,Datem del Maranon,Puerto Alegria,-4.3261,-77.2158,1,National,0
+PER2088,2018-08-02,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lambayeque,Chiclayo,Tuman,-6.7465,-79.701,1,National,0
+PER2223,2018-04-19,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Puno,Puno,Puno,-15.8422,-70.0199,1,National,0
+PER2077,2018-07-19,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru); Lawyers (Peru),,,Peru,Loreto,Maynas,Iquitos,-3.7491,-73.2538,1,National,0
+PER2000,2018-01-31,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Huanuco,Huanuco,Huanuco,-9.9306,-76.2422,1,National,0
+PER2227,2018-04-24,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Tumbes,Tumbes,Tumbes,-3.5669,-80.4515,1,National,0
+PER2228,2018-04-24,1,Riots,Violent demonstration,Rioters (Peru),Labor Group (Peru),,,Peru,Ancash,Huaraz,Huaraz,-9.5278,-77.5278,1,National,0
+PER2017,2018-02-08,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Arequipa,Arequipa,Arequipa,-16.3989,-71.535,1,National,0
+PER2095,2018-08-07,1,Riots,Violent demonstration,Rioters (Peru),Labor Group (Peru),,,Peru,Lambayeque,Chiclayo,Tuman,-6.7465,-79.701,1,National,0
+PER2137,2018-12-10,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Loreto,Maynas,Iquitos,-3.7491,-73.2538,1,National,0
+PER2098,2018-08-09,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lambayeque,Chiclayo,Tuman,-6.7465,-79.701,1,National,0
+PER2006,2018-02-01,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Ayacucho,Huamanga,Ayacucho,-13.1588,-74.2232,1,National,0
+PER2140,2018-12-17,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Puno,Melgar,Ayaviri,-14.8864,-70.5889,1,National,0
+PER2217,2018-04-05,1,Protests,Peaceful protest,Protesters (Peru),Teachers (Peru),,,Peru,Ancash,Huaraz,Huaraz,-9.5278,-77.5278,1,National,0
+PER2014,2018-02-04,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Huanuco,Huanuco,Huanuco,-9.9306,-76.2422,1,National,0
+PER2015,2018-02-05,1,Riots,Violent demonstration,Rioters (Peru),Farmers (Peru),Police Forces of Peru (2016-2018),,Peru,Huanuco,Huanuco,Huanuco,-9.9306,-76.2422,1,National,0
+PER2222,2018-04-17,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Huaral,Huaral,-11.495,-77.2078,1,National,0
+PER2016,2018-01-09,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Ayacucho,Huamanga,Ayacucho,-13.1588,-74.2232,1,National,0
+PER1995,2018-01-30,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Huancavelica,Tayacaja,Quichuas,-12.4672,-74.7686,1,National,0
+PER2107,2018-08-15,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lambayeque,Chiclayo,Tuman,-6.7465,-79.701,1,National,0
+PER2194,2018-03-08,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru); Women (Peru),,,Peru,Lambayeque,Chiclayo,Chiclayo,-6.7714,-79.8409,1,National,0
+PER1973,2018-01-11,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Arequipa,Caylloma,El Pedregal,-16.3609,-72.1905,1,National,0
+PER2085,2018-07-28,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Ancash,Santa,Santa,-8.9886,-78.6119,1,National,0
+PER2086,2018-08-01,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lambayeque,Chiclayo,Chiclayo,-6.7714,-79.8409,1,National,0
+PER1963,2018-01-09,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Huanuco,Huanuco,Huanuco,-9.9306,-76.2422,2,National,0
+PER2224,2018-04-24,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Cajamarca,Cajamarca,Cajamarca,-7.1638,-78.5003,1,National,0
+PER1965,2018-01-10,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Ayacucho,Huamanga,Ayacucho,-13.1588,-74.2232,1,National,0
+PER2226,2018-04-24,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Piura,Piura,Piura,-5.1945,-80.6328,1,National,0
+PER2127,2018-09-17,1,Protests,Peaceful protest,Protesters (Peru),Teachers (Peru),,,Peru,Cusco,Cusco,Cusco,-13.5226,-71.9673,1,National,0
+PER2091,2018-08-04,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lambayeque,Chiclayo,Tuman,-6.7465,-79.701,1,National,0
+PER1972,2018-01-11,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Ayacucho,Huamanga,Ayacucho,-13.1588,-74.2232,1,National,0
+PER2108,2018-08-16,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lambayeque,Chiclayo,Tuman,-6.7465,-79.701,1,National,0
+PER2173,2018-06-07,1,Riots,Violent demonstration,Rioters (Peru),,,,Peru,Junin,Junin,Junin,-11.159,-75.993,1,National,0
+PER2135,2018-10-04,1,Riots,Violent demonstration,Rioters (Peru),Labor Group (Peru),,,Peru,Lambayeque,Chiclayo,Chiclayo,-6.7714,-79.8409,1,National,0
+PER2136,2018-10-09,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Callao,Prov. Const. del Callao,Ventanilla,-11.8753,-77.1183,1,National,0
+PER2055,2018-05-31,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Puno,Puno,Puno,-15.8422,-70.0199,1,National,0
+PER1978,2018-01-11,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru),,,Peru,Ancash,Huari,San Marcos,-9.5249,-77.1568,1,National,0
+PER2013,2018-02-02,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Junin,Yauli,La Oroya,-11.5189,-75.8994,1,National,0
+PER2141,2018-12-17,1,Protests,Peaceful protest,Protesters (Peru),Teachers (Peru),,,Peru,Piura,Piura,La Arena,-5.3333,-80.7333,1,National,0
+PER1979,2018-01-11,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Piura,Sullana,Sullana,-4.9039,-80.6853,1,National,0
+PER2103,2018-08-12,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lambayeque,Chiclayo,Tuman,-6.7465,-79.701,1,National,0
+PER2132,2018-09-24,1,Violence against civilians,Attack,Unidentified Armed Group (Peru),,Civilians (Peru),APP: Alliance for Progress,Peru,Huancavelica,Huancavelica,Palca,-12.6544,-74.9783,1,National,1
+PER2149,2018-11-21,1,Riots,Violent demonstration,Rioters (Peru),Indigenous Group (Peru),Civilians (Peru),Labor Group (Peru),Peru,Loreto,Datem del Maranon,Puerto Alegria,-4.3261,-77.2158,1,National,0
+PER1989,2018-01-30,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Apurimac,Abancay,Abancay,-13.6339,-72.8814,1,National,0
+PER2195,2018-03-08,1,Protests,Peaceful protest,Protesters (Peru),Women (Peru),,,Peru,Lima,Canete,Chilca,-12.5211,-76.7372,1,National,0
+PER2008,2018-02-01,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Huancavelica,Huancavelica,Huancavelica,-12.7826,-74.9727,1,National,0
+PER2081,2018-07-25,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru),,,Peru,Piura,Piura,Piura,-5.1945,-80.6328,1,National,0
+PER2174,2018-06-13,1,Riots,Violent demonstration,Rioters (Peru),,,,Peru,Lambayeque,Lambayeque,Olmos,-5.9847,-79.7453,1,National,0
+PER2206,2018-03-14,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,San Martin,El Dorado,San Martin,-6.5108,-76.7403,1,National,0
+PER2207,2018-03-17,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Madre de Dios,Tambopata,Puerto Maldonado,-12.5933,-69.1891,1,National,0
+PER2248,2018-03-05,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,San Martin,El Dorado,San Martin,-6.5108,-76.7403,1,National,0
+PER2247,2018-12-31,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Arequipa,Arequipa,Arequipa,-16.3989,-71.535,1,National,0
+PER1964,2018-01-09,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Junin,Chanchamayo,La Merced,-11.0615,-75.3351,1,National,0
+PER2169,2018-02-28,1,Riots,Violent demonstration,Rioters (Peru),,Police Forces of Peru (2016-2018),,Peru,Lima,Huarochiri,Huarochiri,-12.1379,-76.2323,1,National,0
+PER1968,2018-01-10,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Huancavelica,Huancavelica,Huancavelica,-12.7826,-74.9727,2,National,0
+PER2205,2018-03-13,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,San Martin,El Dorado,San Martin,-6.5108,-76.7403,1,National,0
+PER2215,2018-04-02,1,Riots,Violent demonstration,Rioters (Peru),Labor Group (Peru),Civilians (Peru),Labor Group (Peru),Peru,Lambayeque,Chiclayo,Pucala,-6.7812,-79.6107,1,National,0
+PER2220,2018-04-09,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Puno,Puno,Puno,-15.8422,-70.0199,1,National,0
+PER2178,2018-12-06,1,Riots,Violent demonstration,Rioters (Peru),,,,Peru,Loreto,Datem del Maranon,Puerto Alegria,-4.3261,-77.2158,1,National,0
+PER2004,2018-02-01,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Apurimac,Abancay,Abancay,-13.6339,-72.8814,1,National,0
+PER2023,2018-02-08,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Ucayali,Coronel Portillo,Pucallpa,-8.3792,-74.5539,1,National,0
+PER2063,2018-07-04,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Arequipa,Arequipa,Arequipa,-16.3989,-71.535,1,National,0
+PER2192,2018-03-08,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru); Women (Peru),,,Peru,Arequipa,Arequipa,Arequipa,-16.3989,-71.535,1,National,0
+PER2193,2018-03-08,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru); Women (Peru),,,Peru,Ayacucho,Huamanga,Ayacucho,-13.1588,-74.2232,1,National,0
+PER2071,2018-07-18,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru); Lawyers (Peru),,,Peru,Piura,Piura,Piura,-5.1945,-80.6328,1,National,0
+PER2073,2018-07-19,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru); Lawyers (Peru),,,Peru,Cajamarca,Cajamarca,Cajamarca,-7.1638,-78.5003,1,National,0
+PER2034,2018-05-07,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Piura,Piura,Piura,-5.1945,-80.6328,1,National,0
+PER2064,2018-07-09,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Puno,Melgar,Ayaviri,-14.8864,-70.5889,1,National,0
+PER2078,2018-07-19,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru); Lawyers (Peru),,,Peru,Puno,Puno,Puno,-15.8422,-70.0199,1,National,0
+PER2249,2018-03-06,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,San Martin,El Dorado,San Martin,-6.5108,-76.7403,1,National,0
+PER2124,2018-09-12,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Ica,Palpa,Palpa,-14.5336,-75.1856,1,National,0
+PER2001,2018-01-31,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Junin,Junin,Junin,-11.159,-75.993,1,National,0
+PER1967,2018-01-10,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Arequipa,Caylloma,El Pedregal,-16.3609,-72.1905,1,National,0
+PER1969,2018-01-10,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Huanuco,Huanuco,Huanuco,-9.9306,-76.2422,2,National,0
+PER2094,2018-08-06,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lambayeque,Chiclayo,Tuman,-6.7465,-79.701,1,National,0
+PER2093,2018-08-05,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lambayeque,Chiclayo,Tuman,-6.7465,-79.701,1,National,0
+PER1970,2018-01-10,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Junin,Chanchamayo,La Merced,-11.0615,-75.3351,1,National,0
+PER2134,2018-10-03,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru),,,Peru,Ancash,Huaraz,Huaraz,-9.5278,-77.5278,1,National,0
+PER2072,2018-07-19,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru); Lawyers (Peru),,,Peru,Apurimac,Abancay,Abancay,-13.6339,-72.8814,1,National,0
+PER2180,2018-12-08,1,Riots,Violent demonstration,Rioters (Peru),,,,Peru,Loreto,Datem del Maranon,Puerto Alegria,-4.3261,-77.2158,1,National,0
+PER2099,2018-08-10,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lambayeque,Chiclayo,Tuman,-6.7465,-79.701,1,National,0
+PER2009,2018-02-01,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Huanuco,Huanuco,Huanuco,-9.9306,-76.2422,1,National,0
+PER2143,2018-12-19,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Puno,Melgar,Ayaviri,-14.8864,-70.5889,1,National,0
+PER2106,2018-08-14,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lambayeque,Chiclayo,Tuman,-6.7465,-79.701,1,National,0
+PER2109,2018-08-16,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Apurimac,Abancay,Lambrama,-13.8667,-72.7667,1,National,0
+PER2069,2018-07-17,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru),,,Peru,La Libertad,Trujillo,Trujillo,-8.116,-79.03,1,National,0
+PER1987,2018-01-19,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Arequipa,Arequipa,Arequipa,-16.3989,-71.535,1,National,0
+PER1990,2018-01-30,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Ayacucho,Huamanga,Ayacucho,-13.1588,-74.2232,1,National,0
+PER1998,2018-01-31,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Pasco,Pasco,Cerro De Pasco,-10.6675,-76.2567,1,National,0
+PER1993,2018-01-30,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Huanuco,Huanuco,Huanuco,-9.9306,-76.2422,1,National,0
+PER2074,2018-07-19,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru); Lawyers (Peru),,,Peru,Ancash,Santa,Chimbote,-9.0853,-78.5783,1,National,0
+PER2035,2018-05-07,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Puno,Sandia,Sandia,-14.2333,-69.4333,1,National,0
+PER2083,2018-07-27,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru),,,Peru,Arequipa,Arequipa,Arequipa,-16.3989,-71.535,1,National,0
+PER2084,2018-07-27,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru),,,Peru,La Libertad,Trujillo,Trujillo,-8.116,-79.03,1,National,0
+PER2128,2018-09-18,1,Protests,Peaceful protest,Protesters (Peru),Teachers (Peru),,,Peru,Cusco,Cusco,Cusco,-13.5226,-71.9673,1,National,0
+PER2225,2018-04-24,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lambayeque,Lambayeque,Lambayeque,-6.7011,-79.9061,1,National,0
+PER2172,2018-04-11,1,Riots,Violent demonstration,Rioters (Peru),,,,Peru,Lambayeque,Chiclayo,Chiclayo,-6.7714,-79.8409,1,National,0
+PER2050,2018-05-24,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Cusco,Quispicanchi,Urcos,-13.6861,-71.6228,1,National,0
+PER2133,2018-09-26,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Junin,Yauli,La Oroya,-11.5189,-75.8994,1,National,0
+PER2029,2018-01-09,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Arequipa,Caylloma,El Pedregal,-16.3609,-72.1905,1,National,0
+PER2120,2018-09-06,1,Protests,Peaceful protest,Protesters (Peru),PDSP: Democratic Party We Are Peru,,,Peru,Callao,Prov. Const. del Callao,Callao,-12.0566,-77.1181,1,National,0
+PER2102,2018-08-11,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lambayeque,Chiclayo,Tuman,-6.7465,-79.701,1,National,0
+PER2025,2018-02-19,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Junin,Yauli,La Oroya,-11.5189,-75.8994,1,National,0
+PER2026,2018-02-23,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru),,,Peru,Arequipa,Arequipa,Arequipa,-16.3989,-71.535,1,National,0
+PER2027,2018-02-23,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru),,,Peru,Loreto,Maynas,Iquitos,-3.7491,-73.2538,1,National,0
+PER2244,2018-04-28,1,Protests,Peaceful protest,Protesters (Peru),Fishers (Peru),,,Peru,Arequipa,Arequipa,Arequipa,-16.3989,-71.535,1,National,0
+PER2002,2018-01-31,1,Riots,Violent demonstration,Rioters (Peru),Farmers (Peru),Police Forces of Peru (2016-2018),,Peru,Huanuco,Huanuco,Cayhuayna,-9.9585,-76.2485,1,National,2
+PER2235,2018-04-25,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Tumbes,Tumbes,Tumbes,-3.5669,-80.4515,1,National,0
+PER2038,2018-05-08,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Ica,Pisco,Paracas,-13.8667,-76.2667,1,National,0
+PER2080,2018-07-24,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru),,,Peru,Puno,Puno,Puno,-15.8422,-70.0199,1,National,0
+PER1971,2018-01-02,1,Violence against civilians,Attack,Unidentified Communal Militia (Peru),,Civilians (Peru),,Peru,Junin,Chanchamayo,Perene,-10.9451,-75.2239,1,National,0
+PER1958,2018-11-04,1,Riots,Mob violence,Rioters (Peru),Farmers (Peru),Rioters (Peru),Farmers (Peru),Peru,Puno,El Collao,Ilave,-16.0833,-69.6667,1,National,0
+PER2018,2018-02-08,1,Protests,Peaceful protest,Protesters (Peru),Women (Peru),,,Peru,Ancash,Santa,Chimbote,-9.0853,-78.5783,1,National,0
+PER2045,2018-05-24,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Cusco,Calca,Calca,-13.3333,-71.95,1,National,0
+PER2046,2018-05-24,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Cusco,Cusco,Cusco,-13.5226,-71.9673,1,National,0
+PER2049,2018-05-24,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Cusco,Canchis,Sicuani,-14.2694,-71.2261,1,National,0
+PER2216,2018-04-05,1,Protests,Peaceful protest,Protesters (Peru),Teachers (Peru),,,Peru,Ancash,Santa,Chimbote,-9.0853,-78.5783,1,National,0
+PER2067,2018-07-17,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru),,,Peru,Loreto,Maynas,Iquitos,-3.7491,-73.2538,1,National,0
+PER1984,2018-01-12,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Cusco,La Convencion,Kimbiri,-12.6194,-73.7881,1,National,0
+PER1957,2018-11-04,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Puno,El Collao,Ilave,-16.0833,-69.6667,1,National,0
+PER2142,2018-12-18,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Puno,Melgar,Ayaviri,-14.8864,-70.5889,1,National,0
+PER2061,2018-06-25,1,Protests,Peaceful protest,Protesters (Peru),Teachers (Peru),,,Peru,Loreto,Maynas,Iquitos,-3.7491,-73.2538,1,National,0
+PER2062,2018-06-27,1,Protests,Peaceful protest,Protesters (Peru),Teachers (Peru),,,Peru,Puno,Puno,Puno,-15.8422,-70.0199,1,National,0
+PER2028,2018-02-27,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru); Labor Group (Peru),,,Peru,Arequipa,Arequipa,Arequipa,-16.3989,-71.535,1,National,0
+PER2041,2018-05-16,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Cusco,La Convencion,Kimbiri,-12.6194,-73.7881,1,National,0
+PER2082,2018-07-25,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru),,,Peru,Cajamarca,Santa Cruz,Santa Cruz De Succhabamba,-6.625,-78.9458,1,National,0
+PER1985,2018-01-12,1,Protests,Protest with intervention,Protesters (Peru),Farmers (Peru),Police Forces of Peru (2016-2018),,Peru,Junin,Yauli,La Oroya,-11.5189,-75.8994,1,National,0
+PER2166,2018-11-22,1,Riots,Violent demonstration,Rioters (Peru),Indigenous Group (Peru),Civilians (Peru),Labor Group (Peru),Peru,Loreto,Datem del Maranon,Puerto Alegria,-4.3261,-77.2158,1,National,0
+PER2044,2018-05-24,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Cusco,Anta,Anta,-13.4706,-72.1483,1,National,0
+PER2242,2018-04-26,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Tumbes,Tumbes,Tumbes,-3.5669,-80.4515,1,National,0
+PER2243,2018-04-27,1,Riots,Violent demonstration,Rioters (Peru),Fishers (Peru),,,Peru,Piura,Sechura,Sechura,-5.5569,-80.8222,1,National,0
+PER2233,2018-04-25,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Piura,Piura,Piura,-5.1945,-80.6328,1,National,0
+PER2047,2018-05-24,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Puno,Puno,Puno,-15.8422,-70.0199,1,National,0
+PER2246,2018-11-23,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Lambayeque,Lambayeque,Lambayeque,-6.7011,-79.9061,1,National,0
+PER1961,2018-01-02,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Junin,Yauli,La Oroya,-11.5189,-75.8994,1,National,0
+PER1962,2018-01-09,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Huancavelica,Huancavelica,Huancavelica,-12.7826,-74.9727,2,National,0
+PER2060,2018-06-19,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Callao,Prov. Const. del Callao,Callao,-12.0566,-77.1181,1,National,0
+PER2043,2018-05-24,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Cusco,Acomayo,Acomayo,-13.9167,-71.6811,1,National,0
+PER2048,2018-05-24,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Cusco,La Convencion,Quillabamba,-12.8633,-72.6931,1,National,0
+PER1983,2018-01-12,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru); Women (Peru),,,Peru,Cusco,Cusco,Cusco,-13.5226,-71.9673,1,National,0
+PER2148,2018-11-20,1,Riots,Violent demonstration,Rioters (Peru),Indigenous Group (Peru),Civilians (Peru),Labor Group (Peru),Peru,Loreto,Datem del Maranon,Puerto Alegria,-4.3261,-77.2158,1,National,0
+PER2245,2018-04-28,1,Protests,Peaceful protest,Protesters (Peru),Fishers (Peru),,,Peru,Ancash,Huaraz,Huaraz,-9.5278,-77.5278,1,National,0
+PER2111,2018-08-17,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Apurimac,Abancay,Lambrama,-13.8667,-72.7667,1,National,0
+PER1994,2018-01-30,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Junin,Junin,Junin,-11.159,-75.993,1,National,0
+PER2112,2018-08-21,1,Riots,Mob violence,Rioters (Peru),,Civilians (Peru),Labor Group (Peru),Peru,Cajamarca,Cajamarca,Cajamarca,-7.1638,-78.5003,1,National,0
+PER2021,2018-02-08,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Ica,Ica,Ica,-14.0678,-75.7286,1,National,0
+PER2104,2018-08-13,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lambayeque,Chiclayo,La Victoria,-6.7953,-79.844,1,National,0
+PER1982,2018-01-12,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru),,,Peru,Arequipa,Arequipa,Arequipa,-16.3989,-71.535,2,National,0
+PER2239,2018-04-26,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lambayeque,Lambayeque,Lambayeque,-6.7011,-79.9061,1,National,0
+PER2116,2018-12-06,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Loreto,Datem del Maranon,Saramiriza,-4.5656,-77.4158,1,National,0
+PER2119,2018-09-04,1,Riots,Violent demonstration,Rioters (Peru),Students (Peru),,,Peru,Callao,Prov. Const. del Callao,Callao,-12.0566,-77.1181,1,National,0
+PER2168,2018-02-22,1,Riots,Mob violence,Rioters (Peru),,Police Forces of Peru (2016-2018),,Peru,Loreto,Maynas,Iquitos,-3.7491,-73.2538,1,National,0
+PER2117,2018-12-07,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru),,,Peru,Lima,Huarochiri,Surco,-11.8847,-76.4397,1,National,0
+PER2022,2018-02-08,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Loreto,Maynas,Iquitos,-3.7491,-73.2538,1,National,0
+PER2237,2018-04-26,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Cajamarca,Cajamarca,Cajamarca,-7.1638,-78.5003,1,National,0
+PER2121,2018-09-06,1,Violence against civilians,Attack,Unidentified Armed Group (Peru),,Civilians (Peru),,Peru,San Martin,Lamas,Lamas,-6.4167,-76.5333,1,National,0
+PER2147,2018-11-19,1,Riots,Violent demonstration,Rioters (Peru),Indigenous Group (Peru),Civilians (Peru),Labor Group (Peru),Peru,Loreto,Datem del Maranon,Puerto Alegria,-4.3261,-77.2158,1,National,0
+PER1991,2018-01-30,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Pasco,Pasco,Cerro De Pasco,-10.6675,-76.2567,1,National,0
+PER2039,2018-05-08,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Puno,Sandia,Sandia,-14.2333,-69.4333,1,National,0
+PER1997,2018-01-31,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Ayacucho,Huamanga,Ayacucho,-13.1588,-74.2232,1,National,0
+PER2238,2018-04-26,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Ancash,Huaraz,Huaraz,-9.5278,-77.5278,1,National,0
+PER2042,2018-05-16,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Puno,Puno,Puno,-15.8422,-70.0199,1,National,0
+PER2114,2018-08-22,1,Violence against civilians,Attack,PCP: Communist Party of Peru - Shining Path,,Civilians (Peru),,Peru,Junin,Huancayo,Santo Domingo De Acobamba,-11.7691,-74.7953,1,National,3
+PER2144,2018-12-26,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Callao,Prov. Const. del Callao,Callao,-12.0566,-77.1181,1,National,0
+PER2066,2018-07-17,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru),,,Peru,Ayacucho,Huamanga,Ayacucho,-13.1588,-74.2232,1,National,0
+PER2122,2018-09-07,1,Protests,Peaceful protest,Protesters (Peru),PDSP: Democratic Party We Are Peru,,,Peru,Callao,Prov. Const. del Callao,Callao,-12.0566,-77.1181,1,National,0
+PER1992,2018-01-30,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Huancavelica,Huancavelica,Huancavelica,-12.7826,-74.9727,1,National,0
+PER1999,2018-01-31,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Huancavelica,Huancavelica,Huancavelica,-12.7826,-74.9727,1,National,0
+PER2241,2018-04-26,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,La Libertad,Trujillo,Trujillo,-8.116,-79.03,1,National,0
+PER2145,2018-12-26,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Loreto,Maynas,Iquitos,-3.7491,-73.2538,1,National,0
+PER2240,2018-04-26,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Piura,Piura,Piura,-5.1945,-80.6328,1,National,0
+PER2176,2018-10-08,1,Riots,Violent demonstration,Rioters (Peru),,,,Peru,Amazonas,Bagua,Chiriaco,-5.16,-78.2889,2,National,0
+PER2175,2018-10-08,1,Riots,Violent demonstration,Rioters (Peru),,,,Peru,Amazonas,Bagua,Aramango,-5.4164,-78.4358,2,National,0
+PER2155,2018-10-07,1,Violence against civilians,Attack,Unidentified Armed Group (Peru),,Civilians (Peru),,Peru,Huanuco,Huanuco,Huanuco,-9.9306,-76.2422,3,National,0
+PER2151,2018-10-01,1,Protests,Peaceful protest,Protesters (Peru),FREPAP: Peruvian Agricultural Popular Front; AP: Popular Action,,,Peru,Cusco,Cusco,Cusco,-13.5226,-71.9673,1,National,0
+PER2150,2018-09-30,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Piura,Talara,Talara,-4.5772,-81.2719,2,National,0
+PER2156,2018-10-08,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Canete,Chilca,-12.5211,-76.7372,1,National,0
+PER2126,2018-09-14,1,Riots,Mob violence,Rioters (Peru),Farmers (Peru),Rioters (Peru),Farmers (Peru),Peru,Cusco,Cusco,Cusco,-13.5226,-71.9673,1,National,0
+PER2019,2018-02-08,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,San Martin,Bellavista,Cuzco,-7.2563,-76.4746,1,National,0
+PER1919,2018-07-12,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1943,2018-12-15,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Punta Hermosa,-12.3333,-76.8167,1,National,0
+PER1840,2018-12-19,1,Protests,Peaceful protest,Protesters (Peru),FP: Popular Force,,,Peru,Lima,Lima,Lima - Chorrillos,-12.1844,-77.005,1,National,0
+PER2188,2018-11-20,1,Riots,Violent demonstration,Rioters (Peru),,Rioters (Peru),,Peru,Lima,Lima,Lima - San Isidro,-12.0995,-77.0416,1,National,0
+PER1934,2018-04-05,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER2065,2018-07-11,1,Protests,Peaceful protest,Protesters (Peru),Lawyers (Peru),,,Peru,Lima,Lima,Lima - San Isidro,-12.0995,-77.0416,1,National,0
+PER1918,2018-02-28,1,Protests,Protest with intervention,Protesters (Peru),Students (Peru),Police Forces of Peru (2016-2018),,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1836,2018-01-30,1,Riots,Mob violence,Rioters (Peru),Labor Group (Peru),Police Forces of Peru (2016-2018),,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1843,2018-02-27,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Jesus Maria,-12.0768,-77.0442,1,National,0
+PER1935,2018-04-05,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1861,2018-06-19,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1930,2018-03-07,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1945,2018-11-30,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - San Borja,-12.0983,-76.9961,1,National,0
+PER1835,2018-01-25,1,Riots,Violent demonstration,Rioters (Peru),Labor Group (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1860,2018-06-15,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER2115,2018-08-29,1,Riots,Mob violence,Rioters (Peru),Labor Group (Peru),Rioters (Peru),Labor Group (Peru),Peru,Lima,Lima,Lima - Independencia,-11.9929,-77.053,1,National,0
+PER1901,2018-04-18,1,Protests,Peaceful protest,Protesters (Peru),Government of Peru (2018-2020),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1924,2018-09-07,1,Protests,Peaceful protest,Protesters (Peru),PDSP: Democratic Party We Are Peru,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1942,2018-11-20,1,Riots,Violent demonstration,Rioters (Peru),,,,Peru,Lima,Lima,Lima - Puente Piedra,-11.8649,-77.0732,1,National,0
+PER1947,2018-02-20,1,Riots,Mob violence,Rioters (Peru),,Police Forces of Peru (2016-2018),,Peru,Lima,Lima,Lima - Villa El Salvador,-12.2155,-76.9416,1,National,1
+PER1865,2018-11-30,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1946,2018-09-05,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lima,Lima,Lima - Santa Anita,-12.0434,-76.9708,1,National,0
+PER1846,2018-10-17,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1948,2018-12-13,1,Riots,Violent demonstration,Rioters (Peru),,Rioters (Peru),Government of Peru (2018-2020),Peru,Lima,Lima,Lima - Villa Maria del Triunfo,-12.1624,-76.944,1,National,0
+PER1839,2018-02-12,1,Riots,Violent demonstration,Rioters (Peru),,Rioters (Peru),,Peru,Lima,Lima,Lima - Chorrillos,-12.1844,-77.005,1,National,0
+PER1922,2018-12-05,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1849,2018-11-09,1,Protests,Peaceful protest,Protesters (Peru),FP: Popular Force,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1898,2018-03-08,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru); Women (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1923,2018-09-07,1,Protests,Peaceful protest,Protesters (Peru),Teachers (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1857,2018-06-01,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1832,2018-01-05,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Barranco,-12.1412,-77.0222,1,National,0
+PER1907,2018-07-19,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru); Lawyers (Peru),,,Peru,Lima,Lima,Lima - El Agustino,-12.0504,-76.9988,1,National,0
+PER1920,2018-07-25,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1950,2018-08-21,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Ate,-12.0103,-76.87,1,National,0
+PER1926,2018-09-18,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1856,2018-05-28,1,Riots,Violent demonstration,Rioters (Peru),Prisoners (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1949,2018-10-05,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lima,Lima,Lima - Villa Maria del Triunfo,-12.1624,-76.944,1,National,0
+PER1936,2018-12-31,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1911,2018-04-30,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - El Agustino,-12.0504,-76.9988,1,National,0
+PER1944,2018-07-06,1,Riots,Violent demonstration,Rioters (Peru),,,,Peru,Lima,Lima,Lima - Rimac,-12.0251,-77.0362,1,National,0
+PER1899,2018-04-05,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1833,2018-12-28,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lima,Lima,Lima - Barranco,-12.1412,-77.0222,1,National,0
+PER1889,2018-12-13,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1838,2018-12-04,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lima,Lima,Lima - Chaclacayo,-11.9828,-76.7675,1,National,0
+PER1870,2018-07-29,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1908,2018-02-22,1,Riots,Violent demonstration,Rioters (Peru),,Police Forces of Peru (2016-2018),,Peru,Lima,Lima,Lima - El Agustino,-12.0504,-76.9988,1,National,0
+PER1956,2018-10-31,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Independencia,-11.9929,-77.053,1,National,0
+PER1842,2018-01-15,1,Protests,Peaceful protest,Protesters (Peru),APRA-PAP: American Popular Revolutionary Alliance - Peruvian Aprista Party,,,Peru,Lima,Lima,Lima - Jesus Maria,-12.0768,-77.0442,1,National,0
+PER1891,2018-12-17,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1855,2018-05-16,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1841,2018-02-06,1,Riots,Violent demonstration,Rioters (Peru),,Police Forces of Peru (2016-2018),,Peru,Lima,Lima,Lima - Chorrillos,-12.1844,-77.005,1,National,0
+PER1852,2018-03-07,1,Protests,Protest with intervention,Protesters (Peru),Health Workers (Peru),Police Forces of Peru (2016-2018),,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1851,2018-01-24,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1848,2018-11-07,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1837,2018-03-06,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1921,2018-07-26,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1914,2018-01-31,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1931,2018-01-11,1,Riots,Violent demonstration,Rioters (Peru),,Rioters (Peru),,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1896,2018-06-06,1,Riots,Violent demonstration,Rioters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1834,2018-01-11,1,Riots,Violent demonstration,Rioters (Peru),,Police Forces of Peru (2016-2018),,Peru,Lima,Lima,Lima - Barranco,-12.1412,-77.0222,1,National,0
+PER1859,2018-06-01,1,Protests,Peaceful protest,Protesters (Peru),Women (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1940,2018-09-11,1,Violence against civilians,Attack,Unidentified Armed Group (Peru),,Civilians (Peru),Santa Rosa Communal Group (Peru),Peru,Lima,Lima,Lima - Santa Rosa,-11.7992,-77.1733,1,National,1
+PER1939,2018-04-08,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Miraflores,-12.1204,-77.0299,1,National,0
+PER1864,2018-11-25,1,Protests,Peaceful protest,Protesters (Peru),Women (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1906,2018-08-22,1,Riots,Violent demonstration,Rioters (Peru),APP: Alliance for Progress,Civilians (Peru),,Peru,Lima,Lima,Lima - El Agustino,-12.0504,-76.9988,1,National,0
+PER1916,2018-02-23,1,Protests,Protest with intervention,Protesters (Peru),Students (Peru),Police Forces of Peru (2016-2018),,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1850,2018-01-18,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1925,2018-09-12,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1941,2018-05-05,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER2092,2018-08-05,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - San Luis,-12.0767,-76.9944,1,National,0
+PER1915,2018-02-08,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1904,2018-11-21,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1903,2018-11-20,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1871,2018-08-23,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1917,2018-02-27,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1902,2018-11-19,1,Protests,Peaceful protest,Protesters (Peru),Women (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,2,National,0
+PER1900,2018-04-16,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1905,2018-11-24,1,Protests,Peaceful protest,Protesters (Peru),Women (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1892,2018-03-22,1,Riots,Violent demonstration,Rioters (Peru),,Civilians (Peru),Journalists (Peru),Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1981,2018-01-04,1,Protests,Peaceful protest,Protesters (Peru),FP: Popular Force,,,Peru,Lima,Lima,Lima - San Isidro,-12.0995,-77.0416,1,National,0
+PER1928,2018-12-11,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1929,2018-12-12,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1927,2018-12-10,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1888,2018-12-13,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER2030,2018-02-27,1,Violence against civilians,Attack,Police Forces of Peru (2016-2018),,Civilians (Peru),,Peru,Loreto,Maynas,Iquitos,-3.7491,-73.2538,1,National,0
+PER2165,2018-04-24,1,Violence against civilians,Attack,Unidentified Armed Group (Peru),,Civilians (Peru),Women (Peru); Shipibo-Conibo Indigenous Group (Peru),Peru,Ucayali,Coronel Portillo,Pucallpa,-8.3792,-74.5539,2,Local partner-Other,1
+PER1951,2018-11-15,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - San Juan de Lurigancho,-11.97,-77.001,1,National,0
+PER1913,2018-11-15,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1847,2018-10-31,1,Riots,Mob violence,Rioters (Peru),FP: Popular Force,Rioters (Peru),,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER2101,2018-08-11,1,Protests,Peaceful protest,Protesters (Peru),Women (Peru),,,Peru,Lima,Lima,Lima - San Isidro,-12.0995,-77.0416,1,National,0
+PER2051,2018-05-25,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Arequipa,Arequipa,Arequipa,-16.3989,-71.535,1,National,0
+PER2036,2018-05-07,1,Protests,Peaceful protest,Protesters (Peru),Fishers (Peru),,,Peru,Piura,Talara,Talara,-4.5772,-81.2719,1,National,0
+PER2033,2018-05-07,1,Protests,Peaceful protest,Protesters (Peru),Fishers (Peru),,,Peru,Piura,Paita,Paita,-5.0892,-81.1144,1,National,0
+PER2037,2018-05-07,1,Riots,Violent demonstration,Rioters (Peru),Fishers (Peru),,,Peru,Piura,Sechura,Sechura,-5.5569,-80.8222,1,National,0
+PER1854,2018-05-05,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER2221,2018-04-15,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Piura,Piura,Piura,-5.1945,-80.6328,1,National,0
+PER2212,2018-03-20,1,Protests,Protest with intervention,Protesters (Peru),,Police Forces of Peru (2016-2018),,Peru,Lambayeque,Lambayeque,Olmos,-5.9847,-79.7453,1,National,0
+PER2211,2018-03-20,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lambayeque,Lambayeque,Olmos,-5.9847,-79.7453,1,National,0
+PER2209,2018-03-19,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lambayeque,Lambayeque,Olmos,-5.9847,-79.7453,1,National,0
+PER2210,2018-03-19,1,Protests,Protest with intervention,Protesters (Peru),,Police Forces of Peru (2016-2018),,Peru,Lambayeque,Lambayeque,Olmos,-5.9847,-79.7453,1,National,0
+PER2208,2018-03-18,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lambayeque,Lambayeque,Olmos,-5.9847,-79.7453,1,National,0
+PER2011,2018-02-01,1,Riots,Violent demonstration,Rioters (Peru),Farmers (Peru),Police Forces of Peru (2016-2018),,Peru,Junin,Junin,Junin,-11.159,-75.993,1,National,0
+PER2003,2018-01-31,1,Riots,Violent demonstration,Rioters (Peru),Farmers (Peru),Police Forces of Peru (2016-2018),,Peru,Huancavelica,Tayacaja,Quichuas,-12.4672,-74.7686,1,National,1
+PER1912,2018-01-12,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1876,2018-11-25,1,Protests,Peaceful protest,Protesters (Peru),Health Workers (Peru); Women (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1874,2018-11-23,1,Protests,Peaceful protest,Protesters (Peru),Health Workers (Peru); Women (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1879,2018-11-28,1,Protests,Peaceful protest,Protesters (Peru),Health Workers (Peru); Women (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1880,2018-11-29,1,Protests,Peaceful protest,Protesters (Peru),Health Workers (Peru); Women (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1877,2018-11-26,1,Protests,Peaceful protest,Protesters (Peru),Health Workers (Peru); Women (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1878,2018-11-27,1,Protests,Peaceful protest,Protesters (Peru),Health Workers (Peru); Women (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1887,2018-12-06,1,Protests,Peaceful protest,Protesters (Peru),Health Workers (Peru); Women (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1875,2018-11-24,1,Protests,Peaceful protest,Protesters (Peru),Health Workers (Peru); Women (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1881,2018-11-30,1,Protests,Peaceful protest,Protesters (Peru),Health Workers (Peru); Women (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1882,2018-12-01,1,Protests,Peaceful protest,Protesters (Peru),Health Workers (Peru); Women (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1883,2018-12-02,1,Protests,Peaceful protest,Protesters (Peru),Health Workers (Peru); Women (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1884,2018-12-03,1,Protests,Peaceful protest,Protesters (Peru),Health Workers (Peru); Women (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1885,2018-12-04,1,Protests,Peaceful protest,Protesters (Peru),Health Workers (Peru); Women (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1886,2018-12-05,1,Protests,Peaceful protest,Protesters (Peru),Health Workers (Peru); Women (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1873,2018-11-22,1,Protests,Peaceful protest,Protesters (Peru),Health Workers (Peru); Women (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER2075,2018-07-19,1,Protests,Peaceful protest,Protesters (Peru),Students (Peru); Lawyers (Peru),,,Peru,Junin,Huancayo,Huancayo,-12.0651,-75.2049,1,National,0
+PER2032,2018-05-03,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Junin,Huancayo,Huancayo,-12.0651,-75.2049,1,National,0
+PER2012,2018-02-02,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Junin,Huancayo,Huancayo,-12.0651,-75.2049,1,National,0
+PER2010,2018-02-01,1,Riots,Violent demonstration,Rioters (Peru),Farmers (Peru),Police Forces of Peru (2016-2018),,Peru,Junin,Huancayo,Huancayo,-12.0651,-75.2049,1,National,0
+PER1868,2018-07-24,1,Riots,Mob violence,Rioters (Peru),Labor Group (Peru),Civilians (Peru),Labor Group (Peru),Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1869,2018-07-25,1,Riots,Mob violence,Rioters (Peru),Labor Group (Peru),Civilians (Peru),Labor Group (Peru),Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1831,2018-07-12,1,Riots,Mob violence,Rioters (Peru),Labor Group (Peru),Police Forces of Peru (2018-2020),,Peru,Lima,Lima,Lima - Ancon,-11.7738,-77.1753,1,National,0
+PER1845,2018-10-15,1,Protests,Protest with intervention,Protesters (Peru),,Police Forces of Peru (2018-2020),,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1858,2018-06-01,1,Protests,Protest with intervention,Protesters (Peru),,Police Forces of Peru (2018-2020),,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1862,2018-06-27,1,Riots,Violent demonstration,Rioters (Peru),Teachers (Peru),Police Forces of Peru (2018-2020),,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1866,2018-10-24,1,Protests,Protest with intervention,Protesters (Peru),FP: Popular Force,Police Forces of Peru (2018-2020),,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1872,2018-08-28,1,Protests,Protest with intervention,Protesters (Peru),Teachers (Peru),Police Forces of Peru (2018-2020),,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1890,2018-04-18,1,Protests,Protest with intervention,Protesters (Peru),Government of Peru (2018-2020),Police Forces of Peru (2018-2020),,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1894,2018-06-05,1,Riots,Violent demonstration,Rioters (Peru),,Police Forces of Peru (2018-2020),,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1895,2018-06-12,1,Riots,Violent demonstration,Rioters (Peru),,Police Forces of Peru (2018-2020),,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1909,2018-05-25,1,Riots,Mob violence,Rioters (Peru),,Police Forces of Peru (2018-2020),Civilians (Peru); Labor Group (Peru),Peru,Lima,Lima,Lima - El Agustino,-12.0504,-76.9988,1,National,0
+PER1910,2018-04-30,1,Protests,Protest with intervention,Protesters (Peru),,Police Forces of Peru (2018-2020),,Peru,Lima,Lima,Lima - El Agustino,-12.0504,-76.9988,1,National,0
+PER1932,2018-09-06,1,Riots,Violent demonstration,Rioters (Peru),,Police Forces of Peru (2018-2020),,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1933,2018-04-05,1,Riots,Violent demonstration,Rioters (Peru),Students (Peru),Police Forces of Peru (2018-2020),,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1937,2018-07-27,1,Riots,Violent demonstration,Rioters (Peru),,Police Forces of Peru (2018-2020),Civilians (Peru); Journalists (Peru),Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1938,2018-06-07,1,Riots,Mob violence,Rioters (Peru),,Police Forces of Peru (2018-2020),,Peru,Lima,Lima,Lima - Miraflores,-12.1204,-77.0299,1,National,0
+PER1952,2018-06-02,1,Protests,Peaceful protest,Protesters (Peru),Police Forces of Peru (2018-2020); Women (Peru),,,Peru,Lima,Lima,Lima - San Juan de Lurigancho,-11.97,-77.001,1,National,0
+PER1953,2018-08-07,1,Riots,Mob violence,Rioters (Peru),,Private Security Forces (Peru),Police Forces of Peru (2018-2020),Peru,Lima,Lima,Lima - San Juan de Lurigancho,-11.97,-77.001,1,National,0
+PER1954,2018-05-21,1,Riots,Mob violence,Rioters (Peru),,Police Forces of Peru (2018-2020),,Peru,Lima,Lima,Lima - San Juan de Lurigancho,-11.97,-77.001,1,National,0
+PER1960,2018-10-18,1,Battles,Armed clash,Military Forces of Peru (2018-2020),,PCP: Communist Party of Peru - Shining Path,,Peru,Ayacucho,Huanta,Canayre,-12.282,-74.0238,1,National,1
+PER1986,2018-11-14,1,Riots,Mob violence,Rioters (Peru),Prisoners (Peru),Police Forces of Peru (2018-2020) Prison Guards,,Peru,Tacna,Tacna,Tacna,-18.0147,-70.2536,1,National,0
+PER2040,2018-05-08,1,Riots,Mob violence,Rioters (Peru),Prisoners (Peru),Police Forces of Peru (2018-2020) Prison Guards,,Peru,Ancash,Huaraz,Huaraz,-9.5278,-77.5278,1,National,0
+PER2058,2018-06-08,1,Battles,Armed clash,Police Forces of Peru (2018-2020),,PCP: Communist Party of Peru - Shining Path,,Peru,Huancavelica,Churcampa,La Esmeralda,-12.6333,-74.6,1,National,4
+PER2059,2018-06-12,1,Battles,Armed clash,Military Forces of Peru (2018-2020),,PCP: Communist Party of Peru - Shining Path,,Peru,Junin,Satipo,San Martin De Pangoa,-11.4285,-74.4883,1,National,0
+PER2097,2018-08-09,1,Battles,Armed clash,Military Forces of Peru (2018-2020),,PCP: Communist Party of Peru - Shining Path,,Peru,Ayacucho,Huanta,Canayre,-12.282,-74.0238,1,National,1
+PER2118,2018-09-04,1,Protests,Protest with intervention,Protesters (Peru),,Police Forces of Peru (2018-2020),,Peru,Junin,Yauli,La Oroya,-11.5189,-75.8994,1,National,0
+PER2130,2018-09-20,1,Battles,Armed clash,Military Forces of Peru (2018-2020),,PCP: Communist Party of Peru - Shining Path,,Peru,Ayacucho,Huanta,Llochegua,-12.4096,-73.9069,1,National,2
+PER2152,2018-10-02,2,Protests,Protest with intervention,Protesters (Peru),Teachers (Peru); Students (Peru),Police Forces of Peru (2018-2020),,Peru,Junin,Huancayo,Huancayo,-12.0651,-75.2049,1,National,0
+PER2154,2018-10-03,1,Riots,Mob violence,Rioters (Peru),Vigilante Group (Peru),Police Forces of Peru (2018-2020),,Peru,Cusco,Chumbivilcas,Santo Tomas,-14.4456,-72.0842,1,National,0
+PER2161,2018-10-17,2,Protests,Protest with intervention,Protesters (Peru),Students (Peru),Police Forces of Peru (2018-2020),,Peru,Apurimac,Abancay,Abancay,-13.6339,-72.8814,1,National,0
+PER2167,2018-11-13,1,Riots,Violent demonstration,Rioters (Peru),,Police Forces of Peru (2018-2020),,Peru,Lima,Barranca,Barranca,-10.75,-77.7667,1,National,0
+PER2170,2018-04-11,1,Riots,Violent demonstration,Rioters (Peru),,Police Forces of Peru (2018-2020),,Peru,Lambayeque,Chiclayo,Chiclayo,-6.7714,-79.8409,1,National,0
+PER2182,2018-11-23,1,Riots,Violent demonstration,Rioters (Peru),,Police Forces of Peru (2018-2020),,Peru,Lima,Barranca,Barranca,-10.75,-77.7667,1,National,0
+PER2183,2018-09-27,1,Riots,Mob violence,Rioters (Peru),,Police Forces of Peru (2018-2020),,Peru,Lambayeque,Chiclayo,La Victoria,-6.7953,-79.844,1,National,0
+PER2184,2018-10-07,1,Riots,Mob violence,Rioters (Peru),Ancash to the Work; PDSP: Democratic Party We Are Peru,Police Forces of Peru (2018-2020),,Peru,Ancash,Huari,Chavin De Huantar,-9.5791,-77.1776,2,National,0
+PER2186,2018-08-03,1,Riots,Violent demonstration,Rioters (Peru),Labor Group (Peru),Police Forces of Peru (2018-2020),,Peru,Lambayeque,Chiclayo,Tuman,-6.7465,-79.701,1,National,0
+PER2187,2018-10-01,1,Riots,Violent demonstration,Rioters (Peru),,Police Forces of Peru (2018-2020),,Peru,Piura,Talara,Talara,-4.5772,-81.2719,1,National,0
+PER2189,2018-11-14,1,Strategic developments,Arrests,PCP: Communist Party of Peru - Shining Path,,Police Forces of Peru (2018-2020),,Peru,Ayacucho,Huamanga,Ayacucho,-13.1588,-74.2232,1,National,0
+PER2190,2018-08-16,1,Riots,Violent demonstration,Rioters (Peru),Labor Group (Peru),Police Forces of Peru (2018-2020),,Peru,Lambayeque,Chiclayo,Tuman,-6.7465,-79.701,1,National,0
+PER2213,2018-03-31,1,Riots,Mob violence,Rioters (Peru),Labor Group (Peru),Police Forces of Peru (2018-2020),,Peru,Ica,Ica,Ica,-14.0678,-75.7286,1,National,0
+PER2214,2018-04-02,1,Protests,Protest with intervention,Protesters (Peru),,Police Forces of Peru (2018-2020),,Peru,Arequipa,Arequipa,Arequipa,-16.3989,-71.535,1,National,0
+PER2218,2018-04-05,1,Protests,Protest with intervention,Protesters (Peru),Teachers (Peru),Police Forces of Peru (2018-2020),,Peru,Ancash,Huaraz,Huaraz,-9.5278,-77.5278,1,National,0
+PER2219,2018-04-05,1,Protests,Protest with intervention,Protesters (Peru),Teachers (Peru),Police Forces of Peru (2018-2020),,Peru,Puno,Puno,Puno,-15.8422,-70.0199,1,National,0
+PER2236,2018-04-25,1,Riots,Violent demonstration,Rioters (Peru),Labor Group (Peru),Police Forces of Peru (2018-2020),,Peru,La Libertad,Trujillo,Trujillo,-8.116,-79.03,1,National,0
+PER1863,2018-06-30,1,Protests,Peaceful protest,Protesters (Peru),LGBTQ+ (Peru),,,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1893,2018-11-15,1,Riots,Violent demonstration,Rioters (Peru),LGBTQ+ (Peru),Rioters (Peru),,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1966,2018-01-10,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Arequipa,Arequipa,Arequipa,-16.3989,-71.535,1,National,0
+PER2024,2018-01-09,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Arequipa,Arequipa,Arequipa,-16.3989,-71.535,1,National,0
+PER2005,2018-01-08,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Arequipa,Arequipa,Arequipa,-16.3989,-71.535,1,National,0
+PER2090,2018-08-04,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Arequipa,Arequipa,Arequipa,-16.3989,-71.535,1,National,0
+PER2125,2018-09-14,1,Protests,Peaceful protest,Protesters (Peru),Health Workers (Peru),,,Peru,Arequipa,Arequipa,Arequipa,-16.3989,-71.535,1,National,0
+PER2087,2018-08-01,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Arequipa,Arequipa,Arequipa,-16.3989,-71.535,1,National,0
+PER2123,2018-09-10,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Arequipa,Arequipa,Arequipa,-16.3989,-71.535,1,National,0
+PER2113,2018-08-22,1,Protests,Peaceful protest,Protesters (Peru),Labor Group (Peru),,,Peru,Arequipa,Arequipa,Arequipa,-16.3989,-71.535,1,National,0
+PER1853,2018-09-13,1,Riots,Violent demonstration,Rioters (Peru),Labor Group (Peru),Civilians (Peru),Labor Group (Peru),Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1844,2018-12-27,1,Riots,Violent demonstration,Rioters (Peru),,Civilians (Peru),Government of Peru (2018-2020),Peru,Lima,Lima,Lima - Los Olivos,-11.9592,-77.076,1,National,0
+PER2031,2018-02-28,1,Violence against civilians,Attack,Unidentified Armed Group (Peru),,Civilians (Peru),Government of Peru (2016-2018),Peru,Ayacucho,La Mar,Oronccoy,-13.3803,-73.4353,1,National,1
+PER1897,2018-09-27,1,Protests,Protest with intervention,Protesters (Peru),Labor Group (Peru),Police Forces of Peru (2018-2020),,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1867,2018-07-19,1,Riots,Violent demonstration,Rioters (Peru),Students (Peru); Lawyers (Peru),Police Forces of Peru (2018-2020),,Peru,Lima,Lima,Lima - Lima District,-12.0462,-77.0451,1,National,0
+PER1988,2018-01-21,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Ayacucho,Lucanas,Puquio,-14.6914,-74.1262,1,National,0
+PER2052,2018-05-29,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Puno,San Roman,Juliaca,-15.4944,-70.1208,1,National,0
+PER2053,2018-05-30,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Puno,San Roman,Juliaca,-15.4944,-70.1208,1,National,0
+PER2054,2018-05-31,1,Protests,Peaceful protest,Protesters (Peru),,,,Peru,Puno,San Roman,Juliaca,-15.4944,-70.1208,1,National,0
+PER2068,2018-07-17,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Cusco,La Convencion,Pichari,-12.5213,-73.8282,1,National,0
+PER2070,2018-07-18,1,Protests,Peaceful protest,Protesters (Peru),Farmers (Peru),,,Peru,Cusco,La Convencion,Pichari,-12.5213,-73.8282,1,National,0
+PER2110,2018-08-20,1,Riots,Mob violence,Rioters (Peru),Prisoners (Peru),,,Peru,Puno,San Roman,Juliaca,-15.4944,-70.1208,1,National,0
+PER2138,2018-12-10,1,Protests,Peaceful protest,Protesters (Peru),Health Workers (Peru),,,Peru,Lambayeque,Lambayeque,Lambayeque,-6.7011,-79.9061,1,National,0
+PER2139,2018-12-12,1,Protests,Protest with intervention,Protesters (Peru),,Police Forces of Peru (2018-2020),,Peru,Ancash,Huarmey,Huarmey,-10.0681,-78.1522,1,National,0

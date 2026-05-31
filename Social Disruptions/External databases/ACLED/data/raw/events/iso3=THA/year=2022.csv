@@ -1,0 +1,597 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+THA9970,2022-01-07,1,Violence against civilians,Attack,Unidentified Armed Group (Thailand),,Civilians (Thailand),Kla Party,Thailand,Chumphon,Mueang Chumphon,Moo 9,10.5102,99.0985,2,National,0,THA
+THA9972,2022-01-08,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Nakhon Nayok,Pak Phli,Tha Kwang,14.1246,101.2897,2,National,0,THA
+THA9977,2022-01-16,1,Protests,Peaceful protest,Protesters (Thailand),Bad Students; Students (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA9978,2022-01-18,1,Protests,Peaceful protest,Protesters (Thailand),Labor Group (Thailand); Students (Thailand); Thalufah; United Front of Thammasat and Demonstration; June 24 Democracy Group,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA9976,2022-01-15,1,Protests,Peaceful protest,Protesters (Thailand),Students (Thailand); Thalufah,,,Thailand,Chiang Mai,Mueang Chiang Mai,Suthep,18.7751,98.9521,2,National,0,THA
+THA10000,2022-01-26,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA9995,2022-01-24,1,Protests,Peaceful protest,Protesters (Thailand),PTP: Pheu Thai Party,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA9998,2022-01-25,1,Protests,Peaceful protest,Protesters (Thailand),Fishers (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10002,2022-01-26,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10003,2022-01-26,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA9999,2022-01-25,1,Protests,Peaceful protest,Protesters (Thailand),Farmers (Thailand),,,Thailand,Bangkok,Phaya Thai,Bangkok - Phaya Thai,13.78,100.5427,1,National,0,THA
+THA9993,2022-01-22,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10008,2022-01-30,1,Protests,Peaceful protest,Protesters (Thailand),Karen Ethnic Group (Thailand),,,Thailand,Bangkok,Phaya Thai,Bangkok - Phaya Thai,13.78,100.5427,1,National,0,THA
+THA10007,2022-01-29,1,Protests,Peaceful protest,Protesters (Thailand),Karen Ethnic Group (Thailand),,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10009,2022-02-03,1,Protests,Peaceful protest,Protesters (Thailand),Labor Group (Thailand),,,Thailand,Bangkok,Din Daeng,Bangkok - Din Daeng,13.7772,100.5623,1,National,0,THA
+THA10019,2022-02-08,1,Protests,Peaceful protest,Protesters (Thailand),Labor Group (Thailand); Land Transport Federation of Thailand,,,Thailand,Bangkok,Chatuchak,Bangkok - Chatuchak,13.8289,100.5598,1,National,0,THA
+THA10021,2022-02-08,1,Protests,Peaceful protest,Protesters (Thailand),Thalufah,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10017,2022-02-10,1,Protests,Peaceful protest,Protesters (Thailand),Farmers (Thailand),,,Thailand,Bangkok,Phaya Thai,Bangkok - Phaya Thai,13.78,100.5427,1,National,0,THA
+THA10018,2022-02-08,1,Protests,Peaceful protest,Protesters (Thailand),Labor Group (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10023,2022-02-04,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10024,2022-02-08,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10031,2022-02-15,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10030,2022-02-15,1,Protests,Peaceful protest,Protesters (Thailand),Farmers (Thailand),,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10029,2022-02-15,1,Protests,Peaceful protest,Protesters (Thailand),People's Party; LGBTQ+ (Thailand); Students (Thailand),,,Thailand,Chiang Mai,Mueang Chiang Mai,Chang Khlan,18.7765,98.9987,1,National,0,THA
+THA10038,2022-02-22,1,Protests,Peaceful protest,Protesters (Thailand),Farmers (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10039,2022-02-22,1,Protests,Peaceful protest,Protesters (Thailand),Labor Group (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10041,2022-02-22,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10043,2022-03-01,1,Protests,Peaceful protest,Protesters (Thailand),P-Move: The People's Movement for a Just Society,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10055,2022-03-08,1,Protests,Peaceful protest,Protesters (Thailand),Women (Thailand); Labor Group (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10052,2022-03-10,1,Protests,Peaceful protest,Protesters (Thailand),Farmers (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10051,2022-03-07,1,Protests,Peaceful protest,Protesters (Thailand),Farmers (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10057,2022-03-11,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Huai Khwang,Bangkok - Huai Khwang,13.7706,100.5811,1,National,0,THA
+THA10054,2022-03-07,1,Protests,Peaceful protest,Protesters (Thailand),Women (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10061,2022-03-13,1,Protests,Peaceful protest,Protesters (Thailand),People's Party for Freedom; Thalufah,,,Thailand,Bangkok,Ratchathewi,Bangkok - Ratchathewi,13.759,100.5335,1,National,0,THA
+THA10066,2022-03-22,1,Protests,Peaceful protest,Protesters (Thailand),Farmers (Thailand),,,Thailand,Bangkok,Phaya Thai,Bangkok - Phaya Thai,13.78,100.5427,1,National,0,THA
+THA10068,2022-03-24,1,Protests,Peaceful protest,Protesters (Thailand),Four Regions Slum Network; Assembly of the Poor,,,Thailand,Bangkok,Pom Prap Sattru Phai,Bangkok - Pom Prap Sattru Phai,13.7582,100.5132,1,National,0,THA
+THA10069,2022-03-25,1,Protests,Peaceful protest,Protesters (Thailand),Four Regions Slum Network; Assembly of the Poor,,,Thailand,Bangkok,Pom Prap Sattru Phai,Bangkok - Pom Prap Sattru Phai,13.7582,100.5132,1,National,0,THA
+THA10067,2022-03-23,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10079,2022-03-28,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10076,2022-03-28,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Chiang Mai,Omkoi,Kaboe Din,17.9687,98.2797,1,National,0,THA
+THA10077,2022-03-30,1,Protests,Peaceful protest,Protesters (Thailand),Farmers (Thailand),,,Thailand,Bangkok,Phaya Thai,Bangkok - Phaya Thai,13.78,100.5427,1,National,0,THA
+THA10081,2022-04-02,1,Protests,Peaceful protest,Protesters (Thailand),Thalufah,,,Thailand,Bangkok,Vadhana,Bangkok - Watthana,13.7297,100.5853,1,National,0,THA
+THA10082,2022-04-04,1,Protests,Peaceful protest,Protesters (Thailand),Thalufah,,,Thailand,Bangkok,Vadhana,Bangkok - Watthana,13.7297,100.5853,1,National,0,THA
+THA10080,2022-04-04,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Chiang Mai,Mueang Chiang Mai,Chang Phueak,18.8169,98.9633,1,National,0,THA
+THA10028,2022-02-14,1,Protests,Peaceful protest,Protesters (Thailand),People's Party; LGBTQ+ (Thailand); Students (Thailand); Women (Thailand),,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10093,2022-04-18,1,Protests,Peaceful protest,Protesters (Thailand),Women (Thailand),,,Thailand,Bangkok,Phaya Thai,Bangkok - Phaya Thai,13.78,100.5427,1,National,0,THA
+THA10094,2022-04-20,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10095,2022-04-28,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10105,2022-05-01,1,Protests,Peaceful protest,Protesters (Thailand),Labor Group (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10101,2022-04-28,1,Protests,Peaceful protest,Protesters (Thailand),TANC: Thai Academic Network for Civil Rights,,,Thailand,Bangkok,Chatuchak,Bangkok - Chatuchak,13.8289,100.5598,1,National,0,THA
+THA10106,2022-05-01,1,Protests,Peaceful protest,Protesters (Thailand),Labor Group (Thailand); People Go Network; Labor Group (Myanmar); Protesters (Myanmar),,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10104,2022-05-01,1,Protests,Peaceful protest,Protesters (Thailand),Labor Group (Thailand),,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10107,2022-05-05,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Prachin Buri,Mueang Prachin Buri,Mai Khet,14.1167,101.3362,1,National,0,THA
+THA10098,2022-04-22,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Yasothon,Pa Tio,Chiang Pheng,15.7807,104.4151,1,National,0,THA
+THA10103,2022-05-01,1,Protests,Peaceful protest,Protesters (Thailand),LGBTQ+ (Thailand); Women (Thailand); Labor Group (Thailand),,,Thailand,Chiang Mai,Mueang Chiang Mai,Chang Khlan,18.7765,98.9987,1,National,0,THA
+THA10100,2022-04-26,1,Protests,Peaceful protest,Protesters (Thailand),Women (Thailand),,,Thailand,Bangkok,Ratchathewi,Bangkok - Ratchathewi,13.759,100.5335,1,National,0,THA
+THA10102,2022-04-27,1,Protests,Peaceful protest,Protesters (Thailand),Land Transport Federation of Thailand; Labor Group (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10114,2022-05-12,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10120,2022-05-15,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10121,2022-05-17,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Lamphun,Mueang Lamphun,Si Bua Ban,18.5099,99.105,1,National,0,THA
+THA10119,2022-05-15,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Loei,Wang Saphung,Na Nong Bong,17.3569,101.6736,1,National,0,THA
+THA10123,2022-05-23,1,Protests,Peaceful protest,Protesters (Thailand),Four Regions Slum Network; Commoners' Party,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10125,2022-05-25,1,Protests,Peaceful protest,Protesters (Thailand),Four Regions Slum Network; Commoners' Party,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10126,2022-05-26,1,Protests,Peaceful protest,Protesters (Thailand),Four Regions Slum Network; Commoners' Party,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10130,2022-05-28,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10141,2022-06-13,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Mae Hong Son,Sop Moei,Mae Suat,17.8291,98.0211,1,National,0,THA
+THA10144,2022-06-14,1,Protests,Peaceful protest,Protesters (Thailand),Karen Ethnic Group (Thailand),,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10148,2022-06-17,1,Protests,Peaceful protest,Protesters (Thailand),VPPD: Vocational Protection of the People for Democracy; Students (Thailand),,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10146,2022-06-15,1,Protests,Peaceful protest,Protesters (Thailand),LGBTQ+ (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10150,2022-05-27,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10154,2022-06-23,1,Protests,Peaceful protest,Protesters (Thailand),Labor Group (Thailand),,,Thailand,Bangkok,Pom Prap Sattru Phai,Bangkok - Pom Prap Sattru Phai,13.7582,100.5132,1,National,0,THA
+THA10131,2022-05-29,1,Protests,Peaceful protest,Protesters (Thailand),Four Regions Slum Network; Commoners' Party,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10164,2022-06-30,1,Protests,Peaceful protest,Protesters (Thailand),Labor Group (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10165,2022-07-01,1,Protests,Peaceful protest,Protesters (Thailand),Students (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10167,2022-07-04,1,Protests,Peaceful protest,Protesters (Thailand),Greenpeace,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10169,2022-07-05,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10168,2022-07-04,1,Protests,Peaceful protest,Protesters (Thailand),LGBTQ+ (Thailand); Labor Group (Thailand),,,Thailand,Chiang Mai,Mueang Chiang Mai,Chang Khlan,18.7765,98.9987,1,National,0,THA
+THA10173,2022-07-06,1,Protests,Peaceful protest,Protesters (Thailand),Labor Group (Thailand),,,Thailand,Nonthaburi,Mueang Nonthaburi,Talat Kwan,13.8478,100.5142,1,National,0,THA
+THA10175,2022-07-06,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Yasothon,Pa Tio,Chiang Pheng,15.7807,104.4151,1,National,0,THA
+THA10180,2022-07-17,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10182,2022-07-18,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10183,2022-07-19,1,Protests,Peaceful protest,Protesters (Thailand),Labor Group (Thailand),,,Thailand,Bangkok,Lak Si,Bangkok - Lak Si,13.8821,100.5688,1,National,0,THA
+THA10190,2022-07-19,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10134,2022-06-05,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Khok Kruat,14.9233,101.9653,1,National,0,THA
+THA10185,2022-07-19,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Chatuchak,Bangkok - Chatuchak,13.8289,100.5598,1,National,0,THA
+THA10191,2022-07-20,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Chatuchak,Bangkok - Chatuchak,13.8289,100.5598,1,National,0,THA
+THA10184,2022-07-18,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Chatuchak,Bangkok - Chatuchak,13.8289,100.5598,1,National,0,THA
+THA10192,2022-07-21,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10181,2022-07-18,1,Protests,Peaceful protest,Protesters (Thailand),Labor Group (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10197,2022-07-26,1,Protests,Peaceful protest,Protesters (Thailand),Protesters (Myanmar); Thalugaz; Students (Thailand),,,Thailand,Bangkok,Bang Rak,Bangkok - Bang Rak,13.7231,100.5238,1,National,0,THA
+THA10193,2022-07-22,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Chatuchak,Bangkok - Chatuchak,13.8289,100.5598,1,National,0,THA
+THA10194,2022-07-23,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Chatuchak,Bangkok - Chatuchak,13.8289,100.5598,1,National,0,THA
+THA10195,2022-07-24,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10196,2022-07-25,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10198,2022-07-26,1,Protests,Peaceful protest,Protesters (Thailand),Protesters (Myanmar),,,Thailand,Tak,Mae Sot,Mae Sot,16.7166,98.5666,1,National,0,THA
+THA10204,2022-07-24,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Udon Thani,Mueang Udon Thani,Mak Khaeng,17.4098,102.7972,1,National,0,THA
+THA10160,2022-06-26,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Mae Hong Son,Mae La Noi,Huai Makok,18.5091,98.0127,1,National,0,THA
+THA10218,2022-08-04,1,Violence against civilians,Attack,Unidentified Armed Group (Thailand),,Civilians (Thailand),,Thailand,Narathiwat,Rueso,Bale,6.3961,101.5071,1,National,0,THA
+THA10210,2022-07-31,1,Strategic developments,Looting/property destruction,BRN: Barisan Revolusi Nasional Melayu Patani,,Civilians (Thailand),,Thailand,Yala,Raman,Kalupang,6.4621,101.3707,1,National,0,THA
+THA10215,2022-07-31,1,Strategic developments,Looting/property destruction,BRN: Barisan Revolusi Nasional Melayu Patani,,Civilians (Thailand),,Thailand,Yala,Krong Pinang,Luemu,6.4003,101.2755,1,National,0,THA
+THA10217,2022-07-31,1,Strategic developments,Looting/property destruction,BRN: Barisan Revolusi Nasional Melayu Patani,,Civilians (Thailand),,Thailand,Yala,Than To,Sa Kai,6.1054,101.1579,1,National,0,THA
+THA10226,2022-08-10,1,Protests,Peaceful protest,Protesters (Thailand),United Front of Thammasat and Demonstration; Students (Thailand),,,Thailand,Pathum Thani,Khlong Luang,Khlong Nueng,14.0793,100.6199,1,National,0,THA
+THA10225,2022-08-08,1,Protests,Peaceful protest,Protesters (Myanmar),,,,Thailand,Chiang Mai,Mueang Chiang Mai,Chang Khlan,18.7765,98.9987,1,National,0,THA
+THA10232,2022-09-05,1,Protests,Peaceful protest,Protesters (Thailand),Hmong/Mong Ethnic Group (Thailand),,,Thailand,Chiang Mai,Mueang Chiang Mai,Chang Phueak,18.8169,98.9633,1,National,0,THA
+THA10238,2022-08-30,1,Protests,Peaceful protest,Protesters (Thailand),Hmong/Mong Ethnic Group (Thailand),,,Thailand,Chiang Mai,Mae Rim,Mae Rim,18.9095,98.9442,1,National,0,THA
+THA10257,2022-08-23,1,Protests,Peaceful protest,Protesters (Thailand),Labor Group (Thailand); CCPC: Committee Campaigning for a People's Constitution,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10265,2022-08-18,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Lak Si,Bangkok - Lak Si,13.8821,100.5688,1,National,0,THA
+THA10266,2022-08-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,BRN: Barisan Revolusi Nasional Melayu Patani,,Civilians (Thailand),,Thailand,Narathiwat,Bacho,Moo 5,6.5208,101.663,1,National,0,THA
+THA10268,2022-08-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,BRN: Barisan Revolusi Nasional Melayu Patani,,,,Thailand,Pattani,Nong Chik,Bo Thong,6.7885,101.1371,1,National,0,THA
+THA10275,2022-08-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,BRN: Barisan Revolusi Nasional Melayu Patani,,,,Thailand,Narathiwat,Su-Ngai Kolok,Kawa Lorseera,6.0525,101.9688,1,National,0,THA
+THA10278,2022-08-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,BRN: Barisan Revolusi Nasional Melayu Patani,,,,Thailand,Narathiwat,Rueso,Yaba,6.3816,101.5142,1,National,0,THA
+THA10264,2022-08-18,1,Protests,Peaceful protest,Protesters (Thailand),Labor Group (Thailand),,,Thailand,Bangkok,Chatuchak,Bangkok - Chatuchak,13.8289,100.5598,1,National,0,THA
+THA10241,2022-08-28,1,Protests,Protest with intervention,Protesters (Thailand),Labor Group (Thailand),Unidentified Armed Group (Thailand),,Thailand,Chon Buri,Mueang Chon Buri,Bang Pla Soi,13.3613,100.9847,1,National,0,THA
+THA10239,2022-08-30,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Lamphun,Mueang Lamphun,Si Bua Ban,18.5099,99.105,1,National,0,THA
+THA10262,2022-08-21,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Mae Hong Son,Mae La Noi,Huai Makok,18.5091,98.0127,1,National,0,THA
+THA10254,2022-08-23,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Chiang Mai,Mueang Chiang Mai,Chang Khlan,18.7765,98.9987,1,National,0,THA
+THA10286,2022-09-15,1,Protests,Peaceful protest,Protesters (Thailand),Farmers (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10209,2022-07-31,1,Strategic developments,Looting/property destruction,BRN: Barisan Revolusi Nasional Melayu Patani,,Civilians (Thailand),,Thailand,Phatthalung,Khao Chaison,Tha Wang,7.3763,100.0981,1,National,0,THA
+THA10297,2022-09-20,1,Protests,Peaceful protest,Protesters (Thailand),Karen Ethnic Group (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10300,2022-09-23,1,Protests,Peaceful protest,Protesters (Thailand),AI: Amnesty International; June 24 Democracy Group,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10299,2022-09-21,1,Protests,Peaceful protest,Protesters (Thailand),P-Move: The People's Movement for a Just Society; Karen Ethnic Group (Thailand),,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10296,2022-09-19,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10295,2022-09-19,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Kalasin,Na Khu,Na Khu,16.7727,104.0291,1,National,0,THA
+THA10310,2022-09-30,1,Protests,Peaceful protest,Protesters (Myanmar),,,,Thailand,Tak,Mae Sot,Mae Sot,16.7166,98.5666,1,National,0,THA
+THA10305,2022-09-27,1,Protests,Peaceful protest,Protesters (Thailand),Fishers (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10306,2022-09-28,1,Protests,Peaceful protest,Protesters (Thailand),Fishers (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10312,2022-10-03,1,Protests,Peaceful protest,Protesters (Thailand),Four Regions Slum Network; P-Move: The People's Movement for a Just Society,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10320,2022-10-12,1,Protests,Peaceful protest,Protesters (Thailand),Democrat Party,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10319,2022-10-11,1,Protests,Peaceful protest,Protesters (Thailand),P-Move: The People's Movement for a Just Society; Karen Ethnic Group (Thailand); Farmers (Thailand),,,Thailand,Chiang Mai,Samoeng,Hua Dong,18.8484,98.732,1,National,0,THA
+THA10325,2022-10-20,1,Protests,Peaceful protest,Protesters (Thailand),MFP: Move Forward Party,,,Thailand,Bangkok,Phaya Thai,Bangkok - Phaya Thai,13.78,100.5427,1,National,0,THA
+THA10326,2022-10-15,1,Protests,Peaceful protest,Protesters (Thailand),UDD: United Front for Democracy against Dictatorship,,,Thailand,Udon Thani,Kumphawapi,Kumphawapi,17.1095,103.0139,1,National,0,THA
+THA10336,2022-10-25,1,Protests,Peaceful protest,Protesters (Thailand),Labor Group (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10331,2022-10-22,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Phaya Thai,Bangkok - Phaya Thai,13.78,100.5427,1,National,0,THA
+THA10332,2022-10-23,1,Protests,Peaceful protest,Protesters (Thailand),Labor Group (Thailand),,,Thailand,Chon Buri,Mueang Chon Buri,Na Pa,13.394,101.0235,1,National,0,THA
+THA10337,2022-11-02,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10338,2022-11-02,1,Protests,Peaceful protest,Protesters (Thailand),Labor Group (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10342,2022-10-31,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10339,2022-11-02,1,Protests,Peaceful protest,Protesters (Cambodia),,,,Thailand,Sa Kaeo,Aranyaprathet,Aranyaprathet,13.6927,102.501,1,International,0,THA
+THA10348,2022-11-09,1,Protests,Peaceful protest,Protesters (Thailand),Labor Group (Thailand),,,Thailand,Bangkok,Pom Prap Sattru Phai,Bangkok - Pom Prap Sattru Phai,13.7582,100.5132,1,National,0,THA
+THA10352,2022-11-11,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10345,2022-11-09,1,Protests,Peaceful protest,Protesters (Thailand),Farmers (Thailand),,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10344,2022-11-08,1,Protests,Peaceful protest,Protesters (Thailand),Farmers (Thailand),,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10346,2022-11-10,1,Protests,Peaceful protest,Protesters (Thailand),Farmers (Thailand),,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10351,2022-11-11,1,Protests,Peaceful protest,Protesters (Thailand),Farmers (Thailand),,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10347,2022-11-07,1,Protests,Peaceful protest,Protesters (Thailand),Students (Thailand),,,Thailand,Chiang Mai,Mueang Chiang Mai,Suthep,18.7751,98.9521,1,National,0,THA
+THA10359,2022-11-16,1,Protests,Peaceful protest,Protesters (Thailand),AI: Amnesty International,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10361,2022-11-17,1,Explosions/Remote violence,Grenade,Malay Muslim Separatists (Thailand),,,,Thailand,Narathiwat,Rueso,Moo 1,6.3946,101.5183,1,National,0,THA
+THA10362,2022-11-15,1,Strategic developments,Looting/property destruction,Malay Muslim Separatists (Thailand),,Civilians (Thailand),,Thailand,Yala,Raman,Kotabaru,6.4487,101.3437,1,National,0,THA
+THA10360,2022-11-13,1,Protests,Peaceful protest,Protesters (Thailand),Students (Thailand),,,Thailand,Khon Kaen,Nong Ruea,Moo 1,16.4885,102.4269,1,National,0,THA
+THA10369,2022-11-14,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Yasothon,Pa Tio,Chiang Pheng,15.7807,104.4151,1,National,0,THA
+THA10380,2022-11-29,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Mukdahan,Mueang Mukdahan,Kham Pa Lai,16.7258,104.6598,1,National,0,THA
+THA10382,2022-12-01,1,Protests,Peaceful protest,Protesters (Thailand),Karen Ethnic Group (Thailand),,,Thailand,Bangkok,Phaya Thai,Bangkok - Phaya Thai,13.78,100.5427,1,National,0,THA
+THA10392,2022-12-05,1,Riots,Mob violence,Rioters (Thailand),PCPI: People's Center Protecting the Institution,Civilians (Thailand),,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10393,2022-12-06,1,Protests,Peaceful protest,Protesters (Thailand),Students (Thailand); Protesters (Myanmar),,,Thailand,Chiang Mai,Mueang Chiang Mai,Chang Moi,18.7941,98.9986,1,National,0,THA
+THA10394,2022-12-06,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Civilians (Thailand),,Thailand,Songkhla,Sadao,Tha Pho Ok,6.7775,100.4444,1,National,3,THA
+THA10395,2022-12-07,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10396,2022-12-08,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10397,2022-12-07,1,Protests,Peaceful protest,Protesters (Thailand),Students (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10398,2022-12-07,1,Protests,Peaceful protest,Protesters (Thailand),Students (Thailand); Students (Myanmar); Students (International); Protesters (Myanmar); Protesters (International),,,Thailand,Nakhon Pathom,Phutthamonthon,Sala Ya,13.8255,100.2923,1,International,0,THA
+THA10409,2022-12-19,1,Protests,Peaceful protest,Protesters (Myanmar),Labor Group (Myanmar),,,Thailand,Bangkok,Bang Rak,Bangkok - Bang Rak,13.7231,100.5238,1,National,0,THA
+THA10410,2022-12-19,1,Protests,Peaceful protest,Protesters (Thailand),Students (Thailand); Teachers (Thailand),,,Thailand,Nakhon Ratchasima,Chok Chai,Chok Chai,14.7613,102.1692,1,National,0,THA
+THA10411,2022-12-20,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Chiang Mai,Mueang Chiang Mai,Chang Phueak,18.8169,98.9633,1,National,0,THA
+THA10412,2022-12-23,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Nakhon Ratchasima,Dan Khun Thot,Nong Sai,15.3549,101.8579,1,National,0,THA
+THA10415,2022-12-10,1,Protests,Peaceful protest,Protesters (Thailand),UDD: United Front for Democracy against Dictatorship,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10416,2022-12-13,1,Protests,Peaceful protest,Protesters (Thailand),P-Move: The People's Movement for a Just Society,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10417,2022-12-14,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10794,2022-03-13,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Yala,Bannang Sata,Tanao Pute,6.3545,101.3207,2,Local partner-Other,0,THA
+THA10800,2022-03-13,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Pattani,Mayo,Pado,6.6798,101.3528,2,Local partner-Other,0,THA
+THA10807,2022-03-14,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Pattani,Nong Chik,Bang Khao,6.8322,101.131,2,Local partner-Other,0,THA
+THA10816,2022-03-29,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Narathiwat,Yi-Ngo,Tapoyo,6.4613,101.6792,2,Local partner-Other,0,THA
+THA10820,2022-05-12,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Narathiwat,Tak Bai,Phraiwan,6.3069,101.9455,2,Local partner-Other,0,THA
+THA9967,2022-01-02,1,Protests,Peaceful protest,Protesters (Thailand),United Front of Thammasat and Demonstration; Students (Thailand); People's Party; Thalufah,,,Thailand,Bangkok,Chatuchak,Bangkok - Chatuchak,13.8289,100.5598,1,National,0,THA
+THA9965,2022-01-01,1,Protests,Peaceful protest,Protesters (Thailand),United Front of Thammasat and Demonstration; Students (Thailand); People's Party,,,Thailand,Bangkok,Chatuchak,Bangkok - Chatuchak,13.8289,100.5598,1,National,0,THA
+THA9969,2022-01-06,1,Protests,Peaceful protest,Protesters (Thailand),Resistant Citizen,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA9966,2022-01-02,1,Protests,Peaceful protest,Protesters (Thailand),"We, the People",,,Thailand,Chiang Mai,Mueang Chiang Mai,Chang Khlan,18.7765,98.9987,1,National,0,THA
+THA9975,2022-01-14,1,Protests,Peaceful protest,Protesters (Thailand),United Front of Thammasat and Demonstration; Students (Thailand),,,Thailand,Bangkok,Chatuchak,Bangkok - Chatuchak,13.8289,100.5598,1,National,0,THA
+THA9979,2022-01-19,1,Protests,Peaceful protest,Protesters (Thailand),Ramkhamhaeng Network for Democracy,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA9983,2022-01-21,1,Protests,Peaceful protest,Protesters (Thailand),P-Move: The People's Movement for a Just Society,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA9981,2022-01-20,1,Protests,Peaceful protest,Protesters (Thailand),P-Move: The People's Movement for a Just Society,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA9980,2022-01-19,1,Protests,Peaceful protest,Protesters (Thailand),P-Move: The People's Movement for a Just Society,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA9992,2022-01-22,1,Protests,Peaceful protest,Protesters (Thailand),P-Move: The People's Movement for a Just Society; Four Regions Slum Network,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA9994,2022-01-23,1,Protests,Peaceful protest,Protesters (Thailand),P-Move: The People's Movement for a Just Society,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA9996,2022-01-24,1,Protests,Peaceful protest,Protesters (Thailand),P-Move: The People's Movement for a Just Society,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA9997,2022-01-25,1,Protests,Peaceful protest,Protesters (Thailand),P-Move: The People's Movement for a Just Society,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10001,2022-01-26,1,Protests,Peaceful protest,Protesters (Thailand),People Go Network; Commoners' Party,,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10010,2022-02-01,1,Protests,Peaceful protest,Protesters (Thailand),P-Move: The People's Movement for a Just Society,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10011,2022-02-03,1,Protests,Peaceful protest,Protesters (Thailand),P-Move: The People's Movement for a Just Society,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10013,2022-02-03,1,Protests,Peaceful protest,Protesters (Thailand),Resistant Citizen,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10012,2022-01-31,1,Protests,Peaceful protest,Protesters (Thailand),P-Move: The People's Movement for a Just Society,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10020,2022-02-11,1,Protests,Peaceful protest,Protesters (Thailand),Resistant Citizen,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10026,2022-02-12,1,Protests,Peaceful protest,Protesters (Thailand),Resistant Citizen,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10027,2022-02-13,1,Protests,Peaceful protest,Protesters (Thailand),PCPI: People's Center Protecting the Institution,,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10034,2022-02-22,1,Protests,Peaceful protest,Protesters (Thailand),Students (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10033,2022-02-22,1,Protests,Peaceful protest,Protesters (Thailand),P-Move: The People's Movement for a Just Society,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10040,2022-02-20,1,Protests,Peaceful protest,Protesters (Thailand),Thalufah,,,Thailand,Chiang Mai,Mueang Chiang Mai,Chang Khlan,18.7765,98.9987,1,National,0,THA
+THA10060,2022-03-13,1,Protests,Peaceful protest,Protesters (Thailand),PCPI: People's Center Protecting the Institution,,,Thailand,Bangkok,Ratchathewi,Bangkok - Ratchathewi,13.759,100.5335,1,National,0,THA
+THA10059,2022-03-16,1,Protests,Peaceful protest,Protesters (Thailand),Resistant Citizen,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10075,2022-03-28,1,Protests,Peaceful protest,Protesters (Thailand),Thalufah,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10083,2022-04-05,1,Protests,Peaceful protest,Protesters (Thailand),PCPI: People's Center Protecting the Institution,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10090,2022-04-13,1,Protests,Peaceful protest,Protesters (Thailand),Thalufah,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10091,2022-04-10,1,Protests,Peaceful protest,Protesters (Thailand),Thalufah; Thalugaz; People's Party; Students (Thailand); UDD: United Front for Democracy against Dictatorship,,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10089,2022-04-13,1,Protests,Peaceful protest,Protesters (Thailand),PCPI: People's Center Protecting the Institution; Students (Thailand),,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10086,2022-04-10,1,Protests,Peaceful protest,Protesters (Thailand),UDD: United Front for Democracy against Dictatorship,,,Thailand,Khon Kaen,Mueang Khon Kaen,Nai Mueang,16.4292,102.8436,1,National,0,THA
+THA10092,2022-04-17,1,Protests,Peaceful protest,Protesters (Thailand),Thalufah,,,Thailand,Bangkok,Ratchathewi,Bangkok - Ratchathewi,13.759,100.5335,1,National,0,THA
+THA10097,2022-05-06,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10108,2022-05-06,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Vadhana,Bangkok - Watthana,13.7297,100.5853,1,National,0,THA
+THA10096,2022-04-30,1,Protests,Peaceful protest,Protesters (Thailand),"We, the People",,,Thailand,Chiang Mai,Mueang Chiang Mai,Chang Khlan,18.7765,98.9987,1,National,0,THA
+THA10109,2022-05-13,1,Protests,Peaceful protest,Protesters (Thailand),Thalugaz; People's Party; UDD: United Front for Democracy against Dictatorship; Students (Thailand),,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10110,2022-05-07,1,Protests,Peaceful protest,Protesters (Thailand),Thalugaz; People's Party; Students (Thailand),,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10112,2022-05-10,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10113,2022-05-10,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10111,2022-05-08,1,Protests,Peaceful protest,Protesters (Thailand),Resistant Citizen,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10116,2022-05-19,1,Protests,Peaceful protest,Protesters (Thailand),UDD: United Front for Democracy against Dictatorship,,,Thailand,Chiang Mai,Mueang Chiang Mai,Suthep,18.7751,98.9521,1,National,0,THA
+THA10117,2022-05-19,1,Protests,Peaceful protest,Protesters (Thailand),UDD: United Front for Democracy against Dictatorship; People's Party; Students (Thailand),,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10115,2022-05-20,1,Protests,Peaceful protest,Protesters (Thailand),Thalufah,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10118,2022-05-19,1,Protests,Peaceful protest,Protesters (Thailand),"We, the People",,,Thailand,Chiang Mai,Mueang Chiang Mai,Chang Khlan,18.7765,98.9987,1,National,0,THA
+THA10128,2022-05-25,1,Protests,Peaceful protest,Protesters (Thailand),TANC: Thai Academic Network for Civil Rights; Resistant Citizen,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10127,2022-05-21,1,Protests,Peaceful protest,Protesters (Thailand),Resistant Citizen,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10129,2022-05-22,1,Protests,Peaceful protest,Protesters (Thailand),UDD: United Front for Democracy against Dictatorship; Dao Din Commoner; Thalufah; People's Party; Students (Thailand),,,Thailand,Khon Kaen,Mueang Khon Kaen,Nai Mueang,16.4292,102.8436,1,National,0,THA
+THA10133,2022-06-05,1,Protests,Peaceful protest,Protesters (Thailand),Students (Thailand),,,Thailand,Bangkok,Ratchathewi,Bangkok - Ratchathewi,13.759,100.5335,1,National,0,THA
+THA10142,2022-06-13,1,Protests,Peaceful protest,Protesters (Thailand),PCPI: People's Center Protecting the Institution,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10143,2022-06-13,1,Protests,Peaceful protest,Protesters (Thailand),UDD: United Front for Democracy against Dictatorship; Prachachon Khon Thai,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10137,2022-06-11,1,Protests,Peaceful protest,Protesters (Thailand),"We, the People",,,Thailand,Chiang Mai,Mueang Chiang Mai,Chang Khlan,18.7765,98.9987,1,National,0,THA
+THA10085,2022-04-10,1,Protests,Peaceful protest,Protesters (Thailand),UDD: United Front for Democracy against Dictatorship; PTP: Pheu Thai Party; MFP: Move Forward Party,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10157,2022-06-24,1,Protests,Peaceful protest,Protesters (Thailand),"Thalufah; People's Party; Students (Thailand); Labor Group (Thailand); MFP: Move Forward Party; United Front of Thammasat and Demonstration; We, the People",,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10153,2022-06-20,1,Protests,Peaceful protest,Protesters (Thailand),TANC: Thai Academic Network for Civil Rights; Resistant Citizen,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10156,2022-06-24,1,Protests,Peaceful protest,Protesters (Thailand),Thai Pakdee,,,Thailand,Nonthaburi,Mueang Nonthaburi,Talat Kwan,13.8478,100.5142,1,National,0,THA
+THA10162,2022-06-29,1,Protests,Peaceful protest,Protesters (Thailand),Thalugaz; Students (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10163,2022-06-29,1,Protests,Peaceful protest,Protesters (Thailand),Students (Thailand),,,Thailand,Chiang Mai,Mueang Chiang Mai,Chang Phueak,18.8169,98.9633,1,National,0,THA
+THA10166,2022-07-03,1,Protests,Peaceful protest,Protesters (Thailand),UDD: United Front for Democracy against Dictatorship; Labor Group (Thailand),,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10176,2022-07-11,1,Protests,Peaceful protest,Protesters (Thailand),Thalufah; Resistant Citizen,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10178,2022-07-13,1,Protests,Peaceful protest,Protesters (Thailand),Thalufah; Resistant Citizen,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10177,2022-07-12,1,Protests,Peaceful protest,Protesters (Thailand),Thalufah; Resistant Citizen,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10186,2022-07-19,1,Protests,Peaceful protest,Protesters (Thailand),People's Party; Thalufah; Students (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10187,2022-07-20,1,Protests,Peaceful protest,Protesters (Thailand),People's Party; Thalufah; Students (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10188,2022-07-21,1,Protests,Peaceful protest,Protesters (Thailand),People's Party; Thalufah; Students (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10189,2022-07-22,1,Protests,Peaceful protest,Protesters (Thailand),People's Party; Thalufah; Students (Thailand),,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10200,2022-07-27,1,Protests,Peaceful protest,Protesters (Thailand),Thalufah; Thalugaz; Resistant Citizen; Students (Thailand),,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10201,2022-07-28,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10222,2022-07-30,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Ratchathewi,Bangkok - Ratchathewi,13.759,100.5335,1,National,0,THA
+THA10221,2022-07-30,1,Protests,Peaceful protest,Protesters (Thailand),"We, the People",,,Thailand,Chiang Mai,Mueang Chiang Mai,Chang Khlan,18.7765,98.9987,1,National,0,THA
+THA10220,2022-08-05,1,Protests,Peaceful protest,Protesters (Thailand),Students (Thailand),,,Thailand,Chiang Mai,Mueang Chiang Mai,Suthep,18.7751,98.9521,1,National,0,THA
+THA10227,2022-08-10,1,Protests,Peaceful protest,Protesters (Thailand),AI: Amnesty International,,,Thailand,Bangkok,Lak Si,Bangkok - Lak Si,13.8821,100.5688,1,National,0,THA
+THA10223,2022-08-06,1,Protests,Peaceful protest,Protesters (Thailand),"We, the People",,,Thailand,Chiang Mai,Mueang Chiang Mai,Chang Khlan,18.7765,98.9987,1,National,0,THA
+THA10235,2022-09-04,1,Protests,Peaceful protest,Protesters (Thailand),UDD: United Front for Democracy against Dictatorship,,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10237,2022-09-03,1,Protests,Peaceful protest,Protesters (Thailand),UDD: United Front for Democracy against Dictatorship,,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10243,2022-08-28,1,Protests,Peaceful protest,Protesters (Thailand),People's Party; Thalugaz; UDD: United Front for Democracy against Dictatorship; Students (Thailand),,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10253,2022-08-24,1,Protests,Peaceful protest,Protesters (Thailand),People's Party; Students (Thailand),,,Thailand,Chiang Rai,Mueang Chiang Rai,Chiang Rai,19.9085,99.8325,1,National,0,THA
+THA10256,2022-08-23,1,Protests,Peaceful protest,Protesters (Thailand),Students (Thailand); Ramkhamhaeng Network for Democracy,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10258,2022-08-23,1,Protests,Peaceful protest,Protesters (Thailand),UDD: United Front for Democracy against Dictatorship,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10246,2022-08-26,1,Protests,Peaceful protest,Protesters (Thailand),Students (Thailand),,,Thailand,Pathum Thani,Khlong Luang,Khlong Nueng,14.0793,100.6199,1,National,0,THA
+THA10233,2022-09-05,1,Protests,Peaceful protest,Protesters (Thailand),Resistant Citizen,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10259,2022-08-23,1,Protests,Peaceful protest,Protesters (Thailand),Resistant Citizen,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10250,2022-08-24,1,Protests,Peaceful protest,Protesters (Thailand),People's Party; Dao Din Commoner; Students (Thailand),,,Thailand,Khon Kaen,Mueang Khon Kaen,Nai Mueang,16.4292,102.8436,1,National,0,THA
+THA10252,2022-08-24,1,Protests,Peaceful protest,Protesters (Thailand),Resistant Citizen,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10284,2022-08-14,1,Protests,Peaceful protest,Protesters (Thailand),UDD: United Front for Democracy against Dictatorship,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10242,2022-08-28,1,Protests,Peaceful protest,Protesters (Thailand),UDD: United Front for Democracy against Dictatorship,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10234,2022-09-04,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10244,2022-08-27,1,Protests,Peaceful protest,Protesters (Thailand),"We, the People",,,Thailand,Chiang Mai,Mueang Chiang Mai,Chang Khlan,18.7765,98.9987,1,National,0,THA
+THA10236,2022-09-03,1,Protests,Peaceful protest,Protesters (Thailand),"We, the People",,,Thailand,Chiang Mai,Mueang Chiang Mai,Chang Khlan,18.7765,98.9987,1,National,0,THA
+THA10291,2022-09-14,1,Protests,Peaceful protest,Protesters (Thailand),UDD: United Front for Democracy against Dictatorship,,,Thailand,Bangkok,Lak Si,Bangkok - Lak Si,13.8821,100.5688,1,National,0,THA
+THA10290,2022-09-11,1,Protests,Peaceful protest,Protesters (Thailand),UDD: United Front for Democracy against Dictatorship,,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10288,2022-09-13,1,Protests,Peaceful protest,Protesters (Thailand),PCPI: People's Center Protecting the Institution,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10289,2022-09-12,1,Protests,Peaceful protest,Protesters (Thailand),Resistant Citizen,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10292,2022-09-10,1,Protests,Peaceful protest,Protesters (Thailand),"We, the People",,,Thailand,Chiang Mai,Mueang Chiang Mai,Chang Khlan,18.7765,98.9987,1,National,0,THA
+THA10287,2022-09-12,1,Protests,Peaceful protest,Protesters (Thailand),Labor Group (Thailand),,,Thailand,Chon Buri,Si Racha,Bo Win,13.0524,101.0812,1,National,0,THA
+THA10302,2022-09-19,1,Protests,Peaceful protest,Protesters (Thailand),UDD: United Front for Democracy against Dictatorship; Thalufah; Thalugaz; Students (Thailand),,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10303,2022-09-19,1,Protests,Peaceful protest,Protesters (Thailand),Resistant Citizen,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10304,2022-09-26,1,Protests,Peaceful protest,Protesters (Thailand),Thalufah,,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10309,2022-09-30,1,Protests,Peaceful protest,Protesters (Thailand),Resistant Citizen,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10313,2022-10-01,1,Protests,Peaceful protest,Protesters (Thailand),People's Party; Thalufah; United Front of Thammasat and Demonstration; Students (Thailand); Labor Group (Thailand),,,Thailand,Bangkok,Ratchathewi,Bangkok - Ratchathewi,13.759,100.5335,1,National,0,THA
+THA10314,2022-10-03,1,Protests,Peaceful protest,Protesters (Thailand),Resistant Citizen,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10318,2022-10-09,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10322,2022-10-14,1,Protests,Peaceful protest,Protesters (Thailand),PTP: Pheu Thai Party; MFP: Move Forward Party,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10321,2022-10-13,1,Protests,Peaceful protest,Protesters (Thailand),People's Party; Students (Thailand),,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10327,2022-10-16,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10315,2022-10-06,1,Protests,Peaceful protest,Protesters (Thailand),United Front of Thammasat and Demonstration; People's Party; Thalufah; Thalugaz; Students (Thailand),,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10335,2022-10-25,1,Protests,Peaceful protest,Protesters (Thailand),Thalufah,,,Thailand,Bangkok,Sathon,Bangkok - Sathon,13.721,100.5389,1,National,0,THA
+THA10334,2022-10-25,1,Protests,Peaceful protest,Protesters (Thailand),PCPI: People's Center Protecting the Institution,,,Thailand,Bangkok,Pom Prap Sattru Phai,Bangkok - Pom Prap Sattru Phai,13.7582,100.5132,1,National,0,THA
+THA10065,2022-03-23,1,Protests,Peaceful protest,Protesters (Thailand),AI: Amnesty International,,,Thailand,Bangkok,Bang Rak,Bangkok - Bang Rak,13.7231,100.5238,1,National,0,THA
+THA10058,2022-03-16,1,Protests,Peaceful protest,Protesters (International),,,,Thailand,Bangkok,Bang Rak,Bangkok - Bang Rak,13.7231,100.5238,1,National,0,THA
+THA10053,2022-03-05,1,Protests,Peaceful protest,Protesters (Thailand),Ukrainian Group (Thailand),,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10045,2022-03-02,1,Protests,Peaceful protest,Protesters (Thailand),Ukrainian Group (Thailand),,,Thailand,Phuket,Kathu,Pa Tong,7.896,98.2966,1,Subnational-National,0,THA
+THA10046,2022-03-02,1,Protests,Peaceful protest,Protesters (Thailand),Ukrainian Group (Thailand),,,Thailand,Chiang Mai,Mueang Chiang Mai,Suthep,18.7751,98.9521,1,National,0,THA
+THA10050,2022-02-28,1,Protests,Peaceful protest,Protesters (Thailand),Ukrainian Group (Thailand); Russian Group (Thailand),,,Thailand,Phuket,Mueang Phuket,Chalong,7.8231,98.3415,1,Subnational-National,0,THA
+THA10044,2022-02-28,1,Protests,Peaceful protest,Protesters (Thailand),Ukrainian Group (Thailand),,,Thailand,Bangkok,Bang Rak,Bangkok - Bang Rak,13.7231,100.5238,1,National,0,THA
+THA10047,2022-02-27,1,Protests,Peaceful protest,Protesters (Thailand),Ukrainian Group (Thailand); Russian Group (Thailand),,,Thailand,Bangkok,Khlong Toei,Bangkok - Khlong Toei,13.718,100.5706,1,National,0,THA
+THA10048,2022-02-27,1,Protests,Peaceful protest,Protesters (Thailand),Ukrainian Group (Thailand); Russian Group (Thailand),,,Thailand,Phuket,Kathu,Pa Tong,7.896,98.2966,1,National,0,THA
+THA10049,2022-02-27,1,Protests,Peaceful protest,Protesters (Thailand),Ukrainian Group (Thailand); Russian Group (Thailand),,,Thailand,Chiang Mai,Mueang Chiang Mai,Chang Khlan,18.7765,98.9987,1,National,0,THA
+THA10037,2022-02-25,1,Protests,Peaceful protest,Protesters (Thailand),Students (Thailand); Ukrainian Group (Thailand); Women (Thailand),,,Thailand,Bangkok,Bang Rak,Bangkok - Bang Rak,13.7231,100.5238,1,National,0,THA
+THA10350,2022-11-10,1,Protests,Peaceful protest,Protesters (Thailand),Resistant Citizen,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10364,2022-11-16,1,Protests,Peaceful protest,Protesters (Thailand),People's Party; Students (Thailand),,,Thailand,Uttaradit,Mueang Uttaradit,Tha It,17.6264,100.0972,2,National,0,THA
+THA10363,2022-11-13,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Nai Mueang,14.9783,102.084,1,National,0,THA
+THA10355,2022-11-15,1,Protests,Peaceful protest,Protesters (Thailand),People's Party; Students (Thailand),,,Thailand,Chiang Mai,Mueang Chiang Mai,Suthep,18.7751,98.9521,2,National,0,THA
+THA10356,2022-11-16,1,Protests,Peaceful protest,Protesters (Thailand),People's Party; Students (Thailand); Dao Din Commoner; Thalufah; UDD: United Front for Democracy against Dictatorship,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10373,2022-11-22,1,Protests,Peaceful protest,Protesters (Thailand),PCPI: People's Center Protecting the Institution,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10372,2022-11-20,1,Protests,Peaceful protest,Protesters (Thailand),UDD: United Front for Democracy against Dictatorship,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10377,2022-11-23,1,Protests,Peaceful protest,Protesters (Thailand),P-Move: The People's Movement for a Just Society,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,3,National,0,THA
+THA10376,2022-11-23,1,Protests,Peaceful protest,Protesters (Thailand),Dao Din Commoner; Students (Thailand),,,Thailand,Khon Kaen,Mueang Khon Kaen,Nai Mueang,16.4292,102.8436,1,National,0,THA
+THA10378,2022-11-24,1,Protests,Peaceful protest,Protesters (Thailand),Thalufah,,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10381,2022-11-29,1,Protests,Peaceful protest,Protesters (Thailand),People's Party; Students (Thailand),,,Thailand,Chiang Mai,Mueang Chiang Mai,Chang Moi,18.7941,98.9986,1,National,0,THA
+THA10383,2022-11-23,1,Protests,Peaceful protest,Protesters (Thailand),P-Move: The People's Movement for a Just Society,,,Thailand,Chaiyaphum,Mueang Chaiyaphum,Nai Mueang,15.7999,102.0369,1,National,0,THA
+THA10384,2022-11-23,1,Protests,Peaceful protest,Protesters (Thailand),P-Move: The People's Movement for a Just Society,,,Thailand,Ubon Ratchathani,Mueang Ubon Ratchathani,Chaeramae,15.2615,104.8034,1,National,0,THA
+THA10385,2022-11-23,1,Protests,Peaceful protest,Protesters (Thailand),P-Move: The People's Movement for a Just Society,,,Thailand,Si Sa Ket,Mueang Si Sa Ket,Mueang Nuea,15.1215,104.3329,1,National,0,THA
+THA10386,2022-11-23,1,Protests,Peaceful protest,Protesters (Thailand),P-Move: The People's Movement for a Just Society,,,Thailand,Surat Thani,Mueang Surat Thani,Makham Tia,9.1133,99.3428,1,National,0,THA
+THA10387,2022-11-23,1,Protests,Peaceful protest,Protesters (Thailand),P-Move: The People's Movement for a Just Society,,,Thailand,Chiang Mai,Mueang Chiang Mai,Chang Phueak,18.8169,98.9633,1,National,0,THA
+THA10388,2022-11-23,1,Protests,Peaceful protest,Protesters (Thailand),P-Move: The People's Movement for a Just Society,,,Thailand,Chiang Rai,Mueang Chiang Rai,Rim Kok,19.9376,99.8952,1,National,0,THA
+THA10389,2022-11-23,1,Protests,Peaceful protest,Protesters (Thailand),P-Move: The People's Movement for a Just Society,,,Thailand,Lamphun,Mueang Lamphun,Nai Mueang,18.5762,99.0064,1,National,0,THA
+THA10390,2022-11-23,1,Protests,Peaceful protest,Protesters (Thailand),P-Move: The People's Movement for a Just Society,,,Thailand,Tak,Mueang Tak,Nong Luang,16.8994,99.1073,1,National,0,THA
+THA10400,2022-12-31,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Chiang Mai,Mueang Chiang Mai,Chang Khlan,18.7765,98.9987,1,National,0,THA
+THA10414,2022-12-25,1,Protests,Peaceful protest,Protesters (Thailand),Thalugaz; Students (Thailand),,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10025,2022-02-17,1,Protests,Peaceful protest,Protesters (Thailand),PCPI: People's Center Protecting the Institution; Former TRC: Thai Raksa Chart,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10006,2022-02-03,1,Battles,Armed clash,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023),,Thailand,Songkhla,Chana,Moo 8,6.9245,100.7637,1,National,3,THA
+THA10015,2022-02-04,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Police Forces of Thailand (2019-2023) Border Patrol Police,,Thailand,Songkhla,Chana,Moo 8,6.9245,100.7637,1,National,0,THA
+THA10074,2022-04-01,1,Strategic developments,Agreement,Government of Thailand (2019-2023),,BRN: Barisan Revolusi Nasional Melayu Patani,,Thailand,Bangkok,Phra Nakhon,Bangkok,13.7539,100.5014,3,National,0,THA
+THA10136,2022-06-10,1,Explosions/Remote violence,Remote explosive/landmine/IED,PULO: Patani United Liberation Organization,,Military Forces of Thailand (2019-2023) Thai Rangers,Military Forces of Thailand (2019-2023) Village Security Team; Military Forces of Thailand (2019-2023) Volunteer Defense Corps,Thailand,Narathiwat,Rueso,Taya,6.4742,101.5547,1,National,0,THA
+THA10145,2022-06-14,1,Protests,Protest with intervention,Protesters (Thailand),Students (Thailand); Thalugaz,Police Forces of Thailand (2019-2023) Protection and Crowds Control,,Thailand,Bangkok,Din Daeng,Bangkok - Din Daeng,13.7772,100.5623,1,National,0,THA
+THA10158,2022-06-24,1,Explosions/Remote violence,Remote explosive/landmine/IED,BRN: Barisan Revolusi Nasional Melayu Patani,RKK: Runda Kumpulan Kecil,Police Forces of Thailand (2019-2023) Explosive Ordinance Disposal,,Thailand,Pattani,Sai Buri,Kadunong,6.6459,101.5566,2,National,0,THA
+THA10172,2022-07-06,1,Battles,Armed clash,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023) Thai Rangers,,Thailand,Narathiwat,Rueso,Sawo Hile,6.4379,101.5065,1,National,2,THA
+THA10228,2022-08-11,1,Strategic developments,Disrupted weapons use,Police Forces of Thailand (2019-2023) Explosive Ordinance Disposal,,Malay Muslim Separatists (Thailand),,Thailand,Songkhla,Thepha,Krong Itam,6.902,100.9096,1,National,0,THA
+THA10251,2022-08-24,1,Battles,Armed clash,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023) Thai Rangers,,Thailand,Narathiwat,Rueso,Moo 2,6.3774,101.5085,1,National,0,THA
+THA10311,2022-10-04,1,Protests,Protest with intervention,Protesters (Thailand),Dao Din Commoner; Students (Thailand); UDD: United Front for Democracy against Dictatorship,Police Forces of Thailand (2019-2023),,Thailand,Khon Kaen,Mueang Khon Kaen,Hua Tung,16.4393,102.7736,1,National,0,THA
+THA10329,2022-10-25,1,Battles,Armed clash,Malay Muslim Separatists (Thailand),,Police Forces of Thailand (2019-2023),,Thailand,Songkhla,Thepha,Khuan Timun,6.8201,101.0249,1,National,1,THA
+THA10330,2022-10-23,1,Violence against civilians,Attack,Unidentified Armed Group (Thailand),,Civilians (Thailand),Former Government of Thailand (2019-2023),Thailand,Bangkok,Khlong Toei,Bangkok - Khlong Toei,13.718,100.5706,1,National,0,THA
+THA10349,2022-11-09,1,Protests,Protest with intervention,Protesters (Thailand),Students (Thailand),Police Forces of Thailand (2019-2023),,Thailand,Nakhon Ratchasima,Mueang Nakhon Ratchasima,Hua Thale,14.9536,102.1143,1,National,0,THA
+THA10353,2022-11-17,1,Protests,Protest with intervention,Protesters (Thailand),Labor Group (Thailand); Students (Thailand),Police Forces of Thailand (2019-2023) Protection and Crowds Control,,Thailand,Bangkok,Khlong Toei,Bangkok - Khlong Toei,13.718,100.5706,1,National,0,THA
+THA10357,2022-11-17,1,Protests,Protest with intervention,Protesters (Thailand),Dao Din Commoner; Farmers (Thailand); Korat Movement; People's Party; Students (Thailand); Thalufah; UDD: United Front for Democracy against Dictatorship,Police Forces of Thailand (2019-2023) Protection and Crowds Control,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10358,2022-11-18,1,Protests,Excessive force against protesters,Protesters (Thailand),Dao Din Commoner; Farmers (Thailand); Fishers (Thailand); Korat Movement; People's Party; Students (Thailand); Thalufah; UDD: United Front for Democracy against Dictatorship,Police Forces of Thailand (2019-2023) Protection and Crowds Control,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10756,2022-01-02,1,Strategic developments,Disrupted weapons use,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Raman,Kotabaru,6.4487,101.3437,2,Local partner-Other,0,THA
+THA10761,2022-01-07,1,Battles,Armed clash,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Khok Pho,Makrut,6.7309,101.1229,2,Local partner-Other,0,THA
+THA10773,2022-02-03,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Songkhla,Chana,Ban Na,6.9004,100.7661,2,Local partner-Other,0,THA
+THA10776,2022-02-04,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Yaha,Patae,6.4118,101.1339,2,Local partner-Other,0,THA
+THA10777,2022-02-05,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Mayo,Pado,6.6798,101.3528,2,Local partner-Other,0,THA
+THA10784,2022-02-27,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Songkhla,Saba Yoi,Than Khiri,6.5526,101.0348,2,Local partner-Other,0,THA
+THA10791,2022-03-10,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Songkhla,Chana,Ban Na,6.9004,100.7661,2,Local partner-Other,0,THA
+THA10797,2022-03-13,1,Strategic developments,Disrupted weapons use,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Krong Pinang,Krong Pinang,6.422,101.286,2,Local partner-Other,0,THA
+THA10817,2022-05-01,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Than To,Mae Wat,6.0367,101.2861,2,Local partner-Other,0,THA
+THA10818,2022-05-04,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Mayo,Pado,6.6798,101.3528,2,Local partner-Other,0,THA
+THA10826,2022-06-26,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Mayo,Pado,6.6798,101.3528,2,Local partner-Other,0,THA
+THA12166,2022-07-16,1,Battles,Armed clash,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023),,Thailand,Narathiwat,Su-Ngai Kolok,Su-Ngai Kolok,6.0297,101.9658,2,Local partner-Other,1,THA
+THA12167,2022-08-31,1,Battles,Armed clash,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023),,Thailand,Narathiwat,Rueso,Sawo,6.4297,101.4992,2,Local partner-Other,0,THA
+THA12168,2022-10-30,1,Battles,Armed clash,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023),,Thailand,Yala,Raman,Cha Kwa,6.4992,101.5376,2,Local partner-Other,0,THA
+THA12173,2022-07-06,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Rueso,Sawo,6.4297,101.4992,2,Local partner-Other,0,THA
+THA12175,2022-07-12,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Raman,Cha Kwa,6.4992,101.5376,2,Local partner-Other,0,THA
+THA12178,2022-07-17,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Su-Ngai Kolok,Su-Ngai Kolok,6.0297,101.9658,2,Local partner-Other,0,THA
+THA12182,2022-08-01,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Sai Buri,Kadunong,6.6459,101.5566,2,Local partner-Other,0,THA
+THA12187,2022-08-06,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Sai Buri,Kadunong,6.6459,101.5566,2,Local partner-Other,0,THA
+THA12191,2022-08-20,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Si Sakhon,Si Banphot,6.1681,101.5727,2,Local partner-Other,0,THA
+THA12192,2022-08-22,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Nong Chik,Bo Thong,6.7885,101.1371,2,Local partner-Other,0,THA
+THA12193,2022-08-24,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Rueso,Rueso,6.3981,101.4777,2,Local partner-Other,0,THA
+THA12195,2022-08-25,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Nong Chik,Bang Khao,6.8322,101.131,2,Local partner-Other,0,THA
+THA12197,2022-08-31,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Nong Chik,Bang Khao,6.8322,101.131,2,Local partner-Other,0,THA
+THA12201,2022-09-03,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Raman,Balo,6.4428,101.438,2,Local partner-Other,0,THA
+THA12202,2022-09-03,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Nong Chik,Bang Khao,6.8322,101.131,2,Local partner-Other,0,THA
+THA12206,2022-09-14,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Nong Chik,Bang Khao,6.8322,101.131,2,Local partner-Other,0,THA
+THA12207,2022-09-14,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Nong Chik,Bang Khao,6.8322,101.131,2,Local partner-Other,0,THA
+THA12209,2022-10-11,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Sai Buri,Kadunong,6.6459,101.5566,2,Local partner-Other,0,THA
+THA12212,2022-10-23,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Nong Chik,Bo Thong,6.7885,101.1371,2,Local partner-Other,0,THA
+THA12213,2022-10-25,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Songkhla,Thepha,Pak Bang,6.8276,101.0134,2,Local partner-Other,0,THA
+THA12214,2022-10-31,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Rueso,Rueso,6.3981,101.4777,2,Local partner-Other,0,THA
+THA12228,2022-07-31,1,Strategic developments,Disrupted weapons use,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Raman,Kalo,6.3787,101.387,2,Local partner-Other,0,THA
+THA12229,2022-07-31,1,Strategic developments,Disrupted weapons use,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Raman,Kalupang,6.4621,101.3707,2,Local partner-Other,0,THA
+THA12232,2022-08-28,1,Strategic developments,Disrupted weapons use,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Rueso,Rueso,6.3981,101.4777,2,Local partner-Other,0,THA
+THA12276,2022-08-24,1,Protests,Protest with intervention,Protesters (Thailand),,Police Forces of Thailand (2019-2023) Protection and Crowds Control,,Thailand,Chiang Mai,Mueang Chiang Mai,Chang Khlan,18.7765,98.9987,1,Local partner-Regional,0,THA
+THA9971,2022-01-07,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023) Thai Rangers,,Thailand,Pattani,Nong Chik,Bo Thong,6.7885,101.1371,2,National,0,THA
+THA9991,2022-01-12,1,Strategic developments,Agreement,Government of Thailand (2019-2023),,BRN: Barisan Revolusi Nasional Melayu Patani,,Thailand,Bangkok,Phra Nakhon,Bangkok,13.7539,100.5014,3,National,0,THA
+THA10064,2022-03-19,1,Protests,Peaceful protest,Protesters (Thailand),Ukrainian Group (Thailand); Moke Luang Rim Nam,,,Thailand,Bangkok,Bang Rak,Bangkok - Bang Rak,13.7231,100.5238,1,National,0,THA
+THA10084,2022-04-06,1,Protests,Peaceful protest,Protesters (Thailand),Moke Luang Rim Nam,,,Thailand,Bangkok,Thon Buri,Bangkok - Thon Buri,13.725,100.4851,1,National,0,THA
+THA10179,2022-07-15,1,Protests,Peaceful protest,Protesters (Thailand),Thalugaz; Students (Thailand); Moke Luang Rim Nam,,,Thailand,Bangkok,Chatuchak,Bangkok - Chatuchak,13.8289,100.5598,1,National,0,THA
+THA10240,2022-08-30,1,Protests,Peaceful protest,Protesters (Thailand),Moke Luang Rim Nam,,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10263,2022-08-21,1,Protests,Peaceful protest,Protesters (Thailand),United Front of Thammasat and Demonstration; DRG: Democracy Restoration Group; People Go Network; Four Regions Slum Network; Bad Students; Dao Din Commoner; Students (Thailand); Labor Group (Thailand); UDD: United Front for Democracy against Dictatorship; Moke Luang Rim Nam,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10341,2022-10-31,1,Protests,Peaceful protest,Protesters (Thailand),UDD: United Front for Democracy against Dictatorship; June 24 Democracy Group; PTP: Pheu Thai Party; Moke Luang Rim Nam,,,Thailand,Bangkok,Chatuchak,Bangkok - Chatuchak,13.8289,100.5598,1,National,0,THA
+THA10370,2022-11-19,1,Protests,Peaceful protest,Protesters (Thailand),Four Regions Slum Network; Moke Luang Rim Nam,,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10152,2022-06-19,1,Riots,Violent demonstration,Rioters (Thailand),,Police Forces of Thailand (2019-2023),,Thailand,Bangkok,Din Daeng,Bangkok - Din Daeng,13.7772,100.5623,1,National,0,THA
+THA10138,2022-06-11,1,Riots,Violent demonstration,Rioters (Thailand),Students (Thailand); Thalugaz; UDD: United Front for Democracy against Dictatorship,Police Forces of Thailand (2019-2023) Protection and Crowds Control,,Thailand,Bangkok,Din Daeng,Bangkok - Din Daeng,13.7772,100.5623,1,National,0,THA
+THA10140,2022-06-12,1,Riots,Violent demonstration,Rioters (Thailand),Students (Thailand); Thalugaz; UDD: United Front for Democracy against Dictatorship,Police Forces of Thailand (2019-2023) Protection and Crowds Control,,Thailand,Bangkok,Phaya Thai,Bangkok - Phaya Thai,13.78,100.5427,1,National,0,THA
+THA10132,2022-05-30,1,Protests,Peaceful protest,Protesters (Thailand),Commoners' Party; MFP: Move Forward Party; PTP: Pheu Thai Party,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10124,2022-05-24,1,Protests,Peaceful protest,Protesters (Thailand),Four Regions Slum Network; Commoners' Party,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA10149,2022-06-17,1,Protests,Peaceful protest,Protesters (Thailand),June 24 Democracy Group,,,Thailand,Bangkok,Sathon,Bangkok - Sathon,13.721,100.5389,1,National,0,THA
+THA10340,2022-11-03,1,Protests,Peaceful protest,Protesters (Thailand),Labor Group (Thailand),,,Thailand,Bangkok,Ratchathewi,Bangkok - Ratchathewi,13.759,100.5335,1,National,0,THA
+THA10159,2022-06-18,1,Protests,Peaceful protest,Protesters (Thailand),Labor Group (Thailand),,,Thailand,Bangkok,Din Daeng,Bangkok - Din Daeng,13.7772,100.5623,1,National,0,THA
+THA10354,2022-11-15,1,Protests,Peaceful protest,Protesters (Thailand),People's Party; Students (Thailand),,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10219,2022-07-31,1,Protests,Peaceful protest,Protesters (Thailand),Resistant Citizen,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10374,2022-11-22,1,Protests,Peaceful protest,Protesters (Thailand),Thalufah,,,Thailand,Bangkok,Phra Nakhon,Bangkok - Phra Nakhon,13.7583,100.4961,1,National,0,THA
+THA10155,2022-06-23,1,Protests,Peaceful protest,Protesters (Thailand),VPPD: Vocational Protection of the People for Democracy; Students (Thailand),,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National,0,THA
+THA10307,2022-09-28,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,,,Thailand,Yala,Mueang Yala,Ba-Ngoi Badae,6.5231,101.2652,1,National,0,THA
+THA10399,2022-12-29,1,Strategic developments,Disrupted weapons use,Police Forces of Thailand (2019-2023) Explosive Ordinance Disposal,,Malay Muslim Separatists (Thailand),,Thailand,Yala,Yaha,Kue Tae,6.4862,101.1481,1,National,0,THA
+THA12223,2022-12-20,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Thung Yang Daeng,Nam Dam,6.6103,101.4441,2,Local partner-Other,0,THA
+THA12239,2022-08-12,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Civilians (Thailand),,Thailand,Pattani,Sai Buri,Trobon,6.6878,101.5459,2,Local partner-Other,0,THA
+THA10202,2022-07-28,1,Violence against civilians,Attack,Unidentified Armed Group (Thailand),,Civilians (Thailand),Government of Thailand (2019-2023),Thailand,Yala,Mueang Yala,U Be,6.5472,101.1815,1,National,0,THA
+THA10769,2022-01-21,1,Strategic developments,Disrupted weapons use,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Mueang Yala,Yala,6.5218,101.1807,2,Local partner-Other,0,THA
+THA10771,2022-01-29,1,Strategic developments,Disrupted weapons use,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Mueang Yala,Yala,6.5218,101.1807,2,Local partner-Other,0,THA
+THA10785,2022-02-27,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Mueang Yala,Yala,6.5218,101.1807,2,Local partner-Other,0,THA
+THA10814,2022-03-29,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Mueang Yala,Yala,6.5218,101.1807,2,Local partner-Other,0,THA
+THA12199,2022-08-31,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Mueang Yala,Yala,6.5218,101.1807,2,Local partner-Other,0,THA
+THA12236,2022-12-22,1,Strategic developments,Disrupted weapons use,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Mueang Yala,Yala,6.5218,101.1807,2,Local partner-Other,0,THA
+THA10036,2022-02-23,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Police Forces of Thailand (2019-2023) Border Patrol Police,,Thailand,Yala,Mueang Yala,Tase,6.6341,101.2719,1,National,0,THA
+THA10087,2022-04-10,1,Violence against civilians,Attack,Unidentified Armed Group (Thailand),,Civilians (Thailand),Muslim Group (Thailand); Teachers (Thailand),Thailand,Pattani,Nong Chik,Kubae Kiyae,6.7107,101.2626,1,National,1,THA
+THA10402,2022-12-31,1,Strategic developments,Looting/property destruction,Malay Muslim Separatists (Thailand),,Civilians (Thailand),,Thailand,Pattani,Nong Chik,Thung Pho,6.7792,101.2166,1,National,0,THA
+THA10764,2022-01-13,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Khok Pho,Khuan Nori,6.705,101.1832,2,Local partner-Other,0,THA
+THA10765,2022-01-13,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Nong Chik,Lipa Sa-ngo,6.8003,101.2277,2,Local partner-Other,0,THA
+THA10767,2022-01-13,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Nong Chik,Pulo Puyo,6.7843,101.1931,2,Local partner-Other,0,THA
+THA10770,2022-01-24,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Nong Chik,Lipa Sa-ngo,6.8003,101.2277,2,Local partner-Other,0,THA
+THA10778,2022-02-09,1,Strategic developments,Disrupted weapons use,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Mueang Yala,Tase,6.6341,101.2719,2,Local partner-Other,0,THA
+THA10802,2022-03-13,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Pattani,Nong Chik,Lipa Sa-ngo,6.8003,101.2277,2,Local partner-Other,0,THA
+THA10804,2022-03-13,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Pattani,Yarang,Mo Mawi,6.6642,101.3054,2,Local partner-Other,0,THA
+THA10821,2022-05-13,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Yarang,Yarang,6.7598,101.2933,2,Local partner-Other,0,THA
+THA10823,2022-06-01,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Nong Chik,Dato,6.7161,101.2433,2,Local partner-Other,0,THA
+THA12198,2022-08-31,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Khok Pho,Na Ket,6.7473,101.1553,2,Local partner-Other,0,THA
+THA12218,2022-11-14,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Khok Pho,Na Ket,6.7473,101.1553,2,Local partner-Other,0,THA
+THA9974,2022-01-11,1,Violence against civilians,Attack,Malay Muslim Separatists (Thailand),,Civilians (Thailand),,Thailand,Pattani,Nong Chik,Pia,6.7184,101.2597,2,National,0,THA
+THA10214,2022-07-31,1,Strategic developments,Looting/property destruction,BRN: Barisan Revolusi Nasional Melayu Patani,,Civilians (Thailand),,Thailand,Yala,Krong Pinang,Buera-Ngae,6.4339,101.2836,1,National,0,THA
+THA10281,2022-08-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,BRN: Barisan Revolusi Nasional Melayu Patani,,,,Thailand,Yala,Yaha,Phong Luka,6.4875,101.1494,1,National,0,THA
+THA10229,2022-08-08,1,Strategic developments,Disrupted weapons use,Police Forces of Thailand (2019-2023) Explosive Ordinance Disposal,,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Panare,Panare,6.8655,101.4899,1,National,0,THA
+THA10368,2022-11-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Police Forces of Thailand (2019-2023),,Thailand,Pattani,Panare,Khato,6.8691,101.4808,1,National,0,THA
+THA10403,2022-12-31,1,Strategic developments,Looting/property destruction,Malay Muslim Separatists (Thailand),,Civilians (Thailand),,Thailand,Pattani,Panare,Tha Kham,6.8367,101.4817,1,National,0,THA
+THA12238,2022-12-31,1,Strategic developments,Looting/property destruction,Malay Muslim Separatists (Thailand),,Civilians (Thailand),,Thailand,Pattani,Panare,Tha Kham,6.8367,101.4817,2,Local partner-Other,0,THA
+THA10391,2022-12-03,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,,,Thailand,Songkhla,Sadao,Tha Pho Ok,6.7775,100.4444,1,National-International,0,THA
+THA10379,2022-11-28,1,Protests,Peaceful protest,Protesters (Thailand),People's Party; Students (Thailand),,,Thailand,Bangkok,Khlong Toei,Bangkok - Khlong Toei,13.718,100.5706,1,National-International,0,THA
+THA10308,2022-09-30,1,Protests,Peaceful protest,Protesters (Thailand),People's Party; Students (Thailand); Thalufah; UDD: United Front for Democracy against Dictatorship,,,Thailand,Bangkok,Pathum Wan,Bangkok - Pathum Wan,13.7364,100.5239,1,National-International,0,THA
+THA12226,2022-12-31,1,Violence against civilians,Attack,Malay Muslim Separatists (Thailand),,Civilians (Thailand),,Thailand,Yala,Bannang Sata,Bannang Sata,6.2663,101.2646,2,Local partner-Other,0,THA
+THA10418,2022-12-15,1,Explosions/Remote violence,Grenade,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023) Thai Rangers,,Thailand,Yala,Bannang Sata,Ngo Kapo,6.2545,101.2548,1,National,0,THA
+THA12210,2022-10-11,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Krong Pinang,Huai Krathing,6.3422,101.2558,2,Local partner-Other,0,THA
+THA10267,2022-08-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,BRN: Barisan Revolusi Nasional Melayu Patani,,,,Thailand,Yala,Bannang Sata,Bannang Sata,6.2663,101.2646,1,National,0,THA
+THA10212,2022-07-31,1,Strategic developments,Looting/property destruction,BRN: Barisan Revolusi Nasional Melayu Patani,,Civilians (Thailand),,Thailand,Yala,Yaha,Kho Ro Ra Mae,6.3759,101.1668,1,National,0,THA
+THA10216,2022-07-31,1,Strategic developments,Looting/property destruction,BRN: Barisan Revolusi Nasional Melayu Patani,,Civilians (Thailand),,Thailand,Yala,Bannang Sata,Ngo Kapo,6.2545,101.2548,1,National,0,THA
+THA10213,2022-07-31,1,Strategic developments,Looting/property destruction,BRN: Barisan Revolusi Nasional Melayu Patani,,Civilians (Thailand),,Thailand,Yala,Yaha,Si Ro,6.3355,101.194,1,National,0,THA
+THA10811,2022-03-26,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Bannang Sata,Bannang Sata,6.2663,101.2646,2,Local partner-Other,0,THA
+THA10792,2022-03-13,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Yala,Bannang Sata,Bannang Sata,6.2663,101.2646,2,Local partner-Other,0,THA
+THA10056,2022-03-10,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023) Volunteer Defense Corps,Civilians (Thailand); Military Forces of Thailand (2019-2023) Thai Rangers,Thailand,Yala,Bannang Sata,Ngo Kapo,6.2545,101.2548,1,National,0,THA
+THA10831,2022-06-29,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Songkhla,Thepha,Lam Phlai,6.7108,100.9168,2,Local partner-Other,0,THA
+THA12216,2022-11-10,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Songkhla,Thepha,Tha Muang,6.7429,101.0004,2,Local partner-Other,0,THA
+THA10042,2022-02-23,1,Battles,Armed clash,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023) Volunteer Defense Corps,,Thailand,Narathiwat,Chanae,Ya O,6.1466,101.695,1,National,1,THA
+THA10062,2022-03-12,1,Battles,Armed clash,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023) Thai Rangers,,Thailand,Narathiwat,Chanae,Chanae,6.0783,101.6963,1,National,0,THA
+THA10135,2022-06-08,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023) Thai Rangers,,Thailand,Narathiwat,Ra-Ngae,Bo Ngo,6.1703,101.7214,1,National,0,THA
+THA10248,2022-08-25,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Civilians (Thailand),,Thailand,Narathiwat,Chanae,Ai So,6.0342,101.5971,1,National,0,THA
+THA10260,2022-08-22,1,Battles,Armed clash,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023) Thai Rangers,,Thailand,Narathiwat,Chanae,Chanae,6.0783,101.6963,1,National,1,THA
+THA10269,2022-08-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,BRN: Barisan Revolusi Nasional Melayu Patani,,,,Thailand,Narathiwat,Chanae,Chanae,6.0783,101.6963,1,National,0,THA
+THA10271,2022-08-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,BRN: Barisan Revolusi Nasional Melayu Patani,,,,Thailand,Narathiwat,Chanae,Dusongyo,6.1367,101.6395,1,National,0,THA
+THA10293,2022-09-12,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023) Thai Rangers,Civilians (Thailand),Thailand,Narathiwat,Si Sakhon,Ai Kuleng,6.1123,101.5812,1,National,0,THA
+THA10324,2022-10-16,1,Strategic developments,Disrupted weapons use,Police Forces of Thailand (2019-2023) Explosive Ordinance Disposal,,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Chanae,Baluka,6.1336,101.7318,1,National,0,THA
+THA10328,2022-10-21,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023) Thai Rangers,Former Military Forces of Thailand (2019-2023) Volunteer Defense Corps,Thailand,Narathiwat,Chanae,Ku Mung,6.0451,101.6477,1,National,0,THA
+THA10343,2022-11-07,1,Battles,Armed clash,Malay Muslim Separatists (Thailand),,Police Forces of Thailand (2019-2023),Military Forces of Thailand (2019-2023),Thailand,Pattani,Nong Chik,Don Rak Charang,6.8534,101.2085,1,National,2,THA
+THA10365,2022-11-13,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Police Forces of Thailand (2019-2023),Civilians (Thailand),Thailand,Narathiwat,Chanae,Ai Yuerut,6.035,101.6657,1,National,2,THA
+THA10366,2022-11-15,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Civilians (Thailand),,Thailand,Pattani,Mueang Pattani,Bana,6.876,101.2784,1,National,0,THA
+THA10371,2022-11-19,1,Battles,Armed clash,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023) Thai Rangers,,Thailand,Narathiwat,Chanae,Ailakho,5.9806,101.5712,1,National,1,THA
+THA10757,2022-01-03,1,Battles,Armed clash,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Ra-Ngae,Bo Ngo,6.1703,101.7214,2,Local partner-Other,0,THA
+THA10758,2022-01-04,1,Battles,Armed clash,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Ra-Ngae,Bo Ngo,6.1703,101.7214,2,Local partner-Other,0,THA
+THA10760,2022-01-05,1,Battles,Armed clash,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Ra-Ngae,Bo Ngo,6.1703,101.7214,2,Local partner-Other,0,THA
+THA10762,2022-01-07,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Nong Chik,Don Rak,6.8411,101.2103,2,Local partner-Other,0,THA
+THA10779,2022-02-12,1,Strategic developments,Disrupted weapons use,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Mueang Pattani,Bana,6.876,101.2784,2,Local partner-Other,0,THA
+THA10783,2022-02-19,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Mueang Pattani,Ano Ru,6.8667,101.2581,2,Local partner-Other,0,THA
+THA10788,2022-03-03,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Nong Chik,Don Rak,6.8411,101.2103,2,Local partner-Other,0,THA
+THA10790,2022-03-08,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Mueang Pattani,Puyut,6.8119,101.2667,2,Local partner-Other,0,THA
+THA10805,2022-03-13,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Pattani,Yaring,Laem Pho,6.9313,101.302,2,Local partner-Other,0,THA
+THA12176,2022-07-14,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Ra-Ngae,Bo Ngo,6.1703,101.7214,2,Local partner-Other,0,THA
+THA12177,2022-07-16,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Yarang,Sadawa,6.8197,101.3136,2,Local partner-Other,0,THA
+THA12194,2022-08-25,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Mueang Pattani,Sabarang,6.8709,101.2495,2,Local partner-Other,0,THA
+THA12204,2022-09-06,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Mueang Pattani,Pattani,6.8681,101.25,2,Local partner-Other,0,THA
+THA12208,2022-09-22,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Nong Chik,Tuyong,6.8286,101.1766,2,Local partner-Other,0,THA
+THA12215,2022-11-07,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Nong Chik,Don Rak,6.8411,101.2103,2,Local partner-Other,0,THA
+THA12219,2022-11-20,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Chanae,Chang Phueak,6.0055,101.5766,2,Local partner-Other,0,THA
+THA9968,2022-01-03,1,Battles,Armed clash,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023) Thai Rangers,,Thailand,Narathiwat,Ra-Ngae,La Pae,6.1919,101.7333,1,National,1,THA
+THA9984,2022-01-18,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Police Forces of Thailand (2019-2023),,Thailand,Narathiwat,Chanae,Chanae,6.0783,101.6963,2,National,0,THA
+THA10005,2022-01-28,1,Battles,Armed clash,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023) Thai Rangers,,Thailand,Narathiwat,Ra-Ngae,Ba Ngo Ra Na,6.3413,101.6618,1,National,2,THA
+THA10247,2022-08-26,1,Strategic developments,Disrupted weapons use,Police Forces of Thailand (2019-2023) Explosive Ordinance Disposal,,BRN: Barisan Revolusi Nasional Melayu Patani,,Thailand,Narathiwat,Yi-Ngo,Bumae,6.4006,101.7083,1,National,0,THA
+THA10822,2022-05-27,1,Strategic developments,Looting/property destruction,Malay Muslim Separatists (Thailand),,Civilians (Thailand),,Thailand,Narathiwat,Yi-Ngo,Lubo Buesa,6.4328,101.7304,2,Local partner-Other,0,THA
+THA10827,2022-06-27,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Bacho,Lubosawo,6.4936,101.6741,2,Local partner-Other,0,THA
+THA12169,2022-11-21,1,Battles,Armed clash,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023),,Thailand,Narathiwat,Yi-Ngo,Lubo Baya,6.418,101.6672,2,Local partner-Other,0,THA
+THA12183,2022-08-01,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Yi-Ngo,Lubo Buesa,6.4328,101.7304,2,Local partner-Other,0,THA
+THA12184,2022-08-01,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Yi-Ngo,Lubo Buesa,6.4328,101.7304,2,Local partner-Other,0,THA
+THA12235,2022-11-13,1,Strategic developments,Disrupted weapons use,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Ra-Ngae,Maruebo Tok,6.3468,101.6604,2,Local partner-Other,0,THA
+THA10014,2022-01-28,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Civilians (Thailand),,Thailand,Yala,Mueang Yala,Sateng,6.5455,101.2837,1,National,0,THA
+THA10016,2022-01-30,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,,,Thailand,Yala,Mueang Yala,Sateng,6.5455,101.2837,1,National,0,THA
+THA10099,2022-04-23,1,Violence against civilians,Attack,Unidentified Armed Group (Thailand),,Civilians (Thailand),,Thailand,Yala,Mueang Yala,Sateng,6.5455,101.2837,1,National,1,THA
+THA10171,2022-07-08,1,Battles,Armed clash,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023),Police Forces of Thailand (2019-2023),Thailand,Yala,Raman,Mai Kaen,6.5093,101.3652,1,National,2,THA
+THA10199,2022-07-26,1,Battles,Armed clash,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023),,Thailand,Yala,Mueang Yala,Poyani,6.5566,101.3051,1,National,2,THA
+THA10211,2022-07-31,1,Strategic developments,Looting/property destruction,BRN: Barisan Revolusi Nasional Melayu Patani,,Civilians (Thailand),,Thailand,Yala,Raman,Mai Kaen,6.5093,101.3652,1,National,0,THA
+THA10274,2022-08-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,BRN: Barisan Revolusi Nasional Melayu Patani,,,,Thailand,Pattani,Thung Yang Daeng,Nat Kho Mit,6.6209,101.4314,1,National,0,THA
+THA10766,2022-01-13,1,Strategic developments,Disrupted weapons use,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Raman,Noen Ngam,6.5048,101.3497,2,Local partner-Other,0,THA
+THA10768,2022-01-14,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Yarang,Khao Tum,6.5964,101.3353,2,Local partner-Other,0,THA
+THA10775,2022-02-04,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Yarang,Khao Tum,6.5964,101.3353,2,Local partner-Other,0,THA
+THA10789,2022-03-04,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Mueang Yala,Sateng Nok,6.5478,101.3058,2,Local partner-Other,0,THA
+THA12174,2022-07-08,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Raman,Noen Ngam,6.5048,101.3497,2,Local partner-Other,0,THA
+THA12189,2022-08-15,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Mueang Yala,Sateng Nok,6.5478,101.3058,2,Local partner-Other,0,THA
+THA12225,2022-12-30,1,Violence against civilians,Attack,Malay Muslim Separatists (Thailand),,Civilians (Thailand),,Thailand,Yala,Mueang Yala,Sateng Nok,6.5478,101.3058,2,Local partner-Other,0,THA
+THA10147,2022-06-15,1,Protests,Protest with intervention,Protesters (Thailand),Students (Thailand); Thalugaz,Police Forces of Thailand (2019-2023) Protection and Crowds Control,,Thailand,Bangkok,Din Daeng,Bangkok - Din Daeng,13.7772,100.5623,1,National,0,THA
+THA10249,2022-08-24,1,Protests,Peaceful protest,Protesters (Thailand),People's Party; Students (Thailand); Thalugaz; UDD: United Front for Democracy against Dictatorship,,,Thailand,Bangkok,Dusit,Bangkok - Dusit,13.7775,100.5197,1,National,0,THA
+THA12185,2022-08-01,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Waeng,Lochut,5.8284,101.8534,2,Local partner-Other,0,THA
+THA10032,2022-02-18,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Police Forces of Thailand (2019-2023) Border Patrol Police,,Thailand,Yala,Raman,Kayuboko,6.4827,101.4133,2,National,0,THA
+THA10073,2022-03-31,1,Violence against civilians,Attack,Unidentified Armed Group (Thailand),,Civilians (Thailand),,Thailand,Yala,Mueang Yala,Budi,6.491,101.3101,1,National,0,THA
+THA10170,2022-07-05,1,Battles,Armed clash,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023),Police Forces of Thailand (2019-2023),Thailand,Pattani,Mueang Pattani,Khlong Maning,6.8498,101.3019,1,National,1,THA
+THA10174,2022-07-08,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,,,Thailand,Yala,Raman,Kayuboko,6.4827,101.4133,1,National,0,THA
+THA10272,2022-08-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,BRN: Barisan Revolusi Nasional Melayu Patani,,,,Thailand,Yala,Raman,Kayuboko,6.4827,101.4133,1,National,0,THA
+THA10273,2022-08-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,BRN: Barisan Revolusi Nasional Melayu Patani,,,,Thailand,Yala,Raman,Talat Lang,6.4742,101.4346,1,National,0,THA
+THA10781,2022-02-17,1,Strategic developments,Disrupted weapons use,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Yaring,Talo Kapo,6.888,101.397,2,Local partner-Other,0,THA
+THA10782,2022-02-18,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023),,Thailand,Yala,Raman,Kayuboko,6.4827,101.4133,2,Local partner-Other,0,THA
+THA12171,2022-07-05,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Mueang Pattani,Khlong Maning,6.8498,101.3019,2,Local partner-Other,0,THA
+THA10139,2022-06-11,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023) Thai Rangers,,Thailand,Yala,Yaha,Ba-ngoi Sinae,6.5243,101.1551,1,National,0,THA
+THA10208,2022-07-31,1,Strategic developments,Looting/property destruction,BRN: Barisan Revolusi Nasional Melayu Patani,,Civilians (Thailand),,Thailand,Yala,Mueang Yala,Lam Mai,6.5822,101.2072,1,National,0,THA
+THA10277,2022-08-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,BRN: Barisan Revolusi Nasional Melayu Patani,,,,Thailand,Yala,Mueang Yala,Niang,6.5298,101.1977,1,National,0,THA
+THA10285,2022-09-12,1,Violence against civilians,Attack,Unidentified Armed Group (Thailand),,Civilians (Thailand),,Thailand,Yala,Mueang Yala,Sakho,6.5592,101.2634,1,National,2,THA
+THA10755,2022-01-01,1,Strategic developments,Disrupted weapons use,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Mueang Yala,Lam Mai,6.5822,101.2072,2,Local partner-Other,0,THA
+THA10798,2022-03-13,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Yala,Mueang Yala,Lidon,6.5491,101.1812,2,Local partner-Other,0,THA
+THA10799,2022-03-13,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Yala,Mueang Yala,Phron,6.5596,101.2261,2,Local partner-Other,0,THA
+THA10801,2022-03-13,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Yala,Mueang Yala,Yupo,6.5932,101.2664,2,Local partner-Other,0,THA
+THA12224,2022-12-29,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Mueang Yala,Tha Sap,6.5434,101.2502,2,Local partner-Other,0,THA
+THA12237,2022-12-26,1,Strategic developments,Disrupted weapons use,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Mueang Yala,Phron,6.5596,101.2261,2,Local partner-Other,0,THA
+THA10022,2022-02-10,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Civilians (Thailand),Police Forces of Thailand (2019-2023) Border Patrol Police,Thailand,Yala,Bannang Sata,Khuean Bang Lang,6.176,101.3311,1,National,0,THA
+THA10070,2022-03-30,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Police Forces of Thailand (2019-2023),,Thailand,Yala,Bannang Sata,Bi Yo,6.2148,101.2828,1,National,2,THA
+THA10161,2022-06-27,1,Battles,Armed clash,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023) Thai Rangers,,Thailand,Yala,Bannang Sata,Khuean Bang Lang,6.176,101.3311,1,National,0,THA
+THA10323,2022-10-15,1,Violence against civilians,Attack,Malay Muslim Separatists (Thailand),,Civilians (Thailand),,Thailand,Yala,Bannang Sata,Sanam Bin,6.1858,101.2612,1,National,1,THA
+THA10413,2022-12-24,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,,,Thailand,Yala,Than To,Than To,6.1676,101.2191,1,National,0,THA
+THA10759,2022-01-04,1,Strategic developments,Disrupted weapons use,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Than To,Than To,6.1676,101.2191,2,Local partner-Other,0,THA
+THA10803,2022-03-13,1,Strategic developments,Disrupted weapons use,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Than To,Than To,6.1676,101.2191,2,Local partner-Other,0,THA
+THA10078,2022-03-26,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023) Thai Rangers,,Thailand,Narathiwat,Si Sakhon,Choeng Khiri,6.2791,101.5736,1,National,0,THA
+THA10122,2022-05-25,1,Battles,Armed clash,BRN: Barisan Revolusi Nasional Melayu Patani,,Military Forces of Thailand (2019-2023) Volunteer Defense Corps,Military Forces of Thailand (2019-2023) Thai Rangers,Thailand,Narathiwat,Tak Bai,Taba,6.2396,102.0815,1,National-International,0,THA
+THA10203,2022-07-25,1,Battles,Armed clash,Unidentified Armed Group (Thailand),,Military Forces of Thailand (2019-2023) Thai Rangers,,Thailand,Narathiwat,Cho-Airong,Yaning,6.2471,101.8198,1,National,0,THA
+THA10205,2022-08-03,1,Violence against civilians,Attack,Malay Muslim Separatists (Thailand),,Civilians (Thailand),,Thailand,Narathiwat,Su-Ngai Padi,Ba Tu Bue Nae,6.0838,101.8469,1,National,2,THA
+THA10207,2022-08-03,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Police Forces of Thailand (2019-2023),,Thailand,Narathiwat,Su-Ngai Padi,La Lae Lu Rat,6.0567,101.8463,1,National,0,THA
+THA10224,2022-08-06,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Civilians (Thailand),,Thailand,Narathiwat,Tak Bai,Khok Yang,6.1934,102.0329,1,National,1,THA
+THA10230,2022-08-08,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,,,Thailand,Narathiwat,Mueang Narathiwat,Khok Khian,6.4909,101.7585,1,National,0,THA
+THA10231,2022-09-06,1,Strategic developments,Disrupted weapons use,Police Forces of Thailand (2019-2023) Explosive Ordinance Disposal,,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Tak Bai,Pu La Che Mu Do,6.2845,102.0151,1,National,0,THA
+THA10255,2022-08-23,1,Battles,Armed clash,Malay Muslim Separatists (Thailand),,Police Forces of Thailand (2019-2023),,Thailand,Narathiwat,Cho-Airong,Chuap,6.2666,101.8333,1,National,0,THA
+THA10261,2022-08-22,1,Battles,Armed clash,Malay Muslim Separatists (Thailand),,Police Forces of Thailand (2019-2023),,Thailand,Narathiwat,Tak Bai,Ko Yao,6.2675,102.0513,1,National,1,THA
+THA10270,2022-08-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,BRN: Barisan Revolusi Nasional Melayu Patani,,,,Thailand,Narathiwat,Cho-Airong,Chuap,6.2666,101.8333,1,National,0,THA
+THA10279,2022-08-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,BRN: Barisan Revolusi Nasional Melayu Patani,,Civilians (Thailand),,Thailand,Narathiwat,Si Sakhon,Talo,6.2344,101.5035,1,National,0,THA
+THA10280,2022-08-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,BRN: Barisan Revolusi Nasional Melayu Patani,,,,Thailand,Narathiwat,Si Sakhon,Kholo Kawe,6.2217,101.4941,1,National,0,THA
+THA10282,2022-08-15,1,Strategic developments,Disrupted weapons use,Police Forces of Thailand (2019-2023) Explosive Ordinance Disposal,,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Su-Ngai Padi,Khok Ko,6.1416,101.8697,1,National,0,THA
+THA10283,2022-08-15,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Police Forces of Thailand (2019-2023) Explosive Ordinance Disposal,Civilians (Thailand); Military Forces of Thailand (2019-2023) Thai Rangers,Thailand,Narathiwat,Su-Ngai Padi,Khok Ko,6.1416,101.8697,1,National,1,THA
+THA10301,2022-09-23,1,Strategic developments,Disrupted weapons use,Police Forces of Thailand (2019-2023) Explosive Ordinance Disposal,,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Su-Ngai Padi,Khok Ko,6.1416,101.8697,1,National,0,THA
+THA10333,2022-10-23,1,Explosions/Remote violence,Grenade,Malay Muslim Separatists (Thailand),,,,Thailand,Narathiwat,Tak Bai,Taba,6.2396,102.0815,1,National,0,THA
+THA10375,2022-11-22,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Police Forces of Thailand (2019-2023),Civilians (Thailand),Thailand,Narathiwat,Mueang Narathiwat,Bang Nak,6.4241,101.8228,1,National,1,THA
+THA10780,2022-02-12,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Cho-Airong,Bukit,6.183,101.8284,2,Local partner-Other,0,THA
+THA12211,2022-10-20,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Rueso,Batong,6.3341,101.4486,2,Local partner-Other,0,THA
+THA12217,2022-11-14,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Su-Ngai Padi,Su-Ngai Padi,6.1617,101.9353,2,Local partner-Other,0,THA
+THA12222,2022-11-29,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Tak Bai,Sala Mai,6.2861,102.0034,2,Local partner-Other,0,THA
+THA12227,2022-07-20,1,Strategic developments,Disrupted weapons use,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Tak Bai,Ko Sathon,6.2188,102.0601,2,Local partner-Other,0,THA
+THA12230,2022-08-11,1,Strategic developments,Disrupted weapons use,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Su-Ngai Padi,Sa Ko,6.0105,101.8533,2,Local partner-Other,0,THA
+THA12240,2022-10-31,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Civilians (Thailand),,Thailand,Narathiwat,Su-Ngai Padi,Sa Ko,6.0105,101.8533,2,Local partner-Other,0,THA
+THA10004,2022-01-27,1,Battles,Armed clash,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023) Thai Rangers,,Thailand,Narathiwat,Ra-Ngae,To Itae,6.1727,101.7657,1,National,0,THA
+THA10294,2022-09-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023) Thai Rangers,Civilians (Thailand),Thailand,Narathiwat,Cho-Airong,To Leng,6.2023,101.8182,1,National,0,THA
+THA9973,2022-01-10,1,Violence against civilians,Attack,Malay Muslim Separatists (Thailand),,Civilians (Thailand),,Thailand,Narathiwat,Mueang Narathiwat,Kaluwo,6.3382,101.8727,2,National,0,THA
+THA10245,2022-08-27,1,Battles,Armed clash,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023) Thai Rangers,,Thailand,Narathiwat,Su-Ngai Padi,Tue Ra,6.0052,101.8325,1,National,0,THA
+THA10787,2022-03-03,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Songkhla,Saba Yoi,Saba Yoi,6.6223,100.9604,2,Local partner-Other,0,THA
+THA12233,2022-09-10,1,Strategic developments,Disrupted weapons use,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Songkhla,Saba Yoi,Pian,6.6366,101.0063,2,Local partner-Other,0,THA
+THA12234,2022-10-10,1,Strategic developments,Disrupted weapons use,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Songkhla,Saba Yoi,Saba Yoi,6.6223,100.9604,2,Local partner-Other,0,THA
+THA10063,2022-03-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023) Thai Rangers,,Thailand,Pattani,Mayo,Krawa,6.763,101.4438,1,National,1,THA
+THA10316,2022-10-03,1,Strategic developments,Disrupted weapons use,Police Forces of Thailand (2019-2023) Explosive Ordinance Disposal,,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Mayo,Muang Wan,6.7394,101.3443,1,National,0,THA
+THA10367,2022-11-15,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,,,Thailand,Pattani,Yaring,Bo Muang,6.8318,101.3792,1,National,0,THA
+THA10401,2022-12-31,1,Battles,Armed clash,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023),,Thailand,Pattani,Yaring,Po Phumae,6.7768,101.3487,1,National,0,THA
+THA10404,2022-12-31,1,Strategic developments,Looting/property destruction,Malay Muslim Separatists (Thailand),,Civilians (Thailand),,Thailand,Pattani,Mayo,Palat,6.7545,101.4797,1,National,0,THA
+THA10405,2022-12-31,1,Strategic developments,Looting/property destruction,Malay Muslim Separatists (Thailand),,Police Forces of Thailand (2019-2023),,Thailand,Pattani,Mayo,La Nga,6.7356,101.4759,1,National,0,THA
+THA10796,2022-03-13,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Pattani,Mayo,Mayo,6.7186,101.4098,2,Local partner-Other,0,THA
+THA10806,2022-03-13,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Pattani,Yaring,Saban,6.8188,101.4427,2,Local partner-Other,0,THA
+THA10808,2022-03-16,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Mayo,Sakam,6.7293,101.4469,2,Local partner-Other,0,THA
+THA10809,2022-03-18,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Mayo,Krawa,6.763,101.4438,2,Local partner-Other,0,THA
+THA10812,2022-03-26,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Mayo,Sakam,6.7293,101.4469,2,Local partner-Other,0,THA
+THA10824,2022-06-21,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Mayo,La Nga,6.7356,101.4759,2,Local partner-Other,0,THA
+THA10830,2022-06-29,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Mayo,La Nga,6.7356,101.4759,2,Local partner-Other,0,THA
+THA12231,2022-08-17,1,Strategic developments,Disrupted weapons use,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Mayo,La Nga,6.7356,101.4759,2,Local partner-Other,0,THA
+THA10276,2022-08-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,BRN: Barisan Revolusi Nasional Melayu Patani,,,,Thailand,Narathiwat,Bacho,Ton Sai,6.6074,101.63,1,National,0,THA
+THA10317,2022-10-04,1,Battles,Armed clash,Malay Muslim Separatists (Thailand),,Police Forces of Thailand (2019-2023),,Thailand,Pattani,Sai Buri,Chong Maeo,6.6691,101.6322,1,National,0,THA
+THA10763,2022-01-12,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Thung Yang Daeng,Paku,6.6298,101.4776,2,Local partner-Other,0,THA
+THA10772,2022-02-02,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Bacho,Paluka Samo,6.607,101.6133,2,Local partner-Other,0,THA
+THA10786,2022-03-02,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Thung Yang Daeng,Paku,6.6298,101.4776,2,Local partner-Other,0,THA
+THA10793,2022-03-13,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Narathiwat,Bacho,Bare Nuea,6.5744,101.6319,2,Local partner-Other,0,THA
+THA10810,2022-03-25,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Sai Buri,Manang Dalam,6.6504,101.6016,2,Local partner-Other,0,THA
+THA10815,2022-03-29,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,,,Thailand,Pattani,Sai Buri,Manang Dalam,6.6504,101.6016,2,Local partner-Other,0,THA
+THA10819,2022-05-11,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Pattani,Sai Buri,Tabing,6.6806,101.5905,2,Local partner-Other,0,THA
+THA10825,2022-06-23,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Raman,Kero,6.5415,101.5365,2,Local partner-Other,0,THA
+THA12172,2022-07-05,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Raman,Kero,6.5415,101.5365,2,Local partner-Other,0,THA
+THA12179,2022-07-27,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Raman,Kero,6.5415,101.5365,2,Local partner-Other,0,THA
+THA12180,2022-07-28,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Kapho,Plong Hoi,6.634,101.5218,2,Local partner-Other,0,THA
+THA12181,2022-07-28,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Raman,Kero,6.5415,101.5365,2,Local partner-Other,0,THA
+THA12186,2022-08-02,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Raman,Kero,6.5415,101.5365,2,Local partner-Other,0,THA
+THA12188,2022-08-15,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Raman,Kero,6.5415,101.5365,2,Local partner-Other,0,THA
+THA12190,2022-08-20,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Raman,Kero,6.5415,101.5365,2,Local partner-Other,0,THA
+THA12200,2022-09-02,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Sai Buri,Tabing,6.6806,101.5905,2,Local partner-Other,0,THA
+THA12203,2022-09-06,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Yala,Raman,Kero,6.5415,101.5365,2,Local partner-Other,0,THA
+THA12205,2022-09-07,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Kapho,Karubi,6.5735,101.5555,2,Local partner-Other,0,THA
+THA12221,2022-11-26,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Thung Yang Daeng,Paku,6.6298,101.4776,2,Local partner-Other,0,THA
+THA9982,2022-01-20,1,Battles,Armed clash,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023) Thai Rangers,,Thailand,Pattani,Sai Buri,Lalo,6.6617,101.6232,2,National-International,2,THA
+THA10035,2022-02-23,1,Explosions/Remote violence,Grenade,Malay Muslim Separatists (Thailand),,Police Forces of Thailand (2019-2023),,Thailand,Pattani,Sai Buri,Taluban,6.6919,101.6378,1,National,0,THA
+THA10206,2022-08-02,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Military Forces of Thailand (2019-2023) Village Security Team,,Thailand,Pattani,Mai Kaen,Kra Chut,6.6589,101.6609,1,National,0,THA
+THA10298,2022-09-20,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Police Forces of Thailand (2019-2023),,Thailand,Pattani,Mai Kaen,Moo 4,6.6108,101.6641,1,National,1,THA
+THA10795,2022-03-13,1,Protests,Peaceful protest,Protesters (Thailand),,,,Thailand,Narathiwat,Bacho,Kayomati,6.5405,101.644,2,Local partner-Other,0,THA
+THA10813,2022-03-28,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Bacho,Kayomati,6.5405,101.644,2,Local partner-Other,0,THA
+THA10828,2022-06-28,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Narathiwat,Bacho,Bare Tai,6.5399,101.693,2,Local partner-Other,0,THA
+THA10829,2022-06-29,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Mai Kaen,Donsai,6.5947,101.6988,2,Local partner-Other,0,THA
+THA12170,2022-07-02,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Mai Kaen,Donsai,6.5947,101.6988,2,Local partner-Other,0,THA
+THA12196,2022-08-31,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Mai Kaen,Donsai,6.5947,101.6988,2,Local partner-Other,0,THA
+THA10088,2022-04-15,1,Explosions/Remote violence,Remote explosive/landmine/IED,PULO: Patani United Liberation Organization,,Police Forces of Thailand (2019-2023) Explosive Ordinance Disposal,Civilians (Thailand),Thailand,Pattani,Sai Buri,Paen,6.745,101.5486,1,National,1,THA
+THA10151,2022-06-20,1,Explosions/Remote violence,Remote explosive/landmine/IED,Malay Muslim Separatists (Thailand),,Police Forces of Thailand (2019-2023),,Thailand,Pattani,Panare,Khuan,6.7539,101.4972,2,National,0,THA
+THA10774,2022-02-03,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Panare,Pho Ming,6.7874,101.548,2,Local partner-Other,0,THA
+THA12220,2022-11-22,1,Strategic developments,Arrests,Military Forces of Thailand (2019-2023),,Malay Muslim Separatists (Thailand),,Thailand,Pattani,Sai Buri,Pase Yawo,6.7231,101.6014,2,Local partner-Other,0,THA

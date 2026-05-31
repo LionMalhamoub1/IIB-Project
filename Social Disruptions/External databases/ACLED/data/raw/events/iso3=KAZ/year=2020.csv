@@ -1,0 +1,862 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+KAZ400,2020-01-03,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan); Labor Group (Kazakhstan),,,Kazakhstan,Kyzylorda,Baikonur,Baikonur,45.6289,63.3079,1,International,0,KAZ
+KAZ418,2020-01-15,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ421,2020-01-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Kostanay,Kostanay,Kostanay,53.2138,63.6225,1,New media,0,KAZ
+KAZ424,2020-01-18,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,New media,0,KAZ
+KAZ417,2020-01-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,Subnational,0,KAZ
+KAZ420,2020-01-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Zhanaozen,Zhanaozen,43.3477,52.8477,1,National,0,KAZ
+KAZ422,2020-01-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Almaty,Enbekshikazak,Esik,43.3596,77.4601,1,International,0,KAZ
+KAZ425,2020-01-18,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Pavlodar,Pavlodar,Pavlodar,52.2955,76.9633,1,International,0,KAZ
+KAZ413,2020-01-10,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Zhanaozen,Zhanaozen,43.3477,52.8477,1,International,0,KAZ
+KAZ430,2020-01-19,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Atyrau,Atyrau,Atyrau,47.1071,51.9083,1,Subnational,0,KAZ
+KAZ428,2020-01-18,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ431,2020-01-19,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Zhanaozen,Zhanaozen,43.3477,52.8477,1,New media,0,KAZ
+KAZ443,2020-01-22,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Zhanaozen,Zhanaozen,43.3477,52.8477,1,International,0,KAZ
+KAZ426,2020-01-18,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,International,0,KAZ
+KAZ429,2020-01-19,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,National,0,KAZ
+KAZ415,2020-01-08,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Tole bi,Lenger,42.1834,69.884,2,New media,0,KAZ
+KAZ449,2020-01-26,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Atyrau,Atyrau,Atyrau,47.1071,51.9083,1,New media,0,KAZ
+KAZ465,2020-01-31,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,Subnational,0,KAZ
+KAZ453,2020-01-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Mangystau,Zhanaozen,Zhanaozen,43.3477,52.8477,1,National,0,KAZ
+KAZ452,2020-01-26,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ469,2020-01-31,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,North Kazakhstan,Petropavl,Petropavl,54.8727,69.1452,1,International,0,KAZ
+KAZ463,2020-01-31,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,National,0,KAZ
+KAZ462,2020-01-31,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ484,2020-02-05,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ491,2020-02-08,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Zhambyl,Korday,Masanchi,42.9261,75.306,2,International,0,KAZ
+KAZ488,2020-02-07,1,Riots,Mob violence,Rioters (Kazakhstan),,Rioters (Kazakhstan),Dungan Ethnic Group (Kazakhstan); Muslim Group (Kazakhstan),Kazakhstan,Zhambyl,Korday,Masanchi,42.9261,75.306,1,New media-National,10,KAZ
+KAZ501,2020-02-08,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media-National,0,KAZ
+KAZ502,2020-02-12,2,Riots,Mob violence,Rioters (Kazakhstan),,Civilians (Kazakhstan),,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ495,2020-02-08,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Zhambyl,Shu,Shu,43.6082,73.7598,1,New media,0,KAZ
+KAZ494,2020-02-07,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Qaraghandy,Karagandy,Karaganda,49.8132,73.1071,1,International,0,KAZ
+KAZ493,2020-02-07,1,Riots,Mob violence,Rioters (Kazakhstan),,Rioters (Kazakhstan),Dungan Ethnic Group (Kazakhstan); Muslim Group (Kazakhstan),Kazakhstan,Zhambyl,Korday,Sortobe,42.8662,75.25,1,National,0,KAZ
+KAZ492,2020-02-07,1,Riots,Mob violence,Rioters (Kazakhstan),,Rioters (Kazakhstan),Dungan Ethnic Group (Kazakhstan); Muslim Group (Kazakhstan),Kazakhstan,Zhambyl,Korday,Sortobe,42.8662,75.25,2,National,0,KAZ
+KAZ503,2020-02-08,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Zhanaozen,Zhanaozen,43.3477,52.8477,1,New media,0,KAZ
+KAZ511,2020-02-05,1,Riots,Mob violence,Rioters (Kazakhstan),Dungan Ethnic Group (Kazakhstan); Muslim Group (Kazakhstan),Rioters (Kazakhstan),,Kazakhstan,Zhambyl,Korday,Masanchi,42.9261,75.306,2,National-International,0,KAZ
+KAZ522,2020-02-22,1,Protests,Protest with intervention,Protesters (Kazakhstan),DPK: Democratic Party of Kazakhstan,Police Forces of Kazakhstan (2019-),,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National-International,0,KAZ
+KAZ517,2020-02-20,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Aqtobe,Temir,Kenkiyak,48.607,57.1131,1,New media,0,KAZ
+KAZ520,2020-02-20,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Tarbagatay,Akzhar,47.5817,83.6878,1,New media,0,KAZ
+KAZ514,2020-02-19,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,International,0,KAZ
+KAZ513,2020-02-18,1,Protests,Peaceful protest,Protesters (Kazakhstan),DPK: Democratic Party of Kazakhstan,,,Kazakhstan,Mangystau,Zhanaozen,Zhanaozen,43.3477,52.8477,1,International,0,KAZ
+KAZ526,2020-02-22,1,Protests,Protest with intervention,Protesters (Kazakhstan),,Police Forces of Kazakhstan (2019-),,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,International,0,KAZ
+KAZ510,2020-02-17,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Kazakhstan),,Civilians (Kazakhstan),DPK: Democratic Party of Kazakhstan,Kazakhstan,Mangystau,Zhanaozen,Zhanaozen,43.3477,52.8477,1,National,0,KAZ
+KAZ528,2020-02-22,1,Protests,Protest with intervention,Protesters (Kazakhstan),DVK: Democratic Choice of Kazakhstan,Police Forces of Kazakhstan (2019-),,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,New media-National,0,KAZ
+KAZ531,2020-02-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,Subnational,0,KAZ
+KAZ542,2020-02-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,International,0,KAZ
+KAZ551,2020-02-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,International,0,KAZ
+KAZ538,2020-02-25,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,International,0,KAZ
+KAZ541,2020-02-26,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Qaraghandy,Karagandy,Karaganda,49.8132,73.1071,1,International,0,KAZ
+KAZ540,2020-02-26,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,International,0,KAZ
+KAZ548,2020-02-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,International,0,KAZ
+KAZ543,2020-02-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,National,0,KAZ
+KAZ539,2020-02-26,1,Protests,Peaceful protest,Protesters (Kazakhstan),Journalists (Kazakhstan),,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,National,0,KAZ
+KAZ535,2020-02-25,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ523,2020-02-22,1,Strategic developments,Arrests,Police Forces of Kazakhstan (2019-),,Civilians (Kazakhstan),DPK: Democratic Party of Kazakhstan,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National-International,0,KAZ
+KAZ558,2020-03-01,1,Protests,Protest with intervention,Protesters (Kazakhstan),,Police Forces of Kazakhstan (2019-),,Kazakhstan,Atyrau,Atyrau,Atyrau,47.1071,51.9083,1,Subnational,0,KAZ
+KAZ552,2020-03-01,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,New media,0,KAZ
+KAZ560,2020-03-01,1,Protests,Peaceful protest,Protesters (Kazakhstan),DPK: Democratic Party of Kazakhstan,,,Kazakhstan,Mangystau,Zhanaozen,Zhanaozen,43.3477,52.8477,1,New media,0,KAZ
+KAZ553,2020-03-01,1,Protests,Protest with intervention,Protesters (Kazakhstan),,Police Forces of Kazakhstan (2019-),,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,International,0,KAZ
+KAZ564,2020-03-05,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,International,0,KAZ
+KAZ561,2020-03-02,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,West Kazakhstan,Oral,Zachagansk,51.1839,51.3106,1,National,0,KAZ
+KAZ554,2020-03-01,1,Protests,Protest with intervention,Protesters (Kazakhstan),Journalists (Kazakhstan),Police Forces of Kazakhstan (2019-),,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ568,2020-03-08,1,Protests,Peaceful protest,Protesters (Kazakhstan),KazFem: Feminist Initiative Group of Kazakhstan; Women (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National-International,0,KAZ
+KAZ577,2020-03-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ569,2020-03-11,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ572,2020-03-11,1,Protests,Protest with intervention,Protesters (Kazakhstan),,Police Forces of Kazakhstan (2019-),,Kazakhstan,Atyrau,Atyrau,Atyrau,47.1071,51.9083,1,New media,0,KAZ
+KAZ580,2020-03-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Saryagash,Saryagash,41.4518,69.1702,1,New media,0,KAZ
+KAZ573,2020-03-12,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,International,0,KAZ
+KAZ570,2020-03-11,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Terekti,Akzhayik,50.7767,51.2305,1,National,0,KAZ
+KAZ585,2020-03-20,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ582,2020-03-14,2,Protests,Peaceful protest,Protesters (Kazakhstan),DPK: Democratic Party of Kazakhstan,,,Kazakhstan,Mangystau,Zhanaozen,Zhanaozen,43.3477,52.8477,1,New media,0,KAZ
+KAZ581,2020-03-15,1,Protests,Peaceful protest,Protesters (Kazakhstan),Civilians (Kazakhstan),,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,Subnational,0,KAZ
+KAZ583,2020-03-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ586,2020-03-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Pavlodar,Pavlodar,Pavlodar,52.2955,76.9633,1,National,0,KAZ
+KAZ591,2020-03-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Atyrau,Makhambet,Makhambet,47.6724,51.5865,1,Subnational,0,KAZ
+KAZ588,2020-03-24,2,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Maktaaral,Myrzakent,40.6669,68.5406,2,New media,0,KAZ
+KAZ592,2020-03-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Atyrau,Zhylyoy,Tengiz,46.1615,53.4227,1,New media,0,KAZ
+KAZ587,2020-03-24,1,Protests,Peaceful protest,Protesters (Kyrgyzstan),Labor Group (Kyrgyzstan),,,Kazakhstan,Zhambyl,Zhambyl,Grodikovo,42.8213,71.4918,2,International,0,KAZ
+KAZ598,2020-03-30,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,New media,0,KAZ
+KAZ596,2020-03-30,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Kyzylorda,Kazaly,Kazaly,45.7623,62.1014,1,New media,0,KAZ
+KAZ602,2020-04-07,1,Protests,Peaceful protest,Protesters (Kazakhstan),Farmers (Kazakhstan),,,Kazakhstan,Atyrau,Inder,Inderbor,48.5601,51.7484,2,Subnational,0,KAZ
+KAZ606,2020-04-11,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Atyrau,Atyrau,Atyrau,47.1071,51.9083,1,Subnational,0,KAZ
+KAZ603,2020-04-07,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Qaraghandy,Shakhtinsk,Shakhtinsk,49.7072,72.6045,1,New media,0,KAZ
+KAZ604,2020-04-10,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,International,0,KAZ
+KAZ607,2020-04-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,New media,0,KAZ
+KAZ608,2020-04-12,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Kostanay,Euliekol,Kushmurun,52.447,64.6209,1,New media,0,KAZ
+KAZ611,2020-04-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Qaraghandy,Karagandy,Karaganda,49.8132,73.1071,1,New media,0,KAZ
+KAZ616,2020-04-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Eyteke bi,Karabutak,49.956,60.1148,1,New media,0,KAZ
+KAZ618,2020-04-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Atyrau,Makat,Dossor,47.5214,52.9816,1,New media,0,KAZ
+KAZ614,2020-04-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan); Labor Group (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ609,2020-04-09,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Kostanay,Euliekol,Kushmurun,52.447,64.6209,1,National,0,KAZ
+KAZ612,2020-04-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Kostanay,Kostanay,Kostanay,53.2138,63.6225,1,National,0,KAZ
+KAZ620,2020-04-19,1,Riots,Violent demonstration,Rioters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Atyrau,Zhylyoy,Tengiz,46.1615,53.4227,1,Subnational,0,KAZ
+KAZ622,2020-04-23,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Turkistan,Turkistan,Turkistan,43.3009,68.2622,1,New media,0,KAZ
+KAZ624,2020-04-26,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ625,2020-04-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ626,2020-05-01,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,National,0,KAZ
+KAZ628,2020-05-02,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Atyrau,Zhylyoy,Tengiz,46.1615,53.4227,1,Subnational,0,KAZ
+KAZ634,2020-05-08,2,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Maktaaral,Myrzakent,40.6669,68.5406,1,New media,0,KAZ
+KAZ627,2020-05-03,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Maktaaral,Orgebas,40.6353,68.4404,1,International,0,KAZ
+KAZ630,2020-05-05,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Turkistan,Maktaaral,Atakent,40.8445,68.5056,1,International,0,KAZ
+KAZ645,2020-05-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Kostanay,Kostanay,Kostanay,53.2138,63.6225,1,New media,0,KAZ
+KAZ641,2020-05-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ648,2020-05-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Mangystau,Zhanaozen,Zhanaozen,43.3477,52.8477,1,New media,0,KAZ
+KAZ647,2020-05-15,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,International,0,KAZ
+KAZ635,2020-05-11,1,Protests,Peaceful protest,Protesters (Kazakhstan),Farmers (Kazakhstan),,,Kazakhstan,Turkistan,Maktaaral,Myrzakent,40.6669,68.5406,1,International,0,KAZ
+KAZ637,2020-05-11,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqmola,Tselinograd,Karazhar,51.078,71.2271,1,International,0,KAZ
+KAZ639,2020-05-12,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,National,0,KAZ
+KAZ642,2020-05-13,1,Riots,Violent demonstration,Rioters (Kazakhstan),,Police Forces of Kazakhstan (2019-),,Kazakhstan,Pavlodar,Aksu,Kalkaman,51.9537,76.0163,1,National,0,KAZ
+KAZ663,2020-05-26,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Atyrau,Atyrau,Atyrau,47.1071,51.9083,1,Subnational,0,KAZ
+KAZ657,2020-05-24,2,Protests,Peaceful protest,Protesters (Kazakhstan),KP: Party of the Street,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ668,2020-05-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Mangystau,Mangystau,Kalamkas,45.3714,51.9434,2,New media,0,KAZ
+KAZ667,2020-05-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Mangystau,Tupkaragan,Karazhanbas,45.1951,51.296,1,New media,0,KAZ
+KAZ661,2020-05-25,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,Subnational,0,KAZ
+KAZ650,2020-05-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,Subnational,0,KAZ
+KAZ658,2020-05-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ649,2020-05-18,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,International,0,KAZ
+KAZ665,2020-05-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Shilisay,50.4843,57.4514,1,International,0,KAZ
+KAZ664,2020-05-26,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Zhambyl,Uzynagash,43.2202,76.3189,1,International,0,KAZ
+KAZ653,2020-05-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Zhambyl,Taraz,Taraz,42.883,71.3898,1,International,0,KAZ
+KAZ666,2020-05-11,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,National,0,KAZ
+KAZ662,2020-05-26,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,National,0,KAZ
+KAZ659,2020-05-25,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ673,2020-06-05,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Atyrau,Zhylyoy,Kulsary,46.9609,54.0133,1,New media-Subnational,0,KAZ
+KAZ670,2020-06-03,1,Protests,Peaceful protest,Protesters (Kyrgyzstan),,,,Kazakhstan,Atyrau,Atyrau,Atyrau,47.1071,51.9083,1,Subnational,0,KAZ
+KAZ671,2020-06-03,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,New media,0,KAZ
+KAZ672,2020-06-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Munaily,Kyzyltobe,43.6855,51.3374,1,National,0,KAZ
+KAZ679,2020-06-06,1,Protests,Protest with intervention,Protesters (Kazakhstan),,Police Forces of Kazakhstan (2019-),,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,International,0,KAZ
+KAZ678,2020-06-06,1,Protests,Protest with intervention,Protesters (Kazakhstan),,Police Forces of Kazakhstan (2019-),,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,National,0,KAZ
+KAZ691,2020-06-10,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Atyrau,Zhylyoy,Kulsary,46.9609,54.0133,1,Subnational,0,KAZ
+KAZ692,2020-06-10,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,New media,0,KAZ
+KAZ681,2020-06-06,1,Protests,Protest with intervention,Protesters (Kazakhstan),Women (Kazakhstan); Labor Group (Kazakhstan),Police Forces of Kazakhstan (2019-),,Kazakhstan,Kostanay,Kostanay,Kostanay,53.2138,63.6225,1,National,0,KAZ
+KAZ683,2020-06-08,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Kyzylorda,Kyzylorda,Makhanbetov,44.7618,65.4785,1,International,0,KAZ
+KAZ687,2020-06-09,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,International,0,KAZ
+KAZ694,2020-06-12,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,International,0,KAZ
+KAZ685,2020-06-08,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,National,0,KAZ
+KAZ676,2020-06-06,1,Protests,Protest with intervention,Protesters (Kazakhstan),DPK: Democratic Party of Kazakhstan; KP: Party of the Street; BLM: Black Lives Matter,Police Forces of Kazakhstan (2019-),,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National-International,0,KAZ
+KAZ701,2020-06-20,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Zhambyl,Taraz,Taraz,42.883,71.3898,1,New media-National,0,KAZ
+KAZ695,2020-06-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),KP: Party of the Street,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,International,0,KAZ
+KAZ700,2020-06-16,1,Riots,Mob violence,Rioters (Kazakhstan),,Rioters (Kazakhstan),Uyghur Ethnic Group (Kazakhstan),Kazakhstan,Almaty,Uygyr,Chundzha,43.5356,79.4658,1,International,0,KAZ
+KAZ699,2020-06-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,National,0,KAZ
+KAZ698,2020-06-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,National,0,KAZ
+KAZ702,2020-06-22,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media-National,0,KAZ
+KAZ705,2020-06-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Mangystau,Tupkaragan,North Buzachi,45.1684,51.6938,1,National,0,KAZ
+KAZ706,2020-06-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Maktaaral,Myrzakent,40.6669,68.5406,1,International,0,KAZ
+KAZ714,2020-07-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Zhanaozen,Zhanaozen,43.3477,52.8477,1,New media,0,KAZ
+KAZ712,2020-07-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),Farmers (Kazakhstan),,,Kazakhstan,Mangystau,Munaily,Batyr,43.6292,51.4045,1,National,0,KAZ
+KAZ710,2020-07-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,International,0,KAZ
+KAZ722,2020-07-24,1,Riots,Violent demonstration,Rioters (Kazakhstan),,Police Forces of Kazakhstan (2019-),,Kazakhstan,Qaraghandy,Satbayev,Satpaev,48.1581,67.5122,1,New media-International,0,KAZ
+KAZ720,2020-07-23,1,Riots,Violent demonstration,Rioters (Kazakhstan),,Police Forces of Kazakhstan (2019-),,Kazakhstan,Qaraghandy,Satbayev,Satpaev,48.1581,67.5122,1,National,0,KAZ
+KAZ721,2020-07-24,2,Protests,Peaceful protest,Protesters (Kazakhstan),KP: Party of the Street,,,Kazakhstan,Aqmola,Tselinograd,Talapker,51.247,71.1528,1,New media,0,KAZ
+KAZ717,2020-07-20,1,Protests,Peaceful protest,Protesters (Kazakhstan),KP: Party of the Street; DVK: Democratic Choice of Kazakhstan,,,Kazakhstan,Aqmola,Tselinograd,Talapker,51.247,71.1528,1,New media,0,KAZ
+KAZ719,2020-07-21,1,Riots,Mob violence,Rioters (Kazakhstan),,Police Forces of Kazakhstan (2019-),,Kazakhstan,Turkistan,Turkistan,Shornak,43.3987,68.0189,1,International,0,KAZ
+KAZ716,2020-07-20,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Mangystau,Zhanaozen,Zhanaozen,43.3477,52.8477,1,International,0,KAZ
+KAZ718,2020-07-22,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,International,0,KAZ
+KAZ764,2020-08-16,1,Riots,Mob violence,Rioters (Kazakhstan),,Rioters (Kazakhstan),Chechen Ethnic Group (Kazakhstan),Kazakhstan,Almaty,Enbekshikazak,Baydibek bi,43.5134,77.6921,1,National-International,0,KAZ
+KAZ772,2020-08-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Turkistan,Turkistan,Turkistan,43.3009,68.2622,1,New media,0,KAZ
+KAZ751,2020-08-10,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,New media,0,KAZ
+KAZ786,2020-08-22,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ816,2020-09-01,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,2,New media,0,KAZ
+KAZ824,2020-09-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ803,2020-08-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,2,New media,0,KAZ
+KAZ766,2020-08-17,2,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ770,2020-08-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,2,New media,0,KAZ
+KAZ747,2020-08-09,2,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Semey,Kholodny Kliuch,50.3549,80.3106,1,New media,0,KAZ
+KAZ828,2020-09-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,New media,0,KAZ
+KAZ758,2020-08-12,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Almaty,Taldykorgan,Taldykorgan,45.0166,78.3833,1,National,0,KAZ
+KAZ817,2020-09-01,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,New media,0,KAZ
+KAZ807,2020-08-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,New media,0,KAZ
+KAZ830,2020-09-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,New media,0,KAZ
+KAZ727,2020-08-03,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Aqmola,Burabay,Burabay,53.0828,70.309,1,New media,0,KAZ
+KAZ774,2020-08-18,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Enbekshikazak,Baydibek bi,43.5134,77.6921,1,New media,0,KAZ
+KAZ794,2020-08-25,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Qaraghandy,Karagandy,Karaganda,49.8132,73.1071,1,National,0,KAZ
+KAZ740,2020-08-06,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,North Kazakhstan,Petropavl,Petropavl,54.8727,69.1452,1,National,0,KAZ
+KAZ778,2020-08-19,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ725,2020-08-03,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ805,2020-08-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),Farmers (Kazakhstan),,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ755,2020-08-11,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Zhambyl,Taraz,Taraz,42.883,71.3898,1,National,0,KAZ
+KAZ738,2020-08-05,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Atyrau,Atyrau,Zhana-Talap,46.9937,51.812,1,National,0,KAZ
+KAZ823,2020-09-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ739,2020-08-06,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Karatal,Kainar,45.206,78.0868,1,National,0,KAZ
+KAZ801,2020-08-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ802,2020-08-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ753,2020-08-10,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Almaty,Taldykorgan,Taldykorgan,45.0166,78.3833,1,National,0,KAZ
+KAZ788,2020-08-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ800,2020-08-26,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Qaraghandy,Temirtau,Temirtau,50.0549,72.9646,1,National,0,KAZ
+KAZ726,2020-08-03,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Atyrau,Atyrau,Atyrau,47.1071,51.9083,1,National,0,KAZ
+KAZ762,2020-08-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ815,2020-09-01,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Almaty,Enbekshikazak,Esik,43.3596,77.4601,1,National,0,KAZ
+KAZ793,2020-08-25,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ731,2020-08-03,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,National,0,KAZ
+KAZ767,2020-08-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ735,2020-08-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Saryagash,Saryagash,41.4518,69.1702,1,National,0,KAZ
+KAZ761,2020-08-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ792,2020-08-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Turkistan,Turkistan,Turkistan,43.3009,68.2622,1,National,0,KAZ
+KAZ744,2020-08-07,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Almaty,Taldykorgan,Taldykorgan,45.0166,78.3833,1,National,0,KAZ
+KAZ768,2020-08-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Atyrau,Atyrau,Atyrau,47.1071,51.9083,1,National,0,KAZ
+KAZ742,2020-08-06,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Kyzylorda,Zhanakorgan,Zhanakorgan,43.9082,67.2446,1,National,0,KAZ
+KAZ814,2020-09-01,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ732,2020-08-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ810,2020-08-30,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Mertok,Kumsay,50.7017,56.6101,1,Subnational,0,KAZ
+KAZ765,2020-08-16,2,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqmola,Tselinograd,Talapker,51.247,71.1528,1,New media,0,KAZ
+KAZ796,2020-08-25,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,New media,0,KAZ
+KAZ771,2020-08-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Zhambyl,Taraz,Taraz,42.883,71.3898,1,New media,0,KAZ
+KAZ829,2020-09-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Zhambyl,Taraz,Taraz,42.883,71.3898,1,New media,0,KAZ
+KAZ736,2020-08-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Mangystau,Zhanaozen,Zhanaozen,43.3477,52.8477,1,New media,0,KAZ
+KAZ812,2020-08-31,1,Riots,Violent demonstration,Rioters (Kazakhstan),,Police Forces of Kazakhstan (2019-),,Kazakhstan,Turkistan,Maktaaral,Zhetisay,40.7735,68.3245,1,New media,0,KAZ
+KAZ737,2020-08-05,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ811,2020-08-31,1,Protests,Peaceful protest,Protesters (Kazakhstan),KP: Party of the Street,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ809,2020-08-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Balkash,Bakanas,44.8072,76.2753,2,New media,0,KAZ
+KAZ757,2020-08-12,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Kostanay,Kostanay,Kostanay,53.2138,63.6225,1,National,0,KAZ
+KAZ746,2020-08-08,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqmola,Tselinograd,Talapker,51.247,71.1528,1,International,0,KAZ
+KAZ787,2020-08-22,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,International,0,KAZ
+KAZ780,2020-08-19,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Zhambyl,Taraz,Taraz,42.883,71.3898,1,International,0,KAZ
+KAZ773,2020-08-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Zhanaozen,Zhanaozen,43.3477,52.8477,1,International,0,KAZ
+KAZ818,2020-09-02,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,North Kazakhstan,Akkayin,Astrakhanka,54.5112,69.2323,1,International,0,KAZ
+KAZ741,2020-08-06,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,National,0,KAZ
+KAZ797,2020-08-25,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,National,0,KAZ
+KAZ804,2020-08-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,National,0,KAZ
+KAZ756,2020-08-12,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ842,2020-09-10,1,Protests,Peaceful protest,Protesters (Kazakhstan),Fishers (Kazakhstan),,,Kazakhstan,Atyrau,Atyrau,Damba,46.9562,51.7456,1,Subnational,0,KAZ
+KAZ838,2020-09-09,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Turkistan,Saryagash,Kurkeles,41.4699,69.1324,1,National,0,KAZ
+KAZ835,2020-09-07,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ843,2020-09-11,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Talgar,Kerbulak,43.935,77.5977,1,National,0,KAZ
+KAZ837,2020-09-09,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ845,2020-09-12,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,2,New media,0,KAZ
+KAZ841,2020-09-10,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Almaty,Taldykorgan,Taldykorgan,45.0166,78.3833,1,New media,0,KAZ
+KAZ833,2020-09-07,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Qaraghandy,Karagandy,Karaganda,49.8132,73.1071,1,International,0,KAZ
+KAZ831,2020-09-05,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqmola,Tselinograd,Karazhar,51.078,71.2271,1,International,0,KAZ
+KAZ769,2020-08-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Tole bi,Lenger,42.1834,69.884,1,International,0,KAZ
+KAZ1399,2020-09-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,North Kazakhstan,Petropavl,Petropavl,54.8727,69.1452,1,New media,0,KAZ
+KAZ1389,2020-09-12,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Atyrau,Zhylyoy,Kulsary,46.9609,54.0133,1,Subnational,0,KAZ
+KAZ1398,2020-09-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Atyrau,Zhylyoy,Kulsary,46.9609,54.0133,1,Subnational,0,KAZ
+KAZ1239,2020-02-07,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1374,2020-07-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1361,2020-07-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),KP: Party of the Street,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1222,2020-01-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,New media,0,KAZ
+KAZ1216,2020-01-21,1,Riots,Mob violence,Rioters (Kazakhstan),,Police Forces of Kazakhstan (2019-),,Kazakhstan,East Kazakhstan,Zaysan,Zaysan,47.4671,84.872,1,New media,0,KAZ
+KAZ1283,2020-04-18,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,New media,0,KAZ
+KAZ1225,2020-01-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,New media,0,KAZ
+KAZ1252,2020-02-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,New media,0,KAZ
+KAZ1238,2020-02-05,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Taskala,Taskala,51.1085,50.2896,1,New media,0,KAZ
+KAZ1274,2020-03-26,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1248,2020-02-20,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Zaysan,Zaysan,47.4671,84.872,1,New media,0,KAZ
+KAZ1221,2020-01-23,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,New media,0,KAZ
+KAZ1229,2020-01-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,New media,0,KAZ
+KAZ1328,2020-06-15,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1382,2020-07-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,New media,0,KAZ
+KAZ1259,2020-03-03,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,New media,0,KAZ
+KAZ1300,2020-05-19,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Qaraghandy,Aktogay,Saryshaghan,46.1178,73.6096,2,National,0,KAZ
+KAZ1217,2020-01-23,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1226,2020-01-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ1245,2020-02-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Almaty,Taldykorgan,Taldykorgan,45.0166,78.3833,1,National,0,KAZ
+KAZ1340,2020-06-23,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Turkistan,Kazygurt,Kazygurt,41.7594,69.3824,1,National,0,KAZ
+KAZ1384,2020-07-30,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1375,2020-07-27,1,Protests,Protest with intervention,Protesters (Kazakhstan),Women (Kazakhstan),Police Forces of Kazakhstan (2019-),,Kazakhstan,Turkistan,Arys,Arys,42.4338,68.8098,1,National,0,KAZ
+KAZ1299,2020-05-18,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,National,0,KAZ
+KAZ1364,2020-07-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1290,2020-04-30,1,Protests,Peaceful protest,Protesters (Kazakhstan),Farmers (Kazakhstan),,,Kazakhstan,Qaraghandy,Bukar Zhyrau,Doskey,49.8592,73.2596,1,National,0,KAZ
+KAZ1309,2020-05-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Turkistan,Arys,Arys,42.4338,68.8098,1,National,0,KAZ
+KAZ1312,2020-05-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1313,2020-05-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Saryagash,Darbaza,41.5661,69.0837,1,National,0,KAZ
+KAZ1319,2020-06-02,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Sayram,Kasymbek Datka,42.4825,69.632,1,National,0,KAZ
+KAZ1410,2020-09-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Maktaaral,Myrzakent,40.6669,68.5406,1,National,0,KAZ
+KAZ1326,2020-06-10,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Turkistan,Tole bi,Lenger,42.1834,69.884,1,National,0,KAZ
+KAZ1329,2020-06-15,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Munaily,Batyr,43.6292,51.4045,1,National,0,KAZ
+KAZ1215,2020-01-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Saryagash,Birtilek,41.3427,68.9223,1,National,0,KAZ
+KAZ1413,2020-09-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Kyzylorda,Zhanakorgan,Zhanakorgan,43.9082,67.2446,1,National,0,KAZ
+KAZ1339,2020-06-23,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ1302,2020-05-20,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ1344,2020-06-26,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1345,2020-06-26,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Uygyr,Kyrgyzsay,43.3325,79.4806,1,National,0,KAZ
+KAZ1228,2020-01-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Zhambyl,Taraz,Taraz,42.883,71.3898,1,National,0,KAZ
+KAZ1348,2020-07-03,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Kyzylorda,Kazaly,Ayteke Bi,45.8436,62.1524,1,National,0,KAZ
+KAZ1236,2020-02-05,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Atyrau,Makat,Maqat,47.6489,53.3463,1,National,0,KAZ
+KAZ1357,2020-07-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,North Kazakhstan,Petropavl,Petropavl,54.8727,69.1452,1,National,0,KAZ
+KAZ1237,2020-02-05,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Almaty,Taldykorgan,Taldykorgan,45.0166,78.3833,1,National,0,KAZ
+KAZ1291,2020-04-30,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Zhambyl,Taraz,Taraz,42.883,71.3898,1,National,0,KAZ
+KAZ1359,2020-07-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Kyzyljar,50.3253,57.3984,1,National,0,KAZ
+KAZ1362,2020-07-20,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1324,2020-06-08,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Atyrau,Atyrau,Ak-Zhayik,47.0664,51.8713,1,National,0,KAZ
+KAZ1365,2020-07-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Qaraghandy,Bukar Zhyrau,Asyl,49.8859,72.5774,1,National,0,KAZ
+KAZ1367,2020-07-22,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1288,2020-04-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1251,2020-02-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,National,0,KAZ
+KAZ1405,2020-09-15,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Qaraghandy,Karagandy,Karaganda,49.8132,73.1071,1,National,0,KAZ
+KAZ1261,2020-03-06,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,National,0,KAZ
+KAZ1383,2020-07-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1265,2020-03-12,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Enbekshikazak,Almaly,43.4012,77.5242,1,National,0,KAZ
+KAZ1311,2020-05-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ1272,2020-03-20,1,Protests,Peaceful protest,Protesters (Kazakhstan),Muslim Group (Kazakhstan),,,Kazakhstan,Mangystau,Zhanaozen,Zhanaozen,43.3477,52.8477,1,National,0,KAZ
+KAZ1318,2020-06-02,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Qaraghandy,Karagandy,Karaganda,49.8132,73.1071,1,National,0,KAZ
+KAZ1279,2020-04-07,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Akshat,50.3994,57.2574,1,National,0,KAZ
+KAZ1286,2020-04-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),Farmers (Kazakhstan),,,Kazakhstan,East Kazakhstan,Urzhar,Koktal,46.4573,81.8473,1,National,0,KAZ
+KAZ1381,2020-07-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Zhambyl,Taraz,Taraz,42.883,71.3898,1,National,0,KAZ
+KAZ1249,2020-02-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,2,National,0,KAZ
+KAZ1331,2020-06-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1334,2020-06-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Zhanaozen,Zhanaozen,43.3477,52.8477,1,National,0,KAZ
+KAZ1293,2020-05-12,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Kyzylorda,Shieli,Kodamanov,44.1706,66.8171,1,National,0,KAZ
+KAZ1336,2020-06-18,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Tole bi,Lenger,42.1834,69.884,1,National,0,KAZ
+KAZ1230,2020-01-30,1,Protests,Peaceful protest,Protesters (Kazakhstan),Farmers (Kazakhstan),,,Kazakhstan,Zhambyl,Merke,Oital,42.9053,73.2699,1,National,0,KAZ
+KAZ1301,2020-05-19,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,National,0,KAZ
+KAZ1305,2020-05-22,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1308,2020-05-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ1376,2020-07-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqmola,Kokshetau,Kokshetau,53.278,69.357,1,National,0,KAZ
+KAZ1418,2020-09-18,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1235,2020-02-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,North Kazakhstan,Ayyrtau,Saumalkol,53.2918,68.1037,1,National,0,KAZ
+KAZ1419,2020-09-18,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1370,2020-07-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Tulkibas,Keltemashat,42.47,70.0279,1,National,0,KAZ
+KAZ1322,2020-06-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),Farmers (Kazakhstan),,,Kazakhstan,Almaty,Taldykorgan,Erkin,45.0292,78.419,1,National,0,KAZ
+KAZ1267,2020-03-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),Farmers (Kazakhstan),,,Kazakhstan,Zhambyl,Turar Ryskulov,Kulan,42.9102,72.7094,1,National,0,KAZ
+KAZ1353,2020-07-09,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,North Kazakhstan,Petropavl,Petropavl,54.8727,69.1452,1,National,0,KAZ
+KAZ1325,2020-06-08,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1379,2020-07-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1342,2020-06-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),Farmers (Kazakhstan),,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ1333,2020-06-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Qaraghandy,Karagandy,Karaganda,49.8132,73.1071,1,National,0,KAZ
+KAZ1409,2020-09-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1360,2020-07-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Saryagash,Saryagash,41.4518,69.1702,1,National,0,KAZ
+KAZ1241,2020-02-10,1,Protests,Peaceful protest,Protesters (Kazakhstan),Students (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1338,2020-06-19,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Zhambyl,Taraz,Taraz,42.883,71.3898,2,National,0,KAZ
+KAZ1400,2020-09-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Zhambyl,Sarysu,Saudakent,43.7354,69.9233,1,National,0,KAZ
+KAZ1415,2020-09-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Enbekshikazak,Teskensu,43.5483,77.8701,1,National,0,KAZ
+KAZ1224,2020-01-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Turkistan,Turkistan,Turkistan,43.3009,68.2622,1,National,0,KAZ
+KAZ1264,2020-03-12,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ1387,2020-07-30,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,East Kazakhstan,Zyryan,Serebryansk,49.6846,83.2916,1,National,0,KAZ
+KAZ1240,2020-02-10,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ1289,2020-04-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1234,2020-02-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Turkistan,Kentau,Kentau,43.5128,68.5025,1,National,0,KAZ
+KAZ1310,2020-05-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Zhambyl,Taraz,Taraz,42.883,71.3898,1,National,0,KAZ
+KAZ1358,2020-07-15,1,Protests,Peaceful protest,Protesters (Kazakhstan),Farmers (Kazakhstan),,,Kazakhstan,Turkistan,Baydibek,Shakpak,43.201,69.3657,1,National,0,KAZ
+KAZ1411,2020-09-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,North Kazakhstan,Petropavl,Petropavl,54.8727,69.1452,1,National,0,KAZ
+KAZ1246,2020-02-19,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1343,2020-06-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Zhambyl,Taraz,Taraz,42.883,71.3898,1,National,0,KAZ
+KAZ1354,2020-07-10,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Qaraghandy,Karagandy,Karaganda,49.8132,73.1071,1,National,0,KAZ
+KAZ1401,2020-09-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Turkistan,Shardara,Shardara,41.2521,67.976,1,National,0,KAZ
+KAZ1408,2020-07-23,2,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,North Kazakhstan,Petropavl,Petropavl,54.8727,69.1452,1,National,0,KAZ
+KAZ1330,2020-06-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ1285,2020-04-20,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Zhambyl,Taraz,Taraz,42.883,71.3898,1,National,0,KAZ
+KAZ1270,2020-03-18,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Kyzylorda,Shieli,Shieli,44.1765,66.7411,1,New media,0,KAZ
+KAZ1323,2020-06-06,1,Protests,Protest with intervention,Protesters (Kazakhstan),DPK: Democratic Party of Kazakhstan; DVK: Democratic Choice of Kazakhstan,Police Forces of Kazakhstan (2019-),,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,New media,0,KAZ
+KAZ1349,2020-07-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Pavlodar,Bayanauyl,Bayanaul,50.7916,75.7032,2,New media,0,KAZ
+KAZ1208,2020-01-06,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Zaysan,Zaysan,47.4671,84.872,1,New media,0,KAZ
+KAZ1250,2020-02-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1266,2020-03-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1254,2020-02-25,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Atyrau,Atyrau,Atyrau,47.1071,51.9083,1,New media,0,KAZ
+KAZ1232,2020-02-03,1,Protests,Peaceful protest,Protesters (Kazakhstan),Farmers (Kazakhstan),,,Kazakhstan,Almaty,Raiymbek,Kegen,43.0214,79.2205,1,New media,0,KAZ
+KAZ1402,2020-05-31,2,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Atyrau,Zhylyoy,Tengiz,46.1615,53.4227,1,New media,0,KAZ
+KAZ1316,2020-05-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,New media,0,KAZ
+KAZ1243,2020-02-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1255,2020-02-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Atyrau,Atyrau,Atyrau,47.1071,51.9083,1,New media,0,KAZ
+KAZ1247,2020-02-19,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Zaysan,Zaysan,47.4671,84.872,1,New media,0,KAZ
+KAZ1406,2020-07-09,2,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Zhambyl,Taraz,Taraz,42.883,71.3898,1,New media,0,KAZ
+KAZ1404,2020-09-15,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1369,2020-07-23,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,East Kazakhstan,Urzhar,Qabanbay,46.0755,82.0866,1,New media,0,KAZ
+KAZ1277,2020-03-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),DPK: Democratic Party of Kazakhstan,,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,New media,0,KAZ
+KAZ1347,2020-07-03,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1282,2020-04-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,New media,0,KAZ
+KAZ1332,2020-06-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1372,2020-07-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,New media,0,KAZ
+KAZ1220,2020-01-23,1,Riots,Mob violence,Rioters (Kazakhstan),,Civilians (China),,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1352,2020-07-08,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Zhambyl,Taraz,Taraz,42.883,71.3898,1,New media,0,KAZ
+KAZ1396,2020-05-15,2,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Mangystau,Shebir,44.8137,52.0927,1,New media,0,KAZ
+KAZ1385,2020-07-30,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Pavlodar,Bayanauyl,Bayanaul,50.7916,75.7032,2,New media,0,KAZ
+KAZ1355,2020-07-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1417,2020-09-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,New media,0,KAZ
+KAZ1403,2020-06-21,2,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1212,2020-01-19,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1257,2020-02-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqmola,Tselinograd,Talapker,51.247,71.1528,1,New media,0,KAZ
+KAZ1327,2020-06-12,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Turkistan,Saryagash,Abai,41.3451,68.9529,1,New media,0,KAZ
+KAZ1260,2020-03-06,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1373,2020-07-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,National,0,KAZ
+KAZ1390,2020-09-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),DPK: Democratic Party of Kazakhstan,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,International,0,KAZ
+KAZ1394,2020-09-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),DPK: Democratic Party of Kazakhstan,,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,International,0,KAZ
+KAZ1392,2020-09-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),DPK: Democratic Party of Kazakhstan,,,Kazakhstan,Qaraghandy,Karagandy,Karaganda,49.8132,73.1071,1,International,0,KAZ
+KAZ1416,2020-09-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,National,0,KAZ
+KAZ1391,2020-09-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),DPK: Democratic Party of Kazakhstan,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1439,2020-09-25,1,Protests,Protest with intervention,Protesters (Kazakhstan),,Police Forces of Kazakhstan (2019-),,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,New media-National,0,KAZ
+KAZ1434,2020-09-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,New media,0,KAZ
+KAZ1429,2020-09-22,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Sayram,Tespe,42.5352,69.615,1,National,0,KAZ
+KAZ1423,2020-09-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ1424,2020-09-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Atyrau,Atyrau,Atyrau,47.1071,51.9083,1,National,0,KAZ
+KAZ1432,2020-09-23,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,2,National,0,KAZ
+KAZ1435,2020-09-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Zhambyl,Taraz,Taraz,42.883,71.3898,1,New media,0,KAZ
+KAZ1436,2020-09-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Ordabasy,Temirlan,42.5995,69.2599,1,International,0,KAZ
+KAZ1437,2020-09-25,1,Protests,Peaceful protest,Protesters (Kazakhstan),DVK: Democratic Choice of Kazakhstan,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,International,0,KAZ
+KAZ1446,2020-09-30,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Qaraghandy,Karagandy,Karaganda,49.8132,73.1071,1,National,0,KAZ
+KAZ1453,2020-10-02,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Shardara,Shardara,41.2521,67.976,1,National,0,KAZ
+KAZ1443,2020-09-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Qaraghandy,Karagandy,Karaganda,49.8132,73.1071,1,National,0,KAZ
+KAZ1442,2020-09-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Turkistan,Arys,Arys,42.4338,68.8098,1,National,0,KAZ
+KAZ1440,2020-09-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Saryagash,Saryagash,41.4518,69.1702,1,New media,0,KAZ
+KAZ1441,2020-09-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Saryagash,Kurama,41.4039,69.1416,1,New media,0,KAZ
+KAZ1445,2020-09-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,National,0,KAZ
+KAZ1461,2020-10-06,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,New media,0,KAZ
+KAZ1467,2020-10-09,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Bayganin,Karaulkeldy,48.6927,55.8833,1,National,0,KAZ
+KAZ1464,2020-10-07,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Atyrau,Atyrau,Atyrau,47.1071,51.9083,1,National,0,KAZ
+KAZ1463,2020-10-07,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ1456,2020-10-05,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1466,2020-10-09,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Atyrau,Atyrau,Atyrau,47.1071,51.9083,1,National,0,KAZ
+KAZ1465,2020-10-09,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1455,2020-10-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),DPK: Democratic Party of Kazakhstan,,,Kazakhstan,Mangystau,Zhanaozen,Zhanaozen,43.3477,52.8477,1,New media,0,KAZ
+KAZ1459,2020-10-06,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Saryagash,Saryagash,41.4518,69.1702,1,New media,0,KAZ
+KAZ1471,2020-10-14,2,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1483,2020-10-15,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1474,2020-10-12,1,Protests,Peaceful protest,Protesters (Kazakhstan),Teachers (Kazakhstan),,,Kazakhstan,Kyzylorda,Zhanakorgan,Shalkia,43.9522,67.4219,1,National,0,KAZ
+KAZ1486,2020-10-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ1475,2020-10-12,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Tarbagatay,Tugyl,47.7264,84.2092,1,National,0,KAZ
+KAZ1484,2020-10-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1470,2020-10-13,2,Riots,Mob violence,Rioters (Kazakhstan),Farmers (Kazakhstan),Private Security Forces (Kazakhstan),,Kazakhstan,Kyzylorda,Syrdariya,Terenozek,45.0489,64.9824,2,National,0,KAZ
+KAZ1485,2020-10-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1479,2020-10-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),Farmers (Kazakhstan),,,Kazakhstan,Atyrau,Zhylyoy,Akmeshit,47.1418,54.7714,2,National,0,KAZ
+KAZ1476,2020-10-12,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Saryagash,Abai,41.3451,68.9529,1,National,0,KAZ
+KAZ1481,2020-10-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Sayram,Akbai,42.4127,69.7841,1,National,0,KAZ
+KAZ1478,2020-10-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ1480,2020-10-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,International,0,KAZ
+KAZ1468,2020-10-11,1,Protests,Protest with intervention,Protesters (Kazakhstan),,Police Forces of Kazakhstan (2019-),,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,International,0,KAZ
+KAZ1473,2020-10-12,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,National,0,KAZ
+KAZ1502,2020-10-19,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Turkistan,Turkistan,Turkistan,43.3009,68.2622,1,National,0,KAZ
+KAZ1493,2020-10-23,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1488,2020-10-01,2,Violence against civilians,Attack,Police Forces of Kazakhstan (2019-),,Civilians (Kazakhstan),Health Workers (Kazakhstan); Prisoners (Kazakhstan),Kazakhstan,Atyrau,Atyrau,Atyrau,47.1071,51.9083,1,Subnational,0,KAZ
+KAZ1492,2020-10-19,2,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Urzhar,Makanchi,46.7871,82.022,1,New media,0,KAZ
+KAZ1499,2020-10-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1501,2020-10-19,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,North Kazakhstan,Petropavl,Petropavl,54.8727,69.1452,1,National,0,KAZ
+KAZ1498,2020-10-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Sayram,Aksukent,42.4263,69.8339,2,National,0,KAZ
+KAZ1500,2020-10-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Ulan,Mamay batyr,49.7643,82.6103,1,National,0,KAZ
+KAZ1503,2020-10-18,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Enbekshikazak,Baydibek bi,43.5134,77.6921,2,New media,0,KAZ
+KAZ1504,2020-10-18,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Pavlodar,Pavlodar,Pavlodar,52.2955,76.9633,1,New media,0,KAZ
+KAZ1491,2020-10-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Karasay,Zhandosov,43.1683,76.5627,1,New media,0,KAZ
+KAZ1494,2020-10-23,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Mertok,Rodnikovka,50.6395,57.1742,1,International,0,KAZ
+KAZ1489,2020-10-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,International,0,KAZ
+KAZ1505,2020-10-17,1,Violence against civilians,Attack,Police Forces of Kazakhstan (2019-),,Civilians (Kazakhstan),Prisoners (Kazakhstan),Kazakhstan,East Kazakhstan,Urzhar,Makanchi,46.7871,82.022,1,International,1,KAZ
+KAZ1516,2020-10-28,2,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1509,2020-10-26,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Atyrau,Atyrau,Atyrau,47.1071,51.9083,1,Subnational,0,KAZ
+KAZ1512,2020-10-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1507,2020-10-26,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ1510,2020-10-26,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Zhambyl,Taraz,Taraz,42.883,71.3898,1,National,0,KAZ
+KAZ1519,2020-10-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Maktaaral,Zhetisay,40.7735,68.3245,1,National,0,KAZ
+KAZ1527,2020-10-30,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Taldykorgan,Taldykorgan,45.0166,78.3833,1,National,0,KAZ
+KAZ1511,2020-10-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ1508,2020-10-26,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1520,2020-10-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ1515,2020-10-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,2,National,0,KAZ
+KAZ1528,2020-10-31,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1537,2020-11-05,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1539,2020-11-05,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Qaraghandy,Satbayev,Satpaev,48.1581,67.5122,1,National,0,KAZ
+KAZ1534,2020-11-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Shardara,Shardara,41.2521,67.976,1,National,0,KAZ
+KAZ1538,2020-11-05,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Atyrau,Zhylyoy,Kulsary,46.9609,54.0133,1,New media,0,KAZ
+KAZ1529,2020-10-30,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,National,0,KAZ
+KAZ1546,2020-11-09,2,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1558,2020-11-13,2,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Zhambyl,Korday,Nogaibay,43.1277,74.8454,1,New media,0,KAZ
+KAZ1544,2020-11-08,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1554,2020-11-12,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,New media,0,KAZ
+KAZ1550,2020-11-11,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1551,2020-11-11,2,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1549,2020-11-10,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Qaraghandy,Zhezkazgan,Zhezkazgan,47.8002,67.7084,1,National,0,KAZ
+KAZ1545,2020-11-09,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ1552,2020-11-11,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,International,0,KAZ
+KAZ1555,2020-11-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,International,0,KAZ
+KAZ1556,2020-11-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1543,2020-11-08,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,West Kazakhstan,Borili,Aksay,51.1722,53.0118,1,National,0,KAZ
+KAZ1561,2020-11-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),DPK: Democratic Party of Kazakhstan,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ508,2020-02-07,1,Riots,Mob violence,Rioters (Kazakhstan),Dungan Ethnic Group (Kazakhstan); Muslim Group (Kazakhstan),Police Forces of Kazakhstan (2019-),,Kazakhstan,Zhambyl,Korday,Sortobe,42.8662,75.25,1,National,10,KAZ
+KAZ1578,2020-11-20,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1575,2020-11-19,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Alga,Bestamak,50.0437,57.3485,1,New media,0,KAZ
+KAZ1566,2020-11-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Enbekshikazak,Esik,43.3596,77.4601,1,National,0,KAZ
+KAZ1570,2020-11-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Beskaragay,Koyanbay,51.5779,79.3124,1,National,0,KAZ
+KAZ1571,2020-11-18,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Kyzylorda,Aral,Aralsk,46.7984,61.6635,1,National,0,KAZ
+KAZ1574,2020-11-19,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ1579,2020-11-20,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Almaty,Koksu,Balpyk Bi,44.9022,78.2315,1,National,0,KAZ
+KAZ1567,2020-11-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Qaraghandy,Karagandy,Karaganda,49.8132,73.1071,1,National,0,KAZ
+KAZ1568,2020-11-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ1565,2020-11-16,2,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,New media,0,KAZ
+KAZ1563,2020-11-15,2,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqmola,Zhaksy,Ishimka,51.393,67.127,1,New media,0,KAZ
+KAZ1572,2020-11-18,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Tole bi,Lenger,42.1834,69.884,1,National,0,KAZ
+KAZ1562,2020-11-15,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1581,2020-11-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1449,2020-10-02,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,Subnational-National,0,KAZ
+KAZ1596,2020-11-28,2,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media-National,0,KAZ
+KAZ1584,2020-11-23,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,New media,0,KAZ
+KAZ1583,2020-11-15,2,Violence against civilians,Attack,Police Forces of Kazakhstan (2019-),,Civilians (Kazakhstan),Prisoners (Kazakhstan),Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,New media,0,KAZ
+KAZ1586,2020-11-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1593,2020-11-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Enbekshikazak,Baltabay,43.5052,77.5646,1,National,0,KAZ
+KAZ1589,2020-11-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,East Kazakhstan,Zyryan,Turgusun,49.7669,84.0063,2,National,0,KAZ
+KAZ1588,2020-11-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Zhambyl,Taraz,Taraz,42.883,71.3898,1,National,0,KAZ
+KAZ1595,2020-11-27,2,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,East Kazakhstan,Urzhar,Urjar,47.0944,81.636,1,National,0,KAZ
+KAZ1590,2020-11-24,2,Violence against civilians,Attack,Police Forces of Kazakhstan (2019-) Prison Guards,,Civilians (Kazakhstan),Prisoners (Kazakhstan),Kazakhstan,Qaraghandy,Zhezkazgan,Zhezkazgan,47.8002,67.7084,1,National,0,KAZ
+KAZ1591,2020-11-25,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,International,0,KAZ
+KAZ1582,2020-05-15,2,Violence against civilians,Attack,Police Forces of Kazakhstan (2019-),,Civilians (Kazakhstan),Prisoners (Kazakhstan),Kazakhstan,Turkistan,Ordabasy,Temirlan,42.5995,69.2599,1,International,0,KAZ
+KAZ1594,2020-11-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,National,0,KAZ
+KAZ1606,2020-12-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1600,2020-11-30,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Enbekshikazak,Esik,43.3596,77.4601,1,National,0,KAZ
+KAZ1603,2020-12-02,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ1601,2020-11-30,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Qaraghandy,Karagandy,Karaganda,49.8132,73.1071,1,National,0,KAZ
+KAZ1599,2020-11-30,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ1598,2020-11-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Talgar,Kainar,43.4783,77.0789,2,New media,0,KAZ
+KAZ1597,2020-12-03,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Almaty,Panfilov,Khorgas,44.2231,80.3863,2,New media,0,KAZ
+KAZ1605,2020-12-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),Farmers (Kazakhstan),,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,International,0,KAZ
+KAZ1616,2020-12-08,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Atyrau,Atyrau,Atyrau,47.1071,51.9083,1,Subnational,0,KAZ
+KAZ1627,2020-12-10,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,North Kazakhstan,Mamlyut,Stanovoye,54.8201,68.3181,1,National,0,KAZ
+KAZ1625,2020-12-10,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Atyrau,Atyrau,Atyrau,47.1071,51.9083,1,National,0,KAZ
+KAZ1617,2020-12-08,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Saryagash,Karakalpak,41.5738,68.8416,1,National,0,KAZ
+KAZ1612,2020-12-07,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ1618,2020-12-08,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,National,0,KAZ
+KAZ1628,2020-12-11,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ1621,2020-12-09,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Almaty,Panfilov,Khorgas,44.2231,80.3863,1,National,0,KAZ
+KAZ1623,2020-12-09,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Kyzylorda,Zhanakorgan,Zhanakorgan,43.9082,67.2446,1,National,0,KAZ
+KAZ1619,2020-12-09,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1620,2020-12-09,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Zhambyl,Zhambyl,Choldala,42.7924,71.2749,1,National,0,KAZ
+KAZ1631,2020-12-11,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Zhambyl,Taraz,Taraz,42.883,71.3898,1,New media,0,KAZ
+KAZ1629,2020-12-11,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Turkistan,Arys,Arys,42.4338,68.8098,1,International,0,KAZ
+KAZ1624,2020-12-10,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,International,0,KAZ
+KAZ1632,2020-12-11,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Qaraghandy,Zhezkazgan,Zhezkazgan,47.8002,67.7084,1,International,0,KAZ
+KAZ1611,2020-12-05,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,National,0,KAZ
+KAZ1679,2020-12-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1681,2020-12-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Zhanaozen,Zhanaozen,43.3477,52.8477,1,New media,0,KAZ
+KAZ1667,2020-12-30,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Turkistan,Sozak,Kyzemshek,45.2663,68.9238,2,New media,0,KAZ
+KAZ1646,2020-12-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Ulan,Aiyrtau,49.8362,82.2668,1,National,0,KAZ
+KAZ1664,2020-12-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Atyrau,Atyrau,Atyrau,47.1071,51.9083,1,National,0,KAZ
+KAZ1651,2020-12-22,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1644,2020-12-23,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1641,2020-12-23,1,Protests,Peaceful protest,Protesters (Kazakhstan),Namys Movement,,,Kazakhstan,North Kazakhstan,Petropavl,Petropavl,54.8727,69.1452,1,National,0,KAZ
+KAZ1662,2020-12-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Almaty,Kerbulak,Sary-Ozek,44.3617,77.9708,1,National,0,KAZ
+KAZ1668,2020-12-30,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Turkistan,Turkistan,43.3009,68.2622,1,National,0,KAZ
+KAZ1683,2020-12-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,National,0,KAZ
+KAZ1643,2020-12-23,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1652,2020-12-22,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Atyrau,Makhambet,Saraishyk,47.5029,51.7178,1,National,0,KAZ
+KAZ1656,2020-12-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ1658,2020-12-25,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Atyrau,Atyrau,Atyrau,47.1071,51.9083,1,National,0,KAZ
+KAZ1669,2020-12-31,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Aqtobe,Khromtau,Koktau,50.476,59.0816,2,Subnational,0,KAZ
+KAZ1672,2020-12-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Zhanaozen,Zhanaozen,43.3477,52.8477,1,New media,0,KAZ
+KAZ1677,2020-12-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Taldykorgan,Taldykorgan,45.0166,78.3833,1,New media,0,KAZ
+KAZ1653,2020-12-23,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ1676,2020-12-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,New media,0,KAZ
+KAZ1675,2020-12-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),Muslim Group (Kazakhstan),,,Kazakhstan,Turkistan,Ordabasy,Badam,42.3846,69.2511,1,New media,0,KAZ
+KAZ1654,2020-12-23,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Turkistan,Maktaaral,Atakent,40.8445,68.5056,1,New media,0,KAZ
+KAZ1673,2020-12-15,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,International,0,KAZ
+KAZ1659,2020-12-26,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,International,0,KAZ
+KAZ1674,2020-12-14,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Kazakhstan),,Civilians (Kazakhstan),,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,International,0,KAZ
+KAZ1642,2020-12-28,1,Violence against civilians,Attack,Unidentified Armed Group (Kazakhstan),,Civilians (Kazakhstan),,Kazakhstan,Qaraghandy,Balkash,Balkhash,46.8419,74.9772,1,International,0,KAZ
+KAZ1657,2020-12-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,International,0,KAZ
+KAZ1650,2020-12-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,West Kazakhstan,Oral,Uralsk,51.2222,51.3728,1,International,0,KAZ
+KAZ1678,2020-12-12,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1692,2020-12-15,2,Violence against civilians,Attack,Police Forces of Kazakhstan (2019-),,Civilians (Kazakhstan),,Kazakhstan,Turkistan,Maktaaral,Zhetisay,40.7735,68.3245,2,National,0,KAZ
+KAZ1671,2020-12-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),Oyan Kazakhstan; DPK: Democratic Party of Kazakhstan,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,International,0,KAZ
+KAZ690,2020-06-10,1,Protests,Peaceful protest,Protesters (Kazakhstan),Oyan Kazakhstan,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,International,0,KAZ
+KAZ556,2020-03-01,1,Protests,Peaceful protest,Protesters (Kazakhstan),Oyan Kazakhstan,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,International,0,KAZ
+KAZ1856,2020-12-02,1,Violence against civilians,Attack,Police Forces of Kazakhstan (2019-) Prison Guards,,Civilians (Kazakhstan),Prisoners (Kazakhstan),Kazakhstan,North Kazakhstan,Petropavl,Petropavl,54.8727,69.1452,1,National,0,KAZ
+KAZ1521,2020-10-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1530,2020-11-02,1,Violence against civilians,Attack,Police Forces of Kazakhstan (2019-),,Civilians (Kazakhstan),,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ489,2020-02-07,1,Riots,Mob violence,Rioters (Kazakhstan),,Rioters (Kazakhstan),Dungan Ethnic Group (Kazakhstan); Muslim Group (Kazakhstan),Kazakhstan,Zhambyl,Korday,Aukhatty,42.8936,75.1494,1,National,0,KAZ
+KAZ776,2020-08-18,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,National,0,KAZ
+KAZ1454,2020-10-02,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Talgar,Tonkeris,43.4776,77.1367,1,National,0,KAZ
+KAZ1580,2020-11-20,1,Protests,Peaceful protest,Protesters (Kazakhstan),Students (Kazakhstan),,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,National,0,KAZ
+KAZ490,2020-02-07,1,Riots,Mob violence,Rioters (Kazakhstan),,Rioters (Kazakhstan),Dungan Ethnic Group (Kazakhstan); Muslim Group (Kazakhstan),Kazakhstan,Zhambyl,Korday,Bular Batyr,42.8798,75.1823,1,National,0,KAZ
+KAZ1526,2020-10-30,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,National,0,KAZ
+KAZ1614,2020-12-07,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,North Kazakhstan,Magzhan Zhumabaev,Zolotaya Niva,54.209,70.8751,1,National,0,KAZ
+KAZ711,2020-07-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ784,2020-08-21,1,Riots,Mob violence,Rioters (Kazakhstan),Fishers (Kazakhstan),Police Forces of Kazakhstan (2019-),Private Security Forces (Kazakhstan),Kazakhstan,West Kazakhstan,Akzhaik,Shabdarzhap,48.7429,51.8148,2,National,0,KAZ
+KAZ632,2020-05-07,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Zhambyl,Taraz,Taraz,42.883,71.3898,1,National,0,KAZ
+KAZ1496,2020-10-22,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Kazygurt,Sharapkhana,41.8761,69.4377,1,National,0,KAZ
+KAZ2522,2020-06-15,2,Violence against civilians,Attack,Police Forces of Kazakhstan (2019-),,Civilians (Kazakhstan),Prisoners (Kazakhstan),Kazakhstan,Zhambyl,Taraz,Taraz,42.883,71.3898,1,Regional,0,KAZ
+KAZ467,2020-01-31,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Atyrau,Atyrau,Atyrau,47.1071,51.9083,1,Subnational,0,KAZ
+KAZ412,2020-01-10,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ411,2020-01-08,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Turkistan,Turkistan,43.3009,68.2622,1,International,0,KAZ
+KAZ410,2020-01-08,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,International,0,KAZ
+KAZ404,2020-01-06,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Zhanaozen,Zhanaozen,43.3477,52.8477,1,New media,0,KAZ
+KAZ409,2020-01-06,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,New media,0,KAZ
+KAZ408,2020-01-06,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Zhanaozen,Zhanaozen,43.3477,52.8477,1,New media,0,KAZ
+KAZ1855,2020-07-05,1,Violence against civilians,Sexual violence,Police Forces of Kazakhstan (2019-),,Civilians (Kazakhstan),Women (Kazakhstan),Kazakhstan,Qaraghandy,Balkash,Balkhash,46.8419,74.9772,1,National,0,KAZ
+KAZ2997,2020-12-15,1,Violence against civilians,Attack,Police Forces of Kazakhstan (2019-) Prison Guards,,Civilians (Kazakhstan),Prisoners (Kazakhstan),Kazakhstan,Turkistan,Tole bi,Lenger,42.1834,69.884,1,International,0,KAZ
+KAZ693,2020-05-29,1,Riots,Mob violence,Rioters (Kazakhstan),Farmers (Kazakhstan),Rioters (Kazakhstan),Farmers (Kazakhstan),Kazakhstan,Turkistan,Maktaaral,Zhetisay,40.7735,68.3245,2,Subnational,0,KAZ
+KAZ3879,2020-03-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,Subnational,0,KAZ
+KAZ3880,2020-05-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,Subnational,0,KAZ
+KAZ3881,2020-07-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,1,Subnational,0,KAZ
+KAZ3886,2020-10-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Semey,Semey,50.403,80.2284,2,Subnational,0,KAZ
+KAZ1211,2020-01-18,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ1213,2020-01-20,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ1227,2020-01-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ1231,2020-01-31,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ1244,2020-02-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,National,0,KAZ
+KAZ1258,2020-03-01,1,Protests,Protest with intervention,Protesters (Kazakhstan),,Police Forces of Kazakhstan (2019-),,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ1263,2020-03-11,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ1269,2020-03-18,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ1271,2020-03-19,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,National,0,KAZ
+KAZ1273,2020-03-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ1275,2020-03-26,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ1281,2020-04-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,National,0,KAZ
+KAZ1287,2020-04-27,1,Protests,Protest with intervention,Protesters (Kazakhstan),Women (Kazakhstan),Police Forces of Kazakhstan (2019-),,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ1297,2020-05-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,2,National,0,KAZ
+KAZ1303,2020-05-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ1320,2020-06-02,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ1337,2020-06-18,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ1350,2020-07-06,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ1356,2020-07-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan); Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ1363,2020-07-20,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ1366,2020-07-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,National,0,KAZ
+KAZ1371,2020-07-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,National,0,KAZ
+KAZ1386,2020-07-30,1,Protests,Protest with intervention,Protesters (Kazakhstan),,Police Forces of Kazakhstan (2019-),,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ1393,2020-09-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ1420,2020-09-18,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ1421,2020-09-19,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ1426,2020-09-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ1433,2020-09-23,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ1438,2020-09-25,1,Protests,Protest with intervention,Protesters (Kazakhstan),DVK: Democratic Choice of Kazakhstan,Police Forces of Kazakhstan (2019-),,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,National,0,KAZ
+KAZ1444,2020-09-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ1448,2020-10-01,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,National,0,KAZ
+KAZ1451,2020-10-02,1,Protests,Peaceful protest,Protesters (Kazakhstan),Nur-Otan,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ1452,2020-10-02,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,National,0,KAZ
+KAZ1457,2020-10-05,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ1472,2020-10-12,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ1477,2020-10-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ1490,2020-10-24,1,Protests,Protest with intervention,Protesters (Kazakhstan),,Police Forces of Kazakhstan (2019-),,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ1506,2020-10-24,1,Violence against civilians,Attack,Police Forces of Kazakhstan (2019-),,Civilians (Kazakhstan),Journalists (Kazakhstan); Prisoners (Kazakhstan); Women (Kazakhstan),Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ1525,2020-10-30,2,Violence against civilians,Attack,Unidentified Armed Group (Kazakhstan),Police Forces of Kazakhstan (2019-),Civilians (Kazakhstan),Women (Kazakhstan),Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ1533,2020-11-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ1573,2020-11-18,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ1576,2020-11-19,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,National,0,KAZ
+KAZ1592,2020-11-25,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ1604,2020-12-02,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ1607,2020-12-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,National,0,KAZ
+KAZ1622,2020-12-09,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,National,0,KAZ
+KAZ1661,2020-12-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,National,0,KAZ
+KAZ1682,2020-12-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ1690,2020-06-27,1,Strategic developments,Change to group/activity,Government of Kazakhstan (2019-),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,3,National-International,0,KAZ
+KAZ1691,2020-11-09,1,Strategic developments,Change to group/activity,Government of Kazakhstan (2019-),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,3,National-International,0,KAZ
+KAZ399,2020-01-03,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ403,2020-01-06,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ405,2020-01-06,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ416,2020-01-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ438,2020-01-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ451,2020-01-25,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ473,2020-02-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,National,0,KAZ
+KAZ477,2020-02-05,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ483,2020-02-05,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ485,2020-02-07,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ486,2020-02-07,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ500,2020-02-11,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ504,2020-02-12,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media-International,0,KAZ
+KAZ509,2020-02-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ515,2020-02-19,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ524,2020-02-22,1,Protests,Protest with intervention,Protesters (Kazakhstan),DVK: Democratic Choice of Kazakhstan,Police Forces of Kazakhstan (2019-),,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ534,2020-02-25,1,Protests,Protest with intervention,Protesters (Kazakhstan),,Police Forces of Kazakhstan (2019-),,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ545,2020-02-27,1,Protests,Protest with intervention,Protesters (Kazakhstan),,Police Forces of Kazakhstan (2019-),,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ589,2020-03-25,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ601,2020-03-19,1,Strategic developments,Change to group/activity,Government of Kazakhstan (2019-),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,3,National-International,0,KAZ
+KAZ633,2020-05-07,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ638,2020-05-12,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ643,2020-05-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ644,2020-05-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ652,2020-05-20,1,Protests,Peaceful protest,Protesters (Kazakhstan),KP: Party of the Street,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ655,2020-05-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),KP: Party of the Street,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ656,2020-05-21,1,Protests,Protest with intervention,Protesters (Kazakhstan),KP: Party of the Street,Police Forces of Kazakhstan (2019-),,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media-International,0,KAZ
+KAZ669,2020-06-03,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ675,2020-06-06,1,Protests,Protest with intervention,Protesters (Kazakhstan),DVK: Democratic Choice of Kazakhstan,Police Forces of Kazakhstan (2019-),,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,National,0,KAZ
+KAZ682,2020-06-08,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,National,0,KAZ
+KAZ684,2020-06-08,1,Protests,Peaceful protest,Protesters (Kazakhstan),KP: Party of the Street,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ686,2020-06-09,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ688,2020-06-10,1,Protests,Protest with intervention,Protesters (Kazakhstan),Women (Kazakhstan),Police Forces of Kazakhstan (2019-),,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ689,2020-06-10,1,Protests,Protest with intervention,Protesters (Kazakhstan),BLM: Black Lives Matter,Police Forces of Kazakhstan (2019-),,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ696,2020-06-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),BLM: Black Lives Matter,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ703,2020-06-25,1,Protests,Protest with intervention,Protesters (Kazakhstan),Labor Group (Kazakhstan),Police Forces of Kazakhstan (2019-),,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ707,2020-06-30,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ709,2020-07-08,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,National,0,KAZ
+KAZ723,2020-07-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ729,2020-08-03,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ730,2020-08-03,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ733,2020-08-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),DPK: Democratic Party of Kazakhstan,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ734,2020-08-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ754,2020-08-11,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ763,2020-08-15,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,2,New media,0,KAZ
+KAZ779,2020-08-19,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ783,2020-08-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ790,2020-08-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ795,2020-08-25,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,National,0,KAZ
+KAZ819,2020-09-02,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,National,0,KAZ
+KAZ825,2020-09-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ826,2020-09-04,1,Riots,Violent demonstration,Rioters (Kazakhstan),Women (Kazakhstan),Police Forces of Kazakhstan (2019-),,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ827,2020-09-04,1,Riots,Violent demonstration,Rioters (Kazakhstan),Labor Group (Kazakhstan),Private Security Forces (Kazakhstan),,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,National,0,KAZ
+KAZ834,2020-09-07,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,International,0,KAZ
+KAZ836,2020-09-07,1,Riots,Violent demonstration,Rioters (Kazakhstan),Women (Kazakhstan),Police Forces of Kazakhstan (2019-),,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ840,2020-09-09,1,Protests,Protest with intervention,Protesters (Kazakhstan),Women (Kazakhstan),Police Forces of Kazakhstan (2019-),,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ844,2020-09-11,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,New media,0,KAZ
+KAZ646,2020-05-13,1,Violence against civilians,Attack,Private Security Forces (Kazakhstan),,Civilians (Kazakhstan),LGBTQ+ (Kazakhstan); Women (Kazakhstan),Kazakhstan,Kostanay,Kostanay,Kostanay,53.2138,63.6225,1,National,0,KAZ
+KAZ728,2020-08-03,1,Strategic developments,Arrests,Police Forces of Kazakhstan (2019-),,Civilians (Kazakhstan),LGBTQ+ (Kazakhstan),Kazakhstan,Astana City,Almaty,Astana,51.1667,71.45,1,National,0,KAZ
+KAZ1292,2020-05-05,1,Riots,Violent demonstration,Rioters (Kazakhstan),,Civilians (Kyrgyzstan),Government of Kazakhstan (2019-); Police Forces of Kazakhstan (2019-),Kazakhstan,Turkistan,Maktaaral,Orgebas,40.6353,68.4404,2,New media,0,KAZ
+KAZ613,2020-04-14,2,Riots,Mob violence,Rioters (Kazakhstan),Fishers (Kazakhstan),Civilians (Kazakhstan),Government of Kazakhstan (2019-),Kazakhstan,Atyrau,Atyrau,Erkinkala,47.0241,51.8019,2,Subnational,0,KAZ
+KAZ713,2020-07-16,1,Protests,Peaceful protest,Protesters (Tajikistan),,,,Kazakhstan,Turkistan,Saryagash,Jibek Joly,41.4762,69.3654,1,Regional,0,KAZ
+KAZ791,2020-08-24,1,Riots,Violent demonstration,Rioters (Kazakhstan),Women (Kazakhstan),Police Forces of Kazakhstan (2019-),,Kazakhstan,Almaty,Taldykorgan,Taldykorgan,45.0166,78.3833,1,National,0,KAZ
+KAZ1541,2020-11-06,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Turkistan,Tole bi,Algabas,42.0896,69.8117,1,National,0,KAZ
+KAZ1665,2020-12-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),Students (Kazakhstan),,,Kazakhstan,Kyzylorda,Kyzylorda,Kyzylorda,44.8307,65.5267,1,National,0,KAZ
+KAZ1660,2020-12-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Kyzylorda,Kyzylorda,Kyzylorda,44.8307,65.5267,2,New media,0,KAZ
+KAZ1655,2020-12-23,1,Protests,Peaceful protest,Protesters (Kazakhstan),Farmers (Kazakhstan),,,Kazakhstan,Kyzylorda,Kyzylorda,Kyzylorda,44.8307,65.5267,1,New media,0,KAZ
+KAZ1557,2020-11-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Kyzylorda,Kyzylorda,Kyzylorda,44.8307,65.5267,1,New media,0,KAZ
+KAZ1425,2020-09-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Kyzylorda,Kyzylorda,Kyzylorda,44.8307,65.5267,1,National,0,KAZ
+KAZ789,2020-08-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Kyzylorda,Kyzylorda,Kyzylorda,44.8307,65.5267,1,National,0,KAZ
+KAZ775,2020-08-18,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Kyzylorda,Kyzylorda,Kyzylorda,44.8307,65.5267,1,National,0,KAZ
+KAZ1380,2020-07-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Kyzylorda,Kyzylorda,Kyzylorda,44.8307,65.5267,1,National,0,KAZ
+KAZ1407,2020-07-23,2,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Kyzylorda,Kyzylorda,Kyzylorda,44.8307,65.5267,1,New media,0,KAZ
+KAZ697,2020-06-15,2,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Kyzylorda,Kyzylorda,Kyzylorda,44.8307,65.5267,1,New media,0,KAZ
+KAZ677,2020-06-06,1,Protests,Protest with intervention,Protesters (Kazakhstan),,Police Forces of Kazakhstan (2019-),,Kazakhstan,Kyzylorda,Kyzylorda,Kyzylorda,44.8307,65.5267,1,International,0,KAZ
+KAZ651,2020-05-19,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Kyzylorda,Kyzylorda,Kyzylorda,44.8307,65.5267,1,International,0,KAZ
+KAZ629,2020-05-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Kyzylorda,Kyzylorda,Kyzylorda,44.8307,65.5267,1,International,0,KAZ
+KAZ610,2020-04-13,1,Protests,Protest with intervention,Protesters (Kazakhstan),Women (Kazakhstan),Police Forces of Kazakhstan (2019-),,Kazakhstan,Kyzylorda,Kyzylorda,Kyzylorda,44.8307,65.5267,1,New media-International,0,KAZ
+KAZ605,2020-04-10,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Kyzylorda,Kyzylorda,Kyzylorda,44.8307,65.5267,1,International,0,KAZ
+KAZ599,2020-04-01,1,Protests,Protest with intervention,Protesters (Kazakhstan),Women (Kazakhstan),Police Forces of Kazakhstan (2019-),,Kazakhstan,Kyzylorda,Kyzylorda,Kyzylorda,44.8307,65.5267,1,International,0,KAZ
+KAZ595,2020-03-30,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Kyzylorda,Kyzylorda,Kyzylorda,44.8307,65.5267,1,International,0,KAZ
+KAZ590,2020-03-26,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Kyzylorda,Kyzylorda,Kyzylorda,44.8307,65.5267,1,International,0,KAZ
+KAZ432,2020-01-20,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Kyzylorda,Kyzylorda,Kyzylorda,44.8307,65.5267,1,International,0,KAZ
+KAZ414,2020-01-10,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Kyzylorda,Kyzylorda,Kyzylorda,44.8307,65.5267,1,International,0,KAZ
+KAZ1648,2020-12-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ1649,2020-12-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),Teachers (Kazakhstan),,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ1680,2020-12-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ1630,2020-12-11,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ1626,2020-12-10,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ1608,2020-12-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ1602,2020-12-01,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ1587,2020-11-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ1585,2020-11-23,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ1559,2020-11-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ1560,2020-11-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ1553,2020-11-12,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,New media,0,KAZ
+KAZ1548,2020-11-10,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,New media,0,KAZ
+KAZ1531,2020-11-02,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ1523,2020-10-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ1518,2020-10-28,2,Violence against civilians,Attack,Police Forces of Kazakhstan (2019-) Prison Guards,,Civilians (Kazakhstan),Prisoners (Kazakhstan),Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,New media-International,0,KAZ
+KAZ1513,2020-10-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),Students (Kazakhstan),,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ1514,2020-10-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ1497,2020-10-22,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ1487,2020-10-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ1482,2020-10-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,New media,0,KAZ
+KAZ1460,2020-10-06,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,New media,0,KAZ
+KAZ1412,2020-09-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ1395,2020-09-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),DPK: Democratic Party of Kazakhstan,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,New media,0,KAZ
+KAZ821,2020-09-03,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ808,2020-08-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ785,2020-08-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,New media,0,KAZ
+KAZ777,2020-08-18,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ752,2020-08-10,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ1388,2020-07-30,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ708,2020-07-01,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ704,2020-06-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ1346,2020-06-26,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ1341,2020-06-23,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ674,2020-06-06,1,Protests,Protest with intervention,Protesters (Kazakhstan),DPK: Democratic Party of Kazakhstan; DVK: Democratic Choice of Kazakhstan,Police Forces of Kazakhstan (2019-),,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ1317,2020-06-01,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ1298,2020-05-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ640,2020-05-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ1294,2020-05-12,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan); Labor Group (Kazakhstan),,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ619,2020-04-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ617,2020-04-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ1280,2020-04-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ1278,2020-04-03,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ594,2020-03-30,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ597,2020-03-30,1,Protests,Peaceful protest,Protesters (Kazakhstan),DPK: Democratic Party of Kazakhstan,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,2,New media,0,KAZ
+KAZ593,2020-03-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,New media,0,KAZ
+KAZ1276,2020-03-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,2,New media,0,KAZ
+KAZ584,2020-03-19,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ1268,2020-03-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ1262,2020-03-06,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ562,2020-03-03,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ557,2020-03-01,1,Protests,Protest with intervention,Protesters (Kazakhstan),,Police Forces of Kazakhstan (2019-),,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ1256,2020-02-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,New media,0,KAZ
+KAZ537,2020-02-25,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ529,2020-02-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ525,2020-02-22,1,Protests,Protest with intervention,Protesters (Kazakhstan),,Police Forces of Kazakhstan (2019-),,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ507,2020-02-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ496,2020-02-08,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ464,2020-01-31,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ466,2020-01-31,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ445,2020-01-23,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ442,2020-01-22,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ436,2020-01-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ1214,2020-01-20,1,Riots,Violent demonstration,Rioters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,National,0,KAZ
+KAZ441,2020-01-20,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,International,0,KAZ
+KAZ1210,2020-01-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Shymkent,,Shymkent,42.3144,69.5901,1,New media,0,KAZ
+KAZ600,2020-04-02,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Almaty,Karasay,Shamalgan,43.3704,76.6238,1,International,0,KAZ
+KAZ406,2020-01-06,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Ile,Boralday,43.3487,76.8594,2,International,0,KAZ
+KAZ1569,2020-11-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqmola,Tselinograd,Koschi,51.002,71.3727,1,National,0,KAZ
+KAZ621,2020-04-22,1,Protests,Peaceful protest,Protesters (Kazakhstan),Farmers (Kyrgyzstan),,,Kazakhstan,Aqmola,Tselinograd,Koschi,51.002,71.3727,1,New media,0,KAZ
+KAZ631,2020-05-06,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Aqmola,Tselinograd,Koschi,51.002,71.3727,1,International,0,KAZ
+KAZ1242,2020-02-10,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Oskemen,Ust-Kamenogorsk,49.9574,82.6103,1,National,0,KAZ
+KAZ1253,2020-02-24,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Oskemen,Ust-Kamenogorsk,49.9574,82.6103,1,New media,0,KAZ
+KAZ1306,2020-05-22,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,East Kazakhstan,Oskemen,Ust-Kamenogorsk,49.9574,82.6103,1,National,0,KAZ
+KAZ1314,2020-05-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Oskemen,Ust-Kamenogorsk,49.9574,82.6103,1,National,0,KAZ
+KAZ1377,2020-07-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,East Kazakhstan,Oskemen,Ust-Kamenogorsk,49.9574,82.6103,1,National,0,KAZ
+KAZ1427,2020-09-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,East Kazakhstan,Oskemen,Ust-Kamenogorsk,49.9574,82.6103,1,National,0,KAZ
+KAZ1430,2020-09-22,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Oskemen,Ust-Kamenogorsk,49.9574,82.6103,1,National,0,KAZ
+KAZ1447,2020-09-30,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Oskemen,Ust-Kamenogorsk,49.9574,82.6103,1,National,0,KAZ
+KAZ1462,2020-10-06,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Oskemen,Ust-Kamenogorsk,49.9574,82.6103,1,National,0,KAZ
+KAZ1547,2020-11-09,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Oskemen,Ust-Kamenogorsk,49.9574,82.6103,1,National,0,KAZ
+KAZ1577,2020-11-19,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,East Kazakhstan,Oskemen,Ust-Kamenogorsk,49.9574,82.6103,1,National,0,KAZ
+KAZ623,2020-04-23,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,East Kazakhstan,Oskemen,Ust-Kamenogorsk,49.9574,82.6103,1,National,0,KAZ
+KAZ654,2020-05-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Oskemen,Ust-Kamenogorsk,49.9574,82.6103,1,New media,0,KAZ
+KAZ660,2020-05-25,1,Protests,Peaceful protest,Protesters (Kazakhstan),KP: Party of the Street,,,Kazakhstan,East Kazakhstan,Oskemen,Ust-Kamenogorsk,49.9574,82.6103,1,New media,0,KAZ
+KAZ1321,2020-06-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,New media,0,KAZ
+KAZ1335,2020-06-18,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ1368,2020-07-23,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ1397,2020-09-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,New media,0,KAZ
+KAZ1431,2020-09-23,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ1458,2020-10-06,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,New media,0,KAZ
+KAZ1495,2020-10-22,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ1524,2020-10-30,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ1535,2020-11-05,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ1536,2020-11-05,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ1540,2020-11-06,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ1564,2020-11-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ1610,2020-11-07,1,Violence against civilians,Attack,Police Forces of Kazakhstan (2019-) Prison Guards,,Civilians (Kazakhstan),Prisoners (Kazakhstan),Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ1615,2020-12-08,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ1645,2020-12-22,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,New media,0,KAZ
+KAZ1663,2020-12-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ1666,2020-12-30,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ402,2020-01-05,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,International,0,KAZ
+KAZ419,2020-01-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ435,2020-01-19,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ450,2020-01-26,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,New media,0,KAZ
+KAZ468,2020-01-31,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ471,2020-02-03,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,International,0,KAZ
+KAZ475,2020-02-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ479,2020-02-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,New media,0,KAZ
+KAZ615,2020-04-16,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ636,2020-05-11,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan); Women (Kazakhstan),,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,New media-National,0,KAZ
+KAZ680,2020-06-06,1,Protests,Protest with intervention,Protesters (Kazakhstan),DPK: Democratic Party of Kazakhstan; DVK: Democratic Choice of Kazakhstan,Police Forces of Kazakhstan (2019-),,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ715,2020-07-19,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ743,2020-08-07,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ748,2020-08-10,1,Protests,Peaceful protest,Protesters (Kazakhstan),Students (Kazakhstan),,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ760,2020-08-14,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ782,2020-08-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ798,2020-08-26,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ799,2020-08-26,1,Protests,Peaceful protest,Protesters (Kazakhstan),Muslim Group (Kazakhstan),,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ813,2020-09-01,1,Protests,Peaceful protest,Protesters (Kazakhstan),Women (Kazakhstan),,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,New media,0,KAZ
+KAZ820,2020-09-03,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ822,2020-09-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,1,National,0,KAZ
+KAZ832,2020-09-07,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Mangystau,Aktau,Aktau,43.6624,51.1702,2,New media,0,KAZ
+KAZ1223,2020-01-27,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Almaty,Ile,Muhametzhan Tuimebayev,43.411,76.9141,1,National,0,KAZ
+KAZ1517,2020-10-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Talgar,Panfilovo,43.3856,77.1239,1,New media,0,KAZ
+KAZ1522,2020-10-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Talgar,Besagash,43.2989,77.0394,1,National,0,KAZ
+KAZ1609,2020-12-05,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Ile,Muhametzhan Tuimebayev,43.411,76.9141,1,New media,0,KAZ
+KAZ724,2020-07-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Almaty,Talgar,Otegen-Batyr,43.4234,77.0143,1,National,0,KAZ
+KAZ759,2020-08-13,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Ile,Zhanadaur,43.4397,76.9566,1,National,0,KAZ
+KAZ806,2020-08-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Ile,Muhametzhan Tuimebayev,43.411,76.9141,2,New media,0,KAZ
+KAZ749,2020-08-10,1,Riots,Mob violence,Rioters (Kazakhstan),,,,Kazakhstan,Zhambyl,Talas,Kaskabulak,43.1263,70.3421,1,New media-National,0,KAZ
+KAZ1414,2020-09-17,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Talgar,Talgar,43.3027,77.2377,2,International,0,KAZ
+KAZ745,2020-08-07,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Almaty,Talgar,Talgar,43.3027,77.2377,1,International,0,KAZ
+KAZ1647,2020-12-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,East Kazakhstan,Glubokoe,Kamennyi Karier,50.0051,82.8218,1,National,0,KAZ
+KAZ2700,2020-09-15,2,Violence against civilians,Attack,Police Forces of Kazakhstan (2019-) Prison Guards,,Civilians (Kazakhstan),Prisoners (Kazakhstan); Women (Kazakhstan),Kazakhstan,Almaty,Ile,Zhaugashty,43.4088,76.6948,1,National,0,KAZ
+KAZ1378,2020-07-28,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Aqtobe,Aktobe,Aktobe,50.2832,57.2168,1,National,0,KAZ
+KAZ401,2020-01-05,1,Riots,Mob violence,Rioters (Kazakhstan),,,,Kazakhstan,Almaty City,Almaly,Almaty,43.2566,76.9286,1,National,0,KAZ
+KAZ1233,2020-02-04,1,Protests,Peaceful protest,Protesters (Kazakhstan),Labor Group (Kazakhstan),,,Kazakhstan,Qaraghandy,Zhanaarka,Atasu,48.6848,71.6354,1,National,0,KAZ
+KAZ1307,2020-05-25,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Qaraghandy,Zhanaarka,Atasu,48.6848,71.6354,1,National,0,KAZ
+KAZ1469,2020-10-11,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Karasay,Kokozek,43.3515,76.7692,1,New media,0,KAZ
+KAZ1284,2020-04-20,1,Riots,Violent demonstration,Rioters (Kazakhstan),,,,Kazakhstan,Almaty,Karasay,Kaskelen,43.1993,76.6295,1,National,0,KAZ
+KAZ1315,2020-05-29,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Almaty,Karasay,Kaskelen,43.1993,76.6295,1,National,0,KAZ
+KAZ1422,2020-09-20,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Karasay,Kaskelen,43.1993,76.6295,1,New media,0,KAZ
+KAZ1428,2020-09-22,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Karasay,Kaskelen,43.1993,76.6295,1,National,0,KAZ
+KAZ1532,2020-11-03,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Karasay,Dolan,43.1898,76.6846,1,National,0,KAZ
+KAZ1613,2020-12-07,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Karasay,Irgeli,43.2384,76.7638,1,New media,0,KAZ
+KAZ2004,2020-09-12,1,Violence against civilians,Sexual violence,Police Forces of Kazakhstan (2019-) National Security Committee,,Civilians (Kazakhstan),Women (Kazakhstan),Kazakhstan,Almaty,Karasay,Almalybak,43.222,76.6813,2,National,0,KAZ
+KAZ2213,2020-07-12,1,Violence against civilians,Attack,Police Forces of Kazakhstan (2019-),,Civilians (Kazakhstan),,Kazakhstan,Almaty,Karasay,Kaskelen,43.1993,76.6295,1,National,0,KAZ
+KAZ521,2020-02-21,1,Protests,Peaceful protest,Protesters (Kazakhstan),DPK: Democratic Party of Kazakhstan,,,Kazakhstan,Almaty,Karasay,Kaskelen,43.1993,76.6295,1,International,0,KAZ
+KAZ527,2020-02-21,1,Strategic developments,Arrests,Police Forces of Kazakhstan (2019-),,Civilians (Kazakhstan),DPK: Democratic Party of Kazakhstan,Kazakhstan,Almaty,Karasay,Kaskelen,43.1993,76.6295,1,International,0,KAZ
+KAZ559,2020-03-02,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Karasay,Kaskelen,43.1993,76.6295,1,New media,0,KAZ
+KAZ750,2020-08-10,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Karasay,Rayimbek,43.1967,76.7514,1,National,0,KAZ
+KAZ781,2020-08-20,1,Protests,Peaceful protest,Protesters (Kazakhstan),,,,Kazakhstan,Almaty,Karasay,Kaskelen,43.1993,76.6295,1,New media,0,KAZ
+KAZ839,2020-09-09,1,Protests,Peaceful protest,Protesters (Kazakhstan),Health Workers (Kazakhstan),,,Kazakhstan,Almaty,Karasay,Kaskelen,43.1993,76.6295,1,National,0,KAZ

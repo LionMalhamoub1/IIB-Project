@@ -1,0 +1,20 @@
+{
+  "date": "20180410",
+  "input": "C:\\Users\\lmalh\\OneDrive\\Documents\\GitHub\\IIB-Project\\Builder_GDELT\\results\\daily\\20180410\\extractions.jsonl",
+  "threshold": 0.45,
+  "raw_records": 114,
+  "canonical_events": 76,
+  "movements": 1,
+  "reduction_pct": 33.3,
+  "chain_warnings": 0,
+  "type_breakdown": {
+    "protests": {
+      "raw": 83,
+      "grouped": 55
+    },
+    "labour_strike": {
+      "raw": 31,
+      "grouped": 21
+    }
+  }
+}

@@ -1,0 +1,94 @@
+01:08:19  INFO      Loading panel...
+01:08:20  INFO      Panel: 71214 rows x 156 cols | 39 countries
+01:08:20  INFO      Monthly expanding window: 24 periods (2020-2021)
+01:08:20  INFO      ============================================================
+01:08:20  INFO      TARGET: protest_7d
+01:08:20  INFO      ============================================================
+01:08:20  INFO      Shifting 91 features by 7 days...
+01:08:20  INFO      Pre-computing VIF filter on base training data (2017-2019)...
+01:08:20  INFO        model0_persistence: 6 -> 6 features after VIF
+01:08:22  INFO        VIF filter: dropped 2/38 features (threshold=10) — oil_brent_pct_30d_z(25.3), vix_level(12.9)
+01:08:22  INFO        model1_markets: 38 -> 36 features after VIF
+01:08:34  INFO        VIF filter: dropped 8/57 features (threshold=10) — unemployment_sa(196.2), unemployment_total(65.1), oil_brent_pct_30d_z(25.4), rule_of_law_est(22.2), gdp_per_capita_growth(16.6), vix_level(13.0), unemployment_rate(10.3), gdelt_protest_28d_lag(10.2)
+01:08:34  INFO        model2_full: 57 -> 49 features after VIF
+01:08:51  INFO        VIF filter: dropped 9/65 features (threshold=10) — unemployment_sa(197.7), unemployment_total(74.8), oil_brent_pct_30d(36.9), rule_of_law_est(23.0), gdp_per_capita_growth(19.9), vix_level(13.1), unemployment_rate(11.6), oil_brent_pct_30d_z(10.9), gdelt_protest_28d_lag(10.2)
+01:08:51  INFO        model3_structural: 65 -> 56 features after VIF
+01:10:00  INFO        VIF filter: dropped 18/91 features (threshold=10) — fao_food_index_yoy_lag6m(373.8), unemployment_sa(205.3), fao_food_index_yoy(162.8), fao_food_index_yoy_lag1m(90.4), unemployment_total(77.6), fao_food_index_yoy_lag3m(56.6), oil_brent_pct_30d(46.4), yield_us10y(25.7), rule_of_law_est(24.0), fao_oils_index_yoy_lag6m(21.2), gdp_per_capita_growth(20.7), vix_level(19.5), fao_oils_index_yoy_lag1m(18.6), fao_oils_index_yoy(15.0), unemployment_rate(12.0), oil_brent_pct_30d_z(11.6), fx_pct_30d_x_instability(10.4), gdelt_protest_28d_lag(10.3)
+01:10:00  INFO        model4_fao: 91 -> 73 features after VIF
+01:10:50  INFO        VIF filter: dropped 17/85 features (threshold=10) — fao_food_index_yoy_lag6m(372.7), unemployment_sa(202.2), fao_food_index_yoy(161.6), fao_oils_index_yoy_lag1m(89.5), unemployment_total(75.9), fao_food_index_yoy_lag3m(64.4), oil_brent_pct_30d(46.0), yield_us10y(24.8), rule_of_law_est(23.0), fao_oils_index_yoy_lag6m(21.0), gdp_per_capita_growth(20.0), vix_level(19.1), fao_oils_index_yoy(18.4), fao_food_index_yoy_lag1m(13.8), unemployment_rate(11.7), oil_brent_pct_30d_z(11.6), fx_pct_30d_x_instability(10.4)
+01:10:50  INFO        model_lr_nolag: 85 -> 68 features after VIF
+01:10:58  INFO        2020-01 | train=42705  test=1209
+01:11:07  INFO        2020-02 | train=43914  test=1131
+01:11:16  INFO        2020-03 | train=45045  test=1209
+01:11:27  INFO        2020-04 | train=46254  test=1170
+01:11:39  INFO        2020-05 | train=47424  test=1209
+01:11:51  INFO        2020-06 | train=48633  test=1170
+01:12:03  INFO        2020-07 | train=49803  test=1209
+01:12:17  INFO        2020-08 | train=51012  test=1209
+01:12:38  INFO        2020-09 | train=52221  test=1170
+01:13:00  INFO        2020-10 | train=53391  test=1209
+01:13:22  INFO        2020-11 | train=54600  test=1170
+01:13:43  INFO        2020-12 | train=55770  test=1209
+01:14:04  INFO        2021-01 | train=56979  test=1209
+01:14:28  INFO        2021-02 | train=58188  test=1092
+01:14:49  INFO        2021-03 | train=59280  test=1209
+01:15:09  INFO        2021-04 | train=60489  test=1170
+01:15:33  INFO        2021-05 | train=61659  test=1209
+01:15:57  INFO        2021-06 | train=62868  test=1170
+01:16:23  INFO        2021-07 | train=64038  test=1209
+01:16:50  INFO        2021-08 | train=65247  test=1209
+01:17:15  INFO        2021-09 | train=66456  test=1170
+01:17:43  INFO        2021-10 | train=67626  test=1209
+01:18:01  INFO        2021-11 | train=68835  test=1170
+01:18:16  INFO        2021-12 | train=70005  test=936
+01:18:16  INFO      Saved -> C:\Users\lmalh\OneDrive\Documents\GitHub\IIB-Project\Social Disruptions\Likelihood_modelling_social\v3\data\processed\expanding_lr\preds_protest_7d.parquet
+01:18:16  INFO      Saved -> C:\Users\lmalh\OneDrive\Documents\GitHub\IIB-Project\Social Disruptions\Likelihood_modelling_social\v3\data\processed\expanding_lr\metrics_protest_7d.csv
+01:18:16  INFO      ============================================================
+01:18:16  INFO      TARGET: strike_7d
+01:18:16  INFO      ============================================================
+01:18:16  INFO      Shifting 91 features by 7 days...
+01:18:17  INFO      Pre-computing VIF filter on base training data (2017-2019)...
+01:18:17  INFO        model0_persistence: 6 -> 6 features after VIF
+01:18:18  INFO        VIF filter: dropped 2/38 features (threshold=10) — oil_brent_pct_30d_z(25.3), vix_level(12.9)
+01:18:18  INFO        model1_markets: 38 -> 36 features after VIF
+01:18:26  INFO        VIF filter: dropped 8/57 features (threshold=10) — unemployment_sa(196.2), unemployment_total(65.1), oil_brent_pct_30d_z(25.4), rule_of_law_est(22.2), gdp_per_capita_growth(16.6), vix_level(13.0), unemployment_rate(10.3), gdelt_protest_28d_lag(10.2)
+01:18:26  INFO        model2_full: 57 -> 49 features after VIF
+01:18:37  INFO        VIF filter: dropped 9/65 features (threshold=10) — unemployment_sa(197.7), unemployment_total(74.8), oil_brent_pct_30d(36.9), rule_of_law_est(23.0), gdp_per_capita_growth(19.9), vix_level(13.1), unemployment_rate(11.6), oil_brent_pct_30d_z(10.9), gdelt_protest_28d_lag(10.2)
+01:18:37  INFO        model3_structural: 65 -> 56 features after VIF
+01:19:26  INFO        VIF filter: dropped 18/91 features (threshold=10) — fao_food_index_yoy_lag6m(373.8), unemployment_sa(205.3), fao_food_index_yoy(162.8), fao_food_index_yoy_lag1m(90.4), unemployment_total(77.6), fao_food_index_yoy_lag3m(56.6), oil_brent_pct_30d(46.4), yield_us10y(25.7), rule_of_law_est(24.0), fao_oils_index_yoy_lag6m(21.2), gdp_per_capita_growth(20.7), vix_level(19.5), fao_oils_index_yoy_lag1m(18.6), fao_oils_index_yoy(15.0), unemployment_rate(12.0), oil_brent_pct_30d_z(11.6), fx_pct_30d_x_instability(10.4), gdelt_protest_28d_lag(10.3)
+01:19:26  INFO        model4_fao: 91 -> 73 features after VIF
+01:20:03  INFO        VIF filter: dropped 17/85 features (threshold=10) — fao_food_index_yoy_lag6m(372.7), unemployment_sa(202.2), fao_food_index_yoy(161.6), fao_oils_index_yoy_lag1m(89.5), unemployment_total(75.9), fao_food_index_yoy_lag3m(64.4), oil_brent_pct_30d(46.0), yield_us10y(24.8), rule_of_law_est(23.0), fao_oils_index_yoy_lag6m(21.0), gdp_per_capita_growth(20.0), vix_level(19.1), fao_oils_index_yoy(18.4), fao_food_index_yoy_lag1m(13.8), unemployment_rate(11.7), oil_brent_pct_30d_z(11.6), fx_pct_30d_x_instability(10.4)
+01:20:03  INFO        model_lr_nolag: 85 -> 68 features after VIF
+01:20:10  INFO        2020-01 | train=42705  test=1209
+01:20:20  INFO        2020-02 | train=43914  test=1131
+01:20:29  INFO        2020-03 | train=45045  test=1209
+01:20:39  INFO        2020-04 | train=46254  test=1170
+01:20:50  INFO        2020-05 | train=47424  test=1209
+01:21:00  INFO        2020-06 | train=48633  test=1170
+01:21:13  INFO        2020-07 | train=49803  test=1209
+01:21:25  INFO        2020-08 | train=51012  test=1209
+01:21:37  INFO        2020-09 | train=52221  test=1170
+01:21:50  INFO        2020-10 | train=53391  test=1209
+01:22:03  INFO        2020-11 | train=54600  test=1170
+01:22:16  INFO        2020-12 | train=55770  test=1209
+01:22:30  INFO        2021-01 | train=56979  test=1209
+01:22:43  INFO        2021-02 | train=58188  test=1092
+01:22:56  INFO        2021-03 | train=59280  test=1209
+01:23:09  INFO        2021-04 | train=60489  test=1170
+01:23:23  INFO        2021-05 | train=61659  test=1209
+01:23:38  INFO        2021-06 | train=62868  test=1170
+01:23:52  INFO        2021-07 | train=64038  test=1209
+01:24:07  INFO        2021-08 | train=65247  test=1209
+01:24:23  INFO        2021-09 | train=66456  test=1170
+01:24:37  INFO        2021-10 | train=67626  test=1209
+01:24:53  INFO        2021-11 | train=68835  test=1170
+01:25:08  INFO        2021-12 | train=70005  test=936
+01:25:08  INFO      Saved -> C:\Users\lmalh\OneDrive\Documents\GitHub\IIB-Project\Social Disruptions\Likelihood_modelling_social\v3\data\processed\expanding_lr\preds_strike_7d.parquet
+01:25:08  INFO      Saved -> C:\Users\lmalh\OneDrive\Documents\GitHub\IIB-Project\Social Disruptions\Likelihood_modelling_social\v3\data\processed\expanding_lr\metrics_strike_7d.csv
+01:25:08  INFO      
+Generating figures...
+01:25:10  INFO      Saved: C:\Users\lmalh\OneDrive\Documents\GitHub\IIB-Project\Social Disruptions\Likelihood_modelling_social\v3\figures\expanding_lr_timelines_protest_7d.png
+01:25:11  INFO      Saved: C:\Users\lmalh\OneDrive\Documents\GitHub\IIB-Project\Social Disruptions\Likelihood_modelling_social\v3\figures\expanding_lr_performance_protest_7d.png
+01:25:12  INFO      Saved: C:\Users\lmalh\OneDrive\Documents\GitHub\IIB-Project\Social Disruptions\Likelihood_modelling_social\v3\figures\expanding_lr_timelines_strike_7d.png
+01:25:12  INFO      Saved: C:\Users\lmalh\OneDrive\Documents\GitHub\IIB-Project\Social Disruptions\Likelihood_modelling_social\v3\figures\expanding_lr_performance_strike_7d.png
+01:25:12  INFO      Done.

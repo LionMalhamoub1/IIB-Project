@@ -1,0 +1,315 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities
+GUI2386,2023-01-10,1,Protests,Peaceful protest,Protesters (Guinea),Labor Group (Guinea); Women (Guinea),,,Guinea,Kankan,Kankan,Kankan,10.3854,-9.3057,1,National,0
+GUI2387,2023-01-09,1,Riots,Violent demonstration,Rioters (Guinea),,,,Guinea,Kankan,Mandiana,Mandiana,10.6258,-8.6941,1,National,0
+GUI2388,2023-01-12,1,Violence against civilians,Attack,Niagassola Communal Militia (Guinea),,Civilians (Guinea),Niagassola Communal Group (Guinea),Guinea,Kankan,Siguiri,Niagassola,12.3167,-9.1167,1,National,0
+GUI2392,2023-01-10,1,Protests,Peaceful protest,Protesters (Guinea),Health Workers (Guinea),,,Guinea,Kankan,Kankan,Kankan,10.3854,-9.3057,1,National,0
+GUI2394,2023-01-16,1,Riots,Mob violence,Rioters (Guinea),Labor Group (Guinea),Rioters (Guinea),Labor Group (Guinea),Guinea,Kankan,Siguiri,Siguiri,11.4167,-9.1665,1,National,0
+GUI2395,2023-01-15,1,Violence against civilians,Attack,Unidentified Armed Group (Guinea),,Civilians (Guinea),Pastoralists (Guinea),Guinea,Nzerekore,Lola,Zeassou,8.001,-8.3424,2,National,1
+GUI2396,2023-01-17,1,Violence against civilians,Attack,Unidentified Armed Group (Guinea),,Civilians (Guinea),Women (Guinea),Guinea,Nzerekore,Lola,Kani,7.906,-8.4182,1,National,1
+GUI2398,2023-01-20,1,Protests,Peaceful protest,Protesters (Guinea),Labor Group (Guinea),,,Guinea,Kankan,Kankan,Kankan,10.3854,-9.3057,1,National,0
+GUI2400,2023-01-20,1,Protests,Protest with intervention,Protesters (Guinea),Women (Guinea),Police Forces of Guinea (2021-),,Guinea,Nzerekore,Nzerekore,Nzerekore,7.7472,-8.8238,1,National,0
+GUI2401,2023-01-23,1,Protests,Peaceful protest,Protesters (Guinea),Miners (Guinea),,,Guinea,Kankan,Kouroussa,Kouroussa,10.6667,-9.9167,2,National,0
+GUI2404,2023-01-23,1,Protests,Peaceful protest,Protesters (Guinea),Students (Guinea),,,Guinea,Kankan,Siguiri,Siguiri,11.4167,-9.1665,1,National,0
+GUI2407,2023-02-06,1,Riots,Violent demonstration,Rioters (Guinea),Students (Guinea),Civilians (Guinea),Teachers (Guinea),Guinea,Labe,Labe,Labe,11.3182,-12.2833,1,National,0
+GUI2415,2023-02-11,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),,Guinea,Nzerekore,Beyla,Madina Koura,9.4,-8.1833,1,National,0
+GUI2417,2023-02-16,1,Riots,Mob violence,Rioters (Guinea),Vigilante Group (Guinea),Civilians (Burkina Faso),Miners (Burkina Faso),Guinea,Kankan,Mandiana,Niantanina,10.9636,-8.3311,1,National,1
+GUI2418,2023-02-15,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Kindia,Kindia,Sougueta,10.1501,-12.5374,1,National,0
+GUI2420,2023-02-21,1,Riots,Mob violence,Rioters (Guinea),Vigilante Group (Guinea),Civilians (Guinea),Police Forces of Guinea (2021-),Guinea,Labe,Labe,Labe,11.3182,-12.2833,2,National,0
+GUI2421,2023-03-02,1,Riots,Violent demonstration,Rioters (Guinea),Labor Group (Guinea); Miners (Guinea),Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Kankan,Kerouane,Lero,9.3666,-9.5667,1,National,0
+GUI2422,2023-03-01,1,Riots,Violent demonstration,Rioters (Guinea),Labor Group (Guinea); Miners (Guinea),Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Kankan,Kerouane,Lero,9.3666,-9.5667,1,National,0
+GUI2423,2023-03-01,1,Riots,Violent demonstration,Rioters (Guinea),Students (Guinea),Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Nzerekore,Nzerekore,Nzerekore,7.7472,-8.8238,1,National,0
+GUI2426,2023-02-27,1,Protests,Peaceful protest,Protesters (Guinea),Teachers (Guinea),,,Guinea,Kankan,Kankan,Kankan,10.3854,-9.3057,1,National,0
+GUI2432,2023-02-26,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Kankan,Siguiri,Bankon,11.5615,-8.8,1,National,0
+GUI2433,2023-03-03,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Kankan,Siguiri,Bankon,11.5615,-8.8,1,National,0
+GUI2447,2023-03-23,1,Protests,Protest with intervention,Protesters (Guinea),,Military Forces of Guinea (2021-) Gendarmerie,,Guinea,Labe,Tougue,Tougue,11.445,-11.6642,1,National,0
+GUI2448,2023-03-20,1,Protests,Peaceful protest,Protesters (Guinea),Teachers (Guinea),,,Guinea,Boke,Boke,Boke,10.9409,-14.2967,1,National,0
+GUI2449,2023-03-21,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Mamou,Mamou,Oure Kaba,10.1371,-11.6615,2,National,0
+GUI2453,2023-03-20,1,Riots,Mob violence,Rioters (Guinea),,Rioters (Guinea),,Guinea,Labe,Tougue,Tougue,11.445,-11.6642,1,National,0
+GUI2456,2023-03-25,1,Riots,Mob violence,Rioters (Guinea),Norodji Communal Group (Guinea),Rioters (Guinea),Norodji Communal Group (Guinea),Guinea,Faranah,Dinguiraye,Dinguiraye,11.2923,-10.7144,2,National,0
+GUI2458,2023-03-28,1,Protests,Peaceful protest,Protesters (Guinea),Labor Group (Guinea),,,Guinea,Nzerekore,Nzerekore,Samoe,7.8053,-8.8675,2,National,0
+GUI2459,2023-03-25,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Kankan,Kankan,Kankan,10.3854,-9.3057,1,National-International,0
+GUI2460,2023-03-26,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Kankan,Kankan,Kankan,10.3854,-9.3057,1,National-International,0
+GUI2463,2023-03-28,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Kankan,Kankan,Kankan,10.3854,-9.3057,1,National,0
+GUI2464,2023-03-27,1,Riots,Violent demonstration,Rioters (Guinea),,,,Guinea,Kankan,Kankan,Kankan,10.3854,-9.3057,1,National,0
+GUI2465,2023-03-26,1,Riots,Violent demonstration,Rioters (Guinea),,,,Guinea,Kankan,Siguiri,Siguiri,11.4167,-9.1665,1,National,0
+GUI2457,2023-03-30,1,Strategic developments,Arrests,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Civilians (Guinea),,Guinea,Kankan,Kankan,Kankan,10.3854,-9.3057,1,National,0
+GUI2467,2023-04-04,1,Riots,Mob violence,Rioters (Guinea),Mamadjana Communal Group (Guinea),Civilians (Guinea),Diarankourou Communal Group (Guinea),Guinea,Kankan,Mandiana,Faralako,10.6677,-8.7003,1,National,0
+GUI2469,2023-04-02,2,Strategic developments,Looting/property destruction,Military Forces of Guinea (2021-),Police Forces of Guinea (2021-); Military Forces of Guinea (2021-) Gendarmerie,Civilians (Guinea),,Guinea,Kankan,Kankan,Kankan,10.3854,-9.3057,1,National,0
+GUI2470,2023-04-05,1,Protests,Peaceful protest,Protesters (Guinea),Labor Group (Guinea),,,Guinea,Kankan,Mandiana,Koundianakoro,11.2333,-8.6833,1,National,0
+GUI2431,2023-03-04,1,Protests,Peaceful protest,Protesters (Guinea),Labor Group (Guinea),,,Guinea,Kindia,Kindia,Kagbelen,9.9169,-12.4396,1,National,0
+GUI2473,2023-04-08,1,Battles,Armed clash,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Unidentified Armed Group (Guinea),Miners (Guinea),Guinea,Kankan,Siguiri,Siguiri,11.4167,-9.1665,1,National,1
+GUI2474,2023-04-09,1,Riots,Mob violence,Rioters (Guinea),Vigilante Group (Guinea),Civilians (Guinea),,Guinea,Labe,Labe,Labe,11.3182,-12.2833,1,National,0
+GUI2437,2023-03-05,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Boke,Boffa,Douprou,10.2333,-14.35,1,National,0
+GUI2478,2023-04-14,1,Violence against civilians,Attack,Military Forces of Guinea (2021-),,Civilians (Guinea),,Guinea,Kankan,Kankan,Soronkoni,10.5412,-9.6247,1,National,1
+GUI2479,2023-04-15,1,Protests,Peaceful protest,Protesters (Guinea),Miners (Guinea),,,Guinea,Kankan,Mandiana,Mandiana,10.6258,-8.6941,1,National,0
+GUI2480,2023-04-16,1,Protests,Peaceful protest,Protesters (Guinea),Miners (Guinea),,,Guinea,Kankan,Mandiana,Mandiana,10.6258,-8.6941,1,National,0
+GUI2482,2023-04-17,1,Protests,Peaceful protest,Protesters (Guinea),Miners (Guinea),,,Guinea,Kankan,Mandiana,Mandiana,10.6258,-8.6941,1,National,0
+GUI2489,2023-04-27,1,Protests,Peaceful protest,Protesters (Guinea),Students (Guinea),,,Guinea,Labe,Labe,Labe,11.3182,-12.2833,1,National,0
+GUI2490,2023-04-26,1,Protests,Peaceful protest,Protesters (Guinea),Teachers (Guinea),,,Guinea,Kankan,Kankan,Kankan,10.3854,-9.3057,1,National,0
+GUI2491,2023-04-26,1,Protests,Peaceful protest,Protesters (Guinea),Teachers (Guinea),,,Guinea,Nzerekore,Nzerekore,Nzerekore,7.7472,-8.8238,1,National,0
+GUI2497,2023-05-02,1,Protests,Peaceful protest,Protesters (Guinea),Teachers (Guinea),,,Guinea,Kankan,Mandiana,Mandiana,10.6258,-8.6941,1,National,0
+GUI2498,2023-04-28,1,Protests,Peaceful protest,Protesters (Guinea),Women (Guinea),,,Guinea,Kankan,Mandiana,Mandiana,10.6258,-8.6941,1,National,0
+GUI2504,2023-05-02,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),,Guinea,Kankan,Siguiri,Balato,11.5715,-9.3231,1,National,0
+GUI2505,2023-05-11,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Kindia,Dubreka,Dubreka,9.7911,-13.5233,1,National,0
+GUI2506,2023-05-13,1,Riots,Mob violence,Rioters (Guinea),,Rioters (Guinea),,Guinea,Kankan,Siguiri,Doko,11.7812,-8.9683,2,National,7
+GUI2508,2023-05-13,1,Riots,Mob violence,Rioters (Guinea),,Rioters (Guinea),,Guinea,Kankan,Siguiri,Naboun,11.9797,-9.5182,2,National,0
+GUI2509,2023-05-14,1,Riots,Mob violence,Rioters (Guinea),,Rioters (Guinea),,Guinea,Kankan,Siguiri,Naboun,11.9797,-9.5182,2,National,1
+GUI2510,2023-05-15,1,Protests,Peaceful protest,Protesters (Guinea),Labor Group (Guinea); Women (Guinea),,,Guinea,Mamou,Mamou,Mamou,10.3833,-12.0833,1,National,0
+GUI2511,2023-05-17,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Kankan,Siguiri,Siguiri,11.4167,-9.1665,1,National,0
+GUI2512,2023-05-10,1,Protests,Protest with intervention,Protesters (Guinea),,Police Forces of Guinea (2021-),,Guinea,Kankan,Siguiri,Siguiri,11.4167,-9.1665,1,National,0
+GUI2517,2023-05-10,1,Riots,Violent demonstration,Rioters (Guinea),,,,Guinea,Nzerekore,Nzerekore,Nzerekore,7.7472,-8.8238,1,National,0
+GUI2520,2023-05-16,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Kankan,Kankan,Kankan,10.3854,-9.3057,1,National,0
+GUI2522,2023-05-22,1,Protests,Peaceful protest,Protesters (Guinea),Teachers (Guinea),,,Guinea,Kankan,Kankan,Kankan,10.3854,-9.3057,1,National,0
+GUI2523,2023-05-22,1,Protests,Peaceful protest,Protesters (Guinea),Teachers (Guinea),,,Guinea,Boke,Boke,Boke,10.9409,-14.2967,1,National,0
+GUI2525,2023-05-24,1,Protests,Peaceful protest,Protesters (Guinea),Women (Guinea),,,Guinea,Kankan,Kankan,Kankan,10.3854,-9.3057,1,National,0
+GUI2526,2023-05-24,1,Protests,Peaceful protest,Protesters (Guinea),Women (Guinea); RPG: Rally of the Guinean People,,,Guinea,Kankan,Siguiri,Siguiri,11.4167,-9.1665,1,National,0
+GUI2529,2023-05-31,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Kindia,Coyah,Kouriah,9.7773,-13.3457,1,National,0
+GUI2530,2023-05-30,1,Battles,Armed clash,Madina Communal Militia (Guinea),,Yiraya Communal Militia (Guinea),,Guinea,Kankan,Kerouane,Kerouane,9.2667,-9.0167,2,National,1
+GUI2531,2023-05-30,1,Protests,Peaceful protest,Protesters (Guinea),Women (Guinea),,,Guinea,Kindia,Kindia,Kindia,10.07,-12.85,1,National,0
+GUI2532,2023-05-30,1,Violence against civilians,Attack,Military Forces of Guinea (2021-) Gendarmerie,Unidentified Armed Group (Guinea),Civilians (Guinea),,Guinea,Boke,Koundara,Wouroundou,12.2271,-12.7847,1,National,1
+GUI2533,2023-06-07,1,Battles,Armed clash,Diguiling Communal Militia (Guinea),,Tomba Kansah Communal Militia (Guinea),,Guinea,Kankan,Siguiri,Siguirini,11.8166,-10.05,2,National,0
+GUI2534,2023-06-04,1,Riots,Mob violence,Rioters (Guinea),Miners (Guinea),,,Guinea,Kankan,Mandiana,Mandiana,10.6258,-8.6941,1,National,0
+GUI2535,2023-06-08,1,Riots,Mob violence,Rioters (Guinea),Vigilante Group (Guinea),Civilians (Guinea),,Guinea,Mamou,Mamou,Mamou,10.3833,-12.0833,2,National,1
+GUI2537,2023-06-08,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Nzerekore,Nzerekore,Nzerekore,7.7472,-8.8238,1,National,0
+GUI2539,2023-06-11,1,Riots,Mob violence,Rioters (Guinea),Pastoralists (Guinea),Rioters (Guinea),Farmers (Guinea),Guinea,Nzerekore,Lola,Laine,8.08,-8.48,2,National,3
+GUI2540,2023-06-12,1,Protests,Peaceful protest,Protesters (Guinea),Taxi Drivers (Guinea),,,Guinea,Labe,Labe,Labe,11.3182,-12.2833,1,National,0
+GUI2541,2023-06-09,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Kankan,Kerouane,Lero,9.3666,-9.5667,1,National,0
+GUI2542,2023-06-17,1,Protests,Peaceful protest,Protesters (Guinea),Labor Group (Guinea),,,Guinea,Kankan,Siguiri,Siguiri,11.4167,-9.1665,1,National,0
+GUI2545,2023-06-20,1,Protests,Peaceful protest,Protesters (Guinea),Labor Group (Guinea); Women (Guinea),,,Guinea,Kindia,Kindia,Kindia,10.07,-12.85,1,National,0
+GUI2521,2023-05-19,1,Riots,Mob violence,Rioters (Guinea),Students (Guinea),Civilians (Guinea),Government of Guinea (2021-),Guinea,Faranah,Faranah,Tiro,9.7389,-10.6359,1,National,0
+GUI2549,2023-07-02,1,Riots,Mob violence,Rioters (Guinea),Saraya Communal Group (Guinea),Rioters (Guinea),Foulatah Communal Group (Guinea),Guinea,Kankan,Siguiri,Saraya,11.6763,-9.757,1,National,0
+GUI2550,2023-07-05,1,Protests,Peaceful protest,Protesters (Guinea),Labor Group (Guinea),,,Guinea,Labe,Labe,Labe,11.3182,-12.2833,1,National,0
+GUI2554,2023-07-13,1,Riots,Mob violence,Rioters (Guinea),Vigilante Group (Guinea),Civilians (Guinea),,Guinea,Kindia,Kindia,Kindia,10.07,-12.85,1,National,1
+GUI2555,2023-07-12,1,Riots,Mob violence,Rioters (Guinea),,Rioters (Guinea),,Guinea,Nzerekore,Gueckedou,Bouadou,8.8425,-9.8901,2,National,0
+GUI2556,2023-07-14,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Kankan,Siguiri,Siguirini,11.8166,-10.05,1,National,0
+GUI2557,2023-07-11,1,Protests,Protest with intervention,Protesters (Guinea),,Military Forces of Guinea (2021-) Gendarmerie,Police Forces of Guinea (2021-),Guinea,Kankan,Siguiri,Siguiri,11.4167,-9.1665,1,National,0
+GUI2558,2023-07-07,1,Riots,Violent demonstration,Rioters (Guinea),Labor Group (Guinea),Private Security Forces (Guinea),,Guinea,Kindia,Kindia,Damakania,10.007,-12.9041,1,National,0
+GUI2562,2023-08-02,1,Riots,Mob violence,Rioters (Guinea),,Rioters (Guinea),,Guinea,Kankan,Kankan,Gberedou-Baranama,10.485,-9.5796,1,National,0
+GUI2564,2023-08-01,1,Riots,Violent demonstration,Rioters (Guinea),Taxi Drivers (Guinea),,,Guinea,Nzerekore,Lola,Lola,7.8,-8.5333,1,National,0
+GUI2565,2023-08-02,1,Protests,Peaceful protest,Protesters (Guinea),Women (Guinea),,,Guinea,Nzerekore,Lola,Lola,7.8,-8.5333,1,National,0
+GUI2566,2023-08-03,1,Riots,Violent demonstration,Rioters (Guinea),,Military Forces of Guinea (2021-) Gendarmerie,,Guinea,Boke,Gaoual,Kakony,11.4014,-13.1309,1,National,0
+GUI2569,2023-08-13,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Kankan,Kankan,Kankan,10.3854,-9.3057,1,National,0
+GUI2570,2023-08-13,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Kindia,Kindia,Kindia,10.07,-12.85,1,National,0
+GUI2571,2023-08-14,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Kindia,Kindia,Kindia,10.07,-12.85,1,National,0
+GUI2573,2023-08-15,1,Riots,Mob violence,Rioters (Guinea),Vigilante Group (Guinea),Civilians (Guinea),,Guinea,Nzerekore,Nzerekore,Samoe,7.8053,-8.8675,1,National,1
+GUI2575,2023-08-06,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Kankan,Siguiri,Franwalia,11.6972,-9.3836,1,National,0
+GUI2576,2023-08-07,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Kankan,Siguiri,Franwalia,11.6972,-9.3836,1,National,0
+GUI2578,2023-08-22,1,Riots,Mob violence,Rioters (Guinea),Vigilante Group (Guinea),Civilians (Guinea),,Guinea,Kankan,Siguiri,Lero,11.7666,-10.1166,1,National,1
+GUI2580,2023-08-23,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Kankan,Siguiri,Lero,11.7666,-10.1166,1,National,0
+GUI2581,2023-08-26,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Kankan,Kouroussa,Kouroussa,10.6667,-9.9167,1,National,0
+GUI2583,2023-08-25,1,Riots,Mob violence,Rioters (Guinea),Vigilante Group (Guinea),Police Forces of Guinea (2021-),,Guinea,Kankan,Siguiri,Fatoyah,11.571,-9.3436,1,National,0
+GUI2584,2023-08-23,1,Riots,Violent demonstration,Rioters (Guinea),Taxi Drivers (Guinea),Military Forces of Guinea (2021-) Gendarmerie,,Guinea,Labe,Labe,Labe,11.3182,-12.2833,1,National,0
+GUI2586,2023-08-25,1,Protests,Peaceful protest,Protesters (Guinea),Women (Guinea),,,Guinea,Kankan,Siguiri,Franwalia,11.6972,-9.3836,1,National,0
+GUI2588,2023-08-27,1,Protests,Peaceful protest,Protesters (Guinea),Women (Guinea),,,Guinea,Kankan,Siguiri,Franwalia,11.6972,-9.3836,1,National,0
+GUI2589,2023-08-21,1,Riots,Mob violence,Rioters (Guinea),,Civilians (Guinea),,Guinea,Kindia,Telimele,Nassouroulaye,11.1463,-13.2609,1,National,0
+GUI2591,2023-09-03,1,Riots,Mob violence,Rioters (Guinea),Taxi Drivers (Guinea),Rioters (Guinea),,Guinea,Kankan,Siguiri,Kouremale,11.9546,-8.7801,1,National,0
+GUI2440,2023-03-15,3,Protests,Protest with intervention,Protesters (Guinea),,Police Forces of Guinea (2021-),,Guinea,Faranah,Faranah,Faranah,10.0424,-10.7408,1,National,0
+GUI2524,2023-05-22,1,Protests,Peaceful protest,Protesters (Guinea),Teachers (Guinea),,,Guinea,Faranah,Faranah,Faranah,10.0424,-10.7408,1,National,0
+GUI2551,2023-07-04,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Faranah,Faranah,Faranah,10.0424,-10.7408,1,National,0
+GUI2600,2023-09-11,1,Protests,Peaceful protest,Protesters (Guinea),Women (Guinea); Street Traders (Guinea),,,Guinea,Kindia,Kindia,Kindia,10.07,-12.85,1,National,0
+GUI2601,2023-09-12,1,Protests,Peaceful protest,Protesters (Guinea),Women (Guinea); Street Traders (Guinea),,,Guinea,Kindia,Kindia,Kindia,10.07,-12.85,1,National,0
+GUI2389,2023-01-04,1,Violence against civilians,Attack,Private Security Forces (Guinea),,Civilians (Guinea),Journalists (Guinea),Guinea,Kankan,Siguiri,Siguiri,11.4167,-9.1665,1,National,0
+GUI2391,2023-01-12,1,Riots,Mob violence,Rioters (Guinea),Vigilante Group (Guinea),Military Forces of Guinea (2021-) Gendarmerie,Police Forces of Guinea (2021-),Guinea,Kindia,Dubreka,Dubreka,9.7911,-13.5233,1,National,0
+GUI2393,2023-01-20,1,Riots,Mob violence,Rioters (Guinea),Vigilante Group (Guinea),Civilians (Guinea),Police Forces of Guinea (2021-),Guinea,Labe,Labe,Labe,11.3182,-12.2833,1,National,0
+GUI2399,2023-01-16,2,Riots,Mob violence,Rioters (Guinea),,Police Forces of Guinea (2021-),,Guinea,Kankan,Kouroussa,Kiniero,10.3955,-9.7596,1,National,0
+GUI2408,2023-02-09,1,Riots,Mob violence,Rioters (Guinea),Students (Guinea),Rioters (Guinea),Students (Guinea),Guinea,Labe,Labe,Labe,11.3182,-12.2833,1,National,0
+GUI2410,2023-02-06,1,Protests,Peaceful protest,Protesters (Guinea),Women (Guinea); Labor Group (Guinea),,,Guinea,Kankan,Kerouane,Lero,9.3666,-9.5667,1,National,0
+GUI2414,2023-02-13,1,Riots,Mob violence,Rioters (Guinea),Students (Guinea),Rioters (Guinea),Students (Guinea),Guinea,Labe,Labe,Labe,11.3182,-12.2833,1,National,0
+GUI2451,2023-03-17,1,Riots,Mob violence,Rioters (Guinea),Farmers (Guinea),Rioters (Guinea),Fulani Ethnic Group (Guinea); Pastoralists (Guinea),Guinea,Boke,Gaoual,Foulamory,12.1599,-13.8395,1,National,0
+GUI2452,2023-03-18,1,Riots,Mob violence,Rioters (Guinea),Farmers (Guinea),Rioters (Guinea),Fulani Ethnic Group (Guinea); Pastoralists (Guinea),Guinea,Boke,Gaoual,Foulamory,12.1599,-13.8395,1,National,0
+GUI2455,2023-03-20,1,Violence against civilians,Attack,Unidentified Armed Group (Guinea),,Civilians (Guinea),Taxi Drivers (Guinea),Guinea,Kankan,Siguiri,Doko,11.7812,-8.9683,2,National,0
+GUI2481,2023-04-17,1,Violence against civilians,Attack,Unidentified Armed Group (Guinea),,Civilians (Guinea),Labor Group (Guinea),Guinea,Kindia,Kindia,Kindia,10.07,-12.85,1,National,1
+GUI2492,2023-04-27,1,Riots,Mob violence,Rioters (Guinea),,Rioters (Guinea),,Guinea,Kindia,Dubreka,Tondon,10.3714,-13.3557,2,National,0
+GUI2596,2023-09-14,1,Violence against civilians,Attack,Military Forces of Guinea (2021-) Special Forces,,Civilians (Guinea),,Guinea,Kindia,Forecariah,Forecariah,9.43,-13.09,1,National,1
+GUI2603,2023-09-18,1,Riots,Mob violence,Rioters (Guinea),Vigilante Group (Guinea),Civilians (Guinea),Farmers (Guinea),Guinea,Faranah,Dabola,Dabola,10.75,-11.1166,1,National,0
+GUI2604,2023-09-18,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Boke,Gaoual,Kollet,11.2175,-13.1154,1,National,0
+GUI2606,2023-09-18,1,Protests,Peaceful protest,Protesters (Guinea),Teachers (Guinea),,,Guinea,Kankan,Kankan,Kankan,10.3854,-9.3057,1,National,0
+GUI2607,2023-09-18,1,Protests,Peaceful protest,Protesters (Guinea),Teachers (Guinea),,,Guinea,Kindia,Kindia,Kindia,10.07,-12.85,1,National,0
+GUI2608,2023-09-19,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Nzerekore,Lola,Lola,7.8,-8.5333,1,National-International,0
+GUI2610,2023-09-21,1,Protests,Peaceful protest,Protesters (Guinea),Women (Guinea),,,Guinea,Kankan,Siguiri,Lero,11.7666,-10.1166,1,National,0
+GUI2615,2023-09-20,1,Riots,Violent demonstration,Rioters (Guinea),Miners (Guinea),Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Kankan,Siguiri,Siguirini,11.8166,-10.05,1,National,0
+GUI2616,2023-09-18,1,Protests,Peaceful protest,Protesters (Guinea),Teachers (Guinea),,,Guinea,Labe,Labe,Labe,11.3182,-12.2833,1,National,0
+GUI2617,2023-09-18,1,Protests,Peaceful protest,Protesters (Guinea),Teachers (Guinea),,,Guinea,Nzerekore,Lola,Lola,7.8,-8.5333,1,National,0
+GUI2618,2023-09-18,1,Protests,Peaceful protest,Protesters (Guinea),Teachers (Guinea),,,Guinea,Nzerekore,Nzerekore,Nzerekore,7.7472,-8.8238,1,National,0
+GUI2619,2023-09-24,1,Violence against civilians,Attack,Unidentified Armed Group (Guinea),,Civilians (Guinea),Miners (Guinea),Guinea,Kankan,Siguiri,Balato,11.5715,-9.3231,1,National,1
+GUI2621,2023-09-25,1,Riots,Mob violence,Rioters (Guinea),,Civilians (Guinea),Labor Group (Guinea),Guinea,Kankan,Siguiri,Balato,11.5715,-9.3231,1,National,0
+GUI2625,2023-09-28,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Nzerekore,Nzerekore,Bangoueta,7.7177,-8.6708,1,National,0
+GUI2640,2023-10-03,1,Riots,Mob violence,Rioters (Guinea),Vigilante Group (Guinea),Military Forces of Guinea (2021-) Gendarmerie,,Guinea,Mamou,Pita,Sangarea,10.6358,-12.8487,1,National,0
+GUI2641,2023-10-07,1,Riots,Mob violence,Rioters (Guinea),,Rioters (Guinea),,Guinea,Kankan,Siguiri,Siguiri,11.4167,-9.1665,1,National,0
+GUI2643,2023-10-11,1,Riots,Mob violence,Rioters (Guinea),Vigilante Group (Guinea),Civilians (Guinea),,Guinea,Kankan,Siguiri,Siguiri,11.4167,-9.1665,1,National,0
+GUI2644,2023-10-11,1,Riots,Mob violence,Rioters (Guinea),Vigilante Group (Guinea),Civilians (Guinea),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Nzerekore,Nzerekore,Nzerekore,7.7472,-8.8238,1,National,0
+GUI2656,2023-10-14,1,Protests,Peaceful protest,Protesters (Guinea),Labor Group (Guinea),,,Guinea,Faranah,Faranah,Faranah,10.0424,-10.7408,1,National,0
+GUI2658,2023-10-17,1,Violence against civilians,Attack,Military Forces of Guinea (2021-) Gendarmerie,,Civilians (Guinea),Labor Group (Guinea),Guinea,Boke,Boffa,Kolia,10.4407,-14.0085,1,National,0
+GUI2660,2023-10-23,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Boke,Boffa,Kavessi,10.6793,-14.0723,1,National,0
+GUI2661,2023-10-23,1,Protests,Peaceful protest,Protesters (Guinea),Women (Guinea),,,Guinea,Labe,Labe,Labe,11.3182,-12.2833,1,National,0
+GUI2662,2023-10-23,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Nzerekore,Nzerekore,Nzerekore,7.7472,-8.8238,1,National,0
+GUI2673,2023-10-29,1,Riots,Mob violence,Rioters (Guinea),,Military Forces of Guinea (2021-) Gendarmerie,,Guinea,Labe,Labe,Labe,11.3182,-12.2833,1,National,0
+GUI2677,2023-10-30,1,Riots,Violent demonstration,Rioters (Guinea),Students (Guinea),Military Forces of Guinea (2021-) Gendarmerie,Police Forces of Guinea (2021-),Guinea,Kindia,Dubreka,Dubreka,9.7911,-13.5233,1,National,0
+GUI2679,2023-11-02,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),Government of Guinea (2021-); Military Forces of Guinea (2021-) Gendarmerie,Guinea,Kindia,Kindia,Sougueta,10.1501,-12.5374,1,National,0
+GUI2680,2023-11-02,1,Riots,Violent demonstration,Rioters (Guinea),,,,Guinea,Labe,Koubia,Koubia,11.586,-11.8943,1,National,0
+GUI2681,2023-11-02,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),,Guinea,Kindia,Dubreka,Dubreka,9.7911,-13.5233,1,National,0
+GUI2685,2023-11-08,1,Violence against civilians,Attack,Unidentified Armed Group (Guinea),,Civilians (Guinea),,Guinea,Nzerekore,Nzerekore,Nzerekore,7.7472,-8.8238,1,National,1
+GUI2687,2023-11-13,1,Riots,Mob violence,Rioters (Guinea),Vigilante Group (Guinea),Civilians (Guinea),,Guinea,Nzerekore,Nzerekore,Nzerekore,7.7472,-8.8238,1,National,1
+GUI2690,2023-11-15,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Kankan,Kouroussa,Kouroussa,10.6667,-9.9167,1,National,0
+GUI2536,2023-06-06,1,Riots,Mob violence,Rioters (Guinea),,,,Guinea,Kankan,Siguiri,Siguiri,11.4167,-9.1665,1,National,0
+GUI2698,2023-11-21,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),,Guinea,Faranah,Faranah,Faranah,10.0424,-10.7408,1,National,0
+GUI2699,2023-11-22,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Guinea),,Civilians (Guinea),,Guinea,Faranah,Faranah,Faranah,10.0424,-10.7408,1,National,0
+GUI2700,2023-11-22,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Faranah,Faranah,Faranah,10.0424,-10.7408,1,National,0
+GUI2701,2023-11-22,1,Protests,Peaceful protest,Protesters (Guinea),Women (Guinea),,,Guinea,Kankan,Siguiri,Lero,11.7666,-10.1166,1,National,0
+GUI2702,2023-11-21,1,Protests,Peaceful protest,Protesters (Guinea),Miners (Guinea),,,Guinea,Kankan,Siguiri,Siguiri,11.4167,-9.1665,1,National,0
+GUI2703,2023-11-25,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Nzerekore,Beyla,Beyla,8.6833,-8.6333,1,National,0
+GUI2705,2023-11-27,1,Strategic developments,Change to group/activity,Government of Guinea (2021-),,,,Guinea,Kindia,Forecariah,Pamelap,9.1806,-12.9692,1,International,0
+GUI2708,2023-11-28,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Boke,Boffa,Garama,10.484,-13.4158,1,National,0
+GUI2710,2023-11-28,1,Riots,Violent demonstration,Rioters (Guinea),,,,Guinea,Kindia,Coyah,Kouriah,9.7773,-13.3457,1,National,0
+GUI2729,2023-12-01,1,Protests,Peaceful protest,Protesters (Guinea),Women (Guinea),,,Guinea,Kankan,Siguiri,Siguiri,11.4167,-9.1665,1,National,0
+GUI2735,2023-12-31,1,Violence against civilians,Attack,Unidentified Armed Group (Guinea),,Civilians (Guinea),,Guinea,Kankan,Siguiri,Boukaria,11.5509,-9.3632,1,National,0
+GUI2746,2023-12-29,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Labe,Labe,Labe,11.3182,-12.2833,1,National,0
+GUI2747,2023-12-31,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Guinea),,Civilians (Guinea),Women (Guinea),Guinea,Boke,Boke,Boke,10.9409,-14.2967,1,National,0
+GUI2748,2023-12-31,1,Violence against civilians,Attack,Military Forces of Guinea (2021-),,Civilians (Guinea),,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2397,2023-01-11,1,Protests,Peaceful protest,Protesters (Guinea),Fishers (Guinea),,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2403,2023-01-23,1,Strategic developments,Arrests,Military Forces of Guinea (2021-),,Civilians (Guinea),FNDC: National Front for the Defense of the Constitution,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National-International,0
+GUI2409,2023-02-10,1,Riots,Violent demonstration,Rioters (Guinea),,Military Forces of Guinea (2021-) Gendarmerie,Police Forces of Guinea (2021-),Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2411,2023-02-09,1,Protests,Peaceful protest,Protesters (Guinea),Women (Guinea),,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2413,2023-02-16,1,Riots,Violent demonstration,Rioters (Guinea),Civilians (Guinea); FNDC: National Front for the Defense of the Constitution; Journalists (Guinea),Police Forces of Guinea (2021-),Military Forces of Guinea (2021-); Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National-International,3
+GUI2416,2023-02-15,1,Protests,Protest with intervention,Protesters (Guinea),FNDC: National Front for the Defense of the Constitution,Police Forces of Guinea (2021-),,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2419,2023-01-21,1,Violence against civilians,Attack,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-); Military Forces of Guinea (2021-) Gendarmerie,Civilians (Guinea),,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,Other,0
+GUI2424,2023-02-25,1,Protests,Protest with intervention,Protesters (Guinea),,Military Forces of Guinea (2021-) Gendarmerie,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2425,2023-02-28,1,Riots,Mob violence,Rioters (Guinea),Vigilante Group (Guinea),Civilians (Guinea),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2427,2023-02-27,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2428,2023-02-25,1,Riots,Violent demonstration,Rioters (Guinea),FNDC: National Front for the Defense of the Constitution,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2429,2023-03-09,1,Violence against civilians,Attack,Police Forces of Guinea (2021-),,Civilians (Guinea),,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2430,2023-03-07,1,Protests,Peaceful protest,Protesters (Guinea),Baga Ethnic Group (Guinea),,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2434,2023-03-09,1,Riots,Violent demonstration,Rioters (Guinea),FNDC: National Front for the Defense of the Constitution,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2435,2023-03-08,1,Riots,Violent demonstration,Rioters (Guinea),FNDC: National Front for the Defense of the Constitution,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2438,2023-03-11,1,Riots,Mob violence,Rioters (Guinea),,Military Forces of Guinea (2021-) Fire Fighter Corps,Police Forces of Guinea (2021-),Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2439,2023-03-13,1,Protests,Peaceful protest,Protesters (Guinea),Labor Group (Guinea),,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2441,2023-03-14,1,Riots,Violent demonstration,Rioters (Guinea),FNDC: National Front for the Defense of the Constitution,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National-International,1
+GUI2442,2023-03-15,1,Riots,Violent demonstration,Rioters (Guinea),FNDC: National Front for the Defense of the Constitution,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National-International,0
+GUI2443,2023-03-16,1,Protests,Peaceful protest,Protesters (Guinea),Labor Group (Guinea),,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2444,2023-03-17,1,Protests,Peaceful protest,Protesters (Guinea),Labor Group (Guinea),,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2445,2023-03-11,1,Strategic developments,Arrests,Military Forces of Guinea (2021-) Gendarmerie,,Civilians (Guinea),FNDC: National Front for the Defense of the Constitution,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,Subnational-National,0
+GUI2446,2023-03-19,1,Riots,Violent demonstration,Rioters (Guinea),FNDC: National Front for the Defense of the Constitution,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,1
+GUI2450,2023-03-19,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2454,2023-03-23,1,Violence against civilians,Attack,Military Forces of Guinea (2021-),,Civilians (Guinea),,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2461,2023-03-24,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2468,2023-04-05,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2471,2023-04-06,1,Protests,Peaceful protest,Protesters (Guinea),Labor Group (Guinea),,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,Subnational-National,0
+GUI2475,2023-04-10,1,Protests,Peaceful protest,Protesters (Guinea),Labor Group (Guinea); Women (Guinea),,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2483,2023-04-18,1,Protests,Protest with intervention,Protesters (Guinea),,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2484,2023-04-20,1,Riots,Mob violence,Rioters (Guinea),Street Traders (Guinea),Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,Subnational-National,0
+GUI2485,2023-04-25,1,Riots,Violent demonstration,Rioters (Guinea),Women (Guinea),Police Forces of Guinea (2021-),,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2487,2023-04-25,1,Riots,Mob violence,Rioters (Guinea),Vigilante Group (Guinea),,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2496,2023-05-02,1,Protests,Peaceful protest,Protesters (Guinea),Labor Group (Guinea),,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2499,2023-04-30,1,Riots,Violent demonstration,Rioters (Guinea),,Military Forces of Guinea (2021-) Gendarmerie,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,1
+GUI2500,2023-05-01,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2501,2023-05-04,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2502,2023-04-28,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2503,2023-05-02,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie; Rioters (Guinea),Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2507,2023-05-10,1,Riots,Violent demonstration,Rioters (Guinea),FNDC: National Front for the Defense of the Constitution,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National-International,7
+GUI2513,2023-05-16,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2514,2023-05-11,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2515,2023-05-15,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2516,2023-05-09,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,Subnational-National,0
+GUI2518,2023-05-17,1,Protests,Protest with intervention,Protesters (Guinea),,Military Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie; Police Forces of Guinea (2021-),Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National-International,0
+GUI2528,2023-05-19,1,Protests,Protest with intervention,Protesters (Guinea),Journalists (Guinea),Military Forces of Guinea (2021-) Gendarmerie,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2538,2023-06-16,1,Protests,Peaceful protest,Protesters (Guinea),Women (Guinea),,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2544,2023-06-22,1,Protests,Protest with intervention,Protesters (Guinea),Refugees/IDPs (Guinea),Military Forces of Guinea (2021-) Presidential Security Unit,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2548,2023-06-30,1,Riots,Mob violence,Rioters (Guinea),,,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2552,2023-07-03,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2553,2023-07-02,1,Protests,Protest with intervention,Protesters (Guinea),,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,Subnational,0
+GUI2559,2023-07-10,1,Protests,Protest with intervention,Protesters (Guinea),,Military Forces of Guinea (2021-) Gendarmerie,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2560,2023-07-16,1,Protests,Protest with intervention,Protesters (Guinea),,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2561,2023-07-24,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,Subnational-National,0
+GUI2563,2023-07-31,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,Subnational-National,1
+GUI2567,2023-08-13,1,Protests,Peaceful protest,Protesters (Guinea),Government of Guinea (2021-),,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National-Regional,0
+GUI2568,2023-08-14,1,Protests,Peaceful protest,Protesters (Guinea),RPG: Rally of the Guinean People,,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National-Regional,0
+GUI2579,2023-08-26,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2585,2023-08-22,1,Riots,Mob violence,Rioters (Guinea),Vigilante Group (Guinea),Civilians (Guinea),,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2592,2023-09-05,1,Protests,Peaceful protest,Protesters (Guinea),Government of Guinea (2021-),,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2597,2023-09-11,1,Riots,Mob violence,Rioters (Guinea),Street Traders (Guinea),Police Forces of Guinea (2021-),,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2598,2023-09-15,1,Protests,Peaceful protest,Protesters (Guinea),Judges (Guinea),,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National-International,0
+GUI2599,2023-09-12,1,Protests,Peaceful protest,Protesters (Guinea),Street Traders (Guinea),,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2602,2023-09-13,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2609,2023-09-21,1,Protests,Peaceful protest,Protesters (Guinea),RPG: Rally of the Guinean People; Women (Guinea),,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,Subnational,0
+GUI2611,2023-09-22,1,Protests,Protest with intervention,Protesters (Guinea),Street Traders (Guinea); Women (Guinea),Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2620,2023-09-22,1,Strategic developments,Looting/property destruction,Military Forces of Guinea (2021-),,Civilians (Guinea),,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2624,2023-09-28,1,Protests,Peaceful protest,Protesters (Guinea),Street Traders (Guinea); Women (Guinea),,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2626,2023-09-28,1,Riots,Violent demonstration,Rioters (Guinea),,Military Forces of Guinea (2021-) Gendarmerie,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2634,2023-10-04,1,Protests,Peaceful protest,Protesters (Guinea),Police Forces of Guinea (2021-) Forest Guards,,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2657,2023-10-18,1,Riots,Mob violence,Rioters (Guinea),Vigilante Group (Guinea),Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2663,2023-10-26,1,Protests,Peaceful protest,Protesters (Guinea),Labor Group (Guinea); Women (Guinea),,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2676,2023-10-27,1,Protests,Peaceful protest,Protesters (Sierra Leone),,,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2684,2023-11-06,1,Strategic developments,Looting/property destruction,Military Forces of Guinea (2021-),Military Forces of Guinea (2021-),Civilians (Guinea),,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,Subnational-National,0
+GUI2686,2023-11-08,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2689,2023-11-12,1,Riots,Violent demonstration,Rioters (Guinea),,,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2691,2023-11-22,1,Protests,Protest with intervention,Protesters (Guinea),Taxi Drivers (Guinea); Labor Group (Guinea),Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2692,2023-11-20,1,Protests,Protest with intervention,Protesters (Guinea),Labor Group (Guinea),Military Forces of Guinea (2021-) Gendarmerie,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2695,2023-11-19,1,Protests,Protest with intervention,Protesters (Guinea),,Police Forces of Guinea (2021-),,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2704,2023-11-08,1,Violence against civilians,Abduction/forced disappearance,Military Forces of Guinea (2021-) Gendarmerie,,Civilians (Guinea),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2706,2023-11-27,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2709,2023-11-28,1,Protests,Protest with intervention,Protesters (Guinea),,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2711,2023-11-29,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2712,2023-11-30,1,Riots,Violent demonstration,Rioters (Guinea),,Military Forces of Guinea (2021-) Gendarmerie,Civilians (Guinea),Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2726,2023-12-06,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2728,2023-12-01,1,Violence against civilians,Attack,Military Forces of Guinea (2021-),Police Forces of Guinea (2021-),Civilians (Guinea),Students (Guinea),Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,1
+GUI2730,2023-12-11,1,Riots,Mob violence,Rioters (Guinea),,Military Forces of Guinea (2021-),Police Forces of Guinea (2021-),Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2412,2023-02-07,1,Violence against civilians,Attack,Unidentified Armed Group (Guinea),,Civilians (Guinea),Women (Guinea),Guinea,Labe,Tougue,Konah,11.4485,-11.8444,1,National,1
+GUI2436,2023-03-06,1,Riots,Mob violence,Rioters (Guinea),,Civilians (Guinea),Government of Guinea (2021-); Police Forces of Guinea (2021-),Guinea,Kankan,Mandiana,Mandiana,10.6258,-8.6941,1,National,0
+GUI2462,2023-03-28,1,Riots,Violent demonstration,Rioters (Guinea),Miners (Guinea),,,Guinea,Kankan,Siguiri,Naboun,11.9797,-9.5182,1,National,0
+GUI2547,2023-06-23,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-) Prison Guards,,Guinea,Kankan,Siguiri,Siguiri,11.4167,-9.1665,1,National,0
+GUI2405,2023-02-03,1,Protests,Peaceful protest,Protesters (Guinea),Students (Guinea),,,Guinea,Kankan,Kouroussa,Komoya,10.7142,-10.3133,1,National,0
+GUI2472,2023-04-03,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Boke,Boke,Kolaboui,10.8833,-14.3667,1,National,0
+GUI2476,2023-04-12,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Boke,Boke,Kolaboui,10.8833,-14.3667,1,National,0
+GUI2495,2023-04-30,1,Riots,Mob violence,Rioters (Guinea),,,,Guinea,Kankan,Siguiri,Tinkole,11.5668,-9.1749,1,National,0
+GUI2519,2023-05-16,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Boke,Boke,Kolaboui,10.8833,-14.3667,1,National,0
+GUI2674,2023-11-02,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Boke,Boke,Kolaboui,10.8833,-14.3667,1,National,0
+GUI2675,2023-10-30,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Kindia,Forecariah,Tanene,9.4832,-13.2939,1,National,0
+GUI2390,2023-01-11,1,Riots,Mob violence,Rioters (Guinea),Miners (Guinea),Rioters (Guinea),Miners (Guinea),Guinea,Boke,Boffa,Boffa,10.1813,-14.0381,1,National,0
+GUI2527,2023-05-21,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Boke,Boffa,Boffa,10.1813,-14.0381,1,National,0
+GUI2612,2023-09-18,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-); Military Forces of Guinea (2021-) Gendarmerie; Military Forces of Guinea (2021-) Special Forces,Guinea,Boke,Boffa,Boffa,10.1813,-14.0381,1,National-International,0
+GUI2613,2023-09-19,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-); Military Forces of Guinea (2021-) Gendarmerie,Guinea,Boke,Boffa,Boffa,10.1813,-14.0381,1,National-International,0
+GUI2614,2023-09-20,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-); Military Forces of Guinea (2021-) Gendarmerie,Guinea,Boke,Boffa,Boffa,10.1813,-14.0381,1,National-International,0
+GUI2914,2023-11-08,2,Violence against civilians,Abduction/forced disappearance,Military Forces of Guinea (2021-) Gendarmerie,,Civilians (Guinea),Former Military Forces of Guinea (2021-),Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National-Regional,0
+GUI2642,2023-10-10,1,Protests,Protest with intervention,Protesters (Guinea),,Police Forces of Guinea (2021-),,Guinea,Kankan,Siguiri,Siguiri,11.4167,-9.1665,1,National,0
+GUI2466,2023-03-27,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Boke,Boke,Kamsar,10.6667,-14.6,1,National,0
+GUI2605,2023-09-18,1,Protests,Peaceful protest,Protesters (Guinea),Teachers (Guinea),,,Guinea,Boke,Boke,Kamsar,10.6667,-14.6,1,National,0
+GUI2693,2023-11-15,3,Strategic developments,Change to group/activity,JNIM: Group for Support of Islam and Muslims,,,,Guinea,Kankan,Kankan,Kankan,10.3854,-9.3057,2,National,0
+GUI2694,2023-11-15,3,Strategic developments,Change to group/activity,JNIM: Group for Support of Islam and Muslims,,,,Guinea,Kankan,Mandiana,Mandiana,10.6258,-8.6941,2,National,0
+GUI2587,2023-08-19,1,Riots,Mob violence,Rioters (Guinea),,Civilians (Guinea),Farmers (Guinea),Guinea,Mamou,Dalaba,Dounkimagna,10.755,-12.2574,1,National,0
+GUI2958,2023-11-23,2,Strategic developments,Arrests,Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Civilians (Guinea),Former Government of Guinea (2021-); Former Military Forces of Guinea (2021-); Women (Guinea),Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,3,Other,0
+GUI2707,2023-11-27,1,Riots,Violent demonstration,Rioters (Guinea),Students (Guinea); Civilians (Guinea),Police Forces of Guinea (2021-),,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,Subnational-National,2
+GUI2727,2023-12-04,1,Riots,Violent demonstration,Rioters (Guinea),,Military Forces of Guinea (2021-),Police Forces of Guinea (2021-),Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2725,2023-12-05,1,Riots,Violent demonstration,Rioters (Guinea),,Military Forces of Guinea (2021-),Police Forces of Guinea (2021-),Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,2
+GUI2731,2023-12-21,1,Riots,Violent demonstration,Rioters (Guinea),Taxi Drivers (Guinea); Civilians (Guinea),Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National-International,1
+GUI2966,2023-12-07,1,Protests,Peaceful protest,Protesters (Guinea),Labor Group (Guinea); Women (Guinea),,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI3000,2023-12-01,1,Protests,Excessive force against protesters,Protesters (Guinea),Civilians (Guinea),Police Forces of Guinea (2021-),,Guinea,Nzerekore,Gueckedou,Koloma,8.35,-10.5167,1,National,1
+GUI2655,2023-10-16,1,Protests,Protest with intervention,Protesters (Guinea),Journalists (Guinea),Police Forces of Guinea (2021-),,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,Other-Subnational,0
+GUI2594,2023-09-05,1,Riots,Violent demonstration,Rioters (Guinea),Living Forces of Guinea (FVG),Military Forces of Guinea (2021-) Gendarmerie,Civilians (Guinea); Police Forces of Guinea (2021-),Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,Subnational-National,5
+GUI2577,2023-08-27,1,Riots,Mob violence,Rioters (Guinea),Civilians (Guinea),Military Forces of Guinea (2021-) Gendarmerie,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,1
+GUI2590,2023-09-08,1,Riots,Mob violence,Rioters (Guinea),Living Forces of Guinea (FVG),Police Forces of Guinea (2021-),,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2593,2023-09-04,1,Riots,Violent demonstration,Rioters (Guinea),Living Forces of Guinea (FVG),Military Forces of Guinea (2021-) Gendarmerie,Police Forces of Guinea (2021-),Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,2
+GUI2688,2023-11-14,1,Protests,Peaceful protest,Protesters (Guinea),RPG: Rally of the Guinean People; Women (Guinea),,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2659,2023-10-18,1,Protests,Protest with intervention,Protesters (Guinea),Students (Guinea),Police Forces of Guinea (2021-),Military Forces of Guinea (2021-) Gendarmerie,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2678,2023-10-30,1,Riots,Violent demonstration,Rioters (Guinea),,Military Forces of Guinea (2021-) Gendarmerie,Police Forces of Guinea (2021-),Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI2683,2023-11-04,1,Battles,Armed clash,Military Forces of Guinea (2021-),Military Forces of Guinea (2021-) Special Forces,Unidentified Armed Group (Guinea),,Guinea,Kindia,Dubreka,Dubreka,9.7911,-13.5233,1,National,1
+GUI2572,2023-08-15,1,Battles,Armed clash,Unidentified Armed Group (Guinea),,Military Forces of Guinea (2021-),,Guinea,Kankan,Siguiri,Niagassola,12.3167,-9.1167,2,National,1
+GUI2696,2023-11-21,1,Protests,Excessive force against protesters,Protesters (Guinea),Civilians (Guinea),Military Forces of Guinea (2021-) Gendarmerie,Police Forces of Guinea (2021-),Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,1
+GUI3001,2023-11-21,1,Strategic developments,Arrests,Military Forces of Guinea (2021-),,Civilians (Guinea),Former Government of Guinea (2021-),Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,International,0
+GUI3002,2023-08-05,1,Riots,Violent demonstration,Rioters (Guinea),,Police Forces of Guinea (2021-),,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI3003,2023-09-05,1,Protests,Peaceful protest,Protesters (Guinea),RPG: Rally of the Guinean People,,,Guinea,Kankan,Siguiri,Siguiri,11.4167,-9.1665,1,National,0
+GUI3005,2023-10-02,1,Protests,Peaceful protest,Protesters (Guinea),Taxi Drivers (Guinea),,,Guinea,Labe,Labe,Labe,11.3182,-12.2833,1,National,0
+GUI3007,2023-10-02,1,Protests,Peaceful protest,Protesters (Guinea),RPG: Rally of the Guinean People,,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0
+GUI3008,2023-10-02,1,Violence against civilians,Attack,Military Forces of Guinea (2021-) Gendarmerie,,Civilians (Guinea),,Guinea,Kindia,Kindia,Madina-Oula,9.88,-12.45,1,National,0
+GUI3009,2023-11-14,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Boke,Boke,Boke,10.9409,-14.2967,1,National,0
+GUI3012,2023-11-14,1,Riots,Violent demonstration,Rioters (Guinea),,Military Forces of Guinea (2021-) Gendarmerie,Police Forces of Guinea (2021-),Guinea,Nzerekore,Gueckedou,Gueckedou,8.5616,-10.1328,1,National,1
+GUI2488,2023-04-27,1,Riots,Violent demonstration,Rioters (Guinea),,,,Guinea,Kindia,Dubreka,Tondon,10.3714,-13.3557,2,National,0
+GUI2402,2023-01-21,1,Violence against civilians,Attack,Military Forces of Guinea (2021-),,Civilians (Guinea),FNDC: National Front for the Defense of the Constitution; Tournons la Page (TLP),Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,Local partner-Other,0
+GUI2477,2023-04-16,1,Riots,Violent demonstration,Rioters (Guinea),,,,Guinea,Kindia,Coyah,Wonkifon,9.6579,-13.3856,1,National,0
+GUI2493,2023-04-15,1,Violence against civilians,Attack,Police Forces of Guinea (2021-),,Civilians (Guinea),,Guinea,Kindia,Coyah,Wonkifon,9.6579,-13.3856,1,National,1
+GUI2494,2023-04-16,1,Violence against civilians,Attack,Police Forces of Guinea (2021-),,Civilians (Guinea),,Guinea,Kindia,Dubreka,Kakoulima,9.7709,-13.4476,1,National,1
+GUI2543,2023-06-22,1,Battles,Armed clash,Unidentified Armed Group (Guinea),,Police Forces of Guinea (2021-) Prison Guards,,Guinea,Kindia,Coyah,Wonkifon,9.6579,-13.3856,1,National,0
+GUI2546,2023-06-23,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Guinea),,Government of Guinea (2021-),,Guinea,Kindia,Coyah,Coyah,9.7056,-13.3769,1,National,0
+GUI2595,2023-09-05,1,Riots,Violent demonstration,Rioters (Guinea),,Military Forces of Guinea (2021-) Gendarmerie,Police Forces of Guinea (2021-),Guinea,Kindia,Coyah,Coyah,9.7056,-13.3769,1,National,0
+GUI2682,2023-11-04,1,Battles,Armed clash,Unidentified Armed Group (Guinea),,Police Forces of Guinea (2021-) Prison Guards,Military Forces of Guinea (2021-) Special Forces; Military Forces of Guinea (2021-),Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,Subnational-National,9
+GUI3329,2023-11-22,1,Riots,Mob violence,Rioters (Guinea),Vigilante Group (Guinea),,,Guinea,Faranah,Faranah,Faranah,10.0424,-10.7408,1,National,0
+GUI3330,2023-11-21,1,Protests,Peaceful protest,Protesters (Guinea),,,,Guinea,Conakry,Conakry,Conakry,9.642,-13.5615,1,National,0

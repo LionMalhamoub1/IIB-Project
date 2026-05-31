@@ -1,0 +1,583 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+JAM1701,2023-01-01,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Unidentified Armed Group (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1702,2023-01-01,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),Rastafari Group (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1703,2023-01-01,2,Battles,Armed clash,Unidentified Gang (Jamaica),,Unidentified Armed Group (Jamaica),,Jamaica,Saint Catherine,,Portmore,17.9503,-76.8822,1,National,1,JAM
+JAM1705,2023-01-03,1,Violence against civilians,Attack,Police Forces of Jamaica (2016-),,Civilians (Jamaica),Women (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1715,2023-01-14,1,Strategic developments,Looting/property destruction,Police Forces of Jamaica (2016-),Military Forces of Jamaica (2016-),Unidentified Gang (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1716,2023-01-15,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1718,2023-01-17,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1720,2023-01-18,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1721,2023-01-11,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Women (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1724,2023-01-23,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Women (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1732,2023-01-31,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1733,2023-01-30,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1736,2023-02-01,1,Battles,Armed clash,Unidentified Gang (Jamaica),,Unidentified Gang (Jamaica),,Jamaica,Portland,,Port Antonio,18.1762,-76.4509,1,National,0,JAM
+JAM1737,2023-01-28,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,2,JAM
+JAM1739,2023-02-06,1,Battles,Armed clash,Blue Window Gang,,Police Forces of Jamaica (2016-),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,2,JAM
+JAM1740,2023-02-06,1,Violence against civilians,Attack,Police Forces of Jamaica (2016-),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1744,2023-02-01,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Trelawny,,Falmouth,18.4936,-77.6559,1,National,0,JAM
+JAM1748,2023-02-09,2,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1751,2023-02-07,1,Riots,Violent demonstration,Rioters (Jamaica),Taxi/Bus Drivers (Jamaica),,,Jamaica,Saint Ann,,Runaway Bay,18.4596,-77.3357,2,National,0,JAM
+JAM1752,2023-02-08,1,Riots,Violent demonstration,Rioters (Jamaica),Taxi/Bus Drivers (Jamaica),Police Forces of Jamaica (2016-),,Jamaica,Saint Ann,,Brown's Town,18.3928,-77.3677,1,National,0,JAM
+JAM1753,2023-02-08,1,Riots,Violent demonstration,Rioters (Jamaica),Taxi/Bus Drivers (Jamaica),Police Forces of Jamaica (2016-),,Jamaica,Saint Ann,,Runaway Bay,18.4596,-77.3357,1,National,0,JAM
+JAM1754,2023-02-09,2,Riots,Mob violence,Rioters (Jamaica),Taxi/Bus Drivers (Jamaica),Civilians (Jamaica),Taxi/Bus Drivers (Jamaica),Jamaica,Saint Ann,,Saint Ann's Bay,18.4358,-77.201,1,National,0,JAM
+JAM1755,2023-02-06,1,Protests,Peaceful protest,Protesters (Jamaica),Taxi/Bus Drivers (Jamaica),,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1756,2023-02-06,1,Protests,Peaceful protest,Protesters (Jamaica),Taxi/Bus Drivers (Jamaica),,,Jamaica,Saint Ann,,Saint Ann's Bay,18.4358,-77.201,1,National,0,JAM
+JAM1758,2023-02-06,1,Riots,Violent demonstration,Rioters (Jamaica),,,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1760,2023-02-10,2,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Sligoville,18.0949,-76.9412,1,National,1,JAM
+JAM1761,2023-02-11,2,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Sligoville,18.0949,-76.9412,1,National,1,JAM
+JAM1763,2023-02-15,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Portmore,17.9503,-76.8822,1,National,1,JAM
+JAM1764,2023-02-11,2,Riots,Mob violence,Rioters (Jamaica),Vigilante Group (Jamaica),Civilians (Jamaica),,Jamaica,Saint Elizabeth,,New Market,18.1492,-77.9039,1,National,0,JAM
+JAM1770,2023-02-19,1,Protests,Peaceful protest,Protesters (Jamaica),Students (Jamaica),,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1772,2023-01-28,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,2,JAM
+JAM1779,2023-02-21,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1780,2023-02-24,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1781,2023-02-24,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1782,2023-02-28,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1783,2023-03-01,1,Protests,Peaceful protest,Protesters (Jamaica),Christian Group (Jamaica),,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1784,2023-03-01,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Military Forces of Jamaica (2016-); Taxi/Bus Drivers (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1786,2023-02-26,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Saint James,,Garlands Rising,18.3045,-77.8271,1,National,1,JAM
+JAM1789,2023-02-26,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Westmoreland,,Bethel Town,18.2948,-77.9523,1,National,1,JAM
+JAM1794,2023-03-06,1,Protests,Peaceful protest,Protesters (Jamaica),PNP: People's National Party,,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1797,2023-03-06,1,Protests,Peaceful protest,Protesters (Jamaica),Teachers (Jamaica),,,Jamaica,Saint Catherine,,Portmore,17.9503,-76.8822,1,National,0,JAM
+JAM1799,2023-03-06,1,Protests,Peaceful protest,Protesters (Jamaica),Teachers (Jamaica),,,Jamaica,Saint Catherine,,Waterford,18.2531,-76.9845,1,National,0,JAM
+JAM1801,2023-03-06,1,Protests,Peaceful protest,Protesters (Jamaica),Teachers (Jamaica),,,Jamaica,Saint Elizabeth,,Maggotty,18.1595,-77.7624,1,National,0,JAM
+JAM1807,2023-03-08,1,Protests,Peaceful protest,Protesters (Jamaica),Teachers (Jamaica),,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1808,2023-03-05,1,Violence against civilians,Attack,Unidentified Communal Militia (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1809,2023-03-06,1,Riots,Violent demonstration,Rioters (Jamaica),,,,Jamaica,Portland,,Fairy Hill,18.1645,-76.3729,1,National,0,JAM
+JAM1812,2023-03-10,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1813,2023-03-16,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Taxi/Bus Drivers (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1818,2023-03-03,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,2,JAM
+JAM1819,2023-03-18,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1820,2023-03-18,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1821,2023-03-21,1,Protests,Peaceful protest,Protesters (Jamaica),Labor Group (Jamaica),,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1822,2023-03-22,1,Protests,Peaceful protest,Protesters (Jamaica),Health Workers (Jamaica),,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1828,2023-03-24,2,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Unidentified Armed Group (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1832,2023-03-28,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Taxi/Bus Drivers (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1833,2023-03-28,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1835,2023-03-16,1,Protests,Peaceful protest,Protesters (Jamaica),PNP: People's National Party,,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1836,2023-03-30,1,Protests,Peaceful protest,Protesters (Jamaica),Taxi/Bus Drivers (Jamaica),,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1837,2023-03-30,1,Protests,Peaceful protest,Protesters (Jamaica),Taxi/Bus Drivers (Jamaica),,,Jamaica,Saint Catherine,,Portmore,17.9503,-76.8822,1,National,0,JAM
+JAM1844,2023-03-27,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1845,2023-04-02,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1846,2023-04-03,2,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1847,2023-04-04,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1848,2023-04-04,1,Strategic developments,Change to group/activity,Government of Jamaica (2016-),,,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1849,2023-04-05,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1850,2023-04-05,2,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Tivoli Gardens Gang,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1851,2023-04-06,1,Protests,Peaceful protest,Protesters (Jamaica),Private Security Forces (Jamaica),,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1852,2023-04-06,2,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1857,2023-03-26,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Old Harbour,17.9414,-77.109,1,National,0,JAM
+JAM1862,2023-04-08,2,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1866,2023-04-12,1,Riots,Mob violence,Rioters (Jamaica),Vigilante Group (Jamaica),Civilians (Jamaica),,Jamaica,Saint Ann,,Claremont,18.3326,-77.1749,1,National,1,JAM
+JAM1877,2023-04-26,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1878,2023-04-26,1,Protests,Peaceful protest,Protesters (Jamaica),Teachers (Jamaica),,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1879,2023-04-27,1,Battles,Armed clash,Unidentified Gang (Jamaica),,Unidentified Gang (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1881,2023-04-24,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Farmers (Jamaica),Jamaica,Saint Ann,,Saint Ann's Bay,18.4358,-77.201,3,National,1,JAM
+JAM1892,2023-05-13,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Saint James,,Greenwood,18.5068,-77.744,1,National,2,JAM
+JAM1896,2023-05-16,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Unidentified Armed Group (Jamaica),,Jamaica,Saint Ann,,Bamboo,18.3911,-77.2664,1,National,1,JAM
+JAM1900,2023-03-23,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1902,2023-04-28,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),Christian Group (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1905,2023-05-01,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Portland,,Fairy Hill,18.1645,-76.3729,1,National,0,JAM
+JAM1906,2023-05-01,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Portmore,17.9503,-76.8822,1,National,1,JAM
+JAM1908,2023-05-03,1,Riots,Mob violence,Rioters (Jamaica),PNP: People's National Party,,,Jamaica,Saint Catherine,,Portmore,17.9503,-76.8822,1,National,0,JAM
+JAM1909,2023-05-07,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Police Forces of Jamaica (2016-),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1910,2023-05-07,1,Violence against civilians,Attack,Police Forces of Jamaica (2016-),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1911,2023-05-08,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Unidentified Gang (Jamaica),,Jamaica,Clarendon,,Longville Park,17.9092,-77.1549,2,National,1,JAM
+JAM1912,2023-05-08,1,Riots,Violent demonstration,Rioters (Jamaica),,,,Jamaica,Portland,,Drapers,18.1763,-76.4104,1,National,0,JAM
+JAM1898,2023-05-19,1,Protests,Peaceful protest,Protesters (Jamaica),Students (Jamaica); PNP: People's National Party; Christian Group (Jamaica),,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1918,2023-05-22,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1919,2023-05-24,1,Protests,Peaceful protest,Protesters (Jamaica),Labor Group (Jamaica),,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1920,2023-05-20,1,Protests,Peaceful protest,Protesters (Jamaica),PNP: People's National Party,,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1921,2023-05-19,1,Protests,Peaceful protest,Protesters (Jamaica),Students (Jamaica),,,Jamaica,Saint Elizabeth,,Pisgah,18.2035,-77.8817,1,National,0,JAM
+JAM1924,2023-05-23,1,Strategic developments,Arrests,Police Forces of Jamaica (2016-),,Unidentified Gang (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1928,2023-05-22,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1932,2023-05-26,1,Protests,Peaceful protest,Protesters (Jamaica),Christian Group (Jamaica),,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1935,2023-05-28,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Portmore,17.9503,-76.8822,1,National,2,JAM
+JAM1938,2023-06-06,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Portmore,17.9503,-76.8822,1,National,0,JAM
+JAM1940,2023-06-07,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Unidentified Armed Group (Jamaica),,Jamaica,Saint Catherine,,Hellshire,17.8999,-76.8971,1,National,1,JAM
+JAM1943,2023-06-08,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1944,2023-06-04,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Ann,,Saint Ann's Bay,18.4358,-77.201,1,National,1,JAM
+JAM1945,2023-06-07,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Hellshire,17.8999,-76.8971,1,National-Regional,1,JAM
+JAM1949,2023-06-08,1,Protests,Peaceful protest,Protesters (Jamaica),Christian Group (Jamaica),,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1951,2023-06-05,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Saint Ann,,Saint Ann's Bay,18.4358,-77.201,1,National,0,JAM
+JAM1953,2023-06-01,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Saint Catherine,,Linstead,18.1368,-77.0317,1,National,0,JAM
+JAM1959,2023-06-12,1,Protests,Peaceful protest,Protesters (Jamaica),Teachers (Jamaica); Women (Jamaica),,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1960,2023-06-12,1,Protests,Peaceful protest,Protesters (Jamaica),Women (Jamaica),,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1961,2023-06-12,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Linstead,18.1368,-77.0317,1,National,1,JAM
+JAM1963,2023-06-13,1,Protests,Peaceful protest,Protesters (Jamaica),Labor Group (Jamaica); Taxi/Bus Drivers (Jamaica),,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1964,2023-06-14,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),Women (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1965,2023-06-15,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1962,2023-06-12,1,Strategic developments,Looting/property destruction,PNP: People's National Party,,Civilians (Jamaica),PNP: People's National Party,Jamaica,Saint Catherine,,Portmore,17.9503,-76.8822,1,National,0,JAM
+JAM1969,2023-03-09,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Top Burgher Gully Gang,,Jamaica,Saint Catherine,,Central Village,18.0011,-76.9168,1,National,4,JAM
+JAM1970,2023-05-03,1,Violence against civilians,Attack,Sunlight Street Gang,,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1971,2023-06-19,1,Battles,Armed clash,Sunlight Street Gang,,Sunlight Street Gang,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1976,2023-01-15,3,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Unidentified Gang (Jamaica),,Jamaica,Saint Catherine,,Hellshire,17.8999,-76.8971,1,National,0,JAM
+JAM1978,2023-02-14,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1869,2023-04-06,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1870,2023-04-18,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Unidentified Gang (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1871,2023-04-20,1,Protests,Peaceful protest,Protesters (Jamaica),Private Security Forces (Jamaica); Labor Group (Jamaica),,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1981,2023-04-30,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,3,JAM
+JAM1982,2023-06-19,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1983,2023-06-25,1,Battles,Armed clash,Sunlight Street Gang,,Sunlight Street Gang,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,2,JAM
+JAM1984,2023-06-27,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Former Military Forces of Jamaica (2016-),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1985,2023-06-27,1,Violence against civilians,Attack,Sunlight Street Gang,,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1986,2023-06-28,1,Battles,Armed clash,Sunlight Street Gang,,Police Forces of Jamaica (2016-),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1988,2023-06-28,1,Battles,Armed clash,Unidentified Gang (Jamaica),,Unidentified Gang (Jamaica),,Jamaica,Saint Catherine,,Central Village,18.0011,-76.9168,1,National,1,JAM
+JAM1989,2023-06-26,2,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Linstead,18.1368,-77.0317,1,National,0,JAM
+JAM1990,2023-06-29,2,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Linstead,18.1368,-77.0317,1,National,1,JAM
+JAM1992,2023-06-29,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Unidentified Armed Group (Jamaica),,Jamaica,Saint James,,Greenwood,18.5068,-77.744,1,National,1,JAM
+JAM1993,2023-06-25,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Westmoreland,,Bethel Town,18.2948,-77.9523,2,National,1,JAM
+JAM1997,2023-07-02,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,2,JAM
+JAM1998,2023-07-03,1,Protests,Peaceful protest,Protesters (Jamaica),Labor Group (Jamaica),,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1999,2023-07-03,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),Women (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2001,2023-07-01,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Ann,,Brown's Town,18.3928,-77.3677,1,National,1,JAM
+JAM2002,2023-07-03,1,Riots,Mob violence,Rioters (Jamaica),Vigilante Group (Jamaica),Civilians (Jamaica),,Jamaica,Saint Ann,,Watt Town,18.3136,-77.4118,2,National,2,JAM
+JAM2003,2023-07-07,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Bog Walk,18.1021,-77.0054,1,National,1,JAM
+JAM2006,2023-07-02,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Saint Catherine,,Portmore,17.9503,-76.8822,1,National,1,JAM
+JAM2007,2023-07-03,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Former Police Forces of Jamaica (2016-),Jamaica,Saint Catherine,,Portmore,17.9503,-76.8822,1,National,1,JAM
+JAM1987,2023-06-30,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Unidentified Armed Group (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,3,JAM
+JAM2022,2023-07-14,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2025,2023-07-18,1,Battles,Armed clash,Police Forces of Jamaica (2016-),Military Forces of Jamaica (2016-),Unidentified Armed Group (Jamaica),,Jamaica,Saint James,,Maroon Town,18.3428,-77.7938,1,National,1,JAM
+JAM2026,2023-07-21,1,Battles,Armed clash,Strap Dem Gang,,Unidentified Gang (Jamaica),,Jamaica,Saint Ann,,Brown's Town,18.3928,-77.3677,1,National,1,JAM
+JAM2027,2023-07-16,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2029,2023-07-15,2,Violence against civilians,Attack,Hothead/YPC Gang,,Civilians (Jamaica),,Jamaica,Saint Ann,,Discovery Bay,18.4627,-77.3967,1,National,2,JAM
+JAM2031,2023-06-28,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2034,2023-07-19,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Sligoville,18.0949,-76.9412,1,National,1,JAM
+JAM2037,2023-05-30,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2005,2023-07-01,1,Riots,Mob violence,Rioters (Jamaica),Vigilante Group (Jamaica),Civilians (Jamaica),,Jamaica,Saint Catherine,,Old Harbour,17.9414,-77.109,1,National,1,JAM
+JAM2042,2023-07-21,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Saint Catherine,,Portmore,17.9503,-76.8822,1,National,1,JAM
+JAM2044,2023-07-21,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2045,2023-07-30,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Portmore,17.9503,-76.8822,1,National,0,JAM
+JAM2046,2023-04-07,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2054,2023-08-03,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,3,JAM
+JAM1922,2023-05-26,1,Protests,Peaceful protest,Protesters (Jamaica),Teachers (Jamaica),,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2053,2023-07-30,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,2,JAM
+JAM2057,2023-03-15,3,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Portmore,17.9503,-76.8822,1,National,1,JAM
+JAM2061,2023-07-15,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Flamstead,18.3281,-77.8213,1,National,1,JAM
+JAM2062,2023-07-31,2,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Unidentified Gang (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,2,JAM
+JAM2063,2023-08-01,2,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,2,JAM
+JAM2068,2023-08-06,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica); Women (Jamaica),Jamaica,Saint Catherine,,Portmore,17.9503,-76.8822,1,National,1,JAM
+JAM2074,2023-08-10,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica); Women (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2075,2023-08-12,1,Riots,Mob violence,Rioters (Jamaica),Vigilante Group (Jamaica),Civilians (Jamaica),,Jamaica,Saint Ann,,Discovery Bay,18.4627,-77.3967,1,National,0,JAM
+JAM2079,2023-08-15,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Waterloo Valley,18.025,-76.937,1,National,0,JAM
+JAM2091,2023-08-22,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2092,2023-08-24,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2094,2023-08-27,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2097,2023-09-01,1,Protests,Peaceful protest,Protesters (Jamaica),Labor Group (Jamaica),,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2083,2023-08-17,1,Violence against civilians,Attack,Police Forces of Jamaica (2016-),,Civilians (Jamaica),Civilians (Guyana),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2103,2023-08-02,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2104,2023-09-01,2,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2105,2023-09-03,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2106,2023-09-06,1,Violence against civilians,Attack,Police Forces of Jamaica (2016-),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2107,2023-09-06,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,2,JAM
+JAM2108,2023-09-07,1,Riots,Violent demonstration,Rioters (Jamaica),,,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2109,2023-09-08,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Journalists (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2110,2023-09-03,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Portland,,Spring Hill,18.1278,-76.7151,1,National,1,JAM
+JAM2113,2023-07-23,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Central Village,18.0011,-76.9168,1,National,0,JAM
+JAM2115,2023-09-05,2,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Linstead,18.1368,-77.0317,1,National,1,JAM
+JAM2121,2023-09-06,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Westmoreland,,Mount Airy,18.148,-78.0126,1,National,1,JAM
+JAM2128,2023-08-07,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Portmore,17.9503,-76.8822,1,National,1,JAM
+JAM2130,2023-09-09,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Ann,,Claremont,18.3326,-77.1749,1,National,1,JAM
+JAM2132,2023-09-13,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,One Don Gang,,Jamaica,Saint Catherine,,Bog Walk,18.1021,-77.0054,1,National,1,JAM
+JAM2133,2023-09-13,1,Violence against civilians,Attack,One Don Gang,,Civilians (Jamaica),,Jamaica,Saint Catherine,,Riversdale,18.1645,-76.9653,1,National,1,JAM
+JAM2024,2023-06-30,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2137,2023-09-16,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Unidentified Armed Group (Jamaica),,Jamaica,Saint Catherine,,Central Village,18.0011,-76.9168,1,National,1,JAM
+JAM2139,2023-09-20,2,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2000,2023-07-07,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2141,2023-09-09,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Portmore,17.9503,-76.8822,1,National,1,JAM
+JAM2142,2023-09-23,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,3,JAM
+JAM2143,2023-09-23,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Taxi/Bus Drivers (Jamaica),Jamaica,Saint Catherine,,Old Harbour,17.9414,-77.109,1,National,1,JAM
+JAM2145,2023-09-24,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Unidentified Gang (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2146,2023-09-24,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,3,JAM
+JAM2147,2023-09-24,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Saint Ann,,Discovery Bay,18.4627,-77.3967,1,National,0,JAM
+JAM2150,2023-09-26,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2151,2023-09-26,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2152,2023-09-26,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Farmers (Jamaica); Women (Jamaica),Jamaica,Saint Catherine,,Riversdale,18.1645,-76.9653,1,National,4,JAM
+JAM2156,2023-09-28,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Unidentified Armed Group (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2036,2023-07-20,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Government of Jamaica (2016-); PNP: People's National Party,Jamaica,Saint Catherine,,Portmore,17.9503,-76.8822,1,National,1,JAM
+JAM2153,2023-09-27,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Unidentified Armed Group (Jamaica),,Jamaica,Saint Catherine,,Old Harbour,17.9414,-77.109,1,National,1,JAM
+JAM2159,2023-09-30,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2163,2023-10-05,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Women (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2165,2023-10-07,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Portland,,Fairy Hill,18.1645,-76.3729,1,National,0,JAM
+JAM2166,2023-10-06,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Unidentified Armed Group (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2160,2023-10-01,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),Women (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2170,2023-10-06,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Saint Catherine,,Central Village,18.0011,-76.9168,1,National,0,JAM
+JAM2174,2023-10-06,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Portmore,17.9503,-76.8822,1,National,1,JAM
+JAM2178,2023-09-09,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Fishers (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2179,2023-10-14,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Unidentified Gang (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2181,2023-10-16,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Farmers (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,2,JAM
+JAM2182,2023-10-18,1,Protests,Peaceful protest,Protesters (Jamaica),Labor Group (Jamaica),,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2185,2023-10-06,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Central Village,18.0011,-76.9168,1,National,0,JAM
+JAM2186,2023-10-12,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Portmore,17.9503,-76.8822,1,National,1,JAM
+JAM2191,2023-10-22,1,Violence against civilians,Attack,Police Forces of Jamaica (2016-),,Civilians (Jamaica),Fishers (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,3,JAM
+JAM2192,2023-07-07,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2193,2023-09-09,2,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Women (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,2,JAM
+JAM2200,2023-10-22,1,Riots,Violent demonstration,Rioters (Jamaica),,,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2195,2023-10-21,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Ann,,Priory,18.4413,-77.223,1,National,2,JAM
+JAM2201,2023-08-15,3,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Fatherless Gang,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2205,2023-10-28,2,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Guys Hill,18.2471,-76.9968,2,National,1,JAM
+JAM2206,2023-10-29,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2208,2023-11-02,2,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,2,JAM
+JAM2209,2023-11-01,1,Protests,Peaceful protest,Protesters (Jamaica),Health Workers (Jamaica),,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2180,2023-10-16,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,3,JAM
+JAM2211,2023-11-05,1,Battles,Armed clash,Unidentified Gang (Jamaica),,Savannah Gang,,Jamaica,Clarendon,,Lionel Town,17.8094,-77.2394,1,National,1,JAM
+JAM2213,2023-11-09,1,Violence against civilians,Attack,Police Forces of Jamaica (2016-),,Civilians (Jamaica),Taxi/Bus Drivers (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2218,2023-11-06,1,Protests,Peaceful protest,Protesters (Jamaica),Taxi/Bus Drivers (Jamaica),,,Jamaica,Hanover,,Shettlewood,18.3473,-77.9435,2,National,0,JAM
+JAM2219,2023-11-04,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2223,2023-11-10,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Old Harbour,17.9414,-77.109,1,National,1,JAM
+JAM2214,2023-11-03,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,3,JAM
+JAM2230,2023-11-20,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica); Women (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2235,2023-11-13,1,Battles,Armed clash,Chancery Lane Gang,,Spanglers Gang,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2236,2023-11-27,1,Battles,Armed clash,Police Forces of Jamaica (2016-),Military Forces of Jamaica (2016-),One Order Gang,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2238,2023-11-26,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,2,JAM
+JAM2239,2023-12-01,1,Strategic developments,Change to group/activity,Government of Jamaica (2016-),,,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2240,2023-11-27,1,Protests,Protest with intervention,Protesters (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2241,2023-11-19,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2244,2023-11-30,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Sunlight Street Gang,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2245,2023-12-01,1,Protests,Protest with intervention,Protesters (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2247,2023-12-03,2,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2250,2023-12-05,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2251,2023-12-05,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Women (Jamaica),Jamaica,Saint Ann,,Priory,18.4413,-77.223,1,National,1,JAM
+JAM2255,2023-12-07,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Former Police Forces of Jamaica (2016-); Taxi/Bus Drivers (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2261,2023-01-15,3,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2263,2023-08-08,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2266,2023-12-08,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2272,2023-12-12,1,Strategic developments,Change to group/activity,Government of Jamaica (2016-),,,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2274,2023-12-14,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Unidentified Armed Group (Jamaica),,Jamaica,Saint Catherine,,Portmore,17.9503,-76.8822,1,National,1,JAM
+JAM2275,2023-12-14,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Unidentified Armed Group (Jamaica),,Jamaica,Saint Elizabeth,,Maggotty,18.1595,-77.7624,1,National,0,JAM
+JAM2277,2023-12-18,1,Protests,Peaceful protest,Protesters (Jamaica),Fishers (Jamaica),,,Jamaica,Saint Catherine,,Bog Walk,18.1021,-77.0054,1,National,0,JAM
+JAM2280,2023-12-25,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2284,2023-12-27,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),Police Forces of Jamaica (2016-),Civilians (Jamaica),,Jamaica,Clarendon,,Longville Park,17.9092,-77.1549,1,National,1,JAM
+JAM2293,2023-12-25,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1746,2023-02-05,2,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Women (Jamaica),Jamaica,Saint Catherine,,Portmore,17.9503,-76.8822,1,National,1,JAM
+JAM2167,2023-10-09,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Trelawny,,Kinloss,18.4044,-77.559,2,National,4,JAM
+JAM1759,2023-01-15,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Trelawny,,Jackson Town,18.4121,-77.4837,1,National,0,JAM
+JAM2322,2023-10-24,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Cambridge,18.3132,-77.9025,1,National,1,JAM
+JAM2329,2023-08-09,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM1823,2023-03-23,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),Women (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,3,JAM
+JAM2341,2023-05-10,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1706,2023-01-03,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Westmoreland,,Frome,18.2915,-78.1594,1,National,1,JAM
+JAM1791,2023-03-04,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Canada),,Jamaica,Westmoreland,,Frome,18.2915,-78.1594,1,National,1,JAM
+JAM1974,2023-06-22,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Westmoreland,,Big Bridge,18.2265,-78.1578,1,National,1,JAM
+JAM2123,2023-09-11,1,Protests,Peaceful protest,Protesters (Jamaica),Taxi/Bus Drivers (Jamaica),,,Jamaica,Westmoreland,,Toll Gate,18.3001,-78.151,1,National,0,JAM
+JAM2124,2023-09-12,1,Protests,Peaceful protest,Protesters (Jamaica),Taxi/Bus Drivers (Jamaica),,,Jamaica,Westmoreland,,Toll Gate,18.3001,-78.151,1,National,0,JAM
+JAM2125,2023-09-13,1,Protests,Peaceful protest,Protesters (Jamaica),Taxi/Bus Drivers (Jamaica),,,Jamaica,Westmoreland,,Toll Gate,18.3001,-78.151,1,National,0,JAM
+JAM2311,2023-11-29,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),Taxi/Bus Drivers (Jamaica),Jamaica,Westmoreland,,Frome,18.2915,-78.1594,2,National,1,JAM
+JAM1769,2023-02-23,1,Strategic developments,Arrests,Police Forces of Jamaica (2016-),,Civilians (Jamaica),,Jamaica,Westmoreland,,Lenox Bigwoods,18.2042,-77.9696,1,National,0,JAM
+JAM1826,2023-03-21,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Westmoreland,,Whithorn,18.2625,-78.0328,1,National,1,JAM
+JAM1861,2023-03-31,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Westmoreland,,Whithorn,18.2625,-78.0328,1,National,0,JAM
+JAM1958,2023-06-11,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Westmoreland,,Whithorn,18.2625,-78.0328,1,National,0,JAM
+JAM2148,2023-09-24,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Unidentified Armed Group (Jamaica),,Jamaica,Westmoreland,,Whithorn,18.2625,-78.0328,1,National,1,JAM
+JAM2172,2023-10-11,2,Protests,Peaceful protest,Protesters (Jamaica),PNP: People's National Party,,,Jamaica,Westmoreland,,Darliston,18.2354,-77.9755,3,National,0,JAM
+JAM2271,2023-12-10,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Westmoreland,,Darliston,18.2354,-77.9755,1,National,1,JAM
+JAM2415,2023-06-08,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Westmoreland,,Cave Mountain,18.2102,-78.0471,1,National,1,JAM
+JAM2161,2023-10-02,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Government of Jamaica (2016-); JLP: Jamaica Labour Party; Women (Jamaica),Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,2,JAM
+JAM1723,2023-01-21,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Westmoreland,,Savanna-la-Mar,18.219,-78.1332,1,National,1,JAM
+JAM1810,2023-03-14,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Clarendon,,Toll Gate,17.9773,-77.3633,1,National,1,JAM
+JAM1816,2023-03-13,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Westmoreland,,Savanna-la-Mar,18.219,-78.1332,1,National,0,JAM
+JAM2052,2023-01-16,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Westmoreland,,Savanna-la-Mar,18.219,-78.1332,1,National,1,JAM
+JAM2060,2023-06-16,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Westmoreland,,Savanna-la-Mar,18.219,-78.1332,1,National,1,JAM
+JAM2070,2023-08-06,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Westmoreland,,Savanna-la-Mar,18.219,-78.1332,1,National,0,JAM
+JAM2073,2023-08-08,1,Strategic developments,Other,Government of Jamaica (2016-),,,,Jamaica,Westmoreland,,Savanna-la-Mar,18.219,-78.1332,1,National,0,JAM
+JAM2084,2023-08-18,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Westmoreland,,Savanna-la-Mar,18.219,-78.1332,1,National,0,JAM
+JAM2138,2023-09-16,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Taxi/Bus Drivers (Jamaica),Jamaica,Westmoreland,,Savanna-la-Mar,18.219,-78.1332,1,National,1,JAM
+JAM2242,2023-11-08,1,Strategic developments,Change to group/activity,Government of Jamaica (2016-),,,,Jamaica,Westmoreland,,Savanna-la-Mar,18.219,-78.1332,3,National,0,JAM
+JAM2246,2023-12-02,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Westmoreland,,Savanna-la-Mar,18.219,-78.1332,1,National,1,JAM
+JAM2290,2023-12-30,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Westmoreland,,Savanna-la-Mar,18.219,-78.1332,1,National,1,JAM
+JAM2417,2023-07-14,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Westmoreland,,Hertford,18.2575,-78.0905,1,National,2,JAM
+JAM2281,2023-12-25,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Old Harbour Bay,17.9071,-77.0979,1,National,0,JAM
+JAM1726,2023-01-23,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Westmoreland,,Three Mile River,18.2606,-78.1344,1,National,1,JAM
+JAM2085,2023-08-20,1,Protests,Peaceful protest,Protesters (Jamaica),PNP: People's National Party,Protesters (Jamaica),PNP: People's National Party,Jamaica,Westmoreland,,Petersfield,18.2626,-78.0714,1,National,0,JAM
+JAM2431,2023-08-11,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2100,2023-09-07,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Clarendon,,Crooked River,18.1353,-77.3109,1,National,1,JAM
+JAM1708,2023-01-04,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Westmoreland,,Negril,18.2684,-78.3481,1,National,0,JAM
+JAM1722,2023-01-21,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Westmoreland,,Negril,18.2684,-78.3481,1,National,1,JAM
+JAM1725,2023-01-23,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Westmoreland,,Sheffield,18.2792,-78.3308,1,National,0,JAM
+JAM1802,2023-03-06,1,Protests,Peaceful protest,Protesters (Jamaica),Teachers (Jamaica),,,Jamaica,Saint Elizabeth,,Nain,17.9642,-77.6002,1,National,0,JAM
+JAM1805,2023-03-07,1,Protests,Peaceful protest,Protesters (Jamaica),Teachers (Jamaica),,,Jamaica,Manchester,,May Hill,17.9449,-77.569,2,National,0,JAM
+JAM1825,2023-03-19,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Women (Jamaica),Jamaica,Westmoreland,,Negril,18.2684,-78.3481,1,National,1,JAM
+JAM1830,2023-03-25,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Westmoreland,,Negril,18.2684,-78.3481,1,National,1,JAM
+JAM1887,2023-04-22,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Westmoreland,,Little London,18.2454,-78.2146,1,National,1,JAM
+JAM1934,2023-05-27,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Elizabeth,,Wilton,18.0583,-77.6568,1,National,0,JAM
+JAM2040,2023-07-18,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Westmoreland,,Negril,18.2684,-78.3481,1,National,0,JAM
+JAM2119,2023-09-04,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica); Women (Jamaica),Jamaica,Westmoreland,,Little London,18.2454,-78.2146,1,National,1,JAM
+JAM2120,2023-09-04,1,Riots,Mob violence,Rioters (Jamaica),Vigilante Group (Jamaica),Unidentified Armed Group (Jamaica),,Jamaica,Westmoreland,,Little London,18.2454,-78.2146,1,National,1,JAM
+JAM2155,2023-09-27,1,Violence against civilians,Attack,Police Forces of Jamaica (2016-),,Civilians (Jamaica),,Jamaica,Westmoreland,,Spring Garden,18.2694,-78.2656,1,National,2,JAM
+JAM2257,2023-12-07,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Unidentified Armed Group (Jamaica),,Jamaica,Westmoreland,,Little London,18.2454,-78.2146,1,National,1,JAM
+JAM2259,2023-12-08,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Elizabeth,,Wilton,18.0583,-77.6568,1,National,2,JAM
+JAM2268,2023-12-09,1,Strategic developments,Change to group/activity,Government of Jamaica (2016-),,,,Jamaica,Saint Elizabeth,,Wilton,18.0583,-77.6568,1,National,0,JAM
+JAM2324,2023-11-29,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Westmoreland,,Little London,18.2454,-78.2146,1,National,1,JAM
+JAM2472,2023-08-30,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2481,2023-10-12,1,Protests,Protest with intervention,Protesters (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1831,2023-03-26,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Police Forces of Jamaica (2016-) Prison Guards,Jamaica,Saint Mary,,Highgate,18.2719,-76.8896,1,National,2,JAM
+JAM1885,2023-04-28,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Saint Mary,,Richmond,18.2438,-76.8907,2,National,0,JAM
+JAM1947,2023-05-13,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Mary,,Highgate,18.2719,-76.8896,1,National,1,JAM
+JAM2168,2023-10-12,2,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Mary,,Windsor Castle,18.2608,-76.9567,1,National,1,JAM
+JAM1994,2023-07-06,2,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Clarendon,,Whitney Turn,18.0322,-77.3929,2,National,1,JAM
+JAM2140,2023-09-22,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Manchester,,Porus,18.0355,-77.4108,2,National,0,JAM
+JAM2283,2023-12-26,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Manchester,,Christiana,18.1749,-77.4921,1,National,0,JAM
+JAM2076,2023-08-12,1,Violence against civilians,Attack,Gulf Gang,Chargie Badness Gang,Civilians (Jamaica),Taxi/Bus Drivers (Jamaica),Jamaica,Saint Catherine,,Portmore,17.9503,-76.8822,1,National,2,JAM
+JAM2265,2023-12-07,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Clarendon,,May Pen,17.9645,-77.2452,1,National,1,JAM
+JAM2248,2023-12-04,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Hanover,,Lucea,18.451,-78.1736,1,National,1,JAM
+JAM2232,2023-11-23,1,Strategic developments,Change to group/activity,Government of Jamaica (2016-),,,,Jamaica,Clarendon,,May Pen,17.9645,-77.2452,3,National,0,JAM
+JAM2233,2023-11-08,1,Strategic developments,Change to group/activity,Government of Jamaica (2016-),,,,Jamaica,Hanover,,Lucea,18.451,-78.1736,3,National,0,JAM
+JAM2202,2023-11-01,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Private Security Forces (Jamaica),,Jamaica,Clarendon,,May Pen,17.9645,-77.2452,2,National,1,JAM
+JAM2313,2023-10-29,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Hanover,,Lucea,18.451,-78.1736,1,National,0,JAM
+JAM2538,2023-10-07,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Old Harbour Bay,17.9071,-77.0979,1,National,1,JAM
+JAM2122,2023-09-11,1,Protests,Peaceful protest,Protesters (Jamaica),Health Workers (Jamaica),,,Jamaica,Clarendon,,May Pen,17.9645,-77.2452,1,National,0,JAM
+JAM2101,2023-09-02,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Clarendon,,Four Paths,17.9695,-77.2916,1,National,1,JAM
+JAM2086,2023-08-21,1,Protests,Peaceful protest,Protesters (Jamaica),Health Workers (Jamaica),,,Jamaica,Clarendon,,May Pen,17.9645,-77.2452,1,National,0,JAM
+JAM2066,2023-08-05,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Clarendon,,Sandy Bay,17.9457,-77.1772,1,National,1,JAM
+JAM2038,2023-07-19,1,Protests,Peaceful protest,Protesters (Jamaica),Labor Group (Jamaica),,,Jamaica,Clarendon,,May Pen,17.9645,-77.2452,1,National,0,JAM
+JAM1973,2023-06-20,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Clarendon,,May Pen,17.9645,-77.2452,2,National,1,JAM
+JAM1966,2023-06-15,1,Protests,Peaceful protest,Protesters (Jamaica),Taxi/Bus Drivers (Jamaica),,,Jamaica,Manchester,,Williamsfield,18.0643,-77.4676,1,National,0,JAM
+JAM1868,2023-04-17,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Clarendon,,May Pen,17.9645,-77.2452,1,National,1,JAM
+JAM1867,2023-04-15,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Unidentified Gang (Jamaica),,Jamaica,Clarendon,,May Pen,17.9645,-77.2452,2,National,1,JAM
+JAM1841,2023-04-01,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Clarendon,,Mocho,18.0279,-77.3286,1,National,2,JAM
+JAM1839,2023-03-28,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Hanover,,Lucea,18.451,-78.1736,1,National,0,JAM
+JAM1796,2023-03-06,1,Protests,Peaceful protest,Protesters (Jamaica),Teachers (Jamaica),,,Jamaica,Clarendon,,Hayes,17.8751,-77.2401,1,National,0,JAM
+JAM1777,2023-02-28,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Hanover,,Lucea,18.451,-78.1736,1,National,0,JAM
+JAM1762,2023-02-14,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Clarendon,,May Pen,17.9645,-77.2452,1,National,1,JAM
+JAM1766,2023-02-13,2,Strategic developments,Looting/property destruction,Enfield Gang,,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Saint Mary,,Enfield,18.2057,-76.7313,1,National,0,JAM
+JAM1710,2023-01-06,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Clarendon,,Osborne Store,17.9662,-77.3307,1,National,1,JAM
+JAM1719,2023-01-17,2,Riots,Mob violence,Rioters (Jamaica),Vigilante Group (Jamaica),Civilians (Jamaica),,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,0,JAM
+JAM1730,2023-01-15,1,Violence against civilians,Attack,Military Forces of Jamaica (2016-),Police Forces of Jamaica (2016-),Civilians (Jamaica),,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,0,JAM
+JAM1765,2023-02-13,1,Protests,Protest with intervention,Protesters (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,0,JAM
+JAM1771,2023-02-17,1,Riots,Mob violence,Rioters (Jamaica),Labor Group (Jamaica),Police Forces of Jamaica (2016-),,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,0,JAM
+JAM1795,2023-03-03,1,Protests,Peaceful protest,Protesters (Jamaica),Teachers (Jamaica),,,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,0,JAM
+JAM1798,2023-03-06,1,Protests,Peaceful protest,Protesters (Jamaica),Teachers (Jamaica),,,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,0,JAM
+JAM1817,2023-03-13,1,Protests,Peaceful protest,Protesters (Jamaica),PNP: People's National Party,,,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,0,JAM
+JAM1838,2023-03-30,1,Protests,Peaceful protest,Protesters (Jamaica),Taxi/Bus Drivers (Jamaica),,,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,0,JAM
+JAM1856,2023-04-03,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Saint Catherine,,Kitson Town,18.0179,-77.0548,1,National,0,JAM
+JAM1858,2023-04-05,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Taxi/Bus Drivers (Jamaica),Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National-Regional,2,JAM
+JAM1863,2023-04-14,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,1,JAM
+JAM1874,2023-04-19,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,3,National,1,JAM
+JAM1882,2023-04-27,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,1,JAM
+JAM1933,2023-05-27,1,Battles,Armed clash,Clansman Gang,,Clansman Gang,,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,1,JAM
+JAM1941,2023-06-05,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Unidentified Gang (Jamaica),,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,1,JAM
+JAM1946,2023-06-06,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,0,JAM
+JAM1980,2023-05-27,1,Violence against civilians,Attack,Sunlight Street Gang,,Civilians (Jamaica),,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,0,JAM
+JAM2004,2023-07-06,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Saint Catherine,,Kitson Town,18.0179,-77.0548,1,National,0,JAM
+JAM2030,2023-07-16,1,Violence against civilians,Attack,Police Forces of Jamaica (2016-),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,2,JAM
+JAM2032,2023-07-17,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,2,JAM
+JAM2035,2023-07-19,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,2,JAM
+JAM2039,2023-07-16,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,0,JAM
+JAM2098,2023-09-01,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,0,JAM
+JAM2116,2023-09-05,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,3,JAM
+JAM2117,2023-09-05,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,0,JAM
+JAM2118,2023-09-06,1,Battles,Armed clash,Police Forces of Jamaica (2016-),Military Forces of Jamaica (2016-),Unidentified Gang (Jamaica),,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,1,JAM
+JAM2162,2023-10-04,1,Protests,Peaceful protest,Protesters (Jamaica),JLP: Jamaica Labour Party,,,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,3,National,0,JAM
+JAM2197,2023-10-24,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,0,JAM
+JAM2199,2023-10-25,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,2,National,0,JAM
+JAM2215,2023-11-05,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,1,JAM
+JAM2220,2023-11-06,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,0,JAM
+JAM2221,2023-11-11,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,One Don Gang,,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,1,JAM
+JAM2224,2023-11-10,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,1,JAM
+JAM2226,2023-11-20,1,Protests,Peaceful protest,Protesters (Jamaica),Farmers (Jamaica),,,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,0,JAM
+JAM2234,2023-11-23,1,Strategic developments,Change to group/activity,Government of Jamaica (2016-),,,,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,3,National,0,JAM
+JAM2249,2023-12-04,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,0,JAM
+JAM2252,2023-12-05,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,0,JAM
+JAM2254,2023-12-06,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,1,JAM
+JAM2278,2023-12-22,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Civilians (United Kingdom),Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,2,JAM
+JAM2286,2023-12-28,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Clansman Gang,,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,1,JAM
+JAM2287,2023-12-28,1,Violence against civilians,Attack,Police Forces of Jamaica (2016-),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,1,JAM
+JAM2288,2023-12-28,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,0,JAM
+JAM2289,2023-12-29,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,0,JAM
+JAM1890,2023-05-11,2,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Farmers (Jamaica),Jamaica,Portland,,Buff Bay,18.2329,-76.6612,1,National,1,JAM
+JAM1903,2023-04-28,1,Riots,Mob violence,Rioters (Jamaica),Vigilante Group (Jamaica),Civilians (Jamaica),,Jamaica,Portland,,Windsor Castle,18.2594,-76.6968,2,National,1,JAM
+JAM1774,2023-02-18,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Portland,,Skibo,18.1911,-76.6351,1,National,1,JAM
+JAM2021,2023-07-11,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica); Military Forces of Jamaica (2016-),Jamaica,Saint Mary,,Annotto Bay,18.2717,-76.7652,1,National,1,JAM
+JAM2260,2023-01-12,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Mary,,Annotto Bay,18.2717,-76.7652,1,National,1,JAM
+JAM1884,2023-04-22,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Mary,,Broadgate,18.2296,-76.8153,2,National,0,JAM
+JAM2093,2023-08-25,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Farmers (Jamaica),Jamaica,Saint Elizabeth,,Balaclava,18.171,-77.6481,2,National,1,JAM
+JAM2164,2023-10-05,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Saint Catherine,,Glengoffe,18.1451,-76.8895,1,National,1,JAM
+JAM2256,2023-12-07,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Elizabeth,,Balaclava,18.171,-77.6481,1,National,1,JAM
+JAM2273,2023-12-12,1,Strategic developments,Change to group/activity,Government of Jamaica (2016-),,,,Jamaica,Saint Elizabeth,,Balaclava,18.171,-77.6481,3,National,0,JAM
+JAM1731,2023-01-30,1,Violence against civilians,Sexual violence,Police Forces of Jamaica (2016-),,Civilians (Jamaica),Women (Jamaica),Jamaica,Saint Elizabeth,,Black River,18.0269,-77.8482,1,National,0,JAM
+JAM1991,2023-06-23,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Elizabeth,,Black River,18.0269,-77.8482,1,National,1,JAM
+JAM2089,2023-08-21,1,Protests,Peaceful protest,Protesters (Jamaica),Health Workers (Jamaica),,,Jamaica,Saint Elizabeth,,Black River,18.0269,-77.8482,1,National,0,JAM
+JAM2144,2023-09-23,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Elizabeth,,Black River,18.0269,-77.8482,3,National,1,JAM
+JAM2204,2023-10-24,1,Violence against civilians,Attack,Police Forces of Jamaica (2016-),,Civilians (Jamaica),,Jamaica,Saint Elizabeth,,Black River,18.0269,-77.8482,3,National,0,JAM
+JAM2647,2023-06-09,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,China Town Gang,,Jamaica,Saint Catherine,,Central Village,18.0011,-76.9168,1,National,1,JAM
+JAM1747,2023-02-07,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Elizabeth,,Santa Cruz,18.0527,-77.6998,1,National,1,JAM
+JAM1785,2023-03-03,1,Protests,Peaceful protest,Protesters (Jamaica),Teachers (Jamaica),,,Jamaica,Saint Elizabeth,,Santa Cruz,18.0527,-77.6998,1,National,0,JAM
+JAM1975,2023-06-18,1,Riots,Violent demonstration,Rioters (Jamaica),PNP: People's National Party,Rioters (Jamaica),PNP: People's National Party,Jamaica,Saint Elizabeth,,Santa Cruz,18.0527,-77.6998,1,National,0,JAM
+JAM2080,2023-08-15,1,Protests,Peaceful protest,Protesters (Jamaica),Labor Group (Jamaica),,,Jamaica,Trelawny,,Albert Town,18.2938,-77.5416,1,National,0,JAM
+JAM2081,2023-08-16,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Unidentified Armed Group (Jamaica),,Jamaica,Saint Elizabeth,,Malvern,17.9728,-77.7016,1,National,1,JAM
+JAM2149,2023-09-25,1,Protests,Peaceful protest,Protesters (Jamaica),JLP: Jamaica Labour Party,,,Jamaica,Trelawny,,Albert Town,18.2938,-77.5416,1,National,0,JAM
+JAM2169,2023-09-26,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Manchester,,Montbelier,18.0096,-77.5958,1,National,1,JAM
+JAM2262,2023-03-15,3,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Trelawny,,Albert Town,18.2938,-77.5416,3,National,0,JAM
+JAM2114,2023-07-24,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Central Village,18.0011,-76.9168,1,National,0,JAM
+JAM2069,2023-08-06,1,Violence against civilians,Sexual violence,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Women (Jamaica),Jamaica,Trelawny,,Albert Town,18.2938,-77.5416,1,National,1,JAM
+JAM2689,2023-10-22,1,Violence against civilians,Attack,Bentley Lane Gang,,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,2,JAM
+JAM1704,2023-01-02,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (United Kingdom),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,1,JAM
+JAM1714,2023-01-13,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,1,JAM
+JAM1728,2023-01-26,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,2,JAM
+JAM1734,2023-01-31,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,1,JAM
+JAM1738,2023-02-03,1,Strategic developments,Disrupted weapons use,Police Forces of Jamaica (2016-),,,,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,0,JAM
+JAM1745,2023-02-06,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Anchovy,18.4088,-77.9335,1,National,1,JAM
+JAM1773,2023-02-15,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,0,JAM
+JAM1776,2023-02-21,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,2,JAM
+JAM1787,2023-02-27,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,1,JAM
+JAM1803,2023-03-06,1,Protests,Peaceful protest,Protesters (Jamaica),Teachers (Jamaica),,,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,0,JAM
+JAM1814,2023-03-08,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,1,JAM
+JAM1815,2023-03-14,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,0,JAM
+JAM1827,2023-03-30,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Private Security Forces (Jamaica),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,1,JAM
+JAM1829,2023-03-26,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Unidentified Armed Group (Jamaica),,Jamaica,Saint James,,Mount Carey,18.3943,-77.9364,2,National,1,JAM
+JAM1859,2023-03-31,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,0,JAM
+JAM1860,2023-04-05,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Unidentified Armed Group (Jamaica),,Jamaica,Saint James,,Salt Spring,18.4866,-77.8731,1,National,1,JAM
+JAM1875,2023-04-15,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Anchovy,18.4088,-77.9335,1,National,1,JAM
+JAM1876,2023-02-18,1,Battles,Armed clash,Unidentified Gang (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,0,JAM
+JAM1883,2023-04-26,1,Protests,Peaceful protest,Protesters (Jamaica),Rastafari Group (Jamaica),,,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,0,JAM
+JAM1889,2023-05-13,2,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Saint James,,Barrett Town,18.5125,-77.7999,2,National,3,JAM
+JAM1893,2023-05-15,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Reading,18.4439,-77.8494,2,National,1,JAM
+JAM1894,2023-05-16,1,Strategic developments,Change to group/activity,Government of Jamaica (2016-),,,,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,3,National,0,JAM
+JAM1907,2023-05-01,2,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,2,JAM
+JAM1913,2023-05-08,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Unidentified Armed Group (Jamaica),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,0,JAM
+JAM1915,2023-05-10,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Adelphi,18.4467,-77.7931,1,National,2,JAM
+JAM1917,2023-05-11,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),Taxi/Bus Drivers (Jamaica),Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,0,JAM
+JAM1926,2023-05-20,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Taxi/Bus Drivers (Jamaica),Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,2,JAM
+JAM1930,2023-03-01,2,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,0,JAM
+JAM1931,2023-05-26,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),Military Forces of Jamaica (2016-),Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,1,JAM
+JAM1936,2023-05-30,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Anchovy,18.4088,-77.9335,2,National,1,JAM
+JAM1937,2023-05-31,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Women (Jamaica),Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,1,JAM
+JAM1939,2023-06-03,1,Battles,Armed clash,Police Forces of Jamaica (2016-),Military Forces of Jamaica (2016-),Dump Gang,,Jamaica,Saint James,,Barrett Town,18.5125,-77.7999,1,National,3,JAM
+JAM1948,2023-06-02,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,0,JAM
+JAM1955,2023-06-09,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,1,JAM
+JAM1956,2023-06-10,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,0,JAM
+JAM1957,2023-06-11,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,1,JAM
+JAM1972,2023-03-15,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,1,JAM
+JAM1977,2023-06-19,1,Protests,Peaceful protest,Protesters (Jamaica),Taxi/Bus Drivers (Jamaica),,,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,0,JAM
+JAM2008,2023-07-05,1,Riots,Mob violence,Rioters (Jamaica),Vigilante Group (Jamaica),Civilians (Jamaica),,Jamaica,Saint James,,Adelphi,18.4467,-77.7931,1,National,2,JAM
+JAM2009,2023-07-02,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),JLP: Jamaica Labour Party,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,1,JAM
+JAM2010,2023-07-03,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,1,JAM
+JAM2011,2023-07-04,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,1,JAM
+JAM2016,2023-07-11,1,Battles,Armed clash,Alliance Gang,,Police Forces of Jamaica (2016-),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,1,JAM
+JAM2019,2023-07-09,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,0,JAM
+JAM2033,2023-07-19,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,2,JAM
+JAM2059,2023-06-02,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,3,JAM
+JAM2090,2023-08-21,1,Protests,Peaceful protest,Protesters (Jamaica),Health Workers (Jamaica),,,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,0,JAM
+JAM2135,2023-05-25,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,3,JAM
+JAM2154,2023-09-27,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,3,JAM
+JAM2176,2023-10-10,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,3,JAM
+JAM2187,2023-10-26,1,Battles,Armed clash,Unidentified Gang (Jamaica),,Unidentified Gang (Jamaica),,Jamaica,Saint James,,Salt Spring,18.4866,-77.8731,1,National,2,JAM
+JAM2198,2023-10-27,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),Former Ski Mask Gang,Civilians (Jamaica),,Jamaica,Saint James,,Salt Spring,18.4866,-77.8731,2,National,1,JAM
+JAM2207,2023-10-31,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,1,JAM
+JAM2210,2023-11-04,1,Battles,Armed clash,Police Forces of Jamaica (2016-),Military Forces of Jamaica (2016-),Unidentified Armed Group (Jamaica),,Jamaica,Saint James,,Salt Spring,18.4866,-77.8731,1,National,0,JAM
+JAM2212,2023-11-06,1,Battles,Armed clash,Unidentified Gang (Jamaica),,Unidentified Gang (Jamaica),,Jamaica,Saint James,,Salt Spring,18.4866,-77.8731,1,National,3,JAM
+JAM2216,2023-10-29,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,2,JAM
+JAM2217,2023-11-08,1,Strategic developments,Change to group/activity,Government of Jamaica (2016-),,,,Jamaica,Saint James,,Salt Spring,18.4866,-77.8731,3,National,0,JAM
+JAM2222,2023-11-10,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,1,JAM
+JAM2264,2023-11-23,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,1,JAM
+JAM2267,2023-12-08,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Montpelier,18.375,-77.9317,1,National,1,JAM
+JAM2320,2023-12-10,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Anchovy,18.4088,-77.9335,1,National,1,JAM
+JAM2528,2023-03-19,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,1,JAM
+JAM2529,2023-08-02,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,1,JAM
+JAM2532,2023-07-15,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Mount Carey,18.3943,-77.9364,1,National,1,JAM
+JAM2578,2023-07-03,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint James,,Spring Mount,18.3833,-77.85,2,National,1,JAM
+JAM2711,2023-02-20,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM2078,2023-08-14,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Mary,,Boscobel,18.4047,-76.9799,1,National,2,JAM
+JAM2082,2023-08-16,1,Riots,Mob violence,Rioters (Jamaica),Vigilante Group (Jamaica),Civilians (Jamaica),Taxi/Bus Drivers (Jamaica),Jamaica,Saint Mary,,Oracabessa,18.4049,-76.9467,1,National,1,JAM
+JAM2095,2023-08-28,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Mary,,Oracabessa,18.4049,-76.9467,1,National,0,JAM
+JAM1873,2023-04-16,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Manchester,,Chudleigh,18.1504,-77.5117,1,National,2,JAM
+JAM2065,2023-08-04,1,Strategic developments,Other,Government of Jamaica (2016-),,,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,Other-National,0,JAM
+JAM2028,2023-07-17,1,Battles,Armed clash,Unidentified Gang (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Westmoreland,,Negril,18.2684,-78.3481,1,National,2,JAM
+JAM1886,2023-04-24,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Trelawny,,Martha Brae,18.4721,-77.6587,1,National,0,JAM
+JAM1916,2023-05-10,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Saint James,,Montego Bay,18.4712,-77.9188,1,National,1,JAM
+JAM1824,2023-03-18,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Taxi/Bus Drivers (Jamaica),Jamaica,Saint Elizabeth,,Lacovia,18.0853,-77.7627,1,National,0,JAM
+JAM2049,2023-08-02,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Unidentified Gang (Jamaica),,Jamaica,Saint Elizabeth,,Lacovia,18.0853,-77.7627,1,National,1,JAM
+JAM2064,2023-08-02,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Unidentified Armed Group (Jamaica),,Jamaica,Saint Elizabeth,,Burnt Savanna,18.0109,-77.7508,1,National,1,JAM
+JAM2134,2023-09-15,1,Strategic developments,Looting/property destruction,Police Forces of Jamaica (2016-),Military Forces of Jamaica (2016-),Unidentified Gang (Jamaica),,Jamaica,Saint Elizabeth,,Slipe,18.0538,-77.7974,1,National,0,JAM
+JAM1709,2023-01-05,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Saint Elizabeth,,Portsea,17.9167,-77.6277,1,National,0,JAM
+JAM1800,2023-03-06,1,Protests,Peaceful protest,Protesters (Jamaica),Teachers (Jamaica),,,Jamaica,Saint Elizabeth,,Ballards Valley,17.885,-77.6174,1,National,0,JAM
+JAM2020,2023-07-10,1,Strategic developments,Arrests,Police Forces of Jamaica (2016-),,Civilians (Haiti),Refugees/IDPs (Haiti),Jamaica,Portland,,Coast of Boston Bay,18.1368,-76.3222,3,National-Regional,0,JAM
+JAM2099,2023-09-01,1,Riots,Violent demonstration,Rioters (Jamaica),Taxi/Bus Drivers (Jamaica),,,Jamaica,Saint Mary,,Port Maria,18.3685,-76.8895,1,National,0,JAM
+JAM2129,2023-09-09,1,Strategic developments,Arrests,Police Forces of Jamaica (2016-),,Civilians (Haiti),Refugees/IDPs (Haiti),Jamaica,Portland,,Long Bay,18.1061,-76.319,1,National-Regional,0,JAM
+JAM2131,2023-09-09,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Unidentified Armed Group (Jamaica),,Jamaica,Saint Elizabeth,,Top Hill,17.8914,-77.6451,1,National,1,JAM
+JAM2183,2023-10-15,1,Strategic developments,Arrests,Police Forces of Jamaica (2016-),,Civilians (Haiti),Refugees/IDPs (Haiti),Jamaica,Portland,,Coast of Long Bay,18.1111,-76.2875,3,National,0,JAM
+JAM2231,2023-11-22,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Unidentified Gang (Jamaica),,Jamaica,Saint Mary,,Mason Hall,18.3959,-76.9092,1,National,1,JAM
+JAM2876,2023-03-11,1,Violence against civilians,Attack,Forum Gang,,Civilians (Jamaica),,Jamaica,Saint Mary,,Iter Boreale,18.2674,-76.7427,1,National,1,JAM
+JAM2895,2023-07-26,1,Violence against civilians,Attack,One Order Gang,,Civilians (Jamaica),,Jamaica,Saint Catherine,,Spanish Town,17.9911,-76.9574,1,National,1,JAM
+JAM2253,2023-12-06,1,Violence against civilians,Attack,Golden Heights Gang,,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,1,JAM
+JAM2285,2023-12-27,1,Strategic developments,Looting/property destruction,Police Forces of Jamaica (2016-),,Unidentified Gang (Jamaica),,Jamaica,Saint Thomas,,Morant Bay,17.8821,-76.4116,3,National,0,JAM
+JAM1901,2023-04-17,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Saint Catherine,,Point Hill,18.0876,-77.1052,2,National,0,JAM
+JAM2971,2023-09-09,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Saint Catherine,,Linstead,18.1368,-77.0317,1,National,0,JAM
+JAM1778,2023-03-02,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Taxi/Bus Drivers (Jamaica),Jamaica,Hanover,,Sandy Bay,18.4493,-78.0766,1,National,1,JAM
+JAM2194,2023-10-12,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,2,JAM
+JAM1767,2023-02-13,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Saint Thomas,,Trinity Ville,17.9616,-76.5258,1,National,1,JAM
+JAM2127,2023-08-01,1,Violence against civilians,Sexual violence,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Women (Jamaica),Jamaica,Saint Thomas,,Pear Tree River,17.9187,-76.3205,1,National,0,JAM
+JAM2041,2023-07-28,1,Battles,Armed clash,Jaggy Jaggy Gang,Elbow Faction Gang,Jaggy Jaggy Gang,,Jamaica,Saint Catherine,,Central Village,18.0011,-76.9168,1,National,4,JAM
+JAM1717,2023-01-16,1,Riots,Violent demonstration,Rioters (Jamaica),,,,Jamaica,Manchester,,Silent Hill,18.1972,-77.4834,1,National,0,JAM
+JAM1729,2023-01-26,1,Riots,Violent demonstration,Rioters (Jamaica),,,,Jamaica,Manchester,,Silent Hill,18.1972,-77.4834,1,National,0,JAM
+JAM2258,2023-12-08,1,Strategic developments,Change to group/activity,Government of Jamaica (2016-),,,,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,0,JAM
+JAM1792,2023-03-10,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Trelawny,,Florence Hall,18.4762,-77.6276,1,National,1,JAM
+JAM1840,2023-03-28,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Trelawny,,Bounty Hall,18.4497,-77.7128,1,National,0,JAM
+JAM1979,2023-06-20,1,Protests,Peaceful protest,Protesters (Jamaica),Taxi/Bus Drivers (Jamaica),,,Jamaica,Trelawny,,Wakefield,18.4152,-77.7247,2,National,0,JAM
+JAM3035,2023-08-14,1,Violence against civilians,Attack,Police Forces of Jamaica (2016-),,Civilians (Jamaica),,Jamaica,Saint Catherine,,Portmore,17.9503,-76.8822,1,National,1,JAM
+JAM2077,2023-08-12,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Women (Jamaica),Jamaica,Westmoreland,,Paradise,18.2233,-78.0804,1,National,1,JAM
+JAM1854,2023-04-03,1,Protests,Peaceful protest,Protesters (Jamaica),Labor Group (Jamaica),,,Jamaica,Saint Catherine,,Ewarton,18.1769,-77.0886,1,National,0,JAM
+JAM1855,2023-04-04,1,Protests,Peaceful protest,Protesters (Jamaica),Labor Group (Jamaica),,,Jamaica,Saint Catherine,,Ewarton,18.1769,-77.0886,1,National,0,JAM
+JAM2018,2023-07-08,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Saint Elizabeth,,Luana,18.0643,-77.8596,1,National,0,JAM
+JAM2111,2023-08-19,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Saint Ann,,Moneague,18.2735,-77.1122,2,National,0,JAM
+JAM2196,2023-10-23,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Saint Catherine,,Ewarton,18.1769,-77.0886,2,National,2,JAM
+JAM2237,2023-11-27,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Westmoreland,,Whitehouse,18.0909,-77.967,1,National,1,JAM
+JAM2276,2023-12-15,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Speculation Gang,,Jamaica,Saint Elizabeth,,Brompton,18.0677,-77.8865,2,National,2,JAM
+JAM2279,2023-12-23,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Westmoreland,,Whitehouse,18.0909,-77.967,1,National,1,JAM
+JAM1727,2023-01-25,1,Riots,Mob violence,Rioters (Jamaica),Prisoners (Jamaica),Police Forces of Jamaica (2016-),,Jamaica,Saint Ann,,Ocho Rios,18.4025,-77.1048,1,National,0,JAM
+JAM1743,2023-02-01,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Ann,,Parry Town,18.3921,-77.1097,1,National,0,JAM
+JAM1750,2023-02-07,1,Riots,Violent demonstration,Rioters (Jamaica),Taxi/Bus Drivers (Jamaica),,,Jamaica,Saint Ann,,Ocho Rios,18.4025,-77.1048,1,National,0,JAM
+JAM1768,2023-02-16,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Unidentified Armed Group (Jamaica),,Jamaica,Saint Ann,,Ocho Rios,18.4025,-77.1048,1,National,1,JAM
+JAM1775,2023-02-19,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Ann,,Ocho Rios,18.4025,-77.1048,1,National,1,JAM
+JAM1790,2023-03-03,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Westmoreland,,Georges Plain,18.2804,-78.144,1,National,1,JAM
+JAM1806,2023-03-08,1,Protests,Peaceful protest,Protesters (Jamaica),Teachers (Jamaica),,,Jamaica,Hanover,,Orange Bay,18.3635,-78.3039,1,National,0,JAM
+JAM1843,2023-04-04,1,Protests,Peaceful protest,Protesters (Jamaica),Students (Jamaica),,,Jamaica,Hanover,,Orange Bay,18.3635,-78.3039,1,National,0,JAM
+JAM1864,2023-04-11,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Saint Ann,,Ocho Rios,18.4025,-77.1048,1,National,0,JAM
+JAM1927,2023-05-21,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Westmoreland,,Grange Hill,18.3113,-78.1824,1,National,0,JAM
+JAM2012,2023-01-01,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Mary,,Retreat,18.3878,-77.021,1,National,1,JAM
+JAM2013,2023-07-01,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Saint Mary,,Retreat,18.3878,-77.021,1,National,0,JAM
+JAM2014,2023-07-05,1,Protests,Protest with intervention,Protesters (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Saint Mary,,Retreat,18.3878,-77.021,1,National,0,JAM
+JAM2050,2023-07-29,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Saint Ann,,Ocho Rios,18.4025,-77.1048,1,National,0,JAM
+JAM2096,2023-08-29,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Ann,,Steer Town,18.4168,-77.1647,1,National,2,JAM
+JAM2112,2023-09-06,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Ann,,Ocho Rios,18.4025,-77.1048,1,National,1,JAM
+JAM2136,2023-07-05,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Ann,,Ocho Rios,18.4025,-77.1048,1,National,0,JAM
+JAM2184,2023-09-30,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Ann,,Mammee Bay,18.4323,-77.1685,1,National,0,JAM
+JAM2229,2023-11-19,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Saint Ann,,Steer Town,18.4168,-77.1647,1,National,1,JAM
+JAM2269,2023-12-09,2,Battles,Armed clash,Unidentified Gang (Jamaica),,Kings Valley Gang,,Jamaica,Westmoreland,,Grange Hill,18.3113,-78.1824,1,National,2,JAM
+JAM2270,2023-12-09,1,Strategic developments,Change to group/activity,Government of Jamaica (2016-),,,,Jamaica,Westmoreland,,Grange Hill,18.3113,-78.1824,3,National,0,JAM
+JAM2282,2023-12-25,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Westmoreland,,Grange Hill,18.3113,-78.1824,1,National,1,JAM
+JAM1834,2023-03-26,1,Riots,Mob violence,Rioters (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Hanover,,Dias,18.3974,-78.193,2,National,1,JAM
+JAM1842,2023-03-28,2,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Women (Jamaica),Jamaica,Hanover,,Green Island,18.3892,-78.2738,1,National,1,JAM
+JAM1872,2023-04-21,1,Battles,Armed clash,Unidentified Gang (Jamaica),,Unidentified Gang (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National-Regional,1,JAM
+JAM1904,2023-04-30,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Taxi/Bus Drivers (Jamaica),Jamaica,Hanover,,Green Island,18.3892,-78.2738,1,National,1,JAM
+JAM1914,2023-05-09,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Taxi/Bus Drivers (Jamaica),Jamaica,Hanover,,Green Island,18.3892,-78.2738,1,National,1,JAM
+JAM2067,2023-08-05,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Hanover,,Kingsvale,18.3837,-78.2027,1,National,1,JAM
+JAM2071,2023-08-08,1,Protests,Peaceful protest,Protesters (Jamaica),Police Forces of Jamaica (2016-); Christian Group (Jamaica),,,Jamaica,Hanover,,Green Island,18.3892,-78.2738,1,National,0,JAM
+JAM2171,2023-10-11,1,Battles,Armed clash,Unidentified Armed Group (Jamaica),,Police Forces of Jamaica (2016-),,Jamaica,Hanover,,Davis Cove,18.4134,-78.2464,2,National,0,JAM
+JAM2177,2023-06-15,1,Violence against civilians,Sexual violence,PNP: People's National Party,,Civilians (Jamaica),Women (Jamaica),Jamaica,Westmoreland,,Friendship Cross,18.2793,-78.0846,1,National-International,0,JAM
+JAM2087,2023-08-21,1,Protests,Peaceful protest,Protesters (Jamaica),Health Workers (Jamaica),,,Jamaica,Clarendon,,Spalding,18.1579,-77.4567,1,National,0,JAM
+JAM1711,2023-01-06,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Clarendon,,Rhymesbury,17.9285,-77.3188,2,National,1,JAM
+JAM1757,2023-02-07,1,Protests,Peaceful protest,Protesters (Jamaica),Taxi/Bus Drivers (Jamaica),,,Jamaica,Manchester,,Mandeville,18.0417,-77.5071,1,National,0,JAM
+JAM1804,2023-03-07,1,Protests,Peaceful protest,Protesters (Jamaica),Teachers (Jamaica),,,Jamaica,Manchester,,Mandeville,18.0417,-77.5071,1,National,0,JAM
+JAM1853,2023-04-05,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Taxi/Bus Drivers (Jamaica),Jamaica,Manchester,,Mandeville,18.0417,-77.5071,1,National,1,JAM
+JAM1865,2023-04-14,1,Strategic developments,Change to group/activity,Police Forces of Jamaica (2016-),,,,Jamaica,Manchester,,Mandeville,18.0417,-77.5071,3,National,0,JAM
+JAM1880,2023-04-26,1,Protests,Peaceful protest,Protesters (Jamaica),,,,Jamaica,Manchester,,Mandeville,18.0417,-77.5071,1,National,0,JAM
+JAM1923,2023-05-26,1,Protests,Peaceful protest,Protesters (Jamaica),Teachers (Jamaica),,,Jamaica,Manchester,,Mandeville,18.0417,-77.5071,3,National,0,JAM
+JAM1950,2023-06-06,1,Protests,Peaceful protest,Protesters (Jamaica),Students (Jamaica),,,Jamaica,Manchester,,Mandeville,18.0417,-77.5071,1,National,0,JAM
+JAM1952,2023-06-01,2,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),Police Forces of Jamaica (2016-),Jamaica,Manchester,,Spur Tree,17.9953,-77.5584,1,National,1,JAM
+JAM2088,2023-08-21,1,Protests,Peaceful protest,Protesters (Jamaica),Health Workers (Jamaica),,,Jamaica,Manchester,,Mandeville,18.0417,-77.5071,1,National,0,JAM
+JAM2158,2023-03-03,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Manchester,,Mandeville,18.0417,-77.5071,2,National,1,JAM
+JAM2175,2023-10-10,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),Taxi/Bus Drivers (Jamaica),Jamaica,Manchester,,Mandeville,18.0417,-77.5071,1,National,1,JAM
+JAM2225,2023-11-09,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),,Jamaica,Clarendon,,Race Course,17.8475,-77.2832,1,National,1,JAM
+JAM2228,2023-11-18,1,Battles,Armed clash,Police Forces of Jamaica (2016-),,Unidentified Armed Group (Jamaica),,Jamaica,Manchester,,Mandeville,18.0417,-77.5071,3,National,1,JAM
+JAM2243,2023-11-25,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Manchester,,Mandeville,18.0417,-77.5071,1,National,0,JAM
+JAM1749,2023-02-06,1,Riots,Violent demonstration,Rioters (Jamaica),Taxi/Bus Drivers (Jamaica),,,Jamaica,Hanover,,Hopewell,18.4568,-78.0119,1,National,0,JAM
+JAM1888,2023-05-07,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Hanover,,Hopewell,18.4568,-78.0119,1,National,2,JAM
+JAM1891,2023-05-12,1,Violence against civilians,Attack,Unidentified Gang (Jamaica),,Civilians (Jamaica),Labor Group (Jamaica),Jamaica,Hanover,,Hopewell,18.4568,-78.0119,1,National,1,JAM
+JAM1995,2023-07-06,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Hanover,,Ramble,18.3507,-77.977,1,National,1,JAM
+JAM2058,2023-04-02,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Hanover,,Hopewell,18.4568,-78.0119,1,National,0,JAM
+JAM2072,2023-08-08,1,Strategic developments,Other,Government of Jamaica (2016-),,,,Jamaica,Hanover,,Hopewell,18.4568,-78.0119,1,National,0,JAM
+JAM2173,2023-10-09,1,Protests,Peaceful protest,Protesters (Jamaica),Taxi/Bus Drivers (Jamaica),,,Jamaica,Saint James,,Unity Hall,18.4482,-77.9884,1,National,0,JAM
+JAM3256,2023-04-25,1,Violence against civilians,Attack,Unidentified Armed Group (Jamaica),,Civilians (Jamaica),,Jamaica,Kingston,,Kingston,17.9712,-76.7928,1,National,2,JAM
+JAM3257,2023-10-31,1,Violence against civilians,Attack,Clansman Gang,,Civilians (Jamaica),,Jamaica,Saint Catherine,,Noseberry Grove,18.0165,-77.0289,1,National,1,JAM
+JAM3327,2023-09-01,1,Violence against civilians,Attack,Police Forces of Jamaica (2016-),,Civilians (Jamaica),Prisoners (Jamaica),Jamaica,Saint Mary,,Highgate,18.2719,-76.8896,1,National,0,JAM

@@ -1,0 +1,208 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+EGY11862,2023-01-29,2,Protests,Peaceful protest,Protesters (Egypt),Labor Group (Egypt),,,Egypt,Cairo,Nasr City 1,Cairo - Nasr City 1,30.0619,31.3339,1,Regional,0,EGY
+EGY11867,2023-02-15,1,Protests,Protest with intervention,Protesters (Egypt),Labor Group (Egypt),Police Forces of Egypt (2014-),,Egypt,Qalyubia,Al Obor,El Obour City,30.2314,31.4764,1,National-Regional,0,EGY
+EGY11868,2023-02-16,1,Protests,Peaceful protest,Protesters (Egypt),Labor Group (Egypt),,,Egypt,Qalyubia,Al Obor,El Obour City,30.2314,31.4764,1,National-Regional,0,EGY
+EGY11871,2023-03-04,1,Violence against civilians,Attack,Police Forces of Egypt (2014-) Prison Guards,,Civilians (Egypt),Prisoners (Egypt),Egypt,Damietta,Damietta 1,Damietta,31.4165,31.8133,1,Regional,1,EGY
+EGY11872,2023-03-31,2,Violence against civilians,Attack,Police Forces of Egypt (2014-) Prison Guards,,Civilians (Egypt),Health Workers (Egypt); Prisoners (Egypt),Egypt,Dakahlia,Gamasa,Gamasa,31.4363,31.5494,1,National-Regional,1,EGY
+EGY11873,2023-04-10,2,Violence against civilians,Attack,Police Forces of Egypt (2014-) Prison Guards,,Civilians (Egypt),Prisoners (Egypt),Egypt,Cairo,Badr City,Cairo - Badr City,30.136,31.715,1,National-Regional,0,EGY
+EGY11874,2023-05-10,3,Violence against civilians,Attack,Police Forces of Egypt (2014-) Prison Guards,,Civilians (Egypt),Prisoners (Egypt),Egypt,Beheira,Wady Al Natroun,Wadi El Natrun,30.3782,30.3552,1,Regional,0,EGY
+EGY11875,2023-05-12,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Egypt),,Civilians (Egypt),,Egypt,North Sinai,Biear Al Abd,Bir Al-Abd,31.0189,33.0098,2,Regional,1,EGY
+EGY11877,2023-06-11,1,Protests,Peaceful protest,Protesters (Egypt),Teachers (Egypt),,,Egypt,Cairo,Nasr City 1,Cairo - Nasr City 1,30.0619,31.3339,1,National-Regional,0,EGY
+EGY11878,2023-06-11,2,Protests,Peaceful protest,Protesters (Egypt),Refugees/IDPs (Egypt),,,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,National,0,EGY
+EGY11880,2023-07-05,1,Protests,Peaceful protest,Protesters (Egypt),Labor Group (Egypt),,,Egypt,Cairo,Helwan,Cairo - Helwan,29.8414,31.3008,1,National,0,EGY
+EGY11883,2023-07-28,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Egypt),,Civilians (Egypt),,Egypt,North Sinai,Al Hasana,Al Hasna,30.4669,33.7843,1,Regional,0,EGY
+EGY11885,2023-07-30,1,Battles,Armed clash,Unidentified Armed Group (Egypt),Prisoners (Egypt),Police Forces of Egypt (2014-) National Security Agency,Police Forces of Egypt (2014-) Prison Guards,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,National-Regional,8,EGY
+EGY11886,2023-07-25,1,Violence against civilians,Attack,Police Forces of Egypt (2014-) Prison Guards,,Civilians (Egypt),Prisoners (Egypt),Egypt,Dakahlia,Nebrowa,Nebrowa,31.0986,31.2963,1,Regional,1,EGY
+EGY11887,2023-08-25,1,Protests,Peaceful protest,Protesters (Egypt),Refugees/IDPs (Egypt),,,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,1,National-Regional,0,EGY
+EGY11888,2023-08-07,1,Violence against civilians,Attack,Police Forces of Egypt (2014-),,Civilians (Egypt),Prisoners (Egypt),Egypt,Cairo,Al Bassatin,Cairo - Dar al Salam,29.9833,31.2333,1,National-Regional,1,EGY
+EGY11890,2023-08-04,1,Violence against civilians,Attack,Police Forces of Egypt (2014-),,Civilians (Egypt),,Egypt,Menia,Bani Mazar,Bani Mazar,28.5036,30.8004,1,National-Regional,1,EGY
+EGY11891,2023-08-22,1,Protests,Peaceful protest,Protesters (Egypt),Labor Group (Egypt),,,Egypt,Cairo,Helwan,Cairo - Helwan,29.8414,31.3008,1,Regional,0,EGY
+EGY11892,2023-08-04,2,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Menia,Bani Mazar,Bani Mazar,28.5036,30.8004,1,National,0,EGY
+EGY11893,2023-08-06,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Menia,Bani Mazar,Bani Mazar,28.5036,30.8004,1,Regional,0,EGY
+EGY11894,2023-08-29,1,Protests,Peaceful protest,Protesters (Egypt),Labor Group (Egypt),,,Egypt,Luxor,Armant,Armant,25.619,32.5451,1,National,0,EGY
+EGY11897,2023-09-20,1,Protests,Peaceful protest,Protesters (Egypt),Labor Group (Egypt),,,Egypt,Alexandria,Al Ameria,Al Amiriyah,31.0125,29.8086,1,National-Regional,0,EGY
+EGY11898,2023-10-02,1,Riots,Violent demonstration,Rioters (Egypt),,Police Forces of Egypt (2014-),,Egypt,Matrouh,Mersa Matrouh,Marsa Matruh,31.3525,27.2453,1,National-Regional,0,EGY
+EGY11899,2023-10-02,1,Strategic developments,Arrests,Police Forces of Egypt (2014-),,Civilians (Egypt),,Egypt,Matrouh,Mersa Matrouh,Marsa Matruh,31.3525,27.2453,1,National,0,EGY
+EGY11910,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Giza,Al Omrania,Al Omraneyah,29.9945,31.1792,1,National,0,EGY
+EGY11913,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Fayoum,Fayoum City,Fayoum University,29.3209,30.8361,1,National,0,EGY
+EGY11915,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Beheira,Damanhour City,Damanhur,31.0392,30.4691,1,National,0,EGY
+EGY11917,2023-10-18,1,Protests,Protest with intervention,Protesters (Egypt),Students (Egypt),Police Forces of Egypt (2014-),,Egypt,Giza,Giza City,Giza,30.0146,31.209,1,National,0,EGY
+EGY11920,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Gharbia,Tanta 1,Tanta,30.7885,31.0019,3,National,0,EGY
+EGY11921,2023-10-20,1,Protests,Protest with intervention,Protesters (Egypt),,Police Forces of Egypt (2014-),,Egypt,Alexandria,Al Montaza,Ar Raml,31.2485,29.9823,1,National,0,EGY
+EGY11931,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),Labor Group (Egypt),,,Egypt,Giza,Al Omrania,Saqiyet Mekki,29.9953,31.2086,1,National-Regional,0,EGY
+EGY11935,2023-10-15,1,Protests,Protest with intervention,Protesters (Egypt),Labor Group (Egypt); Teachers (Egypt),Police Forces of Egypt (2014-),,Egypt,Cairo,New Cairo 1,New Administrative Capital,29.9817,31.7211,1,National,0,EGY
+EGY11938,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Kafr el-Sheikh,Kafr Al Sheikh City,Kafr ash Shaykh,31.1143,30.9401,1,National,0,EGY
+EGY11939,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Assiut,Assiut 1,Asyut,27.181,31.1837,1,National,0,EGY
+EGY11940,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Matrouh,Mersa Matrouh,Marsa Matruh,31.3525,27.2453,1,National,0,EGY
+EGY11942,2023-10-19,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Giza,Giza City,Giza,30.0146,31.209,1,National,0,EGY
+EGY11943,2023-10-19,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Giza,Al Omrania,Al Omraneyah,29.9945,31.1792,1,National,0,EGY
+EGY11945,2023-10-19,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Fayoum,Fayoum City,Fayoum University,29.3209,30.8361,1,National,0,EGY
+EGY11946,2023-10-19,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Menoufia,Shebeen Al Kom City,Shibin al Kawm,30.5526,31.009,1,National,0,EGY
+EGY11950,2023-10-19,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Cairo,Al Shorouk,Cairo - Al Shorouk,30.143,31.6396,1,National,0,EGY
+EGY11953,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,South Sinai,Sharm El Shiekh,Sharm el-Sheikh,27.8636,34.2881,1,National,0,EGY
+EGY11954,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),Muslim Group (Egypt),,,Egypt,Port Said,Al Manakh,Port Said,31.2565,32.2841,1,National,0,EGY
+EGY11955,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Suez,Al Arbaeen,Suez,29.9737,32.5263,1,National,0,EGY
+EGY11957,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Assiut,Assiut 1,Asyut,27.181,31.1837,1,National,0,EGY
+EGY11960,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),Muslim Group (Egypt),,,Egypt,Beheira,Damanhour City,Damanhur,31.0392,30.4691,1,National,0,EGY
+EGY11961,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Aswan,Aswan City,Aswan,24.0911,32.8973,1,National,0,EGY
+EGY11964,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Qalyubia,Banha City,Banha,30.4591,31.1786,3,National,0,EGY
+EGY11965,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Menia,Menia City,Minya,28.1099,30.7503,1,National,0,EGY
+EGY11966,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),Women (Egypt),,,Egypt,Damietta,Damietta 1,Damietta,31.4165,31.8133,1,National,0,EGY
+EGY11967,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Kafr el-Sheikh,Kafr Al Sheikh City,Kafr ash Shaykh,31.1143,30.9401,1,National,0,EGY
+EGY11968,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Luxor,Luxor City,Luxor,25.6965,32.6459,1,National,0,EGY
+EGY11972,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Qena,Qena City,Qina,26.1642,32.7267,1,National,0,EGY
+EGY11973,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Sohag,Sohag 1,Sohag,26.55,31.7,1,National,0,EGY
+EGY11974,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,National,0,EGY
+EGY11977,2023-10-19,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Cairo,Helwan,Cairo - Helwan,29.8414,31.3008,1,National,0,EGY
+EGY11978,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Cairo,Helwan,Cairo - Helwan,29.8414,31.3008,1,National,0,EGY
+EGY11981,2023-10-19,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Port Said,Al Manakh,Port Said,31.2565,32.2841,1,National,0,EGY
+EGY11983,2023-10-19,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt); Teachers (Egypt),,,Egypt,Gharbia,Tanta 1,Tanta,30.7885,31.0019,1,National,0,EGY
+EGY11984,2023-10-19,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Red Sea,Hurghada 1,Hurghada,27.2529,33.8181,1,National,0,EGY
+EGY11985,2023-10-19,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Qalyubia,Al Obor,El Obour City,30.2314,31.4764,1,National,0,EGY
+EGY11986,2023-10-19,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt); Teachers (Egypt),,,Egypt,Luxor,Luxor City,Luxor,25.6965,32.6459,1,National,0,EGY
+EGY11987,2023-10-19,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Menoufia,Shebeen Al Kom City,Shibin al Kawm,30.5526,31.009,1,National,0,EGY
+EGY11988,2023-10-19,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Assiut,Assiut 1,Asyut,27.181,31.1837,1,National,0,EGY
+EGY11991,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,South Sinai,Sharm El Shiekh,Sharm el-Sheikh,27.8636,34.2881,1,National,0,EGY
+EGY11994,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Luxor,Luxor City,Luxor,25.6965,32.6459,1,National,0,EGY
+EGY11996,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Suez,Al Arbaeen,Suez,29.9737,32.5263,1,National,0,EGY
+EGY11998,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Qena,Qena City,Qina,26.1642,32.7267,1,National,0,EGY
+EGY11999,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Menia,Menia City,Minya,28.1099,30.7503,1,National,0,EGY
+EGY12001,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Aswan,Aswan City,Aswan,24.0911,32.8973,1,National,0,EGY
+EGY12002,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Beheira,Damanhour City,Damanhur,31.0392,30.4691,1,National,0,EGY
+EGY12004,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,National,0,EGY
+EGY12005,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt); Teachers (Egypt),,,Egypt,Sohag,Sohag 1,Sohag,26.55,31.7,1,National,0,EGY
+EGY12006,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,New Valley,Baris,Kharga Oasis,25.4514,30.5464,1,National,0,EGY
+EGY12007,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Qalyubia,Al Khanka,Al Khankah,30.2104,31.3681,1,National,0,EGY
+EGY12008,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Damietta,Damietta 1,Damietta,31.4165,31.8133,1,National,0,EGY
+EGY12011,2023-10-21,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Assiut,Assiut 1,Asyut,27.181,31.1837,1,National-Regional,0,EGY
+EGY12014,2023-10-21,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Menoufia,Shebeen Al Kom City,Shibin al Kawm,30.5526,31.009,2,National,0,EGY
+EGY12015,2023-10-21,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt); Teachers (Egypt),,,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,National,0,EGY
+EGY12017,2023-10-21,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Qalyubia,Banha City,Banha,30.4591,31.1786,2,National,0,EGY
+EGY12018,2023-10-21,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt); Teachers (Egypt),,,Egypt,Qalyubia,Banha City,Banha,30.4591,31.1786,1,National-Regional,0,EGY
+EGY12019,2023-10-21,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Qena,Qena City,Qina,26.1642,32.7267,1,National,0,EGY
+EGY12021,2023-10-22,2,Protests,Protest with intervention,Protesters (Egypt),Students (Egypt); Women (Egypt),Police Forces of Egypt (2014-),,Egypt,Assiut,Assiut 1,Asyut,27.181,31.1837,1,Regional,0,EGY
+EGY12022,2023-10-22,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Beheira,Etay Al Baroud,Itay al Barud,30.8853,30.6657,1,National,0,EGY
+EGY12028,2023-10-22,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Damietta,Damietta 1,Damietta,31.4165,31.8133,1,National,0,EGY
+EGY12029,2023-10-22,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Fayoum,Fayoum City,Fayoum University,29.3209,30.8361,1,National,0,EGY
+EGY12030,2023-10-22,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Kafr el-Sheikh,Kafr Al Sheikh City,Kafr ash Shaykh,31.1143,30.9401,1,National,0,EGY
+EGY12031,2023-10-22,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Luxor,Esna,Esna,25.2934,32.554,2,National,0,EGY
+EGY12032,2023-10-22,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Menia,Abu Korkas,Abu Qurqas,27.9312,30.8384,1,National,0,EGY
+EGY12033,2023-10-22,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Menia,Bani Mazar,Bani Mazar,28.5036,30.8004,1,National,0,EGY
+EGY12034,2023-10-22,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Menia,Deer Mawas,Dayr Mawas,27.6418,30.8466,1,National,0,EGY
+EGY12035,2023-10-22,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Menia,Matay,Matay,28.419,30.7792,1,National,0,EGY
+EGY12036,2023-10-22,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Menia,Menia City,Minya,28.1099,30.7503,1,National,0,EGY
+EGY12037,2023-10-22,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Menia,Samaloot,Samalut,28.3121,30.7101,1,National,0,EGY
+EGY12038,2023-10-22,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Menoufia,Shebeen Al Kom City,Shibin al Kawm,30.5526,31.009,1,National,0,EGY
+EGY12040,2023-10-22,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Qena,Qena City,Qina,26.1642,32.7267,1,National,0,EGY
+EGY12041,2023-10-22,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Sohag,Sohag 1,Sohag,26.55,31.7,1,National,0,EGY
+EGY11956,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt); Journalists (Egypt),,,Egypt,Menoufia,Shebeen Al Kom City,Shibin al Kawm,30.5526,31.009,1,National,0,EGY
+EGY11959,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Beheira,Damanhour City,Damanhur,31.0392,30.4691,1,National,0,EGY
+EGY11976,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,New Valley,Baris,Kharga Oasis,25.4514,30.5464,1,National,0,EGY
+EGY12051,2023-10-31,2,Strategic developments,Arrests,Military Forces of Egypt (2014-),Police Forces of Egypt (2014-),Civilians (Egypt),Sawarka Clan Group (Egypt); Rumailat Clan Group (Egypt); Refugees/IDPs (Egypt),Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,National,0,EGY
+EGY12052,2023-09-25,1,Violence against civilians,Attack,Police Forces of Egypt (2014-),,Civilians (Jordan),Prisoners (Jordan),Egypt,Port Said,Al Manakh,Port Said,31.2565,32.2841,1,Regional,1,EGY
+EGY12056,2023-10-09,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Giza,Al Omrania,Al Omraneyah,29.9945,31.1792,1,Regional,0,EGY
+EGY11969,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),NFF: Nation's Future Party; Students (Egypt); Government of Egypt (2014-),,,Egypt,Matrouh,Mersa Matrouh,Marsa Matruh,31.3525,27.2453,1,National,0,EGY
+EGY12062,2023-11-26,1,Protests,Peaceful protest,Protesters (Egypt),Labor Group (Egypt),,,Egypt,South Sinai,Sharm El Shiekh,Sharm el-Sheikh,27.8636,34.2881,2,Regional,0,EGY
+EGY12064,2023-12-23,1,Violence against civilians,Attack,Unidentified Armed Group (Egypt),,Civilians (Egypt),Journalists (Egypt),Egypt,Red Sea,Hurghada 1,Hurghada,27.2529,33.8181,1,Regional,0,EGY
+EGY11859,2023-01-04,2,Protests,Peaceful protest,Protesters (Egypt),Labor Group (Egypt),,,Egypt,Alexandria,Al Dekhila,Ad Dukhaylah,31.1289,29.8246,1,Regional,0,EGY
+EGY11879,2023-06-08,1,Violence against civilians,Attack,Police Forces of Egypt (2014-),,Civilians (Egypt),Prisoners (Egypt),Egypt,Menia,Al Adoua,Al Idwah,28.6991,30.7673,1,Regional,1,EGY
+EGY11881,2023-07-12,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Matrouh,Sedi Brani,Sidi Barani,31.6116,25.9264,1,National-Regional,0,EGY
+EGY11882,2023-07-12,1,Violence against civilians,Attack,Police Forces of Egypt (2014-),,Civilians (Egypt),,Egypt,Matrouh,Sedi Brani,Sidi Barani,31.6116,25.9264,1,National-Regional,1,EGY
+EGY11884,2023-07-24,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Alexandria,Bab Sharqi,Alexandria University,31.2105,29.9133,1,National-Regional,0,EGY
+EGY11903,2023-10-09,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Cairo,Nasr City 2,Nasr City,30.0667,31.3,1,Regional,0,EGY
+EGY11911,2023-10-18,1,Protests,Protest with intervention,Protesters (Egypt),Students (Egypt),Police Forces of Egypt (2014-),,Egypt,Alexandria,Bab Sharqi,Alexandria University,31.2105,29.9133,1,National,0,EGY
+EGY11916,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Dakahlia,Al Mansoura,Mansoura University,31.0432,31.3566,1,National,0,EGY
+EGY11918,2023-10-18,1,Protests,Protest with intervention,Protesters (Egypt),Students (Egypt),Police Forces of Egypt (2014-),,Egypt,Menia,Menia,Damshir,28.1484,30.6993,1,National,0,EGY
+EGY11919,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Alexandria,Bab Sharqi,Alexandria,31.1981,29.9192,3,National,0,EGY
+EGY11922,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),Muslim Group (Egypt); Students (Egypt),,,Egypt,Alexandria,Bab Sharqi,Alexandria,31.1981,29.9192,3,National-Regional,0,EGY
+EGY11924,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),NFF: Nation's Future Party,,,Egypt,Cairo,Nasr City 2,Nasr City,30.0667,31.3,1,National-Regional,0,EGY
+EGY11936,2023-10-19,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Alexandria,Bab Sharqi,Alexandria University,31.2105,29.9133,1,National,0,EGY
+EGY11937,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),Labor Group (Egypt),,,Egypt,Dakahlia,Al Mansoura 2,Al Mansurah,31.0364,31.3807,1,National,0,EGY
+EGY11941,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Alexandria,Sedi Gaber,Sidi Jabir,31.2017,29.9446,1,National,0,EGY
+EGY11944,2023-10-19,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Menia,Menia,Damshir,28.1484,30.6993,1,National,0,EGY
+EGY11948,2023-10-19,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Cairo,Ain Shams,Cairo - Ain Shams,30.131,31.3191,1,National,0,EGY
+EGY11949,2023-10-19,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Cairo,Nasr City 2,Nasr City,30.0667,31.3,1,National,0,EGY
+EGY11951,2023-10-19,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Sharqia,Zakazik 2,Zagazig,30.5877,31.502,1,National,0,EGY
+EGY11952,2023-10-19,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Sharqia,Zakazik 2,Zagazig,30.5877,31.502,1,National,0,EGY
+EGY11958,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),Labor Group (Egypt); Students (Egypt); Teachers (Egypt),,,Egypt,Cairo,Nasr City 2,Nasr City,30.0667,31.3,1,National,0,EGY
+EGY11962,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt); Teachers (Egypt),,,Egypt,Cairo,Ain Shams,Cairo - Ain Shams,30.131,31.3191,1,National,0,EGY
+EGY11970,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Sharqia,Zakazik 2,Zagazig,30.5877,31.502,1,National,0,EGY
+EGY11971,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Dakahlia,Al Mansoura 2,Al Mansurah,31.0364,31.3807,1,National,0,EGY
+EGY11980,2023-10-19,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Dakahlia,Al Mansoura 2,Al Mansurah,31.0364,31.3807,1,National,0,EGY
+EGY11989,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Alexandria,Al Mansheia,Al Mansheyah,31.1966,29.8903,1,National,0,EGY
+EGY11990,2023-10-19,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Alexandria,Al Mansheia,Al Mansheyah,31.1966,29.8903,1,National,0,EGY
+EGY11992,2023-10-19,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt); Teachers (Egypt),,,Egypt,Ismailia,Ismailia 3,El Sheik Zayed,30.6054,32.2936,1,National,0,EGY
+EGY11995,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Ismailia,Ismailia 2,Ismailia,30.6043,32.2723,1,National,0,EGY
+EGY11997,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Alexandria,Sedi Gaber,Sidi Jabir,31.2017,29.9446,1,National,0,EGY
+EGY12000,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),Christian Group (Egypt); Muslim Group (Egypt),,,Egypt,Sharqia,Zakazik 2,Zagazig,30.5877,31.502,1,National,0,EGY
+EGY12009,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),Health Workers (Egypt),,,Egypt,Cairo,Nasr City 2,Nasr City,30.0667,31.3,1,National,0,EGY
+EGY12010,2023-10-21,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Alexandria,Bab Sharqi,Alexandria,31.1981,29.9192,1,National,0,EGY
+EGY12013,2023-10-21,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt); Teachers (Egypt),,,Egypt,Cairo,Nasr City 2,Nasr City,30.0667,31.3,1,National-Regional,0,EGY
+EGY12020,2023-10-22,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Alexandria,Bab Sharqi,Alexandria,31.1981,29.9192,1,National,0,EGY
+EGY12026,2023-10-22,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Cairo,Nasr City 2,Nasr City,30.0667,31.3,1,National,0,EGY
+EGY12027,2023-10-22,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Dakahlia,Al Mansoura 2,Al Mansurah,31.0364,31.3807,1,National,0,EGY
+EGY12044,2023-10-24,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Cairo,Nasr City 2,Nasr City,30.0667,31.3,1,Regional,0,EGY
+EGY12054,2023-11-15,3,Violence against civilians,Attack,Police Forces of Egypt (2014-) Prison Guards,,Civilians (Egypt),Prisoners (Egypt),Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,3,Regional,0,EGY
+EGY12055,2023-10-02,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Ismailia,Ismailia 2,Ismailia,30.6043,32.2723,1,International,0,EGY
+EGY11905,2023-10-13,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Alexandria,Al Atareen,El Qaaed Ibraheem Mosque,31.2036,29.9042,1,Regional,0,EGY
+EGY12023,2023-10-22,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Beheira,Rasheed,Rosetta,31.4044,30.4164,1,National,0,EGY
+EGY11902,2023-10-08,1,Violence against civilians,Attack,Police Forces of Egypt (2014-),,Civilians (Israel),Civilians (Egypt),Egypt,Alexandria,Karmoz,Karmous,31.1822,29.8966,1,Other-National,3,EGY
+EGY11861,2023-01-29,1,Strategic developments,Other,Islamic State Sinai Province (IS Sinai),,Civilians (Egypt),,Egypt,North Sinai,Al Shiekh Zuwaid,Az Zuhayr,31.157,34.164,1,Regional,3,EGY
+EGY11869,2023-02-16,2,Strategic developments,Other,Islamic State Sinai Province (IS Sinai),,Civilians (Egypt),,Egypt,North Sinai,Rafah,Sadout,31.2242,34.2069,1,New media,0,EGY
+EGY11870,2023-02-28,2,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,South Sinai,Sant Kathrine,Saint Catherine,28.5619,33.9493,2,National,1,EGY
+EGY12046,2023-10-27,1,Strategic developments,Disrupted weapons use,Military Forces of Israel (2022-),,Military Forces of Yemen (2017-) Houthi,,Egypt,South Sinai,Nouaiba,Nuweiba,29.0468,34.6634,2,New media-International,0,EGY
+EGY12047,2023-10-27,1,Explosions/Remote violence,Air/drone strike,Military Forces of Yemen (2017-) Houthi,,Civilians (Egypt),,Egypt,South Sinai,Tabah,Taba,29.492,34.8957,1,New media-National,0,EGY
+EGY12068,2023-12-16,1,Strategic developments,Disrupted weapons use,Military Forces of Egypt (2014-),,Military Forces of Yemen (2017-) Houthi,,Egypt,South Sinai,Dahab,Coast of Dahab,28.4821,34.61,2,National,0,EGY
+EGY11900,2023-10-02,1,Protests,Peaceful protest,Protesters (Egypt),Labor Group (Egypt),,,Egypt,Giza,6th of October 1,6th October City,29.9464,30.9169,1,National-Regional,0,EGY
+EGY11901,2023-09-20,2,Protests,Peaceful protest,Protesters (Egypt),Labor Group (Egypt),,,Egypt,Giza,6th of October 1,6th October City,29.9464,30.9169,1,National,0,EGY
+EGY11912,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Giza,6th of October 1,6th October City,29.9464,30.9169,1,National,0,EGY
+EGY11925,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),Labor Group (Egypt),,,Egypt,Giza,6th of October 1,6th October City,29.9464,30.9169,1,National-Regional,0,EGY
+EGY11932,2023-10-18,1,Protests,Protest with intervention,Protesters (Egypt),Students (Egypt),Police Forces of Egypt (2014-),,Egypt,Giza,6th of October 1,6th October City,29.9464,30.9169,1,Regional,0,EGY
+EGY12057,2023-10-19,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Giza,6th of October 1,6th October City,29.9464,30.9169,1,National,0,EGY
+EGY11975,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Beni Suef,Beni Suef City,Bani Suwayf,29.0744,31.0979,1,National,0,EGY
+EGY11982,2023-10-19,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Beni Suef,Beni Suef City,Bani Suwayf,29.0744,31.0979,1,National,0,EGY
+EGY12003,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Beni Suef,Beni Suef City,Bani Suwayf,29.0744,31.0979,1,National,0,EGY
+EGY12012,2023-10-21,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt); Teachers (Egypt),,,Egypt,Beni Suef,Beni Suef City,Bani Suwayf,29.0744,31.0979,1,National-Regional,0,EGY
+EGY12024,2023-10-22,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Beni Suef,Beni Suef City,Bani Suwayf,29.0744,31.0979,1,National,0,EGY
+EGY11876,2023-05-20,2,Strategic developments,Other,Civilians (Egypt),Refugees/IDPs (Egypt),,,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,Regional,0,EGY
+EGY11889,2023-08-21,1,Protests,Excessive force against protesters,Protesters (Egypt),Refugees/IDPs (Egypt),Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Al Muqataah,31.1724,34.1968,2,Regional,0,EGY
+EGY11895,2023-08-26,1,Protests,Peaceful protest,Protesters (Egypt),Refugees/IDPs (Egypt),,,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,National-Regional,0,EGY
+EGY11896,2023-08-27,1,Protests,Peaceful protest,Protesters (Egypt),Refugees/IDPs (Egypt),,,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,Regional,0,EGY
+EGY11914,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,National,0,EGY
+EGY11934,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,National,0,EGY
+EGY12016,2023-10-21,1,Protests,Peaceful protest,Protesters (Egypt),Aid Workers (Egypt); Journalists (Egypt); Labor Group (Egypt),,,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,National,0,EGY
+EGY12039,2023-10-22,1,Strategic developments,Other,Military Forces of Israel (2022-),,Military Forces of Egypt (2014-) Border Guards,,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,National-Regional,0,EGY
+EGY12042,2023-10-23,1,Violence against civilians,Attack,Military Forces of Egypt (2014-),,Civilians (Egypt),Refugees/IDPs (Egypt),Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,Regional,0,EGY
+EGY12043,2023-10-23,1,Protests,Excessive force against protesters,Protesters (Egypt),Refugees/IDPs (Egypt); Rumailat Clan Group (Egypt); Sawarka Clan Group (Egypt),Police Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,National-Regional,0,EGY
+EGY11863,2023-02-06,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Giza,Al Warak,Al Warraq,30.1009,31.2167,1,Regional,0,EGY
+EGY11864,2023-02-07,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Giza,Al Warak,Al Warraq,30.1009,31.2167,1,Regional,0,EGY
+EGY11865,2023-02-05,1,Strategic developments,Arrests,Police Forces of Egypt (2014-),,Civilians (Egypt),,Egypt,Giza,Al Warak,Al Warraq,30.1009,31.2167,1,National-Regional,0,EGY
+EGY11866,2023-02-08,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Giza,Al Warak,Al Warraq,30.1009,31.2167,1,National-Regional,0,EGY
+EGY11904,2023-10-11,2,Protests,Peaceful protest,Protesters (Egypt),Journalists (Egypt),,,Egypt,Cairo,Kasr Al Nile,Cairo - Qasr al Nile,30.0488,31.2343,1,Regional,0,EGY
+EGY11906,2023-10-13,1,Protests,Protest with intervention,Protesters (Egypt),Muslim Group (Egypt),Police Forces of Egypt (2014-),,Egypt,Cairo,Al Darb Al Ahmar,Cairo - Al-Darb Al-Ahmar,30.04,31.2595,1,National-Regional,0,EGY
+EGY11907,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),Muslim Group (Egypt),,,Egypt,Cairo,Al Darb Al Ahmar,Cairo - Al-Darb Al-Ahmar,30.04,31.2595,1,National-Regional,0,EGY
+EGY11908,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Cairo,Kasr Al Nile,Cairo - Qasr al Nile,30.0488,31.2343,1,Regional,0,EGY
+EGY11909,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Cairo,Abdeen,Cairo - Abdeen,30.045,31.2489,1,Regional,0,EGY
+EGY11923,2023-10-20,1,Protests,Protest with intervention,Protesters (Egypt),Labor Group (Egypt); Students (Egypt),Police Forces of Egypt (2014-),,Egypt,Cairo,Abdeen,Cairo - Abdeen,30.045,31.2489,1,National-Regional,0,EGY
+EGY11926,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Giza,Al Agouza,Mohandiseen,30.0574,31.1995,1,National-Regional,0,EGY
+EGY11927,2023-10-19,1,Protests,Peaceful protest,Protesters (Egypt),Journalists (Egypt); Women (Egypt),,,Egypt,Cairo,Kasr Al Nile,Cairo - Qasr al Nile,30.0488,31.2343,1,National-Regional,0,EGY
+EGY11928,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),Journalists (Egypt),,,Egypt,Cairo,Kasr Al Nile,Cairo - Qasr al Nile,30.0488,31.2343,1,National-Regional,0,EGY
+EGY11929,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),CDC: Civil Democratic Current,,,Egypt,Cairo,Kasr Al Nile,Cairo - Qasr al Nile,30.0488,31.2343,1,Regional,0,EGY
+EGY11930,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),Labor Group (Egypt),,,Egypt,Cairo,Al Uzbakia,Cairo - Azbakeya,30.0562,31.2448,1,Regional,0,EGY
+EGY11933,2023-10-16,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Cairo,Kasr Al Nile,Cairo - Qasr al Nile,30.0488,31.2343,1,National-Regional,0,EGY
+EGY11947,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Cairo,Al Darb Al Ahmar,Cairo - Al-Darb Al-Ahmar,30.04,31.2595,1,National,0,EGY
+EGY11963,2023-10-20,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Qalyubia,Shoubra Al Khiema 1,Shubra al Khayma,30.1251,31.2505,1,National,0,EGY
+EGY11979,2023-10-19,1,Protests,Peaceful protest,Protesters (Egypt),Labor Group (Egypt),,,Egypt,Cairo,Al Uzbakia,Cairo - Azbakeya,30.0562,31.2448,1,National,0,EGY
+EGY11993,2023-10-18,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Qalyubia,Shoubra Al Khiema 1,Shubra al Khayma,30.1251,31.2505,1,National,0,EGY
+EGY12025,2023-10-22,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Cairo,Kasr Al Nile,Cairo - Qasr al Nile,30.0488,31.2343,1,National-Regional,0,EGY
+EGY12045,2023-10-27,1,Protests,Protest with intervention,Protesters (Egypt),Muslim Group (Egypt),Police Forces of Egypt (2014-),,Egypt,Cairo,Al Darb Al Ahmar,Cairo - Al-Darb Al-Ahmar,30.04,31.2595,1,Regional,0,EGY
+EGY12058,2023-11-04,1,Protests,Peaceful protest,Protesters (Egypt),Journalists (Egypt); Labor Group (Egypt),,,Egypt,Cairo,Abdeen,Cairo - Abdeen,30.045,31.2489,1,National-Regional,0,EGY
+EGY12059,2023-11-23,2,Protests,Peaceful protest,Protesters (Egypt),Journalists (Egypt); Women (Egypt),,,Egypt,Cairo,Kasr Al Nile,Cairo - Qasr al Nile,30.0488,31.2343,1,National-Regional,0,EGY
+EGY12060,2023-11-29,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Cairo,Kasr Al Nile,Cairo - Qasr al Nile,30.0488,31.2343,1,National-Regional,0,EGY
+EGY12061,2023-11-30,1,Protests,Protest with intervention,Protesters (International),,Police Forces of Egypt (2014-),,Egypt,Cairo,Bolak,Cairo - Bulaq,30.0604,31.2315,1,National-Regional,0,EGY
+EGY12063,2023-12-13,1,Protests,Peaceful protest,Protesters (Egypt),Journalists (Egypt),,,Egypt,Cairo,Kasr Al Nile,Cairo - Qasr al Nile,30.0488,31.2343,1,National-Regional,0,EGY
+EGY12066,2023-12-26,1,Strategic developments,Disrupted weapons use,Military Forces of Egypt (2014-),,Military Forces of Yemen (2017-) Houthi,,Egypt,South Sinai,Dahab,Coast of Dahab,28.4821,34.61,2,Other-Regional,0,EGY
+EGY12069,2023-12-31,1,Protests,Peaceful protest,Protesters (Egypt),Journalists (Egypt); Women (Egypt),,,Egypt,Cairo,Kasr Al Nile,Cairo - Qasr al Nile,30.0488,31.2343,1,Regional,0,EGY
+EGY12297,2023-06-18,2,Violence against civilians,Attack,Police Forces of Egypt (2014-),,Civilians (Egypt),,Egypt,Assiut,Sadafa,Bani Fiz,26.9603,31.3907,1,National,6,EGY
+EGY12299,2023-03-20,1,Violence against civilians,Attack,Police Forces of Egypt (2014-),,Civilians (Egypt),,Egypt,Assiut,Sahel Salim,Ash Shamiyah,27.0636,31.3583,1,National,1,EGY
+EGY12065,2023-12-10,1,Strategic developments,Other,Civilians (Egypt),,,,Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,3,National-Regional,0,EGY

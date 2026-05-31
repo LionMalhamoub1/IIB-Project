@@ -1,0 +1,283 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+MAA1024,2021-01-17,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Trarza,Ouad Naga,Teveritt,18.0174,-15.743,1,National,0,MRT
+MAA1032,2021-01-22,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Tiris Zemmour,Fderick,Zouerat,22.7354,-12.4713,1,National,0,MRT
+MAA1052,2021-02-05,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Inchiri,Akjoujt,Akjoujt,19.6969,-14.4164,1,National,0,MRT
+MAA1067,2021-02-13,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Trarza,Ouad Naga,Teveritt,18.0174,-15.743,1,National,0,MRT
+MAA1086,2021-02-24,2,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Adrar,Atar,Adrar,20.7704,-13.0971,1,Other,0,MRT
+MAA1109,2021-03-23,2,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Assaba,Guerrou,Kamour,17.0763,-12.0379,1,National,0,MRT
+MAA1108,2021-03-22,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Tiris Zemmour,Fderick,Zouerat,22.7354,-12.4713,1,National,0,MRT
+MAA1102,2021-03-22,1,Protests,Peaceful protest,Protesters (Mauritania),Teachers (Mauritania),,,Mauritania,Hodh El Gharbi,Koubenni,Kobenni,15.8172,-9.3653,1,National,0,MRT
+MAA1112,2021-03-24,1,Protests,Peaceful protest,Protesters (Mauritania),Teachers (Mauritania),,,Mauritania,Hodh Ech Chargi,Tembedra,Timbedgha,16.2447,-8.1643,1,National,0,MRT
+MAA1117,2021-03-29,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Brakna,Maghta Lahjar,Sangrava,17.5539,-12.8628,2,National,0,MRT
+MAA1115,2021-03-25,2,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Tiris Zemmour,Fderick,Zouerat,22.7354,-12.4713,1,Subnational,0,MRT
+MAA1137,2021-04-07,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Tiris Zemmour,Fderick,Zouerat,22.7354,-12.4713,1,Subnational,0,MRT
+MAA1053,2021-02-05,1,Protests,Peaceful protest,Protesters (Mauritania),Students (Mauritania),,,Mauritania,Dakhlet Nouadhibou,Dakhlet Nouadhibou,Nouadhibou,20.9434,-17.038,1,National,0,MRT
+MAA1056,2021-02-08,1,Protests,Peaceful protest,Protesters (Mauritania),Students (Mauritania),,,Mauritania,Dakhlet Nouadhibou,Dakhlet Nouadhibou,Nouadhibou,20.9434,-17.038,1,National,0,MRT
+MAA1093,2021-03-08,1,Protests,Peaceful protest,Protesters (Mauritania),NRRD: National Rally for Reform and Development (Tawasoul); Women (Mauritania); Labor Group (Mauritania),,,Mauritania,Dakhlet Nouadhibou,Dakhlet Nouadhibou,Nouadhibou,20.9434,-17.038,1,National,0,MRT
+MAA1047,2021-02-02,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Dakhlet Nouadhibou,Dakhlet Nouadhibou,Nouadhibou,20.9434,-17.038,1,National,0,MRT
+MAA1123,2021-03-22,1,Protests,Peaceful protest,Protesters (Mauritania),Teachers (Mauritania),,,Mauritania,Dakhlet Nouadhibou,Dakhlet Nouadhibou,Nouadhibou,20.9434,-17.038,1,National,0,MRT
+MAA994,2021-01-06,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Dakhlet Nouadhibou,Dakhlet Nouadhibou,Nouadhibou,20.9434,-17.038,1,National,0,MRT
+MAA1064,2021-01-29,1,Protests,Peaceful protest,Protesters (Mauritania),Teachers (Mauritania),,,Mauritania,Dakhlet Nouadhibou,Dakhlet Nouadhibou,Nouadhibou,20.9434,-17.038,1,National,0,MRT
+MAA1103,2021-03-22,2,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Dakhlet Nouadhibou,Dakhlet Nouadhibou,Nouadhibou,20.9434,-17.038,1,National,0,MRT
+MAA1025,2021-01-18,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Dakhlet Nouadhibou,Dakhlet Nouadhibou,Nouadhibou,20.9434,-17.038,1,National,0,MRT
+MAA1044,2021-02-01,1,Protests,Peaceful protest,Protesters (Mauritania),Students (Mauritania),,,Mauritania,Dakhlet Nouadhibou,Dakhlet Nouadhibou,Nouadhibou,20.9434,-17.038,1,National,0,MRT
+MAA1110,2021-03-24,1,Protests,Peaceful protest,Protesters (Mauritania),Teachers (Mauritania),,,Mauritania,Dakhlet Nouadhibou,Dakhlet Nouadhibou,Nouadhibou,20.9434,-17.038,1,National,0,MRT
+MAA1141,2021-04-15,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Brakna,Aleg,Aleg,17.0481,-13.9209,1,National,0,MRT
+MAA1128,2021-04-05,1,Riots,Mob violence,Rioters (Mauritania),,Rioters (Mauritania),,Mauritania,Gorgol,Kaedi,Kaedi,16.1465,-13.4976,1,National,0,MRT
+MAA1142,2021-04-17,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Trarza,Ouad Naga,Teveritt,18.0174,-15.743,1,National,0,MRT
+MAA1158,2021-04-30,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Tagant,Tidjikja,Tidjikja,18.5564,-11.4272,1,National,0,MRT
+MAA1152,2021-04-26,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Dakhlet Nouadhibou,Dakhlet Nouadhibou,Nouadhibou,20.9434,-17.038,1,National,0,MRT
+MAA1155,2021-04-27,1,Protests,Peaceful protest,Protesters (Mauritania),Muslim Group (Mauritania),,,Mauritania,Dakhlet Nouadhibou,Dakhlet Nouadhibou,Nouadhibou,20.9434,-17.038,1,National,0,MRT
+MAA1156,2021-04-28,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Tiris Zemmour,Fderick,Zouerat,22.7354,-12.4713,3,National,0,MRT
+MAA1164,2021-05-05,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Tagant,Tidjikja,Tidjikja,18.5564,-11.4272,1,National,0,MRT
+MAA1162,2021-05-03,1,Riots,Violent demonstration,Rioters (Mauritania),,,,Mauritania,Hodh El Gharbi,Tintane,Tintane,16.3954,-10.1673,1,National,0,MRT
+MAA1167,2021-05-08,2,Protests,Peaceful protest,Protesters (Mauritania),Students (Mauritania),,,Mauritania,Dakhlet Nouadhibou,Dakhlet Nouadhibou,Nouadhibou,20.9434,-17.038,1,National,0,MRT
+MAA1174,2021-05-18,1,Protests,Peaceful protest,Protesters (Mauritania),Health Workers (Mauritania),,,Mauritania,Dakhlet Nouadhibou,Dakhlet Nouadhibou,Nouadhibou,20.9434,-17.038,1,National,0,MRT
+MAA1171,2021-05-16,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Assaba,Guerrou,Guerou,16.8177,-11.8359,1,National,0,MRT
+MAA1169,2021-05-08,1,Protests,Peaceful protest,Protesters (Mauritania),Teachers (Mauritania),,,Mauritania,Tiris Zemmour,Fderick,Zouerat,22.7354,-12.4713,1,Subnational,0,MRT
+MAA1184,2021-05-26,1,Protests,Peaceful protest,Protesters (Mauritania),SLEM: Free Union of Mauritanian Teachers; Teachers (Mauritania),,,Mauritania,Tagant,Tidjikja,Tidjikja,18.5564,-11.4272,3,National,0,MRT
+MAA1180,2021-05-23,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Trarza,Boutilimit,Boutilimit,17.5467,-14.6944,1,National,0,MRT
+MAA1182,2021-05-24,1,Protests,Peaceful protest,Protesters (Mauritania),SLEM: Free Union of Mauritanian Teachers; Teachers (Mauritania),,,Mauritania,Trarza,Rosso,Rosso,16.5103,-15.8027,1,National,0,MRT
+MAA1179,2021-05-21,1,Protests,Peaceful protest,Protesters (Mauritania),Muslim Group (Mauritania),,,Mauritania,Tiris Zemmour,Fderick,Zouerat,22.7354,-12.4713,1,National,0,MRT
+MAA1186,2021-05-31,1,Protests,Peaceful protest,Protesters (Mauritania),Teachers (Mauritania),,,Mauritania,Assaba,Kankossa,El Ayoun,15.5579,-11.18,1,National,0,MRT
+MAA1190,2021-06-01,2,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Dakhlet Nouadhibou,Dakhlet Nouadhibou,Nouadhibou,20.9434,-17.038,1,National,0,MRT
+MAA1189,2021-05-31,2,Protests,Peaceful protest,Protesters (Mauritania),FGTE: General Federation of Education Workers; SIPES: Independent Union of Secondary Education Teachers; SLEM: Free Union of Mauritanian Teachers; Teachers (Mauritania); Labor Group (Mauritania),,,Mauritania,Tiris Zemmour,Fderick,Zouerat,22.7354,-12.4713,1,Subnational,0,MRT
+MAA1194,2021-06-09,1,Protests,Peaceful protest,Protesters (Mauritania),Students (Mauritania),,,Mauritania,Inchiri,Akjoujt,Akjoujt,19.6969,-14.4164,1,National,0,MRT
+MAA1198,2021-06-13,2,Protests,Peaceful protest,Protesters (Mauritania),Muslim Group (Mauritania),,,Mauritania,Dakhlet Nouadhibou,Dakhlet Nouadhibou,Nouadhibou,20.9434,-17.038,1,National,0,MRT
+MAA1206,2021-06-21,2,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Assaba,Kankossa,El Ayoun,15.5579,-11.18,1,National,0,MRT
+MAA1213,2021-07-06,2,Protests,Peaceful protest,Protesters (Mauritania),Women (Mauritania),,,Mauritania,Dakhlet Nouadhibou,Dakhlet Nouadhibou,Nouadhibou,20.9434,-17.038,1,National,0,MRT
+MAA1212,2021-07-05,2,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Hodh Ech Chargi,Tembedra,Timbedgha,16.2447,-8.1643,1,National,0,MRT
+MAA1226,2021-08-04,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Tagant,Tichit,Tichitt,18.6473,-9.7993,1,National,0,MRT
+MAA1227,2021-08-16,1,Protests,Peaceful protest,Protesters (Mauritania),Health Workers (Mauritania),,,Mauritania,Dakhlet Nouadhibou,Dakhlet Nouadhibou,Nouadhibou,20.9434,-17.038,1,National,0,MRT
+MAA1229,2021-09-05,1,Riots,Violent demonstration,Rioters (Mauritania),Prisoners (Mauritania),Police Forces of Mauritania (2019-) Prison Guards,Military Forces of Mauritania (2019-),Mauritania,Brakna,Aleg,Aleg,17.0481,-13.9209,1,National,1,MRT
+MAA1231,2021-09-08,2,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Adrar,Atar,Adrar,20.7704,-13.0971,1,National,0,MRT
+MAA1234,2021-09-17,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Assaba,Kiffa,Kiffa,16.6166,-11.4045,1,National,0,MRT
+MAA1239,2021-09-22,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Tiris Zemmour,Fderick,Zouerat,22.7354,-12.4713,1,International,0,MRT
+MAA1235,2021-09-22,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Inchiri,Akjoujt,Akjoujt,19.6969,-14.4164,1,International,0,MRT
+MAA1236,2021-09-22,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Dakhlet Nouadhibou,Dakhlet Nouadhibou,Nouadhibou,20.9434,-17.038,1,International,0,MRT
+MAA1244,2021-10-11,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Inchiri,Akjoujt,Akjoujt,19.6969,-14.4164,1,National,0,MRT
+MAA1245,2021-10-13,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Assaba,Aftout,Barkewol,16.6404,-12.4985,1,National,0,MRT
+MAA1251,2021-10-28,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Tiris Zemmour,Fderick,Zouerat,22.7354,-12.4713,1,National,0,MRT
+MAA1248,2021-11-04,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Dakhlet Nouadhibou,Dakhlet Nouadhibou,Nouadhibou,20.9434,-17.038,1,National,0,MRT
+MAA1250,2021-11-01,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Dakhlet Nouadhibou,Dakhlet Nouadhibou,Nouadhibou,20.9434,-17.038,1,National,0,MRT
+MAA1247,2021-11-05,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Inchiri,Akjoujt,Akjoujt,19.6969,-14.4164,1,National,0,MRT
+MAA1249,2021-11-02,1,Riots,Violent demonstration,Rioters (Mauritania),,Police Forces of Mauritania (2019-),,Mauritania,Tiris Zemmour,Fderick,Zouerat,22.7354,-12.4713,1,National,0,MRT
+MAA1259,2021-11-14,1,Protests,Peaceful protest,Protesters (Mauritania),Teachers (Mauritania),,,Mauritania,Gorgol,Kaedi,Kaedi,16.1465,-13.4976,1,National,0,MRT
+MAA1261,2021-11-14,1,Protests,Peaceful protest,Protesters (Mauritania),Teachers (Mauritania),,,Mauritania,Trarza,Rosso,Rosso,16.5103,-15.8027,1,National,0,MRT
+MAA1262,2021-11-14,1,Protests,Peaceful protest,Protesters (Mauritania),Teachers (Mauritania),,,Mauritania,Tiris Zemmour,Fderick,Zouerat,22.7354,-12.4713,1,National,0,MRT
+MAA1265,2021-11-17,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Hodh El Gharbi,Tintane,Tintane,16.3954,-10.1673,2,National,0,MRT
+MAA1258,2021-11-14,1,Protests,Protest with intervention,Protesters (Mauritania),Teachers (Mauritania),Police Forces of Mauritania (2019-),,Mauritania,Assaba,Kankossa,El Ayoun,15.5579,-11.18,1,National,0,MRT
+MAA1257,2021-11-14,1,Protests,Peaceful protest,Protesters (Mauritania),Teachers (Mauritania),,,Mauritania,Adrar,Atar,Atar,20.5177,-13.0486,1,National,0,MRT
+MAA1266,2021-11-21,2,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Mauritania),,Civilians (Mauritania),,Mauritania,Tiris Zemmour,Bir Moghrein,Bir Oum el Grein,25.14,-11.57,2,National,0,MRT
+MAA1267,2021-11-22,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Hodh Ech Chargi,Bassikounou,Bassikounou,15.8656,-5.9468,1,National,0,MRT
+MAA1268,2021-11-23,1,Protests,Peaceful protest,Protesters (Mauritania),Students (Mauritania),,,Mauritania,Trarza,Rosso,Rosso,16.5103,-15.8027,1,National,0,MRT
+MAA1280,2021-12-06,2,Protests,Protest with intervention,Protesters (Mauritania),Farmers (Mauritania),Police Forces of Mauritania (2019-),,Mauritania,Trarza,Rosso,Rosso,16.5103,-15.8027,2,National,0,MRT
+MAA1270,2021-11-27,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Trarza,Boutilimit,Boutilimit,17.5467,-14.6944,1,National,0,MRT
+MAA1274,2021-11-29,1,Protests,Peaceful protest,Protesters (Mauritania),Women (Mauritania); Labor Group (Mauritania),,,Mauritania,Dakhlet Nouadhibou,Dakhlet Nouadhibou,Nouadhibou,20.9434,-17.038,1,National,0,MRT
+MAA1279,2021-12-06,1,Protests,Peaceful protest,Protesters (Mauritania),Health Workers (Mauritania),,,Mauritania,Dakhlet Nouadhibou,Dakhlet Nouadhibou,Nouadhibou,20.9434,-17.038,1,National,0,MRT
+MAA1269,2021-11-21,1,Protests,Protest with intervention,Protesters (Mauritania),,Police Forces of Mauritania (2019-),,Mauritania,Trarza,Rosso,Rosso,16.5103,-15.8027,2,National,0,MRT
+MAA1293,2021-12-29,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Hodh Ech Chargi,Bassikounou,Bassikounou,15.8656,-5.9468,1,National,0,MRT
+MAA1286,2021-12-15,1,Protests,Peaceful protest,Protesters (Mauritania),Students (Mauritania),,,Mauritania,Assaba,Kiffa,Kiffa,16.6166,-11.4045,1,National,0,MRT
+MAA1283,2021-12-04,2,Violence against civilians,Attack,Police Forces of Mauritania (2019-),,Civilians (Mauritania),Prisoners (Mauritania); 4th August Movement,Mauritania,Trarza,Rkiz,Lekseiba II,16.6632,-14.9503,1,National,0,MRT
+MAA1282,2021-11-03,1,Protests,Protest with intervention,Protesters (Mauritania),,Police Forces of Mauritania (2019-),,Mauritania,Trarza,Rkiz,Ngawle,16.6637,-14.9992,1,National,0,MRT
+MAA1284,2021-12-04,1,Protests,Protest with intervention,Protesters (Mauritania),4th August Movement,Police Forces of Mauritania (2019-),,Mauritania,Trarza,Rkiz,Ngawle,16.6637,-14.9992,1,National,0,MRT
+MAA1291,2021-12-21,1,Protests,Peaceful protest,Protesters (Mauritania),Teachers (Mauritania),,,Mauritania,Tiris Zemmour,Fderick,Zouerat,22.7354,-12.4713,1,Subnational,0,MRT
+MAA1289,2021-12-17,1,Protests,Peaceful protest,Protesters (Mauritania),Teachers (Mauritania),,,Mauritania,Tiris Zemmour,Fderick,Zouerat,22.7354,-12.4713,1,Subnational,0,MRT
+MAA1292,2021-12-24,1,Protests,Excessive force against protesters,Protesters (Mauritania),,Military Forces of Mauritania (2019-) Gendarmerie,,Mauritania,Hodh Ech Chargi,Bassikounou,Bassikounou,15.8656,-5.9468,1,National,0,MRT
+MAA993,2021-01-05,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Morocco (1999-),,,,Mauritania,Tiris Zemmour,Bir Moghrein,Bir Oum el Grein,25.14,-11.57,2,National,0,MRT
+MAA1295,2021-12-31,2,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1294,2021-12-29,1,Protests,Peaceful protest,Protesters (Mauritania),CNTM: National Confederation of Mauritanian Workers; Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1290,2021-12-20,1,Protests,Peaceful protest,Protesters (Mauritania),Students (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1288,2021-12-16,1,Protests,Protest with intervention,Protesters (Mauritania),,Police Forces of Mauritania (2019-),,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1287,2021-12-16,1,Protests,Peaceful protest,Protesters (Mauritania),UNEM: National Union of Mauritanian Students; Students (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1285,2021-12-13,2,Protests,Peaceful protest,Protesters (Mauritania),UNEM: National Union of Mauritanian Students; Students (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1277,2021-12-03,1,Protests,Peaceful protest,Protesters (Mauritania),Teachers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1278,2021-12-03,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1275,2021-11-30,1,Protests,Peaceful protest,Protesters (Mauritania),Students (Mauritania); UNEM: National Union of Mauritanian Students,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1272,2021-11-28,1,Protests,Protest with intervention,Protesters (Mauritania),Women (Mauritania),Police Forces of Mauritania (2019-),,Mauritania,Nouakchott,Arafat,Nouakchott-Sud,18.0351,-15.9632,2,National,0,MRT
+MAA1264,2021-11-17,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1263,2021-11-17,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1260,2021-11-14,1,Protests,Protest with intervention,Protesters (Mauritania),Teachers (Mauritania),Police Forces of Mauritania (2019-),,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1256,2021-11-13,2,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1255,2021-11-12,1,Protests,Protest with intervention,Protesters (Mauritania),,Police Forces of Mauritania (2019-),,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,2,National,0,MRT
+MAA1254,2021-11-10,1,Protests,Protest with intervention,Protesters (Mauritania),,Police Forces of Mauritania (2019-),,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1253,2021-11-09,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1252,2021-11-08,1,Protests,Protest with intervention,Protesters (Mauritania),,Police Forces of Mauritania (2019-),,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1246,2021-10-18,1,Protests,Protest with intervention,Protesters (Mauritania),,Police Forces of Mauritania (2019-),,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1242,2021-10-05,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1243,2021-10-05,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1241,2021-10-02,2,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1240,2021-09-29,2,Protests,Peaceful protest,Protesters (Mauritania),Health Workers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1237,2021-09-22,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,International,0,MRT
+MAA1233,2021-09-15,1,Protests,Peaceful protest,Protesters (Mauritania),IRA: The Initiative for the Resurgence of Abolitionist Movement; Sawab; Women (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1232,2021-09-13,1,Protests,Peaceful protest,Protesters (Mauritania),Health Workers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1224,2021-09-01,1,Protests,Peaceful protest,Protesters (Mauritania),Women (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1223,2021-08-31,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1228,2021-08-23,2,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1222,2021-08-04,1,Protests,Peaceful protest,Protesters (Mauritania),Women (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1220,2021-07-28,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1218,2021-07-19,1,Protests,Peaceful protest,Protesters (Mauritania),Health Workers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1217,2021-07-18,2,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,International,0,MRT
+MAA1216,2021-07-14,1,Protests,Peaceful protest,Protesters (Mauritania),RIBAT: National Party for the Rights and Construction of Generations,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1214,2021-07-11,1,Protests,Peaceful protest,Protesters (Mauritania),RIBAT: National Party for the Rights and Construction of Generations; Women (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1210,2021-06-29,2,Protests,Peaceful protest,Protesters (Morocco),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,International,0,MRT
+MAA1209,2021-06-23,1,Protests,Peaceful protest,Protesters (Mauritania),Students (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1208,2021-06-23,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1204,2021-06-18,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1203,2021-06-17,1,Protests,Peaceful protest,Protesters (Mauritania),Muslim Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1202,2021-06-17,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1201,2021-06-16,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1200,2021-06-16,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1199,2021-06-14,2,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1196,2021-06-10,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1197,2021-06-10,1,Protests,Peaceful protest,Protesters (Mauritania),Muslim Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1195,2021-06-09,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1193,2021-06-04,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1191,2021-06-02,1,Protests,Peaceful protest,Protesters (Mauritania),Teachers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1192,2021-06-02,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1188,2021-05-31,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1187,2021-05-31,1,Protests,Peaceful protest,Protesters (Mauritania),Teachers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1185,2021-05-27,1,Protests,Peaceful protest,Protesters (Mauritania),SLEM: Free Union of Mauritanian Teachers; Teachers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1181,2021-05-24,2,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1178,2021-05-21,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1177,2021-05-19,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1176,2021-05-18,1,Protests,Peaceful protest,Protesters (Mauritania),Muslim Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1175,2021-05-18,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1173,2021-05-17,1,Protests,Peaceful protest,Protesters (Mauritania),Lawyers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1168,2021-05-08,1,Protests,Peaceful protest,Protesters (Mauritania),Teachers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1165,2021-05-07,1,Protests,Peaceful protest,Protesters (Mauritania),Students (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1166,2021-05-05,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1160,2021-05-04,1,Protests,Peaceful protest,Protesters (Mauritania),Health Workers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1163,2021-05-03,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1161,2021-05-03,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1159,2021-05-02,1,Protests,Peaceful protest,Protesters (Mauritania),Miners (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1157,2021-04-30,1,Protests,Peaceful protest,Protesters (Mauritania),Miners (Mauritania),,,Mauritania,Nouakchott,Ksar,Nouakchott-Nord,18.2647,-15.9382,1,National,0,MRT
+MAA1154,2021-04-27,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1153,2021-04-26,1,Protests,Peaceful protest,Protesters (Mauritania),Students (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1151,2021-04-25,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1148,2021-04-23,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1147,2021-04-21,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1146,2021-04-21,1,Protests,Peaceful protest,Protesters (Mauritania),Teachers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1145,2021-04-20,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1143,2021-04-19,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1144,2021-04-19,1,Protests,Peaceful protest,Protesters (Mauritania),Teachers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1140,2021-04-12,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1139,2021-04-12,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1138,2021-04-08,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1136,2021-04-07,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1131,2021-04-07,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1132,2021-04-07,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1133,2021-04-07,1,Protests,Peaceful protest,Protesters (Mauritania),Health Workers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1135,2021-04-07,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1130,2021-04-07,1,Protests,Peaceful protest,Protesters (Mauritania),Students (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1134,2021-04-07,1,Protests,Peaceful protest,Protesters (Mauritania),Taxi Drivers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1129,2021-04-05,1,Protests,Protest with intervention,Protesters (Mauritania),Labor Group (Mauritania),Rioters (Mauritania),Labor Group (Mauritania),Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1120,2021-04-01,1,Protests,Peaceful protest,Protesters (Mauritania),Health Workers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1119,2021-03-31,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1121,2021-03-31,1,Protests,Peaceful protest,Protesters (Mauritania),APP: People's Progressive Alliance,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1118,2021-03-30,1,Protests,Peaceful protest,Protesters (Mauritania),Health Workers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1116,2021-03-29,2,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1114,2021-03-25,1,Protests,Peaceful protest,Protesters (Mauritania),Teachers (Mauritania); Women (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1113,2021-03-25,1,Protests,Peaceful protest,Protesters (Mauritania),Taxi Drivers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1111,2021-03-24,1,Protests,Peaceful protest,Protesters (Mauritania),Health Workers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1125,2021-03-24,1,Protests,Peaceful protest,Protesters (Mauritania),Students (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1126,2021-03-24,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1127,2021-03-24,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1124,2021-03-24,1,Protests,Peaceful protest,Protesters (Mauritania),SLEM: Free Union of Mauritanian Teachers; Teachers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1104,2021-03-22,1,Protests,Peaceful protest,Protesters (Mauritania),Health Workers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1105,2021-03-22,1,Protests,Peaceful protest,Protesters (Mauritania),CEF: Coordination of Basic Education; Teachers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1106,2021-03-22,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1107,2021-03-22,1,Protests,Peaceful protest,Protesters (Mauritania),Students (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1122,2021-03-20,1,Protests,Peaceful protest,Protesters (Mauritania),Health Workers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1101,2021-03-18,1,Protests,Peaceful protest,Protesters (Mauritania),Health Workers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1098,2021-03-17,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1100,2021-03-17,1,Protests,Peaceful protest,Protesters (Mauritania),Health Workers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1099,2021-03-17,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1095,2021-03-15,1,Protests,Peaceful protest,Protesters (Mauritania),Health Workers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1097,2021-03-15,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1096,2021-03-15,1,Protests,Peaceful protest,Protesters (Mauritania),Women (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1094,2021-03-13,2,Protests,Peaceful protest,Protesters (Mauritania),Health Workers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1090,2021-03-11,1,Protests,Peaceful protest,Protesters (Mauritania),Health Workers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1089,2021-03-10,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1087,2021-03-08,1,Protests,Peaceful protest,Protesters (Mauritania),Women (Mauritania); NRRD: National Rally for Reform and Development (Tawasoul),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1084,2021-03-04,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1085,2021-03-04,2,Protests,Peaceful protest,Protesters (Mauritania),Students (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1083,2021-03-03,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1092,2021-03-01,1,Protests,Peaceful protest,Protesters (Mauritania),Health Workers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1081,2021-02-25,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1080,2021-02-24,2,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1079,2021-02-23,1,Protests,Peaceful protest,Protesters (Mauritania),Women (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1072,2021-02-22,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1074,2021-02-18,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1078,2021-02-18,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1073,2021-02-18,1,Protests,Peaceful protest,Protesters (Mauritania),Fishers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1077,2021-02-18,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1075,2021-02-18,1,Protests,Peaceful protest,Protesters (Mauritania),Students (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1076,2021-02-18,1,Protests,Peaceful protest,Protesters (Mauritania),Women (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1069,2021-02-16,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1068,2021-02-16,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1063,2021-02-12,1,Protests,Peaceful protest,Protesters (Mauritania),Teachers (Mauritania); SLEM: Free Union of Mauritanian Teachers,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1059,2021-02-10,1,Protests,Peaceful protest,Protesters (Mauritania),Teachers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1061,2021-02-10,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1058,2021-02-10,1,Protests,Peaceful protest,Protesters (Mauritania),Students (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1057,2021-02-10,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1060,2021-02-10,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1054,2021-02-05,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1051,2021-02-04,1,Protests,Peaceful protest,Protesters (Mauritania),Students (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1049,2021-02-03,1,Protests,Peaceful protest,Protesters (Mauritania),Students (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1050,2021-02-03,1,Protests,Peaceful protest,Protesters (Mauritania),Women (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1048,2021-02-03,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1046,2021-02-01,1,Protests,Peaceful protest,Protesters (Mauritania),Students (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1045,2021-02-01,2,Protests,Peaceful protest,Protesters (Mauritania),Students (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1043,2021-01-31,1,Protests,Peaceful protest,Protesters (Mauritania),Students (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1040,2021-01-29,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1065,2021-01-29,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1036,2021-01-27,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1038,2021-01-27,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1037,2021-01-27,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1035,2021-01-27,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1039,2021-01-27,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1034,2021-01-26,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1031,2021-01-21,2,Protests,Peaceful protest,Protesters (Mauritania),Women (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1030,2021-01-20,1,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1029,2021-01-19,2,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1028,2021-01-19,2,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1026,2021-01-18,1,Protests,Peaceful protest,Protesters (Mauritania),Teachers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1042,2021-01-14,2,Protests,Peaceful protest,Protesters (Mauritania),Labor Group (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1021,2021-01-11,1,Protests,Peaceful protest,Protesters (Mauritania),Teachers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1023,2021-01-11,1,Protests,Peaceful protest,Protesters (Mauritania),Students (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1022,2021-01-11,1,Protests,Peaceful protest,Protesters (Mauritania),Students (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA996,2021-01-08,2,Protests,Peaceful protest,Protesters (Mauritania),Muslim Group (Mauritania); Teachers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA995,2021-01-06,1,Protests,Peaceful protest,Protesters (Mauritania),Women (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA992,2021-01-04,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA991,2021-01-04,1,Protests,Peaceful protest,Protesters (Mauritania),Teachers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1041,2021-01-04,1,Protests,Peaceful protest,Protesters (Mauritania),Health Workers (Mauritania),,,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1027,2021-01-18,1,Protests,Protest with intervention,Protesters (Mauritania),Women (Mauritania),Police Forces of Mauritania (2019-),,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1033,2021-01-23,1,Protests,Protest with intervention,Protesters (Mauritania),,Police Forces of Mauritania (2019-),,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1055,2021-02-06,1,Protests,Protest with intervention,Protesters (Mauritania),Women (Mauritania),Police Forces of Mauritania (2019-),Military Forces of Mauritania (2019-) Gendarmerie,Mauritania,Trarza,Ouad Naga,Teveritt,18.0174,-15.743,1,National,0,MRT
+MAA1062,2021-02-11,1,Protests,Protest with intervention,Protesters (Mauritania),,Police Forces of Mauritania (2019-),,Mauritania,Dakhlet Nouadhibou,Dakhlet Nouadhibou,Nouadhibou,20.9434,-17.038,1,National,0,MRT
+MAA1066,2021-02-03,2,Protests,Protest with intervention,Protesters (Mauritania),Students (Mauritania),Police Forces of Mauritania (2019-),,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1070,2021-02-22,1,Riots,Violent demonstration,Rioters (Mauritania),Miners (Mauritania),Military Forces of Mauritania (2019-) Gendarmerie,,Mauritania,Dakhlet Nouadhibou,Chami,Chami,20.0508,-15.9674,1,National,0,MRT
+MAA1071,2021-02-22,1,Protests,Protest with intervention,Protesters (Mauritania),,Military Forces of Mauritania (2019-) Gendarmerie,,Mauritania,Brakna,Mbagne,Mbagne,16.1463,-13.7893,2,National,0,MRT
+MAA1082,2021-02-25,1,Protests,Protest with intervention,Protesters (Mauritania),February 25 Movement,Police Forces of Mauritania (2019-),,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1091,2021-03-11,1,Protests,Protest with intervention,Protesters (Mauritania),,Police Forces of Mauritania (2019-),,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1149,2021-04-23,1,Protests,Protest with intervention,Protesters (Mauritania),Muslim Group (Mauritania),Police Forces of Mauritania (2019-),,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1170,2021-05-14,1,Protests,Protest with intervention,Protesters (Mauritania),Students (Mauritania); Muslim Group (Mauritania); Government of Mauritania (2019-),Police Forces of Mauritania (2019-),,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1172,2021-05-16,1,Protests,Protest with intervention,Protesters (Mauritania),,Police Forces of Mauritania (2019-),,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1183,2021-05-25,1,Protests,Protest with intervention,Protesters (Mauritania),,Police Forces of Mauritania (2019-),,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1205,2021-06-18,1,Protests,Protest with intervention,Protesters (Mauritania),Muslim Group (Mauritania),Police Forces of Mauritania (2019-),,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1211,2021-07-02,1,Riots,Violent demonstration,Rioters (Mauritania),,Police Forces of Mauritania (2019-),,Mauritania,Hodh El Gharbi,Koubenni,Kobenni,15.8172,-9.3653,1,National,0,MRT
+MAA1215,2021-07-13,1,Protests,Protest with intervention,Protesters (Mauritania),,Police Forces of Mauritania (2019-),,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1219,2021-07-22,1,Riots,Violent demonstration,Rioters (Mauritania),Labor Group (Mauritania),Military Forces of Mauritania (2019-) Gendarmerie,,Mauritania,Dakhlet Nouadhibou,Dakhlet Nouadhibou,Nouadhibou,20.9434,-17.038,1,National,0,MRT
+MAA1221,2021-07-28,1,Protests,Protest with intervention,Protesters (Mauritania),,Police Forces of Mauritania (2019-),,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA1225,2021-08-04,1,Protests,Protest with intervention,Protesters (Mauritania),Journalists (Mauritania),Police Forces of Mauritania (2019-),,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT
+MAA990,2021-01-02,1,Protests,Protest with intervention,Protesters (Mauritania),,Military Forces of Mauritania (2019-) Gendarmerie,,Mauritania,Trarza,Ouad Naga,Teveritt,18.0174,-15.743,1,National,0,MRT
+MAA1150,2021-04-24,1,Riots,Violent demonstration,Rioters (Mauritania),,Police Forces of Mauritania (2019-),Civilians (Mauritania); Government of Mauritania (2019-),Mauritania,Hodh Ech Chargi,Bassikounou,Bassikounou,15.8656,-5.9468,1,National,0,MRT
+MAA1238,2021-09-22,1,Riots,Violent demonstration,Rioters (Mauritania),,Military Forces of Mauritania (2019-) Gendarmerie,Civilians (Mauritania); Government of Mauritania (2019-),Mauritania,Trarza,Rkiz,Rkiz,16.9201,-15.2356,1,National,0,MRT
+MAA1088,2021-03-09,1,Strategic developments,Other,Police Forces of Mauritania (2019-),,Civilians (Mauritania),Former Government of Mauritania (2019-),Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,3,National,0,MRT
+MAA1207,2021-06-22,1,Strategic developments,Arrests,Police Forces of Mauritania (2019-),,Civilians (Mauritania),Former Government of Mauritania (2019-),Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National-International,0,MRT
+MAA1271,2021-11-28,1,Protests,Protest with intervention,Protesters (Mauritania),,Police Forces of Mauritania (2019-),,Mauritania,Brakna,Bababe,Bababe,16.3371,-13.9529,1,National,0,MRT
+MAA1273,2021-11-29,1,Protests,Peaceful protest,Protesters (Mauritania),,,,Mauritania,Brakna,Bababe,Bababe,16.3371,-13.9529,1,National,0,MRT
+MAA1276,2021-12-02,1,Protests,Peaceful protest,Protesters (Mauritania),Women (Mauritania),,,Mauritania,Brakna,Bababe,Bababe,16.3371,-13.9529,1,National,0,MRT
+MAA1281,2021-12-10,2,Protests,Peaceful protest,Protesters (Mauritania),Women (Mauritania),,,Mauritania,Brakna,Bababe,Bababe,16.3371,-13.9529,1,National,0,MRT
+MAA1230,2021-09-07,1,Protests,Protest with intervention,Protesters (Mauritania),Former Government of Mauritania (2019-); UPR: Union for the Republic (Insaf),Police Forces of Mauritania (2019-),,Mauritania,Nouakchott,Tevragh-Zeina,Nouakchott,18.0801,-15.9777,1,National,0,MRT

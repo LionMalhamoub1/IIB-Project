@@ -1,0 +1,144 @@
+======================================================================
+TOP FEATURES SUMMARY
+Models: LR M3 Structural | LR M0 Persistence | M6 XGBoost Full
+======================================================================
+
+──────────────────────────────────────────────────────────────────────
+LR M3 STRUCTURAL
+──────────────────────────────────────────────────────────────────────
+
+  PROTEST 7d — Top 10 by absolute value:
+   1. FX Change 30d                           −0.8946  [Markets (M1)]
+      → Expected −: local currency appreciation (positive = stronger) reduces economic grievances
+   2. Unemployment SA                         +0.8638  [Macro/Governance (M2)]
+      → No note available
+   3. GDELT Protest 28d Lag                   +0.5445  [GDELT Lags (M0)]
+      → Expected +: momentum effect — recent protests predict future ones
+   4. VIX Level                               −0.4139  [Markets (M1)]
+      → Expected +: elevated global risk appetite associated with weaker EM conditions
+   5. Unemployment Rate                       −0.3902  [Macro/Governance (M2)]
+      → Expected +: higher unemployment directly increases grievances and strike likelihood
+   6. Gini Coefficient                        −0.3450  [Structural (M3)]
+      → Expected +: higher inequality increases relative deprivation and social tensions
+   7. VIX 7d MA                               +0.2994  [Markets (M1)]
+      → No note available
+   8. Unemployment Total                      −0.2631  [Macro/Governance (M2)]
+      → No note available
+   9. GDELT Protest 7d Lag                    +0.2583  [GDELT Lags (M0)]
+      → Expected +: short-run persistence of protest activity
+  10. GDELT Strike 28d Lag                    +0.2444  [GDELT Lags (M0)]
+      → Expected +: persistence of industrial action
+
+  STRIKE 7d — Top 10 by absolute value:
+   1. GDP per Capita Growth                   +1.3171  [Macro/Governance (M2)]
+      → No note available
+   2. GDP Growth                              −1.2614  [Macro/Governance (M2)]
+      → Expected −: stronger growth reduces economic grievances
+   3. Rule of Law                             +0.7029  [Macro/Governance (M2)]
+      → Expected −: stronger institutions dampen strike/protest activity
+   4. Unemployment SA                         −0.6441  [Macro/Governance (M2)]
+      → No note available
+   5. Oil Change 30d                          +0.6124  [Markets (M1)]
+      → Expected +: rising oil prices raise fuel/food costs, increasing social pressure
+   6. Unemployment Rate                       +0.4508  [Macro/Governance (M2)]
+      → Expected +: higher unemployment directly increases grievances and strike likelihood
+   7. Gov. Effectiveness                      +0.4479  [Macro/Governance (M2)]
+      → Expected −: better governance reduces social conflict
+   8. FX×Instability                          +0.3739  [Structural (M3)]
+      → Expected +: currency depreciation is more destabilising in already-fragile political contexts
+   9. FX Change 7d                            −0.3698  [Markets (M1)]
+      → No note available
+  10. Oil Change 30d (z)                      −0.3586  [Markets (M1)]
+      → No note available
+
+──────────────────────────────────────────────────────────────────────
+LR M0 PERSISTENCE
+──────────────────────────────────────────────────────────────────────
+
+  PROTEST 7d — Top 10 by absolute value:
+   1. GDELT Protest 28d Lag                   +0.5659  [GDELT Lags (M0)]
+      → Expected +: momentum effect — recent protests predict future ones
+   2. GDELT Protest 7d Lag                    +0.3030  [GDELT Lags (M0)]
+      → Expected +: short-run persistence of protest activity
+   3. GDELT Strike 28d Lag                    +0.2601  [GDELT Lags (M0)]
+      → Expected +: persistence of industrial action
+   4. GDELT Protest Region 14d                +0.1520  [GDELT Lags (M0)]
+      → Expected +: regional contagion from protests nearby
+   5. GDELT Strike 7d Lag                     −0.1223  [GDELT Lags (M0)]
+      → Expected +: immediate contagion within strike wave
+   6. GDELT Strike Region 14d                 −0.0672  [GDELT Lags (M0)]
+      → Expected +: regional spill-over from strikes in neighbouring countries
+
+  STRIKE 7d — Top 10 by absolute value:
+   1. GDELT Strike 28d Lag                    +0.3377  [GDELT Lags (M0)]
+      → Expected +: persistence of industrial action
+   2. GDELT Strike 7d Lag                     +0.2124  [GDELT Lags (M0)]
+      → Expected +: immediate contagion within strike wave
+   3. GDELT Protest 7d Lag                    +0.1689  [GDELT Lags (M0)]
+      → Expected +: short-run persistence of protest activity
+   4. GDELT Strike Region 14d                 +0.0885  [GDELT Lags (M0)]
+      → Expected +: regional spill-over from strikes in neighbouring countries
+   5. GDELT Protest Region 14d                −0.0573  [GDELT Lags (M0)]
+      → Expected +: regional contagion from protests nearby
+   6. GDELT Protest 28d Lag                   +0.0325  [GDELT Lags (M0)]
+      → Expected +: momentum effect — recent protests predict future ones
+
+──────────────────────────────────────────────────────────────────────
+M6 XGBOOST FULL — SHAP IMPORTANCE
+──────────────────────────────────────────────────────────────────────
+
+  PROTEST 7d — Top 10 by absolute value:
+   1. GDELT Protest 28d Lag                   +0.6875  [GDELT Lags (M0)]
+      → Expected +: momentum effect — recent protests predict future ones
+   2. GDELT Protest 7d Lag                    +0.1646  [GDELT Lags (M0)]
+      → Expected +: short-run persistence of protest activity
+   3. GDELT Strike 28d Lag                    +0.1488  [GDELT Lags (M0)]
+      → Expected +: persistence of industrial action
+   4. Gov. Effectiveness                      +0.1165  [Macro/Governance (M2)]
+      → Expected −: better governance reduces social conflict
+   5. Political Stability                     +0.1027  [Macro/Governance (M2)]
+      → Expected −: more stable political environment reduces unrest
+   6. Gini Coefficient                        +0.0777  [Structural (M3)]
+      → Expected +: higher inequality increases relative deprivation and social tensions
+   7. Energy CPI Inflation                    +0.0729  [Macro/Governance (M2)]
+      → Expected +: energy price increases raise cost of living and protest risk
+   8. FAO Food Index YoY                      +0.0627  [FAO / GTA (M4)]
+      → Expected +: global food price increases directly raise food insecurity, a key protest trigger
+   9. Rule of Law                             +0.0611  [Macro/Governance (M2)]
+      → Expected −: stronger institutions dampen strike/protest activity
+  10. GDP per Capita Growth                   +0.0545  [Macro/Governance (M2)]
+      → No note available
+
+  STRIKE 7d — Top 10 by absolute value:
+   1. GDELT Protest 28d Lag                   +0.4338  [GDELT Lags (M0)]
+      → Expected +: momentum effect — recent protests predict future ones
+   2. GDELT Strike 28d Lag                    +0.3973  [GDELT Lags (M0)]
+      → Expected +: persistence of industrial action
+   3. GDELT Strike 7d Lag                     +0.2227  [GDELT Lags (M0)]
+      → Expected +: immediate contagion within strike wave
+   4. Rule of Law                             +0.2121  [Macro/Governance (M2)]
+      → Expected −: stronger institutions dampen strike/protest activity
+   5. Voice & Accountability                  +0.1296  [Macro/Governance (M2)]
+      → Ambiguous: more democratic accountability may enable (legit.) protest (+) or reduce grievances (−)
+   6. Gov. Effectiveness                      +0.1270  [Macro/Governance (M2)]
+      → Expected −: better governance reduces social conflict
+   7. FAO Cereals YoY                         +0.1052  [FAO / GTA (M4)]
+      → Expected +: cereal prices affect staple food costs; elevated prices historically precede unrest
+   8. Youth Unemployment                      +0.1048  [Macro/Governance (M2)]
+      → Expected +: youth joblessness strongly linked to protest activity in literature
+   9. FAO Cereals Lag 1m                      +0.0951  [FAO / GTA (M4)]
+      → No note available
+  10. Unemployment Rate                       +0.0940  [Macro/Governance (M2)]
+      → Expected +: higher unemployment directly increases grievances and strike likelihood
+
+======================================================================
+NOTES
+──────────────────────────────────────────────────────────────────────
+• LR coefficients are log-odds units, averaged across fold 1 (2020)
+  and fold 2 (2021) of the static backtest.
+• SHAP values are mean absolute SHAP, averaged across both folds.
+• FX features: positive direction = local currency strengthening
+  (appreciation); negative coefficient = appreciation reduces unrest.
+• Governance _est features: higher = better institutional quality.
+• Country fixed effects are excluded from all rankings.
+======================================================================

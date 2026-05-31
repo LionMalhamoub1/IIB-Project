@@ -1,0 +1,209 @@
+{
+  "spi_30d": {
+    "coverage_flood": 0.5493,
+    "coverage_baseline": 0.7174,
+    "auc": 0.6414,
+    "ks_stat": 0.2176,
+    "ks_pvalue": 0.0,
+    "n_flood": 1560,
+    "n_baseline": 2658,
+    "flood": {
+      "mean": 0.5825,
+      "median": 0.6135,
+      "std": 1.0755,
+      "p10": -0.8209,
+      "p90": 1.8673
+    },
+    "baseline": {
+      "mean": 0.0676,
+      "median": 0.0355,
+      "std": 1.0536,
+      "p10": -1.1875,
+      "p90": 1.3309
+    }
+  },
+  "chirps_7d_anom_pct": {
+    "coverage_flood": 0.5496,
+    "coverage_baseline": 0.7115,
+    "auc": 0.6602,
+    "ks_stat": 0.2534,
+    "ks_pvalue": 0.0,
+    "n_flood": 1561,
+    "n_baseline": 2636,
+    "flood": {
+      "mean": 98.2814,
+      "median": 18.4,
+      "std": 1209.1075,
+      "p10": -80.3,
+      "p90": 220.3
+    },
+    "baseline": {
+      "mean": 16.571,
+      "median": -34.3,
+      "std": 280.6884,
+      "p10": -100.0,
+      "p90": 146.9
+    }
+  },
+  "era5_soil_moisture_day0": {
+    "coverage_flood": 0.582,
+    "coverage_baseline": 0.7517,
+    "auc": 0.7318,
+    "ks_stat": 0.3756,
+    "ks_pvalue": 0.0,
+    "n_flood": 1653,
+    "n_baseline": 2785,
+    "flood": {
+      "mean": 0.3671,
+      "median": 0.4058,
+      "std": 0.1078,
+      "p10": 0.2017,
+      "p90": 0.467
+    },
+    "baseline": {
+      "mean": 0.2622,
+      "median": 0.2815,
+      "std": 0.1402,
+      "p10": 0.0499,
+      "p90": 0.4338
+    }
+  },
+  "era5_soil_moisture_deep_day0": {
+    "coverage_flood": 0.582,
+    "coverage_baseline": 0.7517,
+    "auc": 0.7072,
+    "ks_stat": 0.3382,
+    "ks_pvalue": 0.0,
+    "n_flood": 1653,
+    "n_baseline": 2785,
+    "flood": {
+      "mean": 0.3599,
+      "median": 0.3978,
+      "std": 0.1083,
+      "p10": 0.1877,
+      "p90": 0.4705
+    },
+    "baseline": {
+      "mean": 0.2767,
+      "median": 0.2819,
+      "std": 0.121,
+      "p10": 0.127,
+      "p90": 0.4328
+    }
+  },
+  "era5_soil_moisture_deep_7d_mean": {
+    "coverage_flood": 0.582,
+    "coverage_baseline": 0.7517,
+    "auc": 0.6814,
+    "ks_stat": 0.2956,
+    "ks_pvalue": 0.0,
+    "n_flood": 1653,
+    "n_baseline": 2785,
+    "flood": {
+      "mean": 0.3489,
+      "median": 0.3814,
+      "std": 0.108,
+      "p10": 0.1826,
+      "p90": 0.464
+    },
+    "baseline": {
+      "mean": 0.2767,
+      "median": 0.2816,
+      "std": 0.1208,
+      "p10": 0.1265,
+      "p90": 0.4314
+    }
+  },
+  "gpm_peak_3h_mm": {
+    "coverage_flood": 0.5873,
+    "coverage_baseline": 0.9941,
+    "auc": 0.7393,
+    "ks_stat": 0.3823,
+    "ks_pvalue": 0.0,
+    "n_flood": 1668,
+    "n_baseline": 3683,
+    "flood": {
+      "mean": 12.1742,
+      "median": 10.03,
+      "std": 10.2946,
+      "p10": 1.204,
+      "p90": 24.968
+    },
+    "baseline": {
+      "mean": 5.8905,
+      "median": 2.26,
+      "std": 8.9552,
+      "p10": 0.0,
+      "p90": 16.358
+    }
+  },
+  "jrc_recurrence_pct": {
+    "coverage_flood": 0.5845,
+    "coverage_baseline": 0.8092,
+    "auc": 0.5194,
+    "ks_stat": 0.0806,
+    "ks_pvalue": 2e-06,
+    "n_flood": 1660,
+    "n_baseline": 2998,
+    "flood": {
+      "mean": 85.9777,
+      "median": 88.5,
+      "std": 13.04,
+      "p10": 68.9,
+      "p90": 99.6
+    },
+    "baseline": {
+      "mean": 84.1565,
+      "median": 86.7,
+      "std": 14.6374,
+      "p10": 63.1,
+      "p90": 99.9
+    }
+  },
+  "pop_density_km2": {
+    "coverage_flood": 0.5915,
+    "coverage_baseline": 1.0,
+    "auc": 0.7425,
+    "ks_stat": 0.3579,
+    "ks_pvalue": 0.0,
+    "n_flood": 1680,
+    "n_baseline": 3705,
+    "flood": {
+      "mean": 323.7128,
+      "median": 88.4,
+      "std": 758.8385,
+      "p10": 3.29,
+      "p90": 731.5
+    },
+    "baseline": {
+      "mean": 83.0565,
+      "median": 10.4,
+      "std": 276.244,
+      "p10": 0.0,
+      "p90": 195.8
+    }
+  },
+  "terrain_slope_mean": {
+    "coverage_flood": 0.5859,
+    "coverage_baseline": 0.8677,
+    "auc": 0.6237,
+    "ks_stat": 0.1969,
+    "ks_pvalue": 0.0,
+    "n_flood": 1664,
+    "n_baseline": 3215,
+    "flood": {
+      "mean": 8.461,
+      "median": 6.405,
+      "std": 6.638,
+      "p10": 2.183,
+      "p90": 18.017
+    },
+    "baseline": {
+      "mean": 6.3505,
+      "median": 3.78,
+      "std": 6.5772,
+      "p10": 0.0,
+      "p90": 16.056
+    }
+  }
+}

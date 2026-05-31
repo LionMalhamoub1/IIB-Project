@@ -1,0 +1,977 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+SWE105,2020-02-07,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Hasselby,59.3767,17.815,1,Subnational-National,0,SWE
+SWE175,2020-02-24,1,Protests,Peaceful protest,Protesters (Sweden),Women (Sweden),,,Sweden,Dalarnas,Avesta,Avesta,60.1467,16.1707,1,Subnational,0,SWE
+SWE20,2020-01-15,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE21,2020-01-15,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Orebro,Orebro,Orebro,59.2754,15.2133,1,Other,0,SWE
+SWE22,2020-01-15,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Vasternorrlands,Sundsvall,Sundsvall,62.3907,17.3073,1,Other,0,SWE
+SWE223,2020-03-12,1,Riots,Violent demonstration,Rioters (Sweden),Prisoners (Sweden),,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,2,National,0,SWE
+SWE226,2020-03-12,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine); Women (Palestine),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE227,2020-03-13,1,Violence against civilians,Attack,Unidentified Armed Group (Sweden),,Civilians (Sweden),Journalists (Sweden); Women (Sweden),Sweden,Norrbottens,Pitea,Pitea,65.3165,21.4961,1,National,0,SWE
+SWE23,2020-01-15,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Skane,Lund,Lund,55.7063,13.186,1,Other,0,SWE
+SWE238,2020-03-16,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Sweden),,Civilians (Sweden),,Sweden,Skane,Orkelljunga,Orkelljunga,56.2844,13.2795,2,International,0,SWE
+SWE24,2020-01-15,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Norrbottens,Lulea,Lulea,65.583,22.1464,1,Other,0,SWE
+SWE242,2020-03-19,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE247,2020-03-21,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Sweden),,Civilians (Sweden),,Sweden,Skane,Klippan,Klippan,56.1306,13.1295,1,International,0,SWE
+SWE25,2020-01-15,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Jonkopings,Jonkoping,Jonkoping,57.7843,14.1663,1,Other,0,SWE
+SWE251,2020-03-25,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE26,2020-01-15,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,Other,0,SWE
+SWE263,2020-04-06,1,Protests,Peaceful protest,Protesters (Sweden),Refugees/IDPs (Palestine),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE264,2020-04-07,1,Protests,Peaceful protest,Protesters (Sweden),Refugees/IDPs (Palestine),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE265,2020-04-08,1,Protests,Peaceful protest,Protesters (Sweden),Refugees/IDPs (Palestine),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE270,2020-04-15,1,Protests,Peaceful protest,Protesters (Sweden),Refugees/IDPs (Palestine),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media-National,0,SWE
+SWE271,2020-04-15,1,Protests,Peaceful protest,Protesters (Sweden),Refugees/IDPs (Palestine),,,Sweden,Skane,Kristianstad,Kristianstad,56.0318,14.151,1,New media,0,SWE
+SWE273,2020-04-16,1,Strategic developments,Disrupted weapons use,Police Forces of Sweden (2019-),,Unidentified Armed Group (Sweden),Unidentified Armed Group (Russia),Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,National,0,SWE
+SWE274,2020-04-17,1,Protests,Peaceful protest,Protesters (Sweden),Refugees/IDPs (Palestine),,,Sweden,Vastra Gotalands,Molndal,Kallered,57.6104,12.0485,1,New media,0,SWE
+SWE280,2020-04-20,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,New media,0,SWE
+SWE281,2020-04-21,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other-New media,0,SWE
+SWE282,2020-04-21,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,New media,0,SWE
+SWE284,2020-04-22,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,New media,0,SWE
+SWE285,2020-04-24,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE30,2020-01-17,2,Protests,Peaceful protest,Protesters (Sweden),Labor Group (Sweden),,,Sweden,Skane,Bromolla,Bromolla,56.0734,14.4776,1,Subnational-National,0,SWE
+SWE302,2020-05-06,1,Riots,Violent demonstration,Rioters (Palestine),Refugees/IDPs (Palestine),Police Forces of Sweden (2019-),Private Security Forces (Sweden),Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media-National,0,SWE
+SWE315,2020-05-11,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE321,2020-05-16,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Vasternorrlands,Harnosand,Harnosand,62.632,17.938,1,Other-National,0,SWE
+SWE322,2020-05-16,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Vastra Gotalands,Kungalv,Kungalv,57.8711,11.9793,1,Other,0,SWE
+SWE341,2020-05-26,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Sweden),,Civilians (Sweden),,Sweden,Hallands,Varberg,Varberg,57.1093,12.2489,1,National,0,SWE
+SWE345,2020-05-29,1,Riots,Mob violence,Rioters (Sweden),,Police Forces of Sweden (2019-),,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media-National,0,SWE
+SWE363,2020-06-04,1,Protests,Peaceful protest,Protesters (Sweden),BLM: Black Lives Matter,,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,National,0,SWE
+SWE365,2020-06-05,1,Protests,Peaceful protest,Protesters (Sweden),BLM: Black Lives Matter,,,Sweden,Orebro,Orebro,Orebro,59.2754,15.2133,1,National,0,SWE
+SWE366,2020-06-05,1,Protests,Peaceful protest,Protesters (Sweden),BLM: Black Lives Matter,,,Sweden,Vasternorrlands,Kramfors,Kramfors,62.929,17.7782,1,National,0,SWE
+SWE380,2020-06-06,1,Protests,Protest with intervention,Protesters (Sweden),BLM: Black Lives Matter; Police Forces of Sweden (2019-),Rioters (Sweden),NMR: Nordic Resistance Movement (Sweden),Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other-National,0,SWE
+SWE385,2020-06-09,1,Protests,Peaceful protest,Protesters (Sweden),BLM: Black Lives Matter; Women (Sweden),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Subnational-National,0,SWE
+SWE39,2020-01-18,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Sodermanlands,Eskilstuna,Eskilstuna,59.3708,16.5097,1,National,0,SWE
+SWE395,2020-06-15,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine); Sista Klivet,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,2,New media-National,0,SWE
+SWE398,2020-06-16,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine); Sista Klivet,,,Sweden,Vastra Gotalands,Boras,Boras,57.7211,12.9401,2,New media-National,0,SWE
+SWE401,2020-06-18,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine); Sista Klivet,,,Sweden,Vastra Gotalands,Ulricehamn,Ulricehamn,57.7917,13.4131,2,New media-Subnational,0,SWE
+SWE402,2020-06-19,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine); Sista Klivet,,,Sweden,Jonkopings,Jonkoping,Bottnaryd,57.771,13.8247,2,New media-National,0,SWE
+SWE406,2020-06-20,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine); Sista Klivet,,,Sweden,Jonkopings,Jonkoping,Jonkoping,57.7843,14.1663,2,New media-National,0,SWE
+SWE408,2020-06-22,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine); Sista Klivet,,,Sweden,Jonkopings,Jonkoping,Granna,58.0257,14.4649,2,New media,0,SWE
+SWE409,2020-06-23,1,Protests,Peaceful protest,Protesters (International),Refugees/IDPs (Palestine); Refugees/IDPs (Lebanon); Sista Klivet,,,Sweden,Ostergotlands,Odeshog,Odeshog,58.2281,14.6528,2,Other-New media,0,SWE
+SWE428,2020-06-30,1,Protests,Peaceful protest,Protesters (International),Refugees/IDPs (Palestine); Sista Klivet,,,Sweden,Sodermanlands,Nykoping,Nykoping,58.7565,16.9965,2,New media,0,SWE
+SWE446,2020-07-17,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Sweden),,Civilians (Sweden),Students (Sweden); Teachers (Sweden),Sweden,Skane,Lund,Lund,55.7063,13.186,1,New media-National,0,SWE
+SWE453,2020-07-21,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Sweden),,Civilians (Sweden),Government of Sweden (2019-),Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,National,0,SWE
+SWE460,2020-07-29,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Sweden),,Civilians (Sweden),Teachers (Sweden); Students (Sweden),Sweden,Skane,Staffanstorp,Staffanstorp,55.6442,13.2087,1,National,0,SWE
+SWE462,2020-07-30,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Sweden),,Civilians (Sweden),Government of Sweden (2019-),Sweden,Vastra Gotalands,Stenungsund,Stenungsund,58.0724,11.8245,1,National,0,SWE
+SWE468,2020-08-01,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Vastra Gotalands,Vanersborg,Vanersborg,58.3778,12.3179,1,National,0,SWE
+SWE473,2020-08-06,1,Protests,Peaceful protest,Protesters (Sweden),Women (Sweden),,,Sweden,Skane,Landskrona,Landskrona,55.87,12.8308,1,Subnational,0,SWE
+SWE474,2020-08-06,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Sweden),,Civilians (Sweden),Teachers (Sweden); Students (Sweden),Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,National,0,SWE
+SWE476,2020-08-06,1,Strategic developments,Disrupted weapons use,Police Forces of Sweden (2019-),,Unidentified Armed Group (Sweden),,Sweden,Skane,Kristianstad,Kristianstad,56.0318,14.151,1,National,0,SWE
+SWE502,2020-08-18,1,Strategic developments,Disrupted weapons use,Police Forces of Sweden (2019-),,Unidentified Armed Group (Sweden),,Sweden,Varmlands,Karlstad,Karlstad,59.3783,13.5041,1,Subnational-National,0,SWE
+SWE503,2020-08-21,1,Protests,Peaceful protest,Protesters (Sweden),Labor Group (Sweden),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Subnational-National,0,SWE
+SWE519,2020-08-28,1,Riots,Violent demonstration,Rioters (Sweden),Muslim Group (Sweden),Police Forces of Sweden (2019-),,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,National,0,SWE
+SWE530,2020-08-29,1,Riots,Mob violence,Rioters (Sweden),Muslim Group (Sweden),Police Forces of Sweden (2019-),Civilians (Sweden); Labor Group (Sweden),Sweden,Blekinge,Ronneby,Ronneby,56.2098,15.2761,1,National,0,SWE
+SWE575,2020-09-12,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Kronobergs,Vaxjo,Vaxjo,56.8787,14.8094,1,Other-New media,0,SWE
+SWE590,2020-09-24,1,Protests,Peaceful protest,Protesters (Sweden),Animal Save Movement,,,Sweden,Vastra Gotalands,Skovde,Skovde,58.3893,13.8517,1,New media-Subnational,0,SWE
+SWE633,2020-09-27,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Skane,Bromolla,Bromolla,56.0734,14.4776,1,National,0,SWE
+SWE664,2020-10-05,1,Protests,Peaceful protest,Protesters (Sweden),Animal Save Movement,,,Sweden,Dalarnas,Rattvik,Rattvik,60.8817,15.0665,2,Subnational-International,0,SWE
+SWE682,2020-10-14,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Skane,Horby,Horby,55.8554,13.671,1,National,0,SWE
+SWE700,2020-10-21,1,Protests,Protest with intervention,Protesters (Sweden),Djurfront,Police Forces of Sweden (2019-),,Sweden,Ostergotlands,Linkoping,Linkoping,58.4095,15.6245,1,New media-National,0,SWE
+SWE75,2020-01-31,1,Riots,Mob violence,Rioters (Sweden),,Civilians (Sweden),Women (Sweden); Jewish Group (Sweden),Sweden,Kalmar,Nybro,Nybro,56.7441,15.9083,1,National,0,SWE
+SWE797,2020-12-05,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Subnational-National,0,SWE
+SWE439,2020-07-09,1,Protests,Peaceful protest,Protesters (Sweden),18 April Committee,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE454,2020-07-23,1,Protests,Peaceful protest,Protesters (Sweden),18 April Committee,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE452,2020-07-20,1,Protests,Peaceful protest,Protesters (Sweden),18 April Committee,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE337,2020-05-23,1,Protests,Peaceful protest,Protesters (Sweden),18 April Committee,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE444,2020-07-12,1,Protests,Peaceful protest,Protesters (Sweden),18 April Committee,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE240,2020-03-18,1,Riots,Mob violence,Rioters (International),Refugees/IDPs (International),Civilians (Sweden),Labor Group (Sweden); Police Forces of Sweden (2019-),Sweden,Stockholms,Sigtuna,Marsta,59.6281,17.8615,1,National,0,SWE
+SWE538,2020-09-03,1,Riots,Mob violence,Rioters (International),Labor Group (International),Civilians (Sweden),Labor Group (Sweden),Sweden,Gavleborgs,Hudiksvall,Hudiksvall,61.7661,16.7705,2,National,0,SWE
+SWE779,2020-11-25,1,Protests,Peaceful protest,Protesters (Sweden),Women (Sweden),,,Sweden,Vasternorrlands,Ornskoldsvik,Ornskoldsvik,63.288,18.7053,2,National,0,SWE
+SWE695,2020-10-17,2,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Vasternorrlands,Ornskoldsvik,Ornskoldsvik,63.288,18.7053,1,National,0,SWE
+SWE239,2020-03-16,2,Strategic developments,Looting/property destruction,Unidentified Armed Group (Sweden),,Civilians (International),Refugees/IDPs (International),Sweden,Vasternorrlands,Kramfors,Kramfors,62.929,17.7782,1,National,0,SWE
+SWE667,2020-10-07,1,Protests,Peaceful protest,Protesters (Sweden),Animal Save Movement,,,Sweden,Ostergotlands,Linkoping,Linkoping,58.4095,15.6245,1,International,0,SWE
+SWE666,2020-10-06,1,Protests,Peaceful protest,Protesters (Sweden),Animal Save Movement,,,Sweden,Skane,Kristianstad,Kristianstad,56.0318,14.151,1,International,0,SWE
+SWE509,2020-08-23,2,Riots,Violent demonstration,Rioters (Sweden),AFA: Antifascist Action Sweden,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,2,Other,0,SWE
+SWE296,2020-05-01,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Sweden),AFA: Antifascist Action Sweden,Civilians (Sweden),NMR: Nordic Resistance Movement (Sweden),Sweden,Vastra Gotalands,Skara,Skara,58.3833,13.4392,2,Other,0,SWE
+SWE451,2020-07-18,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,New media,0,SWE
+SWE212,2020-03-07,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,New media,0,SWE
+SWE249,2020-03-21,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,New media,0,SWE
+SWE16,2020-01-11,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,New media,0,SWE
+SWE328,2020-05-21,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,New media,0,SWE
+SWE361,2020-05-31,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,New media,0,SWE
+SWE342,2020-05-26,1,Protests,Peaceful protest,Protesters (Sweden),Students (Sweden),,,Sweden,Dalarnas,Avesta,Folkarna,60.1539,16.3159,1,Subnational,0,SWE
+SWE386,2020-06-10,2,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Kalmar,Monsteras,Monsteras,57.0411,16.4474,1,Subnational,0,SWE
+SWE512,2020-08-26,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Kalmar,Monsteras,Monsteras,57.0411,16.4474,1,Subnational,0,SWE
+SWE303,2020-05-06,1,Protests,Peaceful protest,Protesters (Sweden),Students (Sweden),,,Sweden,Kalmar,Monsteras,Monsteras,57.0411,16.4474,1,Subnational,0,SWE
+SWE255,2020-03-28,1,Strategic developments,Disrupted weapons use,Police Forces of Sweden (2019-),,Unidentified Armed Group (Sweden),,Sweden,Dalarnas,Avesta,Horndal,60.2912,16.4029,1,National,0,SWE
+SWE520,2020-08-28,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Kalmar,Oskarshamn,Oskarshamn,57.2627,16.4577,1,Subnational,0,SWE
+SWE369,2020-06-05,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Blekinge,Solvesborg,Solvesborg,56.0498,14.5837,1,Subnational,0,SWE
+SWE471,2020-08-04,1,Protests,Peaceful protest,Protesters (Sweden),Government of Sweden (2019-); Labor Group (Sweden),,,Sweden,Blekinge,Karlskrona,Karlskrona,56.1618,15.5867,1,Subnational,0,SWE
+SWE528,2020-08-29,1,Protests,Peaceful protest,Protesters (Sweden),LGBTQ+ (Sweden),Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),Sweden,Vastra Gotalands,Ulricehamn,Ulricehamn,57.7917,13.4131,1,Subnational,0,SWE
+SWE304,2020-05-06,1,Protests,Peaceful protest,Protesters (Sweden),Students (Sweden),,,Sweden,Vastra Gotalands,Boras,Boras,57.7211,12.9401,1,Subnational,0,SWE
+SWE537,2020-09-01,1,Protests,Peaceful protest,Protesters (Sweden),Students (Sweden); Teachers (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,National,0,SWE
+SWE578,2020-09-17,1,Protests,Peaceful protest,Protesters (Sweden),BLM: Black Lives Matter; Women (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,National,0,SWE
+SWE172,2020-02-23,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Dalarnas,Gagnef,Dala-Floda,60.5082,14.799,1,Subnational,0,SWE
+SWE787,2020-11-27,2,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Dalarnas,Malung-Salen,Malung,60.6861,13.721,2,Subnational,0,SWE
+SWE470,2020-08-03,1,Protests,Peaceful protest,Protesters (Sweden),Yezidi Ethnic Group (Sweden),,,Sweden,Dalarnas,Borlange,Borlange,60.4827,15.4252,1,Subnational,0,SWE
+SWE42,2020-01-20,1,Protests,Peaceful protest,Protesters (Sweden),Djurfront,,,Sweden,Hallands,Falkenberg,Glommen,56.9318,12.3668,1,New media,0,SWE
+SWE350,2020-05-30,1,Protests,Peaceful protest,Protesters (Sweden),Djurfront,,,Sweden,Skane,Helsingborg,Helsingborg,56.0458,12.7047,1,New media,0,SWE
+SWE696,2020-10-17,1,Protests,Peaceful protest,Protesters (Sweden),Djurfront,,,Sweden,Skane,Helsingborg,Helsingborg,56.0458,12.7047,1,New media,0,SWE
+SWE548,2020-09-05,1,Protests,Peaceful protest,Protesters (Sweden),Djurfront,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE52,2020-01-24,1,Protests,Peaceful protest,Protesters (Sweden),Djurfront,,,Sweden,Skane,Orkelljunga,Asljunga,56.308,13.3658,1,New media,0,SWE
+SWE40,2020-01-18,1,Protests,Peaceful protest,Protesters (Sweden),Djurfront,,,Sweden,Blekinge,Solvesborg,Solvesborg,56.0498,14.5837,1,New media,0,SWE
+SWE588,2020-09-23,1,Protests,Peaceful protest,Protesters (Sweden),Djurfront,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE257,2020-03-31,1,Protests,Peaceful protest,Protesters (Sweden),Refugees/IDPs (Palestine),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,National,0,SWE
+SWE256,2020-03-30,1,Protests,Peaceful protest,Protesters (Sweden),Refugees/IDPs (Palestine),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,National,0,SWE
+SWE387,2020-06-11,1,Battles,Armed clash,Unidentified Armed Group (Sweden),,Unidentified Armed Group (Sweden),,Sweden,Skane,Osby,Lonsboda,56.3985,14.3222,1,National,0,SWE
+SWE59,2020-01-25,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),Protesters (Sweden),Nyckelskramlarna,Sweden,Sodermanlands,Nykoping,Nykoping,58.7565,16.9965,1,Other,0,SWE
+SWE798,2020-12-09,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,Other,0,SWE
+SWE722,2020-10-28,1,Protests,Peaceful protest,Protesters (Sweden),Polish Ethnic Group (Sweden); Women (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Subnational,0,SWE
+SWE636,2020-09-29,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Skane,Helsingborg,Helsingborg,56.0458,12.7047,2,Subnational,0,SWE
+SWE802,2020-12-11,2,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Skane,Orkelljunga,Orkelljunga,56.2844,13.2795,1,Subnational,0,SWE
+SWE515,2020-08-27,1,Protests,Peaceful protest,Protesters (Sweden),Students (Sweden),,,Sweden,Skane,Angelholm,Angelholm,56.2452,12.8544,1,Subnational,0,SWE
+SWE556,2020-09-11,1,Protests,Peaceful protest,Protesters (Sweden),Labor Group (Sweden),,,Sweden,Skane,Helsingborg,Helsingborg,56.0458,12.7047,1,Subnational,0,SWE
+SWE136,2020-02-14,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Skane,Horby,Horby,55.8554,13.671,1,New media,0,SWE
+SWE397,2020-06-16,1,Protests,Peaceful protest,Protesters (Sweden),BLM: Black Lives Matter,,,Sweden,Skane,Kristianstad,Kristianstad,56.0318,14.151,1,Subnational,0,SWE
+SWE295,2020-05-01,2,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Jamtlands,Ostersund,Ostersund,63.1791,14.6348,1,Subnational,0,SWE
+SWE631,2020-09-26,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Varmdo,Gustavsberg,59.3235,18.386,1,Subnational,0,SWE
+SWE155,2020-02-19,1,Protests,Peaceful protest,Protesters (Sweden),Students (Sweden),,,Sweden,Stockholms,Varmdo,Varmdo,59.3121,18.43,1,Subnational,0,SWE
+SWE195,2020-03-04,1,Protests,Peaceful protest,Protesters (Sweden),Students (Sweden),,,Sweden,Stockholms,Varmdo,Varmdo,59.3121,18.43,1,Subnational,0,SWE
+SWE755,2020-11-11,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Varmdo,Gustavsberg,59.3235,18.386,1,Subnational,0,SWE
+SWE62,2020-01-25,1,Protests,Peaceful protest,Protesters (Sweden),ER: National Association for the Electro-Hypersensitive,,,Sweden,Vasternorrlands,Sundsvall,Sundsvall,62.3907,17.3073,1,Other,0,SWE
+SWE60,2020-01-25,1,Protests,Peaceful protest,Protesters (Sweden),ER: National Association for the Electro-Hypersensitive,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE63,2020-01-25,1,Protests,Peaceful protest,Protesters (Sweden),ER: National Association for the Electro-Hypersensitive,,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE749,2020-11-07,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Orebro,Orebro,Orebro,59.2754,15.2133,1,Other,0,SWE
+SWE339,2020-05-24,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE338,2020-05-24,1,Riots,Mob violence,Rioters (Sweden),NMR: Nordic Resistance Movement (Sweden),Civilians (Sweden),,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE148,2020-02-15,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Hallands,Halmstad,Halmstad,56.6739,12.8573,1,Other,0,SWE
+SWE147,2020-02-15,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Norrbottens,Lulea,Lulea,65.583,22.1464,1,Other,0,SWE
+SWE122,2020-02-13,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE250,2020-03-24,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Skane,Kristianstad,Kristianstad,56.0318,14.151,1,Other,0,SWE
+SWE248,2020-03-21,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Dalarnas,Ludvika,Ludvika,60.1507,15.1829,1,Other,0,SWE
+SWE210,2020-03-07,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Varmlands,Filipstad,Filipstad,59.7122,14.1678,1,Other,0,SWE
+SWE193,2020-02-29,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Dalarnas,Borlange,Borlange,60.4827,15.4252,2,Other,0,SWE
+SWE314,2020-05-09,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),Protesters (Sweden),,Sweden,Hallands,Varberg,Varberg,57.1093,12.2489,1,Other,0,SWE
+SWE450,2020-07-18,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),Protesters (Sweden),,Sweden,Orebro,Orebro,Orebro,59.2754,15.2133,1,Other,0,SWE
+SWE495,2020-08-15,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Skane,Landskrona,Landskrona,55.87,12.8308,2,Other,0,SWE
+SWE417,2020-06-27,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Dalarnas,Gagnef,Djuras,60.5601,15.1386,1,Other,0,SWE
+SWE418,2020-06-27,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Norrbottens,Lulea,Lulea,65.583,22.1464,1,Other,0,SWE
+SWE211,2020-03-07,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Norrbottens,Lulea,Lulea,65.583,22.1464,1,Other,0,SWE
+SWE496,2020-08-15,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE313,2020-05-09,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Jonkopings,Jonkoping,Granna,58.0257,14.4649,2,Other,0,SWE
+SWE420,2020-06-27,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Jonkopings,Varnamo,Varnamo,57.1847,14.0444,1,Other,0,SWE
+SWE258,2020-04-01,2,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Jamtlands,Ostersund,Ostersund,63.1791,14.6348,1,Other,0,SWE
+SWE531,2020-08-29,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Varmlands,Kristinehamn,Kristinehamn,59.3103,14.1084,1,Other,0,SWE
+SWE632,2020-09-26,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE269,2020-04-11,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Vastra Gotalands,Uddevalla,Uddevalla,58.3479,11.9354,1,Other,0,SWE
+SWE306,2020-05-07,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Dalarnas,Ludvika,Grangesberg,60.076,15.0048,1,Other,0,SWE
+SWE228,2020-03-13,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Skane,Sjobo,Sjobo,55.6351,13.7033,1,Other,0,SWE
+SWE293,2020-04-25,1,Protests,Peaceful protest,Protesters (Finland),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE419,2020-06-27,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Kronobergs,Ljungby,Ljungby,56.8329,13.9363,1,Other,0,SWE
+SWE486,2020-08-08,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE95,2020-02-04,1,Strategic developments,Disrupted weapons use,Police Forces of Sweden (2019-),,Unidentified Armed Group (Sweden),,Sweden,Orebro,Orebro,Orebro,59.2754,15.2133,1,National,0,SWE
+SWE99,2020-02-06,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE393,2020-06-14,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine); Sista Klivet,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE699,2020-10-19,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE411,2020-06-25,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine); Sista Klivet,,,Sweden,Ostergotlands,Linkoping,Linkoping,58.4095,15.6245,2,New media,0,SWE
+SWE286,2020-04-24,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,New media,0,SWE
+SWE93,2020-02-04,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE91,2020-02-03,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE124,2020-02-14,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE96,2020-02-05,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE424,2020-06-28,1,Protests,Peaceful protest,Protesters (International),Refugees/IDPs (Palestine); Sista Klivet,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,New media,0,SWE
+SWE120,2020-02-10,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine); V: Left Party; Government of Sweden (2019-),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE119,2020-02-09,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE121,2020-02-11,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,New media,0,SWE
+SWE154,2020-02-18,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE102,2020-02-07,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE434,2020-07-03,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine); Sista Klivet,,,Sweden,Stockholms,Sodertalje,Sodertalje,59.1967,17.6265,2,New media,0,SWE
+SWE432,2020-07-02,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine); Sista Klivet,,,Sweden,Sodermanlands,Trosa,Trosa,58.8967,17.5469,2,New media,0,SWE
+SWE410,2020-06-24,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine); Sista Klivet,,,Sweden,Ostergotlands,Mjolby,Mjolby,58.3228,15.1322,2,New media,0,SWE
+SWE430,2020-07-01,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine); Sista Klivet,,,Sweden,Sodermanlands,Nykoping,Nykoping,58.7565,16.9965,1,New media,0,SWE
+SWE159,2020-02-19,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,New media,0,SWE
+SWE491,2020-08-13,1,Strategic developments,Disrupted weapons use,Police Forces of Sweden (2019-),,Unidentified Armed Group (Sweden),,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,2,National,0,SWE
+SWE379,2020-06-06,1,Strategic developments,Disrupted weapons use,Police Forces of Sweden (2019-),,Unidentified Armed Group (Sweden),,Sweden,Skane,Lund,Lund,55.7063,13.186,1,National,0,SWE
+SWE323,2020-05-18,1,Strategic developments,Disrupted weapons use,Police Forces of Sweden (2019-),,Unidentified Armed Group (Sweden),,Sweden,Uppsala,Enkoping,Enkoping,59.6444,17.0882,1,National,0,SWE
+SWE497,2020-08-16,1,Riots,Mob violence,Rioters (Sweden),,Civilians (Sweden),Labor Group (Sweden),Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,National,0,SWE
+SWE400,2020-06-18,1,Protests,Peaceful protest,Protesters (Sweden),Kurdish Ethnic Group (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,New media,0,SWE
+SWE335,2020-05-23,1,Protests,Peaceful protest,Protesters (Sweden),Kurdish Ethnic Group (Sweden); NCDK: Kurdish Democratic Society Center Sweden,,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,New media,0,SWE
+SWE399,2020-06-18,1,Protests,Peaceful protest,Protesters (Sweden),Kurdish Ethnic Group (Sweden),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,New media,0,SWE
+SWE529,2020-08-29,1,Riots,Mob violence,Rioters (Sweden),,Police Forces of Sweden (2019-),,Sweden,Vasterbottens,Vannas,Vannas,63.908,19.752,1,National,0,SWE
+SWE174,2020-02-24,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Sweden),,Civilians (Sweden),Christian Group (Sweden),Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,National,0,SWE
+SWE74,2020-01-31,2,Strategic developments,Disrupted weapons use,Police Forces of Sweden (2019-),,Unidentified Armed Group (Sweden),,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,National,0,SWE
+SWE421,2020-06-27,2,Riots,Mob violence,Rioters (Sweden),Refugees/IDPs (International),Civilians (Sweden),,Sweden,Uppsala,Tierp,Tierp,60.3446,17.5141,1,National,0,SWE
+SWE196,2020-03-04,1,Protests,Protest with intervention,Protesters (Sweden),,Rioters (Sweden),,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,National,0,SWE
+SWE118,2020-02-08,1,Riots,Mob violence,Rioters (Sweden),,Rioters (Sweden),,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,National,0,SWE
+SWE435,2020-07-03,1,Protests,Peaceful protest,Protesters (Sweden),Refugees/IDPs (Palestine),,,Sweden,Vastra Gotalands,Boras,Boras,57.7211,12.9401,1,International,0,SWE
+SWE426,2020-06-29,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine); Sista Klivet,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,New media,0,SWE
+SWE330,2020-05-22,1,Strategic developments,Disrupted weapons use,Police Forces of Sweden (2019-),,Unidentified Armed Group (Sweden),,Sweden,Vastra Gotalands,Falkoping,Falkoping,58.162,13.5553,1,Subnational,0,SWE
+SWE431,2020-07-01,2,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE219,2020-03-10,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Skane,Lund,Lund,55.7063,13.186,1,Other,0,SWE
+SWE649,2020-10-03,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Norrbottens,Lulea,Lulea,65.583,22.1464,1,Other,0,SWE
+SWE177,2020-02-26,1,Protests,Peaceful protest,Protesters (Sweden),Labor Group (Sweden); KSK: Swedish Municipal Workers' Union; SSR: Union for Professionals; Vision; Saco: Swedish Confederation of Professional Associations,,,Sweden,Skane,Horby,Horby,55.8554,13.671,1,Other,0,SWE
+SWE570,2020-09-12,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Norrbottens,Lulea,Lulea,65.583,22.1464,1,Other,0,SWE
+SWE572,2020-09-12,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE569,2020-09-12,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Vastra Gotalands,Molndal,Molndal,57.6553,12.0189,1,Other,0,SWE
+SWE573,2020-09-12,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Vastra Gotalands,Alingsas,Alingsas,57.93,12.533,1,Other,0,SWE
+SWE567,2020-09-12,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE571,2020-09-12,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Norrbottens,Boden,Boden,65.8255,21.6905,1,Other,0,SWE
+SWE378,2020-06-06,1,Protests,Peaceful protest,Protesters (Sweden),SOO: Soldiers of Odin (Sweden),,,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,New media,0,SWE
+SWE92,2020-02-03,2,Protests,Peaceful protest,Protesters (Sweden),SOO: Soldiers of Odin (Sweden),,,Sweden,Jonkopings,Jonkoping,Jonkoping,57.7843,14.1663,1,New media,0,SWE
+SWE307,2020-05-08,1,Protests,Peaceful protest,Protesters (Sweden),SOO: Soldiers of Odin (Sweden),,,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,New media,0,SWE
+SWE86,2020-02-01,1,Protests,Peaceful protest,Protesters (Sweden),SOO: Soldiers of Odin (Sweden),,,Sweden,Jonkopings,Jonkoping,Jonkoping,57.7843,14.1663,1,New media,0,SWE
+SWE381,2020-06-06,1,Protests,Peaceful protest,Protesters (Sweden),Stop 5G International,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE808,2020-12-15,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Sigtuna,Marsta,59.6281,17.8615,1,New media,0,SWE
+SWE720,2020-10-26,2,Protests,Peaceful protest,Protesters (Sweden),Armenian Ethnic Group (Sweden),,,Sweden,Stockholms,Sodertalje,Sodertalje,59.1967,17.6265,1,National,0,SWE
+SWE765,2020-11-16,1,Protests,Peaceful protest,Protesters (Sweden),Students (Sweden); Teachers (Sweden),,,Sweden,Gotlands,Gotland,Visby,57.6393,18.2904,1,National,0,SWE
+SWE151,2020-02-17,1,Protests,Peaceful protest,Protesters (Sweden),Health Workers (Sweden); Teachers (Sweden),,,Sweden,Stockholms,Norrtalje,Norrtalje,59.7591,18.7014,1,National,0,SWE
+SWE324,2020-05-18,1,Strategic developments,Disrupted weapons use,Police Forces of Sweden (2019-),,Unidentified Armed Group (Sweden),,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,National,0,SWE
+SWE799,2020-12-10,1,Protests,Peaceful protest,Protesters (Sweden),Health Workers (Sweden),,,Sweden,Norrbottens,Kiruna,Kiruna,67.8549,20.2249,1,National,0,SWE
+SWE64,2020-01-25,1,Protests,Peaceful protest,Protesters (Sweden),Labor Group (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,National,0,SWE
+SWE589,2020-09-23,2,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Jamtlands,Ostersund,Ostersund,63.1791,14.6348,1,National,0,SWE
+SWE367,2020-06-05,1,Protests,Peaceful protest,Protesters (Sweden),BLM: Black Lives Matter,,,Sweden,Vasternorrlands,Sundsvall,Sundsvall,62.3907,17.3073,1,National,0,SWE
+SWE146,2020-02-15,1,Protests,Peaceful protest,Protesters (Sweden),Nyckelskramlarna,,,Sweden,Sodermanlands,Nykoping,Nykoping,58.7565,16.9965,1,National,0,SWE
+SWE719,2020-10-25,1,Protests,Peaceful protest,Protesters (Sweden),Nigerian Ethnic Group (Sweden),,,Sweden,Orebro,Orebro,Orebro,59.2754,15.2133,1,National,0,SWE
+SWE469,2020-08-03,1,Riots,Mob violence,Rioters (Sweden),,,,Sweden,Jonkopings,Jonkoping,Jonkoping,57.7843,14.1663,1,National,0,SWE
+SWE305,2020-05-06,1,Protests,Peaceful protest,Protesters (Sweden),Students (Sweden),,,Sweden,Vastmanlands,Koping,Koping,59.506,16.0074,1,National,0,SWE
+SWE94,2020-02-04,2,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,National,0,SWE
+SWE648,2020-10-03,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Kalmar,Oskarshamn,Oskarshamn,57.2627,16.4577,1,National,0,SWE
+SWE650,2020-10-04,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,2,National,0,SWE
+SWE41,2020-01-18,1,Protests,Peaceful protest,Protesters (Sweden),Health Workers (Sweden),,,Sweden,Vasternorrlands,Ornskoldsvik,Ornskoldsvik,63.288,18.7053,1,National,0,SWE
+SWE821,2020-12-31,1,Riots,Mob violence,Rioters (Sweden),,Police Forces of Sweden (2019-),,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,National,0,SWE
+SWE144,2020-02-15,1,Protests,Peaceful protest,Protesters (Sweden),GJ: Yellow Vests,,,Sweden,Vasternorrlands,Ornskoldsvik,Ornskoldsvik,63.288,18.7053,1,National,0,SWE
+SWE88,2020-02-01,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,National,0,SWE
+SWE463,2020-07-30,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Sweden),,Civilians (Sweden),Lawyers (Sweden),Sweden,Skane,Kristianstad,Kristianstad,56.0318,14.151,1,National,0,SWE
+SWE67,2020-01-27,1,Protests,Peaceful protest,Protesters (Sweden),Health Workers (Sweden),,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,National,0,SWE
+SWE634,2020-09-27,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,National,0,SWE
+SWE826,2020-12-31,1,Riots,Mob violence,Rioters (Sweden),,Police Forces of Sweden (2019-),,Sweden,Vastra Gotalands,Vargarda,Vargarda,58.0316,12.809,1,National,0,SWE
+SWE775,2020-11-24,2,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Jonkopings,Jonkoping,Taberg,57.6789,14.0918,2,National,0,SWE
+SWE824,2020-12-31,1,Riots,Mob violence,Rioters (Sweden),,Police Forces of Sweden (2019-),,Sweden,Orebro,Orebro,Orebro,59.2754,15.2133,1,National,0,SWE
+SWE488,2020-08-10,2,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,National,0,SWE
+SWE698,2020-10-19,1,Protests,Peaceful protest,Protesters (Sweden),KSK: Swedish Municipal Workers' Union; Labor Group (Sweden),,,Sweden,Vasterbottens,Lycksele,Lycksele,64.5958,18.6777,1,National,0,SWE
+SWE224,2020-03-12,2,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Norrbottens,Overtornea,Risudden,66.175,23.7963,1,National,0,SWE
+SWE145,2020-02-15,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Vasternorrlands,Sundsvall,Sundsvall,62.3907,17.3073,1,National,0,SWE
+SWE43,2020-01-21,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Gavleborgs,Gavle,Gavle,60.6759,17.1509,1,National,0,SWE
+SWE164,2020-02-21,2,Protests,Peaceful protest,Protesters (Sweden),Labor Group (Sweden),,,Sweden,Vasternorrlands,Harnosand,Harnosand,62.632,17.938,1,National,0,SWE
+SWE820,2020-12-31,1,Riots,Mob violence,Rioters (Sweden),,Police Forces of Sweden (2019-),,Sweden,Dalarnas,Avesta,Avesta,60.1467,16.1707,1,National,0,SWE
+SWE822,2020-12-31,1,Riots,Mob violence,Rioters (Sweden),,Police Forces of Sweden (2019-),,Sweden,Orebro,Karlskoga,Karlskoga,59.3266,14.5131,1,National,0,SWE
+SWE819,2020-12-30,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Jonkopings,Eksjo,Eksjo,57.6654,14.9732,1,National,0,SWE
+SWE70,2020-01-28,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Vasternorrlands,Sundsvall,Sundsvall,62.3907,17.3073,1,National,0,SWE
+SWE823,2020-12-31,1,Riots,Mob violence,Rioters (Sweden),,Police Forces of Sweden (2019-),,Sweden,Dalarnas,Mora,Mora,61.0082,14.5431,1,National,0,SWE
+SWE69,2020-01-28,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Vasternorrlands,Harnosand,Harnosand,62.632,17.938,1,National,0,SWE
+SWE485,2020-08-08,1,Strategic developments,Disrupted weapons use,Police Forces of Sweden (2019-),,Unidentified Armed Group (Sweden),,Sweden,Vastra Gotalands,Karlsborg,Karlsborg,58.5333,14.5076,1,National,0,SWE
+SWE66,2020-01-26,1,Protests,Peaceful protest,Protesters (Sweden),Women (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,National,0,SWE
+SWE160,2020-02-20,1,Protests,Peaceful protest,Protesters (Sweden),Students (Sweden),,,Sweden,Vasterbottens,Vilhelmina,Vilhelmina,64.623,16.6513,1,National,0,SWE
+SWE489,2020-08-10,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Dalarnas,Borlange,Borlange,60.4827,15.4252,1,National,0,SWE
+SWE396,2020-06-15,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Skane,Burlov,Arlov,55.6388,13.0829,1,Subnational,0,SWE
+SWE371,2020-06-05,1,Protests,Peaceful protest,Protesters (Sweden),Labor Group (Sweden); Teachers (Sweden),,,Sweden,Vastra Gotalands,Ale,Nodinge-Nol,57.9072,12.0606,2,National,0,SWE
+SWE373,2020-06-05,1,Protests,Peaceful protest,Protesters (Sweden),Labor Group (Sweden); Teachers (Sweden),,,Sweden,Varmlands,Saffle,Saffle,59.1323,12.9162,1,Subnational,0,SWE
+SWE370,2020-06-05,1,Protests,Peaceful protest,Protesters (Sweden),Labor Group (Sweden); Teachers (Sweden),,,Sweden,Dalarnas,Ludvika,Ludvika,60.1507,15.1829,1,National,0,SWE
+SWE374,2020-06-05,1,Protests,Peaceful protest,Protesters (Sweden),Labor Group (Sweden); Teachers (Sweden),,,Sweden,Stockholms,Sodertalje,Sodertalje,59.1967,17.6265,1,National,0,SWE
+SWE368,2020-06-05,1,Protests,Peaceful protest,Protesters (Sweden),Labor Group (Sweden); Teachers (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,National,0,SWE
+SWE364,2020-06-04,1,Protests,Peaceful protest,Protesters (Sweden),BLM: Black Lives Matter,,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Subnational,0,SWE
+SWE778,2020-11-25,1,Protests,Peaceful protest,Protesters (Sweden),Women (Sweden),,,Sweden,Dalarnas,Malung-Salen,Malung,60.6861,13.721,2,New media,0,SWE
+SWE777,2020-11-25,1,Protests,Peaceful protest,Protesters (Sweden),Women (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,New media,0,SWE
+SWE839,2020-05-01,1,Protests,Peaceful protest,Protesters (Sweden),Djurfront,,,Sweden,Skane,Ystad,Skarby,55.4873,13.7134,1,New media,0,SWE
+SWE921,2020-12-09,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Stockholms,Salem,Salem,59.2018,17.7646,1,Other,0,SWE
+SWE919,2020-10-31,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Vastra Gotalands,Lilla Edet,Lilla Edet,58.135,12.1284,1,Other,0,SWE
+SWE959,2020-12-19,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,Other,0,SWE
+SWE920,2020-12-19,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Dalarnas,Malung-Salen,Malung,60.6861,13.721,1,Other,0,SWE
+SWE958,2020-11-21,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,Other,0,SWE
+SWE917,2020-12-09,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE1009,2020-11-23,1,Protests,Peaceful protest,Protesters (Sweden),18 April Committee,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE1044,2020-12-18,2,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Orebro,Orebro,Orebro,59.2754,15.2133,1,National,0,SWE
+SWE1073,2020-10-28,1,Protests,Peaceful protest,Protesters (Sweden),Students (Sweden); AI: Amnesty International,,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE1074,2020-12-08,2,Protests,Peaceful protest,Protesters (Sweden),Students (Sweden); LGBTQ+ (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Subnational,0,SWE
+SWE1075,2020-12-12,1,Protests,Peaceful protest,Protesters (Sweden),Total Transparency Movement,,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,New media,0,SWE
+SWE1093,2020-09-06,1,Protests,Peaceful protest,Protesters (Sweden),AI: Amnesty International; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE1095,2020-11-09,1,Protests,Peaceful protest,Protesters (Sweden),AI: Amnesty International; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE1094,2020-09-13,1,Protests,Peaceful protest,Protesters (Sweden),AI: Amnesty International; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE1116,2020-09-07,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Sweden),,Civilians (Sweden),,Sweden,Gavleborgs,Soderhamn,Trono,61.3961,16.8337,1,Other-National,0,SWE
+SWE1108,2020-08-27,1,Protests,Peaceful protest,Protesters (Sweden),DR: Animal Revolt,,,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,Other,0,SWE
+SWE499,2020-08-16,1,Protests,Peaceful protest,Protesters (Sweden),Women (Sweden); Palestinian Group (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media-National,0,SWE
+SWE500,2020-08-17,1,Protests,Peaceful protest,Protesters (Sweden),Palestinian Group (Sweden),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,New media,0,SWE
+SWE157,2020-02-19,1,Protests,Peaceful protest,Protesters (Sweden),Palestinian Group (Sweden); Refugees/IDPs (Palestine),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,New media,0,SWE
+SWE535,2020-08-31,1,Protests,Peaceful protest,Protesters (Sweden),Palestinian Group (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE516,2020-08-27,1,Protests,Peaceful protest,Protesters (Sweden),Palestinian Group (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE158,2020-02-19,1,Protests,Peaceful protest,Protesters (Sweden),Palestinian Group (Sweden); Refugees/IDPs (Palestine),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE681,2020-10-13,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,International,0,SWE
+SWE464,2020-07-30,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,International,0,SWE
+SWE455,2020-07-23,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,International,0,SWE
+SWE382,2020-06-07,1,Riots,Violent demonstration,Rioters (Sweden),BLM: Black Lives Matter,Police Forces of Sweden (2019-),Civilians (Sweden); Labor Group (Sweden),Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,National,0,SWE
+SWE576,2020-09-13,1,Protests,Protest with intervention,Protesters (Sweden),Greenpeace,Police Forces of Sweden (2019-),,Sweden,Vastra Gotalands,Lysekil,Lysekil,58.2756,11.4408,2,New media-National,0,SWE
+SWE384,2020-06-08,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Varmlands,Torsby,Bograngen,60.7029,12.5934,1,Subnational-National,0,SWE
+SWE2406,2020-01-26,1,Protests,Peaceful protest,Protesters (Sweden),Women (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,National,0,SWE
+SWE706,2020-10-23,1,Protests,Peaceful protest,Protesters (Sweden),RFSU: Swedish Association for Sexuality Education; Women (Sweden),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other-New media,0,SWE
+SWE718,2020-10-24,2,Protests,Peaceful protest,Protesters (Sweden),RFSU: Swedish Association for Sexuality Education; Women (Sweden),,,Sweden,Stockholms,Sodertalje,Sodertalje,59.1967,17.6265,1,New media,0,SWE
+SWE716,2020-10-24,2,Protests,Peaceful protest,Protesters (Sweden),RFSU: Swedish Association for Sexuality Education; Women (Sweden),,,Sweden,Hallands,Laholm,Laholm,56.5052,13.0453,1,New media,0,SWE
+SWE717,2020-10-24,2,Protests,Peaceful protest,Protesters (Sweden),RFSU: Swedish Association for Sexuality Education; Women (Sweden),,,Sweden,Stockholms,Stockholm,Vallingby,59.3659,17.8716,1,New media,0,SWE
+SWE2861,2020-06-06,1,Protests,Peaceful protest,Protesters (Sweden),BLM: Black Lives Matter,,,Sweden,Jonkopings,Gislaved,Gislaved,57.2994,13.544,1,National,0,SWE
+SWE555,2020-09-11,1,Riots,Mob violence,Rioters (Sweden),,,,Sweden,Kalmar,Oskarshamn,Oskarshamn,57.2627,16.4577,1,National,0,SWE
+SWE298,2020-05-01,1,Protests,Peaceful protest,Protesters (International),Palestinian Group (Sweden); Refugees/IDPs (International); Kurdish Ethnic Group (Sweden); Forward Comrades; Women (Sweden); Labor Group (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other-International,0,SWE
+SWE97,2020-02-05,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Vastra Gotalands,Skovde,Skovde,58.3893,13.8517,1,Subnational,0,SWE
+SWE360,2020-05-31,1,Protests,Peaceful protest,Protesters (Sweden),BLM: Black Lives Matter,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE492,2020-08-14,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Sweden),,,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,National,0,SWE
+SWE194,2020-03-02,2,Violence against civilians,Attack,Police Forces of Pakistan (2018-2022) Inter-Services Intelligence,,Civilians (Pakistan),Journalists (Pakistan),Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,National-Regional,1,SWE
+SWE176,2020-02-26,1,Violence against civilians,Attack,Unidentified Armed Group (Russia),,Civilians (Russia),Chechen Ethnic Group (Russia); Journalists (Russia),Sweden,Gavleborgs,Gavle,Gavle,60.6759,17.1509,1,National,0,SWE
+SWE383,2020-06-08,2,Strategic developments,Looting/property destruction,Unidentified Armed Group (Sweden),,Civilians (Sweden),Labor Group (Sweden),Sweden,Kalmar,Morbylanga,Morbylanga,56.525,16.3799,1,Subnational,0,SWE
+SWE651,2020-10-04,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Skane,Helsingborg,Helsingborg,56.0458,12.7047,1,Subnational-National,0,SWE
+SWE652,2020-10-04,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Subnational-National,0,SWE
+SWE654,2020-10-04,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,National,0,SWE
+SWE655,2020-10-04,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Ostergotlands,Linkoping,Linkoping,58.4095,15.6245,1,Subnational-National,0,SWE
+SWE656,2020-10-04,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,National,0,SWE
+SWE657,2020-10-04,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Upplands Vasby,Upplands Vasby,59.5209,17.899,1,National,0,SWE
+SWE658,2020-10-04,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Gotlands,Gotland,Visby,57.6393,18.2904,1,National,0,SWE
+SWE659,2020-10-04,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Subnational-National,0,SWE
+SWE661,2020-10-04,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Vastra Gotalands,Falkoping,Falkoping,58.162,13.5553,1,National,0,SWE
+SWE662,2020-10-04,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Vasterbottens,Skelleftea,Skelleftea,64.752,20.9593,1,National,0,SWE
+SWE663,2020-10-04,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Ostergotlands,Vadstena,Vadstena,58.4488,14.8915,1,Subnational-National,0,SWE
+SWE72,2020-01-30,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Sweden),,Civilians (Sweden),Muslim Group (Sweden),Sweden,Skane,Helsingborg,Helsingborg,56.0458,12.7047,1,National,0,SWE
+SWE456,2020-07-24,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Sweden),,Civilians (Sweden),KD: Christian Democrats (Sweden); Women (Sweden),Sweden,Orebro,Karlskoga,Karlskoga,59.3266,14.5131,1,National,0,SWE
+SWE525,2020-08-28,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Blekinge,Karlskrona,Karlskrona,56.1618,15.5867,1,National,0,SWE
+SWE526,2020-08-28,1,Protests,Protest with intervention,Protesters (Sweden),SK: Hard Line,Police Forces of Sweden (2019-),,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,National,0,SWE
+SWE416,2020-06-27,1,Protests,Peaceful protest,Protesters (International),Refugees/IDPs (Iraq); Refugees/IDPs (Palestine); Sista Klivet,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,2,New media,0,SWE
+SWE213,2020-03-08,1,Protests,Peaceful protest,Protesters (Sweden),Refugees/IDPs (Iran); Socialist Alternative; Women (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE214,2020-03-08,1,Protests,Peaceful protest,Protesters (Sweden),Socialist Alternative; Women (Sweden),,,Sweden,Skane,Helsingborg,Helsingborg,56.0458,12.7047,1,Other,0,SWE
+SWE215,2020-03-08,1,Protests,Peaceful protest,Protesters (Sweden),Socialist Alternative; Women (Sweden),,,Sweden,Orebro,Orebro,Orebro,59.2754,15.2133,1,Other,0,SWE
+SWE217,2020-03-09,1,Protests,Peaceful protest,Protesters (Sweden),Socialist Alternative; Women (Sweden),,,Sweden,Norrbottens,Lulea,Lulea,65.583,22.1464,1,Other,0,SWE
+SWE28,2020-01-17,1,Protests,Peaceful protest,Protesters (Sweden),Socialist Alternative,,,Sweden,Norrbottens,Lulea,Lulea,65.583,22.1464,1,Other,0,SWE
+SWE149,2020-02-15,1,Violence against civilians,Attack,Unidentified Armed Group (Sweden),,Civilians (Sweden),S: Swedish Social Democratic Party; Women (Sweden); Government of Sweden (2019-),Sweden,Uppsala,Alvkarleby,Alvkarleby,60.5553,17.4281,1,National,0,SWE
+SWE790,2020-11-28,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other-New media,0,SWE
+SWE1150,2020-06-09,1,Protests,Peaceful protest,Protesters (Sweden),BLM: Black Lives Matter; Former Government of Sweden (2019-); V: Left Party,,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,National,0,SWE
+SWE325,2020-05-18,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Solna,Solna,59.3665,18.0096,1,National,0,SWE
+SWE472,2020-08-04,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Solna,Solna,59.3665,18.0096,2,Regional,0,SWE
+SWE501,2020-08-18,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Solna,Solna,59.3665,18.0096,1,National,0,SWE
+SWE580,2020-09-18,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Sollentuna,Sollentuna,59.4283,17.9515,2,National,0,SWE
+SWE660,2020-10-04,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Sollentuna,Sollentuna,59.4283,17.9515,1,National,0,SWE
+SWE825,2020-12-31,1,Riots,Mob violence,Rioters (Sweden),,Police Forces of Sweden (2019-),,Sweden,Stockholms,Sollentuna,Sollentuna,59.4283,17.9515,1,National,0,SWE
+SWE106,2020-02-07,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Botkyrka,Botkyrka,59.2456,17.8405,1,National,0,SWE
+SWE225,2020-03-12,1,Riots,Violent demonstration,Rioters (Sweden),Prisoners (Sweden),Police Forces of Sweden (2019-) Prison Guards,,Sweden,Stockholms,Botkyrka,Botkyrka,59.2456,17.8405,1,National,0,SWE
+SWE334,2020-05-23,1,Strategic developments,Disrupted weapons use,Police Forces of Sweden (2019-),,Unidentified Armed Group (Sweden),,Sweden,Stockholms,Botkyrka,Botkyrka,59.2456,17.8405,1,National-Regional,0,SWE
+SWE814,2020-12-21,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,New media,0,SWE
+SWE792,2020-11-28,2,Protests,Peaceful protest,Protesters (Sweden),Antifa,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE781,2020-11-25,1,Protests,Peaceful protest,Protesters (Sweden),Women (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE922,2020-11-24,1,Strategic developments,Change to group/activity,Government of Sweden (2019-),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,3,National-Regional,0,SWE
+SWE769,2020-11-20,1,Protests,Peaceful protest,Protesters (Sweden),Muslim Group (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,National,0,SWE
+SWE724,2020-10-29,1,Protests,Peaceful protest,Protesters (Sweden),Labor Group (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,National,0,SWE
+SWE721,2020-10-28,1,Protests,Peaceful protest,Protesters (Sweden),Polish Ethnic Group (Sweden); Women (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other-New media,0,SWE
+SWE723,2020-10-28,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,New media,0,SWE
+SWE714,2020-10-24,2,Protests,Peaceful protest,Protesters (Sweden),Armenian Ethnic Group (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,New media,0,SWE
+SWE715,2020-10-24,1,Protests,Peaceful protest,Protesters (Sweden),Djurfront,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,New media,0,SWE
+SWE705,2020-10-23,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,National,0,SWE
+SWE687,2020-10-16,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,National,0,SWE
+SWE680,2020-10-10,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,New media,0,SWE
+SWE653,2020-10-04,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,National,0,SWE
+SWE637,2020-10-01,1,Protests,Peaceful protest,Protesters (Sweden),Mongolian Ethnic Group (Sweden); Tibetan Ethnic Group (Sweden); Uyghur Ethnic Group (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,International,0,SWE
+SWE586,2020-09-20,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE579,2020-09-17,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Sweden),,Civilians (Sweden),AFS: Alternative For Sweden,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,3,National,0,SWE
+SWE568,2020-09-12,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE534,2020-08-31,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,National,0,SWE
+SWE536,2020-08-31,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,National,0,SWE
+SWE4318,2020-08-26,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Regional,0,SWE
+SWE513,2020-08-26,1,Protests,Peaceful protest,Protesters (Sweden),Lebanese Group (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,International,0,SWE
+SWE511,2020-08-24,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,New media,0,SWE
+SWE510,2020-08-23,1,Protests,Peaceful protest,Protesters (Sweden),Belarusian Group (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,New media,0,SWE
+SWE504,2020-08-21,1,Violence against civilians,Attack,Unidentified Armed Group (Sweden),,Civilians (Sweden),Women (Sweden),Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,National,0,SWE
+SWE498,2020-08-16,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,National,0,SWE
+SWE487,2020-08-09,1,Protests,Peaceful protest,Protesters (Sweden),Belarusian Group (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,National,0,SWE
+SWE480,2020-08-07,1,Protests,Peaceful protest,Protesters (International),Refugees/IDPs (International),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE475,2020-08-06,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,National,0,SWE
+SWE392,2020-06-13,1,Protests,Peaceful protest,Protesters (Sweden),BLM: Black Lives Matter,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,National,0,SWE
+SWE389,2020-06-11,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE362,2020-06-03,1,Protests,Protest with intervention,Protesters (Sweden),BLM: Black Lives Matter,Police Forces of Sweden (2019-),,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,National,0,SWE
+SWE336,2020-05-23,1,Protests,Peaceful protest,Protesters (Sweden),SOO: Soldiers of Odin (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,New media,0,SWE
+SWE294,2020-04-25,1,Riots,Mob violence,Rioters (Sweden),,Private Security Forces (Sweden),Police Forces of Sweden (2019-),Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,National,0,SWE
+SWE283,2020-04-22,1,Protests,Peaceful protest,Protesters (Sweden),Labor Group (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,National,0,SWE
+SWE279,2020-04-18,1,Strategic developments,Disrupted weapons use,Police Forces of Sweden (2019-),,Unidentified Armed Group (Sweden),,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,National,0,SWE
+SWE272,2020-04-15,1,Protests,Peaceful protest,Protesters (Sweden),Refugees/IDPs (Palestine),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,New media-National,0,SWE
+SWE252,2020-03-27,1,Strategic developments,Change to group/activity,Government of Sweden (2019-),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,3,National-Regional,0,SWE
+SWE236,2020-03-14,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other-National,0,SWE
+SWE216,2020-03-08,1,Protests,Peaceful protest,Protesters (Sweden),Socialist Alternative; Women (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE198,2020-03-06,1,Protests,Peaceful protest,Protesters (Sweden),Women (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,National,0,SWE
+SWE184,2020-02-28,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,New media,0,SWE
+SWE171,2020-02-22,1,Riots,Violent demonstration,Rioters (Sweden),NMR: Nordic Resistance Movement (Sweden),Rioters (Sweden),,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE156,2020-02-19,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,New media,0,SWE
+SWE133,2020-02-14,1,Protests,Peaceful protest,Protesters (Sweden),Socialist Alternative,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE101,2020-02-06,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,New media,0,SWE
+SWE87,2020-02-01,1,Protests,Peaceful protest,Protesters (Sweden),Palestinian Group (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,National,0,SWE
+SWE73,2020-01-30,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,New media,0,SWE
+SWE71,2020-01-29,1,Protests,Peaceful protest,Protesters (Sweden),Djurfront,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,New media,0,SWE
+SWE61,2020-01-25,1,Protests,Peaceful protest,Protesters (Sweden),ER: National Association for the Electro-Hypersensitive,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE47,2020-01-23,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,New media,0,SWE
+SWE19,2020-01-15,1,Protests,Peaceful protest,Protesters (Sweden),Socialist Alternative,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE18,2020-01-13,1,Protests,Protest with intervention,Protesters (Sweden),,Police Forces of Sweden (2019-),Protesters (Sweden); Muslim Group (Sweden),Sweden,Skane,Skurup,Skurup,55.4807,13.5033,1,National,0,SWE
+SWE665,2020-10-05,1,Protests,Protest with intervention,Protesters (Sweden),,Police Forces of Sweden (2019-),,Sweden,Skane,Horby,Horby,55.8554,13.671,1,New media-National,0,SWE
+SWE6033,2020-11-22,1,Riots,Mob violence,Rioters (Sweden),,Civilians (Sweden),,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,National,0,SWE
+SWE343,2020-05-27,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Sweden),,Civilians (Sweden),,Sweden,Stockholms,Upplands-Bro,Kungsangen,59.4787,17.7515,2,National,0,SWE
+SWE789,2020-11-27,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,Other,0,SWE
+SWE6351,2020-05-30,1,Protests,Peaceful protest,Protesters (Sweden),NMR: Nordic Resistance Movement (Sweden),,,Sweden,Vastra Gotalands,Mark,Kinna,57.508,12.697,1,Other,0,SWE
+SWE1,2020-01-03,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE10,2020-01-10,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Skane,Eslov,Eslov,55.8374,13.3036,1,Other,0,SWE
+SWE100,2020-02-06,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE1010,2020-12-30,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Orebro,Orebro,Orebro,59.2754,15.2133,1,Other,0,SWE
+SWE103,2020-02-07,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE104,2020-02-07,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden); Sami Indigenous Group (Sweden),,,Sweden,Norrbottens,Jokkmokk,Jokkmokk,66.6065,19.8264,1,National,0,SWE
+SWE107,2020-02-07,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE108,2020-02-07,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Norrtalje,Norrtalje,59.7591,18.7014,1,Other,0,SWE
+SWE109,2020-02-07,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden); Teachers (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE11,2020-01-10,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Varmlands,Karlstad,Karlstad,59.3783,13.5041,1,Other,0,SWE
+SWE110,2020-02-07,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Vastra Gotalands,Sotenas,Bovallstrand,58.4746,11.3259,1,Other,0,SWE
+SWE111,2020-02-07,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE112,2020-02-07,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE113,2020-02-07,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,Other,0,SWE
+SWE114,2020-02-07,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Varmlands,Karlstad,Karlstad,59.3783,13.5041,1,Other,0,SWE
+SWE115,2020-02-07,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Norrbottens,Kiruna,Kiruna,67.8549,20.2249,1,Other,0,SWE
+SWE1151,2020-06-10,1,Protests,Protest with intervention,Protesters (Sweden),XR: Extinction Rebellion,Private Security Forces (Sweden),,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other-National,0,SWE
+SWE116,2020-02-07,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE117,2020-02-07,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Rattvik,Rattvik,60.8817,15.0665,1,Other,0,SWE
+SWE1191,2020-11-20,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Jonkopings,Jonkoping,Jonkoping,57.7843,14.1663,1,Other,0,SWE
+SWE12,2020-01-10,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Norrbottens,Kiruna,Kiruna,67.8549,20.2249,1,Other,0,SWE
+SWE1213,2020-11-06,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,National,0,SWE
+SWE123,2020-02-14,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Socialist Alternative; Students (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other-National,0,SWE
+SWE125,2020-02-14,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden); XR: Extinction Rebellion,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE126,2020-02-14,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Blekinge,Karlskrona,Karlskrona,56.1618,15.5867,1,Other,0,SWE
+SWE127,2020-02-14,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasternorrlands,Sundsvall,Sundsvall,62.3907,17.3073,1,Other,0,SWE
+SWE128,2020-02-14,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Sodertalje,Sodertalje,59.1967,17.6265,1,Other,0,SWE
+SWE129,2020-02-14,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE13,2020-01-10,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE130,2020-02-14,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Hallands,Laholm,Laholm,56.5052,13.0453,1,Other,0,SWE
+SWE131,2020-02-14,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE132,2020-02-14,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Norrtalje,Norrtalje,59.7591,18.7014,1,Other,0,SWE
+SWE134,2020-02-14,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden); Nature and Youth Sweden,,,Sweden,Skane,Lund,Lund,55.7063,13.186,1,Other,0,SWE
+SWE135,2020-02-14,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Norrbottens,Lulea,Lulea,65.583,22.1464,1,Other,0,SWE
+SWE137,2020-02-14,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Sodermanlands,Nykoping,Nykoping,58.7565,16.9965,1,Other-National,0,SWE
+SWE138,2020-02-14,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other-National,0,SWE
+SWE139,2020-02-14,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Eslov,Eslov,55.8374,13.3036,1,Other,0,SWE
+SWE14,2020-01-10,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE140,2020-02-14,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,Other,0,SWE
+SWE141,2020-02-14,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Varmlands,Karlstad,Karlstad,59.3783,13.5041,1,Other,0,SWE
+SWE142,2020-02-14,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Norrbottens,Kiruna,Kiruna,67.8549,20.2249,1,Other,0,SWE
+SWE143,2020-02-14,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE15,2020-01-10,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Vallentuna,Vallentuna,59.5342,18.0801,1,Other,0,SWE
+SWE150,2020-02-15,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Vallentuna,Vallentuna,59.5342,18.0801,1,Other-New media,0,SWE
+SWE152,2020-02-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE153,2020-02-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Norrbottens,Kiruna,Kiruna,67.8549,20.2249,1,Other,0,SWE
+SWE161,2020-02-21,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Vastra Gotalands,Sotenas,Bovallstrand,58.4746,11.3259,1,Other,0,SWE
+SWE162,2020-02-21,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE163,2020-02-21,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE165,2020-02-21,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE166,2020-02-21,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE167,2020-02-21,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Eslov,Eslov,55.8374,13.3036,1,Other,0,SWE
+SWE168,2020-02-21,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,Other,0,SWE
+SWE169,2020-02-21,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE17,2020-01-11,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,Other,0,SWE
+SWE170,2020-02-21,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE173,2020-02-23,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,Other,0,SWE
+SWE178,2020-02-28,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Sotenas,Bovallstrand,58.4746,11.3259,1,Other,0,SWE
+SWE179,2020-02-28,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other-New media,0,SWE
+SWE180,2020-02-28,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE181,2020-02-28,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other-New media,0,SWE
+SWE182,2020-02-28,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Hallands,Laholm,Laholm,56.5052,13.0453,1,Other,0,SWE
+SWE183,2020-02-28,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Norrtalje,Norrtalje,59.7591,18.7014,1,Other,0,SWE
+SWE185,2020-02-28,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE186,2020-02-28,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastmanlands,Norberg,Norberg,60.065,15.9239,1,Other,0,SWE
+SWE187,2020-02-28,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Skane,Eslov,Eslov,55.8374,13.3036,1,Other,0,SWE
+SWE188,2020-02-28,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Varmlands,Karlstad,Karlstad,59.3783,13.5041,1,Other,0,SWE
+SWE189,2020-02-28,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Norrbottens,Kiruna,Kiruna,67.8549,20.2249,1,Other,0,SWE
+SWE190,2020-02-28,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE191,2020-02-28,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE192,2020-02-29,1,Protests,Protest with intervention,Protesters (Sweden),XR: Extinction Rebellion,Unidentified Armed Group (Sweden),,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other-National,0,SWE
+SWE197,2020-03-06,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE199,2020-03-06,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,Other,0,SWE
+SWE2,2020-01-03,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Rattvik,Rattvik,60.8817,15.0665,1,Other,0,SWE
+SWE200,2020-03-06,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE201,2020-03-06,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Stockholms,Norrtalje,Norrtalje,59.7591,18.7014,1,Other,0,SWE
+SWE202,2020-03-06,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE203,2020-03-06,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Sotenas,Bovallstrand,58.4746,11.3259,1,Other,0,SWE
+SWE204,2020-03-06,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Gavleborgs,Gavle,Gavle,60.6759,17.1509,1,Other,0,SWE
+SWE205,2020-03-06,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Skane,Eslov,Eslov,55.8374,13.3036,1,Other,0,SWE
+SWE206,2020-03-06,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Varmlands,Karlstad,Karlstad,59.3783,13.5041,1,Other,0,SWE
+SWE207,2020-03-06,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE208,2020-03-06,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE209,2020-03-06,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Vallentuna,Vallentuna,59.5342,18.0801,1,Other,0,SWE
+SWE218,2020-03-10,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Vastra Gotalands,Lysekil,Lysekil,58.2756,11.4408,2,Other-New media,0,SWE
+SWE220,2020-03-10,1,Protests,Peaceful protest,Protesters (Sweden),Greenpeace; Nature and Youth Sweden; XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other-New media,0,SWE
+SWE221,2020-03-10,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Gavleborgs,Gavle,Gavle,60.6759,17.1509,1,Other,0,SWE
+SWE222,2020-03-11,1,Strategic developments,Other,Protesters (International),FFF: Fridays for Future; Students (International),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,3,National,0,SWE
+SWE229,2020-03-13,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE230,2020-03-13,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE231,2020-03-13,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE232,2020-03-13,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Hallands,Laholm,Laholm,56.5052,13.0453,1,Other,0,SWE
+SWE233,2020-03-13,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,Other,0,SWE
+SWE234,2020-03-13,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Rattvik,Rattvik,60.8817,15.0665,1,Other,0,SWE
+SWE235,2020-03-13,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE241,2020-03-19,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Orebro,Orebro,Orebro,59.2754,15.2133,1,Other-New media,0,SWE
+SWE243,2020-03-20,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE244,2020-03-20,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE245,2020-03-20,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE246,2020-03-20,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE253,2020-03-27,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE254,2020-03-27,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE259,2020-04-03,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other-New media,0,SWE
+SWE260,2020-04-03,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE261,2020-04-03,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE262,2020-04-03,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE266,2020-04-10,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other-New media,0,SWE
+SWE267,2020-04-10,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE268,2020-04-10,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE27,2020-01-16,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE275,2020-04-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other-New media,0,SWE
+SWE276,2020-04-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE277,2020-04-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE278,2020-04-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE287,2020-04-24,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE288,2020-04-24,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE289,2020-04-24,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE29,2020-01-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE290,2020-04-24,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Lund,Lund,55.7063,13.186,1,Other,0,SWE
+SWE291,2020-04-24,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE292,2020-04-24,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE297,2020-05-01,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other-New media,0,SWE
+SWE299,2020-05-01,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE3,2020-01-03,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE300,2020-05-01,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE301,2020-05-02,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE308,2020-05-08,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Vallentuna,Vallentuna,59.5342,18.0801,1,New media,0,SWE
+SWE309,2020-05-08,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE31,2020-01-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Sotenas,Bovallstrand,58.4746,11.3259,1,Other,0,SWE
+SWE310,2020-05-08,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,Other,0,SWE
+SWE311,2020-05-08,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE312,2020-05-08,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE316,2020-05-15,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Lund,Lund,55.7063,13.186,1,Other,0,SWE
+SWE317,2020-05-15,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,Other,0,SWE
+SWE318,2020-05-15,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE319,2020-05-15,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE32,2020-01-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE320,2020-05-16,2,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Kalmar,Hogsby,Hogsby,57.166,16.0272,1,National,0,SWE
+SWE326,2020-05-19,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Subnational-National,0,SWE
+SWE327,2020-05-19,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other-National,0,SWE
+SWE329,2020-05-22,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE33,2020-01-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE331,2020-05-22,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Vallentuna,Vallentuna,59.5342,18.0801,1,New media,0,SWE
+SWE332,2020-05-22,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Varmlands,Karlstad,Karlstad,59.3783,13.5041,1,Other,0,SWE
+SWE333,2020-05-22,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE34,2020-01-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,Other-Subnational,0,SWE
+SWE340,2020-05-24,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Gavleborgs,Gavle,Gavle,60.6759,17.1509,1,New media,0,SWE
+SWE344,2020-05-29,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE346,2020-05-29,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Vallentuna,Vallentuna,59.5342,18.0801,1,New media,0,SWE
+SWE347,2020-05-29,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,Other,0,SWE
+SWE348,2020-05-29,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Rattvik,Rattvik,60.8817,15.0665,1,Other,0,SWE
+SWE349,2020-05-29,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE35,2020-01-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Varmlands,Karlstad,Karlstad,59.3783,13.5041,1,Other,0,SWE
+SWE351,2020-05-30,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Lund,Lund,55.7063,13.186,1,Other,0,SWE
+SWE352,2020-05-30,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Vallentuna,Vallentuna,59.5342,18.0801,1,New media,0,SWE
+SWE353,2020-05-30,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other-New media,0,SWE
+SWE354,2020-05-30,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE355,2020-05-30,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Orebro,Karlskoga,Karlskoga,59.3266,14.5131,1,Other,0,SWE
+SWE356,2020-05-30,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Hallands,Halmstad,Halmstad,56.6739,12.8573,1,Other,0,SWE
+SWE357,2020-05-30,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,New media-Subnational,0,SWE
+SWE358,2020-05-30,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,Other,0,SWE
+SWE359,2020-05-30,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Varmlands,Karlstad,Karlstad,59.3783,13.5041,1,Other,0,SWE
+SWE36,2020-01-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Norrbottens,Kiruna,Kiruna,67.8549,20.2249,1,Other,0,SWE
+SWE37,2020-01-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Rattvik,Rattvik,60.8817,15.0665,1,Other,0,SWE
+SWE375,2020-06-05,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Vallentuna,Vallentuna,59.5342,18.0801,1,New media,0,SWE
+SWE376,2020-06-05,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Dalarnas,Rattvik,Rattvik,60.8817,15.0665,1,Other,0,SWE
+SWE377,2020-06-05,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE38,2020-01-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE388,2020-06-11,1,Protests,Peaceful protest,Protesters (Sweden),Friends of the Earth Sweden,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE390,2020-06-12,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE391,2020-06-12,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE394,2020-06-15,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Friends of the Earth Sweden; Greenpeace; SNF: Swedish Society for Nature Conservation; Students (Sweden); XR: Extinction Rebellion,,,Sweden,Vastra Gotalands,Lysekil,Lysekil,58.2756,11.4408,1,National,0,SWE
+SWE4,2020-01-03,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Vallentuna,Vallentuna,59.5342,18.0801,1,Other,0,SWE
+SWE403,2020-06-19,1,Protests,Peaceful protest,Protesters (Iceland),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE404,2020-06-19,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE405,2020-06-19,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE407,2020-06-22,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Skane,Lund,Lund,55.7063,13.186,1,Other,0,SWE
+SWE412,2020-06-26,1,Protests,Peaceful protest,Protesters (Iceland),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE413,2020-06-26,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE414,2020-06-26,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE415,2020-06-26,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE422,2020-06-27,2,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,Other,0,SWE
+SWE423,2020-06-27,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Vastra Gotalands,Lidkoping,Lidkoping,58.5037,13.1576,1,Other,0,SWE
+SWE425,2020-06-29,1,Protests,Protest with intervention,Protesters (Sweden),XR: Extinction Rebellion,Police Forces of Sweden (2019-),,Sweden,Skane,Angelholm,Angelholm,56.2452,12.8544,1,Other-National,0,SWE
+SWE427,2020-06-30,1,Protests,Protest with intervention,Protesters (Sweden),XR: Extinction Rebellion,Police Forces of Sweden (2019-),,Sweden,Vastra Gotalands,Harryda,Landvetter,57.6891,12.2107,1,Other-National,0,SWE
+SWE429,2020-06-30,1,Protests,Protest with intervention,Protesters (Sweden),XR: Extinction Rebellion,Police Forces of Sweden (2019-),,Sweden,Gotlands,Gotland,Visby,57.6393,18.2904,1,National,0,SWE
+SWE433,2020-07-03,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE436,2020-07-03,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE437,2020-07-03,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE438,2020-07-03,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE44,2020-01-21,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE440,2020-07-10,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE441,2020-07-10,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Vallentuna,Vallentuna,59.5342,18.0801,1,New media,0,SWE
+SWE442,2020-07-10,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE443,2020-07-10,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE445,2020-07-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE447,2020-07-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Vallentuna,Vallentuna,59.5342,18.0801,1,New media,0,SWE
+SWE448,2020-07-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE449,2020-07-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE45,2020-01-23,1,Protests,Peaceful protest,Protesters (Sweden),Greenpeace,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE457,2020-07-24,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE458,2020-07-24,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE459,2020-07-24,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE46,2020-01-23,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE461,2020-07-29,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE465,2020-07-31,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Finland),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE466,2020-07-31,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE467,2020-07-31,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE477,2020-08-07,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Skane,Kristianstad,Kristianstad,56.0318,14.151,1,Other,0,SWE
+SWE478,2020-08-07,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE479,2020-08-07,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE48,2020-01-24,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE481,2020-08-07,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE482,2020-08-07,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE483,2020-08-07,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE484,2020-08-08,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE49,2020-01-24,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE490,2020-08-10,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Sigtuna,Arlanda,59.6465,17.9381,1,Other,0,SWE
+SWE493,2020-08-14,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE494,2020-08-14,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE5,2020-01-10,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE50,2020-01-24,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Sotenas,Bovallstrand,58.4746,11.3259,1,Other,0,SWE
+SWE505,2020-08-21,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE506,2020-08-21,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE507,2020-08-21,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE508,2020-08-21,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other-Subnational,0,SWE
+SWE51,2020-01-24,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE514,2020-08-26,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE517,2020-08-28,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Skane,Angelholm,Angelholm,56.2452,12.8544,1,Subnational,0,SWE
+SWE518,2020-08-28,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE521,2020-08-28,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,National,0,SWE
+SWE522,2020-08-28,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,National,0,SWE
+SWE523,2020-08-28,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Friends of the Earth Sweden; Students (Sweden); XR: Extinction Rebellion,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE524,2020-08-28,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE5263,2020-02-07,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Lund,Lund,55.7063,13.186,1,Other,0,SWE
+SWE527,2020-08-29,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE53,2020-01-24,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Skane,Eslov,Eslov,55.8374,13.3036,1,Other,0,SWE
+SWE532,2020-08-29,1,Protests,Protest with intervention,Protesters (Sweden),XR: Extinction Rebellion,Police Forces of Sweden (2019-),,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE533,2020-08-29,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Vastra Gotalands,Lidkoping,Lidkoping,58.5037,13.1576,1,Other,0,SWE
+SWE539,2020-09-04,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE54,2020-01-24,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Varmlands,Karlstad,Karlstad,59.3783,13.5041,1,Other,0,SWE
+SWE540,2020-09-04,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Gavleborgs,Gavle,Gavle,60.6759,17.1509,1,Other-New media,0,SWE
+SWE541,2020-09-04,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Vallentuna,Vallentuna,59.5342,18.0801,1,New media,0,SWE
+SWE542,2020-09-04,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE543,2020-09-04,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE544,2020-09-04,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,Other,0,SWE
+SWE545,2020-09-04,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE546,2020-09-05,1,Protests,Peaceful protest,Protesters (Sweden),Greenpeace,,,Sweden,Vastra Gotalands,Lysekil,Lysekil,58.2756,11.4408,1,National,0,SWE
+SWE547,2020-09-05,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE549,2020-09-06,2,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,National,0,SWE
+SWE55,2020-01-24,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Norrbottens,Kiruna,Kiruna,67.8549,20.2249,1,Other,0,SWE
+SWE550,2020-09-07,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Vastra Gotalands,Lysekil,Lysekil,58.2756,11.4408,1,National,0,SWE
+SWE551,2020-09-07,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Vastra Gotalands,Lysekil,Lysekil,58.2756,11.4408,1,Other-National,0,SWE
+SWE552,2020-09-10,1,Protests,Peaceful protest,Protesters (Sweden),Greenpeace,,,Sweden,Vastra Gotalands,Lysekil,Lysekil,58.2756,11.4408,1,National,0,SWE
+SWE553,2020-09-10,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE554,2020-09-11,1,Protests,Peaceful protest,Protesters (Sweden),Greenpeace,,,Sweden,Vastra Gotalands,Lysekil,Lysekil,58.2756,11.4408,1,National,0,SWE
+SWE557,2020-09-11,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE558,2020-09-11,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other-New media,0,SWE
+SWE559,2020-09-11,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Orebro,Orebro,Orebro,59.2754,15.2133,1,Other,0,SWE
+SWE56,2020-01-24,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE560,2020-09-11,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Gavleborgs,Gavle,Gavle,60.6759,17.1509,1,Other-New media,0,SWE
+SWE561,2020-09-11,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Vallentuna,Vallentuna,59.5342,18.0801,1,New media,0,SWE
+SWE562,2020-09-11,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE563,2020-09-11,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE564,2020-09-11,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,Other,0,SWE
+SWE565,2020-09-11,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Norrbottens,Kiruna,Kiruna,67.8549,20.2249,1,Other,0,SWE
+SWE566,2020-09-11,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE57,2020-01-24,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE574,2020-09-12,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE577,2020-09-16,1,Protests,Peaceful protest,Protesters (Sweden),Greenpeace,,,Sweden,Vastra Gotalands,Lysekil,Lysekil,58.2756,11.4408,1,New media,0,SWE
+SWE58,2020-01-24,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Vallentuna,Vallentuna,59.5342,18.0801,1,Other,0,SWE
+SWE581,2020-09-18,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other-New media,0,SWE
+SWE582,2020-09-18,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Gavleborgs,Gavle,Gavle,60.6759,17.1509,1,Other-New media,0,SWE
+SWE583,2020-09-18,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE584,2020-09-18,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE585,2020-09-18,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Norrbottens,Kiruna,Kiruna,67.8549,20.2249,1,Other,0,SWE
+SWE587,2020-09-21,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE591,2020-09-24,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE592,2020-09-24,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Skane,Lund,Lund,55.7063,13.186,1,Other,0,SWE
+SWE593,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE594,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,National,0,SWE
+SWE595,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Orebro,Orebro,Orebro,59.2754,15.2133,1,National,0,SWE
+SWE596,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,New media-National,0,SWE
+SWE597,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other-New media,0,SWE
+SWE598,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kronobergs,Almhult,Almhult,56.5514,14.1388,1,Other-New media,0,SWE
+SWE599,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Vasternorrlands,Harnosand,Harnosand,62.632,17.938,1,Other-New media,0,SWE
+SWE6,2020-01-10,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE600,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Stockholms,Norrtalje,Norrtalje,59.7591,18.7014,1,Other-New media,0,SWE
+SWE601,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Vastra Gotalands,Tjorn,Skarhamn,57.991,11.5484,2,Other-New media,0,SWE
+SWE602,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Vastmanlands,Norberg,Norberg,60.065,15.9239,1,Other,0,SWE
+SWE603,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Nacka,Nacka,59.3079,18.1563,1,Other,0,SWE
+SWE604,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Solna,Solna,59.3665,18.0096,1,Other-New media,0,SWE
+SWE605,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Molndal,Molndal,57.6553,12.0189,1,National,0,SWE
+SWE606,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE607,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),AI: Amnesty International; FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE608,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Vasternorrlands,Kramfors,Kramfors,62.929,17.7782,1,Other,0,SWE
+SWE609,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Rattvik,Rattvik,60.8817,15.0665,1,Other,0,SWE
+SWE610,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Varmlands,Karlstad,Karlstad,59.3783,13.5041,1,Other,0,SWE
+SWE611,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Norrbottens,Jokkmokk,Jokkmokk,66.6065,19.8264,1,Other,0,SWE
+SWE612,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Blekinge,Karlskrona,Karlskrona,56.1618,15.5867,1,Other,0,SWE
+SWE613,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Sodertalje,Sodertalje,59.1967,17.6265,1,Other,0,SWE
+SWE614,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,Other,0,SWE
+SWE615,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Norrbottens,Kiruna,Kiruna,67.8549,20.2249,1,Other,0,SWE
+SWE616,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Ludvika,Ludvika,60.1507,15.1829,1,Other,0,SWE
+SWE617,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Norrbottens,Lulea,Lulea,65.583,22.1464,1,Other,0,SWE
+SWE618,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasternorrlands,Sundsvall,Sundsvall,62.3907,17.3073,1,Other,0,SWE
+SWE619,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Vannas,Vannas,63.908,19.752,1,Other,0,SWE
+SWE620,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Hallands,Varberg,Varberg,57.1093,12.2489,1,Other,0,SWE
+SWE621,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Gavleborgs,Gavle,Gavle,60.6759,17.1509,1,Other,0,SWE
+SWE622,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Norrbottens,Jokkmokk,Jokkmokk,66.6065,19.8264,2,Other,0,SWE
+SWE623,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Vanersborg,Vanersborg,58.3778,12.3179,1,Other,0,SWE
+SWE624,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Lund,Lund,55.7063,13.186,1,Other,0,SWE
+SWE625,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Vallentuna,Vallentuna,59.5342,18.0801,1,New media-Subnational,0,SWE
+SWE626,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE627,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Skane,Eslov,Eslov,55.8374,13.3036,1,Other,0,SWE
+SWE628,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE629,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Vastra Gotalands,Lidkoping,Lidkoping,58.5037,13.1576,1,Other,0,SWE
+SWE630,2020-09-25,2,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Skane,Simrishamn,Simrishamn,55.5565,14.3499,1,Other,0,SWE
+SWE635,2020-09-28,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE638,2020-10-02,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other-New media,0,SWE
+SWE639,2020-10-02,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,New media,0,SWE
+SWE640,2020-10-02,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE641,2020-10-02,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasternorrlands,Sundsvall,Sundsvall,62.3907,17.3073,1,Other,0,SWE
+SWE642,2020-10-02,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Vallentuna,Vallentuna,59.5342,18.0801,1,New media,0,SWE
+SWE643,2020-10-02,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE644,2020-10-02,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Skane,Eslov,Eslov,55.8374,13.3036,1,Other,0,SWE
+SWE645,2020-10-02,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Norrbottens,Kiruna,Kiruna,67.8549,20.2249,1,Other,0,SWE
+SWE646,2020-10-02,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE647,2020-10-02,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Rattvik,Rattvik,60.8817,15.0665,1,Other,0,SWE
+SWE65,2020-01-25,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE668,2020-10-09,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE669,2020-10-09,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE670,2020-10-09,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE671,2020-10-09,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE672,2020-10-09,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kronobergs,Vaxjo,Vaxjo,56.8787,14.8094,1,Other,0,SWE
+SWE673,2020-10-09,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE674,2020-10-09,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE675,2020-10-09,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Skane,Eslov,Eslov,55.8374,13.3036,1,Other,0,SWE
+SWE676,2020-10-09,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Varmlands,Karlstad,Karlstad,59.3783,13.5041,1,Other,0,SWE
+SWE677,2020-10-09,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Norrbottens,Kiruna,Kiruna,67.8549,20.2249,1,Other,0,SWE
+SWE678,2020-10-09,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE679,2020-10-09,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Rattvik,Rattvik,60.8817,15.0665,1,Other,0,SWE
+SWE68,2020-01-27,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE683,2020-10-15,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE684,2020-10-16,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE685,2020-10-16,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE686,2020-10-16,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE688,2020-10-16,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Orebro,Orebro,Orebro,59.2754,15.2133,1,Other,0,SWE
+SWE689,2020-10-16,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Gavleborgs,Gavle,Gavle,60.6759,17.1509,1,Other,0,SWE
+SWE690,2020-10-16,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Vallentuna,Vallentuna,59.5342,18.0801,1,New media,0,SWE
+SWE691,2020-10-16,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE692,2020-10-16,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Skane,Eslov,Eslov,55.8374,13.3036,1,Other,0,SWE
+SWE693,2020-10-16,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE694,2020-10-16,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE697,2020-10-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Lidkoping,Lidkoping,58.5037,13.1576,1,Other,0,SWE
+SWE7,2020-01-10,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Sotenas,Bovallstrand,58.4746,11.3259,1,Other,0,SWE
+SWE701,2020-10-23,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE702,2020-10-23,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE703,2020-10-23,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE704,2020-10-23,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Lysekil,Lysekil,58.2756,11.4408,1,Other,0,SWE
+SWE707,2020-10-23,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Vallentuna,Vallentuna,59.5342,18.0801,1,New media,0,SWE
+SWE708,2020-10-23,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE709,2020-10-23,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Skane,Eslov,Eslov,55.8374,13.3036,1,Other,0,SWE
+SWE710,2020-10-23,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,Other,0,SWE
+SWE711,2020-10-23,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Norrbottens,Kiruna,Kiruna,67.8549,20.2249,1,Other,0,SWE
+SWE712,2020-10-23,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE713,2020-10-23,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Rattvik,Rattvik,60.8817,15.0665,1,Other,0,SWE
+SWE725,2020-10-30,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE726,2020-10-30,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE727,2020-10-30,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasternorrlands,Sundsvall,Sundsvall,62.3907,17.3073,1,Other,0,SWE
+SWE728,2020-10-30,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Vallentuna,Vallentuna,59.5342,18.0801,1,New media,0,SWE
+SWE729,2020-10-30,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other-New media,0,SWE
+SWE730,2020-10-30,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE731,2020-10-30,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE732,2020-10-30,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,Other,0,SWE
+SWE733,2020-10-30,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE734,2020-10-31,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Skane,Lund,Lund,55.7063,13.186,1,Other,0,SWE
+SWE735,2020-11-03,1,Protests,Peaceful protest,Protesters (Norway),,,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE736,2020-11-03,1,Protests,Peaceful protest,Protesters (Norway),Greenpeace,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE737,2020-11-06,1,Protests,Protest with intervention,Protesters (Sweden),Sami Indigenous Group (Sweden); XR: Extinction Rebellion,Police Forces of Sweden (2019-),,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE738,2020-11-06,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE739,2020-11-06,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Gavleborgs,Gavle,Gavle,60.6759,17.1509,1,Other,0,SWE
+SWE740,2020-11-06,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Varmlands,Karlstad,Karlstad,59.3783,13.5041,1,Other,0,SWE
+SWE741,2020-11-06,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Vallentuna,Vallentuna,59.5342,18.0801,1,New media,0,SWE
+SWE742,2020-11-06,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE743,2020-11-06,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,Other,0,SWE
+SWE744,2020-11-06,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE745,2020-11-06,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Rattvik,Rattvik,60.8817,15.0665,1,Other,0,SWE
+SWE746,2020-11-07,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE747,2020-11-07,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Helsingborg,Helsingborg,56.0458,12.7047,1,Other,0,SWE
+SWE748,2020-11-07,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE750,2020-11-07,1,Protests,Protest with intervention,Protesters (Sweden),XR: Extinction Rebellion,Police Forces of Sweden (2019-),,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE751,2020-11-08,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE752,2020-11-09,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE753,2020-11-10,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE754,2020-11-11,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE756,2020-11-12,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE757,2020-11-13,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE758,2020-11-13,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE759,2020-11-13,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Gavleborgs,Gavle,Gavle,60.6759,17.1509,1,Other,0,SWE
+SWE76,2020-01-31,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Vastra Gotalands,Sotenas,Bovallstrand,58.4746,11.3259,1,Other,0,SWE
+SWE760,2020-11-13,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE761,2020-11-13,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,Other,0,SWE
+SWE762,2020-11-13,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE763,2020-11-14,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE764,2020-11-14,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Vallentuna,Vallentuna,59.5342,18.0801,1,New media,0,SWE
+SWE766,2020-11-17,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE767,2020-11-18,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE768,2020-11-19,1,Protests,Protest with intervention,Protesters (Sweden),XR: Extinction Rebellion,Police Forces of Sweden (2019-),,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE77,2020-01-31,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastra Gotalands,Goteborg,Goteborg,57.7087,11.9728,1,Other,0,SWE
+SWE770,2020-11-20,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE771,2020-11-20,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE772,2020-11-20,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE773,2020-11-20,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE774,2020-11-22,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Orebro,Orebro,Orebro,59.2754,15.2133,1,Other,0,SWE
+SWE776,2020-11-24,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other-New media,0,SWE
+SWE78,2020-01-31,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE780,2020-11-25,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other-New media,0,SWE
+SWE782,2020-11-26,1,Protests,Protest with intervention,Protesters (Sweden),XR: Extinction Rebellion,Police Forces of Sweden (2019-),,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE783,2020-11-27,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE784,2020-11-27,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Skane,Kristianstad,Kristianstad,56.0318,14.151,1,Other,0,SWE
+SWE785,2020-11-27,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE786,2020-11-27,2,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other-New media,0,SWE
+SWE788,2020-11-27,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE79,2020-01-31,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Norrtalje,Norrtalje,59.7591,18.7014,1,Other,0,SWE
+SWE791,2020-11-28,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other-New media,0,SWE
+SWE793,2020-12-01,2,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE794,2020-12-03,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE795,2020-12-04,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE796,2020-12-04,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE8,2020-01-10,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE80,2020-01-31,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE800,2020-12-11,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE801,2020-12-11,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE803,2020-12-11,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other-New media,0,SWE
+SWE804,2020-12-11,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Lund,Lund,55.7063,13.186,1,Other,0,SWE
+SWE805,2020-12-11,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE806,2020-12-11,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Vallentuna,Vallentuna,59.5342,18.0801,1,New media,0,SWE
+SWE807,2020-12-12,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other-New media,0,SWE
+SWE809,2020-12-18,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Gavleborgs,Gavle,Gavle,60.6759,17.1509,1,Other,0,SWE
+SWE81,2020-01-31,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Skane,Malmo,Malmo,55.6053,12.9994,1,Other,0,SWE
+SWE810,2020-12-18,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,Other,0,SWE
+SWE811,2020-12-18,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,New media,0,SWE
+SWE812,2020-12-18,1,Protests,Peaceful protest,Protesters (Sweden),,,,Sweden,Stockholms,Vallentuna,Vallentuna,59.5342,18.0801,1,New media,0,SWE
+SWE813,2020-12-19,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden); XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other-New media,0,SWE
+SWE815,2020-12-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,Other,0,SWE
+SWE816,2020-12-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE817,2020-12-26,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,Other,0,SWE
+SWE818,2020-12-27,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden); XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other-New media,0,SWE
+SWE82,2020-01-31,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future,,,Sweden,Skane,Eslov,Eslov,55.8374,13.3036,1,Other,0,SWE
+SWE829,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kronobergs,Alvesta,Alvesta,56.9001,14.5566,1,Other,0,SWE
+SWE83,2020-01-31,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,Other,0,SWE
+SWE830,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastmanlands,Fagersta,Fagersta,59.9891,15.8185,1,National,0,SWE
+SWE831,2020-01-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Jonkopings,Gislaved,Gislaved,57.2994,13.544,1,Other,0,SWE
+SWE832,2020-01-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Jarfalla,Jakobsberg,59.4225,17.8342,1,Other,0,SWE
+SWE833,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Jarfalla,Jakobsberg,59.4225,17.8342,1,Other,0,SWE
+SWE834,2020-10-23,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Stockholms,Jarfalla,Jakobsberg,59.4225,17.8342,1,Other,0,SWE
+SWE837,2020-02-07,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastmanlands,Norberg,Norberg,60.065,15.9239,1,Other,0,SWE
+SWE838,2020-02-21,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastmanlands,Norberg,Norberg,60.065,15.9239,1,Other,0,SWE
+SWE84,2020-01-31,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Ostergotlands,Norrkoping,Norrkoping,58.5888,16.1868,1,Other,0,SWE
+SWE840,2020-12-25,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE841,2020-12-30,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE842,2020-12-30,1,Protests,Protest with intervention,Protesters (Sweden),XR: Extinction Rebellion,Police Forces of Sweden (2019-),,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,1,Other,0,SWE
+SWE845,2020-01-03,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasternorrlands,Sundsvall,Sundsvall,62.3907,17.3073,1,Other,0,SWE
+SWE846,2020-03-06,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasternorrlands,Sundsvall,Sundsvall,62.3907,17.3073,1,Other,0,SWE
+SWE847,2020-05-30,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; SNF: Swedish Society for Nature Conservation; Students (Sweden),,,Sweden,Vasternorrlands,Sundsvall,Sundsvall,62.3907,17.3073,1,Other,0,SWE
+SWE848,2020-05-22,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE849,2020-05-29,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE85,2020-01-31,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Uppsala,Uppsala,Uppsala,59.8583,17.647,1,Other,0,SWE
+SWE850,2020-06-05,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE851,2020-06-12,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE852,2020-06-19,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE853,2020-06-26,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE854,2020-07-03,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE855,2020-07-10,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE856,2020-07-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE857,2020-07-31,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE858,2020-08-07,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE859,2020-08-14,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE860,2020-08-21,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE861,2020-08-28,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE862,2020-09-04,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE863,2020-09-11,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE864,2020-10-02,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE865,2020-10-09,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE866,2020-10-16,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE867,2020-10-23,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE868,2020-10-30,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE869,2020-11-06,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE870,2020-11-13,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE871,2020-11-20,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE872,2020-11-27,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE873,2020-12-04,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE874,2020-12-11,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE875,2020-12-18,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE876,2020-12-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE882,2020-01-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,Other,0,SWE
+SWE883,2020-01-24,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,Other,0,SWE
+SWE884,2020-01-31,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,Other,0,SWE
+SWE885,2020-02-07,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,Other,0,SWE
+SWE886,2020-02-14,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,Other,0,SWE
+SWE887,2020-02-21,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,Other,0,SWE
+SWE888,2020-02-28,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,Other,0,SWE
+SWE889,2020-03-06,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,Other,0,SWE
+SWE89,2020-02-01,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Jonkopings,Jonkoping,Jonkoping,57.7843,14.1663,1,Other,0,SWE
+SWE890,2020-03-13,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,Other,0,SWE
+SWE891,2020-05-29,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,Other,0,SWE
+SWE892,2020-06-05,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,Other,0,SWE
+SWE893,2020-09-04,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,Other,0,SWE
+SWE894,2020-09-11,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,Other,0,SWE
+SWE895,2020-09-18,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,Other,0,SWE
+SWE896,2020-10-09,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,Other,0,SWE
+SWE897,2020-10-16,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,Other,0,SWE
+SWE898,2020-10-23,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,Other,0,SWE
+SWE899,2020-10-30,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vastmanlands,Vasteras,Vasteras,59.6103,16.547,1,Other,0,SWE
+SWE9,2020-01-10,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Dalarnas,Falun,Falun,60.603,15.6429,1,Other,0,SWE
+SWE90,2020-02-01,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Varmlands,Karlstad,Karlstad,59.3783,13.5041,1,Other,0,SWE
+SWE900,2020-01-31,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kronobergs,Vaxjo,Vaxjo,56.8787,14.8094,1,Other,0,SWE
+SWE901,2020-02-07,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kronobergs,Vaxjo,Vaxjo,56.8787,14.8094,1,Other,0,SWE
+SWE902,2020-02-14,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kronobergs,Vaxjo,Vaxjo,56.8787,14.8094,1,Other,0,SWE
+SWE903,2020-02-21,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kronobergs,Vaxjo,Vaxjo,56.8787,14.8094,1,Other,0,SWE
+SWE904,2020-02-28,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kronobergs,Vaxjo,Vaxjo,56.8787,14.8094,1,Other,0,SWE
+SWE905,2020-03-06,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kronobergs,Vaxjo,Vaxjo,56.8787,14.8094,1,Other,0,SWE
+SWE906,2020-03-20,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kronobergs,Vaxjo,Vaxjo,56.8787,14.8094,1,Other,0,SWE
+SWE907,2020-03-27,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kronobergs,Vaxjo,Vaxjo,56.8787,14.8094,1,Other,0,SWE
+SWE908,2020-09-11,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kronobergs,Vaxjo,Vaxjo,56.8787,14.8094,1,Other,0,SWE
+SWE909,2020-09-18,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kronobergs,Vaxjo,Vaxjo,56.8787,14.8094,1,Other,0,SWE
+SWE910,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kronobergs,Vaxjo,Vaxjo,56.8787,14.8094,1,Other,0,SWE
+SWE911,2020-10-02,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kronobergs,Vaxjo,Vaxjo,56.8787,14.8094,1,Other,0,SWE
+SWE912,2020-10-16,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kronobergs,Vaxjo,Vaxjo,56.8787,14.8094,1,Other,0,SWE
+SWE913,2020-10-23,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kronobergs,Vaxjo,Vaxjo,56.8787,14.8094,1,Other,0,SWE
+SWE914,2020-10-30,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kronobergs,Vaxjo,Vaxjo,56.8787,14.8094,1,Other,0,SWE
+SWE923,2020-01-03,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE924,2020-01-10,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE925,2020-01-13,2,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE926,2020-01-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE927,2020-01-18,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE928,2020-01-24,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE929,2020-01-31,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE930,2020-02-07,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE931,2020-02-14,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE932,2020-02-21,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE933,2020-02-24,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; SNF: Swedish Society for Nature Conservation; Students (Sweden); XR: Extinction Rebellion,,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other-Subnational,0,SWE
+SWE934,2020-02-28,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE935,2020-03-06,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE936,2020-03-13,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE937,2020-03-20,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE938,2020-03-27,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE939,2020-04-03,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE940,2020-04-05,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE941,2020-04-10,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE942,2020-04-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE943,2020-04-24,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE944,2020-05-01,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE945,2020-05-08,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE946,2020-05-15,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE947,2020-05-19,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other-Subnational,0,SWE
+SWE948,2020-06-13,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE949,2020-06-30,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE950,2020-10-16,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE951,2020-11-06,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE952,2020-11-28,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE953,2020-12-12,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE954,2020-12-30,1,Protests,Peaceful protest,Protesters (Sweden),XR: Extinction Rebellion,,,Sweden,Vasterbottens,Umea,Umea,63.8296,20.2669,1,Other,0,SWE
+SWE960,2020-01-03,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Vastervik,Vastervik,57.75,16.6333,1,Other,0,SWE
+SWE961,2020-01-10,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Vastervik,Vastervik,57.75,16.6333,1,Other,0,SWE
+SWE962,2020-01-17,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Vastervik,Vastervik,57.75,16.6333,1,Other,0,SWE
+SWE963,2020-01-24,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Vastervik,Vastervik,57.75,16.6333,1,Other,0,SWE
+SWE964,2020-01-31,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Vastervik,Vastervik,57.75,16.6333,1,Other,0,SWE
+SWE965,2020-02-07,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Vastervik,Vastervik,57.75,16.6333,1,Other,0,SWE
+SWE966,2020-02-14,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Vastervik,Vastervik,57.75,16.6333,1,Other,0,SWE
+SWE967,2020-02-21,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Vastervik,Vastervik,57.75,16.6333,1,Other,0,SWE
+SWE968,2020-02-28,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Vastervik,Vastervik,57.75,16.6333,1,Other,0,SWE
+SWE969,2020-03-06,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Vastervik,Vastervik,57.75,16.6333,1,Other,0,SWE
+SWE970,2020-03-13,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Vastervik,Vastervik,57.75,16.6333,1,Other,0,SWE
+SWE971,2020-09-25,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Vastervik,Vastervik,57.75,16.6333,1,Other,0,SWE
+SWE972,2020-10-30,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Vastervik,Vastervik,57.75,16.6333,1,Other,0,SWE
+SWE98,2020-02-05,1,Protests,Peaceful protest,Protesters (Sweden),FFF: Fridays for Future; Students (Sweden),,,Sweden,Kalmar,Kalmar,Kalmar,56.6643,16.3658,1,National,0,SWE
+SWE372,2020-06-05,1,Protests,Peaceful protest,Protesters (Sweden),Labor Group (Sweden); Teachers (Sweden),,,Sweden,Varmlands,Hammaro,Hammaro,59.3034,13.54,1,Subnational,0,SWE
+SWE237,2020-03-16,2,Strategic developments,Other,Protesters (Sweden),Prisoners (Sweden),,,Sweden,Stockholms,Stockholm,Stockholm,59.3277,18.0684,3,National,0,SWE

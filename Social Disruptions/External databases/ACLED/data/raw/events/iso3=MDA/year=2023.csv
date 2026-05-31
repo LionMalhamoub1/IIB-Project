@@ -1,0 +1,226 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+MDA1457,2023-01-15,1,Protests,Peaceful protest,Protesters (Moldova),Protesters (Romania),,,Moldova,Ungheni,Sculeni,Sculeni,47.3277,27.6257,1,Subnational-National,0,MDA
+MDA1461,2023-01-20,1,Violence against civilians,Attack,Police Forces of Transnistria (2016-),,Civilians (Moldova),Prisoners (Moldova); Students (Moldova),Moldova,Bender,Bender,Bender,46.8316,29.4777,1,National,0,MDA
+MDA1467,2023-02-16,1,Strategic developments,Disrupted weapons use,Police Forces of Moldova (2023-),,Unidentified Military Forces,,Moldova,Briceni,Larga,Larga,48.372,26.842,2,National,0,MDA
+MDA1460,2023-01-25,1,Strategic developments,Disrupted weapons use,Police Forces of Moldova (2021-2023),,Unidentified Armed Group (Moldova),,Moldova,Gagauzia,Vulcanesti,Vulcanesti,45.6849,28.4061,1,Subnational-National,0,MDA
+MDA1479,2023-02-28,1,Protests,Protest with intervention,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,Police Forces of Moldova (2023-),,Moldova,Chisinau,Stauceni,Stauceni,47.0949,28.869,1,National,0,MDA
+MDA1480,2023-03-01,1,Strategic developments,Change to group/activity,Military Forces of Russia (2000-) Operational Group of Russian Forces in Moldova,Military Forces of Transnistria (2016-),,,Moldova,Tiraspol,Tiraspol,Tiraspol,46.8427,29.6291,3,National,0,MDA
+MDA1487,2023-03-07,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Chisinau,Riscani,Chisinau - Riscani,47.0531,28.864,1,National,0,MDA
+MDA1490,2023-03-12,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Balti,Balti,Balti,47.7631,27.9293,2,National,0,MDA
+MDA1491,2023-03-12,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Glodeni,Glodeni,Glodeni,47.7751,27.5189,2,National,0,MDA
+MDA1492,2023-03-13,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Balti,Balti,Balti,47.7631,27.9293,1,National,0,MDA
+MDA1493,2023-03-13,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Cimislia,Cimislia,Cimislia,46.5268,28.7644,1,National,0,MDA
+MDA1494,2023-03-13,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Edinet,Edinet,Edinet,48.1721,27.3034,1,National,0,MDA
+MDA1496,2023-03-13,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Orhei,Orhei,Orhei,47.3849,28.8245,1,National,0,MDA
+MDA1497,2023-03-15,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Criuleni,Criuleni,Criuleni,47.2131,29.1593,1,National,0,MDA
+MDA1498,2023-03-15,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Falesti,Falesti,Falesti,47.5767,27.7126,1,National,0,MDA
+MDA1499,2023-03-15,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Hincesti,Hincesti,Hincesti,46.8305,28.5906,1,National,0,MDA
+MDA1500,2023-03-15,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Nisporeni,Nisporeni,Nisporeni,47.0816,28.1714,1,National,0,MDA
+MDA1501,2023-03-15,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Orhei,Orhei,Orhei,47.3849,28.8245,1,National,0,MDA
+MDA1502,2023-03-15,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Soldanesti,Soldanesti,Soldanesti,47.8161,28.7972,1,National,0,MDA
+MDA1503,2023-03-15,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Soroca,Soroca,Soroca,48.1566,28.2849,1,National,0,MDA
+MDA1507,2023-03-15,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality; Government of Moldova (2023-),,,Moldova,Balti,Balti,Balti,47.7631,27.9293,1,National,0,MDA
+MDA1508,2023-03-15,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality; Government of Moldova (2023-),,,Moldova,Briceni,Briceni,Briceni,48.3629,27.0779,1,National,0,MDA
+MDA1509,2023-03-15,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality; Government of Moldova (2023-),,,Moldova,Calarasi,Calarasi,Calarasi,47.2556,28.3099,1,National,0,MDA
+MDA1511,2023-03-15,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality; Government of Moldova (2023-),,,Moldova,Cimislia,Cimislia,Cimislia,46.5268,28.7644,1,National,0,MDA
+MDA1512,2023-03-15,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality; Government of Moldova (2023-),,,Moldova,Floresti,Floresti,Floresti,47.8914,28.2931,1,National,0,MDA
+MDA1513,2023-03-15,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality; Government of Moldova (2023-),,,Moldova,Glodeni,Glodeni,Glodeni,47.7751,27.5189,1,National,0,MDA
+MDA1514,2023-03-15,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality; Government of Moldova (2023-),,,Moldova,Soldanesti,Soldanesti,Soldanesti,47.8161,28.7972,1,National,0,MDA
+MDA1520,2023-03-20,1,Protests,Peaceful protest,Protesters (Moldova),PSRM: Party of Socialists of the Republic of Moldova; Government of Moldova (2023-),,,Moldova,Balti,Balti,Balti,47.7631,27.9293,1,National,0,MDA
+MDA1472,2023-02-24,1,Protests,Peaceful protest,Protesters (Moldova),PLDM: Liberal Democratic Party of Moldova; Government of Moldova (2023-),,,Moldova,Cimislia,Cimislia,Cimislia,46.5268,28.7644,1,National,0,MDA
+MDA1525,2023-03-19,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Gagauzia,Congaz,Congaz,46.1082,28.6031,1,Subnational,0,MDA
+MDA1526,2023-03-21,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Gagauzia,Congaz,Congaz,46.1082,28.6031,1,Subnational,0,MDA
+MDA1527,2023-04-12,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality; Government of Moldova (2023-),,,Moldova,Chisinau,Riscani,Chisinau - Riscani,47.0531,28.864,1,National,0,MDA
+MDA1531,2023-04-28,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Anenii Noi,Varnita,Varnita,46.8675,29.4756,1,National,0,MDA
+MDA1538,2023-05-12,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Gagauzia,Comrat,Comrat,46.2946,28.6565,1,Subnational,0,MDA
+MDA1546,2023-05-22,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Gagauzia,Comrat,Comrat,46.2946,28.6565,1,National,0,MDA
+MDA1547,2023-05-21,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality; Government of Moldova (2023-),,,Moldova,Balti,Balti,Balti,47.7631,27.9293,1,National,0,MDA
+MDA1548,2023-05-21,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality; Government of Moldova (2023-),,,Moldova,Orhei,Orhei,Orhei,47.3849,28.8245,1,National,0,MDA
+MDA1549,2023-05-25,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Ocnita,Birnova,Birnova,48.4219,27.5323,1,National,0,MDA
+MDA1550,2023-05-25,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Anenii Noi,Bulboaca,Bulboaca,46.8881,29.3011,1,National,0,MDA
+MDA1552,2023-05-26,1,Protests,Peaceful protest,Protesters (Moldova),Former Government of Moldova (2023-); Independent Politicians (Moldova); Government of Moldova (2023-),,,Moldova,Balti,Balti,Balti,47.7631,27.9293,1,National,0,MDA
+MDA1555,2023-06-07,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Briceni,Briceni,Briceni,48.3629,27.0779,1,National,0,MDA
+MDA1557,2023-06-07,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Causeni,Causeni,Causeni,46.6367,29.4111,1,National,0,MDA
+MDA1558,2023-06-07,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Cimislia,Cimislia,Cimislia,46.5268,28.7644,1,National,0,MDA
+MDA1559,2023-06-07,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Criuleni,Criuleni,Criuleni,47.2131,29.1593,1,National,0,MDA
+MDA1560,2023-06-07,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Edinet,Edinet,Edinet,48.1721,27.3034,1,National,0,MDA
+MDA1561,2023-06-07,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Falesti,Falesti,Falesti,47.5767,27.7126,1,National,0,MDA
+MDA1562,2023-06-07,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Hincesti,Hincesti,Hincesti,46.8305,28.5906,1,National,0,MDA
+MDA1563,2023-06-07,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Leova,Leova,Leova,46.4823,28.253,1,National,0,MDA
+MDA1564,2023-06-07,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Hincesti,Leuseni,Leuseni,46.8219,28.1988,1,National,0,MDA
+MDA1565,2023-06-07,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Ocnita,Ocnita,Ocnita,48.3827,27.4381,1,National,0,MDA
+MDA1566,2023-06-07,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Orhei,Orhei,Orhei,47.3849,28.8245,1,National,0,MDA
+MDA1567,2023-06-07,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Rezina,Rezina,Rezina,47.7493,28.9658,1,National,0,MDA
+MDA1568,2023-06-07,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Singerei,Singerei,Singerei,47.6363,28.143,1,National,0,MDA
+MDA1569,2023-06-07,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Soroca,Soroca,Soroca,48.1566,28.2849,1,National,0,MDA
+MDA1570,2023-06-07,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Telenesti,Telenesti,Telenesti,47.5011,28.3654,1,National,0,MDA
+MDA1572,2023-06-08,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Hincesti,Leuseni,Leuseni,46.8219,28.1988,2,National,0,MDA
+MDA1573,2023-06-08,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Telenesti,Saratenii Vechi,Saratenii Vechi,47.5297,28.5555,2,National,0,MDA
+MDA1574,2023-06-08,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Ungheni,Sculeni,Sculeni,47.3277,27.6257,2,National,0,MDA
+MDA1579,2023-06-16,1,Protests,Peaceful protest,Protesters (Moldova),Labor Group (Moldova),,,Moldova,Balti,Balti,Balti,47.7631,27.9293,1,National,0,MDA
+MDA1586,2023-06-19,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Singerei,Singerei,Singerei,47.6363,28.143,1,National,0,MDA
+MDA1603,2023-07-07,1,Protests,Peaceful protest,Protesters (Moldova),Labor Group (Moldova),,,Moldova,Gagauzia,Comrat,Comrat,46.2946,28.6565,1,Subnational-National,0,MDA
+MDA1606,2023-07-14,2,Violence against civilians,Attack,Unidentified Armed Group (Moldova),Government of Moldova (2023-); PSRM: Party of Socialists of the Republic of Moldova,Civilians (Moldova),Government of Moldova (2023-); PSRM: Party of Socialists of the Republic of Moldova; Women (Moldova),Moldova,Edinet,Edinet,Edinet,48.1721,27.3034,1,Subnational-National,0,MDA
+MDA1608,2023-07-17,1,Violence against civilians,Attack,Unidentified Armed Group (Moldova),,Civilians (Moldova),PCP: Pridnestrovie Communist Party,Moldova,Slobozia,Sucleia,Sucleia,46.8255,29.6631,1,National,1,MDA
+MDA1489,2023-03-12,1,Protests,Peaceful protest,Protesters (Moldova),Gagauz Ethnic Group (Moldova); Government of Moldova (2019-2023) Gagauzia Regional Government,,,Moldova,Gagauzia,Comrat,Comrat,46.2946,28.6565,1,Subnational,0,MDA
+MDA1518,2023-03-18,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2019-2023) Gagauzia Regional Government,,,Moldova,Gagauzia,Comrat,Comrat,46.2946,28.6565,1,Subnational,0,MDA
+MDA1532,2023-04-30,1,Strategic developments,Other,Government of Moldova (2019-2023) Gagauzia Regional Government,,,,Moldova,Gagauzia,Comrat,Comrat,46.2946,28.6565,3,National,0,MDA
+MDA1539,2023-05-14,1,Strategic developments,Other,Government of Moldova (2019-2023) Gagauzia Regional Government,SOR: Republican Socio-Political Movement Equality,,,Moldova,Gagauzia,Comrat,Comrat,46.2946,28.6565,3,Subnational-National,0,MDA
+MDA1542,2023-05-16,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2019-2023) Gagauzia Regional Government; Government of Moldova (2023-); Independent Politicians (Moldova); SOR: Republican Socio-Political Movement Equality,,,Moldova,Gagauzia,Comrat,Comrat,46.2946,28.6565,1,Subnational-National,0,MDA
+MDA1543,2023-05-21,1,Protests,Peaceful protest,Protesters (Moldova),Gagauz Ethnic Group (Moldova); Government of Moldova (2019-2023) Gagauzia Regional Government; Government of Moldova (2023-); Independent Politicians (Moldova); SOR: Republican Socio-Political Movement Equality,,,Moldova,Gagauzia,Comrat,Comrat,46.2946,28.6565,1,Subnational-National,0,MDA
+MDA1610,2023-07-28,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality; Government of Moldova (2023-) Gagauzia Regional Government,,,Moldova,Gagauzia,Comrat,Comrat,46.2946,28.6565,1,National,0,MDA
+MDA1613,2023-08-04,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Gagauzia,Comrat,Comrat,46.2946,28.6565,1,Subnational-National,0,MDA
+MDA1615,2023-07-14,2,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Orhei,Pelivan,Pelivan,47.4036,28.7749,1,National,0,MDA
+MDA1620,2023-08-11,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Gagauzia,Comrat,Comrat,46.2946,28.6565,1,Subnational-National,0,MDA
+MDA1623,2023-08-25,2,Protests,Peaceful protest,Protesters (Moldova),Labor Group (Moldova); Government of Moldova (2023-),,,Moldova,Balti,Balti,Balti,47.7631,27.9293,1,National,0,MDA
+MDA1626,2023-08-30,1,Protests,Peaceful protest,Protesters (Moldova),PR: Party of Revival (Moldova); Government of Moldova (2023-),,,Moldova,Balti,Balti,Balti,47.7631,27.9293,1,National,0,MDA
+MDA1627,2023-08-04,1,Violence against civilians,Attack,Unidentified Armed Group (Moldova),PR: Party of Revival (Moldova),Civilians (Moldova),Police Forces of Moldova (2023-),Moldova,Balti,Balti,Balti,47.7631,27.9293,1,National,0,MDA
+MDA1628,2023-09-06,1,Protests,Peaceful protest,Protesters (Moldova),Labor Group (Moldova),,,Moldova,Causeni,Causeni,Causeni,46.6367,29.4111,1,National,0,MDA
+MDA1630,2023-09-15,1,Violence against civilians,Attack,Unidentified Armed Group (Moldova),PCRM: Party of Communists of the Republic of Moldova,Civilians (Moldova),Women (Moldova),Moldova,Gagauzia,Comrat,Comrat,46.2946,28.6565,1,Subnational-National,0,MDA
+MDA1634,2023-09-25,1,Strategic developments,Other,Unidentified Armed Group (Moldova),,,,Moldova,Causeni,Chitcani,Chitcani,46.7851,29.6064,1,National,0,MDA
+MDA1636,2023-09-26,2,Protests,Peaceful protest,Protesters (Moldova),Teachers (Moldova),,,Moldova,Ialoveni,Vasieni,Vasieni,46.9657,28.5937,1,National,0,MDA
+MDA1637,2023-09-25,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Russia (2000-),,,,Moldova,Causeni,Causeni,Causeni,46.6367,29.4111,2,International,0,MDA
+MDA1641,2023-10-01,1,Protests,Peaceful protest,Protesters (Moldova),PR: Party of Revival (Moldova),,,Moldova,Balti,Balti,Balti,47.7631,27.9293,1,National,0,MDA
+MDA1644,2023-09-30,1,Violence against civilians,Attack,Unidentified Armed Group (Moldova),SOR: Republican Socio-Political Movement Equality,Civilians (Moldova),Women (Moldova),Moldova,Gagauzia,Comrat,Comrat,46.2946,28.6565,1,Subnational,0,MDA
+MDA1645,2023-10-08,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Gagauzia,Comrat,Comrat,46.2946,28.6565,1,Subnational,0,MDA
+MDA1647,2023-10-19,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Moldova),,Police Forces of Moldova (2023-),,Moldova,Cimislia,Cimislia,Cimislia,46.5268,28.7644,1,National,0,MDA
+MDA1651,2023-10-27,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality; Government of Moldova (2023-),,,Moldova,Orhei,Orhei,Orhei,47.3849,28.8245,1,National,0,MDA
+MDA1652,2023-10-27,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality; Government of Moldova (2023-) Gagauzia Regional Government,,,Moldova,Gagauzia,Comrat,Comrat,46.2946,28.6565,1,Subnational,0,MDA
+MDA1654,2023-11-03,1,Protests,Peaceful protest,Protesters (Moldova),PR: Party of Revival (Moldova),,,Moldova,Balti,Balti,Balti,47.7631,27.9293,1,National,0,MDA
+MDA1659,2023-11-07,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Balti,Balti,Balti,47.7631,27.9293,1,National,0,MDA
+MDA1662,2023-11-16,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Balti,Balti,Balti,47.7631,27.9293,1,National,0,MDA
+MDA1667,2023-11-24,1,Protests,Protest with intervention,Protesters (Moldova),,Police Forces of Moldova (2023-),,Moldova,Gagauzia,Congaz,Congaz,46.1082,28.6031,1,Subnational,0,MDA
+MDA1554,2023-06-07,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Basarabeasca,Basarabeasca,Basarabeasca,46.3317,28.9636,1,National,0,MDA
+MDA1578,2023-06-07,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); SOR: Republican Socio-Political Movement Equality,,,Moldova,Chisinau,Riscani,Chisinau - Riscani,47.0531,28.864,1,Regional,0,MDA
+MDA1556,2023-06-07,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Cahul,Cahul,Cahul,45.9042,28.1993,1,National,0,MDA
+MDA1528,2023-04-19,1,Strategic developments,Change to group/activity,Military Forces of Russia (2000-) Operational Group of Russian Forces in Moldova,Joint Control Commission,,,Moldova,Dubasari,Pirita,Pirita,47.1047,29.1186,2,National-Regional,0,MDA
+MDA1635,2023-09-27,1,Strategic developments,Other,Unidentified Armed Group (Moldova),,,,Moldova,Anenii Noi,Hirbovat,Hirbovat,46.844,29.3592,1,National,0,MDA
+MDA1571,2023-06-08,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Rezina,Busauca,Busauca,47.5925,28.7905,2,National,0,MDA
+MDA1646,2023-10-14,1,Violence against civilians,Attack,PAS: Party of Action and Solidarity,,Civilians (Moldova),Government of Moldova (2023-); PSRM: Party of Socialists of the Republic of Moldova,Moldova,Orhei,Zahoreni,Zahoreni,47.5775,28.7244,1,National,0,MDA
+MDA1643,2023-10-05,1,Strategic developments,Disrupted weapons use,Police Forces of Transnistria (2016-),,Unidentified Military Forces,,Moldova,Causeni,Gisca,Gisca,46.7822,29.4427,2,National,0,MDA
+MDA1456,2023-01-04,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Chisinau,Centru,Chisinau - Centru,47.0208,28.8381,1,National,0,MDA
+MDA1459,2023-01-17,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Chisinau,Centru,Chisinau - Centru,47.0208,28.8381,1,National,0,MDA
+MDA1462,2023-01-22,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Chisinau,Centru,Chisinau - Centru,47.0208,28.8381,1,National,0,MDA
+MDA1463,2023-01-26,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2021-2023); SOR: Republican Socio-Political Movement Equality,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1464,2023-02-02,1,Strategic developments,Other,Government of Moldova (2021-2023),,,,Moldova,Chisinau,,Chisinau,47.0056,28.8575,1,National,0,MDA
+MDA1465,2023-02-07,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Chisinau,Centru,Chisinau - Centru,47.0208,28.8381,1,National,0,MDA
+MDA1466,2023-02-10,1,Strategic developments,Other,Government of Moldova (2021-2023),,,,Moldova,Chisinau,,Chisinau,47.0056,28.8575,1,National-Regional,0,MDA
+MDA1468,2023-02-16,1,Protests,Peaceful protest,Protesters (Moldova),Former Police Forces of Moldova (2023-); Government of Moldova (2023-); PACE: Partidul Construim Europa Acasa; PSRM: Party of Socialists of the Republic of Moldova; SOR: Republican Socio-Political Movement Equality,Protesters (Moldova),,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1469,2023-02-16,1,Strategic developments,Other,Government of Moldova (2023-),,,,Moldova,Chisinau,,Chisinau,47.0056,28.8575,1,National-Regional,0,MDA
+MDA1470,2023-02-12,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Chisinau,Centru,Chisinau - Centru,47.0208,28.8381,1,National,0,MDA
+MDA1471,2023-02-24,1,Protests,Peaceful protest,Protesters (Moldova),PACE: Partidul Construim Europa Acasa,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1473,2023-02-24,1,Protests,Peaceful protest,Protesters (Moldova),Refugees/IDPs (Ukraine),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1474,2023-02-19,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); SOR: Republican Socio-Political Movement Equality,Protesters (Moldova),,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National-International,0,MDA
+MDA1475,2023-02-23,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); SOR: Republican Socio-Political Movement Equality,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1476,2023-02-25,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); PSRM: Party of Socialists of the Republic of Moldova,,,Moldova,Chisinau,,Chisinau,47.0056,28.8575,1,National,0,MDA
+MDA1477,2023-02-27,2,Strategic developments,Other,Police Forces of Moldova (2023-),,Civilians (International),,Moldova,Chisinau,,Chisinau,47.0056,28.8575,3,National,0,MDA
+MDA1478,2023-02-28,1,Protests,Protest with intervention,Protesters (Moldova),Government of Moldova (2023-); PACE: Partidul Construim Europa Acasa; SOR: Republican Socio-Political Movement Equality,Police Forces of Moldova (2023-),,Moldova,Chisinau,,Chisinau,47.0056,28.8575,1,National,0,MDA
+MDA1482,2023-03-06,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); PCRM: Party of Communists of the Republic of Moldova; PSRM: Party of Socialists of the Republic of Moldova,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1483,2023-03-10,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); SOR: Republican Socio-Political Movement Equality,,,Moldova,Chisinau,Botanica,Chisinau - Botanica,46.9862,28.8575,1,National,0,MDA
+MDA1484,2023-03-10,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); PACE: Partidul Construim Europa Acasa; SOR: Republican Socio-Political Movement Equality,,,Moldova,Chisinau,Centru,Chisinau - Centru,47.0208,28.8381,1,National,0,MDA
+MDA1485,2023-03-08,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); LGBTQ+ (Moldova); PAS: Party of Action and Solidarity; Protesters (Ukraine); Women (Moldova); Women (Ukraine),,,Moldova,Chisinau,,Chisinau,47.0056,28.8575,1,National,0,MDA
+MDA1486,2023-03-04,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1488,2023-03-11,1,Protests,Peaceful protest,Protesters (Moldova),Civic Congress (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1495,2023-03-13,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Ialoveni,Ialoveni,Ialoveni,46.9435,28.7823,1,National,0,MDA
+MDA1504,2023-03-12,1,Protests,Protest with intervention,Protesters (Moldova),Government of Moldova (2023-); SOR: Republican Socio-Political Movement Equality,Police Forces of Moldova (2023-),Protesters (Moldova),Moldova,Chisinau,,Chisinau,47.0056,28.8575,1,National-Regional,0,MDA
+MDA1505,2023-03-13,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); SOR: Republican Socio-Political Movement Equality,,,Moldova,Chisinau,Botanica,Chisinau - Botanica,46.9862,28.8575,1,National,0,MDA
+MDA1506,2023-03-14,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); SOR: Republican Socio-Political Movement Equality,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1510,2023-03-15,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); SOR: Republican Socio-Political Movement Equality,,,Moldova,Chisinau,Botanica,Chisinau - Botanica,46.9862,28.8575,1,National,0,MDA
+MDA1515,2023-03-16,1,Riots,Violent demonstration,Rioters (Moldova),Government of Moldova (2023-); SOR: Republican Socio-Political Movement Equality,Protesters (Moldova),Former Military Forces of Moldova (2023-); Police Forces of Moldova (2023-),Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1516,2023-03-11,1,Strategic developments,Arrests,Police Forces of Moldova (2023-),,Civilians (Moldova),Civilians (Russia); Police Forces of Russia (2000-) Federal Security Service,Moldova,Chisinau,,Chisinau,47.0056,28.8575,3,National-International,0,MDA
+MDA1519,2023-03-21,1,Protests,Peaceful protest,Protesters (Moldova),Labor Group (Moldova),,,Moldova,Chisinau,Botanica,Chisinau - Botanica,46.9862,28.8575,1,National,0,MDA
+MDA1521,2023-03-17,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Chisinau,Centru,Chisinau - Centru,47.0208,28.8381,1,National,0,MDA
+MDA1522,2023-03-20,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Chisinau,Centru,Chisinau - Centru,47.0208,28.8381,1,National,0,MDA
+MDA1523,2023-03-26,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1524,2023-04-03,1,Protests,Peaceful protest,Protesters (Moldova),Civilians (International); EU: European Union; Government of the United States (2021-2025); Refugees/IDPs (Ukraine); Romani Ethnic Group (Moldova); UN: United Nations; Women (Moldova); Women (Ukraine),,,Moldova,Chisinau,,Chisinau,47.0056,28.8575,1,National,0,MDA
+MDA1529,2023-04-19,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Chisinau,Centru,Chisinau - Centru,47.0208,28.8381,1,National,0,MDA
+MDA1530,2023-04-27,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); Independent Politicians (Moldova),,,Moldova,Chisinau,Centru,Chisinau - Centru,47.0208,28.8381,1,National,0,MDA
+MDA1533,2023-05-03,1,Protests,Peaceful protest,Protesters (Moldova),Journalists (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1534,2023-05-01,1,Protests,Peaceful protest,Protesters (Moldova),Labor Group (Moldova),,,Moldova,Chisinau,,Chisinau,47.0056,28.8575,1,National,0,MDA
+MDA1535,2023-05-07,1,Protests,Protest with intervention,Protesters (Moldova),Government of Moldova (2023-); SOR: Republican Socio-Political Movement Equality,Police Forces of Moldova (2023-),Protesters (Moldova),Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1536,2023-05-02,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Chisinau,Ciocana,Chisinau - Ciocana,47.0328,28.8997,1,National,0,MDA
+MDA1537,2023-05-12,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1540,2023-05-15,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); SOR: Republican Socio-Political Movement Equality,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1541,2023-05-16,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); SOR: Republican Socio-Political Movement Equality,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1544,2023-05-21,1,Protests,Peaceful protest,Protesters (Moldova),EU: European Union; Government of Moldova (2023-); Government of Romania (2021-2023); Government of the United States (2021-2025); PAS: Party of Action and Solidarity,,,Moldova,Chisinau,,Chisinau,47.0056,28.8575,1,National-International,0,MDA
+MDA1545,2023-05-26,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); PCRM: Party of Communists of the Republic of Moldova; PSRM: Party of Socialists of the Republic of Moldova,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1551,2023-05-25,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1553,2023-05-31,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Chisinau,,Chisinau,47.0056,28.8575,1,National,0,MDA
+MDA1575,2023-06-03,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); PCRM: Party of Communists of the Republic of Moldova; PR: Party of Revival (Moldova); SOR: Republican Socio-Political Movement Equality,,,Moldova,Chisinau,,Chisinau,47.0056,28.8575,1,National,0,MDA
+MDA1576,2023-06-07,1,Protests,Peaceful protest,Protesters (Moldova),PR: Party of Revival (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National-Regional,0,MDA
+MDA1577,2023-06-09,1,Protests,Peaceful protest,Protesters (Moldova),Protesters (Ukraine),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1580,2023-06-15,1,Protests,Peaceful protest,Protesters (Moldova),Orthodox Christian Group (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1581,2023-06-12,1,Protests,Peaceful protest,Protesters (Moldova),PR: Party of Revival (Moldova),Protesters (Moldova),,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1582,2023-06-12,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1583,2023-06-13,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); SOR: Republican Socio-Political Movement Equality,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1584,2023-06-15,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); PR: Party of Revival (Moldova); SOR: Republican Socio-Political Movement Equality,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1585,2023-06-19,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Chisinau,,Chisinau,47.0056,28.8575,1,National,0,MDA
+MDA1587,2023-06-20,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1588,2023-06-21,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1589,2023-06-22,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1590,2023-06-18,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); Government of Sweden (2019-); Government of the United States (2021-2025); LGBTQ+ (Moldova); PAS: Party of Action and Solidarity,Protesters (Moldova),Independent Politicians (Moldova); Orthodox Christian Group (Moldova),Moldova,Chisinau,,Chisinau,47.0056,28.8575,1,National-International,0,MDA
+MDA1591,2023-06-20,1,Protests,Peaceful protest,Protesters (Moldova),PR: Party of Revival (Moldova); PSRM: Party of Socialists of the Republic of Moldova; SOR: Republican Socio-Political Movement Equality,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1592,2023-06-19,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); SOR: Republican Socio-Political Movement Equality,Protesters (Moldova),,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1593,2023-06-19,1,Strategic developments,Other,Government of Moldova (2023-),,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National-International,0,MDA
+MDA1594,2023-06-20,1,Riots,Violent demonstration,Rioters (Moldova),Government of Moldova (2023-); SOR: Republican Socio-Political Movement Equality,Police Forces of Moldova (2023-),,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1595,2023-06-24,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1596,2023-06-25,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1597,2023-06-26,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1598,2023-06-27,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1599,2023-06-29,1,Protests,Peaceful protest,Protesters (Moldova),Gagauz Ethnic Group (Moldova); SOR: Republican Socio-Political Movement Equality,,,Moldova,Chisinau,Centru,Chisinau - Centru,47.0208,28.8381,1,National,0,MDA
+MDA1600,2023-06-26,1,Protests,Peaceful protest,Protesters (Moldova),Labor Group (Moldova),,,Moldova,Chisinau,,Chisinau,47.0056,28.8575,1,National,0,MDA
+MDA1601,2023-07-03,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); Independent Politicians (Moldova); Labor Group (Moldova); PR: Party of Revival (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1602,2023-06-30,1,Protests,Peaceful protest,Protesters (Moldova),Labor Group (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1604,2023-07-07,1,Protests,Peaceful protest,Protesters (Moldova),PR: Party of Revival (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1605,2023-07-11,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); PR: Party of Revival (Moldova); SOR: Republican Socio-Political Movement Equality,,,Moldova,Chisinau,Centru,Chisinau - Centru,47.0208,28.8381,1,National,0,MDA
+MDA1607,2023-07-17,1,Protests,Peaceful protest,Protesters (Moldova),Labor Group (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1609,2023-07-18,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1611,2023-07-23,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1612,2023-08-03,1,Protests,Peaceful protest,Protesters (Moldova),PR: Party of Revival (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1614,2023-07-31,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Chisinau,Centru,Chisinau - Centru,47.0208,28.8381,1,National,0,MDA
+MDA1616,2023-08-14,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1617,2023-08-14,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,Regional,0,MDA
+MDA1618,2023-08-17,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Ialoveni,Ialoveni,Ialoveni,46.9435,28.7823,1,National,0,MDA
+MDA1619,2023-08-08,1,Protests,Peaceful protest,Protesters (Moldova),PR: Party of Revival (Moldova),,,Moldova,Chisinau,Centru,Chisinau - Centru,47.0208,28.8381,1,National,0,MDA
+MDA1621,2023-08-21,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); PDA: Democracy at Home,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1622,2023-08-24,1,Protests,Peaceful protest,Protesters (Moldova),PR: Party of Revival (Moldova),,,Moldova,Chisinau,Centru,Chisinau - Centru,47.0208,28.8381,1,National,0,MDA
+MDA1624,2023-08-30,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1625,2023-08-30,1,Protests,Peaceful protest,Protesters (Moldova),PR: Party of Revival (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,Regional,0,MDA
+MDA1629,2023-09-07,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1631,2023-09-15,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); PR: Party of Revival (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1632,2023-09-14,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1633,2023-09-20,1,Protests,Peaceful protest,Protesters (Moldova),Former Military Forces of Moldova (2023-); Former Police Forces of Moldova (2023-),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1638,2023-10-04,1,Protests,Peaceful protest,Protesters (Moldova),Former Military Forces of Moldova (2023-); Former Police Forces of Moldova (2023-),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1639,2023-10-04,1,Protests,Peaceful protest,Protesters (Moldova),Orthodox Christian Group (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1640,2023-10-01,1,Protests,Peaceful protest,Protesters (Moldova),PLDM: Liberal Democratic Party of Moldova,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1642,2023-10-03,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); SOR: Republican Socio-Political Movement Equality,Protesters (Moldova),,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1648,2023-10-19,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1649,2023-10-23,1,Protests,Peaceful protest,Protesters (Moldova),PR: Party of Revival (Moldova),,,Moldova,Chisinau,,Chisinau,47.0056,28.8575,1,National,0,MDA
+MDA1650,2023-10-27,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); SOR: Republican Socio-Political Movement Equality,,,Moldova,Chisinau,,Chisinau,47.0056,28.8575,1,National,0,MDA
+MDA1653,2023-10-28,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); PAS: Party of Action and Solidarity,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1655,2023-11-03,1,Strategic developments,Other,Government of Moldova (2023-),,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National-International,0,MDA
+MDA1656,2023-11-07,1,Protests,Peaceful protest,Protesters (Moldova),Labor Group (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1657,2023-11-09,1,Protests,Peaceful protest,Protesters (Moldova),Labor Group (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1658,2023-11-05,1,Protests,Peaceful protest,Protesters (Moldova),SOR: Republican Socio-Political Movement Equality,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National-Regional,0,MDA
+MDA1660,2023-11-05,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Chisinau,Centru,Chisinau - Centru,47.0208,28.8381,1,National,0,MDA
+MDA1661,2023-11-04,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1663,2023-11-19,1,Protests,Peaceful protest,Protesters (Moldova),AI: Amnesty International,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1664,2023-11-22,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Chisinau,Centru,Chisinau - Centru,47.0208,28.8381,1,National,0,MDA
+MDA1665,2023-11-24,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1666,2023-11-23,1,Protests,Peaceful protest,Protesters (Moldova),Labor Group (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1668,2023-11-23,1,Riots,Violent demonstration,Rioters (Moldova),Farmers (Moldova),Police Forces of Moldova (2023-),,Moldova,Chisinau,,Chisinau,47.0056,28.8575,1,National,0,MDA
+MDA1669,2023-12-01,1,Protests,Peaceful protest,Protesters (Moldova),Belarusian Group (Moldova); Government of Moldova (2023-); PAS: Party of Action and Solidarity,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1670,2023-12-08,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1671,2023-12-07,1,Protests,Peaceful protest,Protesters (Moldova),Former Military Forces of Moldova (2023-),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1672,2023-12-05,1,Protests,Peaceful protest,Protesters (Moldova),Farmers (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1673,2023-12-05,1,Protests,Peaceful protest,Protesters (Moldova),Orthodox Christian Group (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1674,2023-12-12,1,Protests,Peaceful protest,Protesters (Moldova),Health Workers (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1675,2023-12-14,1,Protests,Peaceful protest,Protesters (Moldova),Civic Congress (Moldova),,,Moldova,Chisinau,Centru,Chisinau - Centru,47.0208,28.8381,1,National,0,MDA
+MDA1676,2023-12-15,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1677,2023-12-15,1,Protests,Peaceful protest,Protesters (Moldova),,,,Moldova,Chisinau,,Chisinau,47.0056,28.8575,1,National,0,MDA
+MDA1678,2023-12-19,1,Protests,Peaceful protest,Protesters (Moldova),Former Government of Moldova (2023-); Health Workers (Moldova); Independent Politicians (Moldova); PR: Party of Revival (Moldova),,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1679,2023-12-20,1,Strategic developments,Change to group/activity,Military Forces of Moldova (2023-),,,,Moldova,Chisinau,,Chisinau,47.0056,28.8575,3,National-International,0,MDA
+MDA1680,2023-12-27,1,Protests,Peaceful protest,Protesters (Moldova),Government of Moldova (2023-); PSRM: Party of Socialists of the Republic of Moldova,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National,0,MDA
+MDA1458,2023-01-15,1,Strategic developments,Disrupted weapons use,Military Forces of Moldova (2021-2023),Police Forces of Moldova (2021-2023),Military Forces of Russia (2000-),,Moldova,Briceni,Larga,Larga,48.372,26.842,2,National-International,0,MDA
+MDA1481,2023-03-09,2,Strategic developments,Disrupted weapons use,Police Forces of Transnistria (2016-) Ministry of State Security,,Unidentified Armed Group (Moldova),Civilians (Ukraine); Police Forces of Ukraine (2019-) Security Service of Ukraine,Moldova,Tiraspol,Tiraspol,Tiraspol,46.8427,29.6291,1,Subnational-National,0,MDA
+MDA1517,2023-03-16,1,Strategic developments,Other,Government of Moldova (2023-),,,,Moldova,Chisinau,Buiucani,Chisinau - Buiucani,47.0251,28.7975,1,National-International,0,MDA

@@ -1,0 +1,586 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+TUN10800,2024-01-02,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN10801,2024-01-02,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Gabes,Gabes Medina,Gabes,33.8815,10.0982,1,National,0,TUN
+TUN10803,2024-01-04,1,Protests,Peaceful protest,Protesters (Tunisia),Farmers (Tunisia),,,Tunisia,Beja,Beja Nord,Beja,36.7256,9.1817,1,National,0,TUN
+TUN10804,2024-01-04,1,Protests,Peaceful protest,Protesters (Tunisia),Students (Tunisia),,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN10805,2024-01-04,1,Protests,Peaceful protest,Protesters (Tunisia),Students (Tunisia),,,Tunisia,Nabeul,Kelibia,Kelibia,36.8476,11.0939,2,National,0,TUN
+TUN10806,2024-01-04,1,Protests,Peaceful protest,Protesters (Tunisia),Farmers (Tunisia); Taxi Drivers (Tunisia),,,Tunisia,Nabeul,Korba,Korba,36.5786,10.8586,2,National,0,TUN
+TUN10807,2024-01-04,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN10809,2024-01-05,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN10812,2024-01-10,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Jendouba,Jendouba,Jendouba,36.5011,8.7802,2,National,0,TUN
+TUN10813,2024-01-09,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Medenine,Ben Guerdane,Ben Gardane,33.1378,11.2197,1,National,0,TUN
+TUN10814,2024-01-12,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia); URT: Regional Labour Union,,,Tunisia,Kebili,Kebeli Nord,Kebili,33.7044,8.969,1,National,0,TUN
+TUN10815,2024-01-08,1,Protests,Peaceful protest,Protesters (Tunisia),Lawyers (Tunisia),,,Tunisia,Kasserine,Ezzouhour,Kasserine,35.1676,8.8365,1,National,0,TUN
+TUN10816,2024-01-09,1,Protests,Peaceful protest,Protesters (Tunisia),Lawyers (Tunisia),,,Tunisia,Kasserine,Ezzouhour,Kasserine,35.1676,8.8365,1,National,0,TUN
+TUN10819,2024-01-12,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN10820,2024-01-13,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN10822,2024-01-14,1,Protests,Peaceful protest,Protesters (Tunisia),URT: Regional Labour Union; Labor Group (Tunisia),,,Tunisia,Kebili,Kebeli Nord,Kebili,33.7044,8.969,1,National,0,TUN
+TUN10824,2024-01-15,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Gafsa,Gafsa Sud,Gafsa,34.425,8.7417,1,National,0,TUN
+TUN10825,2024-01-15,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Kef,Kef Est,El Kef,36.1742,8.7049,1,National,0,TUN
+TUN10826,2024-01-16,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Gafsa,Gafsa Sud,Gafsa,34.425,8.7417,1,National,0,TUN
+TUN10827,2024-01-16,1,Riots,Violent demonstration,Rioters (Tunisia),,,,Tunisia,Kasserine,Feriana,Feriana,34.9453,8.5679,1,National,0,TUN
+TUN10828,2024-01-16,1,Riots,Violent demonstration,Rioters (Tunisia),,,,Tunisia,Sfax,El Hencha,Hencha,35.1223,10.7422,1,National,0,TUN
+TUN10831,2024-01-19,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN10832,2024-01-19,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Gafsa,Metlaoui,Metlaoui,34.3208,8.4016,1,National,0,TUN
+TUN10833,2024-01-20,1,Riots,Violent demonstration,Rioters (Tunisia),Street Traders (Tunisia),,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,1,National,0,TUN
+TUN10835,2024-01-26,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Jendouba,Jendouba,Jendouba,36.5011,8.7802,1,National,0,TUN
+TUN10836,2024-01-19,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Mahdia,Mahdia,Mahdia,35.5047,11.0622,1,National,0,TUN
+TUN10838,2024-01-22,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Kasserine,Hidra,Haidra,35.5663,8.4441,2,National,0,TUN
+TUN10839,2024-01-24,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,1,National,0,TUN
+TUN10840,2024-01-24,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Nabeul,Nabeul,Nabeul,36.4513,10.7356,1,National,0,TUN
+TUN10841,2024-01-25,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Kef,Tajerouine,Tajerouine,35.8917,8.5528,1,National,0,TUN
+TUN10842,2024-01-26,1,Protests,Peaceful protest,Protesters (International),Migrants (International),,,Tunisia,Medenine,Zarzis,Zarzis,33.504,11.1122,1,National,0,TUN
+TUN10845,2024-02-01,1,Protests,Peaceful protest,Protesters (Tunisia),Farmers (Tunisia),,,Tunisia,Kef,Es-Sers,As Sars,36.0764,9.0212,1,National,0,TUN
+TUN10846,2024-02-01,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tataouine,Tataouine Nord,Tataouine,32.9297,10.4518,1,National,0,TUN
+TUN10848,2024-01-29,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN10849,2024-02-01,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia); Teachers (Tunisia),,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN10850,2024-02-02,1,Riots,Violent demonstration,Rioters (Tunisia),Students (Tunisia),,,Tunisia,Jendouba,Ghardimaou,Ghardimaou,36.4479,8.4413,1,National,0,TUN
+TUN10851,2024-02-05,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Jendouba,Tabarka,Tabarka,36.9544,8.758,2,National,0,TUN
+TUN10852,2024-02-05,1,Protests,Peaceful protest,Protesters (Tunisia),Farmers (Tunisia); Labor Group (Tunisia); Women (Tunisia),,,Tunisia,Sfax,Djebeniana,Jabinyanah,35.0333,10.9167,1,National,0,TUN
+TUN10854,2024-02-06,1,Protests,Peaceful protest,Protesters (Tunisia),ATFD: Tunisian Association of Democratic Women; Women (Tunisia),,,Tunisia,Kef,Kef Est,El Kef,36.1742,8.7049,1,National,0,TUN
+TUN10855,2024-02-06,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia); Teachers (Tunisia); UGTT: Tunisian General Labour Union,,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN10859,2024-02-08,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Gafsa,Gafsa Sud,Gafsa,34.425,8.7417,1,National,0,TUN
+TUN10860,2024-02-08,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Jendouba,Jendouba,Jendouba,36.5011,8.7802,1,National,0,TUN
+TUN10861,2024-02-08,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,1,National,0,TUN
+TUN10862,2024-02-09,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN10865,2024-02-16,1,Protests,Peaceful protest,Protesters (Tunisia),Fishers (Tunisia),,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN10866,2024-02-15,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tataouine,Tataouine Nord,Tataouine,32.9297,10.4518,1,National,0,TUN
+TUN10867,2024-02-14,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tataouine,Dhehiba,Dehiba,32.008,10.7014,1,National,0,TUN
+TUN10868,2024-02-13,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tataouine,Tataouine Nord,Tataouine,32.9297,10.4518,1,National,0,TUN
+TUN10870,2024-02-15,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Kairouan,Bouhajla,Bouhajla,35.3684,10.055,1,National,0,TUN
+TUN10874,2024-02-14,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN10875,2024-02-13,1,Protests,Peaceful protest,Protesters (Tunisia),SNFSI: National Union of Internal Security Forces,,,Tunisia,Nabeul,Hammamet,Hammamet,36.4,10.6167,1,National,0,TUN
+TUN10876,2024-02-15,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Nabeul,Nabeul,Nabeul,36.4513,10.7356,1,National,0,TUN
+TUN10877,2024-02-12,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,1,National,0,TUN
+TUN10878,2024-02-14,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Medenine,Medenine Sud,Medenine,33.355,10.5055,1,National,0,TUN
+TUN10879,2024-02-12,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Sousse,Sousse Medina,Sousse,35.8254,10.637,1,National,0,TUN
+TUN10880,2024-02-12,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN10881,2024-02-10,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN10882,2024-02-16,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN10883,2024-02-13,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Gafsa,Gafsa Sud,Gafsa,34.425,8.7417,1,National,0,TUN
+TUN10884,2024-02-11,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN10885,2024-02-16,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Sousse,Enfidha,Enfida,36.1353,10.3808,1,National,0,TUN
+TUN10888,2024-02-17,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN10890,2024-02-18,1,Protests,Peaceful protest,Protesters (Tunisia),Fishers (Tunisia),,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,2,National,0,TUN
+TUN10891,2024-02-18,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tataouine,Tataouine Nord,Tataouine,32.9297,10.4518,1,National,0,TUN
+TUN10892,2024-02-19,1,Protests,Peaceful protest,Protesters (Tunisia),Farmers (Tunisia),,,Tunisia,Jendouba,Balta - Bou Aouane,Bousalem,36.6169,8.9669,1,National,0,TUN
+TUN10893,2024-02-19,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Kairouan,Sbikha,Sbikha,35.9333,10.0208,1,National,0,TUN
+TUN10894,2024-02-19,1,Strategic developments,Arrests,Military Forces of Tunisia (2019-) National Guard,,Unidentified Clan Militia (Tunisia),,Tunisia,Kasserine,Ezzouhour,Kasserine,35.1676,8.8365,2,National,0,TUN
+TUN10895,2024-02-20,1,Protests,Peaceful protest,Protesters (Tunisia),Farmers (Tunisia),,,Tunisia,Jendouba,Tabarka,Tabarka,36.9544,8.758,1,National,0,TUN
+TUN10896,2024-02-21,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Siliana,El Krib,Le Krib,36.328,9.1361,1,National,0,TUN
+TUN10897,2024-02-22,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Kef,Kef Est,El Kef,36.1742,8.7049,1,National,0,TUN
+TUN10898,2024-02-22,1,Protests,Peaceful protest,Protesters (Tunisia),Farmers (Tunisia),,,Tunisia,Jendouba,Tabarka,Tabarka,36.9544,8.758,1,National,0,TUN
+TUN10899,2024-02-22,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,1,National,0,TUN
+TUN10900,2024-02-22,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Kef,Kef Est,El Kef,36.1742,8.7049,1,National,0,TUN
+TUN10902,2024-02-23,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia); Students (Tunisia),,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN10903,2024-02-23,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Nabeul,Grombalia,Grombalia,36.5989,10.5003,2,National,0,TUN
+TUN10904,2024-02-24,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN10905,2024-02-24,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Sousse,Sousse Medina,Sousse,35.8254,10.637,1,National,0,TUN
+TUN10907,2024-02-26,1,Protests,Peaceful protest,Protesters (Tunisia),Health Workers (Tunisia),,,Tunisia,Gafsa,Redeyef,Redeyef,34.3827,8.1555,1,National,0,TUN
+TUN10908,2024-02-26,1,Protests,Peaceful protest,Protesters (Tunisia),Journalists (Tunisia); LTDH: Tunisian Human Rights League,,,Tunisia,Mahdia,Mahdia,Mahdia,35.5047,11.0622,1,National,0,TUN
+TUN10909,2024-02-26,1,Protests,Peaceful protest,Protesters (Tunisia),Journalists (Tunisia),,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN10911,2024-02-28,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Beja,Beja Nord,Beja,36.7256,9.1817,1,National,0,TUN
+TUN10912,2024-02-28,1,Protests,Peaceful protest,Protesters (Tunisia),Lawyers (Tunisia),,,Tunisia,Mahdia,Mahdia,Mahdia,35.5047,11.0622,1,National,0,TUN
+TUN10913,2024-02-28,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Medenine,Ben Guerdane,Ben Gardane,33.1378,11.2197,2,National,0,TUN
+TUN10914,2024-02-29,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Kebili,Kebeli Nord,Kebili,33.7044,8.969,1,National,0,TUN
+TUN10915,2024-03-01,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia); Students (Tunisia),,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN10916,2024-03-01,1,Protests,Peaceful protest,Protesters (Tunisia),Students (Tunisia),,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN10917,2024-03-05,1,Protests,Peaceful protest,Protesters (Tunisia),Fishers (Tunisia); Labor Group (Tunisia),,,Tunisia,Sfax,Mahres,Mahras,34.5275,10.5008,1,National,0,TUN
+TUN10918,2024-03-08,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Sfax,Sakiet Eddaier,Sakiet Ed Daier,34.7944,10.8062,1,National,0,TUN
+TUN10919,2024-03-04,1,Protests,Peaceful protest,Protesters (Tunisia),Street Traders (Tunisia),,,Tunisia,Sousse,Sousse Medina,Sousse,35.8254,10.637,1,National,0,TUN
+TUN10922,2024-03-05,1,Riots,Violent demonstration,Rioters (Tunisia),,,,Tunisia,Gabes,Gabes Medina,Gabes,33.8815,10.0982,1,National,0,TUN
+TUN10923,2024-03-05,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Jendouba,Tabarka,Tabarka,36.9544,8.758,1,National,0,TUN
+TUN10924,2024-03-05,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,1,National,0,TUN
+TUN10925,2024-03-05,1,Protests,Peaceful protest,Protesters (Tunisia),Lawyers (Tunisia),,,Tunisia,Mahdia,Mahdia,Mahdia,35.5047,11.0622,1,National,0,TUN
+TUN10926,2024-03-05,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN10927,2024-03-05,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Sidi Bouzid,Sidi Bouzid Ouest,Sidi Bouzid,35.0382,9.4849,1,National,0,TUN
+TUN10929,2024-03-06,1,Protests,Peaceful protest,Protesters (Tunisia),Lawyers (Tunisia),,,Tunisia,Kasserine,Ezzouhour,Kasserine,35.1676,8.8365,1,National,0,TUN
+TUN10932,2024-03-07,1,Protests,Peaceful protest,Protesters (Tunisia),Health Workers (Tunisia),,,Tunisia,Bizerte,Menzel Bourguiba,Menzel Bourguiba,37.1537,9.7859,1,National,0,TUN
+TUN10933,2024-03-07,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,La Marsa,La Marsa,36.8764,10.3252,1,National,0,TUN
+TUN10934,2024-03-08,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN10935,2024-03-08,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Mahdia,Ksour Essef,Ksour Essaf,35.4181,10.9948,1,National,0,TUN
+TUN10938,2024-03-13,1,Riots,Mob violence,Rioters (Tunisia),,Police Forces of Tunisia (2019-),Civilians (Tunisia),Tunisia,Tunis,Sidi Hassine,Sidi Hassine,36.7421,10.1023,1,National,0,TUN
+TUN10941,2024-03-12,1,Protests,Peaceful protest,Protesters (Tunisia),Health Workers (Tunisia),,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN10943,2024-03-14,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN10944,2024-03-09,1,Protests,Peaceful protest,Protesters (Tunisia),Lawyers (Tunisia); LTDH: Tunisian Human Rights League; Students (Tunisia),,,Tunisia,Beja,Beja Nord,Beja,36.7256,9.1817,1,National,0,TUN
+TUN10945,2024-03-09,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia); Students (Tunisia); Women (Tunisia),,,Tunisia,Jendouba,Jendouba,Jendouba,36.5011,8.7802,1,National,0,TUN
+TUN10946,2024-03-11,1,Protests,Peaceful protest,Protesters (Tunisia),ATFD: Tunisian Association of Democratic Women; Health Workers (Tunisia); Labor Group (Tunisia); Lawyers (Tunisia); LTT: Tunisian League for Tolerance; Protesters (Palestine); Students (Tunisia); UGET: General Union of Tunisian Students; UNFT: National Union of Tunisian Women; Women (Tunisia),,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN10948,2024-03-15,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN10949,2024-03-18,1,Protests,Protest with intervention,Protesters (Tunisia),Taxi Drivers (Tunisia),Military Forces of Tunisia (2019-) National Guard,,Tunisia,Tunis,Carthage,Carthage,36.861,10.332,2,National,0,TUN
+TUN10950,2024-03-18,1,Battles,Armed clash,Military Forces of Libya (2021-) Government of National Unity (GNU),,Police Forces of Libya (2021-) Government of National Unity (GNU),,Tunisia,Medenine,Ben Guerdane,Rass Adjir,33.1485,11.5538,1,National,0,TUN
+TUN10951,2024-03-18,1,Riots,Mob violence,Rioters (Tunisia),,,,Tunisia,Kasserine,Ezzouhour,Kasserine,35.1676,8.8365,1,National,0,TUN
+TUN10953,2024-03-19,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Nabeul,Grombalia,Grombalia,36.5989,10.5003,1,National,0,TUN
+TUN10954,2024-03-19,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN10955,2024-03-22,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN10957,2024-03-26,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Gafsa,Gafsa Sud,Gafsa,34.425,8.7417,1,National,0,TUN
+TUN10960,2024-03-23,1,Protests,Peaceful protest,Protesters (Tunisia),URT: Regional Labour Union,,,Tunisia,Kebili,Kebeli Nord,Kebili,33.7044,8.969,1,National,0,TUN
+TUN10963,2024-03-29,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN10964,2024-03-24,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Clan Militia (Tunisia),,Civilians (Tunisia),,Tunisia,Kasserine,Sbiba,Jebel Mghila,35.4013,9.2063,1,National,0,TUN
+TUN10965,2024-03-30,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Kef,Kef Est,El Kef,36.1742,8.7049,1,National,0,TUN
+TUN10966,2024-03-30,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia); Lawyers (Tunisia); LTDH: Tunisian Human Rights League; UGTT: Tunisian General Labour Union,,,Tunisia,Gafsa,Gafsa Sud,Gafsa,34.425,8.7417,1,National,0,TUN
+TUN10967,2024-03-30,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Nabeul,Nabeul,Nabeul,36.4513,10.7356,1,National,0,TUN
+TUN10968,2024-03-31,1,Protests,Peaceful protest,Protesters (Tunisia),Health Workers (Tunisia); Labor Group (Tunisia); Lawyers (Tunisia); OJTM: Tunisian Organisation of Young Doctors,,,Tunisia,Gafsa,Oum El Araies,Oum Larais,34.4891,8.2595,1,National,0,TUN
+TUN10970,2024-04-01,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Gafsa,Gafsa Sud,Gafsa,34.425,8.7417,1,National,0,TUN
+TUN10971,2024-04-01,1,Protests,Peaceful protest,Protesters (Tunisia),Farmers (Tunisia),,,Tunisia,Jendouba,Jendouba,Jendouba,36.5011,8.7802,1,National,0,TUN
+TUN10972,2024-04-01,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN10973,2024-04-02,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN10974,2024-04-02,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,1,National,0,TUN
+TUN10975,2024-04-02,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Kasserine,Sbiba,Sbiba,35.5433,9.0737,1,National,0,TUN
+TUN10976,2024-04-02,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Nabeul,Grombalia,Grombalia,36.5989,10.5003,1,National,0,TUN
+TUN10977,2024-04-03,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Kairouan,Sbikha,Sbikha,35.9333,10.0208,1,National,0,TUN
+TUN10978,2024-04-03,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Tataouine,Tataouine Nord,Tataouine,32.9297,10.4518,1,National,0,TUN
+TUN10979,2024-04-04,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Kairouan,Sbikha,Sbikha,35.9333,10.0208,1,National,0,TUN
+TUN10980,2024-04-04,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN10981,2024-04-04,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Siliana,Siliana Nord,Siliana,36.085,9.3708,2,National,0,TUN
+TUN10982,2024-04-05,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Gabes,Gabes Medina,Gabes,33.8815,10.0982,1,National,0,TUN
+TUN10983,2024-04-05,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Medenine,Zarzis,Zarzis,33.504,11.1122,1,National,0,TUN
+TUN10984,2024-04-05,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Nabeul,Nabeul,Nabeul,36.4513,10.7356,1,National,0,TUN
+TUN10985,2024-04-05,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Sousse,Sousse Medina,Sousse,35.8254,10.637,1,National,0,TUN
+TUN10988,2024-03-30,1,Riots,Violent demonstration,Rioters (Tunisia),,Police Forces of Tunisia (2019-),,Tunisia,Medenine,Ben Guerdane,Ben Gardane,33.1378,11.2197,1,National,0,TUN
+TUN10989,2024-04-10,1,Riots,Mob violence,Rioters (Tunisia),Migrants (Tunisia),Police Forces of Tunisia (2019-),,Tunisia,Gafsa,Metlaoui,Metlaoui,34.3208,8.4016,2,National,0,TUN
+TUN10990,2024-04-06,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Nabeul,Nabeul,Nabeul,36.4513,10.7356,1,National,0,TUN
+TUN10991,2024-04-06,1,Protests,Peaceful protest,Protesters (Tunisia),Muslim Group (Tunisia),,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN10993,2024-04-08,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Manubah,Mornaguia,Mornaguia,36.7717,10.011,1,National,0,TUN
+TUN10995,2024-04-10,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,1,National,0,TUN
+TUN10996,2024-04-10,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Sousse,Sousse Medina,Sousse,35.8254,10.637,1,National,0,TUN
+TUN10997,2024-04-12,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN10998,2024-04-12,1,Protests,Peaceful protest,Protesters (Tunisia),Farmers (Tunisia),,,Tunisia,Jendouba,Balta - Bou Aouane,Bousalem,36.6169,8.9669,1,National,0,TUN
+TUN10999,2024-04-12,1,Protests,Peaceful protest,Protesters (Tunisia),Farmers (Tunisia),,,Tunisia,Jendouba,Tabarka,Tabarka,36.9544,8.758,1,National,0,TUN
+TUN11000,2024-04-17,1,Protests,Peaceful protest,Protesters (Tunisia),Farmers (Tunisia),,,Tunisia,Jendouba,Jendouba,Jendouba,36.5011,8.7802,1,National,0,TUN
+TUN11001,2024-04-16,1,Protests,Peaceful protest,Protesters (Tunisia),Fishers (Tunisia),,,Tunisia,Gabes,Gabes Medina,Gabes,33.8815,10.0982,1,National,0,TUN
+TUN11002,2024-04-15,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tozeur,Tozeur,Tozeur,33.9197,8.1335,1,National,0,TUN
+TUN11004,2024-04-17,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Medenine,Medenine Sud,Medenine,33.355,10.5055,1,National,0,TUN
+TUN11006,2024-04-16,1,Protests,Peaceful protest,Protesters (Tunisia),Students (Tunisia),,,Tunisia,Jendouba,Oued Meliz,Oued Meliz,36.4681,8.5495,1,National,0,TUN
+TUN11007,2024-04-15,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN11009,2024-04-18,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Medenine,Medenine Sud,Medenine,33.355,10.5055,1,National,0,TUN
+TUN11011,2024-04-16,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN10799,2024-01-01,1,Protests,Peaceful protest,Protesters (Tunisia),Journalists (Tunisia); SNJT: National Union of Tunisian Journalists,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10802,2024-01-03,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10808,2024-01-04,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10810,2024-01-05,1,Protests,Peaceful protest,Protesters (Tunisia),Lawyers (Tunisia),,,Tunisia,Manubah,Mannouba,Manubah,36.808,10.0972,1,National,0,TUN
+TUN10811,2024-01-10,1,Protests,Peaceful protest,Protesters (Tunisia),Journalists (Tunisia); SNJT: National Union of Tunisian Journalists,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10817,2024-01-07,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10818,2024-01-11,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10821,2024-01-13,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10829,2024-01-17,1,Riots,Violent demonstration,Rioters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,2,National,0,TUN
+TUN10834,2024-01-21,1,Protests,Peaceful protest,Protesters (Tunisia),PDL: Free Constitution Party,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10837,2024-01-19,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,3,National,0,TUN
+TUN10844,2024-01-28,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10847,2024-01-27,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10853,2024-02-06,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia); PPDU: Unified Democratic Patriots Party,,,Tunisia,Ariana,Ariana Medina,El Menzah 6,36.8495,10.1626,1,National,0,TUN
+TUN10856,2024-02-06,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10857,2024-02-06,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,International,0,TUN
+TUN10864,2024-02-10,1,Riots,Mob violence,Rioters (Tunisia),,Military Forces of Tunisia (2019-) National Guard,,Tunisia,Ariana,Ariana Medina,Ariana,36.8601,10.1934,1,National,0,TUN
+TUN10869,2024-02-15,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10871,2024-02-13,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10872,2024-02-14,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10873,2024-02-14,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10886,2024-02-16,1,Protests,Protest with intervention,Protesters (Tunisia),,Police Forces of Tunisia (2019-),,Tunisia,Tunis,Sijoumi,Mellasine,36.7957,10.1515,2,National,0,TUN
+TUN10887,2024-02-23,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10889,2024-02-17,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10901,2024-02-22,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10910,2024-02-26,1,Protests,Peaceful protest,Protesters (Tunisia),Journalists (Tunisia),,,Tunisia,Tunis,Bab El Bhar,Bab El Bhar,36.797,10.177,1,National,0,TUN
+TUN10920,2024-03-02,1,Protests,Peaceful protest,Protesters (Tunisia),UGTT: Tunisian General Labour Union,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,International,0,TUN
+TUN10921,2024-03-03,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10928,2024-03-05,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10930,2024-03-06,1,Riots,Mob violence,Rioters (Tunisia),,Military Forces of Tunisia (2019-) National Guard,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10931,2024-03-06,1,Protests,Peaceful protest,Protesters (Tunisia),Journalists (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10936,2024-03-08,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10937,2024-03-08,1,Protests,Peaceful protest,Protesters (Tunisia),ATFD: Tunisian Association of Democratic Women; Women (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National-International,0,TUN
+TUN10939,2024-03-12,1,Riots,Mob violence,Rioters (Tunisia),,Rioters (Tunisia),Police Forces of Tunisia (2019-),Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10942,2024-03-11,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10947,2024-03-10,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10952,2024-03-18,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10956,2024-03-18,1,Riots,Violent demonstration,Rioters (Tunisia),,Military Forces of Tunisia (2019-) National Guard,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,2,National,0,TUN
+TUN10958,2024-03-28,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10959,2024-03-27,1,Protests,Peaceful protest,Protesters (Tunisia),PPDU: Unified Democratic Patriots Party,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10961,2024-03-25,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10962,2024-03-27,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10969,2024-03-31,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10986,2024-04-05,1,Protests,Peaceful protest,Protesters (Tunisia),Journalists (Tunisia); SNJT: National Union of Tunisian Journalists,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10987,2024-04-01,1,Protests,Protest with intervention,Protesters (Tunisia),,Police Forces of Tunisia (2019-),,Tunisia,Ariana,Soukra,Soukra,36.8774,10.2468,1,National,0,TUN
+TUN10992,2024-04-06,1,Protests,Peaceful protest,Protesters (Tunisia),Ennahda Political Party,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10994,2024-04-08,1,Protests,Peaceful protest,Protesters (Tunisia),ATFD: Tunisian Association of Democratic Women; Women (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11008,2024-04-16,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11010,2024-04-15,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11012,2024-04-17,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11013,2024-04-22,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,1,National,0,TUN
+TUN11014,2024-04-23,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tataouine,Tataouine Nord,Tataouine,32.9297,10.4518,1,National,0,TUN
+TUN11015,2024-04-23,1,Protests,Peaceful protest,Protesters (Tunisia),Lawyers (Tunisia),,,Tunisia,Mahdia,Mahdia,Mahdia,35.5047,11.0622,1,National,0,TUN
+TUN11017,2024-04-25,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN11018,2024-04-26,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11019,2024-04-22,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,1,National,0,TUN
+TUN11020,2024-04-22,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Manubah,Mannouba,Manubah,36.808,10.0972,1,National,0,TUN
+TUN11021,2024-04-23,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Sidi Bouzid,Sidi Bouzid Ouest,Sidi Bouzid,35.0382,9.4849,1,National,0,TUN
+TUN11022,2024-04-23,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11023,2024-04-24,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11024,2024-04-22,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tozeur,Tameghza,Tamaghzah,34.3885,7.9431,1,National,0,TUN
+TUN11025,2024-04-23,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Medenine,Medenine Sud,Medenine,33.355,10.5055,1,National,0,TUN
+TUN11026,2024-04-23,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Nabeul,Menzel Temime,Menzel Temime,36.7812,10.9881,1,National,0,TUN
+TUN11027,2024-04-26,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN11028,2024-04-26,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11029,2024-04-21,1,Riots,Violent demonstration,Rioters (Tunisia),,,,Tunisia,Mahdia,Mahdia,Mahdia,35.5047,11.0622,2,National,0,TUN
+TUN10830,2024-01-17,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia); Teachers (Tunisia),,,Tunisia,Tunis,La Medina,Kasbah,36.7988,10.166,1,National,0,TUN
+TUN10858,2024-02-06,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tunis,La Medina,Kasbah,36.7988,10.166,1,National,0,TUN
+TUN10863,2024-02-09,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tunis,La Medina,Kasbah,36.7988,10.166,1,National,0,TUN
+TUN11003,2024-04-16,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tunis,La Medina,Kasbah,36.7988,10.166,1,National,0,TUN
+TUN11031,2024-04-27,1,Protests,Peaceful protest,Protesters (Tunisia),Health Workers (Tunisia),,,Tunisia,Gafsa,Gafsa Sud,Gafsa,34.425,8.7417,1,National,0,TUN
+TUN11032,2024-04-28,1,Riots,Violent demonstration,Rioters (Tunisia),,Police Forces of Tunisia (2019-),,Tunisia,Mahdia,Mahdia,Mahdia,35.5047,11.0622,2,National,0,TUN
+TUN11033,2024-04-28,1,Protests,Peaceful protest,Protesters (Tunisia),Students (Tunisia); UGTE: General Tunisian Union of Students,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11034,2024-04-28,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Sidi Bouzid,Sidi Bouzid Ouest,Sidi Bouzid,35.0382,9.4849,1,National,0,TUN
+TUN11035,2024-04-29,1,Protests,Peaceful protest,Protesters (Tunisia),Students (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11036,2024-04-29,1,Riots,Mob violence,Rioters (International),Migrants (International),Police Forces of Tunisia (2019-),,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN11037,2024-04-29,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN11038,2024-04-29,1,Protests,Peaceful protest,Protesters (Tunisia),Students (Tunisia),,,Tunisia,Manubah,Mannouba,Manubah,36.808,10.0972,1,National,0,TUN
+TUN11039,2024-04-29,1,Protests,Peaceful protest,Protesters (Tunisia),Students (Tunisia),,,Tunisia,Nabeul,Bou Argoub,Bou Argoub,36.5385,10.5509,1,National,0,TUN
+TUN11040,2024-04-29,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Sousse,Sousse Medina,Sousse,35.8254,10.637,1,National,0,TUN
+TUN11041,2024-04-30,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11042,2024-04-30,1,Protests,Peaceful protest,Protesters (Tunisia),Fishers (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11043,2024-05-01,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Bizerte,Mateur,Mateur,37.0404,9.6656,1,National,0,TUN
+TUN11044,2024-05-01,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia); UGTT: Tunisian General Labour Union,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11045,2024-05-01,1,Protests,Peaceful protest,Protesters (Tunisia),Fishers (Tunisia); Labor Group (Tunisia),,,Tunisia,Medenine,Zarzis,Zarzis,33.504,11.1122,1,National,0,TUN
+TUN11046,2024-05-02,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11047,2024-05-02,1,Protests,Peaceful protest,Protesters (Tunisia),Lawyers (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11048,2024-05-02,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Tunis,Carthage,Carthage,36.861,10.332,1,National,0,TUN
+TUN11049,2024-05-02,1,Protests,Peaceful protest,Protesters (Tunisia),Students (Tunisia),,,Tunisia,Medenine,Djerba Midoun,Djerba,33.8,10.9,1,National,0,TUN
+TUN11050,2024-05-02,1,Protests,Peaceful protest,Protesters (Tunisia),Students (Tunisia),,,Tunisia,Beja,Beja Nord,Beja,36.7256,9.1817,1,National,0,TUN
+TUN11051,2024-05-02,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia); Students (Tunisia); Teachers (Tunisia),,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN11052,2024-05-03,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN11053,2024-05-03,1,Protests,Protest with intervention,Protesters (International),Migrants (International),Police Forces of Tunisia (2019-),,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11054,2024-05-05,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11055,2024-05-04,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National-International,0,TUN
+TUN11057,2024-05-06,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN11058,2024-05-06,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11059,2024-05-07,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Sfax,Mahres,Mahras,34.5275,10.5008,1,National,0,TUN
+TUN11060,2024-05-07,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11061,2024-05-07,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Tunis,La Medina,Kasbah,36.7988,10.166,1,National,0,TUN
+TUN11062,2024-05-08,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia); Taxi Drivers (Tunisia),,,Tunisia,Beja,Beja Nord,Beja,36.7256,9.1817,1,National,0,TUN
+TUN11063,2024-05-09,1,Protests,Peaceful protest,Protesters (Tunisia),Health Workers (Tunisia),,,Tunisia,Gafsa,Gafsa Sud,Gafsa,34.425,8.7417,1,National,0,TUN
+TUN11064,2024-05-09,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11065,2024-05-10,1,Protests,Peaceful protest,Protesters (Tunisia),Lawyers (Tunisia),,,Tunisia,Kasserine,Ezzouhour,Kasserine,35.1676,8.8365,1,National,0,TUN
+TUN10940,2024-03-14,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Tunisia),,Civilians (Tunisia),,Tunisia,Kasserine,Kasserine Sud,Jebel Selloum,35.075,8.906,2,National,0,TUN
+TUN11067,2024-05-15,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Kef,El Ksour,El Ksour,35.8961,8.8849,1,National,0,TUN
+TUN11068,2024-05-17,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Bizerte,Mateur,Mateur,37.0404,9.6656,1,National,0,TUN
+TUN11069,2024-05-11,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11070,2024-05-12,1,Riots,Violent demonstration,Rioters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11071,2024-05-13,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Kairouan,EL Ouslatia,Oueslatia,35.8478,9.5894,1,National,0,TUN
+TUN11072,2024-05-13,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Kasserine,Ezzouhour,Kasserine,35.1676,8.8365,2,National,0,TUN
+TUN11073,2024-05-13,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Kasserine,Ezzouhour,Kasserine,35.1676,8.8365,1,National,0,TUN
+TUN11074,2024-05-13,1,Protests,Peaceful protest,Protesters (Tunisia),Lawyers (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11075,2024-05-14,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tunis,La Medina,Kasbah,36.7988,10.166,1,National,0,TUN
+TUN11076,2024-05-15,1,Riots,Mob violence,Rioters (International),Migrants (International),Police Forces of Tunisia (2019-),,Tunisia,Sfax,El Amra,El Amra,34.9831,10.896,1,National,0,TUN
+TUN11077,2024-05-15,1,Protests,Peaceful protest,Protesters (Tunisia),Farmers (Tunisia),,,Tunisia,Tunis,La Medina,Kasbah,36.7988,10.166,1,National,0,TUN
+TUN11078,2024-05-16,1,Riots,Mob violence,Rioters (Tunisia),,Police Forces of Tunisia (2019-),,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,2,National,0,TUN
+TUN11079,2024-05-16,1,Protests,Peaceful protest,Protesters (Tunisia),Lawyers (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National-International,0,TUN
+TUN11080,2024-05-17,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN11081,2024-05-17,1,Riots,Violent demonstration,Rioters (Tunisia),,,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,1,National,0,TUN
+TUN11082,2024-05-17,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Manubah,Mannouba,Manubah,36.808,10.0972,1,National,0,TUN
+TUN11083,2024-05-22,1,Protests,Peaceful protest,Protesters (Tunisia),Journalists (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National-International,0,TUN
+TUN11084,2024-05-18,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Sfax,Djebeniana,Jabinyanah,35.0333,10.9167,1,National,0,TUN
+TUN11085,2024-05-24,1,Protests,Peaceful protest,Protesters (Tunisia),Fishers (Tunisia),,,Tunisia,Medenine,Zarzis,Zarzis,33.504,11.1122,1,National,0,TUN
+TUN11086,2024-05-24,1,Protests,Peaceful protest,Protesters (Tunisia),Journalists (Tunisia); SNJT: National Union of Tunisian Journalists; Students (Tunisia); UGET: General Union of Tunisian Students,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National-International,0,TUN
+TUN11087,2024-05-21,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN11088,2024-05-19,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11089,2024-05-23,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,2,National,0,TUN
+TUN11090,2024-05-20,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11091,2024-05-22,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Jendouba,Fernana,Fernana,36.6623,8.6844,1,National,0,TUN
+TUN11092,2024-06-21,1,Riots,Mob violence,Rioters (Tunisia),Migrants (International),Rioters (Tunisia),Migrants (International),Tunisia,Sfax,El Amra,El Amra,34.9831,10.896,1,National,1,TUN
+TUN11093,2024-06-20,1,Riots,Mob violence,Rioters (Tunisia),Migrants (International),Police Forces of Tunisia (2019-),,Tunisia,Medenine,Zarzis,Zarzis,33.504,11.1122,1,National,0,TUN
+TUN11094,2024-06-18,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Jendouba,Jendouba,Jendouba,36.5011,8.7802,2,National,0,TUN
+TUN11095,2024-06-18,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Kef,Es-Sers,As Sars,36.0764,9.0212,1,National,0,TUN
+TUN11096,2024-06-15,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Nabeul,Bou Argoub,Bou Argoub,36.5385,10.5509,1,National,0,TUN
+TUN11132,2024-06-14,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11129,2024-06-13,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Kebili,Kebeli Nord,Kebili,33.7044,8.969,1,National,0,TUN
+TUN11130,2024-06-13,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Kef,Es-Sers,As Sars,36.0764,9.0212,2,National,0,TUN
+TUN11131,2024-06-13,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11127,2024-06-11,1,Protests,Protest with intervention,Protesters (Tunisia),Women (Tunisia),Police Forces of Tunisia (2019-),,Tunisia,Siliana,Er-Rouhia,Rouhia,35.6978,9.1456,1,National,0,TUN
+TUN11128,2024-06-11,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11126,2024-06-10,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11125,2024-06-09,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11123,2024-06-08,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tataouine,Dhehiba,Dehiba,32.008,10.7014,1,National,0,TUN
+TUN11122,2024-06-06,1,Protests,Peaceful protest,Protesters (Tunisia),Lawyers (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,2,National,0,TUN
+TUN11117,2024-06-05,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Ben Arous,Rades,Rades,36.7681,10.2753,1,National,0,TUN
+TUN11118,2024-06-05,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Gabes,Gabes Medina,Gabes,33.8815,10.0982,1,National,0,TUN
+TUN11119,2024-06-05,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Gafsa,Redeyef,Redeyef,34.3827,8.1555,1,National,0,TUN
+TUN11120,2024-06-05,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Jendouba,Balta - Bou Aouane,Bousalem,36.6169,8.9669,1,National,0,TUN
+TUN11121,2024-06-05,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Siliana,Siliana Nord,Siliana,36.085,9.3708,1,National,0,TUN
+TUN11116,2024-06-04,1,Protests,Peaceful protest,Protesters (Tunisia),Health Workers (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11115,2024-06-03,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tataouine,Tataouine Nord,Tataouine,32.9297,10.4518,1,National,0,TUN
+TUN11114,2024-06-02,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11112,2024-05-31,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11110,2024-05-29,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Beja,Beja Nord,Beja,36.7256,9.1817,1,National,0,TUN
+TUN11111,2024-05-29,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia); Taxi Drivers (Tunisia); URT: Regional Labour Union,,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN11100,2024-05-27,1,Protests,Peaceful protest,Protesters (Tunisia),LTDH: Tunisian Human Rights League,,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN11101,2024-05-27,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Gafsa,Gafsa Sud,Gafsa,34.425,8.7417,1,National,0,TUN
+TUN11102,2024-05-27,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Medenine,Djerba Houmet Souk,Houmt Souk,33.876,10.857,1,National,0,TUN
+TUN11103,2024-05-27,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Monastir,Monastir,Monastir,35.765,10.812,1,National,0,TUN
+TUN11104,2024-05-27,1,Protests,Peaceful protest,Protesters (Tunisia),Students (Tunisia),,,Tunisia,Nabeul,Nabeul,Nabeul,36.4513,10.7356,1,National,0,TUN
+TUN11105,2024-05-27,1,Riots,Violent demonstration,Rioters (Tunisia),,,,Tunisia,Sfax,Djebeniana,Jabinyanah,35.0333,10.9167,1,National,0,TUN
+TUN11106,2024-05-27,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN11107,2024-05-27,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Siliana,Siliana Nord,Siliana,36.085,9.3708,1,National,0,TUN
+TUN11108,2024-05-27,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11109,2024-05-27,1,Protests,Peaceful protest,Protesters (Tunisia),Journalists (Tunisia); SNJT: National Union of Tunisian Journalists,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National-International,0,TUN
+TUN11098,2024-05-26,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tataouine,Tataouine Nord,Tataouine,32.9297,10.4518,1,National,0,TUN
+TUN11099,2024-05-26,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11097,2024-05-25,1,Protests,Peaceful protest,Protesters (Tunisia),PDL: Free Constitution Party; Women (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11133,2024-06-26,1,Battles,Armed clash,Unidentified Armed Group (Tunisia),,Military Forces of Tunisia (2019-),,Tunisia,Tataouine,Remada,Remada,32.3166,10.3955,1,National,1,TUN
+TUN11134,2024-06-28,1,Strategic developments,Other,Police Forces of Tunisia (2019-),,Civilians (Tunisia),Journalists (Tunisia),Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11135,2024-06-26,1,Protests,Peaceful protest,Protesters (Tunisia),LGBTQ+ (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,International,0,TUN
+TUN11136,2024-06-27,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Kasserine,Ezzouhour,Kasserine,35.1676,8.8365,1,National,0,TUN
+TUN11137,2024-06-28,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia); Teachers (Tunisia),,,Tunisia,Manubah,Mannouba,Manubah,36.808,10.0972,1,National,0,TUN
+TUN11138,2024-06-24,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Sidi Bouzid,Menzel Bouzaienne,Menzel Bouzaiane,34.574,9.429,1,National,0,TUN
+TUN11139,2024-06-24,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Medenine,Djerba Houmet Souk,Houmt Souk,33.876,10.857,1,National,0,TUN
+TUN11140,2024-06-23,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Medenine,Zarzis,Zarzis,33.504,11.1122,1,National,0,TUN
+TUN11141,2024-06-24,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Medenine,Ben Guerdane,Rass Adjir,33.1485,11.5538,1,National,0,TUN
+TUN11142,2024-06-29,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia); Teachers (Tunisia),,,Tunisia,Manubah,Mannouba,Manubah,36.808,10.0972,1,National,0,TUN
+TUN11143,2024-07-01,1,Protests,Peaceful protest,Protesters (Tunisia),Farmers (Tunisia),,,Tunisia,Gafsa,Gafsa Sud,Gafsa,34.425,8.7417,1,National,0,TUN
+TUN11144,2024-07-02,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Beja,Beja Nord,Beja,36.7256,9.1817,1,National,0,TUN
+TUN11145,2024-07-02,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Jendouba,Tabarka,Tabarka,36.9544,8.758,1,National,0,TUN
+TUN11146,2024-07-03,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Medenine,Zarzis,Zarzis,33.504,11.1122,1,National,0,TUN
+TUN11147,2024-07-01,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia); Women (Tunisia),,,Tunisia,Jendouba,Jendouba,Jendouba,36.5011,8.7802,1,National,0,TUN
+TUN11148,2024-07-01,1,Protests,Peaceful protest,Protesters (Tunisia),Students (Tunisia),,,Tunisia,Kef,Kef Est,El Kef,36.1742,8.7049,1,National,0,TUN
+TUN11149,2024-07-01,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia); Teachers (Tunisia),,,Tunisia,Sidi Bouzid,Sidi Bouzid Ouest,Sidi Bouzid,35.0382,9.4849,1,National,0,TUN
+TUN11150,2024-07-01,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Kairouan,Haffouz,Haffouz,35.6323,9.6762,2,National,0,TUN
+TUN11151,2024-06-30,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11152,2024-07-02,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11153,2024-07-02,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Kef,Kef Est,El Kef,36.1742,8.7049,1,National,0,TUN
+TUN11154,2024-07-02,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Sousse,M'saken,Msaken,35.7292,10.5808,1,National,0,TUN
+TUN11159,2024-07-12,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,1,National,0,TUN
+TUN11158,2024-07-11,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,1,National,0,TUN
+TUN11155,2024-07-08,1,Protests,Peaceful protest,Protesters (Tunisia),Journalists (Tunisia); SNJT: National Union of Tunisian Journalists,,,Tunisia,Sousse,Sousse Medina,Sousse,35.8254,10.637,1,National,0,TUN
+TUN11156,2024-07-08,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Jendouba,Jendouba,Jendouba,36.5011,8.7802,1,National,0,TUN
+TUN11157,2024-07-08,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Sousse,Sousse Medina,Sousse,35.8254,10.637,1,National,0,TUN
+TUN11160,2024-06-18,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Jendouba,Jendouba,Jendouba,36.5011,8.7802,2,National,0,TUN
+TUN11161,2024-06-18,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Kef,Es-Sers,As Sars,36.0764,9.0212,1,National,0,TUN
+TUN11162,2024-06-15,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Nabeul,Bou Argoub,Bou Argoub,36.5385,10.5509,1,National,0,TUN
+TUN11163,2024-07-25,1,Protests,Peaceful protest,Protesters (Tunisia),Journalists (Tunisia); SNJT: National Union of Tunisian Journalists,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11164,2024-07-25,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11165,2024-07-17,1,Protests,Peaceful protest,Protesters (Tunisia),Health Workers (Tunisia); Labor Group (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11166,2024-07-26,1,Protests,Peaceful protest,Protesters (Tunisia),Health Workers (Tunisia); Labor Group (Tunisia),,,Tunisia,Nabeul,Grombalia,Grombalia,36.5989,10.5003,1,National,0,TUN
+TUN11167,2024-07-17,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Kebili,Kebeli Nord,Kebili,33.7044,8.969,1,National,0,TUN
+TUN11168,2024-07-24,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Kebili,Kebeli Nord,Kebili,33.7044,8.969,1,National,0,TUN
+TUN11169,2024-07-24,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN11170,2024-07-26,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tunis,Carthage,Carthage,36.861,10.332,1,National,0,TUN
+TUN11171,2024-07-15,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Mahdia,Mahdia,Mahdia,35.5047,11.0622,1,National,0,TUN
+TUN11172,2024-07-16,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Gafsa,Gafsa Sud,Gafsa,34.425,8.7417,1,National,0,TUN
+TUN11173,2024-07-16,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Medenine,Djerba Houmet Souk,Houmt Souk,33.876,10.857,1,National,0,TUN
+TUN11174,2024-07-16,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11175,2024-07-19,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Bizerte,Sedjnane,Sejenane,37.0572,9.2381,2,National,0,TUN
+TUN11176,2024-07-19,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Sidi Bouzid,Sidi Bouzid Ouest,Sidi Bouzid,35.0382,9.4849,1,National,0,TUN
+TUN11177,2024-07-22,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,2,National,0,TUN
+TUN11178,2024-07-22,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Jendouba,Tabarka,Tabarka,36.9544,8.758,1,National,0,TUN
+TUN11179,2024-07-24,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Kef,Kef Est,El Kef,36.1742,8.7049,1,National,0,TUN
+TUN11180,2024-07-25,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN11181,2024-07-26,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11182,2024-07-23,1,Explosions/Remote violence,Shelling/artillery/missile attack,Unidentified Armed Group (Tunisia),,Civilians (Tunisia),Pastoralists (Tunisia),Tunisia,Kasserine,Kasserine Sud,Jebel Selloum,35.075,8.906,1,National,0,TUN
+TUN11183,2024-07-22,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Sidi Bouzid,Sidi Bouzid Ouest,Sidi Bouzid,35.0382,9.4849,1,National,0,TUN
+TUN11184,2024-07-30,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Nabeul,Grombalia,Grombalia,36.5989,10.5003,1,National,0,TUN
+TUN11185,2024-07-31,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11186,2024-08-02,1,Protests,Peaceful protest,Protesters (Tunisia),UGTT: Tunisian General Labour Union,,,Tunisia,Kebili,Kebeli Nord,Kebili,33.7044,8.969,1,National,0,TUN
+TUN11187,2024-07-31,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11188,2024-07-31,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,1,National,0,TUN
+TUN11189,2024-07-27,1,Riots,Violent demonstration,Rioters (Tunisia),,,,Tunisia,Kairouan,Hajeb el Ayoun,Hajeb el Aioun,35.3956,9.5438,1,National,0,TUN
+TUN11190,2024-07-27,1,Riots,Violent demonstration,Rioters (Tunisia),,,,Tunisia,Sfax,Djebeniana,Jabinyanah,35.0333,10.9167,2,National,0,TUN
+TUN11191,2024-07-29,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Nabeul,Nabeul,Nabeul,36.4513,10.7356,1,National,0,TUN
+TUN11192,2024-08-03,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11193,2024-08-03,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,1,National,0,TUN
+TUN11194,2024-08-08,1,Protests,Peaceful protest,Protesters (Tunisia),Health Workers (Tunisia),,,Tunisia,Nabeul,Nabeul,Nabeul,36.4513,10.7356,1,National,0,TUN
+TUN11195,2024-08-05,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Kebili,Kebeli Nord,Kebili,33.7044,8.969,1,National,0,TUN
+TUN11196,2024-08-05,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tataouine,Dhehiba,Dehiba,32.008,10.7014,1,National,0,TUN
+TUN11197,2024-08-09,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Kebili,Kebeli Nord,Kebili,33.7044,8.969,1,National,0,TUN
+TUN11198,2024-08-08,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11199,2024-08-04,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Sousse,Sousse Medina,Sousse,35.8254,10.637,1,National,0,TUN
+TUN11200,2024-08-04,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Tunisia),,Civilians (Tunisia),,Tunisia,Kasserine,Kasserine Sud,Jebel Selloum,35.075,8.906,2,National,1,TUN
+TUN11201,2024-08-06,1,Protests,Protest with intervention,Protesters (Tunisia),Migrants (International),Police Forces of Tunisia (2019-),,Tunisia,Mahdia,Mahdia,Mahdia,35.5047,11.0622,2,National,0,TUN
+TUN11202,2024-08-06,1,Riots,Violent demonstration,Rioters (Tunisia),,,,Tunisia,Sfax,Djebeniana,Jabinyanah,35.0333,10.9167,1,National,0,TUN
+TUN11203,2024-08-14,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Manubah,Mannouba,Manubah,36.808,10.0972,1,National,0,TUN
+TUN11204,2024-08-14,1,Protests,Peaceful protest,Protesters (Tunisia),Health Workers (Tunisia); Labor Group (Tunisia); Students (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11205,2024-08-12,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11206,2024-08-13,1,Protests,Peaceful protest,Protesters (Tunisia),Women (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11207,2024-08-12,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tataouine,Tataouine Nord,Tataouine,32.9297,10.4518,1,National,0,TUN
+TUN11208,2024-08-14,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Gafsa,Gafsa Sud,Gafsa,34.425,8.7417,1,National,0,TUN
+TUN11209,2024-08-20,1,Protests,Peaceful protest,Protesters (Tunisia),Aswat Nissa (Tunisia); Women (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11210,2024-08-19,1,Protests,Peaceful protest,Protesters (Tunisia),Health Workers (Tunisia),,,Tunisia,Gafsa,Gafsa Sud,Gafsa,34.425,8.7417,1,National,0,TUN
+TUN11211,2024-08-22,1,Protests,Peaceful protest,Protesters (Tunisia),Journalists (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11212,2024-08-20,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Nabeul,Beni Khalled,Beni Khalled,36.6504,10.59,1,National,0,TUN
+TUN11213,2024-08-22,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Beja,Beja Nord,Beja,36.7256,9.1817,1,National,0,TUN
+TUN11214,2024-08-22,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,2,National,0,TUN
+TUN11215,2024-08-19,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Sousse,Sousse Medina,Sousse,35.8254,10.637,1,National,0,TUN
+TUN11225,2024-08-30,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11220,2024-08-29,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Kebili,Kebeli Nord,Kebili,33.7044,8.969,1,National,0,TUN
+TUN11218,2024-08-28,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,1,National,0,TUN
+TUN11217,2024-08-27,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia); Teachers (Tunisia),,,Tunisia,Gafsa,Gafsa Sud,Gafsa,34.425,8.7417,1,National,0,TUN
+TUN11221,2024-08-27,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia); Students (Tunisia),,,Tunisia,Mahdia,Mahdia,Mahdia,35.5047,11.0622,1,National,0,TUN
+TUN11223,2024-08-27,1,Protests,Peaceful protest,Protesters (Tunisia),Journalists (Tunisia); SNJT: National Union of Tunisian Journalists,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11224,2024-08-27,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11216,2024-08-26,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Beja,Beja Nord,Beja,36.7256,9.1817,1,National,0,TUN
+TUN11222,2024-08-26,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia); Teachers (Tunisia),,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN11219,2024-08-24,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,1,National,0,TUN
+TUN11226,2024-09-02,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11227,2024-09-03,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tataouine,Tataouine Nord,Tataouine,32.9297,10.4518,1,National,0,TUN
+TUN11228,2024-09-04,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Sidi Bouzid,Sidi Bouzid Ouest,Sidi Bouzid,35.0382,9.4849,1,National,0,TUN
+TUN11229,2024-09-05,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN11230,2024-09-02,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,1,National,0,TUN
+TUN11232,2024-09-02,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Tozeur,Tozeur,Tozeur,33.9197,8.1335,1,National,0,TUN
+TUN11233,2024-09-04,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Zaghouan,Zaghouan,Zaghouan,36.4029,10.1429,1,National,0,TUN
+TUN11234,2024-09-03,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Manubah,Mannouba,Manubah,36.808,10.0972,1,National,0,TUN
+TUN11235,2024-09-03,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11236,2024-09-05,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Beja,Beja Nord,Beja,36.7256,9.1817,1,National,0,TUN
+TUN11238,2024-09-02,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia); UGTT: Tunisian General Labour Union,,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,1,National,0,TUN
+TUN11239,2024-09-04,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Medenine,Medenine Sud,Medenine,33.355,10.5055,1,National,0,TUN
+TUN11240,2024-09-03,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Kef,Kef Est,El Kef,36.1742,8.7049,1,National,0,TUN
+TUN11241,2024-09-09,1,Strategic developments,Arrests,Police Forces of Tunisia (2019-),,Civilians (Tunisia),Ennahda Political Party,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11242,2024-09-02,1,Strategic developments,Arrests,Police Forces of Tunisia (2019-),,Civilians (Tunisia),,Tunisia,Manubah,Tebourba,Tebourba,36.8293,9.8393,1,National-International,0,TUN
+TUN11243,2024-09-11,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,1,National,0,TUN
+TUN11244,2024-09-09,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Ariana,Ariana Medina,Ariana,36.8601,10.1934,1,National,0,TUN
+TUN11245,2024-09-09,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Nabeul,Nabeul,Nabeul,36.4513,10.7356,1,National,0,TUN
+TUN11246,2024-09-11,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Tunis,La Medina,Kasbah,36.7988,10.166,1,National,0,TUN
+TUN11247,2024-09-10,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,La Medina,Kasbah,36.7988,10.166,1,International,0,TUN
+TUN11248,2024-09-10,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Sidi Bouzid,Souk Jedid,Souk Jedid,34.869,9.5656,1,National,0,TUN
+TUN11249,2024-09-13,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,La Medina,Bab El Bhar,36.7991,10.1755,1,National-International,0,TUN
+TUN11250,2024-09-16,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11251,2024-09-18,1,Protests,Peaceful protest,Protesters (Tunisia),Lawyers (Tunisia),,,Tunisia,Jendouba,Jendouba,Jendouba,36.5011,8.7802,1,National,0,TUN
+TUN11252,2024-09-18,1,Protests,Peaceful protest,Protesters (Tunisia),Lawyers (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11253,2024-09-18,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Kebili,Douz Nord,Douz,33.4663,9.0203,1,National,0,TUN
+TUN11254,2024-09-18,1,Protests,Peaceful protest,Protesters (Tunisia),Lawyers (Tunisia),,,Tunisia,Gafsa,Gafsa Sud,Gafsa,34.425,8.7417,1,National,0,TUN
+TUN11255,2024-09-16,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Kasserine,Foussana,Foussena,35.3506,8.6288,1,National,0,TUN
+TUN11256,2024-09-12,1,Strategic developments,Arrests,Police Forces of Tunisia (2019-),,Civilians (Tunisia),Ennahda Political Party,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11257,2024-09-18,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN11258,2024-09-18,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Kebili,Kebeli Nord,Kebili,33.7044,8.969,1,National,0,TUN
+TUN11259,2024-09-24,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN11260,2024-09-25,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,1,National,0,TUN
+TUN11261,2024-09-23,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Tataouine,Tataouine Nord,Tataouine,32.9297,10.4518,1,National,0,TUN
+TUN11262,2024-09-23,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11263,2024-09-26,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Manubah,Mannouba,Manubah,36.808,10.0972,1,National,0,TUN
+TUN11264,2024-09-27,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Gafsa,Sned,Zannouch,34.4681,9.0506,1,National,0,TUN
+TUN11265,2024-09-21,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Medenine,Zarzis,Zarzis,33.504,11.1122,1,National,0,TUN
+TUN11266,2024-09-22,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11267,2024-09-24,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN11268,2024-09-25,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Nabeul,Kelibia,Kelibia,36.8476,11.0939,1,National,0,TUN
+TUN11270,2024-09-27,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11271,2024-10-04,1,Protests,Peaceful protest,Protesters (Tunisia),Government of Tunisia (2019-),,,Tunisia,Nabeul,Hammamet,Hammamet,36.4,10.6167,1,National,0,TUN
+TUN11272,2024-09-28,1,Protests,Peaceful protest,Protesters (Tunisia),LTDH: Tunisian Human Rights League,,,Tunisia,Nabeul,Nabeul,Nabeul,36.4513,10.7356,1,National,0,TUN
+TUN11273,2024-09-28,1,Protests,Peaceful protest,Protesters (Tunisia),PDL: Free Constitution Party,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National-International,0,TUN
+TUN11274,2024-09-30,1,Protests,Peaceful protest,Protesters (Tunisia),Students (Tunisia),,,Tunisia,Kebili,Kebeli Nord,Kebili,33.7044,8.969,1,National,0,TUN
+TUN11275,2024-10-03,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Tozeur,Tozeur,Tozeur,33.9197,8.1335,1,National,0,TUN
+TUN11276,2024-09-27,1,Protests,Peaceful protest,Protesters (Tunisia),Tunisia Network for Rights and Freedoms (Tunisia),,,Tunisia,Tunis,Le Bardo,Le Bardo,36.8092,10.1406,1,National,0,TUN
+TUN11277,2024-10-04,1,Protests,Peaceful protest,Protesters (Tunisia),Tunisia Network for Rights and Freedoms (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National-International,0,TUN
+TUN11278,2024-10-01,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Ariana,Ariana Medina,Ariana,36.8601,10.1934,2,National,0,TUN
+TUN11279,2024-09-28,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN11280,2024-10-04,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN11281,2024-10-07,1,Protests,Peaceful protest,Protesters (Tunisia),LTDH: Tunisian Human Rights League,,,Tunisia,Gafsa,Gafsa Sud,Gafsa,34.425,8.7417,1,National,0,TUN
+TUN11282,2024-10-07,1,Protests,Peaceful protest,Protesters (Tunisia),UGTT: Tunisian General Labour Union,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11283,2024-10-07,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Jendouba,Jendouba,Jendouba,36.5011,8.7802,1,National,0,TUN
+TUN11284,2024-10-10,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tozeur,Tozeur,Tozeur,33.9197,8.1335,1,National,0,TUN
+TUN11285,2024-10-10,1,Protests,Peaceful protest,Protesters (Tunisia),Students (Tunisia),,,Tunisia,Kebili,Kebeli Nord,Kebili,33.7044,8.969,1,National,0,TUN
+TUN11286,2024-10-07,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Nabeul,Nabeul,Nabeul,36.4513,10.7356,1,National,0,TUN
+TUN11287,2024-10-07,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia); Students (Tunisia),,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN11288,2024-10-06,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,International,0,TUN
+TUN11289,2024-10-08,1,Protests,Peaceful protest,Protesters (Tunisia),Students (Tunisia),,,Tunisia,Kebili,Douz Nord,Douz,33.4663,9.0203,1,National,0,TUN
+TUN11290,2024-10-11,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia); Teachers (Tunisia),,,Tunisia,Sfax,Agareb,Agareb,34.7406,10.5253,1,National,0,TUN
+TUN11291,2024-10-07,1,Riots,Violent demonstration,Rioters (Tunisia),,Police Forces of Tunisia (2019-),,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11292,2024-10-12,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia); Teachers (Tunisia),,,Tunisia,Nabeul,Kelibia,Kelibia,36.8476,11.0939,1,National,0,TUN
+TUN11293,2024-10-13,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN11294,2024-10-16,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,1,National,0,TUN
+TUN11295,2024-10-18,1,Protests,Peaceful protest,Protesters (Tunisia),Lawyers (Tunisia); Students (Tunisia),,,Tunisia,Beja,Beja Nord,Beja,36.7256,9.1817,1,National,0,TUN
+TUN11296,2024-10-15,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11297,2024-10-11,1,Riots,Mob violence,Rioters (Tunisia),Students (Tunisia),Rioters (Tunisia),Students (Tunisia),Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,1,National,0,TUN
+TUN11298,2024-10-12,1,Riots,Violent demonstration,Rioters (Tunisia),,,,Tunisia,Medenine,Sidi Makhloulf,Sidi Makhlouf,33.5063,10.4809,1,National,0,TUN
+TUN11299,2024-10-14,1,Riots,Violent demonstration,Rioters (Tunisia),,,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,1,National,0,TUN
+TUN11300,2024-10-17,1,Riots,Violent demonstration,Rioters (Tunisia),Labor Group (Tunisia),,,Tunisia,Kairouan,Sbikha,Sbikha,35.9333,10.0208,1,National,0,TUN
+TUN11301,2024-10-15,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Tunisia),,Civilians (Tunisia),,Tunisia,Kasserine,Kasserine Sud,Jebel Selloum,35.075,8.906,1,National,0,TUN
+TUN11237,2024-09-02,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Gafsa,Gafsa Sud,Gafsa,34.425,8.7417,1,National,0,TUN
+TUN11302,2024-10-21,1,Strategic developments,Other,Government of Tunisia (2019-),,Civilians (Tunisia),Journalists (Tunisia),Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11303,2024-10-24,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Kasserine,Ezzouhour,Kasserine,35.1676,8.8365,1,National,0,TUN
+TUN11304,2024-10-23,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN11305,2024-10-23,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Jendouba,Jendouba,Jendouba,36.5011,8.7802,1,National,0,TUN
+TUN11306,2024-10-22,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Jendouba,Jendouba,Jendouba,36.5011,8.7802,1,National,0,TUN
+TUN11307,2024-10-19,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,1,National,0,TUN
+TUN11308,2024-10-21,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Kef,Kef Est,El Kef,36.1742,8.7049,1,National,0,TUN
+TUN11309,2024-10-24,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Nabeul,Soliman,Soliman,36.6944,10.4866,1,National,0,TUN
+TUN11310,2024-10-22,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11311,2024-10-20,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11312,2024-10-21,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Kef,Kef Est,El Kef,36.1742,8.7049,1,National,0,TUN
+TUN11313,2024-10-25,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11314,2024-10-25,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Gabes,Ghanouch,Ghannouch,33.9436,10.0667,1,National,0,TUN
+TUN11315,2024-10-28,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Gafsa,Gafsa Sud,Gafsa,34.425,8.7417,1,National,0,TUN
+TUN11316,2024-10-28,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Nabeul,Nabeul,Nabeul,36.4513,10.7356,1,National,0,TUN
+TUN11317,2024-10-30,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Bizerte,Ras Djebel,Ras Jabel,37.2157,10.1253,1,National,0,TUN
+TUN11318,2024-10-30,1,Protests,Peaceful protest,Protesters (Tunisia),Lawyers (Tunisia),,,Tunisia,Monastir,Monastir,Monastir,35.765,10.812,1,National,0,TUN
+TUN11319,2024-10-28,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11320,2024-10-28,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN11321,2024-10-30,1,Riots,Mob violence,Rioters (Tunisia),,,,Tunisia,Sidi Bouzid,Souk Jedid,Oulad Mhamed,34.8333,9.5,1,National,0,TUN
+TUN11326,2024-11-08,1,Protests,Peaceful protest,Protesters (Tunisia),Lawyers (Tunisia),,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN11322,2024-11-07,1,Protests,Peaceful protest,Protesters (Tunisia),Health Workers (Tunisia),,,Tunisia,Gafsa,Gafsa Sud,Gafsa,34.425,8.7417,1,National,0,TUN
+TUN11327,2024-11-07,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Kasserine,Ezzouhour,Kasserine,35.1676,8.8365,1,National,0,TUN
+TUN11329,2024-11-07,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Sousse,Kalaa Kebira,Kelaa Kebira,35.8728,10.5372,1,National,0,TUN
+TUN11330,2024-11-07,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11324,2024-11-06,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Kairouan,Sbikha,Sbikha,35.9333,10.0208,1,National,0,TUN
+TUN11325,2024-11-06,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11323,2024-11-05,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Sidi Bouzid,Sidi Bouzid Ouest,Sidi Bouzid,35.0382,9.4849,1,National,0,TUN
+TUN11328,2024-11-04,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Manubah,Oued Ellil,Oued Ellil,36.8341,10.0406,1,National,0,TUN
+TUN11331,2024-11-12,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tataouine,Tataouine Nord,Tataouine,32.9297,10.4518,1,National,0,TUN
+TUN11332,2024-11-13,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11333,2024-11-12,1,Protests,Peaceful protest,Protesters (Tunisia),Street Traders (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11334,2024-11-14,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Kairouan,Kairouan Nord,Kairouan,35.6781,10.0963,1,National,0,TUN
+TUN11335,2024-11-18,1,Protests,Peaceful protest,Protesters (Tunisia),Students (Tunisia),,,Tunisia,Tataouine,Tataouine Nord,Tataouine,32.9297,10.4518,1,National,0,TUN
+TUN11336,2024-11-18,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Medenine,Medenine Sud,Medenine,33.355,10.5055,1,National,0,TUN
+TUN11337,2024-11-19,1,Protests,Peaceful protest,Protesters (Tunisia),Students (Tunisia),,,Tunisia,Mahdia,Mahdia,Mahdia,35.5047,11.0622,1,National,0,TUN
+TUN11338,2024-11-21,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,3,National,0,TUN
+TUN11339,2024-11-21,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia); UGTT: Tunisian General Labour Union,,,Tunisia,Kairouan,Sbikha,Sbikha,35.9333,10.0208,1,National,0,TUN
+TUN11340,2024-11-21,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Nabeul,Hammamet,Hammamet,36.4,10.6167,1,National,0,TUN
+TUN11341,2024-11-21,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Nabeul,Nabeul,Nabeul,36.4513,10.7356,1,National,0,TUN
+TUN11342,2024-11-21,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Sfax,Sfax Ville,Sfax,34.7406,10.7603,1,National,0,TUN
+TUN11343,2024-11-22,1,Protests,Peaceful protest,Protesters (Tunisia),Naqr Communal Group (Tunisia),,,Tunisia,Sousse,Kalaa Seghira,Kalaa Seghira,35.8224,10.5574,1,National,0,TUN
+TUN11344,2024-11-22,1,Protests,Peaceful protest,Protesters (Tunisia),Enfida Communal Group (Tunisia); Students (Tunisia),,,Tunisia,Sousse,Enfidha,Enfida,36.1353,10.3808,1,National,0,TUN
+TUN11345,2024-11-22,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Bizerte,Bizerte Nord,Bizerte,37.2744,9.8739,1,National,0,TUN
+TUN11346,2024-11-25,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tunis,Le Bardo,Le Bardo,36.8092,10.1406,1,National,0,TUN
+TUN11347,2024-11-25,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,2,National,0,TUN
+TUN11348,2024-11-26,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tataouine,Tataouine Nord,Tataouine,32.9297,10.4518,1,National,0,TUN
+TUN11349,2024-11-26,1,Protests,Peaceful protest,Protesters (Tunisia),Students (Tunisia),,,Tunisia,Mahdia,Mahdia,Mahdia,35.5047,11.0622,1,National,0,TUN
+TUN11350,2024-11-27,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Ariana,Ariana Medina,Ariana,36.8601,10.1934,1,National,0,TUN
+TUN11351,2024-11-29,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Ariana,Raoued,Raoued,36.9486,10.1982,1,National,0,TUN
+TUN11352,2024-11-26,1,Riots,Violent demonstration,Rioters (Tunisia),,Police Forces of Tunisia (2019-),,Tunisia,Sousse,M'saken,Messadine,35.7644,10.5969,1,National,0,TUN
+TUN11353,2024-11-29,1,Riots,Violent demonstration,Rioters (Tunisia),Farmers (Tunisia),,,Tunisia,Kairouan,Hajeb el Ayoun,Hajeb el Aioun,35.3956,9.5438,1,National,0,TUN
+TUN11354,2024-11-29,1,Riots,Mob violence,Rioters (Tunisia),Students (Tunisia),,,Tunisia,Ariana,Raoued,Raoued,36.9486,10.1982,1,National,0,TUN
+TUN11355,2024-11-30,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11356,2024-12-03,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Bizerte,Zarzouna,Zarzouna,37.2642,9.8767,1,National,0,TUN
+TUN11357,2024-11-30,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Mahdia,Chebba,Chebba,35.2372,11.115,1,National,0,TUN
+TUN11358,2024-12-03,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Nabeul,Nabeul,Nabeul,36.4513,10.7356,1,National,0,TUN
+TUN11359,2024-11-30,1,Riots,Violent demonstration,Rioters (Tunisia),Farmers (Tunisia),,,Tunisia,Kairouan,Bouhajla,Ouled Achour,35.3231,10.1522,1,National,0,TUN
+TUN11360,2024-12-02,1,Riots,Violent demonstration,Rioters (Tunisia),Farmers (Tunisia),,,Tunisia,Nabeul,Nabeul,Nabeul,36.4513,10.7356,3,National,0,TUN
+TUN11361,2024-12-09,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Jendouba,Jendouba,Jendouba,36.5011,8.7802,1,National,0,TUN
+TUN11362,2024-12-11,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Monastir,Monastir,Monastir,35.765,10.812,1,National,0,TUN
+TUN11365,2024-12-14,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Gafsa,Redeyef,Redeyef,34.3827,8.1555,1,National,0,TUN
+TUN11366,2024-12-24,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Jendouba,Jendouba,Jendouba,36.5011,8.7802,1,National,0,TUN
+TUN11367,2024-12-26,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Jendouba,Jendouba,Jendouba,36.5011,8.7802,1,National,0,TUN
+TUN11368,2024-12-30,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Jendouba,Jendouba,Jendouba,36.5011,8.7802,1,National,0,TUN
+TUN11369,2024-12-31,1,Riots,Violent demonstration,Rioters (Tunisia),,,,Tunisia,Kairouan,Haffouz,El Ain El Beidha,35.5078,9.7085,1,National,0,TUN
+TUN11370,2024-12-28,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Tunisia),,Civilians (Tunisia),,Tunisia,Kasserine,Foussana,Jebel ech Chambi,35.207,8.683,1,National,0,TUN
+TUN11371,2024-12-18,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Kef,Kef Est,El Kef,36.1742,8.7049,1,National,0,TUN
+TUN11372,2024-12-26,1,Battles,Armed clash,Unidentified Armed Group (Tunisia),Salafist Muslim Group (Tunisia),Police Forces of Tunisia (2019-),,Tunisia,Monastir,Moknine,Moknine,35.6333,10.9,1,National,0,TUN
+TUN11373,2024-12-16,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Nabeul,Korba,Korba,36.5786,10.8586,1,International,0,TUN
+TUN11374,2024-12-28,1,Protests,Peaceful protest,Protesters (Tunisia),Taxi Drivers (Tunisia),,,Tunisia,Nabeul,Menzel Bouzelfa,Menzel Bou Zelfa,36.6831,10.5843,1,National,0,TUN
+TUN11375,2024-12-24,1,Protests,Peaceful protest,Protesters (Tunisia),Labor Group (Tunisia),,,Tunisia,Tataouine,Tataouine Nord,Tataouine,32.9297,10.4518,1,National,0,TUN
+TUN11377,2024-12-17,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11378,2024-12-18,1,Protests,Peaceful protest,Protesters (Tunisia),FTDES: Tunisian Forum for Economic and Social Rights,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11380,2024-12-26,1,Strategic developments,Arrests,Police Forces of Tunisia (2019-),,Civilians (Tunisia),Ennahda Political Party,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,3,National,0,TUN
+TUN11381,2024-12-26,1,Protests,Peaceful protest,Protesters (Tunisia),Teachers (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11382,2024-12-27,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11383,2024-12-31,1,Protests,Peaceful protest,Protesters (Tunisia),,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11387,2024-12-18,1,Riots,Violent demonstration,Rioters (Tunisia),,,,Tunisia,Zaghouan,En-Nadhour,En-Nadhour,36.1179,10.0905,1,National,0,TUN
+TUN11269,2024-09-27,1,Protests,Peaceful protest,Protesters (Tunisia),Students (Tunisia),,,Tunisia,Nabeul,El Haouaria,El Haouaria,37.05,11.0144,1,National,0,TUN
+TUN11462,2024-10-02,1,Strategic developments,Arrests,Police Forces of Tunisia (2019-),,Civilians (Tunisia),LGBTQ+ (Tunisia),Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,Other,0,TUN
+TUN10843,2024-01-26,1,Protests,Peaceful protest,Protesters (Tunisia),Hizb ut-Tahrir Party,,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10823,2024-01-14,1,Protests,Peaceful protest,Protesters (Tunisia),NSF: National Salvation Front (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN10906,2024-02-25,1,Protests,Peaceful protest,Protesters (Tunisia),NSF: National Salvation Front (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11005,2024-04-18,1,Protests,Peaceful protest,Protesters (Tunisia),Al Joumhouri Party; CD: Democratic Current; Lawyers (Tunisia); NSF: National Salvation Front (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11016,2024-04-20,1,Protests,Peaceful protest,Protesters (Tunisia),Ennahda Political Party; NSF: National Salvation Front (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11030,2024-04-27,1,Protests,Peaceful protest,Protesters (Tunisia),NSF: National Salvation Front (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,2,National,0,TUN
+TUN11056,2024-05-05,1,Protests,Peaceful protest,Protesters (Tunisia),NSF: National Salvation Front (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11066,2024-05-12,1,Protests,Peaceful protest,Protesters (Tunisia),NSF: National Salvation Front (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National-International,0,TUN
+TUN11113,2024-06-01,1,Protests,Peaceful protest,Protesters (Tunisia),NSF: National Salvation Front (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11124,2024-06-09,1,Protests,Peaceful protest,Protesters (Tunisia),NSF: National Salvation Front (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11379,2024-12-24,1,Protests,Peaceful protest,Protesters (Tunisia),NSF: National Salvation Front (Tunisia),,,Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National,0,TUN
+TUN11905,2024-05-11,1,Strategic developments,Arrests,Police Forces of Tunisia (2019-),,Civilians (Tunisia),Lawyers (Tunisia),Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,National-Regional,0,TUN
+TUN11973,2024-02-01,1,Strategic developments,Other,Government of Tunisia (2019-),Judges (Tunisia),Civilians (Tunisia),Ennahda Movement; Former Government of Tunisia (2019-),Tunisia,Tunis,El Omrane,Tunis,36.819,10.1658,1,Other,0,TUN

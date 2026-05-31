@@ -1,0 +1,534 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities
+HTI1004,2018-07-07,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Nord,Cap Haitien,Cap-Haitien,19.7594,-72.1982,1,International,0
+HTI1157,2018-11-20,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Sud-Est,Jacmel,Jacmel,18.2343,-72.5354,1,National,0
+HTI1139,2018-11-15,1,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti),,,Haiti,Artibonite,Gros Morne,Gros-Morne,19.6708,-72.6781,1,National,0
+HTI928,2018-12-03,1,Violence against civilians,Attack,Unidentified Gang (Haiti),,Civilians (Haiti),,Haiti,Artibonite,Gros Morne,Gros-Morne,19.6708,-72.6781,2,National,1
+HTI1086,2018-09-23,1,Riots,Mob violence,Rioters (Haiti),,Civilians (Haiti),,Haiti,Artibonite,Dessalines,Dessalines,19.2618,-72.5161,1,National,0
+HTI1018,2018-07-09,1,Protests,Peaceful protest,Protesters (Haiti),MJKS: Suffering Youth Movement,,,Haiti,Ouest,Leogane,Petit-Goave,18.4312,-72.8652,1,National,0
+HTI1055,2018-08-29,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Sud,Cayes,Les Cayes,18.1933,-73.746,1,National,0
+HTI1027,2018-07-25,1,Riots,Mob violence,Rioters (Haiti),Vigilante Group (Haiti),Civilians (Haiti),,Haiti,Centre,Mirebalais,Mirebalais,18.8346,-72.1048,1,National,3
+HTI1180,2018-12-09,1,Riots,Mob violence,Rioters (Haiti),Vigilante Group (Haiti),Civilians (Haiti),,Haiti,Ouest,Archaie,Arcahaie,18.7701,-72.5118,1,National,1
+HTI1075,2018-09-10,1,Violence against civilians,Attack,Unidentified Gang (Haiti),,Civilians (Haiti),,Haiti,Ouest,Archaie,Luly,18.8363,-72.5735,1,National,2
+HTI1051,2018-08-27,2,Violence against civilians,Attack,Unidentified Gang (Haiti),,Civilians (Haiti),Catholic Christian Group (Haiti),Haiti,Sud-Est,Jacmel,Jacmel,18.2343,-72.5354,1,National,0
+HTI978,2018-04-26,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti),,,Haiti,Sud,Cayes,Les Cayes,18.1933,-73.746,1,National,0
+HTI1754,2018-09-17,1,Protests,Peaceful protest,Protesters (Haiti),Teachers (Haiti),,,Haiti,Artibonite,Marmelade,Saint-Michel-de-l'Atalaye,19.3708,-72.3347,1,National,0
+HTI2036,2018-11-18,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Nord,Limbe,Limbe,19.706,-72.4034,1,National,0
+HTI1722,2018-05-18,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Archaie,Arcahaie,18.7701,-72.5118,1,National,0
+HTI2034,2018-11-18,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Centre,Mirebalais,Mirebalais,18.8346,-72.1048,1,National,0
+HTI2033,2018-11-18,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Artibonite,Gros Morne,Gros-Morne,19.6708,-72.6781,1,National,0
+HTI2035,2018-11-18,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Grande-Anse,Jeremie,Jeremie,18.65,-74.1167,1,National,0
+HTI2018,2018-10-17,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Nord-Est,Ouanaminthe,Ouanaminthe,19.5493,-71.7248,1,National,0
+HTI2061,2018-11-30,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Croix Des Bouquets,Fonds-Parisien,18.5072,-71.9773,1,National,0
+HTI1713,2018-04-17,2,Riots,Mob violence,Rioters (Haiti),Vigilante Group (Haiti),Civilians (Haiti),Voodoo Group (Haiti),Haiti,Sud,Cayes,Torbeck,18.1634,-73.8095,1,National,1
+HTI2041,2018-11-18,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Sud,Cayes,Torbeck,18.1634,-73.8095,1,National,0
+HTI1709,2018-03-13,1,Strategic developments,Other,Civilians (Haiti),Refugees/IDPs (Haiti),,,Haiti,Sud-Est,Belle Anse,Anse-a-Pitre,18.0447,-71.7596,1,National,0
+HTI2032,2018-11-17,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Sud,Cayes,Les Cayes,18.1933,-73.746,1,National,0
+HTI963,2018-04-08,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Women (Haiti),Haiti,Nord-Ouest,Saint Louis Du Nord,Saint-Louis du Nord,19.9334,-72.7209,1,National,1
+HTI1751,2018-09-16,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Croix Des Bouquets,Croix-des-Bouquets,18.5768,-72.2263,1,National,0
+HTI1005,2018-07-07,1,Riots,Violent demonstration,Rioters (Haiti),,Civilians (Haiti),,Haiti,Ouest,Leogane,Petit-Goave,18.4312,-72.8652,1,National-International,0
+HTI1009,2018-07-07,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Sud,Cayes,Les Cayes,18.1933,-73.746,1,National-International,0
+HTI1703,2018-01-03,1,Protests,Peaceful protest,Protesters (Haiti),PHTK: Haitian Tet Kale Party,,,Haiti,Grande-Anse,Jeremie,Jeremie,18.65,-74.1167,1,National,0
+HTI1715,2018-04-17,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Nord-Ouest,Port De Paix,Port-de-Paix,19.9389,-72.8326,1,National,0
+HTI1728,2018-07-08,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Croix Des Bouquets,Malpasse,18.4949,-71.8905,1,National,0
+HTI1731,2018-07-25,1,Violence against civilians,Attack,Unidentified Gang (Haiti),,Civilians (Haiti),Taxi/Bus Drivers (Haiti),Haiti,Centre,Mirebalais,Mirebalais,18.8346,-72.1048,1,National,1
+HTI4628,2018-01-15,2,Protests,Peaceful protest,Protesters (Haiti),Lawyers (Haiti),,,Haiti,Sud,Cayes,Les Cayes,18.1933,-73.746,1,National,0
+HTI4630,2018-01-23,1,Protests,Peaceful protest,Protesters (Haiti),Teachers (Haiti); Students (Haiti),,,Haiti,Artibonite,Gonaives,Gonaives,19.4475,-72.689,1,National,0
+HTI4631,2018-01-26,1,Riots,Violent demonstration,Rioters (Haiti),PHTK: Haitian Tet Kale Party,,,Haiti,Nippes,Miragoane,Chalon,18.4128,-73.0882,1,National,0
+HTI4632,2018-02-04,1,Protests,Peaceful protest,Protesters (Haiti),PHTK: Haitian Tet Kale Party,,,Haiti,Sud-Est,Jacmel,Jacmel,18.2343,-72.5354,1,National,0
+HTI4636,2018-02-20,2,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Leogane,Petit-Goave,18.4312,-72.8652,2,National,0
+HTI4637,2018-02-22,2,Riots,Violent demonstration,Rioters (Haiti),Students (Haiti),,,Haiti,Nord,Cap Haitien,Cap-Haitien,19.7594,-72.1982,1,National,0
+HTI4638,2018-02-26,1,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti),,,Haiti,Ouest,Leogane,Petit-Goave,18.4312,-72.8652,1,National,0
+HTI4641,2018-03-01,1,Strategic developments,Other,Armee Kosovo,PHTK: Haitian Tet Kale Party,,,Haiti,Nord-Est,Trou Du Nord,Trou-du-Nord,19.6166,-72.0244,1,National,0
+HTI4642,2018-03-02,1,Riots,Violent demonstration,Rioters (Haiti),Armee Kosovo; PHTK: Haitian Tet Kale Party,,,Haiti,Nord-Est,Trou Du Nord,Trou-du-Nord,19.6166,-72.0244,1,National,0
+HTI4643,2018-03-07,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti),,,Haiti,Nord-Est,Ouanaminthe,Ouanaminthe,19.5493,-71.7248,1,National,0
+HTI4645,2018-03-10,1,Protests,Peaceful protest,Protesters (Haiti),PHTK: Haitian Tet Kale Party,,,Haiti,Sud,Cayes,Les Cayes,18.1933,-73.746,1,National,0
+HTI4646,2018-03-12,1,Protests,Peaceful protest,Protesters (Haiti),PHTK: Haitian Tet Kale Party,,,Haiti,Nord-Est,Ouanaminthe,Ouanaminthe,19.5493,-71.7248,1,National,0
+HTI4648,2018-03-13,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti),,,Haiti,Nord-Est,Ouanaminthe,Ouanaminthe,19.5493,-71.7248,1,National,0
+HTI4650,2018-03-21,1,Violence against civilians,Attack,Unidentified Gang (Haiti),,Civilians (Haiti),Labor Group (Haiti),Haiti,Ouest,Archaie,Arcahaie,18.7701,-72.5118,1,National,1
+HTI4652,2018-04-13,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Haiti),,Civilians (Dominican Republic),Taxi/Bus Drivers (Dominican Republic),Haiti,Nord-Est,Ouanaminthe,Ouanaminthe,19.5493,-71.7248,1,National-Regional,0
+HTI4654,2018-05-01,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti),Protesters (Haiti),PHTK: Haitian Tet Kale Party,Haiti,Nord-Est,Ouanaminthe,Ouanaminthe,19.5493,-71.7248,1,National,0
+HTI4655,2018-05-01,2,Riots,Violent demonstration,Rioters (Haiti),Students (Haiti),,,Haiti,Nord-Ouest,Mole Saint Nicolas,Mole Saint Nicolas,19.8074,-73.3772,1,National,0
+HTI4656,2018-05-02,1,Riots,Mob violence,Rioters (Haiti),Vigilante Group (Haiti),Civilians (Haiti),,Haiti,Nord-Ouest,Saint Louis Du Nord,Saint-Louis du Nord,19.9334,-72.7209,1,National,1
+HTI4657,2018-05-08,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Women (Haiti),Haiti,Nord-Est,Trou Du Nord,Trou-du-Nord,19.6166,-72.0244,2,National,0
+HTI4659,2018-05-09,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Women (Haiti); Students (Haiti),Haiti,Nord-Est,Trou Du Nord,Trou-du-Nord,19.6166,-72.0244,1,National,1
+HTI4660,2018-05-14,1,Violence against civilians,Attack,Unidentified Gang (Haiti),,Civilians (Haiti),Catholic Christian Group (Haiti),Haiti,Ouest,Archaie,Cabaret,18.7358,-72.4193,1,National,4
+HTI4661,2018-05-15,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti),,,Haiti,Sud,Cayes,Les Cayes,18.1933,-73.746,1,National,0
+HTI4696,2018-05-25,2,Riots,Mob violence,Rioters (Haiti),MODOP: Dessalinian Popular Patriotic Movement,,,Haiti,Artibonite,Gonaives,L'Estere,19.3031,-72.6097,1,National,0
+HTI4699,2018-07-06,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Archaie,Cabaret,18.7358,-72.4193,1,National,0
+HTI4701,2018-07-06,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Grande-Anse,Jeremie,Jeremie,18.65,-74.1167,1,National,0
+HTI4703,2018-07-06,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Sud,Cayes,Les Cayes,18.1933,-73.746,1,National,0
+HTI4704,2018-10-10,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Artibonite,Saint Marc,Montrouis,18.9516,-72.7061,1,National,0
+HTI4705,2018-08-01,2,Strategic developments,Looting/property destruction,Unidentified Gang (Haiti),,Civilians (Haiti),Labor Group (Haiti),Haiti,Nippes,Miragoane,Fonds-des-Negres,18.3588,-73.2411,1,National,0
+HTI4717,2018-10-17,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Grande-Anse,Jeremie,Jeremie,18.65,-74.1167,1,National,0
+HTI4718,2018-10-19,1,Protests,Peaceful protest,Protesters (Haiti),PHTK: Haitian Tet Kale Party,,,Haiti,Nord-Ouest,Port De Paix,Port-de-Paix,19.9389,-72.8326,1,National,0
+HTI4719,2018-11-04,1,Riots,Violent demonstration,Rioters (Haiti),AAA: Haiti in Action,Rioters (Haiti),Independent Politicians (Haiti),Haiti,Artibonite,Gonaives,Gonaives,19.4475,-72.689,1,National,0
+HTI4723,2018-10-17,1,Violence against civilians,Attack,Unidentified Gang (Haiti),,Civilians (Haiti),,Haiti,Grande-Anse,Anse-d'Hainault,Anse-d'Hainault,18.4852,-74.4517,1,National,1
+HTI4730,2018-10-28,1,Violence against civilians,Attack,Military Forces of the Dominican Republic (2004-2020),,Civilians (Haiti),Refugees/IDPs (Haiti); Women (Haiti),Haiti,Nord-Est,Ouanaminthe,Ouanaminthe,19.5493,-71.7248,2,National,0
+HTI4733,2018-11-19,1,Violence against civilians,Attack,Unidentified Gang (Haiti),,Civilians (United States),Civilians (France),Haiti,Ouest,Croix Des Bouquets,Grace de Dieu,18.6781,-72.3174,2,National,0
+HTI986,2018-05-24,1,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti),,,Haiti,Ouest,Leogane,Petit-Goave,18.4312,-72.8652,1,National,0
+HTI1090,2018-09-29,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Artibonite,Saint Marc,Saint-Marc,19.1082,-72.6938,1,National,0
+HTI2060,2018-11-29,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Haiti),,Civilians (Haiti),Judges (Haiti),Haiti,Artibonite,Saint Marc,Saint-Marc,19.1082,-72.6938,1,National,0
+HTI4720,2018-11-16,1,Protests,Peaceful protest,Protesters (Haiti),PHTK: Haitian Tet Kale Party,,,Haiti,Artibonite,Saint Marc,Saint-Marc,19.1082,-72.6938,1,National,0
+HTI4722,2018-11-26,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Artibonite,Saint Marc,Saint-Marc,19.1082,-72.6938,1,National,0
+HTI6709,2018-07-05,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Nippes,Miragoane,Miragoane,18.4448,-73.0886,1,National,0
+HTI6710,2018-07-05,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Archaie,Arcahaie,18.7701,-72.5118,1,National,0
+HTI6711,2018-07-05,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Archaie,Cabaret,18.7358,-72.4193,1,National,0
+HTI6712,2018-07-05,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Croix Des Bouquets,Bon Repos,18.6257,-72.2709,1,National,0
+HTI6713,2018-07-05,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Croix Des Bouquets,Marassa,18.5829,-72.2395,2,National,0
+HTI6844,2018-04-09,2,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti); Teachers (Haiti),,,Haiti,Ouest,Croix Des Bouquets,Fonds Verrettes,18.396,-71.8514,1,National,0
+HTI6845,2018-04-10,1,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti),,,Haiti,Grande-Anse,Jeremie,Jeremie,18.65,-74.1167,1,National,0
+HTI6849,2018-07-14,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Nord,Cap Haitien,Cap-Haitien,19.7594,-72.1982,1,National,0
+HTI6850,2018-07-14,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Leogane,Petit-Goave,18.4312,-72.8652,1,National,0
+HTI6854,2018-05-16,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Centre,Hinche,Maissade,19.1748,-72.1395,1,National,0
+HTI6856,2018-08-13,2,Violence against civilians,Attack,Unidentified Gang (Haiti),,Civilians (Haiti),Labor Group (Haiti),Haiti,Ouest,Archaie,Dos Marotte,18.8655,-72.5607,1,National,1
+HTI6859,2018-08-16,1,Protests,Peaceful protest,Protesters (Haiti),Farmers (Haiti),,,Haiti,Artibonite,Saint Marc,Bocozelle,19.2078,-72.6402,1,National,0
+HTI6861,2018-08-13,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Leogane,Petit-Goave,18.4312,-72.8652,1,National,0
+HTI6862,2018-10-08,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Haiti),,Civilians (Haiti),Labor Group (Haiti),Haiti,Ouest,Leogane,Leogane,18.5111,-72.6334,2,National,0
+HTI6873,2018-06-02,2,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Women (Haiti),Haiti,Artibonite,Marmelade,Saint-Michel-de-l'Atalaye,19.3708,-72.3347,1,National,1
+HTI942,2018-02-15,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Women (Haiti),Haiti,Nippes,Miragoane,Miragoane,18.4448,-73.0886,1,National,1
+HTI1028,2018-07-25,1,Violence against civilians,Attack,Police Forces of Haiti (2017-2024),,Civilians (Haiti),,Haiti,Ouest,Leogane,Grand-Goave,18.4259,-72.7699,1,Other,0
+HTI1031,2018-08-05,1,Protests,Excessive force against protesters,Protesters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Nord-Est,Ouanaminthe,Ouanaminthe,19.5493,-71.7248,1,National,0
+HTI1058,2018-09-02,1,Violence against civilians,Attack,Police Forces of Haiti (2017-2024),,Civilians (Haiti),,Haiti,Grande-Anse,Corail,Roseaux,18.6006,-74.0195,1,Other-National,1
+HTI1073,2018-09-09,1,Violence against civilians,Attack,Police Forces of Haiti (2017-2024),,Civilians (Haiti),Prisoners (Haiti),Haiti,Artibonite,Marmelade,Saint-Michel-de-l'Atalaye,19.3708,-72.3347,1,Other-National,1
+HTI1076,2018-09-11,1,Violence against civilians,Attack,Police Forces of Haiti (2017-2024),,Civilians (Haiti),,Haiti,Artibonite,Gonaives,Gonaives,19.4475,-72.689,1,Other,1
+HTI1091,2018-09-29,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Government of Haiti (2017-2024),Haiti,Nord,Cap Haitien,Cap-Haitien,19.7594,-72.1982,1,National,1
+HTI1143,2018-11-18,1,Protests,Excessive force against protesters,Protesters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Nord,Cap Haitien,Cap-Haitien,19.7594,-72.1982,1,National-International,1
+HTI1144,2018-11-18,1,Protests,Excessive force against protesters,Protesters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Leogane,Petit-Goave,18.4312,-72.8652,1,National-International,2
+HTI1183,2018-12-12,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Police Forces of Haiti (2017-2024),Haiti,Ouest,Croix Des Bouquets,Santo,18.6025,-72.2639,1,National,1
+HTI1706,2018-02-19,1,Violence against civilians,Attack,Police Forces of Haiti (2017-2024),,Civilians (Haiti),Government of Haiti (2017-2024),Haiti,Nord-Est,Fort Liberte,Fort-Liberte,19.6637,-71.8367,2,National,0
+HTI1714,2018-03-10,1,Battles,Armed clash,PHTK: Haitian Tet Kale Party,,Police Forces of Haiti (2017-2024),,Haiti,Nippes,Miragoane,Miragoane,18.4448,-73.0886,1,National,0
+HTI1717,2018-04-20,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Sud-Est,Jacmel,Jacmel,18.2343,-72.5354,1,National,0
+HTI1756,2018-09-28,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Government of Haiti (2017-2024),Haiti,Ouest,Leogane,Grand-Goave,18.4259,-72.7699,1,National,1
+HTI1759,2018-10-17,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Artibonite,Saint Marc,Saint-Marc,19.1082,-72.6938,1,National,0
+HTI1760,2018-10-17,1,Riots,Violent demonstration,Rioters (Haiti),,Civilians (Haiti),Government of Haiti (2017-2024),Haiti,Artibonite,Saint Marc,Montrouis,18.9516,-72.7061,1,National,0
+HTI2015,2018-10-17,1,Protests,Protest with intervention,Protesters (Haiti),AAA: Haiti in Action,Police Forces of Haiti (2017-2024),,Haiti,Artibonite,Gonaives,Gonaives,19.4475,-72.689,1,National,0
+HTI2017,2018-10-17,1,Protests,Protest with intervention,Protesters (Haiti),Civilians (Haiti); Journalists (Haiti),Police Forces of Haiti (2017-2024),,Haiti,Centre,Mirebalais,Mirebalais,18.8346,-72.1048,1,National,0
+HTI2019,2018-10-17,1,Protests,Excessive force against protesters,Protesters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Leogane,Petit-Goave,18.4312,-72.8652,1,National,0
+HTI4639,2018-02-27,1,Riots,Violent demonstration,Rioters (Haiti),Students (Haiti),Police Forces of Haiti (2017-2024),Civilians (Haiti),Haiti,Ouest,Leogane,Petit-Goave,18.4312,-72.8652,1,National,0
+HTI4649,2018-03-16,1,Violence against civilians,Attack,Police Forces of Haiti (2017-2024),,Civilians (Haiti),,Haiti,Ouest,La Gonave,Anse a Galets,18.8345,-72.8647,1,National,1
+HTI4651,2018-03-31,1,Violence against civilians,Attack,Military Forces of Haiti (2017-2024),,Civilians (Haiti),,Haiti,Artibonite,Gros Morne,Anse Rouge,19.6318,-73.0552,1,National,0
+HTI4662,2018-05-16,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Government of Haiti (2017-2024),Haiti,Centre,Mirebalais,Boucan Carre,18.9248,-72.1475,2,National,0
+HTI4663,2018-05-23,3,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Leogane,Petit-Goave,18.4312,-72.8652,1,National,1
+HTI4698,2018-06-18,1,Protests,Peaceful protest,Protesters (Haiti),Government of Haiti (2017-2024),,,Haiti,Nord,Cap Haitien,Cap-Haitien,19.7594,-72.1982,1,National,0
+HTI4710,2018-09-15,1,Battles,Armed clash,Police Forces of Haiti (2017-2024),,Unidentified Gang (Haiti),,Haiti,Nord-Ouest,Saint Louis Du Nord,Saint-Louis du Nord,19.9334,-72.7209,1,National,0
+HTI4726,2018-10-30,2,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Government of Haiti (2017-2024),Haiti,Nord-Est,Trou Du Nord,Trou-du-Nord,19.6166,-72.0244,2,National,1
+HTI4738,2018-12-01,1,Battles,Armed clash,Police Forces of Haiti (2017-2024),,Police Forces of Haiti (2017-2024),,Haiti,Nippes,Miragoane,Miragoane,18.4448,-73.0886,2,National,1
+HTI4740,2018-11-18,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),PHTK: Haitian Tet Kale Party; Rioters (Haiti),Haiti,Sud,Cayes,Les Cayes,18.1933,-73.746,1,National,0
+HTI4742,2018-12-28,1,Battles,Armed clash,Police Forces of Haiti (2017-2024),,Twa Rigwaz Gang,,Haiti,Ouest,Croix Des Bouquets,Bon Repos,18.6257,-72.2709,1,National,1
+HTI6842,2018-01-21,2,Strategic developments,Looting/property destruction,Unidentified Armed Group (Haiti),,Civilians (Haiti),Government of Haiti (2017-2024),Haiti,Nippes,Miragoane,Miragoane,18.4448,-73.0886,1,National,0
+HTI6843,2018-01-25,2,Strategic developments,Looting/property destruction,Unidentified Armed Group (Haiti),,Civilians (Haiti),Government of Haiti (2017-2024),Haiti,Nippes,Miragoane,Miragoane,18.4448,-73.0886,1,National,0
+HTI6848,2018-07-02,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Nippes,Miragoane,Miragoane,18.4448,-73.0886,1,National,0
+HTI6851,2018-11-18,1,Riots,Mob violence,Rioters (Haiti),Prisoners (Haiti),Police Forces of Haiti (2017-2024),Police Forces of Haiti (2017-2024) Prison Guards,Haiti,Nippes,Anse-a-Veau,Anse-a-Veau,18.5011,-73.3449,1,National,1
+HTI6863,2018-10-29,2,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Government of Haiti (2017-2024),Haiti,Nord-Est,Trou Du Nord,Caracol,19.6939,-72.0179,2,National,1
+HTI6864,2018-11-04,2,Violence against civilians,Attack,Police Forces of Haiti (2017-2024),,Civilians (Haiti),Taxi/Bus Drivers (Haiti),Haiti,Nord-Est,Ouanaminthe,Ouanaminthe,19.5493,-71.7248,2,National,1
+HTI6867,2018-12-20,1,Battles,Armed clash,Police Forces of Haiti (2017-2024),,Unidentified Gang (Haiti),,Haiti,Sud,Aquin,Saint-Louis du Sud,18.2625,-73.5461,2,National,1
+HTI6869,2018-12-29,1,Battles,Armed clash,Police Forces of Haiti (2017-2024),,Base 5 Secondes Gang,,Haiti,Artibonite,Gonaives,L'Estere,19.3031,-72.6097,1,National,0
+HTI7292,2018-11-19,1,Protests,Protest with intervention,Protesters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Sud,Cayes,Les Cayes,18.1933,-73.746,1,National,0
+HTI936,2018-01-29,1,Riots,Mob violence,Rioters (Haiti),Teachers (Haiti),Police Forces of Haiti (2017-2024),Civilians (Haiti); Labor Group (Haiti),Haiti,Artibonite,Gonaives,Gonaives,19.4475,-72.689,1,National,0
+HTI944,2018-02-22,1,Protests,Peaceful protest,Protesters (Haiti),Government of Haiti (2017-2024),,,Haiti,Nippes,Miragoane,Miragoane,18.4448,-73.0886,1,National,0
+HTI970,2018-04-16,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Government of Haiti (2017-2024),Haiti,Ouest,Leogane,Petit-Goave,18.4312,-72.8652,1,National,0
+HTI972,2018-04-17,2,Strategic developments,Looting/property destruction,Unidentified Gang (Haiti),,Civilians (Haiti),Government of Haiti (2017-2024),Haiti,Ouest,Leogane,Leogane,18.5111,-72.6334,1,National,0
+HTI979,2018-04-27,1,Riots,Mob violence,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Sud-Est,Belle Anse,Thiotte,18.2447,-71.8421,1,National,0
+HTI988,2018-05-27,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Government of Haiti (2017-2024),Haiti,Nord,Cap Haitien,Cap-Haitien,19.7594,-72.1982,1,National,0
+HTI1102,2018-10-05,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Former Government of Haiti (2017-2024),Haiti,Nord-Est,Trou Du Nord,Sainte-Suzanne,19.5826,-72.0887,1,National,0
+HTI1162,2018-11-22,1,Battles,Armed clash,Unidentified Armed Group (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Delmas - Delmas 40b,18.5397,-72.3027,1,Other-National,0
+HTI1190,2018-12-28,1,Riots,Mob violence,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Petion Ville - Pernier,18.5136,-72.2383,1,National,0
+HTI1750,2018-09-10,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Cite Soleil - Duviviers,18.6011,-72.3208,1,National,0
+HTI1755,2018-09-19,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Carrefour - Fontamara,18.5269,-72.373,1,National,0
+HTI4634,2018-02-08,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Carrefour - Fontamara,18.5269,-72.373,1,National,0
+HTI4640,2018-02-28,1,Protests,Protest with intervention,Protesters (Haiti),Students (Haiti),Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Cite Soleil - Duviviers,18.6011,-72.3208,1,National,0
+HTI4644,2018-03-09,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Carrefour - Fontamara,18.5269,-72.373,1,National,0
+HTI4709,2018-07-06,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Petion Ville - Puits Blain,18.5345,-72.2715,1,National,5
+HTI4713,2018-07-07,2,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Tabarre - Tabarre 27,18.5801,-72.256,1,National,0
+HTI4739,2018-12-21,1,Battles,Armed clash,Unidentified Armed Group (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Carrefour - Cote Plage,18.5394,-72.3955,1,National,1
+HTI4756,2018-12-28,1,Violence against civilians,Attack,Police Forces of Haiti (2017-2024),,Civilians (Haiti),Taxi/Bus Drivers (Haiti),Haiti,Ouest,Port-au-Prince,Petion Ville - Pernier,18.5136,-72.2383,1,National,1
+HTI6865,2018-05-28,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Petion Ville - Jacquet Toto,18.5245,-72.2794,1,National,0
+HTI7291,2018-09-28,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),,Haiti,Ouest,Port-au-Prince,Delmas - Delmas 33,18.5506,-72.3053,1,National,1
+HTI991,2018-06-11,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Carrefour - Marine Haitienne,18.5331,-72.3795,1,National,0
+HTI1145,2018-11-18,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Petion Ville - Centre Ville (Sud),18.5101,-72.287,1,National-International,1
+HTI1704,2018-01-22,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Tabarre - Chateau Blond,18.5616,-72.2509,1,National,0
+HTI4700,2018-07-05,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Petion Ville - Pelerin,18.4996,-72.2927,1,National,0
+HTI4708,2018-07-04,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Petion Ville - Haut Pelerin,18.4969,-72.3038,1,National,0
+HTI997,2018-07-04,1,Violence against civilians,Attack,Police Forces of Haiti (2017-2024),,Civilians (Haiti),,Haiti,Ouest,Port-au-Prince,Petion Ville - Haut Pelerin,18.4969,-72.3038,1,Other,0
+HTI6868,2018-08-20,3,Riots,Violent demonstration,Rioters (Haiti),Labor Group (Haiti),,,Haiti,Ouest,Port-au-Prince,Carrefour - Centre Sportif de Carrefour,18.5361,-72.4061,1,National,0
+HTI6874,2018-08-29,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Carrefour - Centre Sportif de Carrefour,18.5361,-72.4061,1,National,0
+HTI1000,2018-07-06,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),Civilians (Haiti),Haiti,Ouest,Port-au-Prince,Delmas,18.5447,-72.3028,1,National-International,2
+HTI1006,2018-07-07,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Delmas - Delmas 32,18.543,-72.3062,1,National-International,1
+HTI1014,2018-07-08,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Delmas,18.5447,-72.3028,1,International,2
+HTI1068,2018-09-05,1,Battles,Armed clash,Unidentified Gang (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Petion Ville - Centre Ville (Nord),18.5115,-72.2831,1,National,2
+HTI1098,2018-10-02,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),Government of Haiti (2017-2024),Civilians (Haiti),Government of Haiti (2017-2024); Women (Haiti),Haiti,Ouest,Port-au-Prince,Tabarre,18.5833,-72.2667,1,Other,0
+HTI1707,2018-02-23,1,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti),,,Haiti,Ouest,Port-au-Prince,Delmas,18.5447,-72.3028,1,National,0
+HTI1708,2018-02-23,1,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti),,,Haiti,Ouest,Port-au-Prince,Petionville,18.5132,-72.286,1,National,0
+HTI1724,2018-05-23,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti),,,Haiti,Ouest,Port-au-Prince,Delmas,18.5447,-72.3028,1,National,0
+HTI1729,2018-07-14,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Delmas,18.5447,-72.3028,1,National,0
+HTI1744,2018-09-02,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti); Students (Haiti); Teachers (Haiti),,,Haiti,Ouest,Port-au-Prince,Delmas,18.5447,-72.3028,1,National,0
+HTI2020,2018-10-17,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Carrefour,18.5411,-72.3992,1,National,0
+HTI2021,2018-10-17,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Cite Soleil,18.5783,-72.3356,1,National,0
+HTI2022,2018-10-17,1,Riots,Violent demonstration,Rioters (Haiti),,Unidentified Armed Group (Haiti),,Haiti,Ouest,Port-au-Prince,Delmas - Delmas 34,18.5452,-72.3034,1,National,0
+HTI2039,2018-11-18,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Gressier,18.5409,-72.5268,1,National,0
+HTI2057,2018-11-20,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Petionville,18.5132,-72.286,1,National,0
+HTI2068,2018-12-16,1,Protests,Protest with intervention,Protesters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Tabarre,18.5833,-72.2667,1,National,0
+HTI4697,2018-05-16,2,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),,Haiti,Ouest,Port-au-Prince,Tabarre,18.5833,-72.2667,1,National,1
+HTI6857,2018-06-11,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti),,,Haiti,Ouest,Port-au-Prince,Tabarre,18.5833,-72.2667,1,National,0
+HTI6858,2018-06-12,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti),,,Haiti,Ouest,Port-au-Prince,Tabarre,18.5833,-72.2667,1,National,0
+HTI6860,2018-09-23,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Petionville,18.5132,-72.286,1,National,0
+HTI1020,2018-07-09,1,Protests,Excessive force against protesters,Protesters (Haiti),Students (Haiti),Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Champs de Mars,18.5422,-72.3369,1,National,0
+HTI1034,2018-08-06,1,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Les Ruelles Riviere,18.5376,-72.3217,1,National,0
+HTI1047,2018-08-24,1,Protests,Peaceful protest,Protesters (Haiti),RDNP: Rally of Progressive National Democrats,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Turgeau,18.5342,-72.3312,1,National-International,0
+HTI1056,2018-08-31,1,Battles,Armed clash,Unidentified Gang (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Cite de Dieu,18.539,-72.3526,1,National,1
+HTI1096,2018-10-01,1,Violence against civilians,Attack,Unidentified Gang (Haiti),,Civilians (Haiti),RDNP: Rally of Progressive National Democrats,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Carrefour Feuilles,18.5248,-72.3406,1,National,0
+HTI1106,2018-10-11,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Deprez,18.5266,-72.3315,1,National,0
+HTI1108,2018-10-15,1,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bois Patate,18.5341,-72.322,1,National,0
+HTI1121,2018-10-22,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Champs de Mars,18.5422,-72.3369,1,National,0
+HTI1122,2018-10-23,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Nazon,18.5463,-72.3209,1,National,0
+HTI1123,2018-10-24,2,Battles,Armed clash,Unidentified Armed Group (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Martissant,18.5283,-72.3594,1,National,3
+HTI1124,2018-10-29,1,Battles,Armed clash,Base Pilate Gang,,Base 5 Secondes Gang,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Martissant,18.5283,-72.3594,1,National,0
+HTI1152,2018-11-19,1,Battles,Armed clash,Base Nan Chabon Gang,,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - La Saline,18.5599,-72.3461,1,National,1
+HTI1185,2018-12-20,1,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti); Petro Challenge Movement,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Turgeau,18.5342,-72.3312,1,National,0
+HTI1188,2018-12-22,1,Battles,Armed clash,Ti Je Gang,,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Descayettes,18.5215,-72.3492,1,National,3
+HTI1711,2018-04-04,1,Riots,Violent demonstration,Rioters (Haiti),Students (Haiti),Police Forces of Haiti (2017-2024),Civilians (Haiti),Haiti,Ouest,Port-au-Prince,Port-au-Prince - Martissant,18.5283,-72.3594,1,National,0
+HTI1716,2018-04-17,1,Battles,Armed clash,Village de Dieu Gang,,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Martissant,18.5283,-72.3594,1,National,0
+HTI1720,2018-05-10,1,Riots,Violent demonstration,Rioters (Haiti),Students (Haiti),Civilians (Haiti),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Martissant,18.5283,-72.3594,1,National,0
+HTI1721,2018-04-12,1,Battles,Armed clash,Unidentified Gang (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Grand Ravine,18.5217,-72.356,1,National,5
+HTI1725,2018-05-24,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Health Workers (Haiti),Haiti,Ouest,Port-au-Prince,Port-au-Prince - Portail Leogane/Cite Louverture,18.5343,-72.3486,1,National,5
+HTI1726,2018-06-04,1,Protests,Peaceful protest,Protesters (Haiti),Journalists (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bois Verna,18.538,-72.328,1,National,0
+HTI1740,2018-08-20,1,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bicentenaire,18.5445,-72.3477,1,National,0
+HTI1742,2018-08-30,1,Battles,Armed clash,Unidentified Gang (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Cite de Dieu,18.539,-72.3526,1,National,1
+HTI1746,2018-09-06,1,Battles,Armed clash,Unidentified Armed Group (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bicentenaire,18.5445,-72.3477,1,National,1
+HTI1757,2018-10-09,1,Protests,Peaceful protest,Protesters (Haiti),Fanmi Lavalas,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bicentenaire,18.5445,-72.3477,1,National,0
+HTI2023,2018-10-23,1,Battles,Armed clash,Ti Je Gang,,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Savanne Pistaches,18.5225,-72.3456,1,National,2
+HTI2024,2018-10-29,1,Battles,Armed clash,Village de Dieu Gang,,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Martissant,18.5283,-72.3594,1,National,3
+HTI2025,2018-10-30,1,Riots,Mob violence,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bel Air,18.551,-72.3358,1,National,2
+HTI2028,2018-11-02,1,Violence against civilians,Attack,Unidentified Gang (Haiti),,Civilians (Haiti),Labor Group (Haiti),Haiti,Ouest,Port-au-Prince,Port-au-Prince - Croix des Bossales,18.5542,-72.3452,1,National,3
+HTI4629,2018-01-19,1,Protests,Peaceful protest,Protesters (Haiti),Voodoo Group (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Champs de Mars,18.5422,-72.3369,1,National,0
+HTI4658,2018-05-09,1,Battles,Armed clash,Unidentified Gang (Haiti),,Unidentified Gang (Haiti),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Cite de Dieu,18.539,-72.3526,1,National,2
+HTI4707,2018-09-25,1,Riots,Violent demonstration,Rioters (Haiti),Repons Peyizan,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Champs de Mars,18.5422,-72.3369,1,National,0
+HTI4725,2018-10-25,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Labor Group (Haiti),Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bas Peu de Choses,18.5339,-72.338,1,National,3
+HTI4728,2018-11-12,2,Battles,Armed clash,Unidentified Armed Group (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bicentenaire,18.5445,-72.3477,1,National,0
+HTI6707,2018-03-19,1,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Champs de Mars,18.5422,-72.3369,1,National,0
+HTI6715,2018-11-10,1,Battles,Armed clash,Unidentified Gang (Haiti),,Unidentified Gang (Haiti),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - La Saline,18.5599,-72.3461,1,National,3
+HTI6853,2018-06-09,1,Violence against civilians,Attack,Base 5 Secondes Gang,,Civilians (Haiti),Taxi/Bus Drivers (Haiti),Haiti,Ouest,Port-au-Prince,Port-au-Prince - Portail Leogane/Cite Louverture,18.5343,-72.3486,1,National,1
+HTI7715,2018-04-12,1,Battles,Armed clash,Unidentified Gang (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Cite de Dieu,18.539,-72.3526,1,National,5
+HTI7838,2018-08-31,1,Battles,Armed clash,Unidentified Gang (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bicentenaire,18.5445,-72.3477,1,National,1
+HTI7839,2018-08-31,1,Battles,Armed clash,Unidentified Gang (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Martissant,18.5283,-72.3594,1,National,0
+HTI935,2018-01-26,1,Riots,Mob violence,Rioters (Haiti),Students (Haiti),Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Champs de Mars,18.5422,-72.3369,1,National,0
+HTI940,2018-02-06,1,Protests,Peaceful protest,Protesters (Haiti),Teachers (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Saint Antoine/Lalue,18.5434,-72.3284,1,National,0
+HTI981,2018-05-01,1,Battles,Armed clash,Grand-Ravine Gang,,Ti Bwa Gang,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Martissant,18.5283,-72.3594,1,National,1
+HTI982,2018-05-10,1,Battles,Armed clash,Unidentified Gang (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Martissant,18.5283,-72.3594,1,National,0
+HTI987,2018-05-24,1,Battles,Armed clash,Unidentified Gang (Haiti),,Unidentified Gang (Haiti),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Martissant,18.5283,-72.3594,1,National,0
+HTI989,2018-05-30,1,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Champs de Mars,18.5422,-72.3369,1,National,0
+HTI7628,2018-10-03,1,Violence against civilians,Attack,Police Forces of Haiti (2017-2024),,Civilians (Haiti),Lawyers (Haiti),Haiti,Ouest,Port-au-Prince,Delmas - Delmas 33,18.5506,-72.3053,1,National,0
+HTI931,2018-01-09,1,Riots,Violent demonstration,Rioters (Haiti),Child of Dessalines Platform Party; PPD: Platfom Pitit Desalin,Rioters (Haiti),,Haiti,Ouest,Port-au-Prince,Delmas,18.5447,-72.3028,1,National,0
+HTI932,2018-01-18,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Nippes,Miragoane,Miragoane,18.4448,-73.0886,1,National,0
+HTI938,2018-01-30,2,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti),,,Haiti,Artibonite,Gonaives,Gonaives,19.4475,-72.689,1,National,0
+HTI941,2018-02-06,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Sud,Cayes,Torbeck,18.1634,-73.8095,1,National,0
+HTI945,2018-02-26,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti); Students (Haiti),,,Haiti,Artibonite,Gonaives,Gonaives,19.4475,-72.689,1,National,0
+HTI946,2018-02-26,1,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti),,,Haiti,Nord,Cap Haitien,Cap-Haitien,19.7594,-72.1982,1,National,0
+HTI947,2018-02-27,1,Riots,Violent demonstration,Rioters (Haiti),Students (Haiti),,,Haiti,Nord,Cap Haitien,Cap-Haitien,19.7594,-72.1982,1,National,0
+HTI948,2018-02-27,1,Protests,Protest with intervention,Protesters (Haiti),Students (Haiti),Police Forces of Haiti (2017-2024),,Haiti,Nord,Limbe,Limbe,19.706,-72.4034,1,National,0
+HTI949,2018-02-27,1,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti),,,Haiti,Nord-Ouest,Mole Saint Nicolas,Jean-Rabel,19.8557,-73.1924,1,National,0
+HTI950,2018-02-28,2,Riots,Violent demonstration,Rioters (Haiti),Students (Haiti),Police Forces of Haiti (2017-2024),,Haiti,Nord-Ouest,Port De Paix,Port-de-Paix,19.9389,-72.8326,1,National,0
+HTI951,2018-02-28,1,Riots,Violent demonstration,Rioters (Haiti),Students (Haiti),Police Forces of Haiti (2017-2024),,Haiti,Ouest,Leogane,Petit-Goave,18.4312,-72.8652,1,National,0
+HTI952,2018-02-28,1,Riots,Violent demonstration,Rioters (Haiti),Students (Haiti),Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Cite Soleil,18.5783,-72.3356,1,National,0
+HTI954,2018-03-10,1,Riots,Mob violence,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Nippes,Miragoane,Miragoane,18.4448,-73.0886,1,National,0
+HTI955,2018-03-12,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Government of Haiti (2017-2024),Haiti,Centre,Cerca La Source,Thomassique,19.08,-71.8419,2,National,0
+HTI958,2018-03-16,1,Protests,Peaceful protest,Protesters (Haiti),Child of Dessalines Platform Party,,,Haiti,Nord,Cap Haitien,Cap-Haitien,19.7594,-72.1982,1,National,0
+HTI961,2018-03-27,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti),,,Haiti,Sud,Cayes,Les Cayes,18.1933,-73.746,1,National,0
+HTI967,2018-04-11,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Cite de Dieu,18.539,-72.3526,1,National,0
+HTI968,2018-04-12,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Champs de Mars,18.5422,-72.3369,1,National,0
+HTI973,2018-04-18,1,Protests,Excessive force against protesters,Protesters (Haiti),BOD: Democratic Opposition Block; PPD: Platfom Pitit Desalin,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Delmas,18.5447,-72.3028,1,National,1
+HTI975,2018-04-25,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Petion Ville - Pernier,18.5136,-72.2383,1,National,0
+HTI976,2018-04-25,1,Riots,Violent demonstration,Rioters (Haiti),Students (Haiti),Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - La Saline,18.5599,-72.3461,1,National,0
+HTI977,2018-04-25,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti),,,Haiti,Sud,Cayes,Les Cayes,18.1933,-73.746,1,National,0
+HTI980,2018-04-28,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Government of Haiti (2017-2024); Journalists (Haiti),Haiti,Nord,Cap Haitien,Cap-Haitien,19.7594,-72.1982,1,National,1
+HTI983,2018-05-14,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti),,,Haiti,Ouest,Port-au-Prince,Tabarre - Chateau Blond,18.5616,-72.2509,1,National,0
+HTI990,2018-06-01,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Sud,Cayes,Les Cayes,18.1933,-73.746,1,National,0
+HTI992,2018-06-19,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Cite de Dieu,18.539,-72.3526,1,National,0
+HTI994,2018-06-26,2,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),,Haiti,Ouest,Port-au-Prince,Petion Ville - Pelerin,18.4996,-72.2927,1,National,1
+HTI995,2018-06-28,1,Riots,Violent demonstration,Rioters (Haiti),Labor Group (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Champs de Mars,18.5422,-72.3369,1,National,0
+HTI996,2018-07-03,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),Civilians (Haiti),Haiti,Nippes,Miragoane,Miragoane,18.4448,-73.0886,1,National,0
+HTI998,2018-07-04,2,Battles,Armed clash,Unidentified Gang (Haiti),,Unidentified Gang (Haiti),,Haiti,Ouest,Port-au-Prince,Carrefour - Fontamara,18.5269,-72.373,1,National,0
+HTI999,2018-07-06,1,Protests,Peaceful protest,Protesters (Haiti),Taxi/Bus Drivers (Haiti),,,Haiti,Artibonite,Gonaives,Gonaives,19.4475,-72.689,1,National,0
+HTI1003,2018-07-07,1,Riots,Violent demonstration,Rioters (Haiti),Students (Haiti),,,Haiti,Artibonite,Gonaives,Gonaives,19.4475,-72.689,1,National,0
+HTI1010,2018-07-07,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Sud-Est,Belle Anse,Belle-Anse,18.2377,-72.0664,1,National,0
+HTI1011,2018-07-07,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Sud-Est,Jacmel,Cayes-Jacmel,18.2311,-72.3955,1,National,0
+HTI1012,2018-07-07,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Sud-Est,Jacmel,La Vallee,18.2694,-72.667,1,National,0
+HTI1013,2018-07-07,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Sud-Est,Jacmel,Marigot,18.2317,-72.3229,1,National,0
+HTI1016,2018-07-09,1,Riots,Violent demonstration,Rioters (Haiti),Students (Haiti),Police Forces of Haiti (2017-2024),,Haiti,Artibonite,Gonaives,Gonaives,19.4475,-72.689,1,National,0
+HTI1017,2018-07-09,1,Protests,Protest with intervention,Protesters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Centre,Hinche,Hinche,19.15,-72.0167,1,National,0
+HTI1025,2018-07-20,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),PHTK: Haitian Tet Kale Party,Haiti,Ouest,Archaie,Arcahaie,18.7701,-72.5118,1,National,2
+HTI1026,2018-07-24,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bicentenaire,18.5445,-72.3477,1,National,0
+HTI1029,2018-07-30,1,Battles,Armed clash,Unidentified Gang (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Archaie,Arcahaie,18.7701,-72.5118,1,National,1
+HTI1030,2018-07-30,1,Violence against civilians,Attack,Unidentified Gang (Haiti),,Civilians (Haiti),Government of Haiti (2017-2024); PHTK: Haitian Tet Kale Party,Haiti,Ouest,Archaie,Arcahaie,18.7701,-72.5118,1,National,2
+HTI1032,2018-08-06,1,Protests,Peaceful protest,Protesters (Haiti),Health Workers (Haiti),,,Haiti,Centre,Mirebalais,Mirebalais,18.8346,-72.1048,1,National,0
+HTI1033,2018-08-06,1,Riots,Mob violence,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Leogane,Leogane,18.5111,-72.6334,1,National,0
+HTI1035,2018-08-07,1,Protests,Peaceful protest,Protesters (Haiti),Health Workers (Haiti),,,Haiti,Centre,Mirebalais,Mirebalais,18.8346,-72.1048,1,National,0
+HTI1040,2018-08-16,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Artibonite,Saint Marc,Pont Sonde,19.1484,-72.6144,1,National,0
+HTI1041,2018-08-16,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Artibonite,Dessalines,Petite Riviere de l'Artibonite,19.124,-72.4817,2,National,0
+HTI1042,2018-08-16,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Martissant,18.5283,-72.3594,1,National,0
+HTI1046,2018-08-21,1,Protests,Peaceful protest,Protesters (Haiti),Lawyers (Haiti),,,Haiti,Ouest,Port-au-Prince,Petion Ville - Haut Pelerin,18.4969,-72.3038,1,National,0
+HTI1048,2018-08-25,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Nord,Cap Haitien,Cap-Haitien,19.7594,-72.1982,1,National,0
+HTI1049,2018-08-27,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Haiti),,Civilians (Haiti),Government of Haiti (2017-2024),Haiti,Nippes,Miragoane,Miragoane,18.4448,-73.0886,1,National,0
+HTI1052,2018-08-28,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Government of Haiti (2017-2024); KONA: The Konbit National Party,Haiti,Ouest,Port-au-Prince,Delmas - Delmas 40b,18.5397,-72.3027,1,National,0
+HTI1054,2018-08-29,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Martissant,18.5283,-72.3594,1,National,0
+HTI1057,2018-08-31,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Centre Ville,18.5489,-72.3426,1,National,0
+HTI1059,2018-09-02,1,Riots,Mob violence,Rioters (Haiti),,,,Haiti,Nippes,Miragoane,Miragoane,18.4448,-73.0886,1,National,0
+HTI1060,2018-09-03,1,Riots,Violent demonstration,Rioters (Haiti),Students (Haiti),Police Forces of Haiti (2017-2024),,Haiti,Artibonite,Gonaives,Gonaives,19.4475,-72.689,1,National,0
+HTI1061,2018-09-03,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Nippes,Miragoane,Miragoane,18.4448,-73.0886,1,National,0
+HTI1064,2018-09-04,1,Riots,Violent demonstration,Rioters (Haiti),Students (Haiti),,,Haiti,Artibonite,Gonaives,Gonaives,19.4475,-72.689,1,National,0
+HTI1065,2018-09-04,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Artibonite,Gonaives,Gonaives,19.4475,-72.689,1,National,0
+HTI1066,2018-09-04,2,Riots,Mob violence,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Artibonite,Saint Marc,Saint-Marc,19.1082,-72.6938,1,National,0
+HTI1069,2018-09-06,2,Riots,Mob violence,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Artibonite,Marmelade,Saint-Michel-de-l'Atalaye,19.3708,-72.3347,1,National,0
+HTI1070,2018-09-07,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Leogane,Leogane,18.5111,-72.6334,1,National,0
+HTI1072,2018-09-07,1,Protests,Peaceful protest,Protesters (Haiti),KONA: The Konbit National Party,,,Haiti,Sud-Est,Jacmel,Jacmel,18.2343,-72.5354,1,National,0
+HTI1078,2018-09-13,1,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti); Teachers (Haiti),,,Haiti,Nord,Limbe,Limbe,19.706,-72.4034,1,National,0
+HTI1082,2018-09-18,1,Protests,Peaceful protest,Protesters (Haiti),Christian Group (Haiti),,,Haiti,Ouest,Port-au-Prince,Delmas - Delmas 83,18.5353,-72.288,1,National,0
+HTI1083,2018-09-19,1,Battles,Armed clash,Djol Boule Gang,,Private Security Forces (Haiti),Government of Haiti (2017-2024),Haiti,Nippes,Miragoane,Miragoane,18.4448,-73.0886,1,National,1
+HTI1085,2018-09-20,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Sud-Est,Jacmel,Jacmel,18.2343,-72.5354,1,National,0
+HTI1088,2018-09-26,3,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Haiti),,Civilians (Haiti),Labor Group (Haiti),Haiti,Ouest,Leogane,Leogane,18.5111,-72.6334,1,National,0
+HTI1089,2018-09-28,1,Protests,Peaceful protest,Protesters (Haiti),PHTK: Haitian Tet Kale Party,,,Haiti,Ouest,Port-au-Prince,Tabarre,18.5833,-72.2667,1,National,0
+HTI1092,2018-09-29,1,Protests,Protest with intervention,Protesters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Tabarre,18.5833,-72.2667,1,National,0
+HTI1095,2018-10-01,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Petion Ville - Haut Pelerin,18.4969,-72.3038,1,National,0
+HTI1099,2018-10-03,1,Violence against civilians,Attack,Police Forces of Haiti (2017-2024),,Civilians (Haiti),Lawyers (Haiti),Haiti,Ouest,Port-au-Prince,Delmas - Gerald Bataille,18.5659,-72.2858,1,National,0
+HTI1100,2018-10-04,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Leogane,Leogane,18.5111,-72.6334,1,National,0
+HTI1103,2018-10-08,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti),,,Haiti,Nord-Est,Ouanaminthe,Ouanaminthe,19.5493,-71.7248,1,National,0
+HTI1110,2018-10-16,1,Protests,Protest with intervention,Protesters (Haiti),Students (Haiti),Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Champs de Mars,18.5422,-72.3369,1,National,0
+HTI1113,2018-10-17,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),Civilians (Haiti),Haiti,Ouest,Leogane,Leogane,18.5111,-72.6334,1,National,0
+HTI1114,2018-10-17,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Petion Ville - Centre Ville (Sud),18.5101,-72.287,1,National,0
+HTI1117,2018-10-17,1,Protests,Excessive force against protesters,Protesters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Sud,Cayes,Les Cayes,18.1933,-73.746,1,National,1
+HTI1118,2018-10-17,1,Riots,Violent demonstration,Rioters (Haiti),Petro Challenge Movement,Police Forces of Haiti (2017-2024),,Haiti,Sud-Est,Jacmel,Jacmel,18.2343,-72.5354,1,National,0
+HTI1119,2018-10-18,1,Riots,Mob violence,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Grande-Anse,Anse-d'Hainault,Anse-d'Hainault,18.4852,-74.4517,1,National,0
+HTI1125,2018-10-31,1,Battles,Armed clash,Police Forces of Haiti (2017-2024),,Police Forces of Haiti (2017-2024),,Haiti,Nord-Est,Ouanaminthe,Ouanaminthe,19.5493,-71.7248,2,National,1
+HTI1126,2018-10-31,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Nord-Est,Ouanaminthe,Ouanaminthe,19.5493,-71.7248,1,National,0
+HTI1130,2018-11-01,1,Violence against civilians,Attack,Base Nan Chabon Gang,Kafou Labatwa Gang,Civilians (Haiti),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - La Saline,18.5599,-72.3461,1,Other-National,5
+HTI1132,2018-11-02,1,Battles,Armed clash,Base Project La Saline Gang,,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - La Saline,18.5599,-72.3461,1,National,1
+HTI1134,2018-11-05,1,Protests,Peaceful protest,Protesters (Haiti),Lawyers (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bicentenaire,18.5445,-72.3477,1,National,0
+HTI1136,2018-11-10,1,Protests,Peaceful protest,Protesters (Haiti),PPD: Platfom Pitit Desalin,,,Haiti,Nord,Cap Haitien,Cap-Haitien,19.7594,-72.1982,1,National,0
+HTI1137,2018-11-12,1,Riots,Violent demonstration,Rioters (Haiti),Prisoners (Haiti),Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Centre Ville,18.5489,-72.3426,1,National,0
+HTI1138,2018-11-13,1,Violence against civilians,Sexual violence,Base Nan Chabon Gang,Base Nan Tokyo Gang; Baz Pilat Gang; Bwadom Gang; Delmas 6 Gang; Government of Haiti (2017-2024); Police Forces of Haiti (2017-2024),Civilians (Haiti),Women (Haiti),Haiti,Ouest,Port-au-Prince,Port-au-Prince - La Saline,18.5599,-72.3461,1,Other-National,71
+HTI1140,2018-11-15,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Government of Haiti (2017-2024); Patriotic Unity,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bicentenaire,18.5445,-72.3477,1,National,0
+HTI1142,2018-11-18,1,Riots,Violent demonstration,Rioters (Haiti),,Rioters (Haiti),Civilians (Haiti); Government of Haiti (2017-2024); Police Forces of Haiti (2017-2024),Haiti,Nippes,Miragoane,Miragoane,18.4448,-73.0886,1,National,1
+HTI1147,2018-11-19,1,Strategic developments,Looting/property destruction,Unidentified Gang (Haiti),PHTK: Haitian Tet Kale Party,Civilians (Haiti),Fusion of Haitian Social Democrats,Haiti,Nippes,Miragoane,Chalon,18.4128,-73.0882,1,National,0
+HTI1148,2018-11-19,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Nippes,Miragoane,Miragoane,18.4448,-73.0886,1,National,0
+HTI1153,2018-11-20,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Nippes,Miragoane,Miragoane,18.4448,-73.0886,1,National,0
+HTI1155,2018-11-20,1,Battles,Armed clash,Unidentified Armed Group (Haiti),,Unidentified Armed Group (Haiti),,Haiti,Sud,Cayes,Les Cayes,18.1933,-73.746,1,National,0
+HTI1156,2018-11-20,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Sud,Cayes,Les Cayes,18.1933,-73.746,1,National,0
+HTI1158,2018-11-21,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Nippes,Miragoane,Chalon,18.4128,-73.0882,1,National,1
+HTI1159,2018-11-21,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Nippes,Miragoane,Miragoane,18.4448,-73.0886,1,National,0
+HTI1161,2018-11-22,1,Protests,Protest with intervention,Protesters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Centre,Hinche,Hinche,19.15,-72.0167,1,National,0
+HTI1163,2018-11-21,1,Battles,Armed clash,Unidentified Gang (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Nippes,Miragoane,Miragoane,18.4448,-73.0886,1,National,1
+HTI1165,2018-11-23,1,Riots,Violent demonstration,Rioters (Haiti),PHTK: Haitian Tet Kale Party,Police Forces of Haiti (2017-2024),Civilians (Haiti); Journalists (Haiti),Haiti,Ouest,Port-au-Prince,Petionville,18.5132,-72.286,1,National,0
+HTI1167,2018-11-24,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Artibonite,Gonaives,Gonaives,19.4475,-72.689,1,National,0
+HTI1170,2018-11-24,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - La Saline,18.5599,-72.3461,1,National,1
+HTI1171,2018-11-27,1,Violence against civilians,Attack,Police Forces of Haiti (2017-2024),,Civilians (Haiti),Taxi/Bus Drivers (Haiti),Haiti,Grande-Anse,Corail,Beaumont,18.4782,-73.9577,1,National,1
+HTI1172,2018-11-27,1,Riots,Mob violence,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Grande-Anse,Corail,Beaumont,18.4782,-73.9577,1,National,0
+HTI1173,2018-11-27,1,Protests,Peaceful protest,Protesters (Haiti),PHTK: Haitian Tet Kale Party,,,Haiti,Nord-Ouest,Port De Paix,Port-de-Paix,19.9389,-72.8326,1,National,0
+HTI1182,2018-12-10,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Nippes,Miragoane,Chalon,18.4128,-73.0882,1,National,0
+HTI1186,2018-12-22,1,Battles,Armed clash,Unidentified Armed Group (Haiti),,Unidentified Armed Group (Haiti),,Haiti,Nord,Limbe,Limbe,19.706,-72.4034,1,National,5
+HTI1187,2018-12-22,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),,Haiti,Nord,Limbe,Limbe,19.706,-72.4034,1,National,1
+HTI1179,2018-12-05,1,Riots,Mob violence,Rioters (Haiti),Vigilante Group (Haiti),Civilians (Haiti),,Haiti,Ouest,Archaie,Leveque,18.7644,-72.4388,1,National,2
+HTI1749,2018-09-10,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Carrefour - Le Lambi,18.5388,-72.4484,1,National,0
+HTI930,2018-01-08,2,Protests,Peaceful protest,Protesters (Haiti),Teachers (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,0
+HTI934,2018-01-22,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,International,0
+HTI939,2018-02-01,1,Protests,Protest with intervention,Protesters (Haiti),Teachers (Haiti),Rioters (Haiti),Police Forces of Haiti (2017-2024),Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bicentenaire,18.5445,-72.3477,1,National,0
+HTI4633,2018-02-02,1,Violence against civilians,Attack,Private Security Forces (Haiti),,Civilians (Haiti),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bas Peu de Choses,18.5339,-72.338,1,National,0
+HTI943,2018-02-19,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,0
+HTI953,2018-03-08,1,Protests,Peaceful protest,Protesters (Haiti),Women (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,1,National,0
+HTI4647,2018-03-13,1,Protests,Peaceful protest,Protesters (Haiti),PHTK: Haitian Tet Kale Party,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,0
+HTI957,2018-03-14,1,Riots,Violent demonstration,Rioters (Haiti),Students (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Champs de Mars,18.5422,-72.3369,1,National,0
+HTI959,2018-03-20,1,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,0
+HTI960,2018-03-27,1,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Champs de Mars,18.5422,-72.3369,1,National,0
+HTI962,2018-03-28,1,Protests,Peaceful protest,Protesters (Haiti),Journalists (Haiti); Journalists (International),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bicentenaire,18.5445,-72.3477,1,National-International,0
+HTI1712,2018-04-08,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Champs de Mars,18.5422,-72.3369,1,National,1
+HTI964,2018-04-08,1,Violence against civilians,Attack,Unidentified Gang (Haiti),,Civilians (Haiti),Police Forces of Haiti (2017-2024),Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bicentenaire,18.5445,-72.3477,1,National,1
+HTI8286,2018-04-08,1,Strategic developments,Other,Unidentified Gang (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,1,National,1
+HTI8287,2018-04-08,1,Battles,Armed clash,Unidentified Gang (Haiti),,Unidentified Gang (Haiti),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bicentenaire,18.5445,-72.3477,1,National,0
+HTI8288,2018-04-08,1,Battles,Armed clash,Unidentified Gang (Haiti),,Unidentified Gang (Haiti),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Portail Leogane/Cite Louverture,18.5343,-72.3486,1,National,0
+HTI965,2018-04-09,1,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Centre Ville,18.5489,-72.3426,1,National,0
+HTI6708,2018-04-10,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,1,National,0
+HTI971,2018-04-16,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Artibonite,Gonaives,Gonaives,19.4475,-72.689,1,National,0
+HTI974,2018-04-23,1,Riots,Violent demonstration,Rioters (Haiti),Students (Haiti),Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - La Saline,18.5599,-72.3461,1,National,0
+HTI6846,2018-04-28,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bois Verna,18.538,-72.328,1,National,0
+HTI1718,2018-05-01,1,Riots,Violent demonstration,Rioters (Haiti),Students (Haiti),Civilians (Haiti),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Champs de Mars,18.5422,-72.3369,1,National,0
+HTI1719,2018-05-02,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bicentenaire,18.5445,-72.3477,1,National,0
+HTI1723,2018-05-18,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,0
+HTI984,2018-05-21,1,Riots,Violent demonstration,Rioters (Haiti),Labor Group (Haiti),Civilians (Haiti),Labor Group (Haiti),Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,0
+HTI4695,2018-05-23,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Haiti),,Civilians (Haiti),Government of Haiti (2017-2024); MODOP: Dessalinian Popular Patriotic Movement,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bicentenaire,18.5445,-72.3477,1,National,0
+HTI929,2018-06-11,1,Riots,Violent demonstration,Rioters (Haiti),CNOHA: National Coordination for Haitian Workers; Labor Group (Haiti),Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Delmas - Carrefour Drouillard/Parc Industriel,18.5731,-72.3141,1,National,0
+HTI6847,2018-06-12,1,Protests,Protest with intervention,Protesters (Haiti),CNOHA: National Coordination for Haitian Workers; Labor Group (Haiti),Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,0
+HTI993,2018-06-21,1,Protests,Peaceful protest,Protesters (Haiti),Teachers (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,0
+HTI926,2018-06-30,2,Battles,Armed clash,Grand-Ravine Gang,Village de Dieu Gang,Ti Bwa Gang,Baz Pilat Gang,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Martissant,18.5283,-72.3594,1,National,1
+HTI4702,2018-07-05,1,Battles,Armed clash,Unidentified Gang (Haiti),,Ti Bwa Gang,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Ti Bois,18.5239,-72.358,1,National,1
+HTI1002,2018-07-06,1,Violence against civilians,Attack,Police Forces of Haiti (2017-2024),,Civilians (Haiti),Labor Group (Haiti),Haiti,Ouest,Port-au-Prince,Port-au-Prince - Nord Alexis,18.5456,-72.326,1,Other-National,0
+HTI1022,2018-07-14,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National-International,0
+HTI1024,2018-07-14,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Government of Haiti (2017-2024),Haiti,Ouest,Port-au-Prince,Port-au-Prince - Debussy/Haut-Turgeau,18.5278,-72.3221,1,National,1
+HTI1730,2018-07-26,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Morne a Tuf,18.5388,-72.3437,1,National,0
+HTI1191,2018-12-28,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Government of Haiti (2017-2024),Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,1
+HTI1039,2018-08-14,1,Protests,Peaceful protest,Protesters (Haiti),Voodoo Group (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,0
+HTI1739,2018-08-15,1,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Champs de Mars,18.5422,-72.3369,1,National,0
+HTI1045,2018-08-20,1,Violence against civilians,Attack,Private Security Forces (Haiti),,Civilians (Haiti),Journalists (Haiti),Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bicentenaire,18.5445,-72.3477,1,National,0
+HTI1053,2018-08-28,1,Violence against civilians,Attack,Police Forces of Haiti (2017-2024),,Civilians (Haiti),Labor Group (Haiti),Haiti,Ouest,Port-au-Prince,Port-au-Prince - Morne a Tuf,18.5388,-72.3437,1,Other-National,0
+HTI927,2018-08-29,1,Riots,Violent demonstration,Rioters (Haiti),Labor Group (Haiti); Students (Haiti),Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bois Verna,18.538,-72.328,1,National,0
+HTI1747,2018-08-31,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Government of Haiti (2017-2024); OPL: Struggling People's Organization,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bicentenaire,18.5445,-72.3477,1,National,0
+HTI1743,2018-09-02,1,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti); Teachers (Haiti); Labor Group (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Champs de Mars,18.5422,-72.3369,1,National,0
+HTI1745,2018-09-04,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Cite Soleil - Deux Cite,18.5748,-72.3279,1,National,0
+HTI1067,2018-09-04,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bas Peu de Choses,18.5339,-72.338,1,National,1
+HTI1071,2018-09-07,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti); Students (Haiti); Teachers (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Centre Ville,18.5489,-72.3426,1,National,0
+HTI1074,2018-09-09,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Saint Antoine/Lalue,18.5434,-72.3284,1,National-International,0
+HTI4712,2018-09-15,3,Riots,Mob violence,Rioters (Haiti),Government of Haiti (2017-2024),Civilians (Haiti),Government of Haiti (2017-2024); PHTK: Haitian Tet Kale Party,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,0
+HTI1080,2018-09-15,1,Battles,Armed clash,Police Forces of Haiti (2017-2024),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Lelio,18.5307,-72.3443,1,National,3
+HTI1081,2018-09-16,1,Battles,Armed clash,Unidentified Armed Group (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bicentenaire,18.5445,-72.3477,1,National,0
+HTI1752,2018-09-16,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Champs de Mars,18.5422,-72.3369,1,National,0
+HTI1084,2018-09-20,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Turgeau,18.5342,-72.3312,1,National,0
+HTI1093,2018-09-30,1,Violence against civilians,Attack,Police Forces of Haiti (2017-2024),,Civilians (Haiti),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Champs de Mars,18.5422,-72.3369,1,Other-National,0
+HTI1097,2018-10-01,1,Violence against civilians,Attack,Police Forces of Haiti (2017-2024),,Civilians (Haiti),Prisoners (Haiti),Haiti,Ouest,Port-au-Prince,Port-au-Prince - Centre Ville,18.5489,-72.3426,1,Other-National,0
+HTI4711,2018-10-02,1,Riots,Mob violence,Rioters (Haiti),Government of Haiti (2017-2024),Civilians (Haiti),Former Government of Haiti (2017-2024); PHTK: Haitian Tet Kale Party,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,0
+HTI1101,2018-10-04,1,Violence against civilians,Attack,Police Forces of Haiti (2017-2024),,Civilians (Haiti),Prisoners (Haiti),Haiti,Ouest,Port-au-Prince,Delmas - Gerald Bataille,18.5659,-72.2858,1,Other-National,0
+HTI1104,2018-10-08,1,Protests,Protest with intervention,Protesters (Haiti),Labor Group (Haiti),Unidentified Armed Group (Haiti),,Haiti,Ouest,Port-au-Prince,Delmas,18.5447,-72.3028,1,National,0
+HTI1105,2018-10-09,1,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti),,,Haiti,Ouest,Port-au-Prince,Delmas - Delmas 60,18.5292,-72.2929,1,National,0
+HTI1107,2018-10-12,1,Protests,Excessive force against protesters,Protesters (Haiti),Students (Haiti),Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bicentenaire,18.5445,-72.3477,1,National,0
+HTI2026,2018-10-31,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,3
+HTI1127,2018-10-31,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bas Peu de Choses,18.5339,-72.338,1,National-International,1
+HTI2027,2018-11-01,1,Riots,Mob violence,Rioters (Haiti),Labor Group (Haiti),Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bel Air,18.551,-72.3358,1,National,0
+HTI1133,2018-11-03,1,Strategic developments,Arrests,Police Forces of Haiti (2017-2024),,Base 5 Secondes Gang,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Cite de Dieu,18.539,-72.3526,1,National,0
+HTI1135,2018-11-08,1,Protests,Excessive force against protesters,Protesters (Haiti),Students (Haiti),Unidentified Armed Group (Haiti),,Haiti,Ouest,Port-au-Prince,Cite Soleil,18.5783,-72.3356,1,National,0
+HTI2059,2018-11-28,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Government of Haiti (2017-2024),Haiti,Ouest,Port-au-Prince,Port-au-Prince - Turgeau,18.5342,-72.3312,1,National,0
+HTI1174,2018-11-28,1,Battles,Armed clash,Unidentified Armed Group (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bois Verna,18.538,-72.328,1,National,3
+HTI4729,2018-11-28,1,Battles,Armed clash,Unidentified Gang (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Martissant,18.5283,-72.3594,1,National,1
+HTI2062,2018-12-02,1,Strategic developments,Arrests,Police Forces of Haiti (2017-2024),,Unidentified Gang (Haiti),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - La Saline,18.5599,-72.3461,1,National,0
+HTI1178,2018-12-03,1,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,0
+HTI1177,2018-12-03,1,Battles,Armed clash,Unidentified Armed Group (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Croix Des Bouquets,Croix-des-Bouquets,18.5768,-72.2263,1,National,1
+HTI2064,2018-12-06,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti); Women (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bicentenaire,18.5445,-72.3477,1,National,0
+HTI1181,2018-12-09,1,Riots,Violent demonstration,Rioters (Haiti),PPD: Platfom Pitit Desalin,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Saint Antoine/Lalue,18.5434,-72.3284,1,National,0
+HTI6866,2018-12-14,1,Violence against civilians,Attack,Unidentified Gang (Haiti),,Civilians (Haiti),Labor Group (Haiti),Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,0
+HTI2065,2018-12-14,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,0
+HTI1184,2018-12-14,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Police Forces of Haiti (2017-2024),Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,1
+HTI4724,2018-12-18,1,Protests,Peaceful protest,Protesters (Haiti),Petro Challenge Movement,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,0
+HTI1023,2018-07-14,1,Strategic developments,Other,Government of Haiti (2017-2024),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,International,0
+HTI969,2018-04-12,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,0
+HTI985,2018-05-22,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,0
+HTI1036,2018-08-07,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,0
+HTI1037,2018-08-12,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,0
+HTI1062,2018-09-03,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti); Students (Haiti); Teachers (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,0
+HTI1021,2018-07-10,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,0
+HTI1038,2018-08-12,1,Riots,Violent demonstration,Rioters (Haiti),Students (Haiti),Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,0
+HTI1166,2018-11-23,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,International,0
+HTI6714,2018-08-20,1,Explosions/Remote violence,Grenade,Unidentified Armed Group (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bicentenaire,18.5445,-72.3477,1,National,0
+HTI966,2018-04-09,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Haiti),,Civilians (Haiti),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Les Ruelles Riviere,18.5376,-72.3217,1,Other,0
+HTI1738,2018-08-07,1,Violence against civilians,Attack,Police Forces of Haiti (2017-2024),,Civilians (Haiti),,Haiti,Ouest,Port-au-Prince,Delmas - Cite Numero Un,18.5549,-72.3256,1,National,2
+HTI1748,2018-09-09,1,Protests,Protest with intervention,Protesters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Petion Ville - Centre Ville (Ouest),18.514,-72.2871,1,National,0
+HTI1710,2018-04-02,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti),,,Haiti,Ouest,Port-au-Prince,Tabarre - Chateau Blond,18.5616,-72.2509,1,National,0
+HTI1737,2018-08-09,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Delmas - Sylvio Cator/Delmas 28,18.5535,-72.3186,1,National,0
+HTI1063,2018-09-03,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti),,,Haiti,Ouest,Port-au-Prince,Delmas - Carrefour Drouillard/Parc Industriel,18.5731,-72.3141,1,National,0
+HTI8948,2018-11-18,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Delmas - Cite Numero Un,18.5549,-72.3256,1,National,0
+HTI2067,2018-12-16,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Delmas - Delmas 2,18.5583,-72.3355,1,National,0
+HTI2055,2018-11-19,1,Riots,Violent demonstration,Rioters (Haiti),,Civilians (Haiti),,Haiti,Ouest,Port-au-Prince,Delmas - Delmas 2,18.5583,-72.3355,1,National,1
+HTI2056,2018-11-20,1,Riots,Violent demonstration,Rioters (Haiti),,Civilians (Haiti),,Haiti,Ouest,Port-au-Prince,Delmas - Delmas 32,18.543,-72.3062,1,National,0
+HTI2058,2018-11-21,1,Riots,Violent demonstration,Rioters (Haiti),PHTK: Haitian Tet Kale Party,Civilians (Haiti),Journalists (Haiti),Haiti,Ouest,Port-au-Prince,Delmas - Delmas 33,18.5506,-72.3053,1,National,0
+HTI937,2018-01-28,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Gressier - Sous Fort,18.5349,-72.5299,1,National,0
+HTI1727,2018-07-07,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),Civilians (Haiti); Labor Group (Haiti),Haiti,Ouest,Port-au-Prince,Petion Ville - Haut Pelerin,18.4969,-72.3038,1,National,2
+HTI1758,2018-10-16,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Petion Ville - Delmas 95,18.5209,-72.282,1,National-International,0
+HTI2031,2018-11-02,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Gabelliste/Grand Cimetiere,18.5339,-72.3446,1,National,0
+HTI1164,2018-11-23,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Delmas - Delmas 60,18.5292,-72.2929,1,National,0
+HTI4653,2018-04-26,2,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Petion Ville - Pernier,18.5136,-72.2383,1,National,0
+HTI1087,2018-09-23,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Champs de Mars,18.5422,-72.3369,1,National,0
+HTI2030,2018-11-02,2,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Portail Leogane/Cite Louverture,18.5343,-72.3486,1,National,0
+HTI2037,2018-11-18,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Carrefour - Mariani,18.5393,-72.4302,1,National,0
+HTI2038,2018-11-18,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Petion Ville - Delmas 95,18.5209,-72.282,1,National,0
+HTI4635,2018-02-11,1,Battles,Armed clash,Unidentified Armed Group (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Delmas - Delmas 33,18.5506,-72.3053,1,National,0
+HTI1705,2018-02-16,1,Battles,Armed clash,Unidentified Armed Group (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Delmas - Delmas 19/Mackandal,18.5582,-72.3104,1,National,2
+HTI1079,2018-09-15,1,Battles,Armed clash,Unidentified Armed Group (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Lelio,18.5307,-72.3443,1,Other,3
+HTI1175,2018-12-01,1,Battles,Armed clash,Unidentified Armed Group (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Petion Ville - Vivy Mitchell,18.53,-72.2622,1,National,1
+HTI6855,2018-05-25,1,Violence against civilians,Attack,Unidentified Gang (Haiti),,Civilians (Haiti),,Haiti,Ouest,Port-au-Prince,Delmas - Delmas 83,18.5353,-72.288,1,National,0
+HTI2029,2018-11-02,2,Violence against civilians,Attack,Unidentified Gang (Haiti),,Civilians (Haiti),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Portail Leogane/Cite Louverture,18.5343,-72.3486,1,National,3
+HTI1201,2018-03-14,1,Violence against civilians,Attack,Grand-Ravine Gang,,Civilians (Haiti),Journalists (Haiti),Haiti,Ouest,Port-au-Prince,Port-au-Prince - Grand Ravine,18.5217,-72.356,1,National,1
+HTI1001,2018-07-06,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Delmas - Delmas 83,18.5353,-72.288,1,National-International,4
+HTI1008,2018-07-07,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National-International,2
+HTI1015,2018-07-08,1,Riots,Violent demonstration,Rioters (Haiti),,Civilians (Haiti),,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National-International,2
+HTI1019,2018-07-09,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bicentenaire,18.5445,-72.3477,1,International,0
+HTI1043,2018-08-18,1,Riots,Mob violence,Rioters (Haiti),Labor Group (Haiti),Military Forces of the Dominican Republic (2004-2020),Police Forces of Haiti (2017-2024),Haiti,Centre,Lascahobas,Belladere,18.8679,-71.7622,2,National-International,1
+HTI1112,2018-10-17,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Nord,Cap Haitien,Cap-Haitien,19.7594,-72.1982,1,National-International,0
+HTI1116,2018-10-17,1,Riots,Violent demonstration,Rioters (Haiti),Former Government of Haiti (2017-2024),Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National-International,7
+HTI1120,2018-10-19,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Grande-Anse,Jeremie,Jeremie,18.65,-74.1167,1,International,0
+HTI1141,2018-11-18,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Artibonite,Saint Marc,Saint-Marc,19.1082,-72.6938,1,National-International,1
+HTI1146,2018-11-18,1,Protests,Excessive force against protesters,Protesters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Champs de Mars,18.5422,-72.3369,1,National-International,1
+HTI1149,2018-11-19,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,International,0
+HTI1151,2018-11-19,1,Violence against civilians,Attack,Unidentified Gang (Haiti),,Civilians (Haiti),,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,International,0
+HTI1154,2018-11-20,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,International,0
+HTI1160,2018-11-21,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Delmas - Carrefour Aeroport/Delmas 13,18.5532,-72.3148,1,Other-National,6
+HTI1168,2018-11-24,1,Riots,Mob violence,Rioters (Haiti),Vigilante Group (Haiti),Police Forces of Haiti (2017-2024),,Haiti,Ouest,Croix Des Bouquets,Malpasse,18.4949,-71.8905,1,National-International,5
+HTI1169,2018-11-24,1,Violence against civilians,Attack,Police Forces of Haiti (2017-2024),,Civilians (Haiti),,Haiti,Ouest,Croix Des Bouquets,Malpasse,18.4949,-71.8905,1,National-International,1
+HTI4721,2018-11-18,1,Protests,Peaceful protest,Protesters (Haiti),Independent Politicians (Haiti),,,Haiti,Artibonite,Gonaives,Gonaives,19.4475,-72.689,1,National-International,0
+HTI933,2018-01-18,1,Protests,Peaceful protest,Protesters (Haiti),Lawyers (Haiti),,,Haiti,Ouest,Port-au-Prince,Tabarre - Chateau Blond,18.5616,-72.2509,1,International,0
+HTI11602,2018-10-03,1,Riots,Violent demonstration,Rioters (Haiti),,Civilians (Haiti),Journalists (Haiti),Haiti,Sud-Est,Jacmel,Jacmel,18.2343,-72.5354,1,National,0
+HTI11603,2018-10-06,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Archaie,Carries,18.8908,-72.622,1,National,0
+HTI11604,2018-10-03,1,Battles,Armed clash,Police Forces of Haiti (2017-2024),,Unidentified Gang (Haiti),,Haiti,Ouest,Archaie,Williamson,18.8445,-72.5759,2,National,1
+HTI11605,2018-10-15,1,Violence against civilians,Attack,Unidentified Gang (Haiti),,Civilians (Haiti),Labor Group (Haiti),Haiti,Ouest,Port-au-Prince,Port-au-Prince - Centre Ville,18.5489,-72.3426,1,National,2
+HTI11606,2018-10-15,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Artibonite,Saint Marc,Verrettes,19.0508,-72.4674,1,National,0
+HTI11607,2018-10-15,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Champs de Mars,18.5422,-72.3369,1,National,0
+HTI11608,2018-10-18,1,Battles,Armed clash,Police Forces of Haiti (2017-2024),,Arcahaie Gang,,Haiti,Ouest,Archaie,Arcahaie,18.7701,-72.5118,2,National,1
+HTI11609,2018-10-30,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Champs de Mars,18.5422,-72.3369,1,National,0
+HTI11610,2018-07-02,1,Battles,Armed clash,Ti Bwa Gang,,Grand-Ravine Gang,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Martissant,18.5283,-72.3594,1,National,0
+HTI11611,2018-12-01,2,Battles,Armed clash,Unidentified Gang (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Delmas - Delmas 48,18.5339,-72.2966,1,National,2
+HTI11612,2018-12-10,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Labor Group (Haiti),Haiti,Ouest,Leogane,Leogane,18.5111,-72.6334,1,National,0
+HTI11613,2018-12-14,1,Violence against civilians,Attack,Unidentified Armed Group (Haiti),,Civilians (Haiti),Former Government of Haiti (2017-2024),Haiti,Ouest,Port-au-Prince,Port-au-Prince - Centre Ville,18.5489,-72.3426,1,National,1
+HTI11614,2018-12-24,1,Violence against civilians,Attack,Ti Je Gang,,Civilians (Haiti),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Savanne Pistaches,18.5225,-72.3456,1,National,0
+HTI11615,2018-11-07,1,Riots,Mob violence,Rioters (Haiti),,Civilians (Haiti),Police Forces of Haiti (2017-2024) Prison Guards,Haiti,Nord-Ouest,Port De Paix,Port-de-Paix,19.9389,-72.8326,1,National,2
+HTI11616,2018-10-31,1,Strategic developments,Other,Unidentified Gang (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,1,National,0
+HTI11617,2018-11-08,1,Strategic developments,Other,Civilians (Haiti),,,,Haiti,Ouest,Archaie,Carries,18.8908,-72.622,1,National,0
+HTI11618,2018-07-05,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti),,,Haiti,Sud-Est,Jacmel,Jacmel,18.2343,-72.5354,1,National,0
+HTI11619,2018-11-27,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Centre,Lascahobas,Belladere,18.8679,-71.7622,1,National,0
+HTI11620,2018-12-03,1,Protests,Peaceful protest,Protesters (Haiti),Lawyers (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bicentenaire,18.5445,-72.3477,1,National,0
+HTI11621,2018-12-06,1,Protests,Peaceful protest,Protesters (Haiti),Taxi/Bus Drivers (Haiti),,,Haiti,Artibonite,Saint Marc,Saint-Marc,19.1082,-72.6938,1,National,0
+HTI11622,2018-12-17,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bois Verna,18.538,-72.328,1,National,0
+HTI11623,2018-12-27,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bicentenaire,18.5445,-72.3477,1,National,0
+HTI11624,2018-07-05,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Cite Soleil - Sarthe,18.5879,-72.3052,1,National,0
+HTI11625,2018-07-05,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Tabarre - Cazeau/Tabarre 14,18.585,-72.2861,1,National,0
+HTI11626,2018-11-21,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Delmas - Delmas 75,18.5388,-72.2935,1,National,0
+HTI11627,2018-11-21,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Petion Ville - Freres,18.5187,-72.2522,1,National,0
+HTI11628,2018-09-13,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Haiti),,Civilians (Haiti),Women (Haiti); Labor Group (Haiti),Haiti,Ouest,Archaie,Williamson,18.8445,-72.5759,1,National,0
+HTI11629,2018-09-14,1,Battles,Armed clash,Police Forces of Haiti (2017-2024),,Unidentified Gang (Haiti),,Haiti,Ouest,Archaie,Williamson,18.8445,-72.5759,1,National,1
+HTI11630,2018-07-15,1,Riots,Mob violence,Rioters (Haiti),Prisoners (Haiti),Civilians (Haiti),Prisoners (Haiti),Haiti,Artibonite,Gonaives,Gonaives,19.4475,-72.689,1,National,0
+HTI11631,2018-07-20,1,Riots,Violent demonstration,Rioters (Haiti),,Civilians (Haiti),Labor Group (Haiti),Haiti,Sud-Est,Jacmel,Jacmel,18.2343,-72.5354,1,National,0
+HTI11632,2018-09-10,1,Riots,Mob violence,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Artibonite,Saint Marc,Saint-Marc,19.1082,-72.6938,1,National,0
+HTI11633,2018-07-06,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,0
+HTI11634,2018-07-06,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Champs de Mars,18.5422,-72.3369,1,National,0
+HTI11635,2018-08-08,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Sud-Est,Jacmel,Jacmel,18.2343,-72.5354,1,National,0
+HTI11636,2018-09-05,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bicentenaire,18.5445,-72.3477,1,National,0
+HTI11637,2018-09-10,2,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti),,,Haiti,Ouest,Port-au-Prince,Carrefour,18.5411,-72.3992,1,National,0
+HTI11638,2018-09-13,2,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Artibonite,Dessalines,Dessalines,19.2618,-72.5161,1,National,0
+HTI11639,2018-07-04,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Croix Des Bouquets,Croix-des-Bouquets,18.5768,-72.2263,1,National,0
+HTI11640,2018-07-04,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Tabarre,18.5833,-72.2667,1,National,0
+HTI11641,2018-07-04,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Tabarre - Croix des Missions,18.5918,-72.2817,1,National,0
+HTI11642,2018-07-06,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Carrefour,18.5411,-72.3992,1,National,2
+HTI11643,2018-07-06,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Delmas - Delmas 40b,18.5397,-72.3027,1,National,0
+HTI11644,2018-07-06,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Delmas - Delmas 48,18.5339,-72.2966,1,National,0
+HTI11645,2018-07-06,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Delmas - Delmas 60,18.5292,-72.2929,1,National,0
+HTI11648,2018-04-16,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Croix Des Bouquets,Vivier,18.6206,-72.2551,1,National,0
+HTI11649,2018-04-19,1,Protests,Peaceful protest,Protesters (Haiti),PPD: Platfom Pitit Desalin,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Centre Ville,18.5489,-72.3426,1,National,0
+HTI11650,2018-04-21,2,Battles,Armed clash,Unidentified Gang (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Delmas,18.5447,-72.3028,1,National,1
+HTI11651,2018-04-21,2,Battles,Armed clash,Unidentified Gang (Haiti),,Unidentified Gang (Haiti),,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,3
+HTI11652,2018-04-23,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Petion Ville - Pernier,18.5136,-72.2383,1,National,0
+HTI11653,2018-05-01,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,2,National,0
+HTI11654,2018-05-09,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Ouest,Leogane,Petit-Goave,18.4312,-72.8652,1,National,0
+HTI11655,2018-05-10,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Haiti),,Government of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bicentenaire,18.5445,-72.3477,1,National,0
+HTI11656,2018-05-11,1,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Musseau-Delmas 48,18.5341,-72.302,1,National,0
+HTI11657,2018-05-14,1,Riots,Violent demonstration,Rioters (Haiti),Labor Group (Haiti),,,Haiti,Sud-Est,Belle Anse,Anse-a-Pitre,18.0447,-71.7596,1,National,0
+HTI11658,2018-05-15,2,Battles,Armed clash,Unidentified Gang (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Cite de Dieu,18.539,-72.3526,1,National,5
+HTI11659,2018-05-15,2,Battles,Armed clash,Unidentified Gang (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Martissant,18.5283,-72.3594,1,National,5
+HTI11660,2018-05-16,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Martissant,18.5283,-72.3594,1,National,0
+HTI11661,2018-05-25,1,Protests,Peaceful protest,Protesters (Haiti),Labor Group (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Champs de Mars,18.5422,-72.3369,1,National,0
+HTI11662,2018-06-01,1,Riots,Mob violence,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Delmas - Delmas 65,18.5453,-72.2965,1,National,0
+HTI11663,2018-06-04,1,Riots,Violent demonstration,Rioters (Haiti),,Police Forces of Haiti (2017-2024),,Haiti,Ouest,Port-au-Prince,Cite Soleil,18.5783,-72.3356,1,National,0
+HTI11664,2018-06-07,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Sud-Est,Jacmel,Jacmel,18.2343,-72.5354,1,National,0
+HTI11665,2018-06-11,1,Battles,Armed clash,Unidentified Armed Group (Haiti),,Base 5 Secondes Gang,,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Bicentenaire,18.5445,-72.3477,1,National,1
+HTI11666,2018-06-13,1,Protests,Peaceful protest,Protesters (Haiti),,,,Haiti,Sud-Est,Jacmel,Jacmel,18.2343,-72.5354,1,National,0
+HTI11667,2018-09-16,1,Battles,Armed clash,Unidentified Gang (Haiti),,Unidentified Gang (Haiti),,Haiti,Ouest,Port-au-Prince,Port-au-Prince - Martissant,18.5283,-72.3594,1,National,0
+HTI11668,2018-09-22,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Artibonite,Saint Marc,Montrouis,18.9516,-72.7061,1,National,0
+HTI11669,2018-09-24,1,Violence against civilians,Attack,Police Forces of Haiti (2017-2024),Government of Haiti (2017-2024); OPL: Struggling People's Organization; Unidentified Armed Group (Haiti),Civilians (Haiti),,Haiti,Grande-Anse,Jeremie,Jeremie,18.65,-74.1167,1,National,0
+HTI11670,2018-09-26,1,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti); Health Workers (Haiti),,,Haiti,Ouest,Port-au-Prince,Delmas - Kernizan,18.5549,-72.299,1,National,0
+HTI11671,2018-09-28,1,Protests,Peaceful protest,Protesters (Haiti),Health Workers (Haiti); Women (Haiti),,,Haiti,Ouest,Port-au-Prince,Delmas - Village Lins Harrys,18.5708,-72.2945,1,National,0
+HTI11672,2018-01-25,2,Strategic developments,Looting/property destruction,Unidentified Communal Militia (Haiti),,Civilians (Haiti),,Haiti,Ouest,Port-au-Prince,Petion Ville - Vivy Mitchell,18.53,-72.2622,1,National,0
+HTI11673,2018-03-05,1,Protests,Peaceful protest,Protesters (Haiti),Students (Haiti),,,Haiti,Ouest,Leogane,Merger,18.5433,-72.5992,1,National,0
+HTI11674,2018-03-05,1,Strategic developments,Other,Protesters (Haiti),Labor Group (Haiti),,,Haiti,Ouest,Port-au-Prince,Port-au-Prince,18.5435,-72.3388,1,National,0
+HTI11675,2018-03-20,1,Riots,Violent demonstration,Rioters (Haiti),,,,Haiti,Ouest,Port-au-Prince,Tabarre - Cazeau/Tabarre 14,18.585,-72.2861,1,National,0

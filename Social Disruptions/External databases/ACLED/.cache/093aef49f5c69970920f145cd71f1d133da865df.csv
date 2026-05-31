@@ -1,0 +1,588 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities
+AUT784,2021-10-13,2,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,International,0
+AUT872,2021-12-01,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria); OGB: Austrian Trade Union Federation; Labor Group (Austria),,,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,International,0
+AUT897,2021-12-08,1,Protests,Peaceful protest,Protesters (Austria),"MFG: Austria People, Freedom, Fundamental Rights",,,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,International,0
+AUT936,2021-12-14,2,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Tirol,Kitzbuhel,Kirchberg in Tirol,47.448,12.3129,1,International,0
+AUT954,2021-12-11,1,Protests,Peaceful protest,Protesters (Austria),PP: Pirate Party of Austria,Protesters (Austria),SJOE: Socialist Youth Austria; Students (Austria),Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,International,0
+AUT712,2021-08-28,1,Protests,Peaceful protest,Protesters (Austria),XR: Extinction Rebellion,,,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,Other,0
+AUT675,2021-06-14,2,Protests,Peaceful protest,Protesters (Austria),AI: Amnesty International; Belarusian Group (Austria),,,Austria,Wien,,Wien,48.2085,16.3721,1,Regional,0
+AUT702,2021-07-10,1,Protests,Peaceful protest,Protesters (Austria),Chechen Ethnic Group (Austria),,,Austria,Wien,Wien 3-Landstrasse,Wien - Landstrasse,48.2023,16.3901,1,Regional,0
+AUT750,2021-09-24,1,Protests,Peaceful protest,Protesters (Austria),EZLN: Zapatista Army of National Liberation; FFF: Fridays for Future; Protesters (Mexico); Students (Austria); XR: Extinction Rebellion; Zapatistas,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media-International,0
+AUT760,2021-09-19,1,Protests,Peaceful protest,Protesters (Austria),Afghan Group (Austria); Belarusian Group (Austria); Russian Group (Austria); Syrian Group (Austria); Ukrainian Group (Austria),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,Regional,0
+AUT962,2021-12-30,1,Protests,Peaceful protest,Protesters (Austria),Chechen Ethnic Group (Austria),,,Austria,Wien,Wien 7-Neubau,Wien - Neubau,48.2018,16.349,1,Regional,0
+AUT741,2021-09-05,1,Protests,Peaceful protest,Protesters (Austria),Chechen Ethnic Group (Austria),,,Austria,Wien,Wien 3-Landstrasse,Wien - Landstrasse,48.2023,16.3901,1,Regional,0
+AUT746,2021-09-10,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Steiermark,Murtal,Zeltweg,47.1914,14.7557,1,Subnational,0
+AUT787,2021-10-08,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,Subnational,0
+AUT820,2021-11-10,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria),,,Austria,Steiermark,Murtal,Judenburg,47.1689,14.6585,1,Subnational,0
+AUT821,2021-11-10,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria),,,Austria,Steiermark,Murtal,Knittelfeld,47.2151,14.8378,1,Subnational,0
+AUT822,2021-11-10,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria),,,Austria,Steiermark,Murau,Murau,47.1114,14.1703,1,Subnational,0
+AUT823,2021-11-10,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria); Labor Group (Austria),,,Austria,Steiermark,Bruck-Murzzuschlag,Bruck an der Mur,47.4116,15.2731,1,Subnational,0
+AUT843,2021-11-14,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Steiermark,Weiz,Gleisdorf,47.1065,15.705,1,Subnational,0
+AUT882,2021-11-28,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Steiermark,Sudoststeiermark,Feldbach,46.9526,15.8884,1,Subnational,0
+AUT942,2021-12-17,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Steiermark,Leoben,Leoben,47.3805,15.0942,1,Subnational,0
+AUT377,2021-01-01,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,Subnational-National,0
+AUT378,2021-01-01,1,Protests,Peaceful protest,Protesters (Austria),,Protesters (Austria),,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,Subnational-National,0
+AUT379,2021-01-02,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Braunau am Inn,Braunau am Inn,48.2528,13.0397,1,Subnational-National,0
+AUT381,2021-01-02,2,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,National,0
+AUT382,2021-01-02,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Ried im Innkreis,Ried im Innkreis,48.2083,13.4882,1,Subnational-National,0
+AUT384,2021-01-06,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Amstetten,Amstetten,48.1203,14.8753,1,National,0
+AUT386,2021-01-08,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Burgenland,Eisenstadt,Eisenstadt,47.8454,16.5251,1,National,0
+AUT387,2021-01-06,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,Subnational-National,0
+AUT388,2021-01-03,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT389,2021-01-06,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Tulln,Tulln,48.3311,16.0572,1,National,0
+AUT392,2021-01-04,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media,0
+AUT394,2021-01-06,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media,0
+AUT395,2021-01-07,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,,Wien,48.2085,16.3721,1,New media,0
+AUT396,2021-01-03,1,Protests,Peaceful protest,Protesters (Austria),Anarchist Group (Austria),,,Austria,Wien,Wien 21-Floridsdorf,Wien - Floridsdorf,48.257,16.3978,1,New media,0
+AUT397,2021-01-06,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Waidhofen an der Thaya,Waidhofen an der Thaya,48.8139,15.2844,1,National,0
+AUT408,2021-01-09,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Horn,Horn,48.6633,15.6555,1,Subnational,0
+AUT409,2021-01-10,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Gmunden,Gmunden,47.9177,13.8005,1,Subnational,0
+AUT411,2021-01-10,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Steyr,Steyr-Stadt,48.0391,14.4194,1,Subnational,0
+AUT412,2021-01-09,1,Protests,Peaceful protest,Protesters (Austria),FPOE: Freedom Party Austria,,,Austria,Niederosterreich,Neunkirchen,Ternitz,47.7132,16.0314,1,Subnational,0
+AUT413,2021-01-09,1,Protests,Peaceful protest,Protesters (Austria),FPOE: Freedom Party Austria,,,Austria,Niederosterreich,Waidhofen an der Ybbs,Waidhofen an der Ybbs,47.9608,14.7746,1,Subnational,0
+AUT415,2021-01-15,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Baden,Baden,48.0018,16.2304,1,National,0
+AUT417,2021-01-11,1,Protests,Peaceful protest,Protesters (Austria),Labor Group (Austria),,,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,National,0
+AUT419,2021-01-12,1,Protests,Peaceful protest,Protesters (Austria),Students (Austria),,,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,Subnational-National,0
+AUT420,2021-01-12,1,Protests,Peaceful protest,Protesters (Austria),Students (Austria),,,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,National,0
+AUT421,2021-01-12,1,Protests,Peaceful protest,Protesters (Austria),Students (Austria),,,Austria,Wien,Wien 7-Neubau,Wien - Neubau,48.2018,16.349,1,New media-National,0
+AUT422,2021-01-12,1,Protests,Peaceful protest,Protesters (Austria),Students (Austria),,,Austria,Vorarlberg,Dornbirn,Dornbirn,47.4138,9.742,1,National,0
+AUT429,2021-01-16,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 9-Alsergrund,Wien - Alsergrund,48.2227,16.3583,1,New media,0
+AUT432,2021-01-18,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Rohrbach,Rohrbach,48.572,13.9883,1,National,0
+AUT434,2021-01-19,1,Protests,Peaceful protest,Protesters (Austria),Labor Group (Austria),,,Austria,Wien,Wien 2-Leopoldstadt,Wien - Leopoldstadt,48.2182,16.3901,1,New media,0
+AUT435,2021-01-19,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT450,2021-01-24,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT454,2021-01-24,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Steyr,Steyr-Stadt,48.0391,14.4194,1,Subnational-National,0
+AUT455,2021-01-24,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Vocklabruck,Vocklabruck,48.0079,13.6461,1,Subnational-National,0
+AUT456,2021-01-24,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Wels,Wels,48.1566,14.0246,1,Subnational-National,0
+AUT457,2021-01-24,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Rohrbach,Rohrbach,48.572,13.9883,1,Subnational-National,0
+AUT458,2021-01-24,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT459,2021-01-28,1,Protests,Peaceful protest,Protesters (Austria),LEFT; SPOE: Social Democratic Party of Austria; Women (Austria),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media-National,0
+AUT460,2021-01-28,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 22-Donaustadt,Wien - Donaustadt,48.227,16.4945,1,National,0
+AUT461,2021-01-28,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Sankt Polten,Sankt Polten,48.2,15.6333,1,Subnational,0
+AUT462,2021-01-29,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 8-Josefstadt,Wien - Josefstadt,48.2104,16.3523,1,New media,0
+AUT463,2021-01-27,1,Protests,Peaceful protest,Protesters (Austria),Antifa,,,Austria,Wien,,Wien,48.2085,16.3721,1,New media,0
+AUT482,2021-01-31,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Vorarlberg,Dornbirn,Dornbirn,47.4138,9.742,1,National,0
+AUT484,2021-02-05,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,Subnational,0
+AUT485,2021-02-05,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,,Wien,48.2085,16.3721,1,New media,0
+AUT486,2021-02-04,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 7-Neubau,Wien - Neubau,48.2018,16.349,1,New media,0
+AUT487,2021-01-29,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Baden,Baden,48.0018,16.2304,1,National,0
+AUT488,2021-01-31,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Sankt Polten-Land,Eichgraben,48.1758,15.9935,1,National,0
+AUT490,2021-02-06,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Rohrbach,Rohrbach,48.572,13.9883,1,Subnational,0
+AUT491,2021-02-07,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Vorarlberg,Feldkirch,Feldkirch,47.2369,9.5983,1,National,0
+AUT492,2021-02-07,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Burgenland,Eisenstadt,Eisenstadt,47.8454,16.5251,1,National,0
+AUT496,2021-02-12,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 9-Alsergrund,Wien - Alsergrund,48.2227,16.3583,1,New media,0
+AUT497,2021-02-06,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media,0
+AUT498,2021-02-06,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 4-Wieden,Wien - Wieden,48.194,16.3722,1,New media,0
+AUT503,2021-02-12,1,Protests,Peaceful protest,Protesters (Austria),SJOE: Socialist Youth Austria,,,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,Subnational,0
+AUT504,2021-02-10,1,Protests,Peaceful protest,Protesters (Austria),NEOS: New Austria and Liberal Forum; OEVP: Austrian People's Party; The Greens (Austria),,,Austria,Niederosterreich,Sankt Polten,Sankt Polten,48.2,15.6333,1,National,0
+AUT506,2021-02-13,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Vorarlberg,Bregenz,Egg,47.4313,9.8973,1,National,0
+AUT508,2021-02-14,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Vorarlberg,Bludenz,Bludenz,47.1529,9.8219,1,National,0
+AUT511,2021-02-15,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,Subnational,0
+AUT514,2021-02-19,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,,Wien,48.2085,16.3721,1,New media,0
+AUT516,2021-02-21,1,Protests,Peaceful protest,Protesters (Austria),Students (Austria); Teachers (Austria),,,Austria,Vorarlberg,Bregenz,Bregenz,47.5025,9.7474,1,National,0
+AUT517,2021-02-21,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Krems an der Donau,Krems an der Donau,48.4108,15.6003,1,Subnational,0
+AUT518,2021-02-25,1,Protests,Peaceful protest,Protesters (Austria),Attac,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT521,2021-02-26,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,Subnational,0
+AUT523,2021-03-01,1,Protests,Peaceful protest,Protesters (Austria),Labor Group (Austria),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT524,2021-03-03,1,Protests,Peaceful protest,Protesters (Austria),Labor Group (Austria),,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,National,0
+AUT528,2021-03-04,1,Protests,Peaceful protest,Protesters (Austria),NEOS: New Austria and Liberal Forum; SPOE: Social Democratic Party of Austria; Women (Austria),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT531,2021-02-27,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,,Wien,48.2085,16.3721,1,New media,0
+AUT532,2021-02-27,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media,0
+AUT533,2021-02-28,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Vorarlberg,Dornbirn,Dornbirn,47.4138,9.742,1,National,0
+AUT537,2021-03-03,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 9-Alsergrund,Wien - Alsergrund,48.2227,16.3583,1,New media,0
+AUT538,2021-03-05,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT546,2021-03-07,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Vorarlberg,Bregenz,Bregenz,47.5025,9.7474,1,National,0
+AUT548,2021-03-07,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Vorarlberg,Feldkirch,Feldkirch,47.2369,9.5983,1,National,0
+AUT561,2021-03-14,1,Protests,Peaceful protest,Protesters (Austria),ICI: Initiative for Evidence-based Corona Information,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media,0
+AUT562,2021-03-13,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT563,2021-03-14,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Vorarlberg,Bludenz,Bludenz,47.1529,9.8219,1,National,0
+AUT567,2021-03-22,1,Protests,Peaceful protest,Protesters (Austria),Labor Group (Austria),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT571,2021-03-20,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 4-Wieden,Wien - Wieden,48.194,16.3722,1,New media-National,0
+AUT573,2021-03-21,1,Protests,Peaceful protest,Protesters (Austria),,Protesters (Austria),,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,National,0
+AUT574,2021-03-21,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 22-Donaustadt,Wien - Donaustadt,48.227,16.4945,1,New media,0
+AUT576,2021-03-31,2,Protests,Peaceful protest,Protesters (Austria),The Greens (Austria),,,Austria,Burgenland,Oberpullendorf,Stoob,47.5278,16.4777,1,National,0
+AUT580,2021-03-28,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Krems an der Donau,Krems an der Donau,48.4108,15.6003,1,Subnational,0
+AUT581,2021-03-29,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,,Wien,48.2085,16.3721,1,New media,0
+AUT582,2021-04-01,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media,0
+AUT584,2021-04-07,1,Protests,Peaceful protest,Protesters (Austria),Women (Austria),,,Austria,Wien,,Wien,48.2085,16.3721,1,New media,0
+AUT585,2021-04-09,1,Protests,Peaceful protest,Protesters (Austria),ZeroCovid,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media,0
+AUT587,2021-04-05,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Vorarlberg,Dornbirn,Dornbirn,47.4138,9.742,1,National,0
+AUT588,2021-04-07,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Vorarlberg,Dornbirn,Dornbirn,47.4138,9.742,1,National,0
+AUT589,2021-04-09,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,,Wien,48.2085,16.3721,1,New media,0
+AUT591,2021-04-11,2,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 2-Leopoldstadt,Wien - Leopoldstadt,48.2182,16.3901,1,National,0
+AUT593,2021-04-11,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Vorarlberg,Bludenz,Bludenz,47.1529,9.8219,1,National,0
+AUT596,2021-04-12,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Krems an der Donau,Krems an der Donau,48.4108,15.6003,1,National,0
+AUT597,2021-04-16,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,,Wien,48.2085,16.3721,1,New media,0
+AUT598,2021-04-10,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Amstetten,Pyburg,48.2275,14.528,1,Subnational,0
+AUT600,2021-04-21,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Tulln,Klosterneuburg,48.3049,16.324,1,Subnational-National,0
+AUT601,2021-04-17,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,,Wien,48.2085,16.3721,1,New media,0
+AUT602,2021-04-25,1,Protests,Peaceful protest,Protesters (Austria),Women (Austria),,,Austria,Wien,,Wien,48.2085,16.3721,1,New media,0
+AUT606,2021-04-28,2,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 16-Ottakring,Wien - Ottakring,48.2136,16.309,1,National,0
+AUT609,2021-05-01,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; KPOE: Communist Party of Austria; Labor Group (Austria); Students (Austria),,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT611,2021-05-05,1,Protests,Peaceful protest,Protesters (Austria),Labor Group (Austria),,,Austria,Wien,Wien 3-Landstrasse,Wien - Landstrasse,48.2023,16.3901,1,New media,0
+AUT612,2021-05-03,1,Protests,Peaceful protest,Protesters (Austria),Women (Austria),,,Austria,Wien,Wien 8-Josefstadt,Wien - Josefstadt,48.2104,16.3523,1,New media-National,0
+AUT613,2021-04-30,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Tirol,Imst,Otztal-Bahnhof,47.2357,10.8566,1,Subnational,0
+AUT614,2021-05-01,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Karnten,Klagenfurt Stadt,Klagenfurt,46.6231,14.308,2,National,0
+AUT633,2021-05-14,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Niederosterreich,Krems an der Donau,Krems an der Donau,48.4108,15.6003,1,National,0
+AUT634,2021-05-15,1,Protests,Peaceful protest,Protesters (Austria),Jewish Group (Austria); Students (Austria),,,Austria,Karnten,Volkermarkt,Bleiburg,46.5898,14.7976,1,National,0
+AUT635,2021-05-15,1,Protests,Peaceful protest,Protesters (Austria),Jewish Group (Austria); Students (Austria),Protesters (Austria),,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media-National,0
+AUT636,2021-05-17,1,Protests,Peaceful protest,Protesters (Austria),LGBTQ+ (Austria),,,Austria,Wien,Wien 15-Rudolfsheim-Funfhaus,Wien - Rudolfsheim-Funfhaus,48.1958,16.3266,1,New media,0
+AUT638,2021-05-16,1,Protests,Peaceful protest,Protesters (Austria),Women (Austria),,,Austria,Wien,Wien 4-Wieden,Wien - Wieden,48.194,16.3722,1,New media,0
+AUT642,2021-05-16,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT649,2021-05-27,1,Protests,Peaceful protest,Protesters (Austria),Labor Group (Austria); Teachers (Austria),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media-National,0
+AUT652,2021-05-25,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 7-Neubau,Wien - Neubau,48.2018,16.349,1,New media,0
+AUT660,2021-05-30,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media,0
+AUT662,2021-06-03,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,National,0
+AUT664,2021-06-08,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media,0
+AUT669,2021-06-11,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,,Wien,48.2085,16.3721,1,New media,0
+AUT670,2021-06-12,1,Protests,Peaceful protest,Protesters (Austria),Women (Austria),,,Austria,Wien,Wien 10-Favoriten,Wien - Favoriten,48.1714,16.3763,1,New media,0
+AUT673,2021-06-17,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,Subnational,0
+AUT674,2021-06-18,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 16-Ottakring,Wien - Ottakring,48.2136,16.309,1,New media-National,0
+AUT677,2021-06-23,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria),,,Austria,Wien,Wien 3-Landstrasse,Wien - Landstrasse,48.2023,16.3901,1,National,0
+AUT678,2021-06-25,1,Protests,Peaceful protest,Protesters (Austria),LGBTQ+ (Austria),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT681,2021-06-17,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,Subnational,0
+AUT682,2021-06-22,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 13-Hietzing,Wien - Hietzing,48.1802,16.2721,1,National,0
+AUT683,2021-06-22,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,Subnational,0
+AUT684,2021-06-25,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 21-Floridsdorf,Wien - Floridsdorf,48.257,16.3978,1,New media,0
+AUT687,2021-06-28,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria); Labor Group (Austria); Vida,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media,0
+AUT689,2021-06-26,1,Protests,Peaceful protest,Protesters (Austria),LGBTQ+ (Austria),,,Austria,Vorarlberg,Bregenz,Bregenz,47.5025,9.7474,1,National,0
+AUT691,2021-06-28,2,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Sankt Polten,Sankt Polten,48.2,15.6333,1,Subnational,0
+AUT693,2021-07-01,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,Subnational,0
+AUT697,2021-07-03,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria),,,Austria,Karnten,Klagenfurt Stadt,Klagenfurt,46.6231,14.308,1,National,0
+AUT699,2021-07-03,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria); Labor Group (Austria); Vida,,,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,National,0
+AUT701,2021-07-07,1,Riots,Violent demonstration,Rioters (Austria),Women (Austria),Civilians (Austria),Journalists (Austria),Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media-National,0
+AUT704,2021-07-12,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Freistadt,Rainbach im Muhlkreis,48.5578,14.4769,1,Subnational-National,0
+AUT708,2021-07-19,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media,0
+AUT709,2021-07-23,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 21-Floridsdorf,Wien - Floridsdorf,48.257,16.3978,1,New media,0
+AUT710,2021-07-22,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Sankt Polten-Land,Laaben,48.1092,15.8825,1,Subnational,0
+AUT719,2021-09-03,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,,Wien,48.2085,16.3721,1,New media,0
+AUT720,2021-07-30,1,Riots,Mob violence,Rioters (Austria),,Rioters (Austria),LGBTQ+ (Austria),Austria,Vorarlberg,Bregenz,Bregenz,47.5025,9.7474,1,National,0
+AUT723,2021-08-05,1,Protests,Peaceful protest,Protesters (Austria),VGT: Association Against Animal Factories,,,Austria,Burgenland,Mattersburg,Mattersburg,47.7366,16.3981,2,National,0
+AUT726,2021-08-10,2,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Tirol,Lienz,Lienz,46.8299,12.7683,1,Subnational,0
+AUT730,2021-08-14,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 22-Donaustadt,Wien - Donaustadt,48.227,16.4945,1,New media,0
+AUT731,2021-08-19,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Hollabrunn,Zellerndorf,48.6944,15.96,1,National,0
+AUT732,2021-08-20,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT736,2021-08-21,1,Protests,Peaceful protest,Protesters (Austria),FPOE: Freedom Party Austria; OEVP: Austrian People's Party; SPOE: Social Democratic Party of Austria,,,Austria,Niederosterreich,Ganserndorf,Deutsch-Wagram,48.2962,16.5567,1,National,0
+AUT737,2021-08-25,1,Protests,Peaceful protest,Protesters (Austria),Platform for Human Rights,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT740,2021-08-27,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT744,2021-09-11,1,Protests,Peaceful protest,Protesters (Austria),AfD: Alternative for Germany; IBOE: Identitarian Movement Austria; Protesters (Germany),,,Austria,Wien,Wien 4-Wieden,Wien - Wieden,48.194,16.3722,1,National,0
+AUT761,2021-09-24,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Braunau am Inn,Hochburg-Ach,48.1296,12.8763,1,Subnational,0
+AUT779,2021-10-03,1,Protests,Peaceful protest,Protesters (Austria),VGT: Association Against Animal Factories,,,Austria,Oberosterreich,Ried im Innkreis,Kirchdorf am Inn,48.2944,13.2816,1,National,0
+AUT782,2021-10-14,1,Protests,Peaceful protest,Protesters (Austria),"GPA-DJP: Union of Private Sector Employees, Printing, Journalism, and Paper; Labor Group (Austria); OGB: Austrian Trade Union Federation; Teachers (Austria); Vida",,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT785,2021-10-12,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT792,2021-10-21,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria),,,Austria,Oberosterreich,Wels,Wels,48.1566,14.0246,1,National,0
+AUT796,2021-10-20,1,Protests,Peaceful protest,Protesters (Austria),Labor Group (Austria),,,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,National,0
+AUT797,2021-10-19,1,Protests,Peaceful protest,Protesters (Austria),OEVP: Austrian People's Party; Teachers (Austria); The Greens (Austria),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT798,2021-10-10,1,Protests,Peaceful protest,Protesters (Austria),Women (Austria),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media,0
+AUT800,2021-10-12,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media,0
+AUT804,2021-08-15,3,Protests,Peaceful protest,Protesters (Austria),Labor Group (Austria); OGB: Austrian Trade Union Federation,,,Austria,Steiermark,Sudoststeiermark,Feldbach,46.9526,15.8884,1,New media,0
+AUT807,2021-10-26,1,Protests,Peaceful protest,Protesters (Austria),"MFG: Austria People, Freedom, Fundamental Rights",,,Austria,Vorarlberg,Bregenz,Bregenz,47.5025,9.7474,1,National,0
+AUT809,2021-10-24,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media,0
+AUT810,2021-10-24,1,Protests,Peaceful protest,Protesters (Austria),Women (Austria),,,Austria,Wien,,Wien,48.2085,16.3721,1,New media,0
+AUT815,2021-10-30,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media,0
+AUT816,2021-11-02,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media,0
+AUT817,2021-11-08,1,Protests,Peaceful protest,Protesters (Austria),FBP: Free Citizens' Party,,,Austria,Vorarlberg,Bregenz,Bregenz,47.5025,9.7474,1,National,0
+AUT818,2021-11-10,1,Protests,Peaceful protest,Protesters (Austria),GOD: Public Service Union; Labor Group (Austria),,,Austria,Burgenland,Oberwart,Oberwart,47.2861,16.2126,1,National,0
+AUT819,2021-11-09,1,Protests,Peaceful protest,Protesters (Austria),"GPA-DJP: Union of Private Sector Employees, Printing, Journalism, and Paper; Labor Group (Austria)",,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT824,2021-11-10,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria); Labor Group (Austria),,,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,National,0
+AUT825,2021-11-10,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria); Labor Group (Austria),,,Austria,Vorarlberg,Dornbirn,Dornbirn,47.4138,9.742,1,National,0
+AUT826,2021-11-10,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria); Labor Group (Austria),,,Austria,Niederosterreich,Scheibbs,Scheibbs,48.0048,15.167,1,Subnational,0
+AUT827,2021-11-10,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria); Labor Group (Austria),,,Austria,Salzburg,Salzburg-Umgebung,Grossgmain,47.7254,12.907,1,National,0
+AUT828,2021-11-10,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria); Labor Group (Austria),,,Austria,Salzburg,Salzburg-Umgebung,Oberndorf bei Salzburg,47.9394,12.946,1,National,0
+AUT829,2021-11-10,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria); Labor Group (Austria),,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT830,2021-11-10,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria); Labor Group (Austria),,,Austria,Wien,Wien 9-Alsergrund,Wien - Alsergrund,48.2227,16.3583,1,National,0
+AUT833,2021-11-12,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Vorarlberg,Feldkirch,Feldkirch,47.2369,9.5983,1,National,0
+AUT834,2021-11-12,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Vorarlberg,Bregenz,Bregenz,47.5025,9.7474,1,National,0
+AUT840,2021-11-13,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT845,2021-11-14,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Vorarlberg,Bregenz,Bregenz,47.5025,9.7474,1,National,0
+AUT846,2021-11-14,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT848,2021-11-16,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria),,,Austria,Oberosterreich,Wels,Wels,48.1566,14.0246,1,Subnational-National,0
+AUT850,2021-11-17,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria); Labor Group (Austria),,,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,National,0
+AUT851,2021-11-18,1,Protests,Peaceful protest,Protesters (Austria),Women (Austria),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National-International,0
+AUT852,2021-11-19,1,Protests,Peaceful protest,Protesters (Austria),FBP: Free Citizens' Party,,,Austria,Vorarlberg,Bregenz,Bregenz,47.5025,9.7474,1,National,0
+AUT855,2021-11-26,1,Protests,Peaceful protest,Protesters (Austria),FPOE: Freedom Party Austria,,,Austria,Vorarlberg,Bregenz,Bregenz,47.5025,9.7474,1,National,0
+AUT856,2021-11-21,1,Protests,Peaceful protest,Protesters (Austria),Protesters (Germany); Protesters (Switzerland),,,Austria,Vorarlberg,Bregenz,Bregenz,47.5025,9.7474,1,National,0
+AUT859,2021-11-21,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT876,2021-11-27,1,Protests,Peaceful protest,Protesters (Austria),Students (Austria),,,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,National-Regional,0
+AUT880,2021-11-28,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Melk,Mank,48.1104,15.341,1,Subnational,0
+AUT883,2021-11-28,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Steyr,Steyr-Stadt,48.0391,14.4194,1,Subnational,0
+AUT885,2021-12-01,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,Subnational-National,0
+AUT886,2021-12-01,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Karnten,Klagenfurt Stadt,Klagenfurt,46.6231,14.308,1,National,0
+AUT888,2021-12-01,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,National,0
+AUT889,2021-12-01,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Vorarlberg,Bregenz,Bregenz,47.5025,9.7474,1,National,0
+AUT890,2021-12-01,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Burgenland,Eisenstadt,Eisenstadt,47.8454,16.5251,1,National,0
+AUT891,2021-12-02,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Scheibbs,Gaming,47.9285,15.0878,1,Subnational,0
+AUT896,2021-12-04,1,Protests,Peaceful protest,Protesters (Austria),Antifa,,,Austria,Wien,Wien 2-Leopoldstadt,Wien - Leopoldstadt,48.2182,16.3901,1,National,0
+AUT903,2021-12-04,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Urfahr-Umgebung,Oberneukirchen,48.464,14.2266,1,National,0
+AUT904,2021-12-04,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,National,0
+AUT906,2021-12-05,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,National,0
+AUT908,2021-12-05,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,National,0
+AUT909,2021-12-05,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Tirol,Lienz,Lienz,46.8299,12.7683,1,National,0
+AUT910,2021-12-05,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Vorarlberg,Bregenz,Bregenz,47.5025,9.7474,1,National,0
+AUT913,2021-12-08,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT920,2021-12-12,1,Protests,Peaceful protest,Protesters (Austria),FPOE: Freedom Party Austria,,,Austria,Niederosterreich,Waidhofen an der Ybbs,Waidhofen an der Ybbs,47.9608,14.7746,1,Subnational-National,0
+AUT921,2021-12-12,1,Protests,Peaceful protest,Protesters (Austria),FPOE: Freedom Party Austria,,,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,National,0
+AUT923,2021-12-19,1,Protests,Peaceful protest,Protesters (Austria),"MFG: Austria People, Freedom, Fundamental Rights",,,Austria,Niederosterreich,Waidhofen an der Ybbs,Waidhofen an der Ybbs,47.9608,14.7746,1,Subnational,0
+AUT924,2021-12-18,1,Protests,Peaceful protest,Protesters (Austria),"MFG: Austria People, Freedom, Fundamental Rights",,,Austria,Karnten,Klagenfurt Stadt,Klagenfurt,46.6231,14.308,1,National,0
+AUT925,2021-12-12,1,Protests,Peaceful protest,Protesters (Austria),"FPOE: Freedom Party Austria; MFG: Austria People, Freedom, Fundamental Rights",,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT926,2021-12-07,1,Protests,Peaceful protest,Protesters (Austria),"Lawyers (Austria); MFG: Austria People, Freedom, Fundamental Rights",,,Austria,Burgenland,Oberwart,Oberwart,47.2861,16.2126,1,National,0
+AUT928,2021-12-11,1,Protests,Peaceful protest,Protesters (Austria),Protesters (Switzerland),,,Austria,Vorarlberg,Feldkirch,Koblach,47.3306,9.6033,1,National,0
+AUT929,2021-12-11,1,Protests,Peaceful protest,Protesters (Austria),Protesters (Switzerland),,,Austria,Vorarlberg,Dornbirn,Lustenau,47.4276,9.6601,1,National,0
+AUT930,2021-12-11,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Karnten,Klagenfurt Stadt,Klagenfurt,46.6231,14.308,1,National,0
+AUT931,2021-12-11,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,Subnational,0
+AUT932,2021-12-12,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Vorarlberg,Bregenz,Bregenz,47.5025,9.7474,1,National,0
+AUT933,2021-12-12,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,Subnational-National,0
+AUT934,2021-12-12,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Grieskirchen,Grieskirchen,48.2348,13.8265,1,Subnational,0
+AUT935,2021-12-19,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Vorarlberg,Bregenz,Bregenz,47.5025,9.7474,1,National,0
+AUT937,2021-12-15,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,National,0
+AUT938,2021-12-13,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Braunau am Inn,Braunau am Inn,48.2528,13.0397,1,Subnational,0
+AUT939,2021-12-15,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Waidhofen an der Ybbs,Waidhofen an der Ybbs,47.9608,14.7746,1,Subnational,0
+AUT940,2021-12-15,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Modling,Perchtoldsdorf,48.119,16.2651,1,Subnational,0
+AUT941,2021-12-15,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Neunkirchen,Ternitz,47.7132,16.0314,1,Subnational,0
+AUT943,2021-12-15,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT944,2021-12-19,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Melk,Pochlarn,48.2122,15.2121,1,National,0
+AUT945,2021-12-19,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Modling,Modling,48.0853,16.2833,1,National,0
+AUT947,2021-12-19,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Amstetten,Amstetten,48.1203,14.8753,1,National,0
+AUT948,2021-12-18,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Modling,Perchtoldsdorf,48.119,16.2651,1,National,0
+AUT949,2021-12-18,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Sankt Polten-Land,Kirchberg an der Pielach,48.0257,15.4325,1,National,0
+AUT951,2021-12-18,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,National,0
+AUT953,2021-12-26,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT955,2021-12-18,1,Protests,Peaceful protest,Protesters (Austria),FPOE: Freedom Party Austria,,,Austria,Niederosterreich,Gmund,Gmund,48.7729,14.9857,1,Subnational,0
+AUT956,2021-12-19,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Vorarlberg,Bregenz,Bregenz,47.5025,9.7474,1,National,0
+AUT958,2021-12-12,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,Subnational-National,0
+AUT960,2021-12-15,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Sankt Polten,Sankt Polten,48.2,15.6333,1,Subnational-National,0
+AUT471,2021-02-05,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Wien,,Wien,48.2085,16.3721,1,Other-New media,0
+AUT605,2021-04-24,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 22-Donaustadt,Wien - Donaustadt,48.227,16.4945,1,Other-New media,0
+AUT770,2021-09-30,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 22-Donaustadt,Wien - Donaustadt,48.227,16.4945,1,Other,0
+AUT771,2021-09-29,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 22-Donaustadt,Wien - Donaustadt,48.227,16.4945,1,Other,0
+AUT391,2021-01-03,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,Other-New media,0
+AUT427,2021-01-16,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,Other,0
+AUT551,2021-03-12,2,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,Other,0
+AUT553,2021-03-14,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Austria),,Civilians (Austria),Labor Group (Austria),Austria,Wien,,Wien,48.2085,16.3721,1,Other,0
+AUT724,2021-05-29,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,Other,0
+AUT747,2021-09-11,1,Protests,Peaceful protest,Protesters (Austria),VGT: Association Against Animal Factories,,,Austria,Vorarlberg,Bregenz,Bregenz,47.5025,9.7474,1,National-Regional,0
+AUT877,2021-11-27,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,Subnational-Regional,0
+AUT383,2021-01-02,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Scharding,Scharding,48.4568,13.4317,1,Subnational-National,0
+AUT385,2021-01-06,1,Protests,Protest with intervention,Protesters (Austria),,Police Forces of Austria (2019-2025),,Austria,Oberosterreich,Braunau am Inn,Braunau am Inn,48.2528,13.0397,1,Subnational-National,0
+AUT401,2021-01-08,1,Protests,Protest with intervention,Protesters (Austria),,Police Forces of Austria (2019-2025),,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,National,0
+AUT407,2021-01-09,1,Protests,Protest with intervention,Protesters (Austria),,Police Forces of Austria (2019-2025),,Austria,Niederosterreich,Melk,Ruprechtshofen,48.1357,15.2782,1,Subnational,0
+AUT424,2021-01-13,1,Protests,Protest with intervention,Protesters (Austria),,Police Forces of Austria (2019-2025),,Austria,Niederosterreich,Sankt Polten,Sankt Polten,48.2,15.6333,1,Subnational,0
+AUT465,2021-01-24,1,Protests,Protest with intervention,Protesters (Austria),,Police Forces of Austria (2019-2025),,Austria,Oberosterreich,Braunau am Inn,Braunau am Inn,48.2528,13.0397,1,Subnational-National,0
+AUT507,2021-02-13,1,Riots,Violent demonstration,Rioters (Austria),,Police Forces of Austria (2019-2025),,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media-National,0
+AUT515,2021-02-20,1,Riots,Violent demonstration,Rioters (Austria),,Police Forces of Austria (2019-2025),,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,National,0
+AUT520,2021-02-20,1,Protests,Protest with intervention,Protesters (Austria),,Police Forces of Austria (2019-2025),,Austria,Karnten,Spittal an der Drau,Spittal an der Drau,46.7984,13.4964,1,National,0
+AUT575,2021-03-20,1,Protests,Protest with intervention,Protesters (Austria),,Police Forces of Austria (2019-2025),,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT608,2021-04-26,1,Protests,Protest with intervention,Protesters (Austria),Antifa,Police Forces of Austria (2019-2025),,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media-National,0
+AUT645,2021-05-15,1,Protests,Protest with intervention,Protesters (Austria),,Police Forces of Austria (2019-2025),,Austria,Wien,Wien 2-Leopoldstadt,Wien - Leopoldstadt,48.2182,16.3901,1,National,0
+AUT655,2021-05-21,1,Protests,Protest with intervention,Protesters (Austria),Civilians (Austria); Journalists (Austria),Police Forces of Austria (2019-2025),,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT738,2021-08-24,1,Protests,Peaceful protest,Protesters (Austria),Government of Austria (2019-2025); SPOE: Social Democratic Party of Austria; The Greens (Austria); Women (Austria),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media-National,0
+AUT777,2021-10-02,1,Protests,Peaceful protest,Protesters (Austria),FPOE: Freedom Party Austria; Government of Austria (2019-2025); NEOS: New Austria and Liberal Forum; SPOE: Social Democratic Party of Austria,,,Austria,Niederosterreich,Baden,Baden,48.0018,16.2304,1,Subnational,0
+AUT831,2021-11-10,1,Protests,Peaceful protest,Protesters (Austria),Government of Austria (2019-2025); Health Workers (Austria); Labor Group (Austria),,,Austria,Niederosterreich,Sankt Polten,Sankt Polten,48.2,15.6333,1,Subnational-National,0
+AUT853,2021-11-20,1,Battles,Armed clash,Unidentified Armed Group (Austria),,Police Forces of Austria (2019-2025),,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,Regional,0
+AUT866,2021-11-21,1,Protests,Protest with intervention,Protesters (Austria),"MFG: Austria People, Freedom, Fundamental Rights",Police Forces of Austria (2019-2025),,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,National,0
+AUT868,2021-11-20,1,Riots,Violent demonstration,Rioters (Austria),FPOE: Freedom Party Austria; Health Workers (Austria); Police Forces of Austria (2019-2025); Police Forces of Germany (2005-2021); Protesters (Germany),Police Forces of Austria (2019-2025),Civilians (Austria); Journalists (Austria),Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National-Regional,0
+AUT892,2021-12-01,1,Protests,Protest with intervention,Protesters (Austria),,Police Forces of Austria (2019-2025),,Austria,Niederosterreich,Zwettl,Zwettl,48.6048,15.1683,1,Subnational-International,0
+AUT895,2021-11-22,1,Strategic developments,Change to group/activity,Government of Austria (2019-2025),,,,Austria,Wien,,Wien,48.2085,16.3721,3,Regional,0
+AUT927,2021-12-19,1,Protests,Peaceful protest,Protesters (Austria),Government of Austria (2019-2025); OEVP: Austrian People's Party,,,Austria,Niederosterreich,Melk,Texingtal,48.0474,15.3222,1,National,0
+AUT957,2021-12-19,1,Protests,Protest with intervention,Protesters (Austria),,Police Forces of Austria (2019-2025),,Austria,Oberosterreich,Braunau am Inn,Braunau am Inn,48.2528,13.0397,1,Other,0
+AUT393,2021-01-06,1,Protests,Protest with intervention,Protesters (Austria),FPOE: Freedom Party Austria,Police Forces of Austria (2019-2025),,Austria,Niederosterreich,Wiener Neustadt,Wiener Neustadt,47.8141,16.244,1,National,0
+AUT493,2021-02-06,1,Protests,Protest with intervention,Protesters (Austria),,Police Forces of Austria (2019-2025),,Austria,Niederosterreich,Wiener Neustadt,Wiener Neustadt,47.8141,16.244,1,National,0
+AUT550,2021-03-09,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Wiener Neustadt,Wiener Neustadt,47.8141,16.244,1,Subnational-National,0
+AUT875,2021-12-03,1,Protests,Peaceful protest,Protesters (Austria),"Health Workers (Austria); MFG: Austria People, Freedom, Fundamental Rights",,,Austria,Niederosterreich,Wiener Neustadt,Wiener Neustadt,47.8141,16.244,1,Regional,0
+AUT946,2021-12-19,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Wiener Neustadt,Wiener Neustadt,47.8141,16.244,1,National,0
+AUT402,2021-01-09,1,Protests,Protest with intervention,Protesters (Austria),Antifa,Police Forces of Austria (2019-2025),,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,National,0
+AUT403,2021-01-09,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Steiermark,Leoben,Leoben,47.3805,15.0942,1,National,0
+AUT404,2021-01-09,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Steiermark,Leibnitz,Leibnitz,46.7796,15.5408,1,National,0
+AUT405,2021-01-09,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Karnten,Villach,Villach,46.6167,13.8501,1,National,0
+AUT406,2021-01-09,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Karnten,Spittal an der Drau,Spittal an der Drau,46.7984,13.4964,1,National,0
+AUT410,2021-01-10,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT416,2021-01-09,1,Protests,Peaceful protest,Protesters (Austria),IBOE: Identitarian Movement Austria,,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,National,0
+AUT418,2021-01-11,1,Protests,Peaceful protest,Protesters (Austria),Students (Austria),,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT423,2021-01-12,1,Protests,Peaceful protest,Protesters (Austria),Labor Group (Austria); Students (Austria),,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,National,0
+AUT426,2021-01-16,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Steiermark,Bruck-Murzzuschlag,Murzzuschlag,47.6048,15.6734,1,National,0
+AUT428,2021-01-16,1,Riots,Violent demonstration,Rioters (Austria),IBOE: Identitarian Movement Austria,Protesters (Austria),Antifa; Civilians (Austria); Journalists (Austria),Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media-National,0
+AUT431,2021-01-17,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT438,2021-01-23,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Sankt Polten,Sankt Polten,48.2,15.6333,1,National,0
+AUT439,2021-01-23,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Bruck an der Leitha,Bruck an der Leitha,48.0264,16.7796,1,National,0
+AUT440,2021-01-23,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Zwettl,Zwettl,48.6048,15.1683,1,National,0
+AUT441,2021-01-23,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Sankt Polten-Land,Pressbaum,48.1789,16.0771,1,National,0
+AUT442,2021-01-23,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Melk,Mank,48.1104,15.341,1,National,0
+AUT443,2021-01-23,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Salzburg,Sankt Johann im Pongau,Bischofshofen,47.4168,13.2179,1,National,0
+AUT445,2021-01-23,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Karnten,Villach,Villach,46.6167,13.8501,1,National,0
+AUT446,2021-01-24,2,Protests,Peaceful protest,Protesters (Austria),Labor Group (Austria),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT451,2021-01-24,2,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Steiermark,Sudoststeiermark,Fehring,46.9355,16.0095,1,National,0
+AUT452,2021-01-24,2,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Steiermark,Liezen,Ramsau am Dachstein,47.4214,13.6533,1,National,0
+AUT453,2021-01-24,2,Protests,Peaceful protest,Protesters (Austria),SJOE: Socialist Youth Austria,,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,National,0
+AUT464,2021-01-24,2,Protests,Protest with intervention,Protesters (Austria),,Police Forces of Austria (2019-2025),,Austria,Steiermark,Leibnitz,Leibnitz,46.7796,15.5408,1,National,0
+AUT466,2021-01-25,1,Protests,Protest with intervention,Protesters (Austria),,Police Forces of Austria (2019-2025),,Austria,Karnten,Klagenfurt Stadt,Klagenfurt,46.6231,14.308,1,National,0
+AUT468,2021-01-30,1,Protests,Peaceful protest,Protesters (Austria),Christian Group (Austria),,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,National,0
+AUT469,2021-01-30,1,Riots,Violent demonstration,Rioters (Austria),Black Bloc; SJOE: Socialist Youth Austria,Police Forces of Austria (2019-2025),,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,Subnational-National,0
+AUT473,2021-01-30,1,Protests,Peaceful protest,Protesters (Austria),Catholic Christian Group (Austria); KPOE: Communist Party of Austria; NEOS: New Austria and Liberal Forum; SJOE: Socialist Youth Austria; SPOE: Social Democratic Party of Austria; The Greens (Austria),,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,National,0
+AUT475,2021-02-01,1,Protests,Peaceful protest,Protesters (Austria),SJOE: Socialist Youth Austria; Students (Austria),,,Austria,Burgenland,Eisenstadt,Eisenstadt,47.8454,16.5251,1,National,0
+AUT477,2021-01-30,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,Subnational-National,0
+AUT478,2021-01-30,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Tirol,Kitzbuhel,Sankt Johann,47.5223,12.429,1,Subnational-National,0
+AUT479,2021-01-30,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Tirol,Lienz,Lienz,46.8299,12.7683,1,Subnational-National,0
+AUT480,2021-01-31,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT481,2021-01-31,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT483,2021-02-03,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Burgenland,Jennersdorf,Jennersdorf,46.9374,16.1417,1,National,0
+AUT489,2021-02-06,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT494,2021-02-07,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT495,2021-02-08,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT499,2021-02-07,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT500,2021-02-11,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Karnten,Volkermarkt,Volkermarkt,46.6598,14.6338,1,National,0
+AUT509,2021-02-14,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT513,2021-02-19,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Steiermark,Murtal,Judenburg,47.1689,14.6585,1,National,0
+AUT519,2021-02-23,1,Protests,Peaceful protest,Protesters (Austria),Antifa,,,Austria,Wien,Wien 9-Alsergrund,Wien - Alsergrund,48.2227,16.3583,1,New media-National,0
+AUT522,2021-02-25,1,Protests,Peaceful protest,Protesters (Austria),NEOS: New Austria and Liberal Forum; The Greens (Austria),,,Austria,Niederosterreich,Sankt Polten,Sankt Polten,48.2,15.6333,1,National,0
+AUT525,2021-03-03,1,Protests,Peaceful protest,Protesters (Austria),Students (Austria),,,Austria,Wien,Wien 9-Alsergrund,Wien - Alsergrund,48.2227,16.3583,1,National,0
+AUT526,2021-03-03,1,Protests,Peaceful protest,Protesters (Austria),Students (Austria),,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,National,0
+AUT527,2021-03-03,1,Protests,Peaceful protest,Protesters (Austria),Students (Austria),,,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,National,0
+AUT534,2021-02-28,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Braunau am Inn,Braunau am Inn,48.2528,13.0397,1,National,0
+AUT535,2021-02-28,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Salzburg,Zell am See,Zell am See,47.3238,12.797,1,National,0
+AUT545,2021-03-06,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Sankt Polten,Sankt Polten,48.2,15.6333,1,National,0
+AUT564,2021-03-14,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Karnten,Klagenfurt Stadt,Klagenfurt,46.6231,14.308,1,National,0
+AUT565,2021-03-14,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Tirol,Kufstein,Niederndorf,47.6501,12.2167,1,National,0
+AUT570,2021-03-23,2,Protests,Peaceful protest,Protesters (Austria),Women (Austria),,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT572,2021-03-21,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Vorarlberg,Bregenz,Bregenz,47.5025,9.7474,1,National,0
+AUT578,2021-03-28,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,Subnational-National,0
+AUT579,2021-03-28,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Steyr,Steyr-Stadt,48.0391,14.4194,1,National,0
+AUT594,2021-04-11,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Burgenland,Eisenstadt-Umgebung,Neufeld an der Leitha,47.8676,16.3772,2,National,0
+AUT595,2021-04-11,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Burgenland,Eisenstadt,Eisenstadt,47.8454,16.5251,1,National,0
+AUT599,2021-04-18,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,National,0
+AUT629,2021-05-08,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,National,0
+AUT630,2021-05-08,1,Protests,Protest with intervention,Protesters (Austria),,Police Forces of Austria (2019-2025),,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,National,0
+AUT637,2021-05-20,1,Protests,Peaceful protest,Protesters (Austria),Government of Austria (2019-2025); NEOS: New Austria and Liberal Forum; OEVP: Austrian People's Party; SPOE: Social Democratic Party of Austria; The Greens (Austria),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT639,2021-05-08,1,Riots,Violent demonstration,Rioters (Austria),Antifa,Police Forces of Austria (2019-2025),,Austria,Wien,Wien 16-Ottakring,Wien - Ottakring,48.2136,16.309,1,New media-National,0
+AUT640,2021-05-15,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,National,0
+AUT641,2021-05-16,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT643,2021-05-21,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media-National,0
+AUT650,2021-05-22,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,National,0
+AUT653,2021-05-26,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,National,0
+AUT663,2021-06-05,1,Protests,Peaceful protest,Protesters (Austria),BLM: Black Lives Matter,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media-National,0
+AUT665,2021-06-06,1,Protests,Peaceful protest,Protesters (Austria),SJOE: Socialist Youth Austria,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media-National,0
+AUT671,2021-06-16,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 2-Leopoldstadt,Wien - Leopoldstadt,48.2182,16.3901,1,New media-National,0
+AUT672,2021-06-16,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria); Labor Group (Austria); SPOE: Social Democratic Party of Austria; Vida,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media-National,0
+AUT695,2021-07-03,1,Protests,Peaceful protest,Protesters (Austria),Farmers (Austria),,,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,Subnational-National,0
+AUT698,2021-07-03,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria); Labor Group (Austria); OGB: Austrian Trade Union Federation; SPOE: Social Democratic Party of Austria; Vida,,,Austria,Burgenland,Eisenstadt,Eisenstadt,47.8454,16.5251,1,National,0
+AUT715,2021-08-28,1,Protests,Peaceful protest,Protesters (Austria),Farmers (Austria),,,Austria,Niederosterreich,Sankt Polten,Sankt Polten,48.2,15.6333,1,National,0
+AUT743,2021-09-09,1,Protests,Protest with intervention,Protesters (Austria),VGT: Association Against Animal Factories,Police Forces of Austria (2019-2025),,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,National,0
+AUT791,2021-10-19,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria); KPOE: Communist Party of Austria,,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,National,0
+AUT793,2021-10-21,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria),,,Austria,Oberosterreich,Gmunden,Gmunden,47.9177,13.8005,1,National,0
+AUT808,2021-10-29,2,Protests,Peaceful protest,Protesters (Austria),Labor Group (Austria); Students (Austria),,,Austria,Oberosterreich,Gmunden,Gmunden,47.9177,13.8005,1,National,0
+AUT811,2021-11-04,2,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Krems an der Donau,Krems an der Donau,48.4108,15.6003,1,National,0
+AUT832,2021-11-10,1,Protests,Peaceful protest,Protesters (Austria),Labor Group (Austria),,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,National,0
+AUT838,2021-11-13,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Karnten,Klagenfurt Stadt,Klagenfurt,46.6231,14.308,1,National,0
+AUT841,2021-11-13,1,Protests,Peaceful protest,Protesters (Austria),Labor Group (Austria),,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,Subnational-National,0
+AUT842,2021-11-14,1,Protests,Peaceful protest,Protesters (Austria),FPOE: Freedom Party Austria,Protesters (Austria),Antifa,Austria,Burgenland,Oberpullendorf,Deutschkreutz,47.6006,16.6247,1,National,0
+AUT844,2021-11-14,1,Protests,Protest with intervention,Protesters (Austria),,Police Forces of Austria (2019-2025),,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,National,0
+AUT849,2021-11-17,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,Subnational-National,0
+AUT860,2021-11-21,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Steyr,Steyr-Stadt,48.0391,14.4194,1,National,0
+AUT867,2021-11-26,1,Protests,Protest with intervention,Protesters (Austria),,Police Forces of Austria (2019-2025),,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National-International,0
+AUT869,2021-12-02,1,Protests,Peaceful protest,Protesters (Austria),BZOE: Alliance for the Future of Austria,,,Austria,Wien,Wien 19-Dobling,Wien - Dobling,48.2514,16.3483,1,National,0
+AUT871,2021-11-27,1,Protests,Peaceful protest,Protesters (Austria),FPOE: Freedom Party Austria,,,Austria,Karnten,Klagenfurt Stadt,Klagenfurt,46.6231,14.308,1,National-Regional,0
+AUT874,2021-11-28,1,Riots,Violent demonstration,Rioters (Austria),"MFG: Austria People, Freedom, Fundamental Rights",,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT879,2021-11-27,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT887,2021-12-01,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT898,2021-12-03,1,Protests,Peaceful protest,Protesters (Austria),OEVP: Austrian People's Party,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT899,2021-12-04,1,Protests,Peaceful protest,Protesters (Austria),OEVP: Austrian People's Party,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT900,2021-12-05,1,Protests,Peaceful protest,Protesters (Austria),OEVP: Austrian People's Party,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT901,2021-12-08,1,Protests,Peaceful protest,Protesters (Austria),Teachers (Austria),,,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,Subnational-National,0
+AUT905,2021-12-04,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Burgenland,Eisenstadt,Eisenstadt,47.8454,16.5251,1,National,0
+AUT912,2021-12-05,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Salzburg,Zell am See,Mittersill,47.2814,12.4837,1,National,0
+AUT916,2021-12-05,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT950,2021-12-19,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT952,2021-12-23,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,National,0
+AUT765,2021-09-29,1,Protests,Excessive force against protesters,Protesters (Austria),,Rioters (Austria),,Austria,Wien,Wien 22-Donaustadt,Wien - Donaustadt,48.227,16.4945,1,Other,0
+AUT425,2021-01-16,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,Subnational-National,0
+AUT476,2021-01-30,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,National,0
+AUT536,2021-03-01,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 3-Landstrasse,Wien - Landstrasse,48.2023,16.3901,1,National,0
+AUT554,2021-03-19,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,National,0
+AUT555,2021-03-19,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT556,2021-03-19,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,National,0
+AUT557,2021-03-19,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,National,0
+AUT558,2021-03-19,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Tirol,Kufstein,Kufstein,47.5831,12.1694,1,National,0
+AUT559,2021-03-19,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Tirol,Lienz,Lienz,46.8299,12.7683,1,National,0
+AUT560,2021-03-19,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Labor Group (Austria); OGB: Austrian Trade Union Federation; Students (Austria),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,Other-New media,0
+AUT617,2021-05-14,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Vorarlberg,Feldkirch,Feldkirch,47.2369,9.5983,1,National,0
+AUT618,2021-05-14,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,National,0
+AUT619,2021-05-14,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Tirol,Kufstein,Kufstein,47.5831,12.1694,1,National,0
+AUT620,2021-05-14,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,National,0
+AUT621,2021-05-14,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT622,2021-05-14,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Niederosterreich,Sankt Polten,Sankt Polten,48.2,15.6333,1,Subnational,0
+AUT623,2021-05-14,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Greenpeace; Students (Austria),,,Austria,Wien,Wien 4-Wieden,Wien - Wieden,48.194,16.3722,1,Other-National,0
+AUT631,2021-05-15,1,Protests,Protest with intervention,Protesters (Austria),XR: Extinction Rebellion,Police Forces of Austria (2019-2025),,Austria,Wien,Wien 3-Landstrasse,Wien - Landstrasse,48.2023,16.3901,1,Other-National,0
+AUT632,2021-05-20,1,Protests,Peaceful protest,Protesters (Austria),XR: Extinction Rebellion,,,Austria,Wien,Wien 4-Wieden,Wien - Wieden,48.194,16.3722,1,Other,0
+AUT651,2021-05-23,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 2-Leopoldstadt,Wien - Leopoldstadt,48.2182,16.3901,1,New media,0
+AUT657,2021-06-03,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Wien,Wien 22-Donaustadt,Wien - Donaustadt,48.227,16.4945,1,Other-New media,0
+AUT661,2021-05-30,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media,0
+AUT676,2021-06-25,1,Protests,Peaceful protest,Protesters (Austria),XR: Extinction Rebellion,,,Austria,Wien,Wien 7-Neubau,Wien - Neubau,48.2018,16.349,1,Other,0
+AUT685,2021-06-26,1,Protests,Peaceful protest,Protesters (Austria),XR: Extinction Rebellion,,,Austria,Oberosterreich,Gmunden,Gmunden,47.9177,13.8005,1,Other,0
+AUT706,2021-07-19,1,Protests,Peaceful protest,Protesters (Austria),XR: Extinction Rebellion,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,Other,0
+AUT711,2021-07-28,1,Protests,Protest with intervention,Protesters (Austria),XR: Extinction Rebellion,Police Forces of Austria (2019-2025),,Austria,Wien,Wien 22-Donaustadt,Wien - Donaustadt,48.227,16.4945,1,Other-National,0
+AUT713,2021-08-30,1,Protests,Peaceful protest,Protesters (Austria),"FFF: Fridays for Future; Students (Austria); System Change, Not Climate Change; XR: Extinction Rebellion",,,Austria,Wien,Wien 22-Donaustadt,Wien - Donaustadt,48.227,16.4945,1,Other-National,0
+AUT714,2021-09-01,1,Protests,Peaceful protest,Protesters (Austria),"FFF: Fridays for Future; Students (Austria); System Change, Not Climate Change; XR: Extinction Rebellion",,,Austria,Wien,Wien 22-Donaustadt,Wien - Donaustadt,48.227,16.4945,1,National,0
+AUT717,2021-09-02,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 22-Donaustadt,Wien - Donaustadt,48.227,16.4945,1,National,0
+AUT718,2021-09-03,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 22-Donaustadt,Wien - Donaustadt,48.227,16.4945,1,National,0
+AUT727,2021-08-13,1,Protests,Peaceful protest,Protesters (Austria),XR: Extinction Rebellion,,,Austria,Wien,Wien 22-Donaustadt,Wien - Donaustadt,48.227,16.4945,1,Other-National,0
+AUT733,2021-08-26,1,Protests,Peaceful protest,Protesters (Austria),XR: Extinction Rebellion,,,Austria,Wien,Wien 15-Rudolfsheim-Funfhaus,Wien - Rudolfsheim-Funfhaus,48.1958,16.3266,1,Other,0
+AUT734,2021-08-27,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Wien,Wien 22-Donaustadt,Wien - Donaustadt,48.227,16.4945,1,National,0
+AUT748,2021-09-14,1,Protests,Peaceful protest,Protesters (International),EZLN: Zapatista Army of National Liberation; Zapatistas,,,Austria,Niederosterreich,Bruck an der Leitha,Schwechat,48.14,16.4778,1,Regional,0
+AUT751,2021-09-24,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Karnten,Klagenfurt Stadt,Klagenfurt,46.6231,14.308,1,Subnational,0
+AUT752,2021-09-24,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Vorarlberg,Bregenz,Bregenz,47.5025,9.7474,1,National,0
+AUT753,2021-09-24,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,International,0
+AUT754,2021-09-24,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Niederosterreich,Sankt Polten,Sankt Polten,48.2,15.6333,1,International,0
+AUT755,2021-09-24,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,International,0
+AUT756,2021-09-24,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National-International,0
+AUT757,2021-09-24,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria); The Greens (Austria),,,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,International,0
+AUT758,2021-09-24,1,Protests,Peaceful protest,Protesters (Austria),"FFF: Fridays for Future; KPOE: Communist Party of Austria; Seebruecke; Students (Austria); System Change, Not Climate Change; The Greens (Austria); VGT: Association Against Animal Factories",,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,Subnational,0
+AUT759,2021-09-23,1,Protests,Peaceful protest,Protesters (Austria),Greenpeace,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT763,2021-09-24,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Oberosterreich,Steyr,Steyr-Stadt,48.0391,14.4194,1,National,0
+AUT769,2021-09-24,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Korneuburg,Stockerau,48.384,16.2076,1,Subnational,0
+AUT789,2021-10-21,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,Subnational,0
+AUT790,2021-10-22,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,International,0
+AUT799,2021-10-19,1,Protests,Peaceful protest,Protesters (Austria),WWF: World Wildlife Fund,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,International,0
+AUT801,2021-10-21,2,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 13-Hietzing,Wien - Hietzing,48.1802,16.2721,1,National,0
+AUT802,2021-10-22,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT812,2021-11-01,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Niederosterreich,Gmund,Neu-Nagelberg,48.8231,14.9761,1,Subnational,0
+AUT847,2021-11-15,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Greenpeace; Students (Austria),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT854,2021-11-26,1,Protests,Peaceful protest,Protesters (Austria),"FFF: Fridays for Future; Students (Austria); System Change, Not Climate Change",,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media,0
+AUT878,2021-11-27,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 22-Donaustadt,Wien - Donaustadt,48.227,16.4945,1,National,0
+AUT881,2021-11-28,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 22-Donaustadt,Wien - Donaustadt,48.227,16.4945,1,National,0
+AUT919,2021-12-07,2,Protests,Peaceful protest,Protesters (Austria),"FFF: Fridays for Future; Greenpeace; Students (Austria); System Change, Not Climate Change",,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT749,2021-09-20,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria); XR: Extinction Rebellion,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT380,2021-01-02,1,Protests,Peaceful protest,Protesters (Austria),,Protesters (Austria),,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,National,0
+AUT390,2021-01-02,1,Protests,Peaceful protest,Protesters (Austria),Querdenken,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT398,2021-01-08,1,Protests,Protest with intervention,Protesters (Austria),,Police Forces of Austria (2019-2025),,Austria,Oberosterreich,Vocklabruck,Vocklabruck,48.0079,13.6461,1,National,0
+AUT399,2021-01-09,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT400,2021-01-08,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Vocklabruck,Vocklabruck,48.0079,13.6461,1,National,0
+AUT414,2021-01-14,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 12-Meidling,Wien - Meidling,48.1778,16.3308,1,National,0
+AUT430,2021-01-17,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria),,,Austria,Burgenland,Oberwart,Oberwart,47.2861,16.2126,1,National,0
+AUT433,2021-01-18,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT436,2021-01-22,1,Protests,Peaceful protest,Protesters (Austria),Labor Group (Austria),,,Austria,Wien,Wien 2-Leopoldstadt,Wien - Leopoldstadt,48.2182,16.3901,1,New media-National,0
+AUT437,2021-01-23,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Perg,Perg,48.2501,14.6338,1,Subnational-National,0
+AUT444,2021-01-23,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT447,2021-01-23,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Gmunden,Bad Ischl,47.7116,13.624,1,National,0
+AUT448,2021-01-23,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Scharding,Scharding,48.4568,13.4317,1,National,0
+AUT449,2021-01-23,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Kirchdorf an der Krems,Kirchdorf an der Krems,47.9052,14.1244,1,National,0
+AUT467,2021-01-28,1,Protests,Protest with intervention,Protesters (Austria),Journalists (Austria); NEOS: New Austria and Liberal Forum; SPOE: Social Democratic Party of Austria; Students (Austria); The Greens (Austria),Police Forces of Austria (2019-2025),,Austria,Wien,Wien 11-Simmering,Wien - Simmering,48.1695,16.4216,1,National,0
+AUT470,2021-01-30,1,Protests,Protest with intervention,Protesters (Austria),Querdenken,Police Forces of Austria (2019-2025),,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media-National,0
+AUT472,2021-01-30,1,Protests,Peaceful protest,Protesters (Austria),OGR: Offensive Against the Right,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT474,2021-01-31,1,Riots,Violent demonstration,Rioters (Austria),IBOE: Identitarian Movement Austria; Querdenken,Police Forces of Austria (2019-2025),Civilians (Austria); Journalists (Austria),Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media-National,0
+AUT502,2021-02-06,1,Protests,Peaceful protest,Protesters (Austria),Students (Austria),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media-National,0
+AUT510,2021-02-15,1,Protests,Peaceful protest,Protesters (Austria),Students (Austria),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT512,2021-02-18,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 21-Floridsdorf,Wien - Floridsdorf,48.257,16.3978,1,National,0
+AUT529,2021-02-27,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Lilienfeld,Hainfeld,48.0348,15.7714,1,Subnational-National,0
+AUT530,2021-02-27,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 4-Wieden,Wien - Wieden,48.194,16.3722,1,National,0
+AUT539,2021-02-28,1,Protests,Protest with intervention,Protesters (Austria),Protesters (Germany); Reich Citizens,Police Forces of Austria (2019-2025),,Austria,Wien,,Wien,48.2085,16.3721,1,National,0
+AUT540,2021-03-04,1,Protests,Protest with intervention,Protesters (Austria),Antifa; Women (Austria),Police Forces of Austria (2019-2025),,Austria,Wien,Wien 15-Rudolfsheim-Funfhaus,Wien - Rudolfsheim-Funfhaus,48.1958,16.3266,1,National,0
+AUT541,2021-02-27,1,Protests,Protest with intervention,Protesters (Austria),,Police Forces of Austria (2019-2025),,Austria,Niederosterreich,Sankt Polten,Sankt Polten,48.2,15.6333,1,National,0
+AUT542,2021-03-06,1,Riots,Violent demonstration,Rioters (Austria),FPOE: Freedom Party Austria; IBOE: Identitarian Movement Austria,Rioters (Austria),Antifa,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media-National,0
+AUT543,2021-03-08,1,Protests,Peaceful protest,Protesters (Austria),Women (Austria),,,Austria,Wien,Wien 9-Alsergrund,Wien - Alsergrund,48.2227,16.3583,1,New media-National,0
+AUT544,2021-03-06,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Tirol,Innsbruck-Stadt,Innsbruck,47.2654,11.3929,1,National,0
+AUT547,2021-03-07,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Burgenland,Eisenstadt,Eisenstadt,47.8454,16.5251,1,National,0
+AUT549,2021-03-07,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT552,2021-03-06,1,Riots,Violent demonstration,Rioters (Austria),AfD: Alternative for Germany; FPOE: Freedom Party Austria; IBOE: Identitarian Movement Austria; Rioters (Germany),Private Security Forces (Austria),,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media-National,0
+AUT566,2021-03-17,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 10-Favoriten,Wien - Favoriten,48.1714,16.3763,1,National,0
+AUT568,2021-03-24,1,Protests,Peaceful protest,Protesters (Austria),Students (Austria),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT569,2021-03-25,1,Protests,Peaceful protest,Protesters (Austria),VGT: Association Against Animal Factories,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT577,2021-03-27,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 10-Favoriten,Wien - Favoriten,48.1714,16.3763,1,National,0
+AUT583,2021-03-30,1,Protests,Protest with intervention,Protesters (Austria),Antifa,Police Forces of Austria (2019-2025),,Austria,Niederosterreich,Bruck an der Leitha,Schwechat,48.14,16.4778,1,National,0
+AUT586,2021-04-03,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Baden,Leobersdorf,47.9284,16.2171,2,National,0
+AUT590,2021-04-10,1,Riots,Violent demonstration,Rioters (Austria),QAnon,Police Forces of Austria (2019-2025),Antifa; Rioters (Austria),Austria,Wien,Wien 3-Landstrasse,Wien - Landstrasse,48.2023,16.3901,1,New media-National,0
+AUT592,2021-04-16,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 10-Favoriten,Wien - Favoriten,48.1714,16.3763,1,National,0
+AUT603,2021-04-23,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Melk,Melk,48.2272,15.3371,1,National,0
+AUT604,2021-04-24,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT607,2021-04-28,1,Protests,Peaceful protest,Protesters (Austria),,Protesters (Austria),Die Partei (Austria),Austria,Wien,Wien 7-Neubau,Wien - Neubau,48.2018,16.349,1,New media-National,0
+AUT610,2021-05-01,1,Protests,Peaceful protest,Protesters (Austria),KPOE: Communist Party of Austria; Labor Group (Austria); OGB: Austrian Trade Union Federation; SPOE: Social Democratic Party of Austria,,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,National,0
+AUT615,2021-05-01,1,Protests,Protest with intervention,Protesters (Austria),,Police Forces of Austria (2019-2025),,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT616,2021-05-01,1,Riots,Violent demonstration,Rioters (Austria),Labor Group (Austria); Platform Radical Left,Police Forces of Austria (2019-2025),,Austria,Wien,Wien 9-Alsergrund,Wien - Alsergrund,48.2227,16.3583,1,New media-National,0
+AUT624,2021-05-12,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 7-Neubau,Wien - Neubau,48.2018,16.349,1,New media-National,0
+AUT625,2021-05-10,1,Protests,Peaceful protest,Protesters (Austria),Platform Radical Left; Women (Austria),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media-National,0
+AUT626,2021-05-14,1,Protests,Peaceful protest,Protesters (Austria),Querdenken,,,Austria,Oberosterreich,Perg,Mauthausen,48.2401,14.5159,1,National,0
+AUT627,2021-05-06,1,Protests,Peaceful protest,Protesters (Austria),VGT: Association Against Animal Factories,,,Austria,Wien,Wien 15-Rudolfsheim-Funfhaus,Wien - Rudolfsheim-Funfhaus,48.1958,16.3266,1,National,0
+AUT628,2021-05-11,1,Protests,Peaceful protest,Protesters (Austria),Women (Austria),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT644,2021-05-17,1,Protests,Protest with intervention,Protesters (Austria),XR: Extinction Rebellion,Police Forces of Austria (2019-2025),,Austria,Wien,Wien 6-Mariahilf,Wien - Mariahilf,48.1927,16.3479,1,National,0
+AUT646,2021-05-17,1,Protests,Protest with intervention,Protesters (Austria),,Police Forces of Austria (2019-2025),,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,Subnational-National,0
+AUT647,2021-05-21,1,Protests,Peaceful protest,Protesters (Austria),XR: Extinction Rebellion,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT648,2021-05-28,1,Protests,Peaceful protest,Protesters (Austria),"FFF: Fridays for Future; Students (Austria); System Change, Not Climate Change",,,Austria,Wien,Wien 3-Landstrasse,Wien - Landstrasse,48.2023,16.3901,1,Other-National,0
+AUT654,2021-05-27,2,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Amstetten,Amstetten,48.1203,14.8753,1,National,0
+AUT656,2021-05-29,1,Protests,Peaceful protest,Protesters (Austria),Belarusian Group (Austria); Government of Austria (2019-2025); NEOS: New Austria and Liberal Forum; OEVP: Austrian People's Party; SPOE: Social Democratic Party of Austria; The Greens (Austria),,,Austria,Wien,Wien 7-Neubau,Wien - Neubau,48.2018,16.349,1,New media-National,0
+AUT658,2021-06-01,1,Protests,Peaceful protest,Protesters (Austria),VGT: Association Against Animal Factories,,,Austria,Niederosterreich,Baden,Baden,48.0018,16.2304,1,National,0
+AUT659,2021-06-01,1,Protests,Peaceful protest,Protesters (Austria),VGT: Association Against Animal Factories,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT666,2021-06-05,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media-National,0
+AUT667,2021-06-07,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT668,2021-06-09,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 3-Landstrasse,Wien - Landstrasse,48.2023,16.3901,1,National,0
+AUT679,2021-06-19,1,Protests,Peaceful protest,Protesters (Austria),Labor Group (Austria); LGBTQ+ (Austria); OGB: Austrian Trade Union Federation,Protesters (Austria),Catholic Christian Group (Austria),Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media-National,0
+AUT680,2021-06-19,2,Protests,Peaceful protest,Protesters (Austria),LGBTQ+ (Austria); SJOE: Socialist Youth Austria,,,Austria,Niederosterreich,Sankt Polten,Sankt Polten,48.2,15.6333,1,National,0
+AUT686,2021-07-02,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,Other-New media,0
+AUT688,2021-07-02,1,Protests,Peaceful protest,Protesters (Austria),IBOE: Identitarian Movement Austria,Protesters (Austria),,Austria,Wien,Wien 10-Favoriten,Wien - Favoriten,48.1714,16.3763,1,National,0
+AUT690,2021-06-28,1,Protests,Peaceful protest,Protesters (Austria),Students (Austria); Teachers (Austria),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT692,2021-06-30,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 13-Hietzing,Wien - Hietzing,48.1802,16.2721,1,National,0
+AUT694,2021-06-26,1,Protests,Protest with intervention,Protesters (Austria),Antifa,Police Forces of Austria (2019-2025),,Austria,Wien,Wien 10-Favoriten,Wien - Favoriten,48.1714,16.3763,1,National,0
+AUT696,2021-07-02,1,Protests,Peaceful protest,Protesters (Austria),Government of Austria (2019-2025),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT700,2021-07-03,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria); Labor Group (Austria); Vida,,,Austria,Wien,,Wien,48.2085,16.3721,1,National,0
+AUT703,2021-07-14,1,Protests,Peaceful protest,Protesters (Austria),The Greens (Austria),,,Austria,Wien,Wien 2-Leopoldstadt,Wien - Leopoldstadt,48.2182,16.3901,1,National,0
+AUT705,2021-07-20,1,Protests,Excessive force against protesters,Protesters (Austria),VGT: Association Against Animal Factories,Rioters (Austria),Farmers (Austria),Austria,Niederosterreich,Sankt Polten,Sankt Polten,48.2,15.6333,2,National,0
+AUT707,2021-07-20,2,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 14-Penzing,Wien - Penzing,48.2067,16.2623,1,National,0
+AUT716,2021-08-31,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT721,2021-07-31,1,Protests,Peaceful protest,Protesters (Austria),FPOE: Freedom Party Austria; IBOE: Identitarian Movement Austria; NPD: National Democratic Party of Germany; PEGIDA: Patriotic Europeans Against the Islamisation of the Occident; Protesters (Denmark); Protesters (Germany); Protesters (Hungary); Protesters (Netherlands),Protesters (Austria),Antifa,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,Other-New media,0
+AUT722,2021-08-02,1,Protests,Peaceful protest,Protesters (Austria),SPOE: Social Democratic Party of Austria,,,Austria,Niederosterreich,Sankt Polten,Sankt Polten,48.2,15.6333,1,Subnational-National,0
+AUT725,2021-08-04,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 13-Hietzing,Wien - Hietzing,48.1802,16.2721,1,National,0
+AUT728,2021-08-19,1,Protests,Peaceful protest,Protesters (Austria),SPOE: Social Democratic Party of Austria; The Greens (Austria); Women (Austria),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media-National,0
+AUT729,2021-08-14,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 3-Landstrasse,Wien - Landstrasse,48.2023,16.3901,1,National,0
+AUT742,2021-09-06,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria); XR: Extinction Rebellion,,,Austria,Wien,Wien 22-Donaustadt,Wien - Donaustadt,48.227,16.4945,1,National,0
+AUT745,2021-09-09,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Modling,Brunn am Gebirge,48.1069,16.2834,1,National,0
+AUT762,2021-09-25,1,Protests,Peaceful protest,Protesters (Austria),XR: Extinction Rebellion,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT764,2021-09-25,1,Protests,Peaceful protest,Protesters (Austria),VGT: Association Against Animal Factories,,,Austria,Wien,Wien 6-Mariahilf,Wien - Mariahilf,48.1927,16.3479,1,National,0
+AUT766,2021-09-23,1,Protests,Peaceful protest,Protesters (Austria),IBOE: Identitarian Movement Austria,,,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,National-International,0
+AUT767,2021-09-24,1,Protests,Peaceful protest,Protesters (Austria),Querdenken,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT768,2021-10-01,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 22-Donaustadt,Wien - Donaustadt,48.227,16.4945,1,National,0
+AUT772,2021-10-08,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,National,0
+AUT773,2021-10-08,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Salzburg,Salzburg,Salzburg,47.7994,13.044,1,National,0
+AUT774,2021-10-02,1,Riots,Violent demonstration,Rioters (Austria),Government of Austria (2019-2025),Rioters (Austria),Antifa; Police Forces of Austria (2019-2025),Austria,Wien,,Wien,48.2085,16.3721,1,National,0
+AUT775,2021-10-08,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Students (Austria),,,Austria,Steiermark,Graz,Graz,47.0711,15.4383,1,National,0
+AUT776,2021-10-08,1,Protests,Peaceful protest,Protesters (Austria),FFF: Fridays for Future; Labor Group (Austria); Students (Austria),,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT778,2021-10-07,1,Protests,Peaceful protest,Protesters (Austria),SPOE: Social Democratic Party of Austria,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT780,2021-10-04,1,Protests,Peaceful protest,Protesters (Austria),VGT: Association Against Animal Factories,,,Austria,Niederosterreich,Sankt Polten,Sankt Polten,48.2,15.6333,1,National,0
+AUT781,2021-10-04,1,Protests,Peaceful protest,Protesters (Austria),VGT: Association Against Animal Factories,,,Austria,Niederosterreich,Korneuburg,Korneuburg,48.3439,16.3338,1,National,0
+AUT783,2021-10-12,1,Protests,Peaceful protest,Protesters (Austria),"GPA-DJP: Union of Private Sector Employees, Printing, Journalism, and Paper; Labor Group (Austria); SPOE: Social Democratic Party of Austria",,,Austria,Wien,Wien 9-Alsergrund,Wien - Alsergrund,48.2227,16.3583,1,National,0
+AUT786,2021-10-14,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Sankt Polten,Sankt Polten,48.2,15.6333,1,National,0
+AUT788,2021-10-16,1,Protests,Peaceful protest,Protesters (Austria),Christian Group (Austria),Protesters (Austria),Women (Austria),Austria,Wien,,Wien,48.2085,16.3721,1,New media-National,0
+AUT794,2021-10-21,1,Protests,Peaceful protest,Protesters (Austria),Health Workers (Austria),,,Austria,Oberosterreich,Gmunden,Bad Ischl,47.7116,13.624,1,National,0
+AUT795,2021-10-17,1,Protests,Peaceful protest,Protesters (Austria),IBOE: Identitarian Movement Austria,,,Austria,Burgenland,Oberwart,Rechnitz,47.3049,16.441,2,National,0
+AUT805,2021-10-23,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 7-Neubau,Wien - Neubau,48.2018,16.349,1,National,0
+AUT806,2021-10-26,1,Protests,Peaceful protest,Protesters (Austria),"FPOE: Freedom Party Austria; German Group (Austria); MFG: Austria People, Freedom, Fundamental Rights",,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,New media-National,0
+AUT813,2021-11-04,1,Protests,Peaceful protest,Protesters (Austria),Labor Group (Austria),,,Austria,Wien,Wien 10-Favoriten,Wien - Favoriten,48.1714,16.3763,1,National-Regional,0
+AUT814,2021-10-30,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT835,2021-11-07,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT836,2021-11-08,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT837,2021-11-05,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT839,2021-11-13,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Scheibbs,Purgstall an der Erlauf,48.0571,15.135,1,National,0
+AUT857,2021-11-22,2,Protests,Peaceful protest,Protesters (Austria),Students (Austria),,,Austria,Wien,Wien 23-Liesing,Wien - Liesing,48.1347,16.2831,1,National,0
+AUT858,2021-11-25,1,Protests,Peaceful protest,Protesters (Austria),Women (Austria),,,Austria,Wien,,Wien,48.2085,16.3721,1,National,0
+AUT861,2021-11-23,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 2-Leopoldstadt,Wien - Leopoldstadt,48.2182,16.3901,1,National,0
+AUT862,2021-11-24,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Freistadt,Freistadt,48.5108,14.5044,1,National,0
+AUT863,2021-11-24,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Steyr,Steyr-Stadt,48.0391,14.4194,1,National,0
+AUT864,2021-11-24,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Kirchdorf an der Krems,Kirchdorf an der Krems,47.9052,14.1244,1,National,0
+AUT865,2021-11-20,2,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Steiermark,Weiz,Gleisdorf,47.1065,15.705,1,National,0
+AUT870,2021-11-27,1,Protests,Peaceful protest,Protesters (Austria),The Greens (Austria); XR: Extinction Rebellion,,,Austria,Wien,Wien 22-Donaustadt,Wien - Donaustadt,48.227,16.4945,1,National,0
+AUT873,2021-12-01,1,Protests,Peaceful protest,Protesters (Austria),FPOE: Freedom Party Austria; IBOE: Identitarian Movement Austria,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT884,2021-12-01,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Sankt Polten,Sankt Polten,48.2,15.6333,1,National,0
+AUT893,2021-11-27,1,Riots,Violent demonstration,Rioters (Austria),FPOE: Freedom Party Austria; Health Workers (Austria),Police Forces of Austria (2019-2025),,Austria,Niederosterreich,Sankt Polten,Sankt Polten,48.2,15.6333,1,National-Regional,0
+AUT894,2021-12-01,1,Riots,Violent demonstration,Rioters (Austria),,Police Forces of Austria (2019-2025),Journalists (Austria),Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,Subnational-National,0
+AUT902,2021-12-06,2,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Melk,Texingtal,48.0474,15.3222,1,National,0
+AUT907,2021-12-05,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,National,0
+AUT911,2021-12-05,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Tirol,Kufstein,Kufstein,47.5831,12.1694,1,National,0
+AUT914,2021-12-04,1,Riots,Violent demonstration,Rioters (Austria),Christian Group (Austria); IBOE: Identitarian Movement Austria,Police Forces of Austria (2019-2025),,Austria,Wien,,Wien,48.2085,16.3721,1,National,0
+AUT915,2021-12-06,1,Riots,Violent demonstration,Rioters (Austria),,Police Forces of Austria (2019-2025),,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT917,2021-12-19,1,Protests,Peaceful protest,Protesters (Austria),Caritas; Labor Group (Austria); OEVP: Austrian People's Party; SPOE: Social Democratic Party of Austria,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National-International,0
+AUT918,2021-12-11,1,Riots,Violent demonstration,Rioters (Austria),FPOE: Freedom Party Austria,Police Forces of Austria (2019-2025),Civilians (Austria); Journalists (Austria),Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National-Regional,0
+AUT922,2021-12-12,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Amstetten,Amstetten,48.1203,14.8753,1,National,0
+AUT959,2021-12-12,1,Protests,Peaceful protest,Protesters (Austria),FPOE: Freedom Party Austria,,,Austria,Niederosterreich,Sankt Polten,Sankt Polten,48.2,15.6333,1,National,0
+AUT961,2021-12-18,1,Riots,Violent demonstration,Rioters (Austria),"MFG: Austria People, Freedom, Fundamental Rights",Police Forces of Austria (2019-2025),,Austria,Wien,,Wien,48.2085,16.3721,1,National,0
+AUT967,2021-12-31,1,Riots,Violent demonstration,Rioters (Austria),,Police Forces of Austria (2019-2025),Rioters (Austria),Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,Subnational-National,0
+AUT968,2021-12-31,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0
+AUT969,2021-12-31,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Niederosterreich,Melk,Pochlarn,48.2122,15.2121,1,National,0
+AUT501,2021-02-12,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Oberosterreich,Linz,Linz,48.3061,14.2857,1,Subnational,0
+AUT803,2021-10-22,1,Protests,Peaceful protest,Protesters (Austria),,,,Austria,Vorarlberg,Bludenz,Schruns,47.0803,9.9198,1,National,0
+AUT735,2021-08-24,1,Protests,Peaceful protest,Protesters (Austria),Greenpeace,,,Austria,Wien,Wien 1-Innere Stadt,Wien - Inner City,48.2088,16.3702,1,National,0

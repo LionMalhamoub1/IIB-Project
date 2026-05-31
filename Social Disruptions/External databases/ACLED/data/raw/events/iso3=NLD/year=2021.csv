@@ -1,0 +1,850 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+NLD874,2021-02-25,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,National,0,NLD
+NLD896,2021-02-27,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Breda,Breda,51.589,4.7797,1,National,0,NLD
+NLD913,2021-03-08,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Noord-Brabant,Roosendaal,Roosendaal,51.531,4.4694,1,National,0,NLD
+NLD973,2021-03-26,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Noord-Holland,Zaanstad,Zaandam,52.4428,4.8292,1,National,0,NLD
+NLD985,2021-03-28,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,International,0,NLD
+NLD1027,2021-04-19,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD1033,2021-04-29,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Gelderland,Arnhem,Arnhem,51.9815,5.9149,1,National,0,NLD
+NLD1114,2021-05-28,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Regional,0,NLD
+NLD1156,2021-07-08,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Zaanstad,Zaandam,52.4428,4.8292,1,National,0,NLD
+NLD1182,2021-08-04,1,Protests,Peaceful protest,Protesters (Netherlands),Viruswaarheid,,,Netherlands,Zuid-Holland,Krimpenerwaard,Lekkerkerk,51.8967,4.6829,1,National,0,NLD
+NLD1214,2021-09-13,2,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Flevoland,Urk,Urk,52.6681,5.6017,1,International,0,NLD
+NLD1373,2021-12-23,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD1255,2021-09-25,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Noord-Brabant,Breda,Breda,51.589,4.7797,1,National,0,NLD
+NLD1277,2021-10-13,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD2124,2021-05-26,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Health Workers (Netherlands); Labor Group (Netherlands),,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,National,0,NLD
+NLD2151,2021-05-17,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Friesland,Smallingerland,Drachten,53.1049,6.0995,1,National,0,NLD
+NLD2152,2021-05-18,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Drenthe,Emmen,Emmen,52.7895,6.898,1,National,0,NLD
+NLD2153,2021-06-01,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Drenthe,Emmen,Emmen,52.7895,6.898,1,National,0,NLD
+NLD2156,2021-09-22,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,National,0,NLD
+NLD2165,2021-06-24,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD2180,2021-04-28,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Gelderland,Arnhem,Arnhem,51.9815,5.9149,1,National,0,NLD
+NLD2181,2021-04-22,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Gelderland,Arnhem,Arnhem,51.9815,5.9149,1,National,0,NLD
+NLD2185,2021-04-27,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Gelderland,Arnhem,Arnhem,51.9815,5.9149,1,National,0,NLD
+NLD862,2021-02-26,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Noord-Brabant,Tilburg,Tilburg,51.5523,5.1266,1,Other,0,NLD
+NLD1352,2021-12-03,1,Protests,Peaceful protest,Protesters (Netherlands),KOZP: Kick Out Zwarte Piet,,,Netherlands,Noord-Brabant,Eindhoven,Eindhoven,51.445,5.4814,1,New media,0,NLD
+NLD875,2021-02-20,1,Protests,Peaceful protest,Protesters (Netherlands),Antifa; PKK: Kurdistan Workers' Party; YPG: People's Protection Units; Kurdish Ethnic Group (Netherlands),,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,New media,0,NLD
+NLD750,2021-01-11,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Utrecht,Montfoort,Montfoort,52.0477,4.9484,1,National,0,NLD
+NLD2176,2021-03-02,2,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands); Private Security Forces (Netherlands),,,Netherlands,Noord-Holland,Haarlemmermeer,Schiphol,52.3082,4.7672,1,National,0,NLD
+NLD2150,2021-05-11,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Zuid-Holland,Leiden,Leiden,52.159,4.4841,1,National,0,NLD
+NLD753,2021-01-10,1,Protests,Protest with intervention,Protesters (Netherlands),NIO: Netherlands Uprising,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Holland,Hilversum,Hilversum,52.2282,5.1766,1,National,0,NLD
+NLD1002,2021-04-10,1,Protests,Peaceful protest,Protesters (Netherlands),Guerrilla Mask Force Netherlands,,,Netherlands,Groningen,Oldambt,Winschoten,53.1429,7.0371,1,Subnational,0,NLD
+NLD1006,2021-04-10,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1007,2021-04-10,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,National,0,NLD
+NLD1011,2021-04-11,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1012,2021-04-11,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amstelveen,Amstelveen,52.2984,4.8669,1,Subnational,0,NLD
+NLD1014,2021-04-12,1,Protests,Peaceful protest,Protesters (Netherlands),Moluccan Group (Netherlands),,,Netherlands,Zeeland,Middelburg,Middelburg,51.4991,3.6148,1,Subnational,0,NLD
+NLD1016,2021-04-12,1,Protests,Peaceful protest,Protesters (Netherlands),Christian Group (Netherlands); CNV: National Christian Trade Union; FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Drenthe,Aa en Hunze,Rolde,52.9847,6.649,1,Subnational,0,NLD
+NLD1023,2021-04-19,1,Riots,Mob violence,Rioters (Netherlands),,Civilians (Netherlands),Journalists (Netherlands),Netherlands,Gelderland,Ede,Lunteren,52.0863,5.6188,1,Regional,0,NLD
+NLD1026,2021-04-19,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Oldebroek,Wezep,52.4575,6.0006,1,Subnational,0,NLD
+NLD1029,2021-04-24,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Limburg,Echt-Susteren,Echt,51.1063,5.8715,1,National,0,NLD
+NLD1030,2021-04-27,1,Protests,Protest with intervention,Protesters (Netherlands),NIO: Netherlands Uprising,Police Forces of the Netherlands (2010-2024),,Netherlands,Gelderland,Arnhem,Arnhem,51.9815,5.9149,1,Subnational,0,NLD
+NLD1034,2021-04-25,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1038,2021-04-24,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1042,2021-05-01,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1043,2021-05-02,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1045,2021-05-05,1,Protests,Peaceful protest,Protesters (Netherlands),NIO: Netherlands Uprising,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD1046,2021-05-05,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD1048,2021-05-07,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1050,2021-05-07,1,Riots,Mob violence,Rioters (Netherlands),,Civilians (Netherlands),Journalists (Netherlands),Netherlands,Gelderland,Doetinchem,Doetinchem,51.9658,6.2893,1,National,0,NLD
+NLD1056,2021-05-13,1,Protests,Peaceful protest,Protesters (Netherlands),Students (Netherlands),,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,National,0,NLD
+NLD1058,2021-05-08,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1059,2021-05-12,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Doesburg,Doesburg,52.0134,6.1396,1,Subnational,0,NLD
+NLD1065,2021-05-20,1,Protests,Protest with intervention,Protesters (Netherlands),Students (Netherlands); XR: Extinction Rebellion,Police Forces of the Netherlands (2010-2024),,Netherlands,Gelderland,Wageningen,Wageningen,51.97,5.6667,1,Subnational,0,NLD
+NLD1073,2021-05-16,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Eindhoven,Eindhoven,51.445,5.4814,1,Subnational,0,NLD
+NLD1074,2021-05-16,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1078,2021-05-15,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Friesland,Leeuwarden,Leeuwarden,53.1929,5.7925,1,Subnational,0,NLD
+NLD1080,2021-05-15,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,National,0,NLD
+NLD1081,2021-05-15,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1083,2021-05-15,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Arnhem,Arnhem,51.9815,5.9149,1,Subnational,0,NLD
+NLD1096,2021-05-23,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Breda,Breda,51.589,4.7797,1,Subnational,0,NLD
+NLD1098,2021-05-24,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Apeldoorn,Apeldoorn,52.2143,5.9635,1,Subnational,0,NLD
+NLD1100,2021-05-25,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Overijssel,Hengelo,Hengelo,52.2658,6.7929,1,National,0,NLD
+NLD1101,2021-05-27,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD1103,2021-05-31,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands),,,Netherlands,Drenthe,Assen,Assen,52.9937,6.5623,1,Subnational,0,NLD
+NLD1105,2021-05-30,1,Protests,Peaceful protest,Protesters (Netherlands),Guerrilla Mask Force Netherlands,,,Netherlands,Drenthe,Assen,Assen,52.9937,6.5623,1,Subnational,0,NLD
+NLD1107,2021-05-29,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD1109,2021-05-30,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Eindhoven,Eindhoven,51.445,5.4814,1,Subnational,0,NLD
+NLD1110,2021-05-30,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1116,2021-06-05,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zeeland,Goes,Goes,51.5053,3.8888,1,Subnational,0,NLD
+NLD1117,2021-06-06,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zeeland,Middelburg,Middelburg,51.4991,3.6148,1,Subnational,0,NLD
+NLD1118,2021-06-09,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Groningen,Groningen,Hoogkerk,53.2148,6.5005,1,Subnational,0,NLD
+NLD1120,2021-06-06,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),Protesters (Netherlands),Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1122,2021-06-13,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD1124,2021-06-17,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands),,,Netherlands,Gelderland,Ede,Ede,52.0453,5.671,1,Subnational,0,NLD
+NLD1125,2021-06-12,1,Protests,Peaceful protest,Protesters (Netherlands),Police Forces of the Netherlands (2010-2024),,,Netherlands,Gelderland,Apeldoorn,Apeldoorn,52.2143,5.9635,1,Subnational,0,NLD
+NLD1126,2021-06-21,1,Protests,Peaceful protest,Protesters (Netherlands),D66: Democrats 66 (Caribbean Netherlands); LGBTQ+ (Netherlands); PvdA: Labor Party; VVD: People's Party for Freedom and Democracy,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD1127,2021-06-19,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Noord-Holland,Haarlemmermeer,Schiphol,52.3082,4.7672,1,Subnational,0,NLD
+NLD1137,2021-07-01,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1139,2021-06-27,1,Protests,Peaceful protest,Protesters (Netherlands),LGBTQ+ (Netherlands),,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,Subnational,0,NLD
+NLD1140,2021-06-26,2,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Groningen,Het Hogeland,Eemshaven,53.4418,6.8665,1,Subnational,0,NLD
+NLD1144,2021-07-07,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands),,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,National,0,NLD
+NLD1145,2021-07-07,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands); Farmers Defence Force,,,Netherlands,Drenthe,Assen,Assen,52.9937,6.5623,1,Subnational,0,NLD
+NLD1148,2021-07-07,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands); Farmers Defence Force,,,Netherlands,Gelderland,Arnhem,Arnhem,51.9815,5.9149,1,Subnational,0,NLD
+NLD1149,2021-07-07,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands); Farmers Defence Force,,,Netherlands,Gelderland,Wageningen,Wageningen,51.97,5.6667,1,Subnational,0,NLD
+NLD1155,2021-07-03,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD1159,2021-07-14,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands),,,Netherlands,Gelderland,Zutphen,Zutphen,52.1436,6.2045,1,Subnational,0,NLD
+NLD1160,2021-07-15,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands),,,Netherlands,Gelderland,Apeldoorn,Apeldoorn,52.2143,5.9635,1,Subnational,0,NLD
+NLD1161,2021-07-10,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Flevoland,Urk,Urk,52.6681,5.6017,1,National,0,NLD
+NLD1166,2021-07-17,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1168,2021-07-26,1,Riots,Mob violence,Rioters (Netherlands),,Civilians (Netherlands),LGBTQ+ (Netherlands); Women (Netherlands),Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1169,2021-07-23,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Noord-Brabant,Eindhoven,Eindhoven,51.445,5.4814,1,National,0,NLD
+NLD1170,2021-07-24,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1173,2021-08-31,1,Riots,Mob violence,Rioters (Netherlands),,Civilians (Netherlands),LGBTQ+ (Netherlands),Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD1174,2021-08-28,1,Protests,Peaceful protest,Protesters (Netherlands),Afghan Group (Netherlands),,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD1177,2021-08-28,1,Protests,Peaceful protest,Protesters (Netherlands),Vegan Strike Group,,,Netherlands,Gelderland,Harderwijk,Harderwijk,52.3507,5.6202,1,National,0,NLD
+NLD1184,2021-07-31,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Friesland,Sudwest-Fryslan,Workum,52.9761,5.4482,1,Subnational,0,NLD
+NLD1185,2021-08-01,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1186,2021-08-25,1,Protests,Protest with intervention,Protesters (Netherlands),XR: Extinction Rebellion,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,Rotterdam,Pernis,51.8893,4.3863,1,Other-Subnational,0,NLD
+NLD1188,2021-08-20,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Netherlands),,Civilians (Netherlands),LGBTQ+ (Netherlands),Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD1190,2021-08-24,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Gelderland,Ede,Harskamp,52.1311,5.7524,1,National,0,NLD
+NLD1191,2021-08-14,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD1193,2021-08-21,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands); Unmute Us,,,Netherlands,Noord-Brabant,Eindhoven,Eindhoven,51.445,5.4814,1,Subnational,0,NLD
+NLD1196,2021-08-21,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands); Unmute Us,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1197,2021-08-21,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands); Unmute Us,,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,National,0,NLD
+NLD1199,2021-08-07,1,Protests,Peaceful protest,Protesters (Netherlands),LGBTQ+ (Netherlands),Protesters (Netherlands),LGBTQ+ (Netherlands),Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational-National,0,NLD
+NLD1200,2021-08-26,1,Protests,Peaceful protest,Protesters (Netherlands),LGBTQ+ (Netherlands),,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD1205,2021-09-05,1,Protests,Peaceful protest,Protesters (Netherlands),FVD: Forum for Democracy,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational-National,0,NLD
+NLD1206,2021-09-10,1,Protests,Peaceful protest,Protesters (Netherlands),LGBTQ+ (Netherlands),,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1208,2021-09-10,1,Protests,Peaceful protest,Protesters (Netherlands),Surinamese Group (Netherlands),,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1211,2021-09-12,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational-National,0,NLD
+NLD1212,2021-09-11,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Friesland,Noardeast-Fryslan,Ternaard,53.3815,5.9649,1,Subnational,0,NLD
+NLD1221,2021-09-11,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands); Unmute Us,,,Netherlands,Noord-Brabant,Eindhoven,Eindhoven,51.445,5.4814,1,Subnational,0,NLD
+NLD1222,2021-09-11,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands); Unmute Us,,,Netherlands,Noord-Brabant,Tilburg,Tilburg,51.5523,5.1266,1,Subnational,0,NLD
+NLD1232,2021-09-11,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD1234,2021-09-14,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Limburg,Weert,Weert,51.2529,5.7095,1,National,0,NLD
+NLD1235,2021-09-14,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Drenthe,Assen,Assen,52.9937,6.5623,1,National,0,NLD
+NLD1238,2021-09-18,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Brabant,Eindhoven,Eindhoven,51.445,5.4814,1,Subnational,0,NLD
+NLD1240,2021-09-21,2,Protests,Peaceful protest,Protesters (Netherlands),Voorpost,,,Netherlands,Zuid-Holland,Wassenaar,Wassenaar,52.1407,4.4021,1,Other,0,NLD
+NLD1242,2021-09-23,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,Subnational,0,NLD
+NLD1244,2021-09-19,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Apeldoorn,Apeldoorn,52.2143,5.9635,1,Subnational-National,0,NLD
+NLD1246,2021-09-18,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1247,2021-09-18,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1250,2021-09-28,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Health Workers (Netherlands); Labor Group (Netherlands),,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1252,2021-09-28,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Health Workers (Netherlands); Labor Group (Netherlands),,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,Subnational,0,NLD
+NLD1257,2021-09-28,1,Protests,Peaceful protest,Protesters (International),LSVb: National Student Union; Protesters (Netherlands); Students (International); Students (Netherlands),,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational-National,0,NLD
+NLD1260,2021-09-27,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Someren,Someren,51.3842,5.717,1,Subnational,0,NLD
+NLD1261,2021-09-27,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1266,2021-10-03,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational-National,0,NLD
+NLD1269,2021-10-07,1,Riots,Mob violence,Rioters (International),Refugees/IDPs (International),Police Forces of the Netherlands (2010-2024),,Netherlands,Groningen,Westerwolde,Ter Apel,52.8733,7.0646,1,National,0,NLD
+NLD1280,2021-10-20,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Brabant,Uden,Volkel,51.6439,5.6547,1,Subnational,0,NLD
+NLD1283,2021-10-16,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1284,2021-10-19,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Rheden,Rheden,52.0052,6.0325,1,Subnational,0,NLD
+NLD1285,2021-10-23,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Limburg,Sittard-Geleen,Born,51.0335,5.8099,1,Regional,0,NLD
+NLD1287,2021-10-24,1,Protests,Peaceful protest,Protesters (Netherlands),"GL: GreenLeft; PvdA: Labor Party; Volt Netherlands; ROOD: RED, Socialist Youth",,,Netherlands,Gelderland,Arnhem,Arnhem,51.9815,5.9149,1,Subnational-National,0,NLD
+NLD1297,2021-10-26,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Health Workers (Netherlands); Labor Group (Netherlands),,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD1304,2021-11-04,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands); GBB: Groninger Soil Movement,,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,Subnational,0,NLD
+NLD1310,2021-11-06,1,Protests,Peaceful protest,Protesters (Netherlands),Greenpeace; KCC: Climate Crisis Coalition; MD: Environmental Defence; Oxfam,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD1312,2021-11-11,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD1316,2021-11-12,1,Riots,Mob violence,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Friesland,Smallingerland,Drachten,53.1049,6.0995,1,National,0,NLD
+NLD1319,2021-11-13,1,Protests,Protest with intervention,Protesters (Netherlands),KOZP: Kick Out Zwarte Piet,Police Forces of the Netherlands (2010-2024),Protesters (Netherlands),Netherlands,Noord-Brabant,Breda,Breda,51.589,4.7797,1,Subnational,0,NLD
+NLD1324,2021-11-26,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,Subnational,0,NLD
+NLD1328,2021-11-20,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1329,2021-11-25,1,Protests,Peaceful protest,Protesters (Netherlands),Students (Netherlands); Women (Netherlands),,,Netherlands,Zeeland,Middelburg,Middelburg,51.4991,3.6148,1,Subnational,0,NLD
+NLD1331,2021-11-20,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1332,2021-11-20,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Breda,Breda,51.589,4.7797,1,National,0,NLD
+NLD1333,2021-11-21,1,Protests,Peaceful protest,Protesters (Netherlands),D66: Democrats 66; GL: GreenLeft,,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational-National,0,NLD
+NLD1337,2021-11-20,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Flevoland,Urk,Urk,52.6681,5.6017,1,National,0,NLD
+NLD1338,2021-11-20,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Limburg,Roermond,Roermond,51.1928,5.9972,1,National,0,NLD
+NLD1339,2021-11-20,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Limburg,Stein,Stein,50.9695,5.7668,1,National,0,NLD
+NLD1340,2021-11-20,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Alkmaar,Alkmaar,52.6331,4.7475,1,National,0,NLD
+NLD1341,2021-11-20,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Overijssel,Almelo,Almelo,52.3567,6.6646,1,National,0,NLD
+NLD1342,2021-11-21,1,Riots,Violent demonstration,Rioters (Netherlands),,,,Netherlands,Noord-Brabant,Roosendaal,Roosendaal,51.531,4.4694,1,Subnational,0,NLD
+NLD1345,2021-11-22,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Gelderland,Apeldoorn,Apeldoorn,52.2143,5.9635,1,Subnational,0,NLD
+NLD1346,2021-11-22,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Overijssel,Enschede,Enschede,52.2183,6.8958,1,National,0,NLD
+NLD1347,2021-11-24,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Gelderland,Arnhem,Arnhem,51.9815,5.9149,1,Subnational,0,NLD
+NLD1348,2021-11-21,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,Subnational,0,NLD
+NLD1349,2021-12-03,1,Protests,Protest with intervention,Protesters (Netherlands),Christian Climate Action; Christian Group (Netherlands); XR: Extinction Rebellion,Police Forces of the Netherlands (2010-2024),,Netherlands,Utrecht,Zeist,Zeist,52.0877,5.2302,1,Other-Subnational,0,NLD
+NLD1350,2021-12-02,1,Protests,Peaceful protest,Protesters (Netherlands),KOZP: Kick Out Zwarte Piet; XR: Extinction Rebellion,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD1358,2021-11-27,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1363,2021-12-04,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,National,0,NLD
+NLD1364,2021-12-04,1,Protests,Peaceful protest,Protesters (Netherlands),KOZP: Kick Out Zwarte Piet,,,Netherlands,Noord-Holland,Edam-Volendam,Volendam,52.496,5.068,1,National,0,NLD
+NLD1366,2021-12-12,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Netherlands),,Civilians (Netherlands),,Netherlands,Gelderland,Epe,Epe,52.3467,5.9838,1,National,0,NLD
+NLD1367,2021-12-16,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Netherlands),,Civilians (Netherlands),,Netherlands,Gelderland,Apeldoorn,Loenen,52.117,6.0191,1,National,0,NLD
+NLD1368,2021-12-16,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Netherlands),,Civilians (Netherlands),,Netherlands,Gelderland,Apeldoorn,Beekbergen,52.1592,5.9637,1,National,0,NLD
+NLD1369,2021-12-13,1,Protests,Peaceful protest,Protesters (Netherlands),Agractie; Farmers (Netherlands),,,Netherlands,Noord-Holland,Haarlemmermeer,Schiphol,52.3082,4.7672,1,National,0,NLD
+NLD1372,2021-12-12,1,Protests,Peaceful protest,Protesters (Netherlands),GL: GreenLeft; Women (Netherlands),,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,Subnational,0,NLD
+NLD1376,2021-12-30,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Gelderland,Arnhem,Arnhem,51.9815,5.9149,1,Subnational,0,NLD
+NLD1379,2021-12-15,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1384,2021-12-29,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Apeldoorn,Apeldoorn,52.2143,5.9635,1,Subnational,0,NLD
+NLD1385,2021-12-29,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Arnhem,Arnhem,51.9815,5.9149,1,Subnational,0,NLD
+NLD1386,2021-12-29,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Sliedrecht,Sliedrecht,51.8246,4.7751,1,National,0,NLD
+NLD2304,2021-07-06,1,Violence against civilians,Attack,Unidentified Armed Group (Netherlands),,Civilians (Netherlands),Journalists (Netherlands),Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,1,NLD
+NLD737,2021-01-07,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD738,2021-01-03,1,Riots,Mob violence,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Drenthe,Coevorden,Coevorden,52.6631,6.7387,1,National,0,NLD
+NLD739,2021-01-03,1,Protests,Peaceful protest,Protesters (Netherlands),SBB: Support Group Farmers and Citizens,,,Netherlands,Drenthe,Coevorden,Coevorden,52.6631,6.7387,1,Subnational,0,NLD
+NLD743,2021-01-05,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands); Farmers Defence Force,,,Netherlands,Gelderland,Bronckhorst,Hummelo,52.005,6.2339,1,Subnational,0,NLD
+NLD745,2021-01-04,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Oss,Oss,51.7672,5.5217,1,National,0,NLD
+NLD748,2021-01-10,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD752,2021-01-14,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,Subnational,0,NLD
+NLD754,2021-01-10,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Brabant,Breda,Breda,51.589,4.7797,1,Subnational,0,NLD
+NLD756,2021-01-17,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD759,2021-01-21,1,Protests,Peaceful protest,Protesters (Netherlands),Christian Group (Netherlands); CNV: National Christian Trade Union; FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Noord-Brabant,Eindhoven,Eindhoven,51.445,5.4814,1,Subnational,0,NLD
+NLD760,2021-01-19,1,Protests,Peaceful protest,Protesters (Netherlands),Zeeland Uprising,,,Netherlands,Zeeland,Goes,Goes,51.5053,3.8888,1,Subnational,0,NLD
+NLD762,2021-01-18,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Noord-Brabant,Tilburg,Tilburg,51.5523,5.1266,1,Subnational,0,NLD
+NLD763,2021-01-21,1,Protests,Peaceful protest,Protesters (Netherlands),Catholic Christian Group (Netherlands),,,Netherlands,Noord-Brabant,Uden,Volkel,51.6439,5.6547,1,Subnational,0,NLD
+NLD764,2021-01-23,1,Protests,Peaceful protest,Protesters (Netherlands),Guerrilla Mask Force Netherlands,,,Netherlands,Zuid-Holland,Alphen aan den Rijn,Alphen aan den Rijn,52.1314,4.6558,1,Subnational,0,NLD
+NLD765,2021-01-23,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD766,2021-01-23,1,Protests,Peaceful protest,Protesters (Netherlands),Guerrilla Mask Force Netherlands,,,Netherlands,Zuid-Holland,Alphen aan den Rijn,Boskoop,52.0736,4.6613,1,Subnational,0,NLD
+NLD770,2021-01-23,1,Protests,Peaceful protest,Protesters (Netherlands),Guerrilla Mask Force Netherlands,,,Netherlands,Zeeland,Middelburg,Middelburg,51.4991,3.6148,1,Subnational,0,NLD
+NLD771,2021-01-23,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zeeland,Middelburg,Middelburg,51.4991,3.6148,1,Subnational,0,NLD
+NLD773,2021-01-23,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Limburg,Stein,Stein,50.9695,5.7668,1,National,0,NLD
+NLD774,2021-01-23,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Flevoland,Urk,Urk,52.6681,5.6017,1,National,0,NLD
+NLD776,2021-01-24,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational-National,0,NLD
+NLD777,2021-01-24,1,Riots,Violent demonstration,Rioters (Netherlands),,,,Netherlands,Gelderland,Apeldoorn,Apeldoorn,52.2143,5.9635,1,Subnational,0,NLD
+NLD778,2021-01-24,1,Riots,Violent demonstration,Rioters (Netherlands),,,,Netherlands,Gelderland,Arnhem,Arnhem,51.9815,5.9149,1,Subnational,0,NLD
+NLD779,2021-01-24,1,Riots,Violent demonstration,Rioters (Netherlands),,,,Netherlands,Noord-Brabant,Breda,Breda,51.589,4.7797,1,Subnational,0,NLD
+NLD780,2021-01-24,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Brabant,Eindhoven,Eindhoven,51.445,5.4814,1,Subnational-National,0,NLD
+NLD781,2021-01-24,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Overijssel,Enschede,Enschede,52.2183,6.8958,1,National,0,NLD
+NLD783,2021-01-24,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zeeland,Hulst,Hulst,51.2821,4.0519,1,Subnational,0,NLD
+NLD785,2021-01-24,1,Riots,Violent demonstration,Rioters (Netherlands),,,,Netherlands,Noord-Brabant,Oosterhout,Oosterhout,51.6432,4.8608,1,Subnational,0,NLD
+NLD786,2021-01-24,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Limburg,Roermond,Roermond,51.1928,5.9972,1,National,0,NLD
+NLD788,2021-01-24,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),Civilians (Netherlands); Journalists (Netherlands),Netherlands,Noord-Brabant,Tilburg,Tilburg,51.5523,5.1266,1,Subnational,0,NLD
+NLD791,2021-01-25,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,Alphen aan den Rijn,Alphen aan den Rijn,52.1314,4.6558,1,Subnational,0,NLD
+NLD793,2021-01-25,1,Riots,Violent demonstration,Rioters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD797,2021-01-25,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Limburg,Sittard-Geleen,Geleen,50.9673,5.8279,1,National,0,NLD
+NLD800,2021-01-25,1,Protests,Peaceful protest,Protesters (Netherlands),Christian Group (Netherlands); CNV: National Christian Trade Union; FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Drenthe,Hoogeveen,Hoogeveen,52.7222,6.4792,1,Subnational,0,NLD
+NLD806,2021-01-25,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zeeland,Vlissingen,Vlissingen,51.4429,3.5719,1,Subnational,0,NLD
+NLD809,2021-01-25,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Overijssel,Zwolle,Zwolle,52.5062,6.0974,1,National,0,NLD
+NLD813,2021-01-26,1,Strategic developments,Other,Unidentified Communal Militia (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Brabant,Breda,Breda,51.589,4.7797,1,Subnational,0,NLD
+NLD823,2021-01-27,1,Strategic developments,Other,Unidentified Communal Militia (Netherlands),,,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,Subnational,0,NLD
+NLD827,2021-01-31,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Gelderland,Apeldoorn,Apeldoorn,52.2143,5.9635,1,Subnational,0,NLD
+NLD828,2021-02-01,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands),,,Netherlands,Friesland,Noardeast-Fryslan,Dokkum,53.3223,6.0022,1,National,0,NLD
+NLD829,2021-02-04,1,Protests,Peaceful protest,Protesters (Netherlands),CDA: Christian Democratic Appeal; FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands); Students (Netherlands),,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,Subnational,0,NLD
+NLD830,2021-01-31,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Friesland,Leeuwarden,Leeuwarden,53.1929,5.7925,1,National,0,NLD
+NLD832,2021-01-31,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Limburg,Maastricht,Maastricht,50.8483,5.6889,1,National,0,NLD
+NLD835,2021-01-31,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Arnhem,Arnhem,51.9815,5.9149,1,Subnational,0,NLD
+NLD837,2021-02-04,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Wageningen,Wageningen,51.97,5.6667,1,Subnational,0,NLD
+NLD841,2021-02-05,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Brabant,Tilburg,Tilburg,51.5523,5.1266,1,Subnational,0,NLD
+NLD844,2021-02-06,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Friesland,Harlingen,Harlingen,53.173,5.4281,1,Subnational,0,NLD
+NLD845,2021-02-07,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD847,2021-02-07,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Limburg,Maastricht,Maastricht,50.8483,5.6889,1,National,0,NLD
+NLD848,2021-02-13,1,Protests,Peaceful protest,Protesters (Netherlands),Zeeland Uprising,,,Netherlands,Zeeland,Middelburg,Middelburg,51.4991,3.6148,1,Subnational,0,NLD
+NLD849,2021-02-14,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD853,2021-02-16,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD858,2021-02-19,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Gelderland,Doetinchem,Doetinchem,51.9658,6.2893,1,Subnational,0,NLD
+NLD859,2021-02-19,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Overijssel,Enschede,Enschede,52.2183,6.8958,1,National,0,NLD
+NLD866,2021-02-21,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD868,2021-02-22,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD870,2021-02-24,1,Riots,Mob violence,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD873,2021-02-26,1,Protests,Protest with intervention,Protesters (Netherlands),XR: Extinction Rebellion,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational-National,0,NLD
+NLD882,2021-03-05,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Noord-Holland,Diemen,Diemen,52.3416,4.9624,1,Subnational,0,NLD
+NLD884,2021-02-27,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands),,,Netherlands,Gelderland,Oost Gelre,Lievelde,52.0097,6.5942,1,Subnational,0,NLD
+NLD885,2021-03-02,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands),,,Netherlands,Gelderland,Berkelland,Borculo,52.1164,6.5197,1,Subnational,0,NLD
+NLD889,2021-02-27,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Friesland,Leeuwarden,Leeuwarden,53.1929,5.7925,1,National,0,NLD
+NLD891,2021-02-27,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Noord-Brabant,Breda,Breda,51.589,4.7797,1,National,0,NLD
+NLD892,2021-02-27,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Groningen,Oldambt,Winschoten,53.1429,7.0371,1,Subnational,0,NLD
+NLD894,2021-02-27,2,Protests,Peaceful protest,Protesters (Netherlands),Voorpost,,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Other,0,NLD
+NLD895,2021-02-27,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zeeland,Vlissingen,Vlissingen,51.4429,3.5719,1,Subnational,0,NLD
+NLD898,2021-03-03,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,National,0,NLD
+NLD902,2021-02-28,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD903,2021-03-03,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Netherlands),,,,Netherlands,Noord-Holland,Stede Broec,Bovenkarspel,52.6995,5.2482,1,National,0,NLD
+NLD904,2021-03-07,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD911,2021-03-06,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Groningen,Appingedam,Appingedam,53.3187,6.8606,1,Subnational,0,NLD
+NLD917,2021-03-11,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD918,2021-03-11,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Noord-Brabant,Breda,Breda,51.589,4.7797,1,Subnational,0,NLD
+NLD919,2021-03-10,1,Protests,Peaceful protest,Protesters (Netherlands),Students (Netherlands),,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,Subnational,0,NLD
+NLD923,2021-03-06,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational-National,0,NLD
+NLD936,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Greenpeace; KCC: Climate Crisis Coalition; Labor Group (Netherlands); MD: Environmental Defence,,,Netherlands,Noord-Brabant,Breda,Breda,51.589,4.7797,1,Subnational-National,0,NLD
+NLD941,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),Greenpeace; KCC: Climate Crisis Coalition; MD: Environmental Defence; XR: Extinction Rebellion,,,Netherlands,Noord-Brabant,Tilburg,Tilburg,51.5523,5.1266,1,Subnational-National,0,NLD
+NLD965,2021-03-16,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Groningen,Midden-Groningen,Zuidbroek,53.1659,6.8632,1,Subnational,0,NLD
+NLD967,2021-03-14,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD968,2021-03-20,1,Protests,Protest with intervention,Protesters (Netherlands),Former Police Forces of the Netherlands (2010-2024),Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational-National,0,NLD
+NLD971,2021-03-24,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands),,,Netherlands,Friesland,Leeuwarden,Leeuwarden,53.1929,5.7925,1,Subnational,0,NLD
+NLD975,2021-03-20,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Groningen,Oldambt,Winschoten,53.1429,7.0371,1,Subnational,0,NLD
+NLD976,2021-03-21,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,National,0,NLD
+NLD977,2021-03-21,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD982,2021-03-21,1,Protests,Protest with intervention,Protesters (Netherlands),NIO: Netherlands Uprising,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational-National,0,NLD
+NLD986,2021-03-28,1,Protests,Protest with intervention,Protesters (Netherlands),Civilians (Netherlands); Journalists (Netherlands),Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational-National,0,NLD
+NLD991,2021-04-09,1,Protests,Peaceful protest,Protesters (Netherlands),SP: Socialist Party (Netherlands),,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,Subnational,0,NLD
+NLD993,2021-04-03,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,Subnational,0,NLD
+NLD994,2021-04-04,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD996,2021-04-07,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Doetinchem,Doetinchem,51.9658,6.2893,1,Subnational,0,NLD
+NLD997,2021-04-09,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Cuijk,Cuijk,51.725,5.8611,1,Subnational,0,NLD
+NLD998,2021-04-09,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Friesland,Smallingerland,Drachten,53.1049,6.0995,1,National,0,NLD
+NLD769,2021-01-23,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Limburg,Maastricht,Maastricht,50.8483,5.6889,1,Subnational,0,NLD
+NLD787,2021-01-24,1,Riots,Violent demonstration,Rioters (Netherlands),,,,Netherlands,Limburg,Stein,Stein,50.9695,5.7668,1,Subnational,0,NLD
+NLD789,2021-01-24,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Limburg,Venlo,Venlo,51.3666,6.1716,1,Subnational-National,0,NLD
+NLD818,2021-01-26,1,Strategic developments,Other,Unidentified Communal Militia (Netherlands),,,,Netherlands,Limburg,Maastricht,Maastricht,50.8483,5.6889,1,Subnational,0,NLD
+NLD840,2021-01-31,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),Civilians (Netherlands); Journalists (Netherlands),Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD842,2021-01-31,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD843,2021-01-31,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD856,2021-02-18,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Limburg,Maastricht,Maastricht,50.8483,5.6889,1,Subnational,0,NLD
+NLD860,2021-02-21,1,Protests,Peaceful protest,Protesters (Netherlands),BLM: Black Lives Matter,,,Netherlands,Limburg,Maastricht,Maastricht,50.8483,5.6889,1,Subnational,0,NLD
+NLD916,2021-03-11,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Limburg,Weert,Weert,51.2529,5.7095,1,Subnational,0,NLD
+NLD924,2021-03-06,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Limburg,Kerkrade,Kerkrade,50.8658,6.0645,1,Subnational,0,NLD
+NLD979,2021-03-22,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Limburg,Valkenburg aan de Geul,Valkenburg,50.8642,5.8325,1,Subnational,0,NLD
+NLD1036,2021-04-24,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Limburg,Venlo,Venlo,51.3666,6.1716,1,Subnational,0,NLD
+NLD1041,2021-05-01,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Limburg,Kerkrade,Kerkrade,50.8658,6.0645,1,Subnational,0,NLD
+NLD1060,2021-05-13,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Limburg,Maastricht,Maastricht,50.8483,5.6889,1,Subnational,0,NLD
+NLD1077,2021-05-15,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Limburg,Maastricht,Maastricht,50.8483,5.6889,1,Subnational,0,NLD
+NLD1087,2021-05-25,1,Protests,Peaceful protest,Protesters (Netherlands),Health Workers (Netherlands),,,Netherlands,Limburg,Maastricht,Maastricht,50.8483,5.6889,1,Subnational,0,NLD
+NLD1097,2021-05-23,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Limburg,Maastricht,Maastricht,50.8483,5.6889,1,Subnational,0,NLD
+NLD1115,2021-06-05,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Limburg,Kerkrade,Kerkrade,50.8658,6.0645,1,Subnational,0,NLD
+NLD1133,2021-06-19,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Limburg,Heerlen,Heerlen,50.8879,5.9769,1,Subnational,0,NLD
+NLD1163,2021-07-21,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Limburg,Heerlen,Heerlen,50.8879,5.9769,1,Subnational,0,NLD
+NLD1176,2021-08-03,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands),,,Netherlands,Noord-Holland,Zandvoort,Zandvoort,52.3721,4.5301,1,National,0,NLD
+NLD1179,2021-08-28,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Limburg,Maastricht,Maastricht,50.8483,5.6889,1,Subnational,0,NLD
+NLD1210,2021-09-09,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Limburg,Maastricht,Maastricht,50.8483,5.6889,1,Subnational,0,NLD
+NLD1223,2021-09-11,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands); Unmute Us,,,Netherlands,Limburg,Maastricht,Maastricht,50.8483,5.6889,1,Subnational,0,NLD
+NLD1256,2021-09-25,1,Protests,Peaceful protest,Protesters (Netherlands),Kurdish Ethnic Group (Netherlands); Protesters (Belgium); Protesters (Germany),,,Netherlands,Limburg,Landgraaf,Landgraaf,50.9083,6.0277,1,Subnational,0,NLD
+NLD1286,2021-10-23,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Limburg,Maastricht,Maastricht,50.8483,5.6889,1,Subnational,0,NLD
+NLD1289,2021-10-24,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Limburg,Maastricht,Maastricht,50.8483,5.6889,1,Subnational,0,NLD
+NLD1298,2021-10-26,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Health Workers (Netherlands); Labor Group (Netherlands),,,Netherlands,Limburg,Maastricht,Maastricht,50.8483,5.6889,1,Subnational,0,NLD
+NLD1377,2021-12-30,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Limburg,Heerlen,Heerlen,50.8879,5.9769,1,Subnational,0,NLD
+NLD1389,2021-12-19,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,National,0,NLD
+NLD1001,2021-04-04,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,Hellevoetsluis,Hellevoetsluis,51.8337,4.1425,1,Subnational,0,NLD
+NLD1005,2021-04-10,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Utrecht,Baarn,Baarn,52.2114,5.2934,1,Subnational,0,NLD
+NLD1009,2021-04-11,1,Protests,Peaceful protest,Protesters (Netherlands),Women (Netherlands),,,Netherlands,Noord-Brabant,Tilburg,Tilburg,51.5523,5.1266,1,National,0,NLD
+NLD1010,2021-04-11,1,Protests,Peaceful protest,Protesters (Netherlands),SP: Socialist Party (Netherlands); Students (Netherlands); Women (Netherlands),,,Netherlands,Gelderland,Arnhem,Arnhem,51.9815,5.9149,1,Subnational-National,0,NLD
+NLD1013,2021-04-12,1,Protests,Peaceful protest,Protesters (Netherlands),Christian Group (Netherlands); CNV: National Christian Trade Union; FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Utrecht,Nieuwegein,Nieuwegein,52.0359,5.0841,1,Subnational,0,NLD
+NLD1017,2021-04-16,1,Protests,Protest with intervention,Protesters (Netherlands),XR: Extinction Rebellion,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD1024,2021-04-17,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Zuid-Holland,Zoetermeer,Zoetermeer,52.0614,4.4907,1,Subnational,0,NLD
+NLD1025,2021-04-17,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD1031,2021-04-24,1,Protests,Peaceful protest,Protesters (Netherlands),Guerrilla Mask Force Netherlands,,,Netherlands,Friesland,Smallingerland,Drachten,53.1049,6.0995,1,Subnational,0,NLD
+NLD1032,2021-04-29,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Zuid-Holland,Alblasserdam,Alblasserdam,51.8661,4.6661,1,Subnational,0,NLD
+NLD1035,2021-04-25,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Hoorn,Hoorn,52.6425,5.0597,1,Subnational,0,NLD
+NLD1037,2021-04-24,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD1039,2021-04-27,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Utrecht,Baarn,Baarn,52.2114,5.2934,1,National,0,NLD
+NLD1040,2021-04-27,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Alkmaar,Alkmaar,52.6331,4.7475,1,Subnational,0,NLD
+NLD1049,2021-05-01,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,Subnational,0,NLD
+NLD1052,2021-05-11,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Zuid-Holland,Krimpen aan den IJssel,Krimpen aan den Ijssel,51.9147,4.5901,2,Subnational,0,NLD
+NLD1062,2021-05-14,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD1063,2021-05-08,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Gelderland,Barneveld,Barneveld,52.1449,5.5838,1,Subnational-National,0,NLD
+NLD1070,2021-05-20,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands); Police Forces of the Netherlands (2010-2024),,,Netherlands,Noord-Holland,Hoorn,Hoorn,52.6425,5.0597,1,Subnational,0,NLD
+NLD1071,2021-05-16,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,Subnational,0,NLD
+NLD1076,2021-05-16,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Overijssel,Enschede,Enschede,52.2183,6.8958,1,National,0,NLD
+NLD1079,2021-05-15,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD1085,2021-05-17,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Friesland,Leeuwarden,Leeuwarden,53.1929,5.7925,1,Subnational,0,NLD
+NLD1088,2021-05-28,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Noord-Holland,Hilversum,Hilversum,52.2282,5.1766,1,Subnational,0,NLD
+NLD1091,2021-05-22,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1092,2021-05-22,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Friesland,Leeuwarden,Leeuwarden,53.1929,5.7925,1,Subnational,0,NLD
+NLD1093,2021-05-23,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD1094,2021-05-23,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Friesland,Leeuwarden,Leeuwarden,53.1929,5.7925,1,Subnational,0,NLD
+NLD1111,2021-06-02,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Hoorn,Hoorn,52.6425,5.0597,1,Subnational,0,NLD
+NLD1119,2021-06-09,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Friesland,Leeuwarden,Leeuwarden,53.1929,5.7925,1,Subnational,0,NLD
+NLD1129,2021-06-22,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands),,,Netherlands,Overijssel,Twenterand,Vriezenveen,52.4085,6.6162,1,Subnational,0,NLD
+NLD1134,2021-06-20,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Friesland,Smallingerland,Drachten,53.1049,6.0995,1,Subnational,0,NLD
+NLD1136,2021-07-01,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD1138,2021-06-27,1,Protests,Peaceful protest,Protesters (Netherlands),LGBTQ+ (Netherlands),,,Netherlands,Zuid-Holland,Gorinchem,Gorinchem,51.8292,4.9739,1,Subnational,0,NLD
+NLD1141,2021-06-27,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Lansingerland,Bergschenhoek,51.9888,4.501,1,Subnational,0,NLD
+NLD1147,2021-07-07,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands); Farmers Defence Force,,,Netherlands,Overijssel,Zwolle,Zwolle,52.5062,6.0974,1,Subnational,0,NLD
+NLD1150,2021-07-08,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Utrecht,Nieuwegein,Nieuwegein,52.0359,5.0841,1,Subnational,0,NLD
+NLD1151,2021-07-04,1,Protests,Peaceful protest,Protesters (Netherlands),NIO: Netherlands Uprising,,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD1153,2021-07-02,1,Protests,Peaceful protest,Protesters (Netherlands),Viruswaarheid,,,Netherlands,Noord-Holland,Alkmaar,Alkmaar,52.6331,4.7475,1,Subnational,0,NLD
+NLD1154,2021-07-03,1,Protests,Peaceful protest,Protesters (Netherlands),Viruswaarheid,,,Netherlands,Noord-Holland,Hoorn,Hoorn,52.6425,5.0597,1,Subnational,0,NLD
+NLD1164,2021-07-17,1,Protests,Peaceful protest,Protesters (Netherlands),LGBTQ+ (Netherlands),,,Netherlands,Friesland,Leeuwarden,Leeuwarden,53.1929,5.7925,1,Subnational,0,NLD
+NLD1165,2021-07-21,1,Protests,Peaceful protest,Protesters (Netherlands),RIV: Right In Defence,,,Netherlands,Noord-Holland,Zaanstad,Zaandam,52.4428,4.8292,1,Subnational,0,NLD
+NLD1167,2021-07-17,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD1171,2021-07-24,1,Protests,Peaceful protest,Protesters (Netherlands),Defend,,,Netherlands,Noord-Holland,Den Helder,Den Helder,52.9565,4.7591,1,Subnational,0,NLD
+NLD1180,2021-08-30,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Friesland,Smallingerland,Drachten,53.1049,6.0995,1,Subnational-National,0,NLD
+NLD1183,2021-07-31,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Zandvoort,Zandvoort,52.3721,4.5301,1,Subnational,0,NLD
+NLD1187,2021-08-18,1,Violence against civilians,Attack,Unidentified Armed Group (Netherlands),,Civilians (Netherlands),Journalists (Netherlands),Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,National,0,NLD
+NLD1194,2021-08-21,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands); Unmute Us,,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD1195,2021-08-21,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands); Unmute Us,,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD1201,2021-08-25,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Friesland,Leeuwarden,Leeuwarden,53.1929,5.7925,1,Subnational,0,NLD
+NLD1203,2021-09-04,2,Riots,Mob violence,Rioters (Netherlands),,,,Netherlands,Utrecht,Baarn,Baarn,52.2114,5.2934,1,National,0,NLD
+NLD1207,2021-09-09,1,Protests,Peaceful protest,Protesters (Netherlands),Students (Netherlands),,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,National,0,NLD
+NLD1213,2021-09-11,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Friesland,Noardeast-Fryslan,Wierum,53.4011,6.0181,1,Subnational,0,NLD
+NLD1224,2021-09-16,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands),,,Netherlands,Overijssel,Wierden,Wierden,52.358,6.5932,1,Subnational,0,NLD
+NLD1228,2021-09-11,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands); Unmute Us,,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,Subnational,0,NLD
+NLD1229,2021-09-11,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands); Unmute Us,,,Netherlands,Overijssel,Enschede,Enschede,52.2183,6.8958,1,National,0,NLD
+NLD1230,2021-09-11,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands); Unmute Us,,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD1231,2021-09-11,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands); Unmute Us,,,Netherlands,Zuid-Holland,Leiden,Leiden,52.159,4.4841,1,National,0,NLD
+NLD1243,2021-09-21,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Friesland,Leeuwarden,Leeuwarden,53.1929,5.7925,1,Subnational,0,NLD
+NLD1245,2021-09-18,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Purmerend,Purmerend,52.5024,4.962,1,Subnational,0,NLD
+NLD1251,2021-09-28,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Health Workers (Netherlands); Labor Group (Netherlands),,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD1253,2021-09-28,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Health Workers (Netherlands); Labor Group (Netherlands),,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD1258,2021-10-01,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD1259,2021-09-25,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Holland,Hilversum,Hilversum,52.2282,5.1766,1,Subnational-National,0,NLD
+NLD1264,2021-09-28,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD1265,2021-09-29,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational-National,0,NLD
+NLD1278,2021-10-17,1,Protests,Protest with intervention,Protesters (Netherlands),NIO: Netherlands Uprising,Police Forces of the Netherlands (2010-2024),,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD1279,2021-10-17,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational-National,0,NLD
+NLD1282,2021-10-18,2,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Friesland,Leeuwarden,Leeuwarden,53.1929,5.7925,1,National,0,NLD
+NLD1288,2021-10-24,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Edam-Volendam,Volendam,52.496,5.068,1,Subnational,0,NLD
+NLD1293,2021-10-26,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Health Workers (Netherlands); Labor Group (Netherlands),,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational-National,0,NLD
+NLD1294,2021-10-26,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands),,,Netherlands,Zuid-Holland,Krimpenerwaard,Krimpenerwaard,51.9701,4.7756,1,Subnational,0,NLD
+NLD1295,2021-10-26,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Health Workers (Netherlands); Labor Group (Netherlands),,,Netherlands,Zuid-Holland,Leiden,Leiden,52.159,4.4841,1,Subnational-National,0,NLD
+NLD1296,2021-10-26,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Health Workers (Netherlands); Labor Group (Netherlands),,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,Subnational,0,NLD
+NLD1302,2021-11-01,2,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Enkhuizen,Enkhuizen,52.7014,5.2899,1,Subnational,0,NLD
+NLD1309,2021-11-03,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD1317,2021-11-13,1,Riots,Mob violence,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Friesland,Leeuwarden,Leeuwarden,53.1929,5.7925,1,Subnational,0,NLD
+NLD1318,2021-11-13,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Friesland,Leeuwarden,Leeuwarden,53.1929,5.7925,1,Subnational,0,NLD
+NLD1321,2021-11-16,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Friesland,De Fryske Marren,Joure,52.9634,5.8016,1,Subnational,0,NLD
+NLD1322,2021-11-18,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Zuid-Holland,Rotterdam,Maasvlakte Rotterdam,51.953,4.0461,1,Subnational,0,NLD
+NLD1323,2021-11-19,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational-National,0,NLD
+NLD1325,2021-11-26,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Noord-Holland,Haarlemmermeer,Schiphol,52.3082,4.7672,1,Subnational,0,NLD
+NLD1335,2021-11-20,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),Civilians (Netherlands),Netherlands,Utrecht,Bunschoten,Bunschoten,52.2446,5.374,1,Subnational,0,NLD
+NLD1343,2021-11-21,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD1344,2021-11-21,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Friesland,Leeuwarden,Leeuwarden,53.1929,5.7925,1,Subnational,0,NLD
+NLD1351,2021-12-03,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Groningen,Westerwolde,Ter Apel,52.8733,7.0646,1,Subnational,0,NLD
+NLD1354,2021-11-28,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,Subnational,0,NLD
+NLD1355,2021-11-28,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Overijssel,Enschede,Enschede,52.2183,6.8958,1,Subnational,0,NLD
+NLD1365,2021-12-12,1,Riots,Violent demonstration,Rioters (Netherlands),Defend,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Holland,Velsen,IJmuiden,52.4562,4.6098,1,Subnational,0,NLD
+NLD1375,2021-12-30,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Zuid-Holland,Hillegom,Hillegom,52.2926,4.584,1,Subnational,0,NLD
+NLD1383,2021-12-21,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD1388,2021-12-18,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Holland,Haarlemmermeer,Schiphol,52.3082,4.7672,1,Subnational,0,NLD
+NLD2526,2021-11-13,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Friesland,Achtkarspelen,Surhuisterveen,53.1796,6.1697,1,Subnational,0,NLD
+NLD2537,2021-09-17,1,Riots,Mob violence,Rioters (Netherlands),,Civilians (Netherlands),,Netherlands,Friesland,Tytsjerksteradiel,Burgum,53.1955,5.9874,1,Subnational,0,NLD
+NLD735,2021-01-02,1,Protests,Peaceful protest,Protesters (Netherlands),Animal Rebellion; XR: Extinction Rebellion,,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD746,2021-01-03,1,Protests,Protest with intervention,Protesters (International),Prisoners (International),Police Forces of the Netherlands (2010-2024) Prison Guards,,Netherlands,Groningen,Westerwolde,Ter Apel,52.8733,7.0646,1,Subnational,0,NLD
+NLD749,2021-01-09,1,Protests,Peaceful protest,Protesters (Netherlands),Defend,,,Netherlands,Noord-Holland,Velsen,IJmuiden,52.4562,4.6098,1,Subnational-National,0,NLD
+NLD755,2021-01-21,1,Protests,Peaceful protest,Protesters (Netherlands),Christian Group (Netherlands); CNV: National Christian Trade Union; FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Zuid-Holland,Alblasserdam,Alblasserdam,51.8661,4.6661,1,Subnational,0,NLD
+NLD767,2021-01-23,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Den Helder,Den Helder,52.9565,4.7591,1,Subnational,0,NLD
+NLD768,2021-01-23,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Velsen,IJmuiden,52.4562,4.6098,1,Subnational,0,NLD
+NLD772,2021-01-23,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD775,2021-01-23,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Velsen,Velsen,52.4677,4.6115,2,Subnational,0,NLD
+NLD784,2021-01-24,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Friesland,Leeuwarden,Leeuwarden,53.1929,5.7925,1,Subnational,0,NLD
+NLD790,2021-01-25,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Overijssel,Almelo,Almelo,52.3567,6.6646,1,Subnational-National,0,NLD
+NLD796,2021-01-25,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Dordrecht,Dordrecht,51.7963,4.6781,1,Subnational,0,NLD
+NLD798,2021-01-25,1,Riots,Violent demonstration,Rioters (Netherlands),,,,Netherlands,Zuid-Holland,Gouda,Gouda,52.011,4.7107,1,Subnational,0,NLD
+NLD801,2021-01-25,1,Protests,Peaceful protest,Protesters (Netherlands),Christian Group (Netherlands); CNV: National Christian Trade Union; FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Friesland,Leeuwarden,Leeuwarden,53.1929,5.7925,1,Subnational,0,NLD
+NLD802,2021-01-25,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Holland,Purmerend,Purmerend,52.5024,4.962,1,Subnational,0,NLD
+NLD803,2021-01-25,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD804,2021-01-25,1,Riots,Violent demonstration,Rioters (Netherlands),,,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD805,2021-01-25,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Utrecht,Veenendaal,Veenendaal,52.0258,5.5556,1,Subnational,0,NLD
+NLD807,2021-01-25,1,Riots,Violent demonstration,Rioters (Netherlands),,,,Netherlands,Noord-Holland,Weesp,Weesp,52.3105,5.0359,1,Subnational,0,NLD
+NLD808,2021-01-25,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Utrecht,Woerden,Woerden,52.086,4.8937,1,Subnational,0,NLD
+NLD810,2021-01-26,1,Strategic developments,Other,Unidentified Communal Militia (Netherlands),,,,Netherlands,Noord-Holland,Alkmaar,Alkmaar,52.6331,4.7475,1,Subnational,0,NLD
+NLD811,2021-01-26,1,Strategic developments,Other,Unidentified Communal Militia (Netherlands),,,,Netherlands,Noord-Holland,Alkmaar,Alkmaar,52.6331,4.7475,1,Subnational,0,NLD
+NLD812,2021-01-26,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD816,2021-01-26,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Holland,Hilversum,Hilversum,52.2282,5.1766,1,Subnational,0,NLD
+NLD817,2021-01-26,1,Strategic developments,Other,Unidentified Communal Militia (Netherlands),,,,Netherlands,Noord-Holland,Velsen,IJmuiden,52.4562,4.6098,1,Subnational,0,NLD
+NLD819,2021-01-26,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,National,0,NLD
+NLD821,2021-01-26,1,Strategic developments,Other,Unidentified Communal Militia (Netherlands),,,,Netherlands,Utrecht,Bunschoten,Spakenburg,52.2508,5.3776,1,National,0,NLD
+NLD822,2021-01-26,1,Riots,Violent demonstration,Rioters (Netherlands),,,,Netherlands,Noord-Holland,Weesp,Weesp,52.3105,5.0359,1,Subnational,0,NLD
+NLD831,2021-02-01,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands); Students (Netherlands),,,Netherlands,Zuid-Holland,Leiden,Leiden,52.159,4.4841,1,Subnational,0,NLD
+NLD834,2021-01-30,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD836,2021-01-31,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Hoorn,Hoorn,52.6425,5.0597,1,Subnational,0,NLD
+NLD838,2021-01-30,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Friesland,Leeuwarden,Leeuwarden,53.1929,5.7925,1,Subnational,0,NLD
+NLD839,2021-01-31,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Schagen,Schagen,52.7895,4.8017,1,Subnational,0,NLD
+NLD846,2021-02-06,1,Protests,Protest with intervention,Protesters (Netherlands),XR: Extinction Rebellion,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Holland,Haarlemmermeer,Schiphol,52.3082,4.7672,1,Subnational-National,0,NLD
+NLD850,2021-02-14,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD851,2021-02-16,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD852,2021-02-16,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Friesland,Leeuwarden,Leeuwarden,53.1929,5.7925,1,Subnational,0,NLD
+NLD857,2021-02-19,1,Protests,Peaceful protest,Protesters (Netherlands),Christian Group (Netherlands); CNV: National Christian Trade Union; FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Noord-Holland,Hilversum,Hilversum,52.2282,5.1766,1,Subnational,0,NLD
+NLD861,2021-02-26,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD864,2021-02-20,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Den Helder,Den Helder,52.9565,4.7591,1,Subnational,0,NLD
+NLD865,2021-02-21,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Friesland,Smallingerland,Drachten,53.1049,6.0995,1,Subnational,0,NLD
+NLD867,2021-02-21,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Alkmaar,Alkmaar,52.6331,4.7475,1,Subnational,0,NLD
+NLD872,2021-02-26,1,Protests,Protest with intervention,Protesters (Netherlands),XR: Extinction Rebellion,Police Forces of the Netherlands (2010-2024),,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD876,2021-02-21,1,Protests,Peaceful protest,Protesters (Netherlands),Viruswaarheid,,,Netherlands,Friesland,Leeuwarden,Leeuwarden,53.1929,5.7925,1,Subnational,0,NLD
+NLD887,2021-02-27,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Friesland,De Fryske Marren,Joure,52.9634,5.8016,1,Subnational,0,NLD
+NLD897,2021-03-01,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Friesland,Tytsjerksteradiel,Burgum,53.1955,5.9874,1,Subnational,0,NLD
+NLD900,2021-03-05,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Alkmaar,Alkmaar,52.6331,4.7475,1,Subnational,0,NLD
+NLD905,2021-03-07,1,Protests,Protest with intervention,Protesters (Netherlands),Guerrilla Mask Force Netherlands,Police Forces of the Netherlands (2010-2024),,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,Subnational,0,NLD
+NLD906,2021-03-10,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,Subnational,0,NLD
+NLD910,2021-03-09,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands); Students (Netherlands),,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,Subnational-National,0,NLD
+NLD921,2021-03-06,1,Protests,Peaceful protest,Protesters (Netherlands),Women (Netherlands),,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD922,2021-03-07,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD927,2021-03-06,1,Protests,Peaceful protest,Protesters (Netherlands),LGBTQ+ (Netherlands),,,Netherlands,Zuid-Holland,Krimpen aan den IJssel,Krimpen aan den Ijssel,51.9147,4.5901,1,Subnational,0,NLD
+NLD934,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD959,2021-03-15,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD960,2021-03-13,1,Protests,Peaceful protest,Protesters (Netherlands),SBB: Support Group Farmers and Citizens,,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,Subnational,0,NLD
+NLD961,2021-03-13,1,Protests,Peaceful protest,Protesters (Netherlands),Students (Netherlands),,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD962,2021-03-17,1,Protests,Peaceful protest,Protesters (Netherlands),Students (Netherlands),,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD963,2021-03-15,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD978,2021-03-21,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD983,2021-04-02,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands); Farmers Defence Force,,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD984,2021-03-28,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD989,2021-04-06,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Zuid-Holland,Papendrecht,Papendrecht,51.8348,4.6931,1,Subnational,0,NLD
+NLD1004,2021-04-10,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands),,,Netherlands,Friesland,Heerenveen,Heerenveen,52.9594,5.9278,1,Subnational,0,NLD
+NLD1374,2021-12-30,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Friesland,Heerenveen,Heerenveen,52.9594,5.9278,1,National,0,NLD
+NLD2166,2021-08-17,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Friesland,Heerenveen,Heerenveen,52.9594,5.9278,1,National,0,NLD
+NLD871,2021-02-24,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Friesland,Heerenveen,Heerenveen,52.9594,5.9278,1,Subnational,0,NLD
+NLD899,2021-03-04,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Friesland,Heerenveen,Heerenveen,52.9594,5.9278,1,Subnational,0,NLD
+NLD981,2021-03-24,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Friesland,Heerenveen,Heerenveen,52.9594,5.9278,1,Subnational,0,NLD
+NLD1893,2021-03-15,1,Strategic developments,Other,Government of the Netherlands (2010-2024),D66: Democrats 66 (Caribbean Netherlands); VVD: People's Party for Freedom and Democracy,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,3,National,0,NLD
+NLD826,2021-01-23,1,Strategic developments,Change to group/activity,Government of the Netherlands (2010-2024),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,3,National,0,NLD
+NLD1028,2021-04-22,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Haarlem,Haarlem,52.3869,4.6376,1,Subnational,0,NLD
+NLD1057,2021-05-07,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Haarlem,Haarlem,52.3869,4.6376,1,Subnational,0,NLD
+NLD1095,2021-05-23,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Utrecht,Amersfoort,Amersfoort,52.1565,5.3888,1,Subnational,0,NLD
+NLD1132,2021-06-19,1,Protests,Peaceful protest,Protesters (Netherlands),VVV: Women For Freedom; Women (Netherlands),,,Netherlands,Noord-Holland,Haarlem,Haarlem,52.3869,4.6376,1,Subnational,0,NLD
+NLD1172,2021-08-26,1,Riots,Mob violence,Rioters (Netherlands),,Civilians (Netherlands),LGBTQ+ (Netherlands),Netherlands,Noord-Brabant,Landerd,Reek,51.746,5.6825,1,Subnational,0,NLD
+NLD1175,2021-08-28,1,Protests,Peaceful protest,Protesters (Netherlands),Animal Rebellion,,,Netherlands,Noord-Holland,Haarlem,Haarlem,52.3869,4.6376,1,Subnational,0,NLD
+NLD1178,2021-08-26,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Haarlem,Haarlem,52.3869,4.6376,1,Subnational,0,NLD
+NLD1216,2021-09-14,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Utrecht,Amersfoort,Amersfoort,52.1565,5.3888,1,Subnational,0,NLD
+NLD1268,2021-10-05,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Utrecht,Amersfoort,Amersfoort,52.1565,5.3888,1,National,0,NLD
+NLD1326,2021-11-26,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Noord-Holland,Haarlem,Haarlem,52.3869,4.6376,1,Subnational,0,NLD
+NLD1327,2021-11-20,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Noord-Holland,Haarlem,Haarlem,52.3869,4.6376,1,Subnational,0,NLD
+NLD742,2021-01-03,1,Protests,Peaceful protest,Protesters (Netherlands),VVV: Women For Freedom; Women (Netherlands),,,Netherlands,Noord-Holland,Haarlem,Haarlem,52.3869,4.6376,1,Subnational,0,NLD
+NLD792,2021-01-25,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Utrecht,Amersfoort,Amersfoort,52.1565,5.3888,1,Subnational,0,NLD
+NLD799,2021-01-25,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),Civilians (Netherlands); Journalists (Netherlands),Netherlands,Noord-Holland,Haarlem,Haarlem,52.3869,4.6376,1,National,0,NLD
+NLD855,2021-02-17,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Haarlem,Haarlem,52.3869,4.6376,1,Subnational,0,NLD
+NLD888,2021-02-27,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Gelderland,Druten,Druten,51.8857,5.603,1,Subnational,0,NLD
+NLD890,2021-02-27,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Utrecht,Woudenberg,Woudenberg,52.0806,5.4142,1,National,0,NLD
+NLD912,2021-03-07,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Noord-Holland,Haarlem,Haarlem,52.3869,4.6376,1,Subnational,0,NLD
+NLD920,2021-03-10,1,Protests,Peaceful protest,Protesters (Netherlands),Viruswaarheid,,,Netherlands,Utrecht,Amersfoort,Amersfoort,52.1565,5.3888,1,Subnational,0,NLD
+NLD926,2021-03-11,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Haarlem,Haarlem,52.3869,4.6376,1,Subnational,0,NLD
+NLD980,2021-03-24,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Haarlem,Haarlem,52.3869,4.6376,1,Subnational,0,NLD
+NLD1082,2021-05-15,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1089,2021-05-23,1,Protests,Peaceful protest,Protesters (Netherlands),Palestinian Group (Netherlands),,,Netherlands,Zeeland,Terneuzen,Terneuzen,51.3246,3.8404,1,Subnational,0,NLD
+NLD1054,2021-05-13,1,Protests,Peaceful protest,Protesters (Netherlands),NIO: Netherlands Uprising,,,Netherlands,Noord-Brabant,'s-Hertogenbosch,Den Bosch,51.6879,5.3064,1,Subnational,0,NLD
+NLD1123,2021-06-15,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Noord-Brabant,'s-Hertogenbosch,Den Bosch,51.6879,5.3064,1,National,0,NLD
+NLD1146,2021-07-07,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands); Farmers Defence Force,,,Netherlands,Noord-Brabant,'s-Hertogenbosch,Den Bosch,51.6879,5.3064,1,Subnational,0,NLD
+NLD1380,2021-12-16,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Vlaardingen,Vlaardingen,51.9068,4.3406,1,Subnational,0,NLD
+NLD757,2021-01-17,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Noord-Brabant,'s-Hertogenbosch,Den Bosch,51.6879,5.3064,1,Other,0,NLD
+NLD761,2021-01-18,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Zuid-Holland,Rotterdam,Rozenburg,51.905,4.2418,1,National,0,NLD
+NLD794,2021-01-25,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Brabant,'s-Hertogenbosch,Den Bosch,51.6879,5.3064,1,Subnational,0,NLD
+NLD814,2021-01-26,1,Protests,Peaceful protest,Protesters (Netherlands),Health Workers (Netherlands),,,Netherlands,Noord-Brabant,'s-Hertogenbosch,Den Bosch,51.6879,5.3064,1,Subnational,0,NLD
+NLD815,2021-01-26,1,Strategic developments,Other,Unidentified Communal Militia (Netherlands),,,,Netherlands,Noord-Brabant,'s-Hertogenbosch,Den Bosch,51.6879,5.3064,1,Subnational,0,NLD
+NLD820,2021-01-26,1,Strategic developments,Other,Unidentified Communal Militia (Netherlands),,,,Netherlands,Noord-Brabant,Meierijstad,Schijndel,51.6167,5.4365,1,National,0,NLD
+NLD886,2021-02-27,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Zuid-Holland,Vlaardingen,Vlaardingen,51.9068,4.3406,1,National,0,NLD
+NLD987,2021-03-30,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Brabant,Boxtel,Boxtel,51.5931,5.3294,1,Subnational,0,NLD
+NLD1019,2021-04-13,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Other,0,NLD
+NLD1020,2021-04-13,2,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Noord-Holland,Hilversum,Hilversum,52.2282,5.1766,1,Other,0,NLD
+NLD1021,2021-04-11,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Other,0,NLD
+NLD1047,2021-05-07,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1051,2021-05-14,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Noord-Holland,Castricum,Castricum,52.5492,4.6714,1,Subnational,0,NLD
+NLD1084,2021-05-18,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Arnhem,Arnhem,51.9815,5.9149,1,Subnational,0,NLD
+NLD1099,2021-05-25,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zeeland,Vlissingen,Vlissingen,51.4429,3.5719,1,Subnational,0,NLD
+NLD1113,2021-06-10,1,Protests,Peaceful protest,Protesters (Netherlands),MD: Environmental Defence,,,Netherlands,Zeeland,Terneuzen,Terneuzen,51.3246,3.8404,1,Subnational,0,NLD
+NLD1131,2021-06-25,1,Protests,Peaceful protest,Protesters (Netherlands),Fossil Free; Labor Group (Netherlands); Students (Netherlands); Teachers (Netherlands),,,Netherlands,Limburg,Heerlen,Heerlen,50.8879,5.9769,1,Subnational,0,NLD
+NLD1157,2021-07-05,1,Protests,Protest with intervention,Protesters (Netherlands),XR: Extinction Rebellion,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational-National,0,NLD
+NLD1181,2021-08-03,1,Protests,Protest with intervention,Protesters (Netherlands),XR: Extinction Rebellion,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1192,2021-08-27,1,Protests,Peaceful protest,Protesters (International),FFF: Fridays for Future; Students (Netherlands),,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Other,0,NLD
+NLD1202,2021-09-05,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Noord-Holland,Zandvoort,Zandvoort,52.3721,4.5301,1,National,0,NLD
+NLD1237,2021-09-24,1,Protests,Peaceful protest,Protesters (Netherlands),FFF: Fridays for Future; Students (Netherlands),,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD1249,2021-09-25,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Noord-Brabant,Eindhoven,Eindhoven,51.445,5.4814,1,Subnational,0,NLD
+NLD1299,2021-10-26,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD1314,2021-11-10,1,Protests,Protest with intervention,Protesters (Netherlands),Christian Climate Action; Christian Group (Netherlands); XR: Extinction Rebellion,Police Forces of the Netherlands (2010-2024),,Netherlands,Utrecht,Zeist,Zeist,52.0877,5.2302,1,Subnational,0,NLD
+NLD1359,2021-12-06,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,Subnational,0,NLD
+NLD1360,2021-12-10,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Utrecht,Zeist,Zeist,52.0877,5.2302,1,Other,0,NLD
+NLD1370,2021-12-14,1,Protests,Peaceful protest,Protesters (Netherlands),Christian Climate Action; Christian Group (Netherlands),,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,National,0,NLD
+NLD2379,2021-11-16,1,Protests,Peaceful protest,Protesters (Netherlands),Greenpeace,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Other,0,NLD
+NLD747,2021-01-04,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Overijssel,Zwolle,Zwolle,52.5062,6.0974,1,Other,0,NLD
+NLD751,2021-01-09,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Overijssel,Deventer,Deventer,52.2524,6.1596,1,Other,0,NLD
+NLD877,2021-02-27,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Noord-Holland,Alkmaar,Alkmaar,52.6331,4.7475,1,Subnational,0,NLD
+NLD878,2021-02-27,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD879,2021-02-27,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Overijssel,Deventer,Deventer,52.2524,6.1596,1,Other,0,NLD
+NLD881,2021-02-27,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,Other,0,NLD
+NLD883,2021-03-05,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Noord-Holland,Castricum,Castricum,52.5492,4.6714,1,Subnational,0,NLD
+NLD907,2021-03-09,1,Protests,Protest with intervention,Protesters (Netherlands),XR: Extinction Rebellion,Police Forces of the Netherlands (2010-2024),,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD908,2021-03-09,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD925,2021-03-09,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD928,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Gelderland,Oude IJsselstreek,Etten,51.9153,6.3383,1,Subnational,0,NLD
+NLD929,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Gelderland,Wageningen,Wageningen,51.97,5.6667,1,Subnational,0,NLD
+NLD930,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Gelderland,Culemborg,Culemborg,51.9564,5.2262,1,Subnational,0,NLD
+NLD931,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Gelderland,Arnhem,Arnhem,51.9815,5.9149,1,Subnational,0,NLD
+NLD932,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Gelderland,Apeldoorn,Apeldoorn,52.2143,5.9635,1,Subnational,0,NLD
+NLD935,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD937,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Noord-Brabant,'s-Hertogenbosch,Den Bosch,51.6879,5.3064,1,Subnational,0,NLD
+NLD938,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Noord-Brabant,Eersel,Eersel,51.3604,5.32,1,Subnational,0,NLD
+NLD939,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Noord-Brabant,Eindhoven,Eindhoven,51.445,5.4814,1,Subnational,0,NLD
+NLD940,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Noord-Brabant,Waalre,Waalre,51.388,5.4472,1,Subnational,0,NLD
+NLD942,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Subnational,0,NLD
+NLD944,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Zeeland,Terneuzen,Hoek,51.3101,3.7793,1,National,0,NLD
+NLD945,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Groningen,Groningen,Groningen,53.2192,6.5667,1,Subnational-National,0,NLD
+NLD946,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Noord-Holland,Alkmaar,Alkmaar,52.6331,4.7475,1,Subnational,0,NLD
+NLD947,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Overijssel,Enschede,Enschede,52.2183,6.8958,1,National,0,NLD
+NLD948,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Utrecht,Baarn,Baarn,52.2114,5.2934,1,National,0,NLD
+NLD949,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Zeeland,Middelburg,Middelburg,51.4991,3.6148,1,National,0,NLD
+NLD950,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Zuid-Holland,Leiden,Leiden,52.159,4.4841,1,National,0,NLD
+NLD951,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Limburg,Heerlen,Heerlen,50.8879,5.9769,1,National,0,NLD
+NLD952,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Friesland,Leeuwarden,Leeuwarden,53.1929,5.7925,1,Subnational,0,NLD
+NLD953,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Noord-Holland,Haarlemmermeer,Hoofddorp,52.3053,4.6977,1,National,0,NLD
+NLD954,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Noord-Holland,Beverwijk,Wijk aan Zee,52.4946,4.5937,1,Subnational,0,NLD
+NLD955,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Limburg,Weert,Weert,51.2529,5.7095,1,Subnational,0,NLD
+NLD956,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Limburg,Roermond,Roermond,51.1928,5.9972,1,Subnational,0,NLD
+NLD957,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Limburg,Maastricht,Maastricht,50.8483,5.6889,1,Subnational,0,NLD
+NLD958,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Overijssel,Deventer,Deventer,52.2524,6.1596,1,National,0,NLD
+NLD972,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),FFF: Fridays for Future; Students (Netherlands),,,Netherlands,Overijssel,Zwolle,Zwolle,52.5062,6.0974,1,Other,0,NLD
+NLD974,2021-03-20,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD999,2021-04-03,1,Protests,Protest with intervention,Protesters (Netherlands),XR: Extinction Rebellion,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Brabant,Eindhoven,Eindhoven,51.445,5.4814,1,Subnational-National,0,NLD
+NLD1000,2021-04-09,1,Protests,Protest with intervention,Protesters (Netherlands),XR: Extinction Rebellion,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational-National,0,NLD
+NLD1003,2021-04-09,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Haarlemmermeer,Aalsmeerderbrug,52.2739,4.7503,1,Subnational,0,NLD
+NLD1008,2021-04-11,1,Protests,Peaceful protest,Protesters (Netherlands),Women (Netherlands),,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1015,2021-04-13,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1022,2021-04-16,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Other,0,NLD
+NLD1044,2021-05-05,1,Protests,Peaceful protest,Protesters (Netherlands),NIO: Netherlands Uprising; Viruswaarheid,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD1053,2021-05-12,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD1055,2021-05-12,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1061,2021-05-10,1,Protests,Protest with intervention,Protesters (Netherlands),XR: Extinction Rebellion,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1064,2021-05-15,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1069,2021-05-19,2,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD1072,2021-05-16,1,Protests,Peaceful protest,Protesters (Netherlands),FVD: Forum for Democracy,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational-National,0,NLD
+NLD1086,2021-05-20,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD1102,2021-05-25,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1104,2021-06-03,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands); LSVb: National Student Union; Students (Netherlands),,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1106,2021-05-29,1,Protests,Peaceful protest,Protesters (Netherlands),Voorpost,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Other,0,NLD
+NLD1108,2021-05-29,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1112,2021-06-10,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD1128,2021-06-22,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Other,0,NLD
+NLD1130,2021-06-24,1,Protests,Peaceful protest,Protesters (Netherlands),FFF: Fridays for Future; Students (Netherlands),,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1135,2021-06-24,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1142,2021-07-04,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational-National,0,NLD
+NLD1143,2021-07-07,1,Protests,Peaceful protest,Protesters (Netherlands),Agractie; Farmers (Netherlands),,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD1152,2021-07-03,1,Protests,Peaceful protest,Protesters (Netherlands),NIO: Netherlands Uprising; Police Forces of the Netherlands (2010-2024); Viruswaarheid,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD1158,2021-07-04,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational-National,0,NLD
+NLD1189,2021-08-21,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD1204,2021-09-09,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD1209,2021-09-07,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD1217,2021-09-14,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1218,2021-09-16,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD1219,2021-09-14,1,Protests,Protest with intervention,Protesters (Netherlands),Greenpeace,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD1220,2021-09-15,1,Protests,Protest with intervention,Protesters (Netherlands),XR: Extinction Rebellion,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational-National,0,NLD
+NLD1225,2021-09-16,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1226,2021-09-11,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands); Unmute Us,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1233,2021-09-14,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD1236,2021-09-15,1,Protests,Peaceful protest,Protesters (Netherlands),CNV: National Christian Trade Union; FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands); SP: Socialist Party (Netherlands),,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD1239,2021-09-21,1,Protests,Protest with intervention,Protesters (Netherlands),Viruswaarheid,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational-National,0,NLD
+NLD1248,2021-09-19,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1254,2021-09-25,1,Protests,Peaceful protest,Protesters (Netherlands),FVD: Forum for Democracy,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD1263,2021-09-28,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD1270,2021-10-12,1,Protests,Protest with intervention,Protesters (Netherlands),XR: Extinction Rebellion,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1271,2021-10-13,1,Protests,Protest with intervention,Protesters (Netherlands),Civilians (Netherlands); Journalists (Netherlands); XR: Extinction Rebellion,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1272,2021-10-14,1,Protests,Protest with intervention,Protesters (Netherlands),XR: Extinction Rebellion,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD1273,2021-10-15,1,Protests,Protest with intervention,Protesters (Netherlands),XR: Extinction Rebellion,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Other-National,0,NLD
+NLD1274,2021-10-11,1,Protests,Protest with intervention,Protesters (Netherlands),Christian Group (Netherlands); Civilians (Netherlands); Journalists (Netherlands); XR: Extinction Rebellion,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National-Regional,0,NLD
+NLD1276,2021-10-09,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD1290,2021-10-24,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1291,2021-10-25,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1300,2021-10-23,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD1301,2021-10-30,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1303,2021-11-04,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Other,0,NLD
+NLD1305,2021-10-31,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD1307,2021-11-03,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1308,2021-11-02,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1313,2021-11-07,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD1315,2021-11-12,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1320,2021-11-14,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1330,2021-11-21,1,Protests,Peaceful protest,Protesters (Netherlands),Women (Netherlands),,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1334,2021-11-26,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1336,2021-11-20,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),Civilians (Netherlands),Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1353,2021-11-29,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD1356,2021-12-03,1,Protests,Protest with intervention,Protesters (Netherlands),Kurdish Ethnic Group (Netherlands),Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1362,2021-12-09,1,Protests,Peaceful protest,Protesters (Netherlands),Students (Netherlands),,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1378,2021-12-14,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1381,2021-12-16,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD1382,2021-12-18,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD1387,2021-12-12,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD2154,2021-06-22,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD2155,2021-06-28,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD3981,2021-01-31,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD3984,2021-01-24,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Gelderland,Arnhem,Arnhem,51.9815,5.9149,1,National,0,NLD
+NLD3985,2021-01-09,1,Protests,Peaceful protest,Protesters (Netherlands),Guerrilla Mask Force Netherlands,,,Netherlands,Zuid-Holland,Krimpenerwaard,Schoonhoven,51.9507,4.8492,1,Subnational,0,NLD
+NLD3989,2021-01-26,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD3990,2021-01-23,1,Protests,Peaceful protest,Protesters (Netherlands),Students (Netherlands),,,Netherlands,Zuid-Holland,Leiden,Leiden,52.159,4.4841,1,Subnational,0,NLD
+NLD3991,2021-01-25,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,Dordrecht,Dordrecht,51.7963,4.6781,1,Subnational,0,NLD
+NLD3992,2021-01-21,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Overijssel,Enschede,Enschede,52.2183,6.8958,1,National,0,NLD
+NLD3993,2021-01-04,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Utrecht,Amersfoort,Amersfoort,52.1565,5.3888,1,Subnational,0,NLD
+NLD3994,2021-01-25,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Overijssel,Hengelo,Hengelo,52.2658,6.7929,1,National,0,NLD
+NLD3996,2021-01-23,1,Protests,Peaceful protest,Protesters (Netherlands),,Protesters (Netherlands),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD3997,2021-01-21,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Doetinchem,Doetinchem,51.9658,6.2893,1,National,0,NLD
+NLD3998,2021-01-25,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Overijssel,Oldenzaal,Oldenzaal,52.3109,6.9262,1,National,0,NLD
+NLD4000,2021-01-25,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Overijssel,Enschede,Enschede,52.2183,6.8958,1,National,0,NLD
+NLD4002,2021-01-28,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Gelderland,Tiel,Tiel,51.8816,5.4314,1,National,0,NLD
+NLD4003,2021-01-30,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Roosendaal,Roosendaal,51.531,4.4694,1,National,0,NLD
+NLD4005,2021-01-02,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Waterland,Uitdam,52.4201,5.0707,1,National,0,NLD
+NLD4006,2021-01-01,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Utrecht,Vijfheerenlanden,Vianen,51.9903,5.0935,2,Subnational,0,NLD
+NLD4007,2021-02-05,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Altena,Woudrichem,51.8166,5.0039,1,National,0,NLD
+NLD4008,2021-04-11,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Gelderland,Apeldoorn,Apeldoorn,52.2143,5.9635,1,National,0,NLD
+NLD4009,2021-04-24,1,Protests,Peaceful protest,Protesters (Netherlands),Animal Rights,,,Netherlands,Noord-Brabant,Tilburg,Tilburg,51.5523,5.1266,1,National,0,NLD
+NLD4010,2021-03-28,1,Protests,Peaceful protest,Protesters (Netherlands),CDA: Christian Democratic Appeal,,,Netherlands,Overijssel,Enschede,Enschede,52.2183,6.8958,1,National,0,NLD
+NLD4012,2021-04-10,1,Protests,Peaceful protest,Protesters (Netherlands),GJ: Yellow Vests,,,Netherlands,Overijssel,Zwolle,Zwolle,52.5062,6.0974,1,National,0,NLD
+NLD4013,2021-04-02,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Overijssel,Deventer,Deventer,52.2524,6.1596,1,National,0,NLD
+NLD4014,2021-04-28,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD4016,2021-04-14,1,Protests,Peaceful protest,Protesters (Netherlands),SP: Socialist Party (Netherlands),,,Netherlands,Zuid-Holland,Capelle aan den IJssel,Capelle aan den Ijssel,51.9312,4.5884,1,Subnational,0,NLD
+NLD4018,2021-04-20,1,Protests,Peaceful protest,Protesters (Netherlands),LSVb: National Student Union; Students (Netherlands),,,Netherlands,Noord-Brabant,Eindhoven,Eindhoven,51.445,5.4814,1,National,0,NLD
+NLD4020,2021-04-10,1,Protests,Peaceful protest,Protesters (Netherlands),Students (Netherlands); Women (Netherlands),,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD4021,2021-04-21,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD4022,2021-04-21,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD4023,2021-04-25,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Brielle,Brielle,51.899,4.1642,1,Subnational,0,NLD
+NLD4024,2021-04-02,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD4025,2021-04-19,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD4026,2021-03-28,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Doetinchem,Doetinchem,51.9658,6.2893,1,National,0,NLD
+NLD4027,2021-03-27,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Overijssel,Enschede,Enschede,52.2183,6.8958,1,National,0,NLD
+NLD4028,2021-04-21,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Gorinchem,Gorinchem,51.8292,4.9739,1,Subnational,0,NLD
+NLD4031,2021-04-24,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Rijswijk,Rijswijk,52.0448,4.3199,1,Subnational,0,NLD
+NLD4032,2021-04-20,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD4033,2021-03-28,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Tilburg,Tilburg,51.5523,5.1266,1,National,0,NLD
+NLD4034,2021-04-23,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Altena,Werkendam,51.8082,4.8999,1,National,0,NLD
+NLD4035,2021-04-24,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Overijssel,Zwolle,Zwolle,52.5062,6.0974,1,National,0,NLD
+NLD4038,2021-05-20,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands); LSVb: National Student Union; Students (Netherlands),,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD4040,2021-05-12,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Eindhoven,Eindhoven,51.445,5.4814,1,National,0,NLD
+NLD4041,2021-05-13,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Leiden,Leiden,52.159,4.4841,1,Subnational,0,NLD
+NLD4042,2021-05-18,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Overijssel,Deventer,Deventer,52.2524,6.1596,1,National,0,NLD
+NLD4043,2021-05-21,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Tilburg,Tilburg,51.5523,5.1266,1,National,0,NLD
+NLD4044,2021-05-27,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Breda,Breda,51.589,4.7797,1,National,0,NLD
+NLD4045,2021-05-24,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Overijssel,Deventer,Deventer,52.2524,6.1596,1,National,0,NLD
+NLD4046,2021-05-27,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Bernheze,Heesch,51.7347,5.5247,1,National,0,NLD
+NLD4047,2021-05-23,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Limburg,Sittard-Geleen,Born,51.0335,5.8099,1,National,0,NLD
+NLD4048,2021-05-23,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Utrecht,Amersfoort,Amersfoort,52.1565,5.3888,1,Subnational,0,NLD
+NLD4049,2021-06-12,1,Protests,Peaceful protest,Protesters (Netherlands),Animal Rights,Protesters (Netherlands),Farmers (Netherlands); Farmers Defence Force,Netherlands,Limburg,Nederweert,Nederweert,51.2853,5.7483,1,National,0,NLD
+NLD4050,2021-06-30,1,Protests,Peaceful protest,Protesters (Netherlands),CNV: National Christian Trade Union; Labor Group (Netherlands),,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD4051,2021-07-14,1,Protests,Peaceful protest,Protesters (Netherlands),Denk Party; HvDH/GdM: Mos' Group/Heart for The Hague; PVV: Party For Freedom,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD4052,2021-06-26,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD4053,2021-06-25,1,Protests,Peaceful protest,Protesters (Netherlands),Fossil Free; Labor Group (Netherlands); Students (Netherlands); Teachers (Netherlands),,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD4054,2021-05-21,1,Protests,Peaceful protest,Protesters (Netherlands),GF: Generation Freedom,,,Netherlands,Utrecht,Zeist,Zeist,52.0877,5.2302,1,Subnational,0,NLD
+NLD4055,2021-06-09,1,Protests,Peaceful protest,Protesters (Netherlands),MD: Environmental Defence,,,Netherlands,Noord-Brabant,Boxtel,Boxtel,51.5931,5.3294,1,National,0,NLD
+NLD4056,2021-06-27,1,Protests,Peaceful protest,Protesters (Netherlands),NIO: Netherlands Uprising,,,Netherlands,Limburg,Maastricht,Maastricht,50.8483,5.6889,1,National,0,NLD
+NLD4057,2021-05-30,1,Protests,Peaceful protest,Protesters (Netherlands),PvdD: Animal Party,,,Netherlands,Noord-Brabant,Eindhoven,Eindhoven,51.445,5.4814,1,National,0,NLD
+NLD4058,2021-06-09,1,Protests,Peaceful protest,Protesters (Netherlands),SP: Socialist Party (Netherlands),,,Netherlands,Noord-Brabant,Oss,Oss,51.7672,5.5217,1,National,0,NLD
+NLD4059,2021-05-31,1,Protests,Peaceful protest,Protesters (Netherlands),Students (Netherlands),,,Netherlands,Overijssel,Zwolle,Zwolle,52.5062,6.0974,1,National,0,NLD
+NLD4060,2021-06-08,1,Protests,Peaceful protest,Protesters (Netherlands),Students (Netherlands),,,Netherlands,Noord-Brabant,Drimmelen,Made,51.6772,4.7933,1,National,0,NLD
+NLD4061,2021-06-09,1,Protests,Peaceful protest,Protesters (Netherlands),Students (Netherlands),,,Netherlands,Zuid-Holland,Papendrecht,Papendrecht,51.8348,4.6931,1,Subnational,0,NLD
+NLD4062,2021-05-30,1,Protests,Peaceful protest,Protesters (Netherlands),Uyghur Ethnic Group (Netherlands),,,Netherlands,Overijssel,Enschede,Enschede,52.2183,6.8958,1,National,0,NLD
+NLD4063,2021-07-25,1,Protests,Peaceful protest,Protesters (Netherlands),Viruswaarheid,,,Netherlands,Noord-Brabant,Eindhoven,Eindhoven,51.445,5.4814,1,National,0,NLD
+NLD4064,2021-06-05,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Utrecht,Amersfoort,Amersfoort,52.1565,5.3888,1,Subnational,0,NLD
+NLD4065,2021-06-12,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD4066,2021-06-20,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Utrecht,Amersfoort,Amersfoort,52.1565,5.3888,1,Subnational,0,NLD
+NLD4067,2021-05-31,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Utrecht,Houten,Houten,52.0271,5.162,1,Subnational,0,NLD
+NLD4068,2021-06-06,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Tilburg,Tilburg,51.5523,5.1266,1,National,0,NLD
+NLD4069,2021-06-06,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Arnhem,Arnhem,51.9815,5.9149,1,National,0,NLD
+NLD4070,2021-06-19,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Utrecht,Woerden,Woerden,52.086,4.8937,1,Subnational,0,NLD
+NLD4071,2021-06-23,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Woensdrecht,Hoogerheide,51.4223,4.3252,1,National,0,NLD
+NLD4073,2021-06-27,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Oss,Oss,51.7672,5.5217,1,National,0,NLD
+NLD4074,2021-07-08,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Utrecht,Nieuwegein,Nieuwegein,52.0359,5.0841,1,Subnational,0,NLD
+NLD4086,2021-08-13,1,Protests,Peaceful protest,Protesters (Netherlands),Protesters (Germany),,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD4087,2021-09-03,1,Protests,Protest with intervention,Protesters (Netherlands),XR: Extinction Rebellion,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD4088,2021-08-14,1,Protests,Peaceful protest,Protesters (Netherlands),Fishers (Netherlands),,,Netherlands,Friesland,Sudwest-Fryslan,Breezanddijk,53.0196,5.2092,2,National,0,NLD
+NLD4092,2021-09-16,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Overijssel,Hengelo,Hengelo,52.2658,6.7929,1,National,0,NLD
+NLD4094,2021-09-21,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Oirschot,Oirschot,51.5019,5.3188,1,National,0,NLD
+NLD4095,2021-09-18,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD4097,2021-08-25,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Tilburg,Tilburg,51.5523,5.1266,1,National,0,NLD
+NLD4098,2021-08-09,1,Protests,Protest with intervention,Protesters (Netherlands),XR: Extinction Rebellion,Police Forces of the Netherlands (2010-2024),,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD4099,2021-09-03,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands),,,Netherlands,Noord-Holland,Zandvoort,Zandvoort,52.3721,4.5301,1,National,0,NLD
+NLD4100,2021-09-05,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Noord-Holland,Zandvoort,Zandvoort,52.3721,4.5301,1,National,0,NLD
+NLD4101,2021-09-25,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD4102,2021-10-02,1,Protests,Peaceful protest,Protesters (Netherlands),AI: Amnesty International; LGBTQ+ (Netherlands),,,Netherlands,Noord-Brabant,Breda,Breda,51.589,4.7797,1,National,0,NLD
+NLD4103,2021-10-04,1,Protests,Peaceful protest,Protesters (Netherlands),Animal Rebellion,,,Netherlands,Limburg,Venlo,Venlo,51.3666,6.1716,1,National,0,NLD
+NLD4104,2021-10-02,1,Protests,Peaceful protest,Protesters (Netherlands),Animal Rights,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD4105,2021-10-16,1,Protests,Peaceful protest,Protesters (Netherlands),Christian Group (Netherlands),,,Netherlands,Noord-Brabant,Tilburg,Tilburg,51.5523,5.1266,1,National,0,NLD
+NLD4106,2021-09-26,1,Protests,Peaceful protest,Protesters (Netherlands),GL: GreenLeft,,,Netherlands,Zuid-Holland,Dordrecht,Dordrecht,51.7963,4.6781,1,Subnational,0,NLD
+NLD4108,2021-09-25,1,Protests,Peaceful protest,Protesters (Netherlands),LGBTQ+ (Netherlands),,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD4109,2021-10-22,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition; MD: Environmental Defence,,,Netherlands,Noord-Brabant,Eindhoven,Eindhoven,51.445,5.4814,1,National,0,NLD
+NLD4110,2021-09-26,1,Protests,Peaceful protest,Protesters (Netherlands),GL: GreenLeft; PvdA: Labor Party; SP: Socialist Party (Netherlands),,,Netherlands,Overijssel,Zwolle,Zwolle,52.5062,6.0974,1,National,0,NLD
+NLD4111,2021-10-30,1,Protests,Peaceful protest,Protesters (Netherlands),GL: GreenLeft; PvdA: Labor Party; SP: Socialist Party (Netherlands),,,Netherlands,Noord-Brabant,Tilburg,Tilburg,51.5523,5.1266,1,National,0,NLD
+NLD4112,2021-10-11,1,Protests,Peaceful protest,Protesters (Netherlands),Government of the Netherlands (2010-2024); PVV: Party For Freedom,,,Netherlands,Noord-Brabant,Bernheze,Heesch,51.7347,5.5247,1,National,0,NLD
+NLD4113,2021-09-27,1,Protests,Peaceful protest,Protesters (Netherlands),Viruswaanzin,,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD4116,2021-10-02,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Hilversum,Hilversum,52.2282,5.1766,1,National,0,NLD
+NLD4117,2021-10-05,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Rheden,Rheden,52.0052,6.0325,1,National,0,NLD
+NLD4118,2021-10-03,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD4119,2021-10-07,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Oss,Oss,51.7672,5.5217,1,National,0,NLD
+NLD4120,2021-10-10,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Roosendaal,Roosendaal,51.531,4.4694,1,National,0,NLD
+NLD4121,2021-10-11,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Overijssel,Enschede,Enschede,52.2183,6.8958,1,National,0,NLD
+NLD4122,2021-10-17,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Roosendaal,Roosendaal,51.531,4.4694,1,National,0,NLD
+NLD4124,2021-10-23,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Utrecht,Montfoort,Linschoten,52.0643,4.9128,1,Subnational,0,NLD
+NLD4125,2021-10-23,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Gouda,Gouda,52.011,4.7107,1,Subnational,0,NLD
+NLD4126,2021-12-16,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands),,,Netherlands,Flevoland,Zeewolde,Zeewolde,52.3314,5.5435,1,National,0,NLD
+NLD4127,2021-11-26,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Zuid-Holland,Alblasserdam,Alblasserdam,51.8661,4.6661,1,Subnational,0,NLD
+NLD4128,2021-11-13,1,Protests,Peaceful protest,Protesters (Netherlands),FVD: Forum for Democracy,,,Netherlands,Noord-Brabant,Oss,Oss,51.7672,5.5217,1,National,0,NLD
+NLD4129,2021-11-10,1,Protests,Peaceful protest,Protesters (Netherlands),HvDH/GdM: Mos' Group/Heart for The Hague,,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD4130,2021-11-27,1,Protests,Peaceful protest,Protesters (Netherlands),Voorpost,Protesters (Netherlands),Antifa,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD4131,2021-11-13,1,Protests,Peaceful protest,Protesters (Netherlands),Anarchist Group (Netherlands); Women (Netherlands),,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD4132,2021-11-26,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Utrecht,Amersfoort,Amersfoort,52.1565,5.3888,1,Subnational,0,NLD
+NLD4133,2021-11-25,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD4134,2021-11-26,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Noord-Brabant,'s-Hertogenbosch,Den Bosch,51.6879,5.3064,1,National,0,NLD
+NLD4136,2021-09-17,1,Riots,Mob violence,Rioters (Netherlands),,Civilians (Netherlands),LGBTQ+ (Netherlands),Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD4137,2021-12-17,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Utrecht,De Bilt,De Bilt,52.1096,5.1791,1,Subnational,0,NLD
+NLD4138,2021-11-19,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zeeland,Goes,Goes,51.5053,3.8888,1,National,0,NLD
+NLD4139,2021-11-06,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Gouda,Gouda,52.011,4.7107,1,Subnational,0,NLD
+NLD4140,2021-11-20,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Overijssel,Kampen,Kampen,52.5764,5.885,1,National,0,NLD
+NLD4141,2021-12-11,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Overijssel,Kampen,Kampen,52.5764,5.885,1,National,0,NLD
+NLD4142,2021-11-21,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Katwijk,Katwijk,52.1986,4.4144,1,Subnational,0,NLD
+NLD4144,2021-11-26,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Leiden,Leiden,52.159,4.4841,1,Subnational,0,NLD
+NLD4145,2021-10-22,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Limburg,Maastricht,Maastricht,50.8483,5.6889,1,National,0,NLD
+NLD4146,2021-12-16,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Heumen,Malden,51.7805,5.8535,1,National,0,NLD
+NLD4147,2021-11-29,1,Riots,Mob violence,Rioters (Netherlands),Prisoners (Netherlands),Police Forces of the Netherlands (2010-2024) Prison Guards,,Netherlands,Noord-Holland,Zaanstad,Westzaan,52.4644,4.7718,1,National,0,NLD
+NLD4148,2021-11-23,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Goeree-Overflakkee,Middelharnis,51.7585,4.1707,1,Subnational,0,NLD
+NLD4149,2021-11-22,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Overijssel,Zwolle,Zwolle,52.5062,6.0974,1,National,0,NLD
+NLD4150,2021-12-18,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands); Farmers Defence Force,Protesters (Netherlands),,Netherlands,Utrecht,Vijfheerenlanden,Leerbroek,51.9074,5.052,1,Subnational,0,NLD
+NLD4151,2021-12-23,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands); Farmers Defence Force,,,Netherlands,Gelderland,Arnhem,Arnhem,51.9815,5.9149,1,National,0,NLD
+NLD4152,2021-12-19,1,Protests,Peaceful protest,Protesters (Netherlands),FVD: Forum for Democracy,,,Netherlands,Drenthe,Midden-Drenthe,Wijster,52.8154,6.5163,1,National,0,NLD
+NLD4154,2021-12-30,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Noord-Brabant,Uden,Uden,51.6591,5.6161,1,National,0,NLD
+NLD4155,2021-12-28,1,Protests,Peaceful protest,Protesters (Netherlands),Police Forces of the Netherlands (2010-2024),,,Netherlands,Groningen,Westerwolde,Ter Apel,52.8733,7.0646,1,National,0,NLD
+NLD4159,2021-12-18,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Apeldoorn,Apeldoorn,52.2143,5.9635,1,National,0,NLD
+NLD4160,2021-12-22,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Apeldoorn,Apeldoorn,52.2143,5.9635,1,National,0,NLD
+NLD4161,2021-12-29,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Breda,Breda,51.589,4.7797,1,National,0,NLD
+NLD4162,2021-12-28,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Zaltbommel,Zaltbommel,51.8068,5.2411,1,National,0,NLD
+NLD4163,2021-12-18,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Ermelo,Ermelo,52.3022,5.625,1,National,0,NLD
+NLD4164,2021-12-29,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Overijssel,Almelo,Almelo,52.3567,6.6646,1,National,0,NLD
+NLD4286,2021-02-07,1,Protests,Peaceful protest,Protesters (Netherlands),Farmers (Netherlands),,,Netherlands,Zuid-Holland,Waddinxveen,Waddinxveen,52.0445,4.6565,1,Subnational,0,NLD
+NLD4287,2021-01-26,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Utrecht,Woerden,Woerden,52.086,4.8937,1,Subnational,0,NLD
+NLD4288,2021-02-16,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Overijssel,Zwolle,Zwolle,52.5062,6.0974,1,National,0,NLD
+NLD4300,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),FFF: Fridays for Future; Students (Netherlands),,,Netherlands,Utrecht,Amersfoort,Amersfoort,52.1565,5.3888,1,Subnational,0,NLD
+NLD4302,2021-02-17,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD4303,2021-03-05,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD4305,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Zuid-Holland,Dordrecht,Dordrecht,51.7963,4.6781,1,Subnational,0,NLD
+NLD4306,2021-02-28,1,Protests,Peaceful protest,Protesters (Netherlands),LGBTQ+ (Netherlands),,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD4308,2021-02-22,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD4309,2021-03-07,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Overijssel,Almelo,Almelo,52.3567,6.6646,1,National,0,NLD
+NLD4311,2021-02-27,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD4312,2021-02-26,1,Protests,Protest with intervention,Protesters (Netherlands),XR: Extinction Rebellion,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD4313,2021-03-21,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Breda,Breda,51.589,4.7797,1,National,0,NLD
+NLD4314,2021-03-21,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,'s-Hertogenbosch,Den Bosch,51.6879,5.3064,1,National,0,NLD
+NLD4315,2021-03-21,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Eindhoven,Eindhoven,51.445,5.4814,1,National,0,NLD
+NLD4317,2021-03-21,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Limburg,Heerlen,Heerlen,50.8879,5.9769,1,National,0,NLD
+NLD4318,2021-02-22,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,Hoeksche Waard,Heinenoord,51.8269,4.4801,1,Subnational,0,NLD
+NLD4319,2021-03-21,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Limburg,Maastricht,Maastricht,50.8483,5.6889,1,National,0,NLD
+NLD4321,2021-03-21,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Limburg,Roermond,Roermond,51.1928,5.9972,1,National,0,NLD
+NLD4322,2021-03-21,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Limburg,Sittard-Geleen,Sittard,50.997,5.8669,1,National,0,NLD
+NLD4323,2021-03-21,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Limburg,Venlo,Venlo,51.3666,6.1716,1,National,0,NLD
+NLD4324,2021-03-21,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Limburg,Weert,Weert,51.2529,5.7095,1,National,0,NLD
+NLD4325,2021-03-19,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Altena,Woudrichem,51.8166,5.0039,1,National,0,NLD
+NLD4584,2021-02-11,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Utrecht,Zeist,Zeist,52.0877,5.2302,1,Subnational,0,NLD
+NLD4663,2021-01-23,2,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Utrecht,Bunschoten,Spakenburg,52.2508,5.3776,1,Subnational,0,NLD
+NLD4685,2021-01-23,1,Protests,Peaceful protest,Protesters (Netherlands),Viruswaarheid,,,Netherlands,Utrecht,Amersfoort,Amersfoort,52.1565,5.3888,1,Subnational,0,NLD
+NLD740,2021-01-06,1,Protests,Protest with intervention,Protesters (Netherlands),Civilians (Netherlands); Journalists (Netherlands); XR: Extinction Rebellion,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational-National,0,NLD
+NLD741,2021-01-07,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD758,2021-01-20,1,Protests,Protest with intervention,Protesters (Netherlands),XR: Extinction Rebellion,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Other-Subnational,0,NLD
+NLD795,2021-01-25,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD854,2021-02-17,1,Protests,Peaceful protest,Protesters (Netherlands),Students (Netherlands),,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational-National,0,NLD
+NLD863,2021-02-20,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD869,2021-02-22,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,2,Subnational,0,NLD
+NLD880,2021-02-27,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Other,0,NLD
+NLD893,2021-03-02,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Regional,0,NLD
+NLD909,2021-03-12,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Other,0,NLD
+NLD914,2021-03-11,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD915,2021-03-11,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD943,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD964,2021-03-15,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational-National,0,NLD
+NLD966,2021-03-14,1,Protests,Protest with intervention,Protesters (Netherlands),NIO: Netherlands Uprising,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD969,2021-03-21,1,Protests,Peaceful protest,Protesters (Netherlands),BLM: Black Lives Matter,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD970,2021-03-22,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD988,2021-04-03,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Other,0,NLD
+NLD992,2021-04-06,1,Protests,Peaceful protest,Protesters (Netherlands),Students (Netherlands); Teachers (Netherlands),,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,Subnational,0,NLD
+NLD995,2021-04-06,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zuid-Holland,'s-Gravenhage,Den Haag,52.0795,4.3128,1,National,0,NLD
+NLD1066,2021-05-18,1,Protests,Peaceful protest,Protesters (Netherlands),Fossil Free; Greenpeace; XR: Extinction Rebellion,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,National,0,NLD
+NLD1281,2021-10-16,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Noord-Holland,Amsterdam,Amsterdam,52.371,4.8985,1,Other,0,NLD
+NLD1068,2021-05-18,1,Protests,Peaceful protest,Protesters (Netherlands),Fossil Free; Greenpeace; XR: Extinction Rebellion,,,Netherlands,Limburg,Heerlen,Heerlen,50.8879,5.9769,1,Subnational,0,NLD
+NLD1121,2021-06-17,1,Protests,Protest with intervention,Protesters (Netherlands),Government of the Netherlands (2010-2024); Teachers (Netherlands),Police Forces of the Netherlands (2010-2024),,Netherlands,Limburg,Heerlen,Heerlen,50.8879,5.9769,1,Subnational,0,NLD
+NLD1241,2021-09-24,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Zeeland,Middelburg,Middelburg,51.4991,3.6148,1,Subnational,0,NLD
+NLD1267,2021-10-04,1,Protests,Protest with intervention,Protesters (Netherlands),Greenpeace,Police Forces of the Netherlands (2010-2024),,Netherlands,Zuid-Holland,Rotterdam,Pernis,51.8893,4.3863,1,Subnational,0,NLD
+NLD1361,2021-12-10,2,Protests,Peaceful protest,Protesters (Netherlands),Greenpeace; Protesters (Belgium); Protesters (Germany); Protesters (Switzerland),,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,National,0,NLD
+NLD1067,2021-05-18,1,Protests,Peaceful protest,Protesters (Netherlands),Fossil Free; Greenpeace; XR: Extinction Rebellion,,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,National,0,NLD
+NLD990,2021-04-06,1,Protests,Peaceful protest,Protesters (Netherlands),Greenpeace,,,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Subnational,0,NLD
+NLD4759,2021-05-05,1,Protests,Peaceful protest,Protesters (Netherlands),Jesus Lives; Protestant Christian Group (Netherlands); Women (Netherlands),,,Netherlands,Utrecht,Utrecht,Utrecht,52.0871,5.1128,1,Subnational,0,NLD
+NLD1311,2021-11-06,1,Protests,Peaceful protest,Protesters (Netherlands),NVU: Dutch People's Union,Protesters (Netherlands),AFA: Antifascist Action Netherlands; Antifa,Netherlands,Gelderland,Ede,Harskamp,52.1311,5.7524,1,Subnational,0,NLD
+NLD1090,2021-05-22,1,Protests,Protest with intervention,Protesters (Netherlands),Voorpost,Police Forces of the Netherlands (2010-2024),AFA: Antifascist Action Netherlands; BIJ1; Protesters (Netherlands); Antifa,Netherlands,Zuid-Holland,Rotterdam,Rotterdam,51.9214,4.4604,1,Other-Subnational,0,NLD
+NLD4029,2021-04-10,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Helmond,Helmond,51.4784,5.6552,1,National,0,NLD
+NLD4030,2021-04-30,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Helmond,Helmond,51.4784,5.6552,1,National,0,NLD
+NLD4089,2021-08-11,1,Protests,Peaceful protest,Protesters (Netherlands),Animal Save Movement,,,Netherlands,Overijssel,Hardenberg,Dedemsvaart,52.5996,6.458,1,National,0,NLD
+NLD4115,2021-09-25,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Noord-Brabant,Helmond,Helmond,51.4784,5.6552,1,National,0,NLD
+NLD782,2021-01-24,1,Riots,Violent demonstration,Rioters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Noord-Brabant,Helmond,Helmond,51.4784,5.6552,1,Subnational,0,NLD
+NLD1018,2021-04-14,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Gelderland,Nijmegen,Nijmegen,51.8425,5.8528,1,Other,0,NLD
+NLD1075,2021-05-16,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Nijmegen,Nijmegen,51.8425,5.8528,1,National,0,NLD
+NLD1162,2021-07-13,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Overbetuwe,Elst,51.9176,5.8475,1,Subnational,0,NLD
+NLD1198,2021-08-21,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands); Unmute Us,,,Netherlands,Gelderland,Nijmegen,Nijmegen,51.8425,5.8528,1,National,0,NLD
+NLD1227,2021-09-11,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands); Unmute Us,,,Netherlands,Gelderland,Nijmegen,Nijmegen,51.8425,5.8528,1,Subnational,0,NLD
+NLD1292,2021-10-26,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Health Workers (Netherlands); Labor Group (Netherlands),,,Netherlands,Gelderland,Nijmegen,Nijmegen,51.8425,5.8528,1,Subnational-National,0,NLD
+NLD1306,2021-10-31,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Nijmegen,Nijmegen,51.8425,5.8528,1,Subnational,0,NLD
+NLD1357,2021-11-28,1,Protests,Protest with intervention,Protesters (Netherlands),NIO: Netherlands Uprising,Police Forces of the Netherlands (2010-2024),,Netherlands,Gelderland,Nijmegen,Nijmegen,51.8425,5.8528,1,National,0,NLD
+NLD2149,2021-04-30,1,Protests,Peaceful protest,Protesters (Netherlands),FNV: Federation of Dutch Trade Unions; Labor Group (Netherlands),,,Netherlands,Gelderland,Nijmegen,Nijmegen,51.8425,5.8528,2,National,0,NLD
+NLD3049,2021-09-22,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Nijmegen,Nijmegen,51.8425,5.8528,1,National,0,NLD
+NLD3982,2021-01-23,1,Protests,Peaceful protest,Protesters (Netherlands),GJ: Yellow Vests,,,Netherlands,Gelderland,Nijmegen,Nijmegen,51.8425,5.8528,1,National,0,NLD
+NLD4017,2021-04-24,1,Protests,Peaceful protest,Protesters (Netherlands),Students (Netherlands),,,Netherlands,Gelderland,Nijmegen,Nijmegen,51.8425,5.8528,1,National,0,NLD
+NLD4019,2021-04-06,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands); Students (Netherlands); Teachers (Netherlands),,,Netherlands,Gelderland,Nijmegen,Nijmegen,51.8425,5.8528,1,National,0,NLD
+NLD4037,2021-05-21,1,Protests,Peaceful protest,Protesters (Netherlands),Students (Netherlands),,,Netherlands,Gelderland,Nijmegen,Nijmegen,51.8425,5.8528,1,National,0,NLD
+NLD4072,2021-06-19,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Nijmegen,Nijmegen,51.8425,5.8528,1,National,0,NLD
+NLD4114,2021-09-25,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Nijmegen,Nijmegen,51.8425,5.8528,1,National,0,NLD
+NLD4153,2021-12-30,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Gelderland,Nijmegen,Nijmegen,51.8425,5.8528,1,National,0,NLD
+NLD4284,2021-02-06,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Nijmegen,Nijmegen,51.8425,5.8528,1,National,0,NLD
+NLD4285,2021-02-16,1,Protests,Peaceful protest,Protesters (Netherlands),Labor Group (Netherlands),,,Netherlands,Gelderland,Nijmegen,Nijmegen,51.8425,5.8528,1,National,0,NLD
+NLD4320,2021-03-21,1,Protests,Peaceful protest,Protesters (Netherlands),,,,Netherlands,Gelderland,Nijmegen,Nijmegen,51.8425,5.8528,1,National,0,NLD
+NLD833,2021-02-01,1,Protests,Peaceful protest,Protesters (Netherlands),XR: Extinction Rebellion,,,Netherlands,Gelderland,Nijmegen,Nijmegen,51.8425,5.8528,1,Subnational,0,NLD
+NLD901,2021-02-28,1,Protests,Protest with intervention,Protesters (Netherlands),,Police Forces of the Netherlands (2010-2024),,Netherlands,Gelderland,Nijmegen,Nijmegen,51.8425,5.8528,1,Subnational,0,NLD
+NLD933,2021-03-14,1,Protests,Peaceful protest,Protesters (Netherlands),KCC: Climate Crisis Coalition,,,Netherlands,Gelderland,Nijmegen,Nijmegen,51.8425,5.8528,1,Subnational-National,0,NLD
+NLD1215,2021-09-12,1,Protests,Protest with intervention,Protesters (France),269 Animal Liberation,Police Forces of the Netherlands (2010-2024),,Netherlands,Gelderland,Apeldoorn,Apeldoorn,52.2143,5.9635,1,Subnational-National,0,NLD

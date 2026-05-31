@@ -1,0 +1,59 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+VNM501,2019-06-03,1,Battles,Armed clash,Military Forces of Vietnam (1976-),,Unidentified Armed Group (Vietnam),,Vietnam,Thanh Hoa,Thuong Xuan,Thuong Xuan,20.0432,105.0098,2,National,1,VNM
+VNM505,2019-06-22,1,Strategic developments,Arrests,Police Forces of Vietnam (1976-),,Civilians (Vietnam),,Vietnam,Vinh Long,Vinh Long,Vinh Long,10.2536,105.972,3,National,0,VNM
+VNM506,2019-06-22,1,Strategic developments,Arrests,Police Forces of Vietnam (1976-),,Civilians (Vietnam),,Vietnam,Hoa Binh,Hoa Binh,Hoa Binh,20.8171,105.3375,3,National,0,VNM
+VNM484,2019-02-26,1,Protests,Peaceful protest,Protesters (Vietnam),Labor Group (Vietnam),,,Vietnam,Nghe An,Nam Dan,Nam Giang,18.694,105.5889,1,National,0,VNM
+VNM475,2019-02-17,1,Protests,Protest with intervention,Protesters (Vietnam),,Police Forces of Vietnam (1976-),,Vietnam,Phu Tho,Tam Nong,Hien Quan,21.3833,105.2333,1,National,0,VNM
+VNM485,2019-02-27,1,Protests,Peaceful protest,Protesters (Vietnam),Labor Group (Vietnam),,,Vietnam,Nghe An,Nam Dan,Nam Giang,18.694,105.5889,1,National,0,VNM
+VNM512,2019-08-15,1,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Quang Binh,Dong Hoi,Dong Hoi,17.4688,106.622,3,International,0,VNM
+VNM510,2019-08-06,1,Protests,Protest with intervention,Protesters (Vietnam),,Police Forces of Vietnam (1976-),,Vietnam,Hanoi,Dong Da,Hanoi,21.0245,105.841,1,International,0,VNM
+VNM490,2019-03-05,1,Protests,Protest with intervention,Protesters (Vietnam),Labor Group (Vietnam),Police Forces of Vietnam (1976-),,Vietnam,Hai Duong,Chi Linh,Chi Linh,21.0666,106.3166,1,International,0,VNM
+VNM513,2019-08-18,1,Protests,Protest with intervention,Protesters (Vietnam),,Police Forces of Vietnam (1976-),,Vietnam,Khanh Hoa,Nha Trang,Nha Trang,12.245,109.194,2,International,0,VNM
+VNM511,2019-08-10,1,Protests,Protest with intervention,Protesters (Vietnam),,Police Forces of Vietnam (1976-),,Vietnam,Hanoi,Ba Dinh,Ba Dinh,21.0358,105.8216,1,International,0,VNM
+VNM504,2019-06-16,1,Violence against civilians,Attack,Police Forces of Vietnam (1976-),,Civilians (Vietnam),,Vietnam,Ha Nam,Phu Ly,Phu Ly,20.5453,105.9122,3,International,0,VNM
+VNM500,2019-05-14,2,Violence against civilians,Attack,Police Forces of Vietnam (1976-) Prison Guards,,Civilians (Vietnam),Prisoners (Vietnam),Vietnam,Quang Nam,Dai Loc,Dai Hung,15.8711,107.887,1,International,0,VNM
+VNM509,2019-07-12,1,Violence against civilians,Attack,Police Forces of Vietnam (1976-) Prison Guards,,Civilians (Vietnam),Prisoners (Vietnam),Vietnam,Nghe An,Thanh Chuong,Thanh Chuong,18.7798,105.274,1,International,0,VNM
+VNM517,2019-08-08,1,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Ho Chi Minh,Tan Binh,Ho Chi Minh,10.823,106.63,1,Other,0,VNM
+VNM518,2019-08-10,1,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Ho Chi Minh,Tan Binh,Ho Chi Minh,10.823,106.63,1,Other,0,VNM
+VNM521,2019-10-07,1,Violence against civilians,Attack,Police Forces of Vietnam (1976-),,Civilians (Vietnam),Buddhist Group (Vietnam),Vietnam,An Giang,Cho Moi,Kien An,10.562,105.3769,1,International,0,VNM
+VNM473,2019-02-09,1,Violence against civilians,Attack,Unidentified Armed Group (Vietnam),,Civilians (Canada),Civilians (Vietnam),Vietnam,Quang Ngai,Binh Son,Binh Thuan,15.3845,108.8132,1,International,0,VNM
+VNM492,2019-03-09,1,Protests,Peaceful protest,Protesters (Vietnam),Labor Group (Vietnam),,,Vietnam,Ho Chi Minh,Tan Binh,Ho Chi Minh,10.823,106.63,1,International,0,VNM
+VNM507,2019-06-29,1,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Hanoi,Dong Da,Hanoi,21.0245,105.841,1,International,0,VNM
+VNM495,2019-02-15,2,Protests,Peaceful protest,Protesters (Vietnam),Catholic Christian Group (Vietnam),,,Vietnam,Hanoi,Dong Da,Hanoi,21.0245,105.841,1,International,0,VNM
+VNM508,2019-07-01,1,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Hanoi,Dong Da,Hanoi,21.0245,105.841,3,International,0,VNM
+VNM472,2019-01-26,2,Violence against civilians,Abduction/forced disappearance,Police Forces of Vietnam (1976-),,Civilians (Vietnam),Journalists (Vietnam),Vietnam,Da Nang,Hai Chau,Da Nang,16.0677,108.221,3,International,0,VNM
+VNM528,2019-12-08,1,Violence against civilians,Attack,Police Forces of Vietnam (1976-),Government of Vietnam (1976-),Civilians (Vietnam),Catholic Christian Group (Vietnam),Vietnam,Ho Chi Minh,Tan Binh,Phuong 6,10.7847,106.6592,1,International,0,VNM
+VNM526,2019-11-12,1,Protests,Peaceful protest,Protesters (Vietnam),Police Forces of Vietnam (1976-),,,Vietnam,Hanoi,Dong Da,Hanoi,21.0245,105.841,1,International,0,VNM
+VNM529,2019-12-24,1,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Hanoi,Soc Son,Soc Son,21.2726,105.8295,2,National,0,VNM
+VNM460,2019-01-04,1,Violence against civilians,Attack,Police Forces of Vietnam (1976-),,Civilians (Vietnam),Catholic Christian Group (Vietnam),Vietnam,Ho Chi Minh,Tan Binh,Phuong 6,10.7847,106.6592,1,Other-International,0,VNM
+VNM461,2019-01-08,1,Strategic developments,Looting/property destruction,Police Forces of Vietnam (1976-),,Civilians (Vietnam),Catholic Christian Group (Vietnam),Vietnam,Ho Chi Minh,Tan Binh,Phuong 6,10.7847,106.6592,1,Other-International,0,VNM
+VNM523,2019-10-11,2,Violence against civilians,Attack,Police Forces of Vietnam (1976-) Prison Guards,Prisoners (Vietnam),Civilians (Vietnam),Prisoners (Vietnam),Vietnam,Ben Tre,Ben Tre,Binh Phu,10.2446,106.3458,1,Other-International,0,VNM
+VNM549,2019-01-14,1,Protests,Protest with intervention,Protesters (Vietnam),Journalists (Vietnam),Police Forces of Vietnam (1976-),,Vietnam,Ho Chi Minh,Binh Tan,Binh Tan,10.7686,106.5968,1,Other,0,VNM
+VNM550,2019-06-12,1,Protests,Protest with intervention,Protesters (Vietnam),,Police Forces of Vietnam (1976-),,Vietnam,Hanoi,Dong Da,Hanoi,21.0245,105.841,1,Other,0,VNM
+VNM548,2019-01-28,1,Violence against civilians,Attack,Police Forces of Vietnam (1976-),,Civilians (Vietnam),,Vietnam,Hanoi,Bac Tu Liem,Thuy Phuong,21.0841,105.7687,1,Other,0,VNM
+VNM547,2019-09-18,2,Violence against civilians,Attack,Police Forces of Vietnam (1976-) Prison Guards,Prisoners (Vietnam),Civilians (Vietnam),Prisoners (Vietnam),Vietnam,Ben Tre,Ben Tre,Binh Phu,10.2446,106.3458,1,Other,0,VNM
+VNM551,2019-08-22,1,Protests,Protest with intervention,Protesters (Vietnam),Green Trees (Vietnam),Police Forces of Vietnam (1976-),,Vietnam,Hanoi,Hoan Kiem,Hoan Kiem,21.0285,105.8506,1,Other,0,VNM
+VNM520,2019-10-06,1,Strategic developments,Other,Unidentified Armed Group (Vietnam),,Police Forces of Vietnam (1976-),,Vietnam,Quang Ninh,Ha Long,Ha Long,20.9505,107.0734,2,National,0,VNM
+VNM546,2019-01-28,1,Violence against civilians,Abduction/forced disappearance,Police Forces of Vietnam (1976-),,Civilians (Vietnam),Health Workers (Vietnam); Women (Vietnam),Vietnam,Ho Chi Minh,District 5,Phuong 8,10.7562,106.6711,1,Other,0,VNM
+VNM527,2019-10-20,2,Violence against civilians,Attack,Police Forces of Vietnam (1976-) Prison Guards,,Civilians (Vietnam),Prisoners (Vietnam),Vietnam,Nghe An,Vinh,Vinh,18.6796,105.6813,3,International,0,VNM
+VNM469,2019-01-29,1,Violence against civilians,Attack,Police Forces of Vietnam (1976-),,Civilians (Vietnam),,Vietnam,Phu Yen,Tuy Hoa,Tuy Hoa,13.0954,109.3209,2,International,0,VNM
+VNM468,2019-01-27,1,Violence against civilians,Attack,Unidentified Armed Group (Vietnam),,Civilians (Vietnam),Journalists (Vietnam),Vietnam,Kon Tum,Kon Tum,Kon Tum,14.3545,108.0075,3,National,0,VNM
+VNM467,2019-01-26,1,Violence against civilians,Attack,Unidentified Armed Group (Vietnam),,Civilians (Vietnam),Journalists (Vietnam),Vietnam,Tuyen Quang,Tuyen Quang,Tuyen Quang,21.8235,105.2142,3,National,0,VNM
+VNM499,2019-05-12,1,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Hanoi,Dong Da,Hanoi,21.0245,105.841,2,National,0,VNM
+VNM525,2019-05-20,1,Protests,Excessive force against protesters,Protesters (Vietnam),Women (Vietnam),Police Forces of Vietnam (1976-),,Vietnam,Hanoi,Dong Da,Hanoi,21.0245,105.841,1,Other,0,VNM
+VNM462,2019-01-11,1,Riots,Mob violence,Rioters (Vietnam),,Private Security Forces (Vietnam),,Vietnam,Hanoi,Dong Da,Hanoi,21.0245,105.841,1,National,0,VNM
+VNM470,2019-02-11,1,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Ha Tinh,Ky Anh,Ky Anh,18.0686,106.298,2,National,0,VNM
+VNM474,2019-02-16,1,Riots,Mob violence,Rioters (Vietnam),,Police Forces of Vietnam (1976-),,Vietnam,Da Nang,Hai Chau,Da Nang,16.0677,108.221,3,National,0,VNM
+VNM497,2019-05-07,1,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Hoa Binh,Hoa Binh,Hoa Binh,20.8171,105.3375,2,National,0,VNM
+VNM498,2019-05-08,1,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Hoa Binh,Hoa Binh,Hoa Binh,20.8171,105.3375,2,National,0,VNM
+VNM524,2019-09-30,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Vietnam),,,,Vietnam,Binh Duong,Thu Dau Mot,Phu Cuong,10.9827,106.6528,1,National,0,VNM
+VNM463,2019-01-10,1,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Hanoi,Dong Da,Hanoi,21.0245,105.841,1,National,0,VNM
+VNM464,2019-01-11,1,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Hanoi,Dong Da,Hanoi,21.0245,105.841,1,National,0,VNM
+VNM465,2019-01-12,1,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Hanoi,Dong Da,Hanoi,21.0245,105.841,1,National,0,VNM
+VNM466,2019-01-13,1,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Hanoi,Dong Da,Hanoi,21.0245,105.841,1,National,0,VNM
+VNM489,2019-03-04,1,Riots,Mob violence,Rioters (Vietnam),Labor Group (Vietnam),Rioters (Indonesia),Labor Group (Indonesia),Vietnam,Quang Ninh,Uong Bi,Uong Bi,21.0343,106.7704,1,National,0,VNM
+VNM491,2019-03-05,1,Riots,Mob violence,Rioters (Vietnam),Labor Group (Vietnam),Rioters (Indonesia),Labor Group (Indonesia),Vietnam,Quang Ninh,Uong Bi,Uong Bi,21.0343,106.7704,1,National,0,VNM
+VNM502,2019-06-10,1,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Hoa Binh,Hoa Binh,Hoa Binh,20.8171,105.3375,3,National,0,VNM
+VNM503,2019-06-11,1,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Hoa Binh,Hoa Binh,Hoa Binh,20.8171,105.3375,3,National,0,VNM
+VNM522,2019-10-07,2,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Ha Tinh,Ky Anh,Ky Tan,18.0653,106.273,1,National,0,VNM
+VNM496,2019-03-08,1,Protests,Protest with intervention,Protesters (Vietnam),Catholic Christian Group (Vietnam); Women (Vietnam),Police Forces of Vietnam (1976-),,Vietnam,Ho Chi Minh,Tan Binh,Ho Chi Minh,10.823,106.63,1,International,0,VNM

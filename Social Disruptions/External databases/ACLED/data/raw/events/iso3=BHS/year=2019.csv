@@ -1,0 +1,18 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+BHS8,2019-11-28,1,Protests,Peaceful protest,Protesters (Bahamas),Labor Group (Bahamas); BHCAWU: Bahamas Hotel Catering and Allied Workers Union,,,Bahamas,New Providence,,Nassau,25.0582,-77.3431,1,National,0,BHS
+BHS1,2019-01-30,1,Protests,Peaceful protest,Protesters (Bahamas),Taxi/Bus Drivers (Bahamas),,,Bahamas,New Providence,,Nassau,25.0582,-77.3431,1,National,0,BHS
+BHS6,2019-08-27,1,Protests,Peaceful protest,Protesters (Bahamas),Health Workers (Bahamas),,,Bahamas,New Providence,,Nassau,25.0582,-77.3431,1,National,0,BHS
+BHS5,2019-08-22,1,Protests,Peaceful protest,Protesters (Bahamas),BPSU: Bahamas Public Services Union; Labor Group (Bahamas),,,Bahamas,New Providence,,Nassau,25.0582,-77.3431,1,National,0,BHS
+BHS3,2019-05-21,1,Protests,Peaceful protest,Protesters (Bahamas),Labor Group (Bahamas),,,Bahamas,New Providence,,Nassau,25.0582,-77.3431,1,National,0,BHS
+BHS2,2019-02-06,1,Protests,Peaceful protest,Protesters (Bahamas),,,,Bahamas,New Providence,,Nassau,25.0582,-77.3431,1,National,0,BHS
+BHS4,2019-08-01,1,Violence against civilians,Attack,Police Forces of the Bahamas (2017-2021),,Civilians (Bahamas),,Bahamas,New Providence,,Nassau,25.0582,-77.3431,1,National,0,BHS
+BHS7,2019-09-04,1,Battles,Armed clash,Unidentified Armed Group (Bahamas),Unidentified Armed Group (Haiti),Police Forces of the Bahamas (2017-2021),,Bahamas,Central Abaco,,Marsh Harbour,26.5338,-77.0825,2,Regional,0,BHS
+BHS107,2019-01-06,1,Strategic developments,Arrests,Military Forces of the Bahamas (2017-2021),,Civilians (Haiti),Refugees/IDPs (Haiti),Bahamas,New Providence,,Coast of Nassau,25.0959,-77.351,3,Regional,0,BHS
+BHS108,2019-01-03,1,Strategic developments,Arrests,Police Forces of the Bahamas (2017-2021),,Civilians (Haiti),Refugees/IDPs (Haiti),Bahamas,Hope Town,,Coast of Man-o-War Cay,26.6152,-76.9496,3,Regional,0,BHS
+BHS109,2019-01-21,1,Strategic developments,Arrests,Military Forces of the Bahamas (2017-2021),,Civilians (Haiti),Refugees/IDPs (Haiti),Bahamas,Bimini,,Coast of Sal Cay Bank,23.8267,-80.0759,3,Regional,0,BHS
+BHS110,2019-02-17,1,Strategic developments,Arrests,Military Forces of the Bahamas (2017-2021),,Civilians (Haiti),Refugees/IDPs (Haiti),Bahamas,Exuma,,Coast of Exuma,24.0963,-76.3838,3,Regional,0,BHS
+BHS111,2019-04-09,1,Strategic developments,Arrests,Military Forces of the Bahamas (2017-2021),,Civilians (Haiti),Refugees/IDPs (Haiti),Bahamas,Inagua,,Matthew Town,20.9474,-73.6738,3,Regional,0,BHS
+BHS112,2019-06-13,1,Strategic developments,Arrests,Military Forces of the United States (2017-2021),Military Forces of the Bahamas (2017-2021); Military Forces of the Turks and Caicos Islands (2016-2021),Civilians (Haiti),Refugees/IDPs (Haiti),Bahamas,Inagua,,Coast of Inagua,21.2101,-73.0066,3,Regional,0,BHS
+BHS113,2019-06-22,1,Strategic developments,Arrests,Military Forces of the Bahamas (2017-2021),,Civilians (Haiti),Refugees/IDPs (Haiti),Bahamas,Inagua,,Coast of Inagua,21.2101,-73.0066,3,Regional,0,BHS
+BHS114,2019-07-31,1,Strategic developments,Arrests,Police Forces of the Bahamas (2017-2021),Military Forces of the Bahamas (2017-2021),Unidentified Gang (Haiti),Civilians (Haiti); Refugees/IDPs (Haiti),Bahamas,North Abaco,,Treasure Cay,26.6774,-77.2895,3,Regional,0,BHS
+BHS115,2019-12-21,1,Strategic developments,Arrests,Military Forces of the Bahamas (2017-2021),,Civilians (Haiti),Refugees/IDPs (Haiti),Bahamas,Inagua,,Coast of Inagua,21.2101,-73.0066,2,Regional,0,BHS

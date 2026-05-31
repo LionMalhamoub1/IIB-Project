@@ -1,0 +1,60 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities
+ZAM1188,2018-09-19,2,Protests,Peaceful protest,Protesters (Zambia),Students (Zambia),,,Zambia,Copperbelt,Kitwe,Kitwe,-12.82,28.2,1,National,0
+ZAM1191,2018-08-04,2,Riots,Mob violence,Rioters (Zambia),Vigilante Group (Zambia),Civilians (Zambia),,Zambia,Copperbelt,Masaiti,Masaiti,-13.2599,28.4081,2,National,1
+ZAM1149,2018-01-28,1,Protests,Peaceful protest,Protesters (Zambia),Women (Zambia),,,Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,1,National,0
+ZAM1167,2018-05-22,1,Violence against civilians,Attack,Unidentified Armed Group (Zambia),,Civilians (Zambia),Women (Zambia),Zambia,Lusaka,Kafue,Chilanga,-15.5708,28.2701,1,National,0
+ZAM1152,2018-02-15,2,Violence against civilians,Attack,PF: Patriotic Front,,Civilians (Zambia),UPND: United Party for National Development,Zambia,Eastern,Petauke,Sinda,-14.2296,31.7097,1,National,0
+ZAM1151,2018-02-19,1,Protests,Peaceful protest,Protesters (Zambia),Teachers (Zambia),,,Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,1,National,0
+ZAM1184,2018-11-14,2,Protests,Peaceful protest,Protesters (Zambia),PF: Patriotic Front,,,Zambia,Copperbelt,Ndola,Ndola,-12.9666,28.6333,1,National,0
+ZAM1168,2018-07-20,1,Strategic developments,Agreement,PF: Patriotic Front,,UPND: United Party for National Development,,Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,1,International,0
+ZAM1170,2018-08-29,1,Riots,Mob violence,Rioters (Zambia),Vigilante Group (Zambia),Civilians (Zambia),,Zambia,Muchinga,Mafinga,Muyombe,-10.5833,33.4667,2,International,2
+ZAM1181,2018-10-18,1,Riots,Mob violence,Rioters (Zambia),UPND: United Party for National Development,Civilians (Zambia),EEP: Economic and Equity Party,Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,1,Subnational,0
+ZAM1190,2018-08-20,2,Riots,Mob violence,Rioters (Zambia),Vigilante Group (Zambia),Police Forces of Zambia (2011-2021),Civilians (Zambia),Zambia,Copperbelt,Kalulushi,Kalulushi,-12.8333,28.0833,2,National,0
+ZAM1145,2018-01-10,1,Violence against civilians,Attack,Police Forces of Zambia (2011-2021),,Civilians (Zambia),,Zambia,Copperbelt,Kitwe,Ndeke,-12.8515,28.2428,1,National,1
+ZAM1195,2018-01-15,2,Protests,Protest with intervention,Protesters (Zambia),Labor Group (Zambia),Police Forces of Zambia (2011-2021),Military Forces of Zambia (2011-2021),Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,1,National,0
+ZAM1158,2018-04-21,2,Violence against civilians,Attack,PF: Patriotic Front,,Civilians (Zambia),UPND: United Party for National Development,Zambia,Muchinga,Shiwangandu,Shiwangandu,-10.989,31.693,1,National,0
+ZAM1157,2018-04-13,1,Violence against civilians,Sexual violence,UPND: United Party for National Development,,Civilians (Zambia),PF: Patriotic Front; Women (Zambia),Zambia,Southern,Monze,Monze,-16.3166,27.1833,1,International,0
+ZAM1156,2018-04-12,1,Riots,Mob violence,Police Forces of Zambia (2011-2021),,Rioters (Zambia),,Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,1,International,0
+ZAM1154,2018-03-22,1,Riots,Violent demonstration,Rioters (Zambia),Students (Zambia),Police Forces of Zambia (2011-2021),,Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,1,National,0
+ZAM1153,2018-03-14,1,Protests,Peaceful protest,Protesters (Zambia),,,,Zambia,North-Western,Solwezi,Solwezi,-12.1833,26.4,1,National,0
+ZAM1155,2018-03-14,2,Protests,Peaceful protest,Protesters (Zambia),PF: Patriotic Front,,,Zambia,Northern,Kasama,Kasama,-10.2166,31.2167,1,National,0
+ZAM1169,2018-08-13,1,Riots,Mob violence,Rioters (Zambia),Vigilante Group (Zambia),Civilians (Zambia),,Zambia,Copperbelt,Kalulushi,Chambishi,-12.6325,28.0537,1,International,0
+ZAM1166,2018-06-02,2,Protests,Peaceful protest,Protesters (Zambia),Taxi Drivers (Zambia),,,Zambia,Copperbelt,Chingola,Chingola,-12.5289,27.8836,1,International,0
+ZAM1164,2018-05-26,1,Violence against civilians,Attack,Unidentified Armed Group (Zambia),,Civilians (Zambia),,Zambia,Copperbelt,Chingola,Chiwempala,-12.55,27.8333,1,International,1
+ZAM1163,2018-05-21,1,Violence against civilians,Attack,Unidentified Armed Group (Zambia),,Civilians (Zambia),PF: Patriotic Front,Zambia,Southern,Siavonga,Siavonga,-16.5382,28.7088,1,International,1
+ZAM1162,2018-05-19,1,Violence against civilians,Attack,Mulundu Communal Militia (Zambia),,Civilians (Zambia),,Zambia,Luapula,Mwense,Mulundu,-10.5254,28.6551,1,International,1
+ZAM1161,2018-05-19,1,Riots,Mob violence,Police Forces of Zambia (2011-2021),,Rioters (Zambia),,Zambia,Luapula,Mwense,Mulundu,-10.5254,28.6551,1,International,0
+ZAM1160,2018-05-16,1,Riots,Mob violence,Police Forces of Zambia (2011-2021),,Rioters (Zambia),,Zambia,North-Western,Chavuma,Chavuma,-13.0666,22.6833,1,International,0
+ZAM1159,2018-05-13,1,Riots,Mob violence,Rioters (Zambia),UPND: United Party for National Development,Rioters (Zambia),PF: Patriotic Front,Zambia,Lusaka,Kafue,Chilanga,-15.5708,28.2701,1,National,0
+ZAM1203,2018-12-22,1,Protests,Peaceful protest,Protesters (Zambia),Government of Zambia (2011-2021); Labor Group (Zambia),,,Zambia,Western,Mongu,Mongu,-15.25,23.1333,1,National,0
+ZAM1201,2018-12-21,1,Protests,Peaceful protest,Protesters (Zambia),Government of Zambia (2011-2021); Labor Group (Zambia),,,Zambia,Central,Kabwe,Kabwe,-14.4469,28.4464,1,National,0
+ZAM1202,2018-12-21,1,Protests,Peaceful protest,Protesters (Zambia),Government of Zambia (2011-2021); Labor Group (Zambia),,,Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,1,Subnational,0
+ZAM1200,2018-12-18,1,Riots,Mob violence,Rioters (Zambia),Vigilante Group (Zambia),Civilians (Zambia),,Zambia,Central,Mkushi,Luano,-14.1148,30.1417,2,National,1
+ZAM1147,2018-01-23,1,Violence against civilians,Attack,PF: Popular Front,,Civilians (Zambia),NDC: National Democratic Congress (Zambia),Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,1,National,0
+ZAM1183,2018-11-12,1,Battles,Armed clash,PF: Patriotic Front,Police Forces of Zambia (2011-2021),UPND: United Party for National Development,Police Forces of Zambia (2011-2021),Zambia,North-Western,Solwezi,Solwezi,-12.1833,26.4,1,National-International,0
+ZAM1178,2018-10-14,1,Violence against civilians,Attack,Unidentified Armed Group (Zambia),,Civilians (Zambia),Women (Zambia),Zambia,Western,Lukulu,Kabompo,-14.1835,23.1809,2,National,1
+ZAM1175,2018-10-08,1,Protests,Peaceful protest,Protesters (Zambia),Students (Zambia),,,Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,1,Subnational-International,0
+ZAM1193,2018-10-05,1,Riots,Violent demonstration,Rioters (Zambia),Labor Group (Zambia),Police Forces of Zambia (2011-2021),,Zambia,Central,Mumbwa,Kamwala,-15.4194,27.2987,1,National,1
+ZAM1186,2018-09-24,1,Riots,Violent demonstration,Rioters (Zambia),,Police Forces of Zambia (2011-2021),,Zambia,Eastern,Chadiza,Chadiza,-14.0678,32.4392,1,National,0
+ZAM1187,2018-09-21,1,Riots,Mob violence,Rioters (Zambia),Vigilante Group (Zambia),Civilians (Zambia),,Zambia,Luapula,Mwense,Mwense,-10.3833,28.6833,2,National,1
+ZAM1189,2018-07-09,1,Riots,Violent demonstration,Rioters (Zambia),Students (Zambia),,,Zambia,Eastern,Chipata,Chipata,-13.6333,32.65,1,National,0
+ZAM1192,2018-07-07,1,Violence against civilians,Attack,Police Forces of Zambia (2011-2021),,Civilians (Zambia),,Zambia,Copperbelt,Masaiti,Malembeka,-13.464,28.5184,1,National,1
+ZAM1194,2018-03-07,1,Violence against civilians,Attack,PF: Patriotic Front,,Civilians (Zambia),UPND: United Party for National Development,Zambia,Northern,Kasama,Kasama,-10.2166,31.2167,1,National,0
+ZAM1496,2018-03-15,2,Violence against civilians,Attack,Police Forces of Zambia (2011-2021),,Civilians (Zambia),Prisoners (Zambia),Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,1,National,1
+ZAM1199,2018-12-14,1,Riots,Violent demonstration,Rioters (Zambia),,Police Forces of Zambia (2011-2021),,Zambia,Copperbelt,Ndola,Ndola,-12.9666,28.6333,1,National,0
+ZAM1198,2018-12-07,1,Strategic developments,Other,Government of Zambia (2011-2021),PF: Patriotic Front,,,Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,1,International,0
+ZAM1197,2018-12-06,2,Riots,Mob violence,Rioters (Zambia),Vigilante Group (Zambia),Civilians (Zambia),,Zambia,Northern,Kasama,Kasama,-10.2166,31.2167,1,International,1
+ZAM1196,2018-11-25,1,Protests,Protest with intervention,Protesters (Zambia),PF: Patriotic Front,Police Forces of Zambia (2011-2021),,Zambia,Copperbelt,Luanshya,Luanshya,-13.1367,28.4166,1,National-International,0
+ZAM1185,2018-11-23,1,Violence against civilians,Attack,Police Forces of Zambia (2011-2021),,Civilians (Zambia),,Zambia,North-Western,Solwezi,Solwezi,-12.1833,26.4,1,National,1
+ZAM1182,2018-10-29,1,Protests,Protest with intervention,Protesters (Zambia),Students (Zambia),Police Forces of Zambia (2011-2021),,Zambia,Copperbelt,Kitwe,Kitwe,-12.82,28.2,1,National,0
+ZAM1180,2018-10-16,2,Riots,Violent demonstration,Rioters (Zambia),Students (Zambia),Police Forces of Zambia (2011-2021),,Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,1,Subnational-National,0
+ZAM1179,2018-10-15,1,Protests,Peaceful protest,Protesters (Zambia),,,,Zambia,Copperbelt,Kitwe,Kitwe,-12.82,28.2,1,National,0
+ZAM1176,2018-10-12,1,Riots,Mob violence,Rioters (Zambia),Vigilante Group (Zambia),Civilians (Zambia),Journalists (Zambia),Zambia,Copperbelt,Kitwe,Kitwe,-12.82,28.2,1,National,0
+ZAM1150,2018-02-11,1,Strategic developments,Looting/property destruction,UPND: United Party for National Development,,PF: Patriotic Front,,Zambia,Central,Mumbwa,Nampundwe,-15.5082,27.9244,1,National,0
+ZAM1171,2018-09-05,2,Violence against civilians,Attack,UPND: United Party for National Development,,Civilians (Zambia),Government of Zambia (2011-2021),Zambia,North-Western,Kasempa,Kasempa,-13.4584,25.8338,1,Regional,0
+ZAM1172,2018-09-24,1,Riots,Violent demonstration,Rioters (Zambia),,Police Forces of Zambia (2011-2021),,Zambia,Copperbelt,Kitwe,Buchi,-12.7912,28.2078,1,National,1
+ZAM1177,2018-10-14,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Zambia),,,,Zambia,Western,Lukulu,Kabompo,-14.1835,23.1809,2,Regional,0
+ZAM1173,2018-10-04,1,Riots,Violent demonstration,Rioters (Zambia),Students (Zambia),Police Forces of Zambia (2011-2021),,Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,1,Other-Regional,0
+ZAM1174,2018-10-05,1,Riots,Violent demonstration,Rioters (Zambia),Students (Zambia),Police Forces of Zambia (2011-2021),,Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,1,Other-Subnational,1
+ZAM1146,2018-01-12,1,Riots,Violent demonstration,Rioters (Zambia),,Police Forces of Zambia (2011-2021),Military Forces of Zambia (2011-2021),Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,1,National-International,0
+ZAM1165,2018-06-01,1,Riots,Violent demonstration,Rioters (Zambia),,Police Forces of Zambia (2011-2021),,Zambia,Copperbelt,Chingola,Chiwempala,-12.55,27.8333,1,National,0

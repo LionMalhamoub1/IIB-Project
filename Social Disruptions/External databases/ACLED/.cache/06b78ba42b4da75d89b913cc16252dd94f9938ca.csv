@@ -1,0 +1,68 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities
+BEN215,2019-04-27,1,Riots,Violent demonstration,Rioters (Benin),,Police Forces of Benin (2016-),,Benin,Borgou,Tchaourou,Tchaourou,8.8865,2.5975,1,Local partner-Other,0
+BEN218,2019-04-28,1,Riots,Violent demonstration,Rioters (Benin),,Police Forces of Benin (2016-),,Benin,Collines,Bante,Bante,8.4126,1.8924,1,Local partner-Other,1
+BEN229,2019-06-12,1,Riots,Violent demonstration,Rioters (Benin),,Police Forces of Benin (2016-),,Benin,Borgou,Tchaourou,Tchaourou,8.8865,2.5975,1,Local partner-Other,0
+BEN230,2019-06-13,1,Battles,Armed clash,Hunters Militia (Benin),,Police Forces of Benin (2016-),,Benin,Borgou,Tchaourou,Tchaourou,8.8865,2.5975,1,Local partner-Other,0
+BEN232,2019-06-14,1,Riots,Violent demonstration,Rioters (Benin),,Police Forces of Benin (2016-),,Benin,Borgou,Tchaourou,Tchaourou,8.8865,2.5975,1,Local partner-Other,0
+BEN233,2019-06-15,1,Riots,Violent demonstration,Rioters (Benin),,Police Forces of Benin (2016-),,Benin,Borgou,Tchaourou,Tchaourou,8.8865,2.5975,1,Local partner-Other,2
+BEN234,2019-08-12,1,Riots,Violent demonstration,Rioters (Benin),,Police Forces of Benin (2016-),,Benin,Borgou,N-Dali,N'dali,9.8636,2.7209,1,Local partner-Other,3
+BEN251,2019-12-04,1,Riots,Violent demonstration,Rioters (Benin),,Police Forces of Benin (2016-),,Benin,Alibori,Segbana,Segbana,10.9282,3.6943,1,Local partner-Other,0
+BEN432,2019-12-18,1,Violence against civilians,Attack,Unidentified Communal Militia (Benin),Farmers (Benin),Civilians (Benin),Fulani Ethnic Group (Benin); Pastoralists (Benin),Benin,Atacora,Cobli,Cobly,10.4922,0.9997,2,Local partner-Other,2
+BEN431,2019-12-27,1,Riots,Mob violence,Rioters (Benin),Farmers (Benin),Civilians (Benin),Fulani Ethnic Group (Benin); Pastoralists (Benin),Benin,Atacora,Cobli,Datori,10.4131,0.7881,1,Local partner-Other,0
+BEN436,2019-07-16,1,Riots,Violent demonstration,Rioters (Benin),,Police Forces of Benin (2016-),,Benin,Collines,Save,Save,8.0342,2.4866,1,Local partner-Other,0
+BEN433,2019-11-07,1,Riots,Mob violence,Rioters (Benin),Vigilante Group (Benin),Civilians (Benin),Women (Benin),Benin,Atacora,Tanguieta,Tchanwassaga,10.7435,1.3882,2,Local partner-Other,1
+BEN220,2019-05-01,1,Riots,Violent demonstration,Rioters (Benin),,,,Benin,Alibori,Kandi,Kandi,11.1342,2.9386,1,National,0
+BEN437,2019-01-05,1,Riots,Violent demonstration,Rioters (Benin),,,,Benin,Alibori,Kandi,Kandi,11.1342,2.9386,1,Local partner-Other,0
+BEN435,2019-09-11,1,Riots,Mob violence,Rioters (Benin),Vigilante Group (Benin),Civilians (Benin),Fulani Ethnic Group (Benin); Pastoralists (Benin),Benin,Borgou,Parakou,Parakou,9.35,2.6167,1,Local partner-Other,0
+BEN211,2019-04-23,1,Protests,Protest with intervention,Protesters (Benin),PRD: Democratic Renewal Party; Women (Benin),Police Forces of Benin (2016-),,Benin,Oueme,Porto-Novo,Porto-Novo,6.4833,2.6167,1,National,0
+BEN255,2019-12-30,1,Protests,Peaceful protest,Protesters (Benin),Labor Group (Benin),,,Benin,Littoral,Cotonou,Cotonou,6.3557,2.4353,1,Subnational-National,0
+BEN254,2019-12-18,1,Violence against civilians,Attack,Fulani Ethnic Militia (Benin),Pastoralists (Benin),Civilians (Benin),,Benin,Atacora,Cobli,Cobly,10.4922,0.9997,2,New media-National,1
+BEN253,2019-12-17,1,Protests,Peaceful protest,Protesters (Benin),National Resistance (Benin),,,Benin,Borgou,Parakou,Parakou,9.35,2.6167,1,National,0
+BEN252,2019-12-05,1,Protests,Protest with intervention,Protesters (Benin),,Police Forces of Benin (2016-),,Benin,Couffo,Klouekanme,Klouekanme,6.9803,1.8422,1,National,0
+BEN191,2019-01-05,1,Violence against civilians,Abduction/forced disappearance,Pirates (Benin),,Civilians (International),Civilians (Russia),Benin,,,Coast of Benin,6.2375,2.1643,3,New media,0
+BEN192,2019-01-09,1,Protests,Peaceful protest,Protesters (Benin),,,,Benin,Mono,Lokossa,Lokossa,6.63,1.72,1,National,0
+BEN193,2019-01-09,1,Battles,Armed clash,Hetin-Sota Communal Militia (Benin),Farmers (Benin),Agongue Communal Militia (Benin),Farmers (Benin),Benin,Oueme,Dangbo,Hetin-Sota,6.5858,2.492,1,National,4
+BEN194,2019-01-31,1,Protests,Peaceful protest,Protesters (Benin),Teachers (Benin),,,Benin,Littoral,Cotonou,Cotonou,6.3557,2.4353,1,Subnational,0
+BEN195,2019-02-05,1,Violence against civilians,Attack,Unidentified Armed Group (Benin),,Civilians (Benin),Fulani Ethnic Group (Benin); Pastoralists (Benin),Benin,Plateau,Ketou,Adakplame,7.4539,2.5473,2,National,1
+BEN196,2019-02-17,1,Riots,Violent demonstration,Rioters (Benin),Hunters Militia (Benin),,,Benin,Atacora,Tanguieta,Tanguieta,10.6212,1.2665,1,National,0
+BEN197,2019-02-25,1,Protests,Protest with intervention,Protesters (Benin),USL: Social Liberal Union,Police Forces of Benin (2016-),,Benin,Oueme,Seme-Podji,Seme Kpodji,6.3667,2.6167,1,National,0
+BEN198,2019-02-25,1,Protests,Protest with intervention,Protesters (Benin),USL: Social Liberal Union,Police Forces of Benin (2016-),,Benin,Oueme,Porto-Novo,Porto-Novo,6.4833,2.6167,1,National,0
+BEN199,2019-02-25,1,Riots,Violent demonstration,Rioters (Benin),USL: Social Liberal Union,Police Forces of Benin (2016-),,Benin,Borgou,Tchaourou,Tchaourou,8.8865,2.5975,2,National,0
+BEN200,2019-02-25,1,Protests,Protest with intervention,Protesters (Benin),USL: Social Liberal Union,Police Forces of Benin (2016-),,Benin,Atlantique,Allada,Allada,6.6655,2.1514,1,National,0
+BEN201,2019-02-25,1,Protests,Protest with intervention,Protesters (Benin),USL: Social Liberal Union,Police Forces of Benin (2016-),,Benin,Atlantique,Tori-Bossito,Tori-Bossito,6.503,2.1441,1,National,0
+BEN202,2019-02-26,1,Riots,Violent demonstration,Rioters (Benin),USL: Social Liberal Union,Police Forces of Benin (2016-),,Benin,Collines,Ouesse,Kilibo,8.5762,2.5999,1,National,1
+BEN204,2019-03-15,1,Riots,Violent demonstration,Rioters (Benin),Prisoners (Benin),,,Benin,Oueme,Akpro-Misserete,Misserete,6.5587,2.5906,1,National,0
+BEN205,2019-04-04,1,Protests,Peaceful protest,Protesters (Benin),,,,Benin,Couffo,Dogbo,Dogbo,6.7991,1.7807,1,National-International,0
+BEN206,2019-04-04,1,Protests,Peaceful protest,Protesters (Benin),,,,Benin,Couffo,Aplahoue,Azove,6.9467,1.702,1,National-International,0
+BEN207,2019-04-04,1,Protests,Peaceful protest,Protesters (Benin),,,,Benin,Couffo,Toviklin,Toviklin,6.8894,1.8372,1,National-International,0
+BEN208,2019-04-04,1,Protests,Peaceful protest,Protesters (Benin),,,,Benin,Couffo,Djakotomey,Djakotomey,6.898,1.6916,1,National-International,0
+BEN209,2019-04-04,1,Protests,Peaceful protest,Protesters (Benin),,,,Benin,Couffo,Lalo,Lalo,6.9287,1.8899,1,National-International,0
+BEN210,2019-04-04,1,Protests,Protest with intervention,Protesters (Benin),,Police Forces of Benin (2016-),,Benin,Littoral,Cotonou,Cotonou,6.3557,2.4353,1,Subnational-International,0
+BEN212,2019-04-27,1,Riots,Violent demonstration,Rioters (Benin),,Police Forces of Benin (2016-),,Benin,Collines,Save,Save,8.0342,2.4866,1,National,0
+BEN213,2019-04-27,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Benin),,Civilians (Benin),Government of Benin (2016-); CENA: Autonomous National Electoral Commission,Benin,Borgou,Nikki,Alafiarou,9.9033,3.4158,1,National,0
+BEN214,2019-04-27,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Benin),,Civilians (Benin),Government of Benin (2016-); CENA: Autonomous National Electoral Commission,Benin,Oueme,Adjohoun,Akpotonou,6.7644,2.481,1,National,0
+BEN216,2019-04-28,1,Riots,Mob violence,Rioters (Benin),,Rioters (Benin),,Benin,Borgou,Parakou,Parakou,9.35,2.6167,1,National,1
+BEN217,2019-04-28,1,Riots,Violent demonstration,Rioters (Benin),,Civilians (Benin),Journalists (Benin),Benin,Borgou,Tchaourou,Tchaourou,8.8865,2.5975,1,National,0
+BEN219,2019-04-28,1,Riots,Violent demonstration,Rioters (Benin),,Police Forces of Benin (2016-),,Benin,Collines,Save,Save,8.0342,2.4866,1,National,0
+BEN221,2019-05-01,1,Riots,Violent demonstration,Rioters (Benin),,Police Forces of Benin (2016-),Military Forces of Benin (2016-),Benin,Littoral,Cotonou,Cotonou,6.3557,2.4353,1,National,0
+BEN222,2019-05-02,1,Riots,Violent demonstration,Rioters (Benin),,Police Forces of Benin (2016-),Military Forces of Benin (2016-),Benin,Littoral,Cotonou,Cotonou,6.3557,2.4353,1,National-International,3
+BEN225,2019-05-31,2,Battles,Armed clash,Fulani Ethnic Militia (Benin),Pastoralists (Benin),Unidentified Ethnic Militia (Benin),Farmers (Benin),Benin,Collines,Dassa-Zoume,Akofodjoule,7.6937,2.2673,1,National,1
+BEN226,2019-06-02,2,Violence against civilians,Attack,Fulani Ethnic Militia (Benin),Pastoralists (Benin),Civilians (Benin),,Benin,Collines,Dassa-Zoume,Akofodjoule,7.6937,2.2673,1,National,4
+BEN227,2019-06-10,1,Riots,Violent demonstration,Rioters (Benin),,,,Benin,Borgou,Tchaourou,Tchaourou,8.8865,2.5975,1,National,0
+BEN228,2019-06-11,1,Riots,Violent demonstration,Rioters (Benin),,Police Forces of Benin (2016-),,Benin,Borgou,Tchaourou,Tchaourou,8.8865,2.5975,1,National,0
+BEN231,2019-06-13,1,Battles,Armed clash,Save Communal Militia (Benin),,Military Forces of Benin (2016-),,Benin,Collines,Save,Save,8.0342,2.4866,1,National,1
+BEN235,2019-08-24,1,Protests,Protest with intervention,Protesters (Benin),Teachers (Benin),Police Forces of Benin (2016-),,Benin,Borgou,Parakou,Parakou,9.35,2.6167,1,National,0
+BEN241,2019-05-03,1,Battles,Armed clash,Ketou Communal Militia (Benin),Farmers (Benin),Fulani Ethnic Militia (Benin),Pastoralists (Benin),Benin,Plateau,Ketou,Ketou,7.3633,2.5998,2,New media,2
+BEN242,2019-05-22,1,Strategic developments,Looting/property destruction,Akpakanme Communal Militia (Benin),Police Forces of Benin (2016-),Civilians (Benin),Fulani Ethnic Group (Benin); Pastoralists (Benin),Benin,Oueme,Akpro-Misserete,Misserete,6.5587,2.5906,2,New media,0
+BEN243,2019-08-04,1,Violence against civilians,Attack,Unidentified Armed Group (Benin),,Civilians (Benin),Pastoralists (Benin),Benin,Collines,Ouesse,Ouesse,8.4942,2.4228,1,New media,1
+BEN244,2019-08-04,1,Battles,Armed clash,Hunters Militia (Benin),,Unidentified Armed Group (Benin),,Benin,Collines,Ouesse,Ouesse,8.4942,2.4228,1,New media,1
+BEN245,2019-09-25,1,Protests,Peaceful protest,Protesters (Benin),Teachers (Benin),,,Benin,Borgou,Parakou,Parakou,9.35,2.6167,1,National,0
+BEN246,2019-04-19,1,Protests,Protest with intervention,Protesters (Benin),Former Government of Benin (2016-),Police Forces of Benin (2016-),,Benin,Littoral,Cotonou,Cotonou,6.3557,2.4353,1,Other,0
+BEN247,2019-10-20,1,Violence against civilians,Attack,Fulani Ethnic Militia (Benin),Pastoralists (Benin),Civilians (Benin),Farmers (Benin),Benin,Collines,Glazoue,Aklankpa,8.1684,2.232,1,National,1
+BEN248,2019-11-02,1,Violence against civilians,Abduction/forced disappearance,Pirates (Benin),,Civilians (Philippines),,Benin,Littoral,Cotonou,Cotonou,6.3557,2.4353,2,National,0
+BEN249,2019-11-16,2,Strategic developments,Looting/property destruction,Police Forces of Nigeria (2015-2023) Nigeria Customs Service,,Civilians (Benin),,Benin,Plateau,Ifangni,Igolo,6.6487,2.7342,1,National,0
+BEN250,2019-11-16,2,Strategic developments,Looting/property destruction,Police Forces of Nigeria (2015-2023) Nigeria Customs Service,,Civilians (Benin),,Benin,Plateau,Pobe,Pobe,6.9801,2.6649,1,National,0
+BEN203,2019-03-11,1,Protests,Peaceful protest,Protesters (Benin),FCBE: Cowry Forces for an Emerging Benin; USL: Social Liberal Union; PRB: Renaissance Party of Benin; RE: Restore the Hope; PLP: Party for the Liberation of the People; PCB: Communist Party of Benin,,,Benin,Littoral,Cotonou,Cotonou,6.3557,2.4353,1,Subnational-International,0
+BEN434,2019-10-27,1,Riots,Mob violence,Rioters (Benin),Gogounou Communal Group (Benin),Rioters (Benin),Gogounou Communal Group (Benin),Benin,Alibori,Gogounou,Gogounou,10.8393,2.835,1,Local partner-Other,0
+BEN224,2019-05-03,1,Battles,Armed clash,Unidentified Communal Militia (Benin),,Police Forces of Benin (2016-),,Benin,Atacora,Kerou,Kerou,10.8258,2.1048,1,Local partner-Other,5
+BEN223,2019-05-01,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims and/or Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Civilians (Benin),Civilians (France); Police Forces of Benin (2016-) Forest Guards,Benin,Atacora,Materi,Porga,11.001,0.9908,2,Local partner-Other,1

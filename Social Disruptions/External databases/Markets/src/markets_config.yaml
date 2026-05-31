@@ -1,0 +1,174 @@
+# =============================================================================
+# Markets Pipeline Configuration
+# =============================================================================
+# Run:  python src/markets_pipeline.py
+# All paths are resolved relative to the Markets/ folder root.
+
+# ---------------------------------------------------------------------------
+# Date range
+# ---------------------------------------------------------------------------
+start_date: "2017-01-01"
+end_date:   "2025-12-31"
+
+# ---------------------------------------------------------------------------
+# Countries  →  ISO3: currency-code
+#
+# Notes:
+#   - Countries whose currency IS USD should be omitted (no FX signal).
+#   - Countries whose FX ticker is unavailable on Yahoo Finance will produce
+#     a WARNING and be skipped gracefully (all FX columns → NaN for that country).
+#   - Tickers follow the convention:  USD{CCY}=X   (local units per 1 USD)
+# ---------------------------------------------------------------------------
+countries:
+  # Latin America
+  ARG: ARS   # Argentine Peso
+  BOL: BOB   # Bolivian Boliviano
+  BRA: BRL   # Brazilian Real
+  CHL: CLP   # Chilean Peso
+  COL: COP   # Colombian Peso
+  GTM: GTQ   # Guatemalan Quetzal
+  HND: HNL   # Honduran Lempira
+  MEX: MXN   # Mexican Peso
+  NIC: NIO   # Nicaraguan Córdoba
+  PER: PEN   # Peruvian Sol
+  PRY: PYG   # Paraguayan Guaraní
+  URY: UYU   # Uruguayan Peso
+  VEN: VES   # Venezuelan Bolívar Soberano
+
+  # Sub-Saharan Africa
+  AGO: AOA   # Angolan Kwanza
+  CMR: XAF   # CFA Franc BEAC (Central Africa)
+  COD: CDF   # Congolese Franc  (likely unavailable on Yahoo Finance)
+  ETH: ETB   # Ethiopian Birr
+  GHA: GHS   # Ghanaian Cedi
+  KEN: KES   # Kenyan Shilling
+  MDG: MGA   # Malagasy Ariary
+  MOZ: MZN   # Mozambican Metical
+  MWI: MWK   # Malawian Kwacha
+  NGA: NGN   # Nigerian Naira
+  RWA: RWF   # Rwandan Franc
+  SEN: XOF   # CFA Franc BCEAO (West Africa)
+  TZA: TZS   # Tanzanian Shilling
+  UGA: UGX   # Ugandan Shilling
+  ZAF: ZAR   # South African Rand
+  ZMB: ZMW   # Zambian Kwacha
+  ZWE: ZWL   # Zimbabwean Dollar (likely unavailable)
+
+  # Middle East & North Africa
+  DZA: DZD   # Algerian Dinar
+  EGY: EGP   # Egyptian Pound
+  MAR: MAD   # Moroccan Dirham
+  TUN: TND   # Tunisian Dinar
+  TUR: TRY   # Turkish Lira
+
+  # Asia
+  BGD: BDT   # Bangladeshi Taka
+  IDN: IDR   # Indonesian Rupiah
+  IND: INR   # Indian Rupee
+  KHM: KHR   # Cambodian Riel
+  LKA: LKR   # Sri Lankan Rupee
+  MMR: MMK   # Myanmar Kyat (likely unavailable)
+  NPL: NPR   # Nepalese Rupee
+  PAK: PKR   # Pakistani Rupee
+  PHL: PHP   # Philippine Peso
+  THA: THB   # Thai Baht
+  VNM: VND   # Vietnamese Dong
+
+  # Europe & Central Asia
+  UKR: UAH   # Ukrainian Hryvnia
+  UZB: UZS   # Uzbekistani Som
+
+# ---------------------------------------------------------------------------
+# FX feature settings
+# ---------------------------------------------------------------------------
+fx:
+  # Percent-change lookback windows (calendar days, applied to LCU/USD)
+  # Positive change = local currency depreciation against USD
+  pct_change_windows: [7, 30, 90]   # 90d is optional but kept for flexibility
+
+  # Rolling volatility windows (calendar days) — std of daily log returns
+  vol_windows: [7, 30]
+
+  # Forward-fill limit for weekends / holidays (calendar days)
+  ffill_limit: 7
+
+# ---------------------------------------------------------------------------
+# Oil feature settings  (Brent crude, USD/barrel)
+# ---------------------------------------------------------------------------
+oil:
+  ticker: "BZ=F"          # Brent crude futures on Yahoo Finance
+  fallback_ticker: "CL=F" # WTI crude — used if Brent returns no data
+  pct_change_windows: [14, 30]
+  ffill_limit: 7
+
+# ---------------------------------------------------------------------------
+# Sovereign yield settings  (optional — set enabled: false to skip entirely)
+# ---------------------------------------------------------------------------
+yields:
+  enabled: true
+
+  # US 10-Year Treasury yield (%) — reliable on Yahoo Finance
+  us10y_ticker: "^TNX"
+
+  # Local 10Y sovereign bond yields — Yahoo Finance tickers where known.
+  # Leave empty ({}) if none are available; the pipeline will skip gracefully.
+  # Add entries as:  ISO3: "YAHOO_TICKER"
+  country_tickers:
+    BRA: "IRLT0T01BRM156N"   # NOTE: FRED series, not Yahoo Finance — leave
+    ZAF: ""   # Not available; set ticker to "" to skip
+    MEX: ""
+    TUR: ""
+    IND: ""
+    IDN: ""
+    # Add tickers here when discovered; empty strings are silently skipped.
+
+# ---------------------------------------------------------------------------
+# Global risk indicators  (VIX, DXY, S&P 500, Gold)
+# ---------------------------------------------------------------------------
+global_indices:
+  enabled: true
+  tickers:
+    vix:   "^VIX"    # CBOE Volatility Index
+    dxy:   "DX=F"    # US Dollar Index
+    sp500: "^GSPC"   # S&P 500
+    gold:  "GC=F"    # Gold futures (USD/oz)
+  pct_change_windows: [7, 30]
+  ffill_limit: 7
+
+# ---------------------------------------------------------------------------
+# Food & energy commodities
+# ---------------------------------------------------------------------------
+commodities:
+  enabled: true
+  tickers:
+    wheat:  "ZW=F"   # CBOT Wheat (USc/bushel)
+    corn:   "ZC=F"   # CBOT Corn (USc/bushel)
+    sugar:  "SB=F"   # ICE Sugar No.11 (USc/lb)
+    coffee: "KC=F"   # ICE Arabica Coffee (USc/lb)
+    cocoa:  "CC=F"   # ICE Cocoa (USD/tonne)
+    natgas: "NG=F"   # Henry Hub Natural Gas (USD/MMBtu)
+  pct_change_windows: [14, 30]
+  ffill_limit: 7
+
+# ---------------------------------------------------------------------------
+# Cache settings
+# ---------------------------------------------------------------------------
+cache:
+  use_cache: true
+  # Re-download if cached file is older than this many days.
+  # Set to 0 to always re-download.
+  max_age_days: 1
+
+  # Polite delay between consecutive Yahoo Finance requests (seconds)
+  request_delay_s: 0.5
+
+# ---------------------------------------------------------------------------
+# Output
+# ---------------------------------------------------------------------------
+output:
+  # Processed panel: rows = country × day
+  # Filename tokens <START> and <END> are replaced with YYYYMMDD dates.
+  processed_filename: "markets_country_day_<START>_<END>"
+
+  # Whether to save CSV in addition to parquet (can be large)
+  save_csv: true

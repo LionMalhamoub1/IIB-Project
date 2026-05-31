@@ -1,0 +1,35 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+SLB10,2021-08-23,1,Protests,Peaceful protest,Protesters (Solomon Islands),,,,Solomon Islands,Malaita,,Auki,-8.767,160.6978,1,National,0,SLB
+SLB14,2021-10-27,1,Protests,Peaceful protest,Protesters (Solomon Islands),,,,Solomon Islands,Malaita,,Auki,-8.767,160.6978,1,National,0,SLB
+SLB21,2021-11-26,1,Strategic developments,Change to group/activity,Police Forces of Papua New Guinea (2019-),,,,Solomon Islands,Guadalcanal,,Honiara,-9.438,159.9696,1,National-International,0,SLB
+SLB23,2021-11-27,1,Strategic developments,Change to group/activity,Government of Solomon Islands (2019-),,,,Solomon Islands,Guadalcanal,,Honiara,-9.438,159.9696,1,National-International,0,SLB
+SLB25,2021-11-27,2,Strategic developments,Arrests,Police Forces of Solomon Islands (2019-),,Civilians (Solomon Islands),,Solomon Islands,Guadalcanal,,Honiara,-9.438,159.9696,1,National-International,0,SLB
+SLB26,2021-11-26,1,Riots,Mob violence,Rioters (Solomon Islands),,Police Forces of Solomon Islands (2019-),Government of Solomon Islands (2019-),Solomon Islands,Guadalcanal,,Honiara,-9.438,159.9696,1,International,0,SLB
+SLB27,2021-10-14,2,Violence against civilians,Attack,Unidentified Armed Group (Solomon Islands),,Civilians (Solomon Islands),Women (Solomon Islands),Solomon Islands,Western,,North Kolombangara,-7.869,157.0674,2,National,1,SLB
+SLB3,2021-07-14,1,Protests,Peaceful protest,Protesters (Solomon Islands),Government of Solomon Islands (2019-),,,Solomon Islands,Malaita,,Auki,-8.767,160.6978,1,National,0,SLB
+SLB32,2021-12-23,1,Strategic developments,Change to group/activity,Police Forces of China (2012-),,,,Solomon Islands,Guadalcanal,,Honiara,-9.438,159.9696,1,International,0,SLB
+SLB9,2021-08-10,1,Protests,Peaceful protest,Protesters (Solomon Islands),,,,Solomon Islands,Guadalcanal,,Honiara,-9.438,159.9696,1,National,0,SLB
+SLB11,2021-03-08,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Solomon Islands),,Civilians (Solomon Islands),,Solomon Islands,Isabel,,Jejevo,-8.1458,159.5944,1,National,0,SLB
+SLB28,2021-12-07,2,Protests,Peaceful protest,Protesters (Solomon Islands),Women (Solomon Islands); Government of Solomon Islands (2019-),,,Solomon Islands,Western,,Gizo,-8.105,156.8361,1,National,0,SLB
+SLB6,2021-02-04,1,Riots,Mob violence,Rioters (Solomon Islands),Vigilante Group (Solomon Islands),Civilians (Solomon Islands),,Solomon Islands,Temotu,,Rakisu,-12.3036,168.82,1,International,1,SLB
+SLB5,2021-02-25,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Papua New Guinea),,Police Forces of Solomon Islands (2019-),,Solomon Islands,Western,,Kariki,-6.8994,156.0946,2,International,0,SLB
+SLB15,2021-04-05,1,Violence against civilians,Attack,Ghavagha Communal Militia (Solomon Islands),,Civilians (Solomon Islands),,Solomon Islands,Guadalcanal,,Ghavagha,-9.4402,160.1986,1,National,0,SLB
+SLB13,2021-05-17,1,Riots,Violent demonstration,Rioters (Solomon Islands),Students (Solomon Islands),Civilians (Solomon Islands),Teachers (Solomon Islands),Solomon Islands,Guadalcanal,,Honiara,-9.438,159.9696,1,National,0,SLB
+SLB30,2021-11-27,2,Strategic developments,Other,Civilians (Solomon Islands),Refugees/IDPs (Solomon Islands); Chinese Group (Solomon Islands),,,Solomon Islands,Guadalcanal,,Honiara,-9.438,159.9696,1,International,0,SLB
+SLB1,2021-09-03,2,Protests,Peaceful protest,Protesters (Solomon Islands),M4D: Malaita for Democracy,,,Solomon Islands,Malaita,,Auki,-8.767,160.6978,1,National,0,SLB
+SLB18,2021-11-24,1,Strategic developments,Change to group/activity,Government of Solomon Islands (2019-),,,,Solomon Islands,Guadalcanal,,Honiara,-9.438,159.9696,1,International,0,SLB
+SLB19,2021-11-25,1,Riots,Mob violence,Rioters (Solomon Islands),,Civilians (Solomon Islands),Chinese Group (Solomon Islands); Journalists (Solomon Islands),Solomon Islands,Guadalcanal,,Honiara,-9.438,159.9696,1,National-International,3,SLB
+SLB33,2021-11-29,1,Strategic developments,Arrests,Police Forces of Solomon Islands (2019-),,Civilians (Solomon Islands),M4D: Malaita for Democracy,Solomon Islands,Guadalcanal,,Honiara,-9.438,159.9696,1,National-International,0,SLB
+SLB34,2021-12-13,1,Strategic developments,Arrests,Police Forces of Solomon Islands (2019-),,Civilians (Solomon Islands),Government of Solomon Islands (2019-),Solomon Islands,Guadalcanal,,Honiara,-9.438,159.9696,1,National-International,0,SLB
+SLB12,2021-05-09,1,Strategic developments,Other,Unidentified Armed Group (Solomon Islands),,Civilians (Solomon Islands),,Solomon Islands,Guadalcanal,,Honiara,-9.438,159.9696,1,National-International,2,SLB
+SLB20,2021-11-25,1,Strategic developments,Change to group/activity,Police Forces of Australia (2013-2022),Military Forces of Australia (2013-2022),,,Solomon Islands,Guadalcanal,,Honiara,-9.438,159.9696,1,International,0,SLB
+SLB17,2021-11-24,1,Riots,Mob violence,Rioters (Solomon Islands),,,,Solomon Islands,Guadalcanal,,Honiara,-9.438,159.9696,1,National-International,0,SLB
+SLB24,2021-11-30,1,Strategic developments,Change to group/activity,Military Forces of Fiji (2015-2022),,,,Solomon Islands,Guadalcanal,,Honiara,-9.438,159.9696,1,International,0,SLB
+SLB7,2021-08-29,1,Riots,Mob violence,Rioters (Solomon Islands),,Civilians (Solomon Islands),Labor Group (Solomon Islands); Health Workers (Solomon Islands),Solomon Islands,Guadalcanal,,Honiara,-9.438,159.9696,1,National,0,SLB
+SLB8,2021-08-29,1,Riots,Mob violence,Rioters (Solomon Islands),,Civilians (Solomon Islands),Labor Group (Solomon Islands); Health Workers (Solomon Islands),Solomon Islands,Guadalcanal,,Lungga,-9.4289,160.0458,1,National,0,SLB
+SLB4,2021-08-29,1,Strategic developments,Change to group/activity,Government of Solomon Islands (2019-),,,,Solomon Islands,Guadalcanal,,Honiara,-9.438,159.9696,3,International,0,SLB
+SLB29,2021-12-06,1,Strategic developments,Change to group/activity,Military Forces of New Zealand (2017-2023),,,,Solomon Islands,Guadalcanal,,Honiara,-9.438,159.9696,2,Regional,0,SLB
+SLB2,2021-07-13,1,Riots,Mob violence,Rioters (Solomon Islands),Christian Group (Solomon Islands),Rioters (Solomon Islands),Christian Group (Solomon Islands),Solomon Islands,Western,,Raro,-8.2854,157.4657,1,National,0,SLB
+SLB31,2021-10-27,1,Protests,Peaceful protest,Protesters (Solomon Islands),Teachers (Solomon Islands); Women (Solomon Islands),,,Solomon Islands,Western,,Imagination Island,-8.0796,156.862,1,National,0,SLB
+SLB16,2021-11-24,1,Riots,Violent demonstration,Rioters (Solomon Islands),,Police Forces of Solomon Islands (2019-),Government of Solomon Islands (2019-),Solomon Islands,Guadalcanal,,Honiara,-9.438,159.9696,1,National-Regional,0,SLB
+SLB22,2021-12-02,1,Strategic developments,Change to group/activity,Military Forces of New Zealand (2017-2023),,,,Solomon Islands,Guadalcanal,,Honiara,-9.438,159.9696,1,Regional-International,0,SLB

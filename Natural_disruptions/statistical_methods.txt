@@ -1,0 +1,157 @@
+STATISTICAL METHODS
+===================
+
+This file explains the statistical techniques used to validate hydro-climate
+indicators and evaluate predictive model performance.
+
+
+INDICATOR VALIDATION
+====================
+
+The goal is to test whether each indicator can distinguish flood events (label=1)
+from matched non-flood baseline samples (label=0). Two complementary tests are used.
+
+
+AUC-ROC  (Area Under the Receiver Operating Characteristic Curve)
+------------------------------------------------------------------
+The ROC curve plots the True Positive Rate (TPR) against the False Positive Rate
+(FPR) as a classification threshold is swept across all indicator values.
+
+  TPR (sensitivity) = correctly identified floods / all floods
+  FPR               = incorrectly flagged baselines / all baselines
+
+AUC is the area under this curve. Interpretation:
+  0.5  = no discrimination (random guessing)
+  0.6  = weak
+  0.7  = moderate
+  0.8  = strong
+  1.0  = perfect separation
+
+AUC can be interpreted as: "if you pick one flood event and one baseline sample
+at random, AUC is the probability that the indicator ranks the flood higher."
+
+AUC is threshold-free — it evaluates the full ranking ability of an indicator
+without committing to a specific cutoff value. This makes it ideal for comparing
+indicators that operate on different scales (e.g. mm vs m³/s vs %).
+
+
+KS Test  (Kolmogorov-Smirnov Test)
+------------------------------------
+A non-parametric test that measures the maximum vertical distance between the
+cumulative distribution functions (CDFs) of the flood and baseline populations.
+
+  KS statistic: value between 0 and 1. Higher = more separated distributions.
+  p-value:      probability of observing this separation by chance if the two
+                populations were actually identical.
+
+The KS test makes no assumptions about the shape of the distribution (unlike
+a t-test which assumes normality), which is important here since indicators
+like chirps_7d_anom_pct are heavily right-skewed.
+
+A p-value < 0.05 is conventionally significant. All indicators here have
+p ≈ 0 except jrc_recurrence_pct (p = 2e-6), confirming the distributions
+are statistically distinct in all cases.
+
+The KS statistic complements AUC: AUC measures ranking ability, KS measures
+distributional separation. A high KS with a low AUC would suggest the
+distributions differ but overlap heavily in the middle.
+
+
+INDICATOR CONSTRUCTION
+======================
+
+Z-Score (Standardised Precipitation Index, SPI)
+------------------------------------------------
+A z-score expresses a value in terms of standard deviations from the mean
+of a reference distribution:
+
+  z = (x - mu) / sigma
+
+where mu and sigma are the mean and standard deviation of the reference
+(climatological baseline, here 1991-2020).
+
+  z = 0    → exactly average
+  z = +1   → one standard deviation above average (wetter than ~84% of years)
+  z = +2   → two standard deviations above average (wetter than ~97.5% of years)
+  z = -1   → one standard deviation drier than average
+
+SPI-30 applies this transformation to 30-day accumulated rainfall. Because
+rainfall distributions are skewed, the raw totals are first fitted to a
+gamma distribution and then transformed to a normal distribution before
+computing z — this is the standard WMO method for SPI.
+
+Flood events show mean SPI-30 = +0.58 vs baseline mean = +0.02, confirming
+anomalously wet antecedent conditions.
+
+
+Percentile Rank (GloFAS discharge)
+------------------------------------
+The percentile rank of a value x within a reference distribution of n values:
+
+  pct_rank = (number of reference values <= x) / n * 100
+
+For GloFAS, the reference distribution is the monthly maximum discharge
+observed at that grid cell across 1979-2019 (41 years). A percentile rank
+of 95 means the discharge was higher than in 95% of historical years for
+that month at that location.
+
+Unlike z-scores, percentile ranks are bounded [0, 100] and make no
+distributional assumption — they are robust to the highly non-normal
+discharge distributions found in rivers.
+
+
+Percentage Anomaly (CHIRPS 7-day rainfall)
+-------------------------------------------
+  anom_pct = (observed - climatological_mean) / climatological_mean * 100
+
+A value of +100% means twice the climatological average; -100% means
+no rainfall (lower bound since rainfall cannot be negative).
+
+The climatological mean is computed for the same 7-day calendar window
+(e.g. days 180-186 of the year) averaged across 1991-2020.
+
+The median anomaly for flood events (+18%) vs baseline (-37%) shows that
+flood events tend to occur after anomalously wet weeks, while baseline
+samples more often fall in dry spells — consistent with physical intuition.
+
+
+MODEL EVALUATION
+================
+
+These metrics are also used when evaluating the predictive models in
+Natural_disruptions/predictive_models/.
+
+
+Precision, Recall, F1
+----------------------
+For a binary classifier:
+  Precision = TP / (TP + FP)   — of predicted floods, how many were real?
+  Recall    = TP / (TP + FN)   — of real floods, how many were caught?
+  F1        = 2 * (P * R) / (P + R)   — harmonic mean of precision and recall
+
+F1 balances precision and recall. It is preferred over accuracy when classes
+are imbalanced (more baselines than flood events), since a classifier that
+always predicts "no flood" would have high accuracy but zero recall.
+
+
+Feature Importance (Random Forest / XGBoost)
+---------------------------------------------
+Tree-based models assign importance scores to each feature based on how
+much each feature reduces impurity (Gini or entropy) across all splits
+in all trees, averaged and normalised to sum to 1.
+
+Higher importance = the model relies more on that feature to separate
+floods from non-floods. This is model-specific and should be interpreted
+alongside the AUC-ROC validation results rather than independently.
+
+
+Cross-Validation
+-----------------
+To avoid overfitting, models are evaluated using k-fold cross-validation:
+the dataset is split into k equal folds; the model is trained on k-1 folds
+and tested on the held-out fold, repeated k times. Performance is reported
+as the mean and standard deviation across folds.
+
+Spatial or temporal blocking is preferred over random splits here, since
+flood events in the same region/year are correlated and random splitting
+can inflate performance estimates.

@@ -1,0 +1,377 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+BGR49,2018-02-16,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Dobrich,Dobrich,Dobrich,43.5688,27.8297,1,National,0,BGR
+BGR51,2018-02-17,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Plovdiv,Peruschitsa,Perushtitsa,42.05,24.55,1,National,0,BGR
+BGR57,2018-02-23,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria),,,Bulgaria,Haskovo,Khaskovo,Haskovo,41.9403,25.5694,1,National,0,BGR
+BGR85,2018-04-11,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Dobrich,Dobrich,Dobrich,43.5688,27.8297,1,National,0,BGR
+BGR154,2018-07-17,3,Protests,Peaceful protest,Protesters (Bulgaria),Farmers (Bulgaria); BSP: Bulgarian Socialist Party,,,Bulgaria,Burgas,Malko Tyrnovo,Malko Tarnovo,41.9796,27.5248,2,International,0,BGR
+BGR229,2018-10-29,2,Protests,Peaceful protest,Protesters (Bulgaria),Farmers (Bulgaria),,,Bulgaria,Haskovo,Khaskovo,Haskovo,41.9403,25.5694,2,National,0,BGR
+BGR239,2018-11-03,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Dobrich,Dobrich,Dobrich,43.5688,27.8297,1,National,0,BGR
+BGR250,2018-11-10,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Stara Zagora,Kazanlyk,Kazanlak,42.6167,25.4,1,National,0,BGR
+BGR276,2018-11-14,1,Protests,Peaceful protest,Protesters (Bulgaria),Students (Bulgaria),,,Bulgaria,Stara Zagora,Kazanlyk,Kazanlak,42.6167,25.4,1,National,0,BGR
+BGR288,2018-11-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Dobrich,Dobrich,Dobrich,43.5688,27.8297,1,National,0,BGR
+BGR290,2018-11-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Haskovo,Khaskovo,Haskovo,41.9403,25.5694,2,National,0,BGR
+BGR291,2018-11-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Kardzhali,Kyrdzhali,Kardzhali,41.65,25.3667,1,National,0,BGR
+BGR303,2018-11-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Targovishte,Tyrgovische,Targovishte,43.2592,26.5892,1,National,0,BGR
+BGR305,2018-11-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Haskovo,Simeonovgrad,Troyan,42.0615,25.9048,1,National,0,BGR
+BGR307,2018-11-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Montana,Vyrshets,Varshets,43.1953,23.2861,1,National,0,BGR
+BGR312,2018-11-19,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Haskovo,Khaskovo,Haskovo,41.9403,25.5694,1,National,0,BGR
+BGR313,2018-11-19,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Kardzhali,Kyrdzhali,Kardzhali,41.65,25.3667,1,National,0,BGR
+BGR318,2018-11-19,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Haskovo,Simeonovgrad,Troyan,42.0615,25.9048,1,National,0,BGR
+BGR329,2018-11-25,1,Protests,Peaceful protest,Protesters (Bulgaria),Evangelical Christian Group (Bulgaria),,,Bulgaria,Dobrich,Dobrich,Dobrich,43.5688,27.8297,1,National,0,BGR
+BGR332,2018-11-25,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Stara Zagora,Kazanlyk,Kazanlak,42.6167,25.4,1,National,0,BGR
+BGR351,2018-12-02,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Haskovo,Khaskovo,Haskovo,41.9403,25.5694,1,National,0,BGR
+BGR357,2018-12-02,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Haskovo,Simeonovgrad,Troyan,42.0615,25.9048,1,National,0,BGR
+BGR29,2018-01-29,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria); Teachers (Bulgaria),,,Bulgaria,Kardzhali,Kyrdzhali,Kardzhali,41.65,25.3667,1,National,0,BGR
+BGR10,2018-01-04,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Haskovo,Svilengrad,Svilengrad,41.7667,26.2,1,National-International,0,BGR
+BGR11,2018-01-04,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Veliko Tarnovo,Svischov,Svishtov,43.6196,25.3504,1,National-International,0,BGR
+BGR12,2018-01-04,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Varna,Varna,Varna,43.2167,27.9167,1,National-International,0,BGR
+BGR13,2018-01-04,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Veliko Tarnovo,Veliko Tyrnovo,Veliko Tarnovo,43.0858,25.6556,1,National-International,0,BGR
+BGR15,2018-01-11,1,Protests,Peaceful protest,Protesters (Bulgaria),,Protesters (Bulgaria),,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,International,0,BGR
+BGR178,2018-09-12,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Varna,Varna,Varna,43.2167,27.9167,1,National,0,BGR
+BGR179,2018-09-16,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR183,2018-09-22,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria),,,Bulgaria,Burgas,Karnobat,Karnobat,42.65,26.9833,1,National,0,BGR
+BGR2,2018-01-04,2,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Blagoevgrad,Bansko,Bansko,41.8383,23.4885,2,National-International,0,BGR
+BGR286,2018-11-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Burgas,Burgas,Burgas,42.5061,27.4678,1,National,0,BGR
+BGR3,2018-01-04,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Burgas,Burgas,Burgas,42.5061,27.4678,1,National-International,0,BGR
+BGR300,2018-11-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Shumen,Shumen,Shumen,43.2767,26.9292,1,National,0,BGR
+BGR328,2018-11-25,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Burgas,Burgas,Burgas,42.5061,27.4678,1,National,0,BGR
+BGR331,2018-11-25,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Shumen,Kaspichan,Kaspichan,43.3167,27.1667,1,National,0,BGR
+BGR340,2018-11-25,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Haskovo,Simeonovgrad,Troyan,42.0615,25.9048,2,National,0,BGR
+BGR370,2018-12-20,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Burgas,Burgas,Burgas,42.5061,27.4678,1,National,0,BGR
+BGR374,2018-12-27,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR375,2018-12-28,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR4,2018-01-04,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Kyustendil,Dupnitsa,Dupnitsa,42.2667,23.1167,1,National-International,0,BGR
+BGR6,2018-01-04,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Plovdiv,Plovdiv,Plovdiv,42.15,24.75,1,National-International,0,BGR
+BGR7,2018-01-04,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Ruse,Ruse,Ruse,43.8564,25.9708,1,National-International,0,BGR
+BGR8,2018-01-04,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National-International,0,BGR
+BGR9,2018-01-04,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Stara Zagora,Stara Zagora,Stara Zagora,42.4328,25.6419,1,National-International,0,BGR
+BGR180,2018-09-16,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR231,2018-10-29,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR244,2018-11-05,1,Protests,Peaceful protest,Protesters (Bulgaria),Farmers (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR277,2018-11-14,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Pernik,Pernik,Pernik,42.6,23.0333,1,National,0,BGR
+BGR326,2018-11-24,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR349,2018-12-02,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Blagoevgrad,Blagoevgrad,Blagoevgrad,42.0167,23.1,1,National,0,BGR
+BGR350,2018-12-02,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Burgas,Burgas,Burgas,42.5061,27.4678,1,National,0,BGR
+BGR355,2018-12-02,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Plovdiv,Sopot,Sopot,42.65,24.75,1,National,0,BGR
+BGR36,2018-02-05,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Ruse,Ruse,Ruse,43.8564,25.9708,1,National,0,BGR
+BGR368,2018-12-17,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR38,2018-02-05,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR41,2018-02-08,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR65,2018-03-05,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Plovdiv,Plovdiv,Plovdiv,42.15,24.75,1,National,0,BGR
+BGR66,2018-03-06,1,Protests,Peaceful protest,Protesters (Bulgaria),BSP: Bulgarian Socialist Party,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR73,2018-03-17,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Burgas,Burgas,Burgas,42.5061,27.4678,1,National,0,BGR
+BGR25,2018-01-25,2,Protests,Peaceful protest,Protesters (Bulgaria),Teachers (Bulgaria),,,Bulgaria,Vratsa,Vratsa,Vratsa,43.21,23.5625,1,National,0,BGR
+BGR94,2018-04-23,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria); Health Workers (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR310,2018-11-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National-International,0,BGR
+BGR311,2018-11-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,International,0,BGR
+BGR223,2018-10-27,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,International,0,BGR
+BGR346,2018-11-28,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR71,2018-03-10,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR200,2018-10-22,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Silistra,Silistra,Silistra,44.1167,27.2667,1,National,0,BGR
+BGR211,2018-10-24,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Silistra,Silistra,Silistra,44.1167,27.2667,1,National,0,BGR
+BGR210,2018-10-24,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Pleven,Pleven,Pleven,43.4167,24.6167,1,National,0,BGR
+BGR204,2018-10-23,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Dobrich,Dobrich,Dobrich,43.5688,27.8297,1,National,0,BGR
+BGR205,2018-10-23,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Silistra,Silistra,Silistra,44.1167,27.2667,1,National,0,BGR
+BGR206,2018-10-23,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR184,2018-09-22,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR187,2018-10-02,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR190,2018-10-05,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR252,2018-11-10,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Ruse,Ruse,Ruse,43.8564,25.9708,1,National,0,BGR
+BGR271,2018-11-11,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National-International,0,BGR
+BGR358,2018-12-05,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR44,2018-02-10,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Burgas,Burgas,Burgas,42.5061,27.4678,1,National,0,BGR
+BGR81,2018-03-29,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Veliko Tarnovo,Gorna Oryakhovitsa,Gorna Oryahovitsa,43.1278,25.7017,1,National,0,BGR
+BGR46,2018-02-11,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Pazardzhik,Pazardzhik,Pazardzhik,42.2,24.3333,1,National,0,BGR
+BGR209,2018-10-24,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Burgas,Burgas,Burgas,42.5061,27.4678,1,National,0,BGR
+BGR16,2018-01-11,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,International,0,BGR
+BGR268,2018-11-11,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Silistra,Silistra,Silistra,44.1167,27.2667,1,National,0,BGR
+BGR372,2018-12-23,1,Protests,Peaceful protest,Protesters (Bulgaria),Protesters (Ukraine),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR317,2018-11-19,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Silistra,Silistra,Silistra,44.1167,27.2667,1,National,0,BGR
+BGR67,2018-03-07,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Pernik,Pernik,Pernik,42.6,23.0333,1,National,0,BGR
+BGR319,2018-11-19,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Veliko Tarnovo,Veliko Tyrnovo,Veliko Tarnovo,43.0858,25.6556,1,National,0,BGR
+BGR258,2018-11-11,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Kyustendil,Kyustendil,Kyustendil,42.2839,22.6911,2,National,0,BGR
+BGR365,2018-12-14,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR201,2018-10-22,1,Protests,Peaceful protest,Protesters (Bulgaria),Women (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,International,0,BGR
+BGR60,2018-02-24,1,Protests,Peaceful protest,Protesters (Bulgaria),Orthodox Christian Group (Bulgaria),,,Bulgaria,Varna,Varna,Varna,43.2167,27.9167,1,National,0,BGR
+BGR20,2018-01-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR366,2018-12-16,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Blagoevgrad,Sandanski,Sandanski,41.5667,23.2833,1,National,0,BGR
+BGR1,2018-01-03,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR327,2018-11-25,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Blagoevgrad,Blagoevgrad,Blagoevgrad,42.0167,23.1,1,National,0,BGR
+BGR26,2018-01-27,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR245,2018-11-05,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR191,2018-10-07,2,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR195,2018-10-10,2,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR471,2018-05-10,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR17,2018-01-11,1,Protests,Peaceful protest,Protesters (Bulgaria),Women (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,International,0,BGR
+BGR344,2018-11-26,1,Protests,Peaceful protest,Protesters (Bulgaria),Women (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR168,2018-08-29,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Ruse,Ruse,Ruse,43.8564,25.9708,1,National,0,BGR
+BGR169,2018-08-29,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR170,2018-08-29,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia,Svoge,Svoge,42.9667,23.35,1,National,0,BGR
+BGR166,2018-08-27,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR167,2018-08-27,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia,Svoge,Svoge,42.9667,23.35,1,National,0,BGR
+BGR165,2018-08-26,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia,Svoge,Svoge,42.9667,23.35,1,National,0,BGR
+BGR164,2018-08-24,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Smolyan,Chepelare,Chepelare,41.7333,24.6833,1,National,0,BGR
+BGR163,2018-08-19,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Stara Zagora,Stara Zagora,Stara Zagora,42.4328,25.6419,3,National,0,BGR
+BGR162,2018-08-13,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR159,2018-08-10,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR160,2018-08-10,1,Protests,Peaceful protest,Protesters (Bulgaria),Farmers (Bulgaria),,,Bulgaria,Yambol,Yambol,Yambol,42.4833,26.5,2,National,0,BGR
+BGR158,2018-07-30,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National-International,0,BGR
+BGR157,2018-07-24,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Dobrich,Dobrich,Dobrich,43.5688,27.8297,3,National,0,BGR
+BGR156,2018-07-23,1,Protests,Peaceful protest,Protesters (Bulgaria),Farmers (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National-International,0,BGR
+BGR155,2018-07-18,1,Protests,Peaceful protest,Protesters (Bulgaria),Farmers (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR152,2018-07-16,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR153,2018-07-16,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR151,2018-07-15,1,Protests,Peaceful protest,Protesters (Bulgaria),Farmers (Bulgaria); BSP: Bulgarian Socialist Party,,,Bulgaria,Yambol,Yambol,Yambol,42.4833,26.5,2,National,0,BGR
+BGR150,2018-07-13,1,Protests,Peaceful protest,Protesters (Bulgaria),Farmers (Bulgaria),,,Bulgaria,Veliko Tarnovo,Veliko Tyrnovo,Veliko Tarnovo,43.0858,25.6556,2,National,0,BGR
+BGR149,2018-07-11,1,Protests,Peaceful protest,Protesters (Bulgaria),Health Workers (Bulgaria),,,Bulgaria,Vratsa,Vratsa,Vratsa,43.21,23.5625,1,National,0,BGR
+BGR148,2018-07-11,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria); Journalists (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR145,2018-07-06,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Razgrad,Razgrad,Razgrad,43.5333,26.5167,2,National,0,BGR
+BGR146,2018-07-06,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR147,2018-07-06,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR140,2018-07-04,1,Protests,Peaceful protest,Protesters (Bulgaria),,Protesters (Bulgaria),ABC: Alternative for Bulgarian Revival,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR141,2018-07-04,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR142,2018-07-04,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR143,2018-07-04,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR139,2018-07-02,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR138,2018-06-27,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR137,2018-06-26,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR136,2018-06-25,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR135,2018-06-21,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR134,2018-06-19,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Burgas,Pomorie,Aheloy,42.646,27.6494,1,National,0,BGR
+BGR133,2018-06-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Ruse,Ruse,Ruse,43.8564,25.9708,1,National,0,BGR
+BGR132,2018-06-17,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR131,2018-06-14,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR130,2018-06-11,1,Protests,Peaceful protest,Protesters (Bulgaria),LGBTQ+ (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National-International,0,BGR
+BGR129,2018-06-07,1,Protests,Peaceful protest,Protesters (Bulgaria),Democratic Bulgaria,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR127,2018-06-06,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Dobrich,Dobrich,Dobrich,43.5688,27.8297,1,National,0,BGR
+BGR128,2018-06-06,1,Protests,Peaceful protest,Protesters (Bulgaria),Democratic Bulgaria,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR126,2018-06-05,1,Protests,Peaceful protest,Protesters (Bulgaria),Farmers (Bulgaria),,,Bulgaria,Stara Zagora,Stara Zagora,Stara Zagora,42.4328,25.6419,1,National,0,BGR
+BGR121,2018-06-03,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Burgas,Burgas,Burgas,42.5061,27.4678,1,National,0,BGR
+BGR122,2018-06-03,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Ruse,Ruse,Ruse,43.8564,25.9708,1,National,0,BGR
+BGR123,2018-06-03,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Varna,Varna,Varna,43.2167,27.9167,1,National,0,BGR
+BGR124,2018-06-03,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR125,2018-06-03,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR120,2018-06-02,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR119,2018-06-01,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,International,0,BGR
+BGR118,2018-05-29,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR117,2018-05-28,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR116,2018-05-27,1,Protests,Peaceful protest,Protesters (Bulgaria),Health Workers (Bulgaria); Labor Group (Bulgaria),,,Bulgaria,Lovech,Lovech,Lovech,43.1333,24.7167,2,National,0,BGR
+BGR115,2018-05-24,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Blagoevgrad,Gyrmen,Garmen,41.6,23.8167,1,National,0,BGR
+BGR114,2018-05-22,1,Protests,Peaceful protest,Protesters (Bulgaria),Democratic Bulgaria,Protesters (Bulgaria),ABC: Alternative for Bulgarian Revival,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR113,2018-05-20,1,Protests,Peaceful protest,Protesters (Bulgaria),Farmers (Bulgaria),,,Bulgaria,Stara Zagora,Kazanlyk,Kazanlak,42.6167,25.4,1,International,0,BGR
+BGR112,2018-05-19,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,2,National,0,BGR
+BGR111,2018-05-18,1,Protests,Peaceful protest,Protesters (Bulgaria),Farmers (Bulgaria),,,Bulgaria,Stara Zagora,Kazanlyk,Kazanlak,42.6167,25.4,2,National,0,BGR
+BGR109,2018-05-17,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria),,,Bulgaria,Ruse,Ruse,Ruse,43.8564,25.9708,2,National,0,BGR
+BGR110,2018-05-17,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR108,2018-05-16,1,Protests,Peaceful protest,Protesters (Bulgaria),Orthodox Christian Group (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR104,2018-05-14,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Burgas,Burgas,Burgas,42.5061,27.4678,1,National,0,BGR
+BGR105,2018-05-14,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia,Samokov,Samokov,42.337,23.5528,1,National,0,BGR
+BGR106,2018-05-14,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Silistra,Silistra,Silistra,44.1167,27.2667,1,National,0,BGR
+BGR107,2018-05-14,1,Riots,Violent demonstration,Rioters (Bulgaria),Health Workers (Bulgaria),,,Bulgaria,Vratsa,Vratsa,Vratsa,43.21,23.5625,1,National,0,BGR
+BGR103,2018-05-12,1,Protests,Peaceful protest,Protesters (Bulgaria),Health Workers (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR102,2018-05-11,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR101,2018-05-07,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR100,2018-05-04,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Blagoevgrad,Blagoevgrad,Blagoevgrad,42.0167,23.1,1,National,0,BGR
+BGR99,2018-05-02,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR97,2018-05-01,1,Protests,Peaceful protest,Protesters (Bulgaria),BSP: Bulgarian Socialist Party,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR98,2018-05-01,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Burgas,Tsarevo,Tsarevo,42.1696,27.8454,2,National,0,BGR
+BGR88,2018-04-12,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Pleven,Pleven,Pleven,43.4167,24.6167,2,National,0,BGR
+BGR74,2018-03-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,International,0,BGR
+BGR373,2018-12-27,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Blagoevgrad,Gotse Delchev,Gotse Delchev,41.5667,23.7333,1,National,0,BGR
+BGR369,2018-12-17,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR367,2018-12-16,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Burgas,Sozopol,Sozopol,42.418,27.6956,1,National,0,BGR
+BGR364,2018-12-13,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Smolyan,Chepelare,Chepelare,41.7333,24.6833,1,National,0,BGR
+BGR361,2018-12-12,1,Riots,Mob violence,Rioters (Bulgaria),,,,Bulgaria,Varna,Varna,Varna,43.2167,27.9167,1,International,0,BGR
+BGR362,2018-12-12,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR363,2018-12-12,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR360,2018-12-11,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR352,2018-12-02,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Pazardzhik,Pazardzhik,Pazardzhik,42.2,24.3333,1,National,0,BGR
+BGR353,2018-12-02,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sliven,Sliven,Sliven,42.6858,26.3292,1,National,0,BGR
+BGR354,2018-12-02,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR356,2018-12-02,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Stara Zagora,Stara Zagora,Stara Zagora,42.4328,25.6419,1,National,0,BGR
+BGR345,2018-11-28,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria),,,Bulgaria,Stara Zagora,Radnevo,Radnevo,42.3,25.9333,1,National,0,BGR
+BGR347,2018-11-28,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR330,2018-11-25,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Stara Zagora,Gurkovo,Gurkovo,42.6667,25.8,1,National,0,BGR
+BGR333,2018-11-25,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Montana,Lom,Lom,43.8139,23.2361,1,National,0,BGR
+BGR335,2018-11-25,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Blagoevgrad,Petrich,Petrich,41.3985,23.207,1,National,0,BGR
+BGR336,2018-11-25,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Pleven,Pleven,Pleven,43.4167,24.6167,1,National,0,BGR
+BGR337,2018-11-25,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Plovdiv,Plovdiv,Plovdiv,42.15,24.75,1,National,0,BGR
+BGR338,2018-11-25,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Ruse,Ruse,Ruse,43.8564,25.9708,1,National,0,BGR
+BGR339,2018-11-25,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sliven,Sliven,Sliven,42.6858,26.3292,1,National,0,BGR
+BGR341,2018-11-25,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Vratsa,Vratsa,Vratsa,43.21,23.5625,1,National,0,BGR
+BGR342,2018-11-25,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Silistra,Silistra,Silistra,44.1167,27.2667,1,National,0,BGR
+BGR343,2018-11-25,1,Protests,Peaceful protest,Protesters (Bulgaria),Evangelical Christian Group (Bulgaria); Protestant Christian Group (Bulgaria),,,Bulgaria,Silistra,Silistra,Silistra,44.1167,27.2667,1,National,0,BGR
+BGR324,2018-11-24,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Shumen,Shumen,Shumen,43.2767,26.9292,1,National,0,BGR
+BGR325,2018-11-24,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Silistra,Silistra,Silistra,44.1167,27.2667,1,National,0,BGR
+BGR322,2018-11-23,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Pernik,Pernik,Pernik,42.6,23.0333,1,National,0,BGR
+BGR323,2018-11-23,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR321,2018-11-22,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Pernik,Pernik,Pernik,42.6,23.0333,1,National,0,BGR
+BGR320,2018-11-21,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR314,2018-11-19,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Kyustendil,Kyustendil,Kyustendil,42.2839,22.6911,1,National,0,BGR
+BGR315,2018-11-19,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Razgrad,Razgrad,Razgrad,43.5333,26.5167,1,National,0,BGR
+BGR316,2018-11-19,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Ruse,Ruse,Ruse,43.8564,25.9708,1,National,0,BGR
+BGR285,2018-11-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Montana,Berkovitsa,Berkovitsa,43.2361,23.1258,1,National,0,BGR
+BGR289,2018-11-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Gabrovo,Gabrovo,Gabrovo,42.8747,25.3342,1,National,0,BGR
+BGR292,2018-11-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Kyustendil,Kyustendil,Kyustendil,42.2839,22.6911,1,National,0,BGR
+BGR293,2018-11-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Veliko Tarnovo,Lyaskovets,Lyaskovets,43.1111,25.7283,1,National,0,BGR
+BGR296,2018-11-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Pleven,Pleven,Pleven,43.4167,24.6167,1,National,0,BGR
+BGR297,2018-11-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Plovdiv,Plovdiv,Plovdiv,42.15,24.75,1,National,0,BGR
+BGR298,2018-11-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Blagoevgrad,Razlog,Razlog,41.8863,23.4671,2,National,0,BGR
+BGR299,2018-11-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Ruse,Ruse,Ruse,43.8564,25.9708,1,National,0,BGR
+BGR301,2018-11-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Silistra,Silistra,Silistra,44.1167,27.2667,1,National,0,BGR
+BGR302,2018-11-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sliven,Sliven,Sliven,42.6858,26.3292,1,National,0,BGR
+BGR304,2018-11-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Lovech,Teteven,Teteven,42.9167,24.2667,1,National,0,BGR
+BGR306,2018-11-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Varna,Varna,Varna,43.2167,27.9167,1,National,0,BGR
+BGR308,2018-11-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Vidin,Vidin,Vidin,43.99,22.8725,1,National,0,BGR
+BGR309,2018-11-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Yambol,Yambol,Yambol,42.4833,26.5,1,National,0,BGR
+BGR283,2018-11-17,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR284,2018-11-17,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR282,2018-11-16,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR280,2018-11-16,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Kyustendil,Kyustendil,Kyustendil,42.2839,22.6911,1,National,0,BGR
+BGR281,2018-11-16,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sliven,Sliven,Sliven,42.6858,26.3292,1,National,0,BGR
+BGR279,2018-11-15,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR278,2018-11-14,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR273,2018-11-13,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Pernik,Pernik,Pernik,42.6,23.0333,1,National,0,BGR
+BGR274,2018-11-13,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Silistra,Silistra,Silistra,44.1167,27.2667,1,National,0,BGR
+BGR275,2018-11-13,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR272,2018-11-12,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR254,2018-11-11,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Blagoevgrad,Bansko,Bansko,41.8383,23.4885,1,National,0,BGR
+BGR260,2018-11-11,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Pleven,Pleven,Pleven,43.4167,24.6167,1,National,0,BGR
+BGR261,2018-11-11,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Plovdiv,Plovdiv,Plovdiv,42.15,24.75,1,National,0,BGR
+BGR262,2018-11-11,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Razgrad,Razgrad,Razgrad,43.5333,26.5167,1,National,0,BGR
+BGR263,2018-11-11,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Shumen,Shumen,Shumen,43.2767,26.9292,1,National,0,BGR
+BGR265,2018-11-11,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Plovdiv,Sopot,Sopot,42.65,24.75,1,National,0,BGR
+BGR267,2018-11-11,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Yambol,Yambol,Yambol,42.4833,26.5,1,National,0,BGR
+BGR269,2018-11-11,1,Protests,Peaceful protest,Protesters (Bulgaria),Evangelical Christian Group (Bulgaria); Protestant Christian Group (Bulgaria),,,Bulgaria,Silistra,Silistra,Silistra,44.1167,27.2667,1,National,0,BGR
+BGR270,2018-11-11,1,Protests,Peaceful protest,Protesters (Bulgaria),Christian Group (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR251,2018-11-10,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Pernik,Pernik,Pernik,42.6,23.0333,1,National,0,BGR
+BGR253,2018-11-10,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Varna,Varna,Varna,43.2167,27.9167,1,National,0,BGR
+BGR249,2018-11-09,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Stara Zagora,Stara Zagora,Stara Zagora,42.4328,25.6419,1,National,0,BGR
+BGR247,2018-11-06,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Ruse,Ruse,Ruse,43.8564,25.9708,1,National,0,BGR
+BGR248,2018-11-06,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR246,2018-11-06,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Smolyan,Chepelare,Chepelare,41.7333,24.6833,1,National,0,BGR
+BGR243,2018-11-04,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR241,2018-11-03,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR242,2018-11-03,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Stara Zagora,Stara Zagora,Stara Zagora,42.4328,25.6419,1,National,0,BGR
+BGR237,2018-11-02,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR236,2018-11-01,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR235,2018-10-31,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR234,2018-10-30,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR232,2018-10-29,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Varna,Varna,Varna,43.2167,27.9167,1,National,0,BGR
+BGR233,2018-10-29,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Vidin,Vidin,Vidin,43.99,22.8725,1,National,0,BGR
+BGR226,2018-10-28,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR227,2018-10-28,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Varna,Varna,Varna,43.2167,27.9167,1,National,0,BGR
+BGR228,2018-10-28,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Vidin,Vidin,Vidin,43.99,22.8725,1,National,0,BGR
+BGR224,2018-10-27,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Varna,Varna,Varna,43.2167,27.9167,1,National,0,BGR
+BGR225,2018-10-27,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Vidin,Vidin,Vidin,43.99,22.8725,1,National,0,BGR
+BGR222,2018-10-27,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Pazardzhik,Pazardzhik,Pazardzhik,42.2,24.3333,1,National,0,BGR
+BGR219,2018-10-26,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR220,2018-10-26,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Varna,Varna,Varna,43.2167,27.9167,1,National,0,BGR
+BGR221,2018-10-26,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Vidin,Vidin,Vidin,43.99,22.8725,1,National,0,BGR
+BGR215,2018-10-25,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Silistra,Silistra,Silistra,44.1167,27.2667,1,National,0,BGR
+BGR216,2018-10-25,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR217,2018-10-25,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Varna,Varna,Varna,43.2167,27.9167,1,National,0,BGR
+BGR218,2018-10-25,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Vidin,Vidin,Vidin,43.99,22.8725,1,National,0,BGR
+BGR212,2018-10-24,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR213,2018-10-24,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Varna,Varna,Varna,43.2167,27.9167,1,National,0,BGR
+BGR214,2018-10-24,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Vidin,Vidin,Vidin,43.99,22.8725,1,National,0,BGR
+BGR207,2018-10-23,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Varna,Varna,Varna,43.2167,27.9167,1,National,0,BGR
+BGR208,2018-10-23,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Vidin,Vidin,Vidin,43.99,22.8725,1,National,0,BGR
+BGR202,2018-10-22,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Varna,Varna,Varna,43.2167,27.9167,1,National,0,BGR
+BGR203,2018-10-22,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Vidin,Vidin,Vidin,43.99,22.8725,1,National,0,BGR
+BGR199,2018-10-21,2,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR198,2018-10-20,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Pleven,Pleven,Pleven,43.4167,24.6167,1,National,0,BGR
+BGR197,2018-10-19,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Silistra,Silistra,Silistra,44.1167,27.2667,1,National,0,BGR
+BGR196,2018-10-17,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR193,2018-10-10,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Ruse,Ruse,Ruse,43.8564,25.9708,1,National,0,BGR
+BGR194,2018-10-10,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Silistra,Silistra,Silistra,44.1167,27.2667,1,National,0,BGR
+BGR192,2018-10-08,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Ruse,Ruse,Ruse,43.8564,25.9708,1,National,0,BGR
+BGR189,2018-10-05,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Plovdiv,Plovdiv,Plovdiv,42.15,24.75,1,National,0,BGR
+BGR188,2018-10-04,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR185,2018-09-25,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Razgrad,Razgrad,Razgrad,43.5333,26.5167,1,National,0,BGR
+BGR186,2018-09-25,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Ruse,Ruse,Ruse,43.8564,25.9708,2,National,0,BGR
+BGR181,2018-09-17,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR177,2018-09-10,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR176,2018-09-09,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia,Samokov,Samokov,42.337,23.5528,2,National,0,BGR
+BGR172,2018-09-04,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Pernik,Radomir,Radomir,42.5457,22.9655,1,National,0,BGR
+BGR173,2018-09-04,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Razgrad,Razgrad,Razgrad,43.5333,26.5167,1,National,0,BGR
+BGR175,2018-09-04,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Vidin,Vidin,Vidin,43.99,22.8725,1,National,0,BGR
+BGR96,2018-04-29,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Razgrad,Kubrat,Kubrat,43.7966,26.5006,1,National,0,BGR
+BGR95,2018-04-26,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR93,2018-04-22,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR92,2018-04-21,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,International,0,BGR
+BGR91,2018-04-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR90,2018-04-17,1,Protests,Peaceful protest,Protesters (Bulgaria),Students (Bulgaria); Teachers (Bulgaria),,,Bulgaria,Sliven,Sliven,Sliven,42.6858,26.3292,1,National,0,BGR
+BGR89,2018-04-12,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR86,2018-04-11,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Shumen,Shumen,Shumen,43.2767,26.9292,1,National,0,BGR
+BGR87,2018-04-11,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR84,2018-04-10,1,Protests,Peaceful protest,Protesters (Bulgaria),Za Zemiata,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,International,0,BGR
+BGR83,2018-04-03,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR82,2018-04-01,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR79,2018-03-26,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria),,,Bulgaria,Ruse,Ruse,Ruse,43.8564,25.9708,1,National,0,BGR
+BGR80,2018-03-26,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Varna,Varna,Varna,43.2167,27.9167,1,National,0,BGR
+BGR78,2018-03-25,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR77,2018-03-24,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Pernik,Pernik,Pernik,42.6,23.0333,1,National,0,BGR
+BGR75,2018-03-23,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Pernik,Pernik,Pernik,42.6,23.0333,1,National,0,BGR
+BGR76,2018-03-23,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR72,2018-03-15,1,Protests,Peaceful protest,Protesters (Bulgaria),Health Workers (Bulgaria),,,Bulgaria,Pazardzhik,Pazardzhik,Pazardzhik,42.2,24.3333,1,National,0,BGR
+BGR64,2018-03-04,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Plovdiv,Plovdiv,Plovdiv,42.15,24.75,1,National,0,BGR
+BGR63,2018-03-01,1,Protests,Peaceful protest,Protesters (Bulgaria),Health Workers (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR62,2018-02-24,1,Protests,Peaceful protest,Protesters (Bulgaria),Kurdish Ethnic Group (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR56,2018-02-22,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR55,2018-02-20,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR53,2018-02-17,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR54,2018-02-17,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Vidin,Vidin,Vidin,43.99,22.8725,1,National,0,BGR
+BGR48,2018-02-14,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR47,2018-02-12,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR45,2018-02-10,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Vidin,Vidin,Vidin,43.99,22.8725,1,National,0,BGR
+BGR42,2018-02-09,2,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR43,2018-02-09,2,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR40,2018-02-06,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR37,2018-02-05,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Pazardzhik,Septemvri,Septemvri,42.2114,24.1295,1,National,0,BGR
+BGR39,2018-02-05,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR35,2018-02-03,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Vidin,Vidin,Vidin,43.99,22.8725,1,National,0,BGR
+BGR34,2018-02-03,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR27,2018-01-27,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Vidin,Vidin,Vidin,43.99,22.8725,1,National,0,BGR
+BGR24,2018-01-25,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR22,2018-01-22,2,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria),,,Bulgaria,Kyustendil,Dupnitsa,Dupnitsa,42.2667,23.1167,1,National,0,BGR
+BGR23,2018-01-22,1,Protests,Peaceful protest,Protesters (Bulgaria),Journalists (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR21,2018-01-19,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR19,2018-01-17,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Burgas,Burgas,Burgas,42.5061,27.4678,1,National,0,BGR
+BGR18,2018-01-14,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR14,2018-01-11,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria); Police Forces of Bulgaria (2017-2021),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,International,0,BGR
+BGR144,2018-07-05,1,Riots,Violent demonstration,Rioters (Bulgaria),,Police Forces of Bulgaria (2017-2021),,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR174,2018-09-04,1,Riots,Violent demonstration,Rioters (Bulgaria),,Police Forces of Bulgaria (2017-2021),,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR182,2018-09-21,1,Riots,Violent demonstration,Rioters (Bulgaria),Labor Group (Bulgaria),Police Forces of Bulgaria (2017-2021),,Bulgaria,Burgas,Karnobat,Karnobat,42.65,26.9833,1,National,0,BGR
+BGR230,2018-10-29,1,Riots,Mob violence,Rioters (Bulgaria),Romani Ethnic Group (Bulgaria),Police Forces of Bulgaria (2017-2021),,Bulgaria,Stara Zagora,Myglizh,Maglizh,42.6,25.55,1,International,0,BGR
+BGR255,2018-11-11,1,Riots,Violent demonstration,Rioters (Bulgaria),,Police Forces of Bulgaria (2017-2021),,Bulgaria,Blagoevgrad,Blagoevgrad,Blagoevgrad,42.0167,23.1,2,National,0,BGR
+BGR256,2018-11-11,1,Riots,Violent demonstration,Rioters (Bulgaria),,Police Forces of Bulgaria (2017-2021),,Bulgaria,Burgas,Burgas,Burgas,42.5061,27.4678,2,International,0,BGR
+BGR264,2018-11-11,1,Protests,Protest with intervention,Protesters (Bulgaria),,Police Forces of Bulgaria (2017-2021),,Bulgaria,Sliven,Sliven,Sliven,42.6858,26.3292,1,National,0,BGR
+BGR266,2018-11-11,1,Protests,Protest with intervention,Protesters (Bulgaria),,Police Forces of Bulgaria (2017-2021) Prison Guards,,Bulgaria,Lovech,Yablanitsa,Yablanitsa,43.0314,24.1128,1,National,0,BGR
+BGR28,2018-01-29,1,Protests,Peaceful protest,Protesters (Bulgaria),Police Forces of Bulgaria (2017-2021) Prison Guards,,,Bulgaria,Kyustendil,Bobov dol,Bobov dol,42.3626,23.0032,1,National,0,BGR
+BGR295,2018-11-18,1,Protests,Protest with intervention,Protesters (Bulgaria),,Police Forces of Bulgaria (2017-2021),,Bulgaria,Blagoevgrad,Petrich,Petrich,41.3985,23.207,2,National,0,BGR
+BGR30,2018-01-29,1,Protests,Peaceful protest,Protesters (Bulgaria),Police Forces of Bulgaria (2017-2021) Prison Guards,,,Bulgaria,Lovech,Lovech,Lovech,43.1333,24.7167,1,National,0,BGR
+BGR31,2018-01-29,1,Protests,Peaceful protest,Protesters (Bulgaria),Police Forces of Bulgaria (2017-2021) Prison Guards,,,Bulgaria,Pleven,Pleven,Pleven,43.4167,24.6167,1,National,0,BGR
+BGR32,2018-01-29,1,Protests,Peaceful protest,Protesters (Bulgaria),Police Forces of Bulgaria (2017-2021) Prison Guards,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,International,0,BGR
+BGR33,2018-01-29,1,Protests,Peaceful protest,Protesters (Bulgaria),Police Forces of Bulgaria (2017-2021) Prison Guards,,,Bulgaria,Varna,Varna,Varna,43.2167,27.9167,1,National,0,BGR
+BGR359,2018-12-09,1,Protests,Protest with intervention,Protesters (Bulgaria),,Police Forces of Bulgaria (2017-2021),,Bulgaria,Blagoevgrad,Kresna,Kresna,41.7333,23.15,1,National,0,BGR
+BGR371,2018-12-21,1,Strategic developments,Other,Police Forces of Bulgaria (2017-2021),,Civilians (Libya),,Bulgaria,Burgas,Burgas,Burgas,42.5061,27.4678,1,International,0,BGR
+BGR50,2018-02-16,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria); Police Forces of Bulgaria (2017-2021) Prison Guards,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR58,2018-02-23,1,Protests,Peaceful protest,Protesters (Bulgaria),Police Forces of Bulgaria (2017-2021) Prison Guards,,,Bulgaria,Plovdiv,Plovdiv,Plovdiv,42.15,24.75,1,National,0,BGR
+BGR59,2018-02-23,1,Protests,Peaceful protest,Protesters (Bulgaria),Police Forces of Bulgaria (2017-2021) Prison Guards,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR61,2018-02-24,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria); Police Forces of Bulgaria (2017-2021) Prison Guards,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR68,2018-03-07,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria); Police Forces of Bulgaria (2017-2021) Prison Guards,,,Bulgaria,Silistra,Silistra,Silistra,44.1167,27.2667,1,National,0,BGR
+BGR69,2018-03-07,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria); Police Forces of Bulgaria (2017-2021) Prison Guards,,,Bulgaria,Vidin,Vidin,Vidin,43.99,22.8725,1,National,0,BGR
+BGR70,2018-03-10,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria); Police Forces of Bulgaria (2017-2021) Prison Guards,,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National,0,BGR
+BGR334,2018-11-25,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Montana,Montana,Montana,43.4085,23.2257,1,National,0,BGR
+BGR287,2018-11-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Haskovo,Dimitrovgrad,Dimitrovgrad,42.0548,25.6036,1,National,0,BGR
+BGR294,2018-11-18,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Montana,Montana,Montana,43.4085,23.2257,1,National,0,BGR
+BGR257,2018-11-11,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Plovdiv,Karlovo,Karlovo,42.6414,24.8058,1,National,0,BGR
+BGR259,2018-11-11,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Montana,Montana,Montana,43.4085,23.2257,1,National,0,BGR
+BGR240,2018-11-03,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Montana,Montana,Montana,43.4085,23.2257,1,National,0,BGR
+BGR238,2018-11-03,1,Riots,Mob violence,Rioters (Bulgaria),,Police Forces of Bulgaria (2017-2021) Prison Guards,,Bulgaria,Sofia,Botevgrad,Botevgrad,42.9077,23.7934,2,National,0,BGR
+BGR171,2018-09-01,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Sofia,Bozhurische,Bozhurishte,42.763,23.1984,1,National,0,BGR
+BGR161,2018-08-13,1,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Plovdiv,Karlovo,Karlovo,42.6414,24.8058,1,National,0,BGR
+BGR5,2018-01-04,3,Protests,Peaceful protest,Protesters (Bulgaria),,,,Bulgaria,Montana,Montana,Montana,43.4085,23.2257,3,National-International,0,BGR
+BGR348,2018-11-29,1,Protests,Peaceful protest,Protesters (Bulgaria),Labor Group (Bulgaria),,,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National-International,0,BGR
+BGR52,2018-02-17,1,Protests,Peaceful protest,Protesters (Bulgaria),BNU-ND: Bulgarian National Union-New Democracy,Protesters (Bulgaria),Antifa,Bulgaria,Sofia City,Sofia,Sofia,42.6974,23.3212,1,National-International,0,BGR

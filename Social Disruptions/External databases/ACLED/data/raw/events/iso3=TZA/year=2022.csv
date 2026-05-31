@@ -1,0 +1,77 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+TAZ959,2022-01-02,1,Violence against civilians,Attack,Military Forces of Tanzania (1964-),,Civilians (Tanzania),,Tanzania,Pwani,Kibaha Urban,Kibaha,-6.7666,38.9167,2,National,1,TZA
+TAZ961,2022-01-18,2,Violence against civilians,Attack,Military Forces of Tanzania (1964-),,Civilians (Tanzania),,Tanzania,Pwani,Kibaha Urban,Kibaha,-6.7666,38.9167,2,National,1,TZA
+TAZ968,2022-01-30,1,Battles,Armed clash,Maasai Ethnic Militia (Tanzania),Pastoralists (Tanzania),Unidentified Communal Militia (Tanzania),Farmers (Tanzania),Tanzania,Tanga,Kilindi,Kilindi,-5.6333,37.6,2,New media-National,6,TZA
+TAZ965,2022-01-08,1,Strategic developments,Other,Civilians (Mozambique),Refugees/IDPs (Mozambique),,,Tanzania,Mtwara,Masasi,Mchauru,-11.119,39.1721,2,Other,0,TZA
+TAZ967,2022-01-29,2,Strategic developments,Looting/property destruction,Unidentified Communal Militia (Tanzania),,Civilians (Tanzania),,Tanzania,Katavi,Mlele,Sitalike,-6.5976,31.1584,2,National,0,TZA
+TAZ971,2022-02-07,2,Strategic developments,Looting/property destruction,Police Forces of Tanzania (1964-),Sungusungu Communal Militia (Tanzania),Civilians (Burundi),Refugees/IDPs (Burundi); Farmers (Burundi),Tanzania,Kigoma,Kasulu,Nyarugusu Refugee Camp,-4.2251,30.394,1,New media,0,TZA
+TAZ966,2022-01-24,1,Riots,Mob violence,Rioters (Tanzania),Vigilante Group (Tanzania),Civilians (Tanzania),,Tanzania,Katavi,Mlele,Mtisi,-6.4379,31.143,1,National,1,TZA
+TAZ973,2022-02-14,1,Violence against civilians,Attack,Police Forces of Tanzania (1964-) Prison Guards,,Civilians (Tanzania),Prisoners (Tanzania),Tanzania,Tabora,Tabora Urban,Tabora,-5.0167,32.8,1,National,1,TZA
+TAZ979,2022-02-28,1,Riots,Mob violence,Rioters (Tanzania),Vigilante Group (Tanzania),Civilians (Tanzania),,Tanzania,Mtwara,Mtwara Urban,Mtwara,-10.2667,40.1833,1,Other,0,TZA
+TAZ980,2022-03-01,1,Violence against civilians,Attack,Police Forces of Tanzania (1964-),,Civilians (Burundi),Refugees/IDPs (Burundi),Tanzania,Kigoma,Kibondo,Nduta Refugee Camp,-3.5838,30.7152,1,New media,1,TZA
+TAZ977,2022-02-19,2,Violence against civilians,Sexual violence,Police Forces of Tanzania (1964-),,Civilians (Burundi),Refugees/IDPs (Burundi),Tanzania,Kigoma,Kibondo,Nduta Refugee Camp,-3.5838,30.7152,1,New media,0,TZA
+TAZ981,2022-03-08,1,Strategic developments,Arrests,Police Forces of Tanzania (1964-),,Civilians (Ethiopia),Civilians (Tanzania),Tanzania,Iringa,Kilolo,Ilula,-7.6766,36.0366,2,National,0,TZA
+TAZ988,2022-04-29,1,Strategic developments,Arrests,Police Forces of Tanzania (1964-),,Civilians (Ethiopia),Migrants (Ethiopia),Tanzania,Mwanza,Misungwi,Misungwi,-2.8402,33.0712,2,New media-National,0,TZA
+TAZ991,2022-04-28,2,Strategic developments,Arrests,Police Forces of Tanzania (1964-),,Civilians (Ethiopia),Migrants (Ethiopia),Tanzania,Iringa,Kilolo,Comfort,-7.6781,36.2067,2,New media-National,0,TZA
+TAZ993,2022-04-28,2,Strategic developments,Arrests,Police Forces of Tanzania (1964-),,Civilians (Ethiopia),,Tanzania,Iringa,Iringa Urban,Iringa,-7.7667,35.7,1,New media-National,0,TZA
+TAZ989,2022-05-02,2,Riots,Mob violence,Rioters (Tanzania),Vigilante Group (Tanzania),Civilians (Tanzania),,Tanzania,Iringa,Iringa Urban,Iringa,-7.7667,35.7,1,National,0,TZA
+TAZ992,2022-05-03,2,Protests,Peaceful protest,Protesters (Tanzania),,,,Tanzania,Mwanza,Sengerema,Bitoto,-2.7649,32.7852,1,National,0,TZA
+TAZ996,2022-04-13,2,Riots,Mob violence,Rioters (Tanzania),Vigilante Group (Tanzania),Civilians (Tanzania),,Tanzania,Tanga,Handeni,Mkata,-5.7875,38.2923,1,National,1,TZA
+TAZ995,2022-04-27,1,Protests,Peaceful protest,Protesters (Tanzania),Taxi Drivers (Tanzania),,,Tanzania,Tanga,Handeni,Mkata,-5.7875,38.2923,1,New media,0,TZA
+TAZ1003,2022-05-24,1,Violence against civilians,Attack,Police Forces of Tanzania (1964-),,Civilians (Tanzania),Prisoners (Tanzania),Tanzania,Arusha,Arusha,Mount Meru,-3.2467,36.7483,1,National,1,TZA
+TAZ1014,2022-07-26,1,Violence against civilians,Attack,Military Forces of Tanzania (1964-),,Civilians (Burundi),Refugees/IDPs (Burundi),Tanzania,Kigoma,Kibondo,Kibondo,-3.584,30.7182,1,New media,2,TZA
+TAZ1010,2022-07-12,2,Violence against civilians,Attack,Maasai Ethnic Militia (Tanzania),Pastoralists (Tanzania),Civilians (Tanzania),Farmers (Tanzania),Tanzania,Kilimanjaro,Siha,Siha,-3.2308,37.1009,2,National,0,TZA
+TAZ1011,2022-07-06,1,Violence against civilians,Attack,Police Forces of Tanzania (1964-) Wildlife Rangers,,Civilians (Tanzania),,Tanzania,Kilimanjaro,Same,Mkomazi Natural Reserve,-4.1664,38.1671,1,National,1,TZA
+TAZ1015,2022-08-11,1,Strategic developments,Arrests,Police Forces of Tanzania (1964-),,Civilians (Ethiopia),Migrants (Ethiopia),Tanzania,Kilimanjaro,Mwanga,Lembeni,-3.7838,37.6167,2,National,0,TZA
+TAZ1017,2022-09-09,2,Strategic developments,Arrests,Police Forces of Tanzania (1964-),,Civilians (Ethiopia),Migrants (Ethiopia),Tanzania,Iringa,Iringa Urban,Iringa,-7.7667,35.7,2,National,0,TZA
+TAZ958,2022-01-06,1,Riots,Mob violence,Rioters (Tanzania),,,,Tanzania,Kigoma,Kibondo,Nduta Refugee Camp,-3.5838,30.7152,1,New media,0,TZA
+TAZ957,2022-01-05,1,Riots,Mob violence,Rioters (Tanzania),,,,Tanzania,Kigoma,Kasulu,Nyarugusu Refugee Camp,-4.2251,30.394,1,New media,0,TZA
+TAZ1021,2022-09-22,1,Protests,Peaceful protest,Protesters (Tanzania),Labor Group (Tanzania),,,Tanzania,Mbeya,Mbeya Urban,Mbeya,-8.9,33.45,1,National,0,TZA
+TAZ1022,2022-09-22,1,Violence against civilians,Attack,Police Forces of Tanzania (1964-),,Civilians (Tanzania),Farmers (Tanzania),Tanzania,Mara,Serengeti,Serengeti National Park,-2.3333,34.8333,2,National,3,TZA
+TAZ998,2022-05-19,2,Riots,Mob violence,Rioters (Tanzania),Vigilante Group (Tanzania),Sungusungu Communal Militia (Tanzania),,Tanzania,Shinyanga,Shinyanga Urban,Shinyanga,-3.6666,33.4333,2,National,0,TZA
+TAZ999,2022-05-19,2,Violence against civilians,Attack,Sungusungu Communal Militia (Tanzania),,Civilians (Tanzania),,Tanzania,Shinyanga,Shinyanga Urban,Shinyanga,-3.6666,33.4333,2,National,1,TZA
+TAZ1024,2022-10-06,2,Strategic developments,Arrests,Police Forces of Tanzania (1964-),,Civilians (Burundi),Refugees/IDPs (Burundi),Tanzania,Kigoma,Kigoma Urban,Kigoma,-4.8769,29.6267,2,New media,0,TZA
+TAZ1026,2022-10-17,2,Violence against civilians,Attack,Police Forces of Tanzania (1964-),,Civilians (Burundi),Refugees/IDPs (Burundi),Tanzania,Kigoma,Kibondo,Nduta Refugee Camp,-3.5838,30.7152,1,New media,0,TZA
+TAZ1027,2022-10-07,1,Riots,Mob violence,Rioters (Tanzania),,Civilians (Burundi),Refugees/IDPs (Burundi),Tanzania,Kigoma,Kibondo,Nduta Refugee Camp,-3.5838,30.7152,1,New media,0,TZA
+TAZ1023,2022-09-24,2,Violence against civilians,Attack,Unidentified Armed Group (Tanzania),,Civilians (Tanzania),Pastoralists (Tanzania),Tanzania,Ruvuma,Tunduru,Mbatamila,-10.9987,36.97,1,National,4,TZA
+TAZ1030,2022-11-10,2,Strategic developments,Arrests,Police Forces of Tanzania (1964-),,Civilians (Tanzania),Labor Group (Tanzania),Tanzania,Rukwa,Sumbawanga Urban,Sumbawanga,-7.9667,31.6167,3,National,0,TZA
+TAZ1029,2022-11-05,2,Riots,Mob violence,Rioters (Burundi),Refugees/IDPs (Burundi),Police Forces of Tanzania (1964-),,Tanzania,Kigoma,Kibondo,Nduta Refugee Camp,-3.5838,30.7152,1,New media,0,TZA
+TAZ1019,2022-08-21,1,Protests,Peaceful protest,Protesters (Tanzania),Muslim Group (Tanzania); Taxi Drivers (Tanzania),,,Tanzania,Arusha,Arusha Urban,Arusha,-3.3666,36.6833,1,New media-National,0,TZA
+TAZ984,2022-03-19,1,Strategic developments,Arrests,Police Forces of Tanzania (1964-),,Civilians (Ethiopia),Civilians (Somalia); Migrants (Somalia); Migrants (Ethiopia),Tanzania,Kilimanjaro,Mwanga,Lembeni,-3.7838,37.6167,1,National,0,TZA
+TAZ969,2022-01-31,1,Violence against civilians,Attack,Unidentified Armed Group (Tanzania),,Civilians (Tanzania),Government of Tanzania (1964-),Tanzania,Mbeya,Mbeya Urban,Mbeya,-8.9,33.45,1,National,1,TZA
+TAZ1094,2022-01-05,1,Violence against civilians,Attack,Police Forces of Tanzania (1964-),,Civilians (Tanzania),Labor Group (Tanzania); Miners (Tanzania); Prisoners (Tanzania),Tanzania,Mtwara,Mtwara Urban,Mtwara,-10.2667,40.1833,1,National,1,TZA
+TAZ1028,2022-10-27,2,Violence against civilians,Attack,Police Forces of Tanzania (1964-) Tanzania National Parks Authority Park Rangers,,Civilians (Tanzania),Farmers (Tanzania),Tanzania,Kilimanjaro,Moshi Urban,Moshi,-3.35,37.3333,2,National,0,TZA
+TAZ1013,2022-07-28,2,Strategic developments,Arrests,SAMIM: SADC Mission in Mozambique,,Civilians (Mozambique),Muslim Group (Mozambique),Tanzania,Mtwara,Mtwara Urban,Mtwara,-10.2667,40.1833,2,Regional,0,TZA
+TAZ1001,2022-06-03,2,Riots,Mob violence,Rioters (Tanzania),Street Traders (Tanzania),Police Forces of Tanzania (1964-),,Tanzania,Geita,Geita,Geita,-2.8666,32.1667,1,National,1,TZA
+TAZ1020,2022-08-27,2,Riots,Mob violence,Rioters (Tanzania),,Civilians (Tanzania),Labor Group (Tanzania),Tanzania,Geita,Geita,Geita,-2.8666,32.1667,2,National-Regional,0,TZA
+TAZ972,2022-02-02,1,Violence against civilians,Attack,Police Forces of Tanzania (1964-) Prison Guards,,Civilians (Tanzania),Prisoners (Tanzania),Tanzania,Morogoro,Kilosa,Kilosa,-6.8298,36.9924,1,National,0,TZA
+TAZ975,2022-02-24,1,Riots,Mob violence,Rioters (Tanzania),Vigilante Group (Tanzania),Civilians (Tanzania),,Tanzania,Geita,Geita,Geita,-2.8666,32.1667,1,National,1,TZA
+TAZ978,2022-02-03,1,Violence against civilians,Attack,Police Forces of Tanzania (1964-) Prison Guards,,Civilians (Tanzania),Prisoners (Tanzania),Tanzania,Morogoro,Kilosa,Kilosa,-6.8298,36.9924,1,National,1,TZA
+TAZ986,2022-03-30,2,Protests,Peaceful protest,Protesters (Tanzania),,,,Tanzania,Geita,Geita,Mwatulole,-2.8931,32.2696,1,National,0,TZA
+TAZ997,2022-05-10,2,Protests,Protest with intervention,Protesters (Tanzania),Students (Tanzania),Police Forces of Tanzania (1964-),,Tanzania,Geita,Geita,Geita,-2.8666,32.1667,1,New media-National,0,TZA
+TAZ1012,2022-07-20,1,Riots,Mob violence,Rioters (Tanzania),CCM: Chama Cha Mapinduzi,Civilians (Tanzania),CHADEMA: Party for Democracy and Progress,Tanzania,Arusha,Monduli,Arusha,-3.3894,36.6818,1,National,0,TZA
+TAZ990,2022-05-01,2,Strategic developments,Arrests,Police Forces of Tanzania (1964-),,Civilians (Ethiopia),Migrants (Ethiopia),Tanzania,Tanga,Korogwe,Mombo,-4.8925,38.2925,1,National,0,TZA
+TAZ1000,2022-05-31,1,Violence against civilians,Attack,Police Forces of Tanzania (1964-),,Civilians (Tanzania),Farmers (Tanzania),Tanzania,Morogoro,Morogoro Urban,Morogoro,-6.8167,37.6667,2,National,1,TZA
+TAZ1016,2022-06-30,1,Violence against civilians,Attack,Islamic State Mozambique (ISM),,Civilians (Tanzania),,Tanzania,Mtwara,Mtwara Urban,Mtwara,-10.2667,40.1833,2,New media-International,4,TZA
+TAZ1025,2022-10-15,1,Violence against civilians,Attack,Islamic State Mozambique (ISM),,Civilians (Tanzania),,Tanzania,Mtwara,Mtwara Urban,Mtwara,-10.2667,40.1833,2,Regional-International,2,TZA
+TAZ976,2022-02-16,2,Violence against civilians,Attack,Islamic State Central Africa Province (ISCAP),,Civilians (Tanzania),Taxi Drivers (Tanzania),Tanzania,Mtwara,Mtwara,Hiyari,-10.258,40.0435,2,Other,1,TZA
+TAZ1005,2022-06-10,1,Riots,Violent demonstration,Rioters (Tanzania),Pastoralists (Tanzania); Maasai Ethnic Group (Tanzania),Police Forces of Tanzania (1964-),,Tanzania,Arusha,Ngorongoro,Loliondo,-2.05,35.6167,1,National-Regional,1,TZA
+TAZ1002,2022-05-16,1,Violence against civilians,Attack,Police Forces of Tanzania (1964-),,Civilians (Tanzania),Prisoners (Tanzania); Students (Tanzania),Tanzania,Mwanza,Nyamagana,Mwanza,-2.5167,32.9,1,National,0,TZA
+TAZ1006,2022-06-12,1,Violence against civilians,Attack,Unidentified Armed Group (Tanzania),,Civilians (Tanzania),CCM: Chama Cha Mapinduzi,Tanzania,Kusini Unguja,Kati,Zanzibar,-6.1666,39.3333,1,National,0,TZA
+TAZ1007,2022-06-17,1,Protests,Peaceful protest,Protesters (Tanzania),Maasai Ethnic Group (Tanzania),,,Tanzania,Dar es Salaam,Ilala,Dar es Salaam,-6.8167,39.2833,1,National-International,0,TZA
+TAZ1008,2022-06-20,2,Riots,Mob violence,Rioters (Tanzania),Vigilante Group (Tanzania),Civilians (Tanzania),Students (Tanzania); Women (Tanzania),Tanzania,Mwanza,Nyamagana,Mwanza,-2.5167,32.9,1,National,0,TZA
+TAZ1018,2022-08-22,2,Protests,Peaceful protest,Protesters (Tanzania),Taxi Drivers (Tanzania),,,Tanzania,Dar es Salaam,Ilala,Dar es Salaam,-6.8167,39.2833,2,New media-National,0,TZA
+TAZ1031,2022-12-06,2,Strategic developments,Arrests,Police Forces of Tanzania (1964-),,Civilians (Tanzania),Migrants (Tanzania),Tanzania,Dar es Salaam,Ilala,Dar es Salaam,-6.8167,39.2833,1,National,0,TZA
+TAZ960,2022-01-17,1,Protests,Protest with intervention,Protesters (Tanzania),Labor Group (Tanzania),Police Forces of Tanzania (1964-),,Tanzania,Dar es Salaam,Ilala,Dar es Salaam,-6.8167,39.2833,2,New media-Regional,0,TZA
+TAZ982,2022-03-14,1,Protests,Peaceful protest,Protesters (Tanzania),Labor Group (Tanzania),,,Tanzania,Mwanza,Nyamagana,Mwanza,-2.5167,32.9,2,National,0,TZA
+TAZ983,2022-03-14,1,Protests,Peaceful protest,Protesters (Tanzania),,,,Tanzania,Mwanza,Nyamagana,Mwanza,-2.5167,32.9,1,National,0,TZA
+TAZ985,2022-03-31,2,Strategic developments,Arrests,Police Forces of Tanzania (1964-),,Civilians (India),Migrants (India),Tanzania,Mjini Magharibi,Mjini,Zanzibar Town,-6.1629,39.1917,2,National,0,TZA
+TAZ987,2022-04-21,2,Protests,Peaceful protest,Protesters (Tanzania),Taxi Drivers (Tanzania),,,Tanzania,Dar es Salaam,Ilala,Dar es Salaam,-6.8167,39.2833,1,National,0,TZA
+TAZ994,2022-04-25,1,Violence against civilians,Attack,Unidentified Armed Group (Tanzania),,Civilians (Tanzania),Albino Group (Tanzania),Tanzania,Dar es Salaam,Kinondoni,Mabibo,-6.8,39.2167,1,International,0,TZA
+TAZ1288,2022-12-17,1,Riots,Mob violence,Rioters (Tanzania),Vigilante Group (Tanzania),Civilians (Tanzania),Women (Tanzania),Tanzania,Dodoma,Bahi,Mwitikila,-6.5011,35.5958,1,National,1,TZA
+TAZ1370,2022-11-14,1,Protests,Peaceful protest,Protesters (Tanzania),,,,Tanzania,Dar es Salaam,Kinondoni,Ubungo,-6.7833,39.2,1,National,0,TZA
+TAZ1383,2022-07-04,1,Violence against civilians,Abduction/forced disappearance,Police Forces of Tanzania (1964-),,Civilians (Tanzania),,Tanzania,Iringa,Iringa Urban,Iringa,-7.7667,35.7,1,National,0,TZA
+TAZ1384,2022-08-18,1,Violence against civilians,Abduction/forced disappearance,Police Forces of Tanzania (1964-),,Civilians (Tanzania),Labor Group (Tanzania),Tanzania,Dar es Salaam,Ilala,Dar es Salaam,-6.8167,39.2833,1,National,0,TZA
+TAZ1385,2022-09-06,1,Violence against civilians,Abduction/forced disappearance,Police Forces of Tanzania (1964-),,Civilians (Tanzania),,Tanzania,Dar es Salaam,Temeke,Mbagala,-6.9,39.2667,1,National,0,TZA
+TAZ1415,2022-06-09,1,Violence against civilians,Abduction/forced disappearance,Police Forces of Tanzania (1964-),,Civilians (Tanzania),Government of Tanzania (1964-),Tanzania,Arusha,Ngorongoro,Loliondo,-2.05,35.6167,1,National-Regional,0,TZA
+TAZ1425,2022-06-12,1,Violence against civilians,Abduction/forced disappearance,Police Forces of Tanzania (1964-),,Civilians (Tanzania),,Tanzania,Arusha,Ngorongoro,Loliondo,-2.05,35.6167,1,National,0,TZA

@@ -1,0 +1,148 @@
+COMBINED FLOOD DATASET — DESIGN APPROACH
+=========================================
+
+PURPOSE
+-------
+The combined dataset merges the GDELT news-extraction pipeline with the
+authoritative reference database pipeline into a single flat table. Its
+primary purposes are:
+
+  1. Visualisation of coverage, hydro-climate signals, and impact data
+     across all events — matched and unmatched.
+  2. Validation that the matching approach is sound (compare ref_* hydro
+     fields with gdelt_* hydro fields on matched rows to verify they agree).
+  3. Feature propagation: use the reference dataset's richer impact and
+     hydro fields to impute missing values in GDELT-only events (next stage).
+
+
+ROW STRUCTURE
+-------------
+Each row is one of three types, identified by the `row_type` column:
+
+  matched_gdelt   — A GDELT article-event that was matched to a reference
+                    event. Both ref_* and gdelt_* columns are populated.
+                    Multiple matched_gdelt rows may share the same cluster_id
+                    (when several news articles all describe the same physical
+                    flood as recorded in the reference database).
+
+  unmatched_gdelt — A GDELT event with no reference match. gdelt_* columns
+                    are populated; ref_* columns are null.
+
+  unmatched_ref   — A reference event with no GDELT match. ref_* columns are
+                    populated; gdelt_* columns are null.
+
+
+COLUMN NAMING CONVENTION
+-------------------------
+  canonical_*   Best available value for that field (reference preferred
+                over GDELT where a match exists). Use these for maps,
+                timelines, and cross-row comparisons.
+
+  ref_*         Field sourced directly from the reference database record.
+                Includes impact (dead, affected, damage) and all hydro-
+                climate fields. Null for unmatched_gdelt rows.
+
+  gdelt_*       Field sourced directly from the GDELT extraction. Includes
+                article metadata, LLM confidence, and all hydro-climate
+                fields. Null for unmatched_ref rows.
+
+  match_score   Weighted similarity score [0, 1] from the matching pipeline
+                (null for unmatched rows). Components: geo distance (0.30),
+                temporal overlap (0.20), hydro fingerprint (0.35), location
+                text (0.15).
+
+  cluster_id    Groups all rows that describe the same physical flood event.
+                For matched clusters this is a content hash of the reference
+                event (date + country + lat/lon); for singletons it equals
+                the event_id. Stable across rebuilds provided geocoding is
+                unchanged.
+
+  n_gdelt_in_cluster
+                How many GDELT articles matched this reference event.
+                Useful for filtering high-confidence events (> 1 article).
+
+
+HYDRO-CLIMATE FIELDS (shared names, both ref_* and gdelt_* prefixed)
+---------------------------------------------------------------------
+  chirps_*        CHIRPS satellite rainfall (3/7/14/30-day totals, anomaly)
+  gpm_*           GPM IMERG rainfall (1/3/7-day, peak 3h and daily)
+  era5_*          ERA5 soil moisture (surface and deep) and runoff
+  spi_30d         Standardised Precipitation Index (30-day)
+  pop_*           Population density and count within 25 km
+  jrc_*           JRC surface water occurrence and recurrence percentiles
+  terrain_slope_mean  Mean terrain slope within buffer
+
+
+OUTPUTS
+-------
+  combined_floods.jsonl   Full fidelity, newline-delimited JSON. Nested
+                          fields (ref_matched_sources, ref_source_ids) are
+                          stored as native JSON types. Load with pandas:
+                            pd.read_json("combined_floods.jsonl", lines=True)
+
+  combined_floods.csv     Same rows but flat: nested types serialised as
+                          JSON strings. Suitable for Excel, Tableau, or
+                          any tool that expects flat CSV.
+
+  build_summary.json      Coverage statistics: match rates, hydro
+                          completeness percentages for ref and GDELT.
+
+
+DEPENDENCY CHAIN AND REBUILD
+------------------------------
+Run these in order to produce fully up-to-date outputs:
+
+  1. Builder_Reference — builds reference_floods_enriched.jsonl
+       python Builder_Reference/build.py
+
+  2. Builder_GDELT extraction — builds per-day extractions and consolidated JSONL
+       python master_pipeline.py  (Stages 1 + 2)
+       — OR for extraction only —
+       python -m Builder_GDELT.pipelineRunner
+
+  3. Builder_GDELT enrichment — GEE-enriches flood events, builds all_floods_enriched.jsonl
+       python master_pipeline.py  (Stage 3)
+       — OR standalone —
+       python -m Builder_GDELT.run_enrichment --date-from YYYY-MM-DD --date-to YYYY-MM-DD
+
+  4. Builder_Matching — matches events, writes gdelt_floods_matched.jsonl
+     AND match_index.json (positional gdelt→ref index used by step 5)
+       python -m Builder_Matching.matching.run_matching
+
+  5. Builder_Combined — assembles the combined table (this folder)
+       python Builder_Combined/build_combined.py
+
+Steps 1–4 can be re-run independently whenever new data arrives.
+Step 5 is always a fast re-assembly (no network calls) and can be re-run
+any time steps 1–4 have been updated.
+
+Note: extraction (step 2) and GEE enrichment (step 3) are intentionally
+separate. Extraction is fast; GEE is slow. Running them as separate stages
+means new date ranges can be extracted quickly without waiting for GEE.
+
+The match_index.json written by step 3 is a positional mapping
+(gdelt array index → ref array index) that allows build_combined.py to
+join the two datasets reliably without re-running the matching algorithm.
+It contains only integer indices and is invalidated any time run_matching
+is re-run, at which point build_combined.py should also be re-run.
+
+
+NEXT STAGE: FEATURE PROPAGATION
+---------------------------------
+The combined dataset is the input for the propagation stage, which aims
+to impute missing GDELT features (primarily impact fields: dead, affected,
+damage) using the reference dataset.
+
+Approach under consideration:
+  - On matched rows, validate that ref_* hydro signals agree with gdelt_*
+    hydro signals (correlation / scatter plots). This validates that the
+    matching is capturing the same physical event.
+  - For unmatched GDELT rows, use k-nearest-neighbours in the shared
+    hydro-climate feature space to find similar reference events, then
+    propagate impact fields with a distance-weighted average.
+  - Propagated values are stored with a separate confidence score so
+    downstream users can filter by reliability.
+
+The cluster structure (cluster_id, n_gdelt_in_cluster) and the parallel
+ref_*/gdelt_* hydro columns are deliberately designed to support this
+validation and propagation workflow.

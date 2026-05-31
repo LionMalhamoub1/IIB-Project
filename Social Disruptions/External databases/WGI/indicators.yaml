@@ -1,0 +1,11 @@
+source_id: 3   # WGI (Worldwide Governance Indicators)
+
+indicators:
+  political_stability_est: "PV.EST"
+  government_effectiveness_est: "GE.EST"
+  control_of_corruption_est: "CC.EST"
+
+  # Optional (if you decide to include all 6 dims later)
+  voice_accountability_est: "VA.EST"
+  regulatory_quality_est: "RQ.EST"
+  rule_of_law_est: "RL.EST"

@@ -1,0 +1,605 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+DNK119,2020-04-24,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,Protesters (Denmark),,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other-New media,0,DNK
+DNK126,2020-05-01,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,Protesters (Denmark),FJMP: Free Jazz Against Paludan,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK128,2020-05-02,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK138,2020-05-09,1,Protests,Peaceful protest,Protesters (Denmark),GI: Identitarian Movement Denmark,Protesters (Denmark),,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,National,0,DNK
+DNK16,2020-01-19,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Syddanmark,Tonder,Logumkloster,55.0594,8.9494,1,Subnational,0,DNK
+DNK17,2020-01-19,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Syddanmark,Tonder,Bredebro,55.0575,8.8292,1,Subnational,0,DNK
+DNK175,2020-06-02,1,Protests,Peaceful protest,Protesters (Denmark),LGBTQ+ (Denmark),,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Subnational-National,0,DNK
+DNK18,2020-01-19,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Syddanmark,Tonder,Toftlund,55.189,9.0689,1,Subnational,0,DNK
+DNK19,2020-01-19,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Syddanmark,Tonder,Skaerbaek,55.1568,8.7715,1,Subnational,0,DNK
+DNK190,2020-06-06,1,Riots,Mob violence,Rioters (Denmark),Muslim Group (Denmark),Police Forces of Denmark (2019-),,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other-Subnational,0,DNK
+DNK195,2020-06-07,1,Riots,Mob violence,Rioters (Denmark),Muslim Group (Denmark),Police Forces of Denmark (2019-),,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Subnational-National,0,DNK
+DNK200,2020-06-08,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media-National,0,DNK
+DNK204,2020-06-09,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media-National,0,DNK
+DNK205,2020-06-10,1,Protests,Peaceful protest,Protesters (Denmark),BLM: Black Lives Matter,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,Subnational-National,0,DNK
+DNK209,2020-06-10,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media-National,0,DNK
+DNK21,2020-01-24,1,Protests,Peaceful protest,Protesters (Denmark),LO: Danish Confederation of Trade Unions; Labor Group (Denmark),,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Subnational-National,0,DNK
+DNK217,2020-06-13,1,Protests,Peaceful protest,Protesters (Denmark),Revolutionary Antifascists; Antifa; Joint Initiative Against Racism and Discrimination,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other-New media,0,DNK
+DNK219,2020-06-15,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,Protesters (Denmark),BLM: Black Lives Matter; Revolutionary Antifascists,Denmark,Hovedstaden,Albertslund,Albertslund,55.6582,12.3538,1,New media-National,0,DNK
+DNK227,2020-06-18,1,Protests,Peaceful protest,Protesters (Denmark),BLM: Black Lives Matter,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK231,2020-06-20,1,Protests,Peaceful protest,Protesters (Denmark),BLM: Black Lives Matter,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other-New media,0,DNK
+DNK232,2020-06-20,1,Protests,Peaceful protest,Protesters (Denmark),BLM: Black Lives Matter,,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,Other-National,0,DNK
+DNK233,2020-06-20,1,Protests,Peaceful protest,Protesters (Denmark),Kurdish Ethnic Group (Denmark); Women (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media-National,0,DNK
+DNK247,2020-06-27,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Nordjylland,Vesthimmerlands,Logstor,56.967,9.2504,1,Subnational-National,0,DNK
+DNK250,2020-06-28,2,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,National,0,DNK
+DNK267,2020-07-15,1,Strategic developments,Disrupted weapons use,Police Forces of Denmark (2019-),,Unidentified Armed Group (Denmark),,Denmark,Midtjylland,Horsens,Horsens,55.8604,9.8445,1,Subnational-National,0,DNK
+DNK275,2020-07-22,1,Protests,Peaceful protest,Protesters (Denmark),BLM: Black Lives Matter,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK30,2020-01-25,1,Protests,Peaceful protest,Protesters (Denmark),Time for Peace,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other-National,0,DNK
+DNK312,2020-08-15,1,Protests,Peaceful protest,Protesters (Denmark),Joint Initiative Against Racism and Discrimination,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,New media-National,0,DNK
+DNK32,2020-01-27,1,Protests,Peaceful protest,Protesters (Norway),NMB: Nordic Resistance Movement (Norway),,,Denmark,Hovedstaden,Glostrup,Glostrup,55.6705,12.4006,1,Other,0,DNK
+DNK320,2020-08-18,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Syddanmark,Esbjerg,Esbjerg,55.4678,8.4584,3,Subnational-National,0,DNK
+DNK329,2020-08-23,1,Riots,Mob violence,Rioters (Denmark),Arab Ethnic Group (Denmark),Rioters (Denmark),Somali Ethnic Group (Denmark),Denmark,Syddanmark,Kolding,Kolding,55.4929,9.4681,1,Subnational-National,0,DNK
+DNK349,2020-09-02,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,Subnational,0,DNK
+DNK351,2020-09-02,1,Protests,Peaceful protest,Protesters (Denmark),BLM: Black Lives Matter,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK366,2020-09-11,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK40,2020-01-31,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,Subnational-International,0,DNK
+DNK402,2020-09-28,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media-National,0,DNK
+DNK416,2020-10-06,1,Protests,Peaceful protest,Protesters (Denmark),BLM: Black Lives Matter,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK431,2020-10-10,1,Protests,Peaceful protest,Protesters (Denmark),Farmers (Denmark),,,Denmark,Nordjylland,Jammerbugt,Gjol,57.0686,9.717,1,National,0,DNK
+DNK436,2020-10-12,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other-National,0,DNK
+DNK437,2020-10-12,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,New media,0,DNK
+DNK439,2020-10-13,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other-National,0,DNK
+DNK440,2020-10-14,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Nordjylland,Jammerbugt,Gjol,57.0686,9.717,1,Subnational-National,0,DNK
+DNK441,2020-10-14,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other-National,0,DNK
+DNK443,2020-10-15,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other-National,0,DNK
+DNK445,2020-10-16,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other-National,0,DNK
+DNK453,2020-10-17,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,New media,0,DNK
+DNK485,2020-10-28,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Nordjylland,Vesthimmerlands,Aars,56.8033,9.5168,1,Subnational,0,DNK
+DNK487,2020-10-30,1,Protests,Peaceful protest,Protesters (Denmark),Hizb ut-Tahrir,Protesters (Denmark),SK: Hard Line; GI: Identitarian Movement Denmark,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other-National,0,DNK
+DNK50,2020-02-11,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK516,2020-11-13,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Bornholm,Ronne,55.1024,14.7087,1,Subnational-National,0,DNK
+DNK52,2020-02-14,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,Protesters (Denmark),,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK520,2020-11-15,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media-National,0,DNK
+DNK529,2020-11-21,1,Protests,Peaceful protest,Protesters (Denmark),Farmers (Denmark),,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other-New media,0,DNK
+DNK530,2020-11-21,1,Protests,Peaceful protest,Protesters (Denmark),Farmers (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other-New media,0,DNK
+DNK533,2020-11-22,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK561,2020-11-28,1,Protests,Peaceful protest,Protesters (Denmark),Farmers (Denmark),,,Denmark,Nordjylland,Hjorring,Hjorring,57.459,9.9972,1,Subnational,0,DNK
+DNK578,2020-12-11,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK580,2020-12-12,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Syddanmark,Fredericia,Fredericia,55.5684,9.7395,1,Subnational-National,0,DNK
+DNK583,2020-12-15,1,Protests,Protest with intervention,Protesters (Denmark),,Police Forces of Denmark (2019-),,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK593,2020-12-19,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK60,2020-02-18,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Subnational-National,0,DNK
+DNK70,2020-02-27,1,Protests,Peaceful protest,Protesters (Denmark),GI: Identitarian Movement Denmark; Free Press Society; For Freedom; SK: Hard Line,Protesters (Denmark),Revolutionary Antifascists; Antifascist Youth; Joint Initiative Against Racism and Discrimination; Kurdish Ethnic Group (Denmark); Antifa,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other-National,0,DNK
+DNK75,2020-03-01,1,Protests,Protest with intervention,Protesters (Denmark),Konfront,Police Forces of Denmark (2019-),,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other-New media,0,DNK
+DNK9,2020-01-15,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media-National,0,DNK
+DNK91,2020-03-08,1,Protests,Peaceful protest,Protesters (Denmark),Women (Denmark); Antifa; LGBTQ+ (Denmark); AI: Amnesty International; 3F: United Federation of Danish Workers; Labor Group (Denmark); Students (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,2,Other-National,0,DNK
+DNK240,2020-06-24,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,New media,0,DNK
+DNK481,2020-10-24,1,Protests,Peaceful protest,Protesters (Denmark),AM: Public Resistance,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK172,2020-06-01,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,Protesters (Denmark),,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,New media,0,DNK
+DNK226,2020-06-18,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,New media,0,DNK
+DNK153,2020-05-20,1,Riots,Violent demonstration,Rioters (Denmark),Antifa,Rioters (Denmark),SK: Hard Line; Police Forces of Denmark (2019-),Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,New media,0,DNK
+DNK46,2020-02-03,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK435,2020-10-11,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Nordjylland,Jammerbugt,Gjol,57.0686,9.717,1,New media,0,DNK
+DNK102,2020-03-11,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Syddanmark,Esbjerg,Esbjerg,55.4678,8.4584,1,New media,0,DNK
+DNK101,2020-03-11,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Sjaelland,Lolland,Nakskov,54.8333,11.15,2,New media,0,DNK
+DNK162,2020-05-25,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,New media,0,DNK
+DNK76,2020-03-02,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,New media,0,DNK
+DNK72,2020-02-28,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK433,2020-10-10,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Nordjylland,Jammerbugt,Gjol,57.0686,9.717,1,New media,0,DNK
+DNK475,2020-10-23,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Sjaelland,Slagelse,Korsor,55.3572,11.1349,1,New media,0,DNK
+DNK79,2020-03-04,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK103,2020-03-11,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,New media,0,DNK
+DNK55,2020-02-14,1,Protests,Peaceful protest,Protesters (Denmark),Teachers (Denmark),,,Denmark,Midtjylland,Horsens,Horsens,55.8604,9.8445,1,New media,0,DNK
+DNK85,2020-03-06,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK104,2020-03-12,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK404,2020-09-28,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK53,2020-02-14,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Syddanmark,Esbjerg,Esbjerg,55.4678,8.4584,1,New media,0,DNK
+DNK54,2020-02-14,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,New media,0,DNK
+DNK88,2020-03-07,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark); Polish Ethnic Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK94,2020-03-09,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK573,2020-12-05,1,Protests,Peaceful protest,Protesters (Denmark),AM: Public Resistance,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,National,0,DNK
+DNK140,2020-05-14,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Hovedstaden,Hoje-Taastrup,Hedehusene,55.6487,12.1971,1,National,0,DNK
+DNK471,2020-10-22,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK206,2020-06-10,1,Protests,Peaceful protest,Protesters (Denmark),DKP: Communist Party of Denmark,,,Denmark,Hovedstaden,Herlev,Herlev,55.7188,12.4435,1,National,0,DNK
+DNK251,2020-06-28,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,National,0,DNK
+DNK367,2020-09-11,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,2,National,0,DNK
+DNK163,2020-05-26,1,Protests,Peaceful protest,Protesters (International),Labor Group (Denmark); Labor Group (Sweden),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK506,2020-11-09,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Syddanmark,Svendborg,Svendborg,55.0597,10.6123,1,National,0,DNK
+DNK321,2020-08-18,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,National,0,DNK
+DNK213,2020-06-12,1,Protests,Peaceful protest,Protesters (Denmark),DKP: Communist Party of Denmark,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,National,0,DNK
+DNK199,2020-06-08,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK345,2020-08-31,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK254,2020-06-29,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK290,2020-08-04,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark); 3F: United Federation of Danish Workers,,,Denmark,Hovedstaden,Hoje-Taastrup,Hedehusene,55.6487,12.1971,1,National,0,DNK
+DNK216,2020-06-13,1,Protests,Peaceful protest,Protesters (Denmark),DKP: Communist Party of Denmark,,,Denmark,Sjaelland,Kalundborg,Kalundborg,55.6778,11.0899,1,National,0,DNK
+DNK67,2020-02-25,1,Protests,Peaceful protest,Protesters (Denmark),Government of Denmark (2019-),,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,National,0,DNK
+DNK585,2020-12-18,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK214,2020-06-12,1,Protests,Peaceful protest,Protesters (Denmark),DKP: Communist Party of Denmark,,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,National,0,DNK
+DNK105,2020-03-14,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK542,2020-11-27,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Hovedstaden,Hoje-Taastrup,Taastrup,55.6522,12.292,1,National,0,DNK
+DNK294,2020-08-06,1,Protests,Peaceful protest,Protesters (Denmark),Women (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK420,2020-10-06,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK495,2020-11-01,1,Protests,Peaceful protest,Protesters (Denmark),Polish Ethnic Group (Denmark); Women (Denmark),,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,National,0,DNK
+DNK215,2020-06-12,1,Protests,Peaceful protest,Protesters (Denmark),DKP: Communist Party of Denmark,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,National,0,DNK
+DNK5,2020-01-10,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK99,2020-03-11,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK210,2020-06-11,1,Protests,Peaceful protest,Protesters (Denmark),DKP: Communist Party of Denmark,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK535,2020-11-24,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK260,2020-07-04,1,Protests,Peaceful protest,Protesters (Denmark),Students (Denmark); Refugees/IDPs (Palestine); 3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK87,2020-03-07,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark); 3F: United Federation of Danish Workers; Protesters (Romania),,,Denmark,Nordjylland,Vesthimmerlands,Logstor,56.967,9.2504,1,National,0,DNK
+DNK507,2020-11-09,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,National,0,DNK
+DNK257,2020-06-30,2,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Helsingor,Helsingor,56.0327,12.6129,1,National,0,DNK
+DNK568,2020-12-01,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK527,2020-11-18,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK508,2020-11-09,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Midtjylland,Randers,Randers,56.4618,10.0213,1,National,0,DNK
+DNK392,2020-09-22,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK264,2020-07-10,2,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Hovedstaden,Hoje-Taastrup,Hedehusene,55.6487,12.1971,2,National,0,DNK
+DNK211,2020-06-11,1,Protests,Peaceful protest,Protesters (Denmark),DKP: Communist Party of Denmark,,,Denmark,Sjaelland,Holbaek,Holbaek,55.7179,11.7154,1,National,0,DNK
+DNK427,2020-10-09,1,Protests,Peaceful protest,Protesters (Denmark),Armenian Ethnic Group (Denmark),,,Denmark,Midtjylland,Odder,Gylling,55.89,10.1699,1,Subnational,0,DNK
+DNK364,2020-09-08,1,Protests,Peaceful protest,Protesters (Denmark),Protesters (United Kingdom); BLM: Black Lives Matter,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK500,2020-11-06,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK109,2020-03-20,1,Violence against civilians,Attack,Unidentified Armed Group (Denmark),,Civilians (Denmark),SK: Hard Line,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK592,2020-08-15,1,Protests,Peaceful protest,Protesters (Denmark),LGBTQ+ (Denmark),,,Denmark,Hovedstaden,Gentofte,Hellerup,55.7336,12.5655,1,National,0,DNK
+DNK173,2020-06-01,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK107,2020-03-16,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK77,2020-03-03,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK42,2020-01-31,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK38,2020-01-30,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK8,2020-01-14,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK127,2020-05-01,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Protesters (Poland); Protesters (Lithuania); Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK56,2020-02-14,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK10,2020-01-15,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK479,2020-10-23,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK35,2020-01-29,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK484,2020-10-26,2,Protests,Peaceful protest,Protesters (Denmark),Nigerian Ethnic Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK562,2020-11-29,1,Protests,Peaceful protest,Protesters (Denmark),BLM: Black Lives Matter,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK203,2020-06-09,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,,,Denmark,Hovedstaden,Bornholm,Nexo,55.0614,15.1285,1,Subnational,0,DNK
+DNK567,2020-12-01,1,Protests,Peaceful protest,Protesters (Denmark),BLM: Black Lives Matter,,,Denmark,Hovedstaden,Bornholm,Ronne,55.1024,14.7087,1,Subnational,0,DNK
+DNK464,2020-10-20,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK372,2020-09-12,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK589,2020-12-25,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK315,2020-08-16,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK133,2020-05-06,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Albertslund,Albertslund,55.6582,12.3538,1,National,0,DNK
+DNK295,2020-08-06,1,Riots,Violent demonstration,Rioters (Denmark),,,,Denmark,Hovedstaden,Brondby,Brondby,55.6463,12.4182,1,National,0,DNK
+DNK296,2020-08-06,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK457,2020-10-18,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK586,2020-12-18,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK514,2020-11-13,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK292,2020-08-04,1,Protests,Peaceful protest,Protesters (Denmark),FV: Peace Watch,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK286,2020-08-02,1,Protests,Peaceful protest,Protesters (Denmark),FV: Peace Watch,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK376,2020-09-14,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,New media,0,DNK
+DNK375,2020-09-14,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK165,2020-05-26,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance; Vegan Change,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other,0,DNK
+DNK282,2020-07-29,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,Other,0,DNK
+DNK397,2020-09-22,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,Other,0,DNK
+DNK496,2020-11-03,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other,0,DNK
+DNK69,2020-02-26,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,Other,0,DNK
+DNK539,2020-11-25,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Sjaelland,Roskilde,Roskilde,55.6388,12.0889,1,Other,0,DNK
+DNK515,2020-11-13,2,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Midtjylland,Viborg,Viborg,56.4471,9.3984,1,Other,0,DNK
+DNK274,2020-07-20,2,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other,0,DNK
+DNK323,2020-08-19,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other,0,DNK
+DNK458,2020-10-19,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Midtjylland,Viborg,Viborg,56.4471,9.3984,1,Other,0,DNK
+DNK49,2020-02-08,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other,0,DNK
+DNK386,2020-09-17,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other,0,DNK
+DNK521,2020-11-16,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other,0,DNK
+DNK370,2020-09-11,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other,0,DNK
+DNK180,2020-06-04,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other,0,DNK
+DNK477,2020-10-23,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK306,2020-08-11,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,Other,0,DNK
+DNK476,2020-10-23,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,Other,0,DNK
+DNK576,2020-12-07,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other,0,DNK
+DNK531,2020-11-21,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,Other,0,DNK
+DNK403,2020-09-28,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK159,2020-05-21,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance; Anima,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,Other,0,DNK
+DNK577,2020-12-07,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK229,2020-06-18,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,Other,0,DNK
+DNK270,2020-07-15,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,Other,0,DNK
+DNK512,2020-11-11,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Sjaelland,Roskilde,Roskilde,55.6388,12.0889,1,Other,0,DNK
+DNK369,2020-09-11,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK355,2020-09-04,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other,0,DNK
+DNK365,2020-09-10,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,Other,0,DNK
+DNK343,2020-08-30,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other,0,DNK
+DNK472,2020-10-22,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other,0,DNK
+DNK246,2020-06-26,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Midtjylland,Viborg,Viborg,56.4471,9.3984,1,Other,0,DNK
+DNK243,2020-06-25,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Midtjylland,Viborg,Viborg,56.4471,9.3984,1,Other,0,DNK
+DNK263,2020-07-07,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other,0,DNK
+DNK278,2020-07-24,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK584,2020-12-17,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other,0,DNK
+DNK68,2020-02-25,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other,0,DNK
+DNK455,2020-10-17,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,Other,0,DNK
+DNK559,2020-11-27,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,Other,0,DNK
+DNK382,2020-09-16,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Hovedstaden,Lyngby-Taarbaek,Kongens Lyngby,55.7715,12.5054,1,Other,0,DNK
+DNK463,2020-10-20,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Sjaelland,Roskilde,Roskilde,55.6388,12.0889,1,Other,0,DNK
+DNK511,2020-11-11,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK505,2020-11-08,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK417,2020-10-06,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK97,2020-03-10,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,Other,0,DNK
+DNK261,2020-07-06,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,Other,0,DNK
+DNK510,2020-11-09,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other,0,DNK
+DNK538,2020-11-25,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK130,2020-05-04,1,Battles,Armed clash,Unidentified Armed Group (Denmark),Prisoners (Denmark),Police Forces of Denmark (2019-) Prison Guards,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK36,2020-01-30,1,Protests,Peaceful protest,Protesters (Denmark),Students (Denmark),,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,National,0,DNK
+DNK346,2020-08-31,1,Battles,Armed clash,Unidentified Armed Group (Denmark),,Police Forces of Denmark (2019-),,Denmark,Syddanmark,Haderslev,Haderslev,55.2543,9.4983,1,National,0,DNK
+DNK111,2020-04-02,1,Battles,Armed clash,Unidentified Armed Group (Denmark),Prisoners (Denmark),Police Forces of Denmark (2019-) Prison Guards,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK590,2020-12-31,1,Protests,Protest with intervention,Protesters (Denmark),,Police Forces of Denmark (2019-),,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK13,2020-01-18,1,Protests,Protest with intervention,Protesters (Denmark),Antifa; SUF: Socialist Youth Front; Joint Initiative Against Racism and Discrimination,Police Forces of Denmark (2019-),,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK272,2020-07-18,1,Riots,Mob violence,Rioters (Denmark),,Police Forces of Denmark (2019-),,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK304,2020-08-10,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Hovedstaden,Hoje-Taastrup,Hedehusene,55.6487,12.1971,1,Other,0,DNK
+DNK430,2020-10-10,1,Protests,Peaceful protest,Protesters (Denmark),Joint Initiative Against Racism and Discrimination,,,Denmark,Midtjylland,Randers,Randers,56.4618,10.0213,1,New media,0,DNK
+DNK429,2020-10-10,1,Protests,Peaceful protest,Protesters (Denmark),Joint Initiative Against Racism and Discrimination,,,Denmark,Syddanmark,Middelfart,Middelfart,55.5016,9.7347,1,New media,0,DNK
+DNK525,2020-11-17,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK51,2020-02-14,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK396,2020-09-22,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Sjaelland,Slagelse,Korsor,55.3572,11.1349,1,Other,0,DNK
+DNK438,2020-10-13,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Sjaelland,Slagelse,Korsor,55.3572,11.1349,1,Other,0,DNK
+DNK523,2020-11-16,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK154,2020-05-20,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,Protesters (Denmark),FJMP: Free Jazz Against Paludan,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK280,2020-07-26,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,Protesters (Denmark),FJMP: Free Jazz Against Paludan,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK135,2020-05-06,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,Protesters (Denmark),FJMP: Free Jazz Against Paludan,Denmark,Hovedstaden,Rodovre,Roedovre,55.6809,12.4544,1,New media,0,DNK
+DNK537,2020-11-25,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,New media,0,DNK
+DNK113,2020-04-05,1,Riots,Violent demonstration,Rioters (Denmark),SK: Hard Line,Rioters (Denmark),SK: Hard Line,Denmark,Syddanmark,Faaborg-Midtfyn,Faaborg,55.0951,10.242,1,National,0,DNK
+DNK198,2020-06-08,2,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Syddanmark,Kerteminde,Birkende,55.3798,10.5643,1,National,0,DNK
+DNK202,2020-06-09,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark); 3F: United Federation of Danish Workers,,,Denmark,Syddanmark,Vejle,Jelling,55.754,9.42,1,National,0,DNK
+DNK524,2020-11-17,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Gentofte,Hellerup,55.7336,12.5655,1,Other,0,DNK
+DNK330,2020-08-23,1,Protests,Peaceful protest,Protesters (Denmark),Belarusian Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK409,2020-10-01,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK491,2020-10-30,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK322,2020-08-19,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Syddanmark,Esbjerg,Esbjerg,55.4678,8.4584,3,Other,0,DNK
+DNK132,2020-05-05,1,Protests,Peaceful protest,Protesters (Denmark),Greenpeace,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK324,2020-08-20,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Syddanmark,Esbjerg,Esbjerg,55.4678,8.4584,3,Other,0,DNK
+DNK545,2020-11-27,1,Protests,Peaceful protest,Protesters (Denmark),Greenpeace,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK325,2020-08-21,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK362,2020-09-06,1,Protests,Peaceful protest,Protesters (Denmark),GI: Identitarian Movement Denmark,,,Denmark,Hovedstaden,Brondby,Brondby,55.6463,12.4182,1,Other,0,DNK
+DNK82,2020-03-05,2,Protests,Peaceful protest,Protesters (Denmark),GI: Identitarian Movement Denmark,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK80,2020-03-04,1,Protests,Peaceful protest,Protesters (Denmark),GI: Identitarian Movement Denmark,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK218,2020-06-13,1,Protests,Peaceful protest,Protesters (Denmark),GI: Identitarian Movement Denmark,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK550,2020-11-27,1,Protests,Peaceful protest,Protesters (Denmark),GI: Identitarian Movement Denmark,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK488,2020-10-30,1,Protests,Peaceful protest,Protesters (Denmark),GI: Identitarian Movement Denmark,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other,0,DNK
+DNK489,2020-10-30,1,Protests,Peaceful protest,Protesters (Denmark),GI: Identitarian Movement Denmark,,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,Other,0,DNK
+DNK197,2020-06-07,2,Protests,Peaceful protest,Protesters (Denmark),GI: Identitarian Movement Denmark,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK34,2020-01-27,1,Protests,Peaceful protest,Protesters (Denmark),GI: Identitarian Movement Denmark,,,Denmark,Sjaelland,Roskilde,Roskilde,55.6388,12.0889,1,Other,0,DNK
+DNK176,2020-06-02,1,Protests,Peaceful protest,Protesters (Denmark),GI: Identitarian Movement Denmark,,,Denmark,Sjaelland,Holbaek,Holbaek,55.7179,11.7154,1,Other,0,DNK
+DNK446,2020-10-16,1,Protests,Peaceful protest,Protesters (Denmark),GI: Identitarian Movement Denmark,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK281,2020-07-27,1,Protests,Peaceful protest,Protesters (Denmark),GI: Identitarian Movement Denmark,,,Denmark,Sjaelland,Vordingborg,Vordingborg,55.0118,11.8992,1,Other,0,DNK
+DNK220,2020-06-15,1,Protests,Peaceful protest,Protesters (Denmark),GI: Identitarian Movement Denmark,,,Denmark,Sjaelland,Holbaek,Holbaek,55.7179,11.7154,1,Other,0,DNK
+DNK283,2020-07-30,1,Protests,Peaceful protest,Protesters (Denmark),JFK21: Earth Freedom Knowledge,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK497,2020-11-05,1,Protests,Peaceful protest,Protesters (Denmark),JFK21: Earth Freedom Knowledge,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK328,2020-08-22,1,Protests,Peaceful protest,Protesters (Denmark),JFK21: Earth Freedom Knowledge,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK384,2020-09-17,1,Protests,Peaceful protest,Protesters (Denmark),JFK21: Earth Freedom Knowledge,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK284,2020-07-31,1,Protests,Peaceful protest,Protesters (Denmark),JFK21: Earth Freedom Knowledge,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK333,2020-08-26,1,Protests,Peaceful protest,Protesters (Denmark),JFK21: Earth Freedom Knowledge,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK334,2020-08-27,1,Protests,Peaceful protest,Protesters (Denmark),JFK21: Earth Freedom Knowledge,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK308,2020-08-13,1,Protests,Peaceful protest,Protesters (Denmark),JFK21: Earth Freedom Knowledge,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK532,2020-11-21,1,Protests,Peaceful protest,Protesters (Denmark),JFK21: Earth Freedom Knowledge,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK502,2020-11-07,1,Protests,Peaceful protest,Protesters (Denmark),JFK21: Earth Freedom Knowledge,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other,0,DNK
+DNK572,2020-12-02,1,Protests,Peaceful protest,Protesters (Denmark),JFK21: Earth Freedom Knowledge,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK336,2020-08-28,1,Protests,Peaceful protest,Protesters (Denmark),JFK21: Earth Freedom Knowledge,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK298,2020-08-06,1,Protests,Peaceful protest,Protesters (Denmark),JFK21: Earth Freedom Knowledge,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK569,2020-12-01,1,Protests,Peaceful protest,Protesters (Denmark),JFK21: Earth Freedom Knowledge,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK319,2020-08-17,1,Protests,Peaceful protest,Protesters (Denmark),JFK21: Earth Freedom Knowledge,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK363,2020-09-07,1,Protests,Peaceful protest,Protesters (Denmark),JFK21: Earth Freedom Knowledge,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK352,2020-09-03,1,Protests,Peaceful protest,Protesters (Denmark),JFK21: Earth Freedom Knowledge,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK566,2020-11-30,1,Protests,Peaceful protest,Protesters (Denmark),JFK21: Earth Freedom Knowledge,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK248,2020-06-27,1,Protests,Peaceful protest,Protesters (Denmark),BLM: Black Lives Matter,,,Denmark,Syddanmark,Haderslev,Haderslev,55.2543,9.4983,1,Subnational,0,DNK
+DNK256,2020-06-30,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Syddanmark,Esbjerg,Esbjerg,55.4678,8.4584,1,Subnational,0,DNK
+DNK454,2020-10-17,1,Protests,Peaceful protest,Protesters (Denmark),Armenian Ethnic Group (Denmark),,,Denmark,Syddanmark,Kolding,Kolding,55.4929,9.4681,1,Subnational,0,DNK
+DNK169,2020-05-31,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Denmark),,Civilians (Denmark),Christian Group (Denmark),Denmark,Syddanmark,Kolding,Vamdrup,55.4277,9.2864,1,Subnational,0,DNK
+DNK93,2020-03-09,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,Protesters (Denmark),,Denmark,Syddanmark,Haderslev,Haderslev,55.2543,9.4983,1,Subnational,0,DNK
+DNK33,2020-01-27,1,Protests,Peaceful protest,Protesters (Denmark),VP: Vegan Party,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK526,2020-11-18,1,Protests,Peaceful protest,Protesters (Denmark),VP: Vegan Party,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK273,2020-07-20,2,Protests,Peaceful protest,Protesters (Denmark),Inuit Ethnic Group (Denmark); GJ: Yellow Vests,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK293,2020-08-05,1,Protests,Peaceful protest,Protesters (Denmark),Protesters (International),,,Denmark,Hovedstaden,Gentofte,Hellerup,55.7336,12.5655,1,International,0,DNK
+DNK58,2020-02-15,1,Protests,Peaceful protest,Protesters (Denmark),Kurdish Ethnic Group (Denmark); Women (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK59,2020-02-16,1,Protests,Peaceful protest,Protesters (Denmark),Kurdish Ethnic Group (Denmark); Women (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK160,2020-05-23,1,Protests,Protest with intervention,Protesters (Denmark),Kurdish Ethnic Group (Denmark); Women (Denmark),Rioters (Denmark),Turkish Ethnic Group (Denmark),Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK276,2020-07-22,1,Protests,Peaceful protest,Protesters (Denmark),Kurdish Ethnic Group (Denmark); Women (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK161,2020-05-23,1,Protests,Peaceful protest,Protesters (Denmark),Kurdish Ethnic Group (Denmark); Women (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK271,2020-07-16,2,Protests,Peaceful protest,Protesters (Denmark),Kurdish Ethnic Group (Denmark); Women (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK299,2020-08-06,2,Protests,Peaceful protest,Protesters (Denmark),Kurdish Ethnic Group (Denmark); Women (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK594,2020-11-12,1,Riots,Violent demonstration,Rioters (Denmark),,Police Forces of Denmark (2019-),,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK490,2020-10-30,1,Protests,Protest with intervention,Protesters (Denmark),,Police Forces of Denmark (2019-),,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,National,0,DNK
+DNK147,2020-05-17,1,Protests,Protest with intervention,Protesters (Denmark),DxE: Direct Action Everywhere,Private Security Forces (Denmark),,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,National,0,DNK
+DNK504,2020-11-08,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Midtjylland,Holstebro,Norre Felding,56.3143,8.6,1,National,0,DNK
+DNK563,2020-11-29,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Midtjylland,Viborg,Bjerringbro,56.3758,9.6565,2,Subnational,0,DNK
+DNK347,2020-09-01,1,Protests,Peaceful protest,Protesters (Denmark),SF: Socialist People's Party; Government of Denmark (2019-),,,Denmark,Midtjylland,Randers,Randers,56.4618,10.0213,1,National,0,DNK
+DNK553,2020-11-27,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark); Students (Denmark),,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,National,0,DNK
+DNK557,2020-11-27,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark); Students (Denmark),,,Denmark,Hovedstaden,Hillerod,Hillerod,55.9277,12.3114,1,National,0,DNK
+DNK552,2020-11-27,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark); Students (Denmark),,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,National,0,DNK
+DNK555,2020-11-27,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark); Students (Denmark),,,Denmark,Midtjylland,Randers,Randers,56.4618,10.0213,1,National,0,DNK
+DNK558,2020-11-27,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark); Students (Denmark),,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,National,0,DNK
+DNK419,2020-10-06,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK551,2020-11-27,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark); Students (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK556,2020-11-27,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark); Students (Denmark),,,Denmark,Sjaelland,Holbaek,Holbaek,55.7179,11.7154,1,National,0,DNK
+DNK554,2020-11-27,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark); Students (Denmark),,,Denmark,Midtjylland,Horsens,Horsens,55.8604,9.8445,1,National,0,DNK
+DNK399,2020-09-25,1,Protests,Peaceful protest,Protesters (Denmark),NMB: Nordic Resistance Movement (Denmark),,,Denmark,Midtjylland,Randers,Randers,56.4618,10.0213,1,Other,0,DNK
+DNK482,2020-10-25,1,Protests,Peaceful protest,Protesters (Denmark),NMB: Nordic Resistance Movement (Denmark),,,Denmark,Hovedstaden,Brondby,Brondby,55.6463,12.4182,1,Other,0,DNK
+DNK400,2020-09-26,1,Protests,Peaceful protest,Protesters (Denmark),NMB: Nordic Resistance Movement (Denmark),,,Denmark,Syddanmark,Nyborg,Nyborg,55.3094,10.7973,1,Other,0,DNK
+DNK114,2020-04-11,1,Protests,Peaceful protest,Protesters (Denmark),NMB: Nordic Resistance Movement (Denmark),,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other,0,DNK
+DNK110,2020-03-28,1,Protests,Peaceful protest,Protesters (Denmark),NMB: Nordic Resistance Movement (Denmark),,,Denmark,Hovedstaden,Albertslund,Albertslund,55.6582,12.3538,1,Other,0,DNK
+DNK581,2020-12-13,1,Protests,Peaceful protest,Protesters (Denmark),NMB: Nordic Resistance Movement (Denmark),,,Denmark,Midtjylland,Favrskov,Hinnerup,56.263,10.0595,1,Other,0,DNK
+DNK503,2020-11-07,1,Protests,Peaceful protest,Protesters (Denmark),JFK21: Earth Freedom Knowledge,,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,Subnational,0,DNK
+DNK228,2020-06-18,1,Battles,Armed clash,Unidentified Armed Group (Denmark),Refugees/IDPs (International),Police Forces of Denmark (2019-),,Denmark,Nordjylland,Vesthimmerlands,Ranum,56.8949,9.2281,1,Subnational,0,DNK
+DNK120,2020-04-24,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,Subnational,0,DNK
+DNK541,2020-11-26,1,Protests,Peaceful protest,Protesters (Denmark),JFK21: Earth Freedom Knowledge,,,Denmark,Nordjylland,Hjorring,Hjorring,57.459,9.9972,1,Subnational,0,DNK
+DNK344,2020-08-31,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,Subnational,0,DNK
+DNK148,2020-05-18,2,Protests,Peaceful protest,Protesters (Denmark),AI: Amnesty International,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK548,2020-11-27,2,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,Other,0,DNK
+DNK62,2020-02-19,1,Protests,Peaceful protest,Protesters (Denmark),Students (Denmark); Teachers (Denmark),,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,Other,0,DNK
+DNK456,2020-10-17,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,Other,0,DNK
+DNK335,2020-08-28,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,Other,0,DNK
+DNK166,2020-05-27,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,Other,0,DNK
+DNK4,2020-01-08,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,International,0,DNK
+DNK332,2020-08-24,1,Riots,Mob violence,Rioters (Denmark),,Civilians (Denmark),,Denmark,Midtjylland,Norddjurs,Grenaa,56.4128,10.8956,1,National,0,DNK
+DNK224,2020-06-17,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK234,2020-06-20,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,New media,0,DNK
+DNK465,2020-10-20,1,Protests,Peaceful protest,Protesters (Denmark),Arab Ethnic Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK509,2020-11-09,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,New media,0,DNK
+DNK494,2020-11-01,1,Protests,Peaceful protest,Protesters (Denmark),Women (Denmark),,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,New media,0,DNK
+DNK582,2020-12-13,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,New media,0,DNK
+DNK235,2020-06-20,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,New media,0,DNK
+DNK155,2020-05-20,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,Protesters (Denmark),FJMP: Free Jazz Against Paludan,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,New media,0,DNK
+DNK268,2020-07-15,3,Riots,Mob violence,Rioters (Denmark),,Civilians (Denmark),,Denmark,Midtjylland,Syddjurs,Morke,56.336,10.3791,1,Subnational,0,DNK
+DNK171,2020-05-31,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK483,2020-10-25,1,Protests,Peaceful protest,Protesters (Denmark),Polish Ethnic Group (Denmark); Women (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK371,2020-09-12,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK587,2020-12-18,1,Protests,Peaceful protest,Protesters (Denmark),RS: Revolutionary Socialists,,,Denmark,Hovedstaden,Gentofte,Hellerup,55.7336,12.5655,1,New media,0,DNK
+DNK181,2020-06-05,1,Riots,Violent demonstration,Rioters (Denmark),SK: Hard Line,Police Forces of Denmark (2019-),,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,National,0,DNK
+DNK31,2020-01-25,1,Protests,Peaceful protest,Protesters (Denmark),SIAD: Stop Islamization of Denmark; SK: Hard Line,,,Denmark,Syddanmark,Aabenraa,Krusaa,54.8479,9.4075,1,Other,0,DNK
+DNK377,2020-09-15,1,Protests,Peaceful protest,Protesters (Denmark),SUF: Socialist Youth Front,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,New media,0,DNK
+DNK311,2020-08-14,1,Protests,Peaceful protest,Protesters (Denmark),Women (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK373,2020-09-13,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,New media,0,DNK
+DNK473,2020-10-22,2,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Hovedstaden,Bornholm,Ronne,55.1024,14.7087,1,New media,0,DNK
+DNK447,2020-10-16,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK117,2020-04-16,1,Protests,Protest with intervention,Protesters (Denmark),SK: Hard Line,Unidentified Armed Group (Denmark),,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,New media,0,DNK
+DNK121,2020-04-26,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,New media,0,DNK
+DNK116,2020-04-14,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK124,2020-04-28,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,New media,0,DNK
+DNK571,2020-12-02,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,,,Denmark,Sjaelland,Slagelse,Slagelse,55.4075,11.3486,1,New media,0,DNK
+DNK158,2020-05-20,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,,,Denmark,Sjaelland,Ringsted,Ringsted,55.4426,11.7915,1,New media,0,DNK
+DNK156,2020-05-20,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,,,Denmark,Syddanmark,Kolding,Kolding,55.4929,9.4681,1,New media,0,DNK
+DNK451,2020-10-17,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK570,2020-12-02,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,New media,0,DNK
+DNK139,2020-05-11,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,,,Denmark,Hovedstaden,Herlev,Herlev,55.7188,12.4435,1,New media,0,DNK
+DNK303,2020-08-09,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,,,Denmark,Sjaelland,Koge,Koge,55.458,12.1867,1,New media,0,DNK
+DNK564,2020-11-29,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK478,2020-10-23,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,,,Denmark,Syddanmark,Esbjerg,Esbjerg,55.4678,8.4584,1,New media,0,DNK
+DNK302,2020-08-09,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,,,Denmark,Sjaelland,Faxe,Haslev,55.3271,11.9567,1,New media,0,DNK
+DNK565,2020-11-29,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK157,2020-05-20,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,,,Denmark,Midtjylland,Holstebro,Holstebro,56.3654,8.6204,1,New media,0,DNK
+DNK98,2020-03-10,1,Protests,Peaceful protest,Protesters (Denmark),Tibetan Ethnic Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK480,2020-10-24,1,Protests,Peaceful protest,Protesters (Denmark),Arab Ethnic Group (Denmark),,,Denmark,Syddanmark,Esbjerg,Esbjerg,55.4678,8.4584,1,New media,0,DNK
+DNK239,2020-06-24,1,Protests,Peaceful protest,Protesters (Denmark),Belarusian Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK338,2020-08-29,1,Protests,Peaceful protest,Protesters (Denmark),Time for Peace,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK341,2020-08-30,1,Protests,Peaceful protest,Protesters (Denmark),Time for Peace,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK125,2020-05-01,1,Protests,Peaceful protest,Protesters (Denmark),Time for Peace,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK14,2020-01-18,1,Protests,Peaceful protest,Protesters (Denmark),FV: Peace Watch,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK242,2020-06-25,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,International,0,DNK
+DNK238,2020-06-24,1,Protests,Peaceful protest,Protesters (Denmark),Students (Denmark),,,Denmark,Syddanmark,Fano,Fano,55.4379,8.3948,1,Subnational,0,DNK
+DNK380,2020-09-16,1,Protests,Peaceful protest,Protesters (Denmark),Students (Denmark),,,Denmark,Syddanmark,Nyborg,Nyborg,55.3094,10.7973,1,Subnational,0,DNK
+DNK279,2020-07-26,1,Riots,Mob violence,Rioters (Denmark),,Rioters (Denmark),,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,Subnational,0,DNK
+DNK518,2020-11-14,1,Protests,Peaceful protest,Protesters (Denmark),Farmers (Denmark),,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,Subnational,0,DNK
+DNK313,2020-08-15,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Nordjylland,Rebild,Terndrup,56.8138,10.0614,1,Subnational,0,DNK
+DNK350,2020-09-02,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Midtjylland,Skanderborg,Skanderborg,56.0348,9.9316,1,Subnational,0,DNK
+DNK45,2020-02-03,1,Protests,Peaceful protest,Protesters (Denmark),,Protesters (Denmark),DF: Danish People's Party,Denmark,Midtjylland,Randers,Randers,56.4618,10.0213,1,Subnational,0,DNK
+DNK300,2020-08-07,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Midtjylland,Silkeborg,Silkeborg,56.164,9.5443,1,Subnational,0,DNK
+DNK241,2020-06-25,1,Protests,Peaceful protest,Protesters (Denmark),Health Workers (Denmark); Government of Denmark (2019-),,,Denmark,Midtjylland,Silkeborg,Silkeborg,56.164,9.5443,1,Subnational,0,DNK
+DNK66,2020-02-24,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Midtjylland,Horsens,Horsens,55.8604,9.8445,1,Subnational,0,DNK
+DNK359,2020-09-05,1,Protests,Peaceful protest,Protesters (Denmark),Protesters (Belgium); BLM: Black Lives Matter,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK318,2020-08-17,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark); LGBTQ+ (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK89,2020-03-07,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK442,2020-10-14,1,Protests,Peaceful protest,Protesters (Denmark),VP: Vegan Party,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK575,2020-12-05,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK90,2020-03-08,1,Protests,Peaceful protest,Protesters (Denmark),Women (Denmark),,,Denmark,Midtjylland,Viborg,Viborg,56.4471,9.3984,1,Subnational,0,DNK
+DNK390,2020-09-21,2,Protests,Peaceful protest,Protesters (Denmark),LGBTQ+ (Denmark),,,Denmark,Midtjylland,Viborg,Viborg,56.4471,9.3984,1,Subnational,0,DNK
+DNK183,2020-06-05,1,Protests,Peaceful protest,Protesters (Denmark),BLM: Black Lives Matter; Students (Denmark),,,Denmark,Midtjylland,Viborg,Viborg,56.4471,9.3984,1,Subnational,0,DNK
+DNK426,2020-10-09,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK115,2020-04-11,2,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK170,2020-05-31,1,Protests,Peaceful protest,Protesters (Denmark),BLM: Black Lives Matter,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK177,2020-06-03,1,Protests,Peaceful protest,Protesters (Denmark),BLM: Black Lives Matter,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,New media-National,0,DNK
+DNK178,2020-06-03,1,Protests,Peaceful protest,Protesters (Denmark),Students (Denmark); BLM: Black Lives Matter,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,Subnational-National,0,DNK
+DNK201,2020-06-09,1,Protests,Peaceful protest,Protesters (Denmark),BLM: Black Lives Matter,,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,Subnational-National,0,DNK
+DNK3,2020-01-06,1,Protests,Peaceful protest,Protesters (Denmark),Farmers (Denmark),,,Denmark,Syddanmark,Sonderborg,Graasten,54.9182,9.5858,1,Subnational-National,0,DNK
+DNK327,2020-08-22,1,Protests,Peaceful protest,Protesters (Denmark),LGBTQ+ (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK174,2020-06-02,1,Protests,Peaceful protest,Protesters (Denmark),AI: Amnesty International; LGBTQ+ (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK629,2020-07-21,1,Violence against civilians,Attack,Unidentified Armed Group (Denmark),,Civilians (Denmark),,Denmark,Midtjylland,Syddjurs,Morke,56.336,10.3791,1,Other-National,0,DNK
+DNK720,2020-10-23,1,Protests,Peaceful protest,Protesters (Belarus),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK721,2020-11-06,1,Protests,Peaceful protest,Protesters (Belarus),,,,Denmark,Hovedstaden,Brondby,Brondby,55.6463,12.4182,1,Other,0,DNK
+DNK719,2020-10-10,1,Protests,Peaceful protest,Protesters (Belarus),Women (Belarus),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK207,2020-06-10,2,Protests,Peaceful protest,Protesters (Denmark),DKP: Communist Party of Denmark,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK522,2020-11-16,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK385,2020-09-17,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK748,2020-10-04,1,Protests,Peaceful protest,Protesters (Belarus),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK747,2020-09-20,1,Protests,Peaceful protest,Protesters (Belarus),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK317,2020-08-16,1,Protests,Peaceful protest,Protesters (Denmark),Palestinian Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK285,2020-08-01,1,Protests,Peaceful protest,Protesters (Denmark),Palestinian Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK258,2020-07-01,1,Protests,Peaceful protest,Protesters (Denmark),Palestinian Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK305,2020-08-11,1,Protests,Peaceful protest,Protesters (Denmark),Palestinian Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK277,2020-07-22,1,Protests,Peaceful protest,Protesters (Denmark),Palestinian Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK360,2020-09-05,1,Protests,Peaceful protest,Protesters (Denmark),Palestinian Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK44,2020-02-01,1,Protests,Peaceful protest,Protesters (Denmark),Palestinian Group (Denmark),,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,New media,0,DNK
+DNK37,2020-01-30,1,Protests,Peaceful protest,Protesters (Denmark),Palestinian Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK588,2020-12-19,1,Protests,Peaceful protest,Protesters (Denmark),EL: Red-Green Alliance,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media-National,0,DNK
+DNK269,2020-07-15,1,Protests,Peaceful protest,Protesters (Denmark),ALT: The Alternative,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,New media,0,DNK
+DNK167,2020-05-27,1,Protests,Peaceful protest,Protesters (Denmark),ALT: The Alternative; EL: Red-Green Alliance; SF: Socialist People's Party; Government of Denmark (2019-),,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,New media,0,DNK
+DNK118,2020-04-22,1,Riots,Violent demonstration,Rioters (Denmark),Prisoners (Denmark),Police Forces of Denmark (2019-),Police Forces of Denmark (2019-) Prison Guards,Denmark,Hovedstaden,Helsingor,Helsingor,56.0327,12.6129,2,National,0,DNK
+DNK193,2020-06-07,1,Protests,Peaceful protest,Protesters (Denmark),BLM: Black Lives Matter; Government of Denmark (2019-),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK591,2020-03-18,1,Strategic developments,Change to group/activity,Government of Denmark (2019-),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,3,New media-National,0,DNK
+DNK597,2020-04-02,1,Strategic developments,Change to group/activity,Government of Denmark (2019-),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,3,New media-National,0,DNK
+DNK598,2020-12-25,1,Strategic developments,Change to group/activity,Government of Denmark (2019-),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,3,New media-National,0,DNK
+DNK374,2020-09-14,1,Violence against civilians,Attack,Unidentified Armed Group (Denmark),,Civilians (Denmark),DF: Danish People's Party,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,2,National,0,DNK
+DNK536,2020-11-24,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK63,2020-02-20,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark); Government of Denmark (2019-); DF: Danish People's Party; EL: Red-Green Alliance; KD: The Christian Democrats (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK1703,2020-06-10,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Midtjylland,Skanderborg,Skanderborg,56.0348,9.9316,1,Subnational,0,DNK
+DNK100,2020-03-11,1,Protests,Peaceful protest,Protesters (Denmark),Students (Denmark),,,Denmark,Sjaelland,Slagelse,Slagelse,55.4075,11.3486,1,Subnational,0,DNK
+DNK106,2020-03-15,1,Riots,Mob violence,Rioters (Denmark),,Civilians (Denmark),,Denmark,Sjaelland,Holbaek,Jyderup,55.6617,11.4086,1,Subnational,0,DNK
+DNK108,2020-03-19,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Denmark),,Civilians (Denmark),,Denmark,Hovedstaden,Frederikssund,Frederikssund,55.835,12.0662,1,National,0,DNK
+DNK11,2020-01-17,2,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Hillerod,Hillerod,55.9277,12.3114,1,National,0,DNK
+DNK112,2020-04-04,1,Riots,Mob violence,Rioters (Denmark),,Civilians (Denmark),,Denmark,Hovedstaden,Frederikssund,Frederikssund,55.835,12.0662,1,National,0,DNK
+DNK123,2020-04-28,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Sjaelland,Odsherred,Hojby,55.9086,11.5955,1,Subnational,0,DNK
+DNK141,2020-05-16,1,Riots,Violent demonstration,Rioters (Denmark),SK: Hard Line,Police Forces of Denmark (2019-),,Denmark,Sjaelland,Slagelse,Korsor,55.3572,11.1349,1,Subnational-National,0,DNK
+DNK142,2020-05-16,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,,,Denmark,Sjaelland,Slagelse,Skaelskor,55.253,11.2919,1,Subnational-National,0,DNK
+DNK145,2020-05-17,1,Riots,Violent demonstration,Rioters (Denmark),SK: Hard Line,Police Forces of Denmark (2019-),,Denmark,Sjaelland,Slagelse,Korsor,55.3572,11.1349,1,Subnational-National,0,DNK
+DNK146,2020-05-17,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,Protesters (Denmark),,Denmark,Sjaelland,Slagelse,Slagelse,55.4075,11.3486,1,Subnational,0,DNK
+DNK149,2020-05-19,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,Protesters (Denmark),,Denmark,Sjaelland,Slagelse,Korsor,55.3572,11.1349,1,Subnational,0,DNK
+DNK150,2020-05-19,2,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,,,Denmark,Sjaelland,Slagelse,Slagelse,55.4075,11.3486,2,Subnational,0,DNK
+DNK151,2020-05-19,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Hoje-Taastrup,Hoje-Taastrup,55.6488,12.2687,1,National,0,DNK
+DNK194,2020-06-07,1,Protests,Peaceful protest,Protesters (Denmark),BLM: Black Lives Matter; Students (Denmark),,,Denmark,Sjaelland,Roskilde,Roskilde,55.6388,12.0889,1,Subnational,0,DNK
+DNK196,2020-06-07,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Denmark),,Civilians (Denmark),,Denmark,Hovedstaden,Frederikssund,Skibby,55.7498,11.9599,1,National,0,DNK
+DNK2,2020-01-05,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Sjaelland,Naestved,Everdrup,55.2042,11.9575,1,Other-Subnational,0,DNK
+DNK212,2020-06-11,1,Riots,Mob violence,Rioters (Denmark),,Civilians (Denmark),,Denmark,Midtjylland,Aarhus,Viby,56.122,10.1597,1,Other-National,0,DNK
+DNK221,2020-06-16,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,,,Denmark,Sjaelland,Slagelse,Korsor,55.3572,11.1349,1,Subnational-National,0,DNK
+DNK222,2020-06-16,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,,,Denmark,Sjaelland,Slagelse,Slagelse,55.4075,11.3486,1,Subnational,0,DNK
+DNK223,2020-06-17,1,Protests,Peaceful protest,Protesters (Denmark),GI: Identitarian Movement Denmark,Protesters (Denmark),,Denmark,Sjaelland,Holbaek,Holbaek,55.7179,11.7154,1,Subnational,0,DNK
+DNK225,2020-06-17,1,Riots,Mob violence,Rioters (Denmark),,Rioters (Denmark),,Denmark,Sjaelland,Slagelse,Korsor,55.3572,11.1349,1,Subnational,0,DNK
+DNK236,2020-06-21,1,Riots,Mob violence,Rioters (Denmark),Rioters (Sweden),Police Forces of Denmark (2019-),,Denmark,Sjaelland,Holbaek,Holbaek,55.7179,11.7154,1,Subnational,0,DNK
+DNK255,2020-06-29,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Fredensborg,Kokkedal,55.9046,12.4983,1,National,0,DNK
+DNK259,2020-07-02,2,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Sjaelland,Slagelse,Slagelse,55.4075,11.3486,1,Subnational,0,DNK
+DNK266,2020-07-11,1,Riots,Mob violence,Rioters (Denmark),,Rioters (Denmark),,Denmark,Sjaelland,Slagelse,Korsor,55.3572,11.1349,1,Subnational-National,0,DNK
+DNK288,2020-08-03,1,Riots,Mob violence,Rioters (Denmark),Palestinian Group (Denmark); Refugees/IDPs (Palestine),Rioters (Denmark),Palestinian Group (Denmark); Refugees/IDPs (Palestine),Denmark,Sjaelland,Slagelse,Korsor,55.3572,11.1349,1,Subnational,0,DNK
+DNK289,2020-08-03,1,Protests,Protest with intervention,Protesters (Denmark),,Police Forces of Denmark (2019-),,Denmark,Sjaelland,Naestved,Naestved,55.2312,11.7671,2,Subnational,0,DNK
+DNK291,2020-08-04,1,Riots,Mob violence,Rioters (Denmark),,Police Forces of Denmark (2019-),,Denmark,Sjaelland,Slagelse,Korsor,55.3572,11.1349,1,Subnational-National,0,DNK
+DNK297,2020-08-06,1,Riots,Mob violence,Rioters (Denmark),Palestinian Group (Denmark); Refugees/IDPs (Palestine),Rioters (Denmark),Palestinian Group (Denmark); Refugees/IDPs (Palestine),Denmark,Sjaelland,Slagelse,Korsor,55.3572,11.1349,1,Other-Subnational,0,DNK
+DNK307,2020-08-13,1,Strategic developments,Disrupted weapons use,Military Forces of Denmark (2019-),,Unidentified Armed Group (Denmark),,Denmark,Sjaelland,Vordingborg,Bogo,54.923,12.051,2,Subnational,0,DNK
+DNK309,2020-08-13,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Sjaelland,Guldborgsund,Nykobing Falster,54.7647,11.8773,1,Subnational,0,DNK
+DNK331,2020-08-24,1,Protests,Peaceful protest,Protesters (Denmark),Students (Denmark),,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,National,0,DNK
+DNK340,2020-08-30,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Sjaelland,Kalundborg,Kalundborg,55.6778,11.0899,2,Subnational,0,DNK
+DNK342,2020-08-30,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Sjaelland,Odsherred,Nykobing Sjaelland,55.9233,11.6689,1,Subnational,0,DNK
+DNK379,2020-09-16,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Sjaelland,Lolland,Nakskov,54.8333,11.15,2,Subnational,0,DNK
+DNK39,2020-01-31,2,Protests,Peaceful protest,Protesters (Denmark),Farmers (Denmark),,,Denmark,Sjaelland,Holbaek,Holbaek,55.7179,11.7154,1,Subnational,0,DNK
+DNK391,2020-09-21,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Hillerod,Hillerod,55.9277,12.3114,2,National,0,DNK
+DNK394,2020-09-22,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK395,2020-09-22,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Sjaelland,Lejre,Kirke Hyllinge,55.7061,11.9,1,Subnational,0,DNK
+DNK398,2020-09-24,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Sjaelland,Holbaek,Holbaek,55.7179,11.7154,1,Subnational,0,DNK
+DNK406,2020-09-30,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Sjaelland,Slagelse,Korsor,55.3572,11.1349,1,Subnational,0,DNK
+DNK423,2020-10-08,1,Protests,Peaceful protest,Protesters (Denmark),Farmers (Denmark),,,Denmark,Nordjylland,Jammerbugt,Gjol,57.0686,9.717,1,National,0,DNK
+DNK428,2020-10-09,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Sjaelland,Naestved,Naestved,55.2312,11.7671,1,Subnational,0,DNK
+DNK432,2020-10-10,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Sjaelland,Vordingborg,Harbolle,54.8964,12.1741,1,Subnational,0,DNK
+DNK444,2020-10-16,1,Protests,Peaceful protest,Protesters (Denmark),3F: United Federation of Danish Workers; Labor Group (Denmark),,,Denmark,Sjaelland,Slagelse,Korsor,55.3572,11.1349,1,Subnational,0,DNK
+DNK459,2020-10-19,1,Protests,Peaceful protest,Protesters (Denmark),Anima; DA: The Animal Alliance,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other-National,0,DNK
+DNK460,2020-10-19,1,Protests,Peaceful protest,Protesters (Denmark),Anima; DA: The Animal Alliance,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other-National,0,DNK
+DNK461,2020-10-19,1,Protests,Peaceful protest,Protesters (Denmark),Anima; DA: The Animal Alliance,,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,Other-National,0,DNK
+DNK462,2020-10-19,1,Protests,Peaceful protest,Protesters (Denmark),Anima; DA: The Animal Alliance,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,Other-National,0,DNK
+DNK466,2020-10-21,1,Protests,Peaceful protest,Protesters (Denmark),DA: The Animal Alliance,,,Denmark,Sjaelland,Roskilde,Roskilde,55.6388,12.0889,1,Other-Subnational,0,DNK
+DNK467,2020-10-21,1,Protests,Peaceful protest,Protesters (Denmark),Anima; DA: The Animal Alliance,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other-National,0,DNK
+DNK468,2020-10-21,1,Protests,Peaceful protest,Protesters (Denmark),Anima; DA: The Animal Alliance,,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,Other-National,0,DNK
+DNK469,2020-10-21,1,Protests,Peaceful protest,Protesters (Denmark),Anima; DA: The Animal Alliance,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other-National,0,DNK
+DNK470,2020-10-21,1,Protests,Peaceful protest,Protesters (Denmark),Refugees/IDPs (International),,,Denmark,Sjaelland,Lejre,Hvalso,55.5941,11.8613,1,New media-Subnational,0,DNK
+DNK513,2020-11-12,2,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Lyngby-Taarbaek,Kongens Lyngby,55.7715,12.5054,1,National,0,DNK
+DNK546,2020-11-27,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Hovedstaden,Hillerod,Hillerod,55.9277,12.3114,1,New media-National,0,DNK
+DNK57,2020-02-15,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Sjaelland,Vordingborg,Vordingborg,55.0118,11.8992,1,Subnational,0,DNK
+DNK6,2020-01-11,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Sjaelland,Naestved,Naestved,55.2312,11.7671,1,Subnational,0,DNK
+DNK61,2020-02-18,2,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Lyngby-Taarbaek,Kongens Lyngby,55.7715,12.5054,1,National,0,DNK
+DNK65,2020-02-21,2,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Sjaelland,Odsherred,Asnaes,55.8121,11.5011,1,Subnational,0,DNK
+DNK73,2020-02-29,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,,,Denmark,Sjaelland,Kalundborg,Kalundborg,55.6778,11.0899,1,Subnational,0,DNK
+DNK74,2020-02-29,1,Riots,Violent demonstration,Rioters (Denmark),SK: Hard Line,Rioters (Denmark),Muslim Group (Denmark),Denmark,Sjaelland,Holbaek,Holbaek,55.7179,11.7154,1,Subnational,0,DNK
+DNK237,2020-06-23,1,Violence against civilians,Attack,Unidentified Armed Group (Denmark),,Civilians (Denmark),,Denmark,Hovedstaden,Bornholm,Ronne,55.1024,14.7087,1,Subnational-National,1,DNK
+DNK361,2020-09-05,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK348,2020-09-01,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK389,2020-09-19,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK134,2020-05-06,1,Protests,Peaceful protest,Protesters (Denmark),XR: Extinction Rebellion,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK136,2020-05-08,1,Protests,Peaceful protest,Protesters (Denmark),XR: Extinction Rebellion,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK249,2020-06-27,1,Protests,Peaceful protest,Protesters (Denmark),Kurdish Ethnic Group (Denmark); Women (Denmark); XR: Extinction Rebellion,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK265,2020-07-10,1,Protests,Peaceful protest,Protesters (Denmark),Antifa; Revolutionary Antifascists; XR: Extinction Rebellion,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK287,2020-08-03,1,Protests,Peaceful protest,Protesters (Denmark),XR: Extinction Rebellion,,,Denmark,Sjaelland,Naestved,Naestved,55.2312,11.7671,2,Other-Subnational,0,DNK
+DNK326,2020-08-22,1,Protests,Peaceful protest,Protesters (Denmark),XR: Extinction Rebellion,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK493,2020-11-01,1,Protests,Peaceful protest,Protesters (Denmark),XR: Extinction Rebellion,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK560,2020-11-27,1,Protests,Peaceful protest,Protesters (Denmark),XR: Extinction Rebellion,,,Denmark,Hovedstaden,Hillerod,Hillerod,55.9277,12.3114,1,Other,0,DNK
+DNK574,2020-12-05,1,Protests,Peaceful protest,Protesters (Denmark),AI: Amnesty International; AM: Public Resistance; BLM: Black Lives Matter; XR: Extinction Rebellion,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK
+DNK15,2020-01-19,1,Protests,Peaceful protest,Protesters (Denmark),KF: The Conservative People's Party,,,Denmark,Syddanmark,Tonder,Tonder,54.9401,8.8667,1,Subnational,0,DNK
+DNK164,2020-05-26,1,Protests,Peaceful protest,Protesters (Denmark),ALT: The Alternative; DF: Danish People's Party; Government of Denmark (2019-); KF: The Conservative People's Party; NB: New Right; SF: Socialist People's Party; Students (Denmark); V: Venstre,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK182,2020-06-05,1,Protests,Peaceful protest,Protesters (Denmark),BLM: Black Lives Matter; KF: The Conservative People's Party,,,Denmark,Sjaelland,Naestved,Naestved,55.2312,11.7671,1,Subnational,0,DNK
+DNK122,2020-04-27,1,Protests,Peaceful protest,Protesters (Denmark),GI: Identitarian Movement Denmark,,,Denmark,Syddanmark,Vejle,Vejle,55.7113,9.5363,1,Other,0,DNK
+DNK519,2020-11-14,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Midtjylland,Viborg,Kolvra,56.2933,9.1479,2,Subnational,0,DNK
+DNK301,2020-08-08,2,Protests,Peaceful protest,Protesters (Denmark),NMB: Nordic Resistance Movement (Denmark),,,Denmark,Hovedstaden,Fureso,Farum,55.8098,12.3703,1,Other,0,DNK
+DNK1,2020-01-03,1,Protests,Peaceful protest,Protesters (Denmark),BF: Stay Grounded Denmark,,,Denmark,Syddanmark,Sonderborg,Sonderborg,54.9643,9.7917,2,Other-Subnational,0,DNK
+DNK310,2020-08-14,1,Riots,Mob violence,Rioters (Denmark),,Police Forces of Denmark (2019-),,Denmark,Syddanmark,Sonderborg,Sonderborg,54.9643,9.7917,1,Subnational,0,DNK
+DNK316,2020-08-16,1,Protests,Peaceful protest,Protesters (Denmark),SK: Hard Line,,,Denmark,Syddanmark,Sonderborg,Sonderborg,54.9643,9.7917,1,New media,0,DNK
+DNK144,2020-05-17,1,Protests,Peaceful protest,Protesters (Denmark),Government of Denmark (2019-); Labor Group (Denmark),,,Denmark,Syddanmark,Tonder,Saed,54.9135,8.9055,1,Subnational-National,0,DNK
+DNK12,2020-01-17,1,Protests,Peaceful protest,Protesters (Denmark),FFF: Fridays for Future; Students (Denmark); Government of Denmark (2019-); RV: Danish Social Liberal Party; SF: Socialist People's Party; EL: Red-Green Alliance,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media-National,0,DNK
+DNK129,2020-05-02,1,Protests,Peaceful protest,Protesters (Denmark),XR: Extinction Rebellion,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK131,2020-05-05,1,Protests,Protest with intervention,Protesters (Denmark),XR: Extinction Rebellion,Police Forces of Denmark (2019-),,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other-National,0,DNK
+DNK137,2020-05-08,1,Protests,Peaceful protest,Protesters (Denmark),XR: Extinction Rebellion,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,Other,0,DNK
+DNK152,2020-05-20,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,3,Other,0,DNK
+DNK168,2020-05-29,1,Protests,Peaceful protest,Protesters (Denmark),Grandparents' Climate Action; XR: Extinction Rebellion,,,Denmark,Syddanmark,Middelfart,Middelfart,55.5016,9.7347,1,Subnational-National,0,DNK
+DNK179,2020-06-04,1,Protests,Peaceful protest,Protesters (Denmark),DN: Danish Society for Nature Conservation; XR: Extinction Rebellion,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK184,2020-06-05,1,Protests,Peaceful protest,Protesters (Denmark),FFF: Fridays for Future,,,Denmark,Hovedstaden,Hillerod,Hillerod,55.9277,12.3114,1,Other-National,0,DNK
+DNK185,2020-06-05,1,Protests,Peaceful protest,Protesters (Denmark),FFF: Fridays for Future,,,Denmark,Syddanmark,Esbjerg,Ribe,55.3274,8.7702,1,Other,0,DNK
+DNK186,2020-06-05,1,Protests,Peaceful protest,Protesters (Denmark),FFF: Fridays for Future; Students (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK187,2020-06-05,1,Protests,Peaceful protest,Protesters (Denmark),DGUB: The Green Youth Movement; FFF: Fridays for Future; Grandparents' Climate Action; Students (Denmark),,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,Other,0,DNK
+DNK189,2020-06-06,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Sjaelland,Slagelse,Slagelse,55.4075,11.3486,1,Subnational,0,DNK
+DNK191,2020-06-06,1,Protests,Peaceful protest,Protesters (Denmark),Stop 5G International,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other,0,DNK
+DNK192,2020-06-06,1,Protests,Peaceful protest,Protesters (Denmark),Stop 5G International,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,Other,0,DNK
+DNK20,2020-01-24,1,Protests,Protest with intervention,Protesters (Denmark),XR: Extinction Rebellion,Police Forces of Denmark (2019-),,Denmark,Hovedstaden,Tarnby,Kastrup,55.634,12.6291,1,Other-National,0,DNK
+DNK208,2020-06-10,1,Protests,Peaceful protest,Protesters (Denmark),XR: Extinction Rebellion,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK22,2020-01-24,1,Protests,Peaceful protest,Protesters (Denmark),FFF: Fridays for Future; Students (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other-New media,0,DNK
+DNK23,2020-01-25,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,New media-Subnational,0,DNK
+DNK230,2020-06-19,1,Protests,Peaceful protest,Protesters (Denmark),XR: Extinction Rebellion,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK24,2020-01-25,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media-Subnational,0,DNK
+DNK244,2020-06-26,1,Protests,Peaceful protest,Protesters (Denmark),XR: Extinction Rebellion,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other-National,0,DNK
+DNK25,2020-01-25,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Helsingor,Helsingor,56.0327,12.6129,1,National,0,DNK
+DNK252,2020-06-28,1,Protests,Protest with intervention,Protesters (Denmark),XR: Extinction Rebellion,Police Forces of Denmark (2019-),,Denmark,Midtjylland,Viborg,Viborg,56.4471,9.3984,1,Other,0,DNK
+DNK26,2020-01-25,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Nordjylland,Hjorring,Hjorring,57.459,9.9972,1,New media-National,0,DNK
+DNK262,2020-07-07,1,Protests,Protest with intervention,Protesters (Denmark),,Police Forces of Denmark (2019-),,Denmark,Syddanmark,Kolding,Sonder Stenderup,55.4618,9.6148,1,Other-Subnational,0,DNK
+DNK27,2020-01-25,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,New media-National,0,DNK
+DNK28,2020-01-25,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Bornholm,Ronne,55.1024,14.7087,1,New media-Subnational,0,DNK
+DNK29,2020-01-25,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Syddanmark,Varde,Varde,55.6227,8.3834,1,New media-National,0,DNK
+DNK314,2020-08-15,1,Protests,Peaceful protest,Protesters (Denmark),Grandparents' Climate Action,,,Denmark,Hovedstaden,Hillerod,Hillerod,55.9277,12.3114,1,Other,0,DNK
+DNK339,2020-08-29,2,Protests,Peaceful protest,Protesters (Denmark),Grandparents' Climate Action,,,Denmark,Midtjylland,Silkeborg,Silkeborg,56.164,9.5443,1,Other,0,DNK
+DNK353,2020-09-03,1,Protests,Peaceful protest,Protesters (Denmark),Greenpeace,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,Other,0,DNK
+DNK354,2020-09-04,1,Protests,Peaceful protest,Protesters (Denmark),Students (Denmark); XR: Extinction Rebellion,,,Denmark,Nordjylland,Aalborg,Aalborg,57.0429,9.9168,1,Subnational-National,0,DNK
+DNK356,2020-09-05,1,Protests,Peaceful protest,Protesters (Denmark),Students (Denmark); XR: Extinction Rebellion,,,Denmark,Midtjylland,Silkeborg,Silkeborg,56.164,9.5443,1,Subnational-National,0,DNK
+DNK357,2020-09-05,1,Protests,Peaceful protest,Protesters (Denmark),Students (Denmark); XR: Extinction Rebellion,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK358,2020-09-05,1,Protests,Peaceful protest,Protesters (Denmark),Students (Denmark); XR: Extinction Rebellion,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,National,0,DNK
+DNK368,2020-09-11,1,Protests,Peaceful protest,Protesters (Denmark),FFF: Fridays for Future; Students (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other-New media,0,DNK
+DNK378,2020-09-16,1,Protests,Peaceful protest,Protesters (Denmark),XR: Extinction Rebellion,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK381,2020-09-16,1,Protests,Protest with intervention,Protesters (Denmark),XR: Extinction Rebellion,Police Forces of Denmark (2019-),,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media-National,0,DNK
+DNK383,2020-09-17,1,Protests,Protest with intervention,Protesters (Denmark),XR: Extinction Rebellion,Police Forces of Denmark (2019-),,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media-National,0,DNK
+DNK387,2020-09-18,1,Protests,Peaceful protest,Protesters (Denmark),XR: Extinction Rebellion,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK388,2020-09-19,1,Protests,Protest with intervention,Protesters (Denmark),XR: Extinction Rebellion,Police Forces of Denmark (2019-),,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media-National,0,DNK
+DNK393,2020-09-22,2,Protests,Peaceful protest,Protesters (Denmark),XR: Extinction Rebellion,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK401,2020-09-26,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,New media,0,DNK
+DNK405,2020-09-29,1,Protests,Peaceful protest,Protesters (Denmark),FFF: Fridays for Future; Students (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK407,2020-09-30,1,Protests,Peaceful protest,Protesters (Denmark),XR: Extinction Rebellion,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other,0,DNK
+DNK408,2020-10-01,1,Protests,Peaceful protest,Protesters (Denmark),FFF: Fridays for Future; Students (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK41,2020-01-31,1,Protests,Peaceful protest,Protesters (Denmark),FFF: Fridays for Future; Health Workers (Denmark); Students (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other-New media,0,DNK
+DNK410,2020-10-02,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Sjaelland,Vordingborg,Vordingborg,55.0118,11.8992,1,Subnational,0,DNK
+DNK411,2020-10-02,1,Protests,Peaceful protest,Protesters (Denmark),FFF: Fridays for Future; Students (Denmark),,,Denmark,Midtjylland,Skanderborg,Skanderborg,56.0348,9.9316,1,Other,0,DNK
+DNK412,2020-10-02,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Sjaelland,Vordingborg,Vordingborg,55.0118,11.8992,1,Subnational,0,DNK
+DNK413,2020-10-02,1,Protests,Peaceful protest,Protesters (Denmark),FFF: Fridays for Future; Students (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other-New media,0,DNK
+DNK414,2020-10-02,1,Protests,Peaceful protest,Protesters (Denmark),The Climate Movement,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK415,2020-10-03,1,Protests,Peaceful protest,Protesters (Denmark),FFF: Fridays for Future; Students (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other-New media,0,DNK
+DNK418,2020-10-06,1,Protests,Peaceful protest,Protesters (Denmark),DGUB: The Green Youth Movement; FFF: Fridays for Future; FV: Peace Watch; Grandparents' Climate Action; Greenpeace; Students (Denmark); Time for Peace; VP: Vegan Party,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other-Subnational,0,DNK
+DNK421,2020-10-06,1,Protests,Peaceful protest,Protesters (Denmark),DGUB: The Green Youth Movement; Students (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK424,2020-10-09,1,Protests,Peaceful protest,Protesters (Denmark),FFF: Fridays for Future; Students (Denmark); XR: Extinction Rebellion,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other,0,DNK
+DNK425,2020-10-09,1,Protests,Peaceful protest,Protesters (Denmark),Greenpeace,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other-National,0,DNK
+DNK43,2020-02-01,1,Protests,Peaceful protest,Protesters (Denmark),ALT: The Alternative,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK434,2020-10-11,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK448,2020-10-16,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,Other,0,DNK
+DNK449,2020-10-16,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Hillerod,Hillerod,55.9277,12.3114,1,Other,0,DNK
+DNK450,2020-10-16,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK452,2020-10-17,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Other,0,DNK
+DNK47,2020-02-07,1,Protests,Peaceful protest,Protesters (Denmark),FFF: Fridays for Future; Students (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other-New media,0,DNK
+DNK474,2020-10-22,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK48,2020-02-08,1,Protests,Peaceful protest,Protesters (Denmark),XR: Extinction Rebellion,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,Other,0,DNK
+DNK486,2020-10-29,1,Protests,Peaceful protest,Protesters (Denmark),FFF: Fridays for Future; Students (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other-New media,0,DNK
+DNK492,2020-10-31,2,Protests,Peaceful protest,Protesters (Denmark),Grandparents' Climate Action,,,Denmark,Midtjylland,Silkeborg,Silkeborg,56.164,9.5443,1,Other,0,DNK
+DNK498,2020-11-06,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK499,2020-11-06,1,Protests,Peaceful protest,Protesters (Denmark),XR: Extinction Rebellion,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK501,2020-11-07,1,Protests,Peaceful protest,Protesters (Denmark),Grandparents' Climate Action; Students (Denmark),,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,Other,0,DNK
+DNK517,2020-11-13,2,Protests,Peaceful protest,Protesters (Denmark),Greenpeace,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,2,Other,0,DNK
+DNK528,2020-11-20,1,Protests,Peaceful protest,Protesters (Denmark),XR: Extinction Rebellion,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK540,2020-11-26,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK543,2020-11-27,1,Protests,Protest with intervention,Protesters (Denmark),,Police Forces of Denmark (2019-),,Denmark,Sjaelland,Vordingborg,Vordingborg,55.0118,11.8992,1,Other-Subnational,0,DNK
+DNK544,2020-11-27,1,Protests,Peaceful protest,Protesters (Denmark),XR: Extinction Rebellion,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK547,2020-11-27,1,Protests,Peaceful protest,Protesters (Denmark),Grandparents' Climate Action,,,Denmark,Midtjylland,Silkeborg,Silkeborg,56.164,9.5443,1,Other,0,DNK
+DNK549,2020-11-27,1,Protests,Peaceful protest,Protesters (Denmark),SUF: Socialist Youth Front,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK579,2020-12-11,1,Protests,Peaceful protest,Protesters (Denmark),XR: Extinction Rebellion,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK64,2020-02-21,1,Protests,Peaceful protest,Protesters (Denmark),FFF: Fridays for Future; Students (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK71,2020-02-28,1,Protests,Peaceful protest,Protesters (Denmark),FFF: Fridays for Future; Students (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK78,2020-03-04,1,Protests,Peaceful protest,Protesters (Denmark),XR: Extinction Rebellion,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK81,2020-03-05,1,Protests,Peaceful protest,Protesters (Denmark),XR: Extinction Rebellion,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK83,2020-03-06,1,Protests,Peaceful protest,Protesters (Denmark),FFF: Fridays for Future; Students (Denmark),,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other-New media,0,DNK
+DNK84,2020-03-06,1,Protests,Protest with intervention,Protesters (Denmark),,Police Forces of Denmark (2019-),,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK86,2020-03-07,1,Protests,Peaceful protest,Protesters (Denmark),FFF: Fridays for Future; Labor Group (Denmark); Students (Denmark); XR: Extinction Rebellion,,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,Other-National,0,DNK
+DNK92,2020-03-08,1,Protests,Protest with intervention,Protesters (Denmark),Women (Denmark); XR: Extinction Rebellion,Police Forces of Denmark (2019-),,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK95,2020-03-10,1,Protests,Protest with intervention,Protesters (Denmark),XR: Extinction Rebellion,Police Forces of Denmark (2019-),,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other-National,0,DNK
+DNK96,2020-03-10,1,Protests,Peaceful protest,Protesters (Denmark),XR: Extinction Rebellion,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,Other,0,DNK
+DNK143,2020-05-16,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK253,2020-06-29,1,Riots,Violent demonstration,Rioters (Denmark),Labor Group (Denmark),Rioters (Denmark),,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK337,2020-08-29,1,Protests,Peaceful protest,Protesters (Denmark),JFK21: Earth Freedom Knowledge,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK422,2020-10-07,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK7,2020-01-12,1,Protests,Peaceful protest,Protesters (Denmark),Palestinian Group (Denmark),Protesters (Denmark),SK: Hard Line,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,National,0,DNK
+DNK773,2020-06-29,1,Protests,Peaceful protest,Protesters (Denmark),Labor Group (Denmark),,,Denmark,Hovedstaden,Glostrup,Glostrup,55.6705,12.4006,1,National,0,DNK
+DNK188,2020-06-06,1,Protests,Peaceful protest,Protesters (Denmark),Government of Denmark (2019-); LGBTQ+ (Denmark); S: Social Democrats (Denmark),,,Denmark,Midtjylland,Aarhus,Aarhus,56.1496,10.2044,1,Subnational,0,DNK
+DNK245,2020-06-26,1,Protests,Peaceful protest,Protesters (Denmark),Government of Denmark (2019-); S: Social Democrats (Denmark),,,Denmark,Syddanmark,Odense,Odense,55.4018,10.3862,1,Subnational-National,0,DNK
+DNK534,2020-11-23,1,Protests,Peaceful protest,Protesters (Denmark),,,,Denmark,Hovedstaden,Kobenhavn,Copenhagen,55.6879,12.5697,1,New media,0,DNK

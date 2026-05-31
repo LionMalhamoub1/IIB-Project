@@ -1,0 +1,631 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities
+CRI284,2020-02-10,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Limon,Limon,9.9907,-83.036,1,National,0
+CRI281,2020-01-16,2,Violence against civilians,Attack,Unidentified Armed Group (Costa Rica),,Civilians (Costa Rica),Coris de Cartago Communal Group (Costa Rica),Costa Rica,Puntarenas,Puntarenas,Puntarenas,9.9763,-84.8384,1,National,1
+CRI287,2020-02-25,2,Battles,Armed clash,Unidentified Communal Militia (Costa Rica),Farmers (Costa Rica),Terraba Indigenous Militia (Costa Rica),,Costa Rica,Puntarenas,Puntarenas,Puntarenas,9.9763,-84.8384,1,National,1
+CRI300,2020-03-07,1,Violence against civilians,Attack,Unidentified Communal Militia (Costa Rica),Farmers (Costa Rica),Civilians (Costa Rica),Cabecar Indigenous Group (Costa Rica),Costa Rica,San Jose,Perez Zeledon,Cajon,9.29,-83.5826,1,National-International,0
+CRI306,2020-03-10,1,Protests,Peaceful protest,Protesters (Costa Rica),Students (Costa Rica),,,Costa Rica,Puntarenas,Quepos,Quepos,9.4306,-84.1623,1,National,0
+CRI311,2020-03-13,1,Strategic developments,Other,Unidentified Armed Group (Costa Rica),,Civilians (Costa Rica),,Costa Rica,Limon,Limon,Limon,9.9907,-83.036,1,National,0
+CRI313,2020-03-17,1,Violence against civilians,Attack,Unidentified Communal Militia (Costa Rica),,Civilians (Costa Rica),,Costa Rica,Limon,Pococi,Roxana,10.2671,-83.7511,1,National,5
+CRI312,2020-03-16,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Quepos,Quepos,9.4306,-84.1623,1,National,0
+CRI319,2020-04-03,2,Protests,Peaceful protest,Protesters (Costa Rica),Ngabe Indigenous Group (Costa Rica),,,Costa Rica,Puntarenas,Puntarenas,Puntarenas,9.9763,-84.8384,1,National,0
+CRI320,2020-04-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Puntarenas,Puntarenas,9.9763,-84.8384,1,National,0
+CRI321,2020-04-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Puntarenas,Puntarenas,9.9763,-84.8384,1,National,0
+CRI324,2020-05-01,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,Alajuela,San Ramon,Penas Blancas,10.3787,-84.6787,2,National,0
+CRI326,2020-05-19,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,Puntarenas,Corredores,Paso Canoas,8.5309,-82.8415,1,National,0
+CRI329,2020-06-03,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Garabito,Jaco,9.6149,-84.6297,1,National,0
+CRI330,2020-06-13,2,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Santa Rosa de Pocosol,10.6235,-84.5239,1,National,0
+CRI336,2020-07-10,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,Puntarenas,Corredores,Paso Canoas,8.5309,-82.8415,1,National,0
+CRI346,2020-07-23,1,Protests,Peaceful protest,Protesters (Nicaragua),,,,Costa Rica,Alajuela,San Ramon,Penas Blancas,10.3787,-84.6787,1,International,0
+CRI366,2020-08-10,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Talamanca,Sixaola,9.5071,-82.6139,2,National,0
+CRI371,2020-08-21,1,Protests,Peaceful protest,Protesters (Costa Rica),Women (Costa Rica),,,Costa Rica,Puntarenas,Puntarenas,Cobano,9.6832,-85.1128,1,National,0
+CRI374,2020-08-29,1,Protests,Peaceful protest,Protesters (Costa Rica),Women (Costa Rica),,,Costa Rica,Puntarenas,Puntarenas,Cobano,9.6832,-85.1128,1,National,0
+CRI379,2020-09-09,1,Protests,Peaceful protest,Protesters (Costa Rica),Teachers (Costa Rica),,,Costa Rica,Puntarenas,Esparza,Esparza,9.9905,-84.6665,1,National,0
+CRI380,2020-09-10,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,Limon,Talamanca,Talamanca,9.653,-82.7545,1,National,0
+CRI383,2020-09-14,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,Guanacaste,Tilaran,Tilaran,10.4554,-84.9705,2,National,0
+CRI400,2020-09-24,1,Protests,Peaceful protest,Protesters (Costa Rica),Teachers (Costa Rica),,,Costa Rica,Guanacaste,Canas,Canas,10.4274,-85.0954,1,National,0
+CRI397,2020-09-23,1,Protests,Peaceful protest,Protesters (Costa Rica),Teachers (Costa Rica),,,Costa Rica,Guanacaste,Canas,Canas,10.4274,-85.0954,1,National,0
+CRI398,2020-09-23,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Perez Zeledon,San Isidro de El General,9.3669,-83.6954,2,National,0
+CRI415,2020-09-30,1,Protests,Peaceful protest,Protesters (Costa Rica),National Rescue Movement,,,Costa Rica,Guanacaste,Canas,Canas,10.4274,-85.0954,1,National,0
+CRI414,2020-09-30,1,Protests,Peaceful protest,Protesters (Costa Rica),National Rescue Movement,,,Costa Rica,Puntarenas,Esparza,Caldera,9.937,-84.7248,2,National,0
+CRI420,2020-09-30,1,Protests,Peaceful protest,Protesters (Costa Rica),Fishers (Costa Rica),,,Costa Rica,Puntarenas,Puntarenas,El Roble,9.9817,-84.7358,1,National,0
+CRI413,2020-09-30,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Buenos Aires,Buenos Aires,9.1719,-83.3342,1,National,0
+CRI426,2020-09-30,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Puntarenas,Puntarenas,9.9763,-84.8384,1,National,0
+CRI510,2020-10-03,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Ramon,Penas Blancas,10.3787,-84.6787,1,National,0
+CRI412,2020-09-30,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Altamira,10.5015,-84.3717,1,National,0
+CRI505,2020-10-03,1,Riots,Violent demonstration,Rioters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,La Fortuna,10.4709,-84.6454,1,National,0
+CRI492,2020-10-03,1,Riots,Violent demonstration,Rioters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Aguas Zarcas,10.3732,-84.3386,1,National,0
+CRI493,2020-10-03,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Altamira,10.5015,-84.3717,1,National,0
+CRI433,2020-09-30,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Osa,Uvita,9.1734,-83.7399,1,National,0
+CRI495,2020-10-03,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Canas,Canas,10.4274,-85.0954,1,National,0
+CRI497,2020-10-03,1,Riots,Violent demonstration,Rioters (Costa Rica),,,,Costa Rica,Puntarenas,Corredores,Ciudad Neily,8.6491,-82.9425,1,National,0
+CRI499,2020-10-03,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Osa,Dominical,9.2519,-83.8606,1,National,0
+CRI500,2020-10-03,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Corredores,El Ceibo,8.6579,-82.9879,1,National,0
+CRI509,2020-10-03,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Corredores,Paso Canoas,8.5309,-82.8415,1,National,0
+CRI494,2020-10-03,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Tilaran,Arenal,10.5456,-84.8948,1,National,0
+CRI507,2020-10-03,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Muelle San Carlos,10.4744,-84.461,1,National,0
+CRI508,2020-10-03,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Naranjo,Naranjo,10.0975,-84.3831,1,National,0
+CRI466,2020-10-01,1,Riots,Violent demonstration,Rioters (Costa Rica),,Civilians (Costa Rica),,Costa Rica,San Jose,Tarrazu,San Lorenzo,9.6414,-84.03,1,National,0
+CRI498,2020-10-03,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Ciudad Quesada,10.3238,-84.4271,1,National,0
+CRI512,2020-10-03,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Perez Zeledon,San Isidro de El General,9.3669,-83.6954,1,National,0
+CRI514,2020-10-03,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Osa,Uvita,9.1734,-83.7399,1,National,0
+CRI405,2020-09-29,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Esparza,Caldera,9.937,-84.7248,2,National,0
+CRI407,2020-09-29,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Muelle San Carlos,10.4744,-84.461,2,National,0
+CRI408,2020-09-29,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Puntarenas,Puntarenas,9.9763,-84.8384,1,National,0
+CRI409,2020-09-29,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Perez Zeledon,San Isidro de El General,9.3669,-83.6954,2,National,0
+CRI451,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Pococi,Guapiles,10.2168,-83.7848,1,National,0
+CRI453,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Garabito,Jaco,9.6149,-84.6297,2,National,0
+CRI454,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Javillos,10.3771,-84.5399,2,National,0
+CRI455,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,La Cruz,La Cruz,11.0738,-85.6327,1,National,0
+CRI456,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,La Fortuna,10.4709,-84.6454,1,National,0
+CRI457,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Naranjo,Naranjo,10.0975,-84.3831,2,National,0
+CRI458,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Nicoya,Nicoya,10.1504,-85.4509,1,National,0
+CRI459,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Parrita,Parrita,9.522,-84.3221,1,National,0
+CRI460,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Heredia,Sarapiqui,Puerto Viejo,10.4506,-84.0211,1,National,0
+CRI461,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Quepos,Quepos,9.4306,-84.1623,2,National,0
+CRI438,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Altamira,10.5015,-84.3717,2,National,0
+CRI468,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Guatuso,San Rafael de Guatuso,10.6738,-84.8204,1,National,0
+CRI470,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Rio Cuarto,Santa Isabel,10.4568,-84.2009,2,National,0
+CRI471,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Siquirres,Siquirres,10.0975,-83.5066,2,National,0
+CRI473,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Talamanca,Talamanca,9.653,-82.7545,2,National,0
+CRI435,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Aguas Zarcas,10.3732,-84.3386,2,National,0
+CRI439,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Tilaran,Arenal,10.5456,-84.8948,2,National,0
+CRI440,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Bagaces,Bagaces,10.5254,-85.2554,1,National,0
+CRI441,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Quepos,Baru,9.2811,-83.8533,2,National,0
+CRI442,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Esparza,Caldera,9.937,-84.7248,2,National,0
+CRI444,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Canas,Canas,10.4274,-85.0954,2,National,0
+CRI445,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Pococi,Cariari,10.3571,-83.7362,1,National,0
+CRI486,2020-10-02,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Muelle San Carlos,10.4744,-84.461,2,National,0
+CRI447,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Corredores,Ciudad Neily,8.6491,-82.9425,1,National,0
+CRI448,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Corredores,El Ceibo,8.6579,-82.9879,2,National,0
+CRI477,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Osa,Uvita,9.1734,-83.7399,2,National,0
+CRI479,2020-10-02,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Altamira,10.5015,-84.3717,1,National,0
+CRI483,2020-10-02,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Corredores,El Ceibo,8.6579,-82.9879,1,National,0
+CRI472,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Mora,Tabarcia,9.8493,-84.2346,1,National,0
+CRI474,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Terron Colorado,10.5528,-84.4904,2,National,0
+CRI489,2020-10-02,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Guatuso,San Rafael de Guatuso,10.6738,-84.8204,1,National,0
+CRI482,2020-10-02,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Osa,Dominical,9.2519,-83.8606,1,National,0
+CRI475,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Tilaran,Tilaran,10.4554,-84.9705,1,National,0
+CRI488,2020-10-02,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Puntarenas,Puntarenas,9.9763,-84.8384,1,National,0
+CRI417,2020-09-30,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Ciudad Quesada,10.3238,-84.4271,2,National,0
+CRI418,2020-09-30,1,Protests,Peaceful protest,Protesters (Costa Rica),National Rescue Movement,,,Costa Rica,Puntarenas,Osa,Dominical,9.2519,-83.8606,1,National,0
+CRI411,2020-09-30,1,Protests,Peaceful protest,Protesters (Costa Rica),National Rescue Movement,,,Costa Rica,Alajuela,San Carlos,Aguas Zarcas,10.3732,-84.3386,1,National,0
+CRI427,2020-09-30,1,Protests,Peaceful protest,Protesters (Costa Rica),National Rescue Movement,,,Costa Rica,Puntarenas,Quepos,Quepos,9.4306,-84.1623,1,National,0
+CRI425,2020-09-30,1,Protests,Peaceful protest,Protesters (Costa Rica),National Rescue Movement,,,Costa Rica,Heredia,Sarapiqui,Puerto Viejo,10.4506,-84.0211,1,National,0
+CRI429,2020-09-30,1,Protests,Peaceful protest,Protesters (Costa Rica),National Rescue Movement,,,Costa Rica,Alajuela,Guatuso,San Rafael de Guatuso,10.6738,-84.8204,1,National,0
+CRI431,2020-09-30,1,Protests,Peaceful protest,Protesters (Costa Rica),National Rescue Movement,,,Costa Rica,Limon,Siquirres,Siquirres,10.0975,-83.5066,1,National,0
+CRI424,2020-09-30,1,Protests,Peaceful protest,Protesters (Costa Rica),National Rescue Movement,,,Costa Rica,Heredia,Sarapiqui,Puerto Viejo,10.4506,-84.0211,2,National,0
+CRI419,2020-09-30,1,Protests,Peaceful protest,Protesters (Costa Rica),National Rescue Movement,,,Costa Rica,Puntarenas,Corredores,El Ceibo,8.6579,-82.9879,1,National,0
+CRI423,2020-09-30,1,Protests,Peaceful protest,Protesters (Costa Rica),National Rescue Movement,,,Costa Rica,Alajuela,San Carlos,Muelle San Carlos,10.4744,-84.461,2,National,0
+CRI422,2020-09-30,1,Protests,Peaceful protest,Protesters (Costa Rica),National Rescue Movement,,,Costa Rica,Puntarenas,Puntarenas,Judas de Chomes,10.113,-84.9,1,National,0
+CRI421,2020-09-30,1,Protests,Peaceful protest,Protesters (Costa Rica),National Rescue Movement,,,Costa Rica,Limon,Pococi,Guapiles,10.2168,-83.7848,1,National,0
+CRI515,2020-10-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Aguas Zarcas,10.3732,-84.3386,1,National,0
+CRI516,2020-10-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Altamira,10.5015,-84.3717,1,National,0
+CRI517,2020-10-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Tilaran,Arenal,10.5456,-84.8948,1,National,0
+CRI518,2020-10-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Quepos,Baru,9.2811,-83.8533,1,National,0
+CRI519,2020-10-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Boca Arenal,10.532,-84.4791,1,National,0
+CRI520,2020-10-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Buenos Aires,Buenos Aires,9.1719,-83.3342,1,National,0
+CRI521,2020-10-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Perez Zeledon,Cajon,9.29,-83.5826,1,National,0
+CRI523,2020-10-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Heredia,Sarapiqui,Chilamate,10.4537,-84.0875,1,National,0
+CRI524,2020-10-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Corredores,Ciudad Neily,8.6491,-82.9425,1,National,0
+CRI525,2020-10-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Corredores,El Ceibo,8.6579,-82.9879,1,National,0
+CRI647,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Buenos Aires,Buenos Aires,9.1719,-83.3342,2,National,0
+CRI527,2020-10-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Garabito,Jaco,9.6149,-84.6297,1,National,0
+CRI528,2020-10-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Javillos,10.3771,-84.5399,1,National,0
+CRI529,2020-10-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,La Fortuna,10.4709,-84.6454,2,National,0
+CRI531,2020-10-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Muelle San Carlos,10.4744,-84.461,2,National,0
+CRI532,2020-10-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Naranjo,Naranjo,10.0975,-84.3831,1,National,0
+CRI533,2020-10-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Ramon,Penas Blancas,10.3787,-84.6787,1,National,0
+CRI534,2020-10-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Heredia,Sarapiqui,Puerto Viejo,10.4506,-84.0211,1,National,0
+CRI535,2020-10-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Perez Zeledon,San Isidro de El General,9.3669,-83.6954,1,National,0
+CRI537,2020-10-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Guatuso,San Rafael de Guatuso,10.6738,-84.8204,1,National,0
+CRI539,2020-10-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Coto Brus,San Vito,8.8208,-82.9709,1,National,0
+CRI543,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Aguas Zarcas,10.3732,-84.3386,1,National,0
+CRI545,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Altamira,10.5015,-84.3717,1,National,0
+CRI546,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Tilaran,Arenal,10.5456,-84.8948,1,National,0
+CRI547,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Buenos Aires,Buenos Aires,9.1719,-83.3342,1,National,0
+CRI548,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Perez Zeledon,Cajon,9.29,-83.5826,1,National,0
+CRI549,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Canas,Canas,10.4274,-85.0954,1,National,0
+CRI551,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Heredia,Sarapiqui,Chilamate,10.4537,-84.0875,1,National,0
+CRI552,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Corredores,Ciudad Neily,8.6491,-82.9425,1,National,0
+CRI553,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Ciudad Quesada,10.3238,-84.4271,1,National,0
+CRI554,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Osa,Dominical,9.2519,-83.8606,1,National,0
+CRI555,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Corredores,El Ceibo,8.6579,-82.9879,1,National,0
+CRI558,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Pococi,Guapiles,10.2168,-83.7848,1,National,0
+CRI560,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Garabito,Jaco,9.6149,-84.6297,1,National,0
+CRI561,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Javillos,10.3771,-84.5399,1,National,0
+CRI562,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Puntarenas,Judas de Chomes,10.113,-84.9,1,National,0
+CRI563,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,La Cruz,La Cruz,11.0738,-85.6327,1,National,0
+CRI564,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Liberia,Liberia,10.635,-85.4377,1,National,0
+CRI567,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Muelle San Carlos,10.4744,-84.461,1,National,0
+CRI568,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Naranjo,Naranjo,10.0975,-84.3831,1,National,0
+CRI569,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Orotina,Orotina,9.9122,-84.5255,1,National,0
+CRI570,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Osa,Palmar Norte,8.9618,-83.4559,1,National,0
+CRI571,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Puntarenas,Paquera,9.8185,-84.9326,1,National,0
+CRI572,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Parrita,Parrita,9.522,-84.3221,1,National,0
+CRI573,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Corredores,Paso Canoas,8.5309,-82.8415,1,National,0
+CRI574,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Ramon,Penas Blancas,10.3787,-84.6787,1,National,0
+CRI575,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Heredia,Sarapiqui,Puerto Viejo,10.4506,-84.0211,1,National,0
+CRI576,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Quepos,Quepos,9.4306,-84.1623,1,National,0
+CRI577,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Perez Zeledon,San Isidro de El General,9.3669,-83.6954,1,National,0
+CRI578,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Tarrazu,San Lorenzo,9.6414,-84.03,1,National,0
+CRI579,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Guatuso,San Rafael de Guatuso,10.6738,-84.8204,1,National,0
+CRI581,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Coto Brus,San Vito,8.8208,-82.9709,1,National,0
+CRI582,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Rio Cuarto,Santa Isabel,10.4568,-84.2009,1,National,0
+CRI584,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Siquirres,Siquirres,10.0975,-83.5066,1,National,0
+CRI585,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Terron Colorado,10.5528,-84.4904,1,National,0
+CRI586,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Tilaran,Tilaran,10.4554,-84.9705,1,National,0
+CRI588,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Osa,Uvita,9.1734,-83.7399,1,National,0
+CRI591,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Altamira,10.5015,-84.3717,1,National,0
+CRI593,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Bagaces,Bagaces,10.5254,-85.2554,1,National,0
+CRI594,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Quepos,Baru,9.2811,-83.8533,1,National,0
+CRI595,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Boca Arenal,10.532,-84.4791,1,National,0
+CRI596,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Buenos Aires,Buenos Aires,9.1719,-83.3342,1,National,0
+CRI597,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Canas,Canas,10.4274,-85.0954,1,National,0
+CRI598,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Pococi,Cariari,10.3571,-83.7362,1,National,0
+CRI601,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Heredia,Sarapiqui,Chilamate,10.4537,-84.0875,1,National,0
+CRI602,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Corredores,Ciudad Neily,8.6491,-82.9425,1,National,0
+CRI603,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Ciudad Quesada,10.3238,-84.4271,1,National,0
+CRI605,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Corredores,El Ceibo,8.6579,-82.9879,1,National,0
+CRI606,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Carrillo,El Coco,10.543,-85.6974,1,National,0
+CRI608,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Garabito,Jaco,9.6149,-84.6297,1,National,0
+CRI609,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Puntarenas,Judas de Chomes,10.113,-84.9,1,National,0
+CRI610,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,La Cruz,La Cruz,11.0738,-85.6327,1,National,0
+CRI611,2020-10-06,1,Riots,Violent demonstration,Rioters (Costa Rica),,Civilians (Costa Rica),,Costa Rica,Alajuela,San Carlos,La Fortuna,10.4709,-84.6454,1,National,0
+CRI612,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Los Chiles,Las Tablillas,11.0737,-84.6958,1,National,0
+CRI613,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Liberia,Liberia,10.635,-85.4377,1,National,0
+CRI614,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Limon,Limon,9.9907,-83.036,2,National,0
+CRI615,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Limon,Limon,9.9907,-83.036,1,National,0
+CRI618,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Montes de Oro,Miramar,10.0833,-84.7295,1,National,0
+CRI619,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Muelle San Carlos,10.4744,-84.461,1,National,0
+CRI620,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Nicoya,Nicoya,10.1504,-85.4509,1,National,0
+CRI621,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Orotina,Orotina,9.9122,-84.5255,1,National,0
+CRI622,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Osa,Palmar Norte,8.9618,-83.4559,2,National,0
+CRI624,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Puntarenas,Paquera,9.8185,-84.9326,2,National,0
+CRI625,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Parrita,Parrita,9.522,-84.3221,1,National,0
+CRI626,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Corredores,Paso Canoas,8.5309,-82.8415,1,National,0
+CRI627,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Heredia,Sarapiqui,Puerto Viejo,10.4506,-84.0211,1,National,0
+CRI628,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Quepos,Quepos,9.4306,-84.1623,1,National,0
+CRI629,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Golfito,Rio Claro,8.6772,-83.0659,1,National,0
+CRI630,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Perez Zeledon,San Isidro de El General,9.3669,-83.6954,1,National,0
+CRI672,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Talamanca,Talamanca,9.653,-82.7545,1,National,0
+CRI633,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Guatuso,San Rafael de Guatuso,10.6738,-84.8204,1,National,0
+CRI635,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Rio Cuarto,Santa Isabel,10.4568,-84.2009,1,National,0
+CRI637,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Siquirres,Siquirres,10.0975,-83.5066,1,National,0
+CRI638,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Talamanca,Sixaola,9.5071,-82.6139,1,National,0
+CRI639,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Talamanca,Talamanca,9.653,-82.7545,1,National,0
+CRI640,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Tilaran,Tilaran,10.4554,-84.9705,1,National,0
+CRI643,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Osa,Uvita,9.1734,-83.7399,1,National,0
+CRI645,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Aguas Zarcas,10.3732,-84.3386,1,National,0
+CRI646,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Altamira,10.5015,-84.3717,1,National,0
+CRI660,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Corredores,Paso Canoas,8.5309,-82.8415,1,National,0
+CRI648,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Canas,Canas,10.4274,-85.0954,1,National,0
+CRI649,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Heredia,Sarapiqui,Chilamate,10.4537,-84.0875,1,National,0
+CRI651,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Ciudad Quesada,10.3238,-84.4271,1,National,0
+CRI652,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Corredores,El Ceibo,8.6579,-82.9879,1,National,0
+CRI654,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Pococi,Guapiles,10.2168,-83.7848,1,National,0
+CRI656,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Javillos,10.3771,-84.5399,1,National,0
+CRI657,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,La Fortuna,10.4709,-84.6454,2,National,0
+CRI658,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Muelle San Carlos,10.4744,-84.461,1,National,0
+CRI659,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Naranjo,Naranjo,10.0975,-84.3831,1,National,0
+CRI673,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Terron Colorado,10.5528,-84.4904,1,National,0
+CRI662,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Heredia,Sarapiqui,Puerto Viejo,10.4506,-84.0211,1,National,0
+CRI664,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Perez Zeledon,San Isidro de El General,9.3669,-83.6954,1,National,0
+CRI665,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Tarrazu,San Lorenzo,9.6414,-84.03,1,National,0
+CRI666,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Guatuso,San Rafael de Guatuso,10.6738,-84.8204,1,National,0
+CRI668,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Coto Brus,San Vito,8.8208,-82.9709,1,National,0
+CRI669,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Rio Cuarto,Santa Isabel,10.4568,-84.2009,1,National,0
+CRI671,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Talamanca,Sixaola,9.5071,-82.6139,2,National,0
+CRI712,2020-10-10,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Coto Brus,San Francisco,8.8709,-82.8232,1,National,0
+CRI678,2020-10-08,1,Riots,Violent demonstration,Rioters (Costa Rica),,,,Costa Rica,Puntarenas,Corredores,Paso Canoas,8.5309,-82.8415,1,National,0
+CRI679,2020-10-08,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Ramon,Penas Blancas,10.3787,-84.6787,1,National,0
+CRI680,2020-10-08,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Perez Zeledon,San Isidro de El General,9.3669,-83.6954,1,National,0
+CRI711,2020-10-10,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Corredores,Paso Canoas,8.5309,-82.8415,1,National,0
+CRI708,2020-10-10,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Los Chiles,Las Tablillas,11.0737,-84.6958,1,National,0
+CRI710,2020-10-10,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Muelle San Carlos,10.4744,-84.461,1,National,0
+CRI702,2020-10-10,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Tilaran,Arenal,10.5456,-84.8948,1,National,0
+CRI716,2020-10-10,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Talamanca,Talamanca,9.653,-82.7545,1,National,0
+CRI701,2020-10-10,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Altamira,10.5015,-84.3717,1,National,0
+CRI706,2020-10-10,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Pococi,Guapiles,10.2168,-83.7848,1,National,0
+CRI704,2020-10-10,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Ciudad Quesada,10.3238,-84.4271,1,National,0
+CRI705,2020-10-10,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Corredores,El Ceibo,8.6579,-82.9879,1,National,0
+CRI715,2020-10-10,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Rio Cuarto,Santa Isabel,10.4568,-84.2009,1,National,0
+CRI713,2020-10-10,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Guatuso,San Rafael de Guatuso,10.6738,-84.8204,1,National,0
+CRI695,2020-10-09,2,Riots,Violent demonstration,Rioters (Costa Rica),,Civilians (Costa Rica),Women (Costa Rica),Costa Rica,Heredia,Sarapiqui,Puerto Viejo,10.4506,-84.0211,1,National,0
+CRI703,2020-10-10,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Buenos Aires,Buenos Aires,9.1719,-83.3342,1,International,0
+CRI684,2020-10-09,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Quepos,Baru,9.2811,-83.8533,1,National,0
+CRI690,2020-10-09,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Osa,Palmar Norte,8.9618,-83.4559,1,National,0
+CRI683,2020-10-09,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Altamira,10.5015,-84.3717,1,National,0
+CRI692,2020-10-09,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Ramon,Penas Blancas,10.3787,-84.6787,1,National,0
+CRI693,2020-10-09,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Pital,10.4505,-84.274,1,National,0
+CRI697,2020-10-09,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Perez Zeledon,San Isidro de El General,9.3669,-83.6954,1,National,0
+CRI685,2020-10-09,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Buenos Aires,Buenos Aires,9.1719,-83.3342,1,National,0
+CRI687,2020-10-09,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Ciudad Quesada,10.3238,-84.4271,1,National,0
+CRI688,2020-10-09,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Javillos,10.3771,-84.5399,1,National,0
+CRI689,2020-10-09,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,La Fortuna,10.4709,-84.6454,2,National,0
+CRI719,2020-10-11,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Carrillo,El Coco,10.543,-85.6974,2,National,0
+CRI720,2020-10-11,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Javillos,10.3771,-84.5399,1,National,0
+CRI721,2020-10-11,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,La Fortuna,10.4709,-84.6454,1,National,0
+CRI726,2020-10-12,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Buenos Aires,Buenos Aires,9.1719,-83.3342,1,National,0
+CRI727,2020-10-12,1,Protests,Excessive force against protesters,Protesters (Costa Rica),,Unidentified Armed Group (Costa Rica),,Costa Rica,Alajuela,San Carlos,Ciudad Quesada,10.3238,-84.4271,1,National,0
+CRI728,2020-10-12,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Perez Zeledon,San Isidro de El General,9.3669,-83.6954,1,National,0
+CRI730,2020-10-13,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Buenos Aires,Buenos Aires,9.1719,-83.3342,1,National,0
+CRI732,2020-10-13,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Corredores,Ciudad Neily,8.6491,-82.9425,1,National,0
+CRI733,2020-10-13,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Carrillo,El Coco,10.543,-85.6974,2,National,0
+CRI734,2020-10-13,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Pococi,Guapiles,10.2168,-83.7848,2,National,0
+CRI735,2020-10-13,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Osa,Palmar Norte,8.9618,-83.4559,1,National,0
+CRI736,2020-10-13,1,Riots,Violent demonstration,Rioters (Costa Rica),,Civilians (Costa Rica),,Costa Rica,Puntarenas,Corredores,Paso Canoas,8.5309,-82.8415,1,National,0
+CRI737,2020-10-13,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Quepos,Quepos,9.4306,-84.1623,1,National,0
+CRI738,2020-10-13,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Perez Zeledon,San Isidro de El General,9.3669,-83.6954,1,National,0
+CRI740,2020-10-14,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Quepos,Baru,9.2811,-83.8533,1,National,0
+CRI741,2020-10-14,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Canas,Canas,10.4274,-85.0954,1,National,0
+CRI742,2020-10-14,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Corredores,Ciudad Neily,8.6491,-82.9425,1,National,0
+CRI744,2020-10-14,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Pococi,Guapiles,10.2168,-83.7848,2,National,0
+CRI745,2020-10-14,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Orotina,Orotina,9.9122,-84.5255,1,National,0
+CRI746,2020-10-14,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Osa,Palmar Norte,8.9618,-83.4559,1,National,0
+CRI747,2020-10-14,1,Riots,Violent demonstration,Rioters (Costa Rica),,,,Costa Rica,Puntarenas,Corredores,Paso Canoas,8.5309,-82.8415,1,National,0
+CRI748,2020-10-14,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Puntarenas,Puntarenas,9.9763,-84.8384,2,National,0
+CRI750,2020-10-14,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Perez Zeledon,San Isidro de El General,9.3669,-83.6954,1,International,0
+CRI753,2020-10-15,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Buenos Aires,Buenos Aires,9.1719,-83.3342,1,International,0
+CRI763,2020-10-21,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Perez Zeledon,San Isidro de El General,9.3669,-83.6954,1,National,0
+CRI756,2020-10-19,1,Protests,Peaceful protest,Protesters (Costa Rica),Teachers (Costa Rica); Labor Group (Costa Rica),,,Costa Rica,Alajuela,San Carlos,Ciudad Quesada,10.3238,-84.4271,1,National,0
+CRI757,2020-10-19,2,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Puntarenas,Judas de Chomes,10.113,-84.9,1,National,0
+CRI758,2020-10-19,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Limon,Limon,9.9907,-83.036,1,National,0
+CRI761,2020-10-21,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,Puntarenas,Corredores,Paso Canoas,8.5309,-82.8415,1,National,0
+CRI767,2020-10-22,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Hojancha,Hojancha,10.061,-85.4177,1,National,0
+CRI768,2020-10-22,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Los Chiles,Los Chiles,11.0287,-84.7115,1,National,0
+CRI765,2020-10-22,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Altamira,10.5015,-84.3717,1,National,0
+CRI769,2020-10-22,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,Puntarenas,Corredores,Paso Canoas,8.5309,-82.8415,1,National,0
+CRI777,2020-10-29,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Siquirres,Siquirres,10.0975,-83.5066,1,National,0
+CRI780,2020-11-02,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Limon,Limon,9.9907,-83.036,1,National,0
+CRI785,2020-11-19,1,Riots,Violent demonstration,Rioters (Costa Rica),,Civilians (Costa Rica),Taxi/Bus Drivers (Costa Rica),Costa Rica,Heredia,Sarapiqui,Puerto Viejo,10.4506,-84.0211,1,National,0
+CRI790,2020-11-20,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Osa,Palmar Norte,8.9618,-83.4559,1,National,0
+CRI789,2020-11-20,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Canas,Canas,10.4274,-85.0954,1,National,0
+CRI787,2020-11-20,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Altamira,10.5015,-84.3717,1,National,0
+CRI791,2020-11-20,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Puntarenas,Puntarenas,9.9763,-84.8384,1,National,0
+CRI988,2020-12-18,2,Violence against civilians,Attack,Unidentified Armed Group (Costa Rica),,Civilians (Costa Rica),,Costa Rica,Limon,Siquirres,Siquirres,10.0975,-83.5066,1,National,1
+CRI987,2020-12-15,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Puntarenas,Puntarenas,9.9763,-84.8384,1,National,0
+CRI504,2020-10-03,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Golfito,Rio Claro,8.6772,-83.0659,2,National,0
+CRI452,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Golfito,Rio Claro,8.6772,-83.0659,2,National,0
+CRI315,2020-03-04,1,Strategic developments,Looting/property destruction,Unidentified Communal Militia (Costa Rica),,Civilians (Costa Rica),Broran Indigenous Group (Costa Rica),Costa Rica,Puntarenas,Buenos Aires,Buenos Aires,9.1719,-83.3342,1,Local partner-Other,0
+CRI280,2020-01-09,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Limon,Limon,9.9907,-83.036,1,National,0
+CRI314,2020-03-28,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,Heredia,Sarapiqui,Puerto Viejo,10.4506,-84.0211,1,Local partner-National,0
+CRI443,2020-10-01,1,Protests,Protest with intervention,Protesters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Puntarenas,Esparza,Caldera,9.937,-84.7248,1,Local partner-National,0
+CRI481,2020-10-02,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Canas,Canas,10.4274,-85.0954,1,Local partner-National,0
+CRI566,2020-10-05,1,Riots,Violent demonstration,Rioters (Costa Rica),,Police Forces of Costa Rica (2014-2022),Civilians (Costa Rica),Costa Rica,Limon,Limon,Limon,9.9907,-83.036,1,Local partner-National,0
+CRI686,2020-10-09,2,Riots,Violent demonstration,Rioters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Guanacaste,Canas,Canas,10.4274,-85.0954,1,Local partner-National,0
+CRI707,2020-10-10,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,La Fortuna,10.4709,-84.6454,1,Local partner-National,0
+CRI722,2020-10-11,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Corredores,Paso Canoas,8.5309,-82.8415,1,Local partner-National,0
+CRI759,2020-10-19,1,Protests,Excessive force against protesters,Protesters (Costa Rica),Fishers (Costa Rica),Unidentified Armed Group (Costa Rica),,Costa Rica,Puntarenas,Puntarenas,Puntarenas,9.9763,-84.8384,1,Local partner-National,0
+CRI1596,2020-10-11,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Aguas Zarcas,10.3732,-84.3386,1,Local partner-National,0
+CRI1597,2020-10-11,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Altamira,10.5015,-84.3717,1,Local partner-National,0
+CRI1605,2020-10-18,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Ciudad Quesada,10.3238,-84.4271,1,Local partner-National,0
+CRI1615,2020-10-02,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Ciudad Quesada,10.3238,-84.4271,1,Local partner-National,0
+CRI1595,2020-10-11,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,La Palmera,10.4212,-84.3827,1,Local partner-National,0
+CRI1570,2020-07-21,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,Alajuela,Los Chiles,Los Chiles,11.0287,-84.7115,1,Local partner-National,0
+CRI1594,2020-10-09,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Los Chiles,Los Chiles,11.0287,-84.7115,1,Local partner-National,0
+CRI1598,2020-10-11,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Muelle San Carlos,10.4744,-84.461,1,Local partner-National,0
+CRI1561,2020-06-12,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Carlos,Santa Rosa de Pocosol,10.6235,-84.5239,1,Local partner-National,0
+CRI1612,2020-10-02,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Bagaces,Bagaces,10.5254,-85.2554,1,Local partner-National,0
+CRI1587,2020-09-13,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,Guanacaste,Abangares,La Irma,10.2333,-84.9974,1,Local partner-National,0
+CRI1586,2020-09-12,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,Guanacaste,Hojancha,Puerto Carrillo,9.8668,-85.479,1,Local partner-National,0
+CRI1613,2020-10-02,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Tilaran,Tilaran,10.4554,-84.9705,1,Local partner-National,0
+CRI1599,2020-10-11,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Heredia,Sarapiqui,Chilamate,10.4537,-84.0875,1,Local partner-National,0
+CRI1622,2020-11-18,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Heredia,Sarapiqui,Chilamate,10.4537,-84.0875,1,Local partner-National,0
+CRI1562,2020-06-20,1,Protests,Peaceful protest,Protesters (Costa Rica),Police Forces of Costa Rica (2014-2022),,,Costa Rica,Heredia,Sarapiqui,Puerto Viejo,10.4506,-84.0211,1,Local partner-National,0
+CRI1611,2020-10-02,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Limon,Limon,9.9907,-83.036,1,Local partner-National,0
+CRI1590,2020-09-28,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Puntarenas,Barranca,9.9902,-84.7119,2,Local partner-National,0
+CRI1620,2020-10-11,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Quepos,Baru,9.2811,-83.8533,1,Local partner-National,0
+CRI718,2020-10-11,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Buenos Aires,Buenos Aires,9.1719,-83.3342,1,Local partner-National,0
+CRI1603,2020-10-11,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Osa,Dominical,9.2519,-83.8606,2,Local partner-National,0
+CRI1609,2020-10-02,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Garabito,Jaco,9.6149,-84.6297,1,Local partner-National,0
+CRI1604,2020-10-11,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Buenos Aires,Longo Mai,9.2619,-83.4932,1,Local partner-National,0
+CRI1601,2020-10-11,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Osa,Palmar Norte,8.9618,-83.4559,1,Local partner-National,0
+CRI691,2020-10-09,1,Riots,Violent demonstration,Rioters (Costa Rica),,,,Costa Rica,Puntarenas,Corredores,Paso Canoas,8.5309,-82.8415,1,Local partner-National,0
+CRI1543,2020-02-19,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Puntarenas,Puntarenas,9.9763,-84.8384,1,Local partner-National,0
+CRI1589,2020-09-18,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Puntarenas,Puntarenas,9.9763,-84.8384,1,Local partner-National,0
+CRI1593,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Puntarenas,Puntarenas,9.9763,-84.8384,1,Local partner-National,0
+CRI1602,2020-10-11,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Perez Zeledon,San Isidro de El General,9.3669,-83.6954,1,Local partner-National,0
+CRI1610,2020-10-02,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Perez Zeledon,San Isidro de El General,9.3669,-83.6954,1,Local partner-National,0
+CRI1623,2020-12-02,1,Protests,Peaceful protest,Protesters (Costa Rica),Bribri Indigenous Group (Costa Rica),,,Costa Rica,San Jose,Perez Zeledon,San Isidro de El General,9.3669,-83.6954,1,Local partner-National,0
+CRI323,2020-04-10,1,Riots,Mob violence,Rioters (Costa Rica),Prisoners (Costa Rica),Police Forces of Costa Rica (2014-2022),,Costa Rica,Puntarenas,Puntarenas,Puntarenas,9.9763,-84.8384,1,National,0
+CRI478,2020-10-02,1,Protests,Protest with intervention,Protesters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Alajuela,San Carlos,Aguas Zarcas,10.3732,-84.3386,1,National,0
+CRI700,2020-10-10,1,Protests,Protest with intervention,Protesters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Alajuela,San Carlos,Aguas Zarcas,10.3732,-84.3386,1,National,0
+CRI487,2020-10-02,1,Riots,Violent demonstration,Rioters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Heredia,Sarapiqui,Puerto Viejo,10.4506,-84.0211,2,National,0
+CRI762,2020-10-21,1,Riots,Violent demonstration,Rioters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Heredia,Sarapiqui,Puerto Viejo,10.4506,-84.0211,2,National,0
+CRI503,2020-10-03,1,Protests,Protest with intervention,Protesters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Limon,Pococi,Guapiles,10.2168,-83.7848,1,National,0
+CRI795,2020-11-21,2,Riots,Violent demonstration,Rioters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Puntarenas,Osa,Palmar Sur,8.9477,-83.4667,1,National,0
+CRI530,2020-10-04,1,Riots,Violent demonstration,Rioters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Limon,Limon,Limon,9.9907,-83.036,1,National,0
+CRI506,2020-10-03,1,Protests,Protest with intervention,Protesters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Limon,Limon,Limon,9.9907,-83.036,1,National,0
+CRI485,2020-10-02,1,Protests,Protest with intervention,Protesters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Alajuela,San Carlos,Muelle San Carlos,10.4744,-84.461,1,National,0
+CRI781,2020-11-18,1,Protests,Protest with intervention,Protesters (Costa Rica),National Rescue Movement,Police Forces of Costa Rica (2014-2022),,Costa Rica,Heredia,Sarapiqui,Chilamate,10.4537,-84.0875,1,National,0
+CRI755,2020-10-19,1,Riots,Violent demonstration,Rioters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Puntarenas,Puntarenas,Barranca,9.9902,-84.7119,1,National,0
+CRI522,2020-10-04,1,Riots,Violent demonstration,Rioters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Puntarenas,Esparza,Caldera,9.937,-84.7248,1,National,0
+CRI677,2020-10-08,1,Riots,Violent demonstration,Rioters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Guanacaste,Canas,Canas,10.4274,-85.0954,1,National,0
+CRI663,2020-10-07,1,Riots,Violent demonstration,Rioters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Puntarenas,Quepos,Quepos,9.4306,-84.1623,1,National,0
+CRI770,2020-10-22,1,Protests,Protest with intervention,Protesters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,San Jose,Perez Zeledon,San Isidro de El General,9.3669,-83.6954,2,National,0
+CRI788,2020-11-20,1,Protests,Protest with intervention,Protesters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Guanacaste,Bagaces,Bagaces,10.5254,-85.2554,1,National,0
+CRI650,2020-10-07,1,Riots,Violent demonstration,Rioters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Puntarenas,Corredores,Ciudad Neily,8.6491,-82.9425,1,National,0
+CRI991,2020-12-27,1,Riots,Mob violence,Rioters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Puntarenas,Puntarenas,Puntarenas,9.9763,-84.8384,1,National,0
+CRI676,2020-10-08,2,Riots,Violent demonstration,Rioters (Costa Rica),Civilians (Costa Rica); Journalists (Costa Rica),Police Forces of Costa Rica (2014-2022),,Costa Rica,Guanacaste,Canas,Canas,10.4274,-85.0954,1,National,0
+CRI782,2020-11-18,1,Riots,Violent demonstration,Rioters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Puntarenas,Corredores,Paso Canoas,8.5309,-82.8415,1,National,0
+CRI766,2020-10-22,1,Protests,Protest with intervention,Protesters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Puntarenas,Buenos Aires,Buenos Aires,9.1719,-83.3342,2,National,0
+CRI784,2020-11-19,1,Riots,Violent demonstration,Rioters (Costa Rica),,Police Forces of Costa Rica (2014-2022),Civilians (Costa Rica); Journalists (Costa Rica),Costa Rica,Puntarenas,Corredores,Paso Canoas,8.5309,-82.8415,1,National,0
+CRI279,2020-01-05,1,Violence against civilians,Attack,Unidentified Armed Group (Costa Rica),,Civilians (Costa Rica),Police Forces of Costa Rica (2014-2022),Costa Rica,Puntarenas,Puntarenas,Barranca,9.9902,-84.7119,1,National,1
+CRI322,2020-04-10,2,Strategic developments,Change to group/activity,Police Forces of Costa Rica (2014-2022),,,,Costa Rica,Alajuela,Los Chiles,Las Tablillas,11.0737,-84.6958,1,National,0
+CRI749,2020-10-14,1,Riots,Violent demonstration,Rioters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Puntarenas,Quepos,Quepos,9.4306,-84.1623,1,International,0
+CRI801,2020-11-25,1,Riots,Violent demonstration,Rioters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Puntarenas,Buenos Aires,Buenos Aires,9.1719,-83.3342,1,National,0
+CRI511,2020-10-03,2,Riots,Violent demonstration,Rioters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Heredia,Sarapiqui,Puerto Viejo,10.4506,-84.0211,1,National,0
+CRI345,2020-07-22,1,Protests,Protest with intervention,Protesters (Nicaragua),,Police Forces of Costa Rica (2014-2022),Police Forces of Nicaragua (2007-),Costa Rica,Alajuela,San Ramon,Penas Blancas,10.3787,-84.6787,1,Regional,0
+CRI565,2020-10-05,1,Riots,Violent demonstration,Rioters (Costa Rica),,,,Costa Rica,Limon,Limon,Limon,9.9907,-83.036,1,National,0
+CRI709,2020-10-10,1,Riots,Violent demonstration,Rioters (Costa Rica),,,,Costa Rica,Limon,Limon,Limon,9.9907,-83.036,2,National,0
+CRI462,2020-10-01,1,Riots,Violent demonstration,Rioters (Costa Rica),,,,Costa Rica,Puntarenas,Quepos,Quepos,9.4306,-84.1623,1,National,0
+CRI484,2020-10-02,1,Riots,Violent demonstration,Rioters (Costa Rica),,,,Costa Rica,Limon,Pococi,Guapiles,10.2168,-83.7848,1,National,0
+CRI1614,2020-10-02,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Abangares,Las Juntas,10.2805,-84.9584,1,Local partner-National,0
+CRI368,2020-08-12,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,Guanacaste,Abangares,Las Juntas,10.2805,-84.9584,1,National,0
+CRI378,2020-09-08,2,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,Guanacaste,Abangares,Las Juntas,10.2805,-84.9584,1,National,0
+CRI382,2020-09-14,2,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,Guanacaste,Abangares,Las Juntas,10.2805,-84.9584,1,National,0
+CRI434,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Abangares,Las Juntas,10.2805,-84.9584,1,National,0
+CRI542,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Abangares,Las Juntas,10.2805,-84.9584,1,National,0
+CRI589,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Guanacaste,Abangares,Las Juntas,10.2805,-84.9584,1,National,0
+CRI644,2020-10-07,1,Riots,Violent demonstration,Rioters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Guanacaste,Abangares,Las Juntas,10.2805,-84.9584,1,National,0
+CRI1606,2020-10-24,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Matina,Matina,10.0778,-83.2901,1,Local partner-National,0
+CRI616,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Limon,Limon 2000,9.9867,-83.1429,1,National,0
+CRI617,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Matina,Matina,10.0778,-83.2901,1,National,0
+CRI771,2020-10-23,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Matina,Matina,10.0778,-83.2901,2,National,0
+CRI292,2020-03-03,1,Protests,Peaceful protest,Protesters (Costa Rica),Students (Costa Rica),,,Costa Rica,Cartago,Cartago,Quebradilla,9.8446,-83.9929,1,National,0
+CRI293,2020-03-03,1,Protests,Peaceful protest,Protesters (Costa Rica),Students (Costa Rica),,,Costa Rica,Cartago,La Union,San Diego,9.9018,-84.0044,1,National,0
+CRI294,2020-03-04,2,Battles,Armed clash,Unidentified Armed Group (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Cartago,La Union,San Rafael,9.9068,-83.9754,1,National,0
+CRI811,2020-11-30,1,Riots,Mob violence,Rioters (Costa Rica),,,,Costa Rica,Cartago,El Guarco,El Tejar,9.8444,-83.9397,2,National,0
+CRI450,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Guacimo,Guacimo,10.2125,-83.6875,2,National,0
+CRI502,2020-10-03,1,Riots,Violent demonstration,Rioters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Limon,Guacimo,Guacimo,10.2125,-83.6875,1,National,0
+CRI526,2020-10-04,1,Riots,Violent demonstration,Rioters (Costa Rica),,,,Costa Rica,Limon,Guacimo,Guacimo,10.2125,-83.6875,1,National,0
+CRI557,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Limon,Guacimo,Guacimo,10.2125,-83.6875,1,National,0
+CRI1538,2020-01-15,1,Protests,Peaceful protest,Protesters (Costa Rica),ANEP: National Association of Public and Private Employees; Health Workers (Costa Rica); Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1539,2020-01-27,1,Protests,Peaceful protest,Protesters (Costa Rica),Farmers (Costa Rica); Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1540,2020-02-06,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1544,2020-02-19,1,Protests,Peaceful protest,Protesters (Costa Rica),Muslim Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1549,2020-03-08,1,Protests,Peaceful protest,Protesters (Costa Rica),Women (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1551,2020-03-10,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1552,2020-03-24,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1553,2020-03-24,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1554,2020-04-03,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1555,2020-04-29,1,Protests,Peaceful protest,Protesters (Costa Rica),Government of Costa Rica (2014-2022),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1557,2020-05-01,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica); PRT: Revolutionary Workers' Party,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1559,2020-05-14,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1560,2020-06-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1563,2020-06-24,1,Protests,Peaceful protest,Protesters (Costa Rica),Students (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1564,2020-06-24,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Santa Ana,Cuestamoras,9.9326,-84.1826,2,Local partner-National,0
+CRI1567,2020-06-29,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1568,2020-06-29,1,Protests,Peaceful protest,Protesters (Costa Rica),Farmers (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1571,2020-07-22,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica); Private Security Forces (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1572,2020-07-22,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1573,2020-07-28,1,Protests,Peaceful protest,Protesters (Costa Rica),Farmers (Costa Rica); Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1574,2020-08-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Alajuela,Alajuela,10.0163,-84.2116,1,Local partner-National,0
+CRI1575,2020-07-04,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1576,2020-08-07,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1577,2020-08-07,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,Santa Ana,Santa Ana,9.931,-84.1821,1,Local partner-National,0
+CRI1579,2020-08-12,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1580,2020-08-20,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1581,2020-08-24,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1582,2020-08-05,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1583,2020-08-05,1,Protests,Peaceful protest,Protesters (Costa Rica),Taxi/Bus Drivers (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1584,2020-09-07,1,Protests,Peaceful protest,Protesters (Costa Rica),BUSSCO: Costa Rican Union and Social Unitary Bloc; Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1585,2020-09-08,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1588,2020-09-14,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1591,2020-09-30,1,Protests,Peaceful protest,Protesters (Costa Rica),Taxi/Bus Drivers (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1607,2020-10-02,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Alajuela,Alajuela,10.0163,-84.2116,2,Local partner-National,0
+CRI1608,2020-10-02,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Alajuela,Alajuela,10.0163,-84.2116,1,Local partner-National,0
+CRI1616,2020-10-02,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,2,Local partner-National,0
+CRI1619,2020-09-25,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1621,2020-11-17,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1624,2020-12-09,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1625,2020-12-11,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1626,2020-11-13,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI1815,2020-09-22,1,Protests,Peaceful protest,Protesters (Nicaragua),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI1816,2020-10-05,1,Protests,Peaceful protest,Protesters (Nicaragua),Indigenous Group (Nicaragua); Teachers (Nicaragua),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI1817,2020-10-20,1,Protests,Peaceful protest,Protesters (Nicaragua),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI1818,2020-10-29,1,Protests,Peaceful protest,Protesters (Nicaragua),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI282,2020-01-16,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI285,2020-02-24,1,Protests,Peaceful protest,Protesters (Costa Rica),Women (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI286,2020-02-24,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI288,2020-02-26,2,Riots,Violent demonstration,Rioters (Costa Rica),,,,Costa Rica,Alajuela,Alajuela,Alajuela,10.0163,-84.2116,1,National,0
+CRI289,2020-02-28,1,Protests,Peaceful protest,Protesters (Costa Rica),Terraba Indigenous Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI291,2020-03-02,1,Riots,Mob violence,Rioters (Costa Rica),,Civilians (Costa Rica),LGBTQ+ (Costa Rica); Women (Costa Rica),Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI295,2020-03-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI296,2020-03-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI297,2020-03-05,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI298,2020-03-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI299,2020-03-06,2,Protests,Peaceful protest,Protesters (Costa Rica),Students (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI301,2020-03-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI307,2020-03-11,1,Protests,Peaceful protest,Protesters (Costa Rica),Students (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI308,2020-03-12,1,Protests,Peaceful protest,Protesters (Costa Rica),Students (Costa Rica),,,Costa Rica,Alajuela,Alajuela,Alajuela,10.0163,-84.2116,1,National,0
+CRI309,2020-03-12,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI310,2020-03-13,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Alajuela,Alajuela,10.0163,-84.2116,1,National,0
+CRI316,2020-03-18,1,Strategic developments,Change to group/activity,Government of Costa Rica (2014-2022),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,3,Regional,0
+CRI317,2020-03-31,1,Riots,Mob violence,Rioters (Costa Rica),Prisoners (Costa Rica),Police Forces of Costa Rica (2014-2022),,Costa Rica,Heredia,Heredia,Heredia,10.0024,-84.1165,1,National,0
+CRI318,2020-04-02,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI325,2020-05-02,2,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI327,2020-05-19,1,Protests,Peaceful protest,Protesters (Costa Rica),ANEP: National Association of Public and Private Employees; Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI328,2020-05-26,1,Protests,Peaceful protest,Protesters (Costa Rica),LGBTQ+ (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI331,2020-06-07,1,Riots,Mob violence,Rioters (Costa Rica),Prisoners (Costa Rica),Police Forces of Costa Rica (2014-2022) Prison Guards,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI333,2020-06-18,2,Protests,Peaceful protest,Protesters (Costa Rica),BLM: Black Lives Matter; PRT: Revolutionary Workers' Party,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI334,2020-07-01,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica); Women (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI335,2020-07-06,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI337,2020-07-13,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI340,2020-07-16,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI342,2020-07-21,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI343,2020-07-21,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI347,2020-07-23,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI348,2020-07-23,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI349,2020-07-23,1,Protests,Peaceful protest,Protesters (Costa Rica),Government of Costa Rica (2014-2022),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI351,2020-07-27,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI352,2020-07-27,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI353,2020-07-28,1,Protests,Peaceful protest,Protesters (Costa Rica),Farmers (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI354,2020-07-28,1,Protests,Peaceful protest,Protesters (Costa Rica),Taxi/Bus Drivers (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI355,2020-07-28,1,Protests,Peaceful protest,Protesters (Costa Rica),Women (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI357,2020-07-31,1,Protests,Protest with intervention,Protesters (Costa Rica),Labor Group (Costa Rica),Police Forces of Costa Rica (2014-2022),,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,2,Local partner-National,0
+CRI358,2020-07-31,1,Protests,Peaceful protest,Protesters (Costa Rica),Taxi/Bus Drivers (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI359,2020-08-02,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Escazu,Escazu,9.9188,-84.1398,1,National,0
+CRI360,2020-08-03,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI361,2020-08-05,2,Protests,Peaceful protest,Protesters (Costa Rica),Taxi/Bus Drivers (Costa Rica),,,Costa Rica,Alajuela,Alajuela,Alajuela,10.0163,-84.2116,1,National,0
+CRI363,2020-08-05,2,Protests,Peaceful protest,Protesters (Costa Rica),Taxi/Bus Drivers (Costa Rica),,,Costa Rica,Heredia,Heredia,Heredia,10.0024,-84.1165,1,National,0
+CRI364,2020-08-07,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI365,2020-08-08,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI369,2020-08-15,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI370,2020-08-18,1,Protests,Peaceful protest,Protesters (Nicaragua),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,International,0
+CRI372,2020-08-24,1,Protests,Peaceful protest,Protesters (Costa Rica),Taxi/Bus Drivers (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI373,2020-08-25,1,Riots,Violent demonstration,Rioters (Costa Rica),,Civilians (Costa Rica),Journalists (Costa Rica),Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI375,2020-09-02,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica); Teachers (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI377,2020-09-06,1,Protests,Peaceful protest,Protesters (Costa Rica),Women (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI381,2020-09-12,1,Protests,Peaceful protest,Protesters (Costa Rica),ANEP: National Association of Public and Private Employees; Labor Group (Costa Rica),,,Costa Rica,San Jose,Tibas,Tibas,9.9621,-84.0798,1,Local partner-National,0
+CRI387,2020-09-15,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI389,2020-09-15,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica); UNDECA: National Union of Employees of the Fund and Social Security,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI391,2020-09-15,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,Tibas,Tibas,9.9621,-84.0798,1,National,0
+CRI394,2020-09-20,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI395,2020-09-22,1,Protests,Peaceful protest,Protesters (Costa Rica),Taxi/Bus Drivers (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI396,2020-09-23,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Alajuela,Alajuela,10.0163,-84.2116,1,National,0
+CRI399,2020-09-23,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI401,2020-09-24,1,Protests,Peaceful protest,Protesters (Costa Rica),Taxi/Bus Drivers (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI402,2020-09-26,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI403,2020-09-28,1,Protests,Peaceful protest,Protesters (Costa Rica),Women (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI404,2020-09-28,1,Protests,Peaceful protest,Protesters (Costa Rica),Taxi/Bus Drivers (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI406,2020-09-29,2,Protests,Peaceful protest,Protesters (Costa Rica),Women (Costa Rica),,,Costa Rica,Heredia,Heredia,Heredia,10.0024,-84.1165,1,National,0
+CRI410,2020-09-29,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI428,2020-09-30,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica); National Rescue Movement,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI436,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Alajuela,Alajuela,10.0163,-84.2116,1,National,0
+CRI463,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI464,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),National Rescue Movement,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI465,2020-10-01,1,Protests,Peaceful protest,Protesters (Nicaragua),Journalists (Nicaragua),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Regional,0
+CRI536,2020-10-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI544,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Alajuela,Alajuela,10.0163,-84.2116,1,National,0
+CRI559,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Heredia,Heredia,Heredia,10.0024,-84.1165,1,National,0
+CRI590,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Alajuela,Alajuela,10.0163,-84.2116,1,National,0
+CRI604,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Santa Ana,Cuestamoras,9.9326,-84.1826,1,National,0
+CRI631,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),National Rescue Movement,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI632,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI655,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Heredia,Heredia,Heredia,10.0024,-84.1165,1,National,0
+CRI675,2020-10-08,1,Protests,Protest with intervention,Protesters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Alajuela,Alajuela,Alajuela,10.0163,-84.2116,2,National,0
+CRI681,2020-10-08,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI682,2020-10-09,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Alajuela,Alajuela,10.0163,-84.2116,2,National,0
+CRI696,2020-10-09,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI698,2020-10-09,2,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica); UNDECA: National Union of Employees of the Fund and Social Security,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI723,2020-10-11,1,Riots,Violent demonstration,Rioters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI729,2020-10-12,1,Riots,Violent demonstration,Rioters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI739,2020-10-14,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Alajuela,Alajuela,10.0163,-84.2116,1,National,0
+CRI743,2020-10-14,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Escazu,Escazu,9.9188,-84.1398,2,National,0
+CRI751,2020-10-14,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI760,2020-10-19,1,Protests,Peaceful protest,Protesters (Costa Rica),Health Workers (Costa Rica); Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI764,2020-10-21,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI772,2020-10-23,1,Protests,Peaceful protest,Protesters (Costa Rica),Fishers (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI773,2020-10-24,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI774,2020-10-26,2,Protests,Peaceful protest,Protesters (Costa Rica),Taxi/Bus Drivers (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI779,2020-11-01,1,Protests,Peaceful protest,Protesters (Costa Rica),Fishers (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI786,2020-11-19,1,Protests,Peaceful protest,Protesters (Costa Rica),Students (Costa Rica); Taxi/Bus Drivers (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI792,2020-11-20,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI798,2020-11-19,1,Protests,Peaceful protest,Protesters (Costa Rica),National Rescue Movement,,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI802,2020-11-25,1,Protests,Peaceful protest,Protesters (Costa Rica),Women (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI803,2020-11-26,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI804,2020-11-28,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI805,2020-11-29,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI806,2020-11-30,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI807,2020-12-01,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI808,2020-12-01,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI809,2020-12-02,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI810,2020-12-03,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI984,2020-12-08,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI985,2020-12-09,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI986,2020-12-10,1,Violence against civilians,Attack,Unidentified Armed Group (Costa Rica),,Civilians (Costa Rica),Lawyers (Costa Rica),Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,National,0
+CRI989,2020-12-19,2,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI990,2020-12-21,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,San Jose,San Jose,9.9356,-84.0986,1,Local partner-National,0
+CRI290,2020-02-09,1,Violence against civilians,Attack,Unidentified Communal Militia (Costa Rica),Farmers (Costa Rica),Civilians (Costa Rica),Bribri Indigenous Group (Costa Rica),Costa Rica,Puntarenas,Buenos Aires,Buenos Aires,9.1719,-83.3342,1,International,0
+CRI1569,2020-07-20,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,Alajuela,Upala,Upala,10.8979,-85.0145,1,Local partner-National,0
+CRI476,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Upala,Upala,10.8979,-85.0145,1,National,0
+CRI491,2020-10-02,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Upala,Upala,10.8979,-85.0145,2,Local partner-National,0
+CRI513,2020-10-03,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Upala,Upala,10.8979,-85.0145,1,National,0
+CRI541,2020-10-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Upala,Upala,10.8979,-85.0145,1,National,0
+CRI587,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),Police Forces of Costa Rica (2014-2022),,,Costa Rica,Alajuela,Upala,Upala,10.8979,-85.0145,1,Local partner-National,0
+CRI642,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Upala,Upala,10.8979,-85.0145,1,National,0
+CRI674,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Upala,Upala,10.8979,-85.0145,1,National,0
+CRI717,2020-10-10,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Upala,Upala,10.8979,-85.0145,1,National,0
+CRI752,2020-10-14,1,Riots,Violent demonstration,Rioters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Alajuela,Upala,Upala,10.8979,-85.0145,1,Regional,0
+CRI783,2020-11-18,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Upala,Upala,10.8979,-85.0145,1,National,0
+CRI794,2020-11-20,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Upala,Upala,10.8979,-85.0145,1,National,0
+CRI797,2020-11-21,1,Riots,Violent demonstration,Rioters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Alajuela,Upala,Upala,10.8979,-85.0145,1,National,0
+CRI800,2020-11-22,2,Protests,Protest with intervention,Protesters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Alajuela,Upala,Upala,10.8979,-85.0145,1,National,0
+CRI1550,2020-03-09,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,Aserri,Uruca,9.7627,-84.1332,1,Local partner-National,0
+CRI1617,2020-10-02,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Palmares,Palmares,10.0606,-84.4383,1,Local partner-National,0
+CRI332,2020-06-16,1,Protests,Peaceful protest,Protesters (Costa Rica),Women (Costa Rica),,,Costa Rica,Alajuela,San Ramon,San Ramon,10.088,-84.4702,1,National,0
+CRI339,2020-07-14,2,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Aserri,Uruca,9.7627,-84.1332,1,Local partner-National,0
+CRI344,2020-07-21,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,Alajuela,San Ramon,San Ramon,10.088,-84.4702,1,Local partner-National,0
+CRI388,2020-09-15,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,Acosta,San Ignacio,9.7974,-84.1627,2,National,0
+CRI430,2020-09-30,1,Protests,Peaceful protest,Protesters (Costa Rica),National Rescue Movement,,,Costa Rica,Alajuela,San Ramon,San Ramon,10.088,-84.4702,1,National,0
+CRI432,2020-09-30,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Aserri,Tarbaca,9.822,-84.1091,2,National,0
+CRI469,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Ramon,San Ramon,10.088,-84.4702,1,National,0
+CRI490,2020-10-02,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Ramon,San Ramon,10.088,-84.4702,1,Local partner-National,0
+CRI538,2020-10-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Ramon,San Ramon,10.088,-84.4702,1,National,0
+CRI580,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Ramon,San Ramon,10.088,-84.4702,1,National,0
+CRI623,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Palmares,Palmares,10.0606,-84.4383,1,National,0
+CRI634,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Ramon,San Ramon,10.088,-84.4702,1,National,0
+CRI667,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Ramon,San Ramon,10.088,-84.4702,1,National,0
+CRI724,2020-10-11,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Ramon,San Ramon,10.088,-84.4702,1,National,0
+CRI793,2020-11-20,1,Protests,Protest with intervention,Protesters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Alajuela,San Ramon,San Ramon,10.088,-84.4702,2,National,0
+CRI796,2020-11-21,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Ramon,San Ramon,10.088,-84.4702,1,National,0
+CRI799,2020-11-22,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,San Ramon,San Ramon,10.088,-84.4702,1,National,0
+CRI982,2020-12-06,2,Riots,Violent demonstration,Rioters (Costa Rica),,Civilians (Costa Rica),,Costa Rica,Alajuela,San Ramon,San Ramon,10.088,-84.4702,2,National,0
+CRI338,2020-07-14,1,Riots,Violent demonstration,Rioters (Costa Rica),,,,Costa Rica,Cartago,Turrialba,Turrialba,9.9047,-83.6835,1,National,0
+CRI540,2020-10-04,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Cartago,Turrialba,Turrialba,9.9047,-83.6835,1,National,0
+CRI641,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Cartago,Turrialba,Turrialba,9.9047,-83.6835,1,National,0
+CRI1541,2020-02-10,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Cartago,Alvarado,Pacayas,9.9159,-83.8094,1,Local partner-National,0
+CRI1545,2020-02-24,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Cartago,Alvarado,Pacayas,9.9159,-83.8094,1,Local partner-National,0
+CRI1547,2020-02-25,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Cartago,Alvarado,Pacayas,9.9159,-83.8094,1,Local partner-National,0
+CRI1578,2020-08-08,1,Protests,Peaceful protest,Protesters (Costa Rica),Women (Costa Rica),,,Costa Rica,Cartago,Cartago,Cartago,9.8644,-83.9194,1,Local partner-National,0
+CRI350,2020-07-26,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Cartago,Cartago,Cartago,9.8644,-83.9194,1,Local partner-National,0
+CRI362,2020-08-05,2,Protests,Peaceful protest,Protesters (Costa Rica),Taxi/Bus Drivers (Costa Rica),,,Costa Rica,Cartago,Cartago,Cartago,9.8644,-83.9194,1,National,0
+CRI367,2020-08-11,2,Protests,Peaceful protest,Protesters (Costa Rica),Health Workers (Costa Rica),,,Costa Rica,Cartago,Cartago,Cartago,9.8644,-83.9194,1,National,0
+CRI376,2020-09-06,1,Protests,Peaceful protest,Protesters (Costa Rica),Women (Costa Rica),,,Costa Rica,Cartago,Cartago,Cartago,9.8644,-83.9194,1,National,0
+CRI393,2020-09-20,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Cartago,Cartago,Cartago,9.8644,-83.9194,1,National,0
+CRI416,2020-09-30,1,Protests,Peaceful protest,Protesters (Costa Rica),National Rescue Movement,,,Costa Rica,Cartago,Cartago,Cartago,9.8644,-83.9194,1,National,0
+CRI496,2020-10-03,1,Riots,Violent demonstration,Rioters (Costa Rica),,Police Forces of Costa Rica (2014-2022),,Costa Rica,Cartago,Cartago,Cartago,9.8644,-83.9194,1,National,0
+CRI550,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Cartago,Cartago,Cartago,9.8644,-83.9194,1,Local partner-National,0
+CRI599,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Cartago,Cartago,Cartago,9.8644,-83.9194,1,National,0
+CRI600,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Cartago,Cartago,Cartago,9.8644,-83.9194,2,National,0
+CRI731,2020-10-13,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Cartago,Cartago,Cartago,9.8644,-83.9194,2,National,0
+CRI754,2020-10-15,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Cartago,Cartago,Cartago,9.8644,-83.9194,1,Regional,0
+CRI775,2020-10-29,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Cartago,Cartago,Cartago,9.8644,-83.9194,2,National,0
+CRI778,2020-10-31,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Cartago,Cartago,Cartago,9.8644,-83.9194,1,National,0
+CRI1542,2020-02-18,1,Protests,Peaceful protest,Protesters (Costa Rica),Students (Costa Rica); Teachers (Costa Rica),,,Costa Rica,San Jose,Goicoechea,Guadalupe,9.9467,-84.0537,2,Local partner-National,0
+CRI1600,2020-10-11,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Heredia,Sarapiqui,Horquetas,10.3364,-83.9529,1,Local partner-National,0
+CRI283,2020-02-06,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,Moravia,San Vicente,9.964,-84.0479,1,National,0
+CRI386,2020-09-15,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,Goicoechea,Guadalupe,9.9467,-84.0537,1,National,0
+CRI390,2020-09-15,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,Moravia,San Vicente,9.964,-84.0479,2,National,0
+CRI392,2020-09-15,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,Vazquez de Coronado,San Isidro,9.9703,-84.0079,1,National,0
+CRI467,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),National Rescue Movement,,,Costa Rica,San Jose,Montes de Oca,San Pedro,9.9283,-84.0507,2,National,0
+CRI480,2020-10-02,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Atenas,Atenas,9.9749,-84.3789,2,Local partner-National,0
+CRI592,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Atenas,Atenas,9.9749,-84.3789,1,National,0
+CRI699,2020-10-09,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Moravia,San Vicente,9.964,-84.0479,1,National,0
+CRI714,2020-10-10,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Moravia,San Vicente,9.964,-84.0479,1,National,0
+CRI725,2020-10-11,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Moravia,San Vicente,9.964,-84.0479,1,National,0
+CRI776,2020-10-29,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Montes de Oca,San Pedro,9.9283,-84.0507,1,National,0
+CRI983,2020-12-08,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Cartago,La Union,Concepcion,9.9234,-83.993,1,National,0
+CRI1592,2020-10-04,1,Protests,Peaceful protest,Protesters (Costa Rica),National Rescue Movement,,,Costa Rica,Alajuela,Grecia,Grecia,10.0739,-84.3147,1,Local partner-National,0
+CRI1618,2020-10-02,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Grecia,Grecia,10.0739,-84.3147,1,Local partner-National,0
+CRI449,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Grecia,Grecia,10.0739,-84.3147,1,National,0
+CRI501,2020-10-03,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Grecia,Grecia,10.0739,-84.3147,1,National,0
+CRI556,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Grecia,Grecia,10.0739,-84.3147,1,National,0
+CRI583,2020-10-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Sarchi,Sarchi Norte,10.0902,-84.3473,2,National,0
+CRI607,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Grecia,Grecia,10.0739,-84.3147,1,National,0
+CRI636,2020-10-06,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Sarchi,Sarchi Norte,10.0902,-84.3473,2,National,0
+CRI653,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Grecia,Grecia,10.0739,-84.3147,1,National,0
+CRI670,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Alajuela,Sarchi,Sarchi Norte,10.0902,-84.3473,2,National,0
+CRI1546,2020-02-24,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Desamparados,Desamparados,9.8968,-84.0621,1,Local partner-National,0
+CRI1548,2020-03-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Alajuelita,Alajuelita,9.8857,-84.1136,1,Local partner-National,0
+CRI1556,2020-04-30,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Alajuelita,Alajuelita,9.8857,-84.1136,1,Local partner-National,0
+CRI1558,2020-05-05,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Alajuelita,Alajuelita,9.8857,-84.1136,1,Local partner-National,0
+CRI341,2020-07-17,1,Riots,Mob violence,Rioters (Costa Rica),,Civilians (Costa Rica),Government of Costa Rica (2014-2022),Costa Rica,San Jose,Alajuelita,Alajuelita,9.8857,-84.1136,1,National,0
+CRI385,2020-09-15,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,Desamparados,Desamparados,9.8968,-84.0621,1,National,0
+CRI437,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),Teachers (Costa Rica),,,Costa Rica,San Jose,Alajuelita,Alajuelita,9.8857,-84.1136,1,National,0
+CRI356,2020-07-31,1,Riots,Violent demonstration,Rioters (Costa Rica),Prisoners (Costa Rica),Police Forces of Costa Rica (2014-2022),,Costa Rica,Alajuela,Alajuela,San Rafael,9.9694,-84.2123,1,National,0
+CRI446,2020-10-01,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,San Jose,Mora,Ciudad Colon,9.9162,-84.2415,2,National,0
+CRI384,2020-09-15,1,Protests,Peaceful protest,Protesters (Costa Rica),Labor Group (Costa Rica),,,Costa Rica,San Jose,Aserri,Aserri,9.8639,-84.0933,1,National,0
+CRI661,2020-10-07,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Golfito,Puerto Jimenez,8.5362,-83.3052,1,National,0
+CRI694,2020-10-09,1,Protests,Peaceful protest,Protesters (Costa Rica),,,,Costa Rica,Puntarenas,Golfito,Puerto Jimenez,8.5362,-83.3052,1,National,0

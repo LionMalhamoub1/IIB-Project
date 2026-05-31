@@ -1,0 +1,151 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+MUS225,2022-04-11,2,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Black River,,Le Morne,-20.445,57.3327,1,National,0,MUS
+MUS283,2022-07-21,1,Protests,Peaceful protest,Protesters (Mauritius),Farmers (Mauritius),,,Mauritius,Rodriguez,,Coromandel,-19.7138,63.475,1,National,0,MUS
+MUS297,2022-09-09,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Agalega,,Vingt Cinq,-10.3871,56.6179,2,National,0,MUS
+MUS325,2022-11-28,1,Protests,Peaceful protest,Protesters (Mauritius),Labor Group (Mauritius),,,Mauritius,Rodriguez,,Port Mathurin,-19.6833,63.4166,1,National,0,MUS
+MUS333,2022-12-23,1,Protests,Peaceful protest,Protesters (Mauritius),OPR: Organisation of the People of Rodrigues,,,Mauritius,Rodriguez,,Port Mathurin,-19.6833,63.4166,1,National,0,MUS
+MUS334,2022-12-10,1,Riots,Mob violence,Rioters (Mauritius),Vigilante Group (Mauritius),Civilians (Mauritius),Labor Group (Mauritius),Mauritius,Black River,,La Preneuse,-20.3535,57.372,1,National,0,MUS
+MUS191,2022-01-18,1,Riots,Mob violence,Rioters (Mauritius),Vigilante Group (Mauritius),Civilians (Mauritius),,Mauritius,Plaines Wilhems,,Beau Bassin-Rose Hill,-20.2332,57.4661,1,National,0,MUS
+MUS192,2022-01-19,1,Protests,Peaceful protest,Protesters (Mauritius),Labor Group (Mauritius),,,Mauritius,Plaines Wilhems,,Quatre Bornes,-20.2643,57.48,1,National,0,MUS
+MUS193,2022-01-20,1,Protests,Peaceful protest,Protesters (Mauritius),Teachers (Mauritius); UPSEE: Union of Private Secondary Education Employees,,,Mauritius,Plaines Wilhems,,Beau Bassin-Rose Hill,-20.2332,57.4661,1,National,0,MUS
+MUS196,2022-01-20,1,Protests,Peaceful protest,Protesters (Mauritius),Labor Group (Mauritius),,,Mauritius,Plaines Wilhems,,Quatre Bornes,-20.2643,57.48,1,National,0,MUS
+MUS198,2022-01-31,1,Protests,Peaceful protest,Protesters (Mauritius),Teachers (Mauritius); UPSEE: Union of Private Secondary Education Employees,,,Mauritius,Plaines Wilhems,,Beau Bassin-Rose Hill,-20.2332,57.4661,1,National,0,MUS
+MUS203,2022-02-14,1,Protests,Peaceful protest,Protesters (Mauritius),Labor Group (Mauritius); Teachers (Mauritius),,,Mauritius,Plaines Wilhems,,Beau Bassin-Rose Hill,-20.2332,57.4661,1,National,0,MUS
+MUS209,2022-03-03,1,Riots,Mob violence,Rioters (Mauritius),,Civilians (Mauritius),,Mauritius,Moka,,Soreze,-20.2066,57.4869,1,National,1,MUS
+MUS213,2022-03-06,1,Riots,Mob violence,Rioters (Mauritius),Vigilante Group (Mauritius),Civilians (Mauritius),Men (Mauritius),Mauritius,Plaines Wilhems,,Quatre Bornes,-20.2643,57.48,1,National,0,MUS
+MUS219,2022-03-26,1,Protests,Peaceful protest,Protesters (Mauritius),LPM: Linion Pep Morisien; Women (Mauritius),,,Mauritius,Plaines Wilhems,,Beau Bassin-Rose Hill,-20.2332,57.4661,1,National,0,MUS
+MUS269,2022-06-09,1,Protests,Peaceful protest,Protesters (Mauritius),Teachers (Mauritius); UPSEE: Union of Private Secondary Education Employees,,,Mauritius,Plaines Wilhems,,Beau Bassin-Rose Hill,-20.2332,57.4661,1,National,0,MUS
+MUS284,2022-07-15,1,Protests,Peaceful protest,Protesters (Mauritius),Labor Group (Mauritius),,,Mauritius,Black River,,Bambous,-20.2565,57.4144,1,National,0,MUS
+MUS313,2022-10-29,1,Protests,Peaceful protest,Protesters (Mauritius),CTSP: Confederation of Public and Private Sector Workers; Labor Group (Mauritius),,,Mauritius,Plaines Wilhems,,Beau Bassin-Rose Hill,-20.2332,57.4661,1,National,0,MUS
+MUS335,2022-12-20,1,Protests,Peaceful protest,Protesters (Mauritius),Teachers (Mauritius); UPSEE: Union of Private Secondary Education Employees,,,Mauritius,Plaines Wilhems,,Beau Bassin-Rose Hill,-20.2332,57.4661,1,National,0,MUS
+MUS246,2022-04-26,2,Riots,Mob violence,Rioters (Mauritius),Vigilante Group (Mauritius),Civilians (Mauritius),,Mauritius,Pamplemousses,,Triolet,-20.0555,57.5515,1,National,0,MUS
+MUS253,2022-05-08,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Riviere du Rempart,,Goodlands,-20.035,57.6589,1,National,0,MUS
+MUS256,2022-05-15,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Riviere du Rempart,,Goodlands,-20.035,57.6589,1,National,0,MUS
+MUS300,2022-08-21,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Pamplemousses,,Trou Aux Biches,-20.032,57.5487,1,National,0,MUS
+MUS303,2022-09-21,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Pamplemousses,,Pamplemousses,-20.1038,57.5702,1,National,0,MUS
+MUS280,2022-06-26,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Pamplemousses,,Montagne Longue,-20.1566,57.575,1,National,0,MUS
+MUS317,2022-10-29,1,Riots,Mob violence,Rioters (Mauritius),,,,Mauritius,Flacq,,Lalmatie,-20.1897,57.6611,1,National,0,MUS
+MUS185,2022-01-05,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS186,2022-01-05,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS187,2022-01-06,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS188,2022-01-06,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS189,2022-01-14,1,Protests,Peaceful protest,Protesters (Mauritius),Labor Group (Mauritius),,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS190,2022-01-17,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS195,2022-01-20,1,Protests,Peaceful protest,Protesters (Mauritius),Affirmative Action,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS197,2022-01-28,1,Protests,Peaceful protest,Protesters (Mauritius),Labor Group (Mauritius),,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS200,2022-02-10,1,Protests,Peaceful protest,Protesters (Mauritius),Affirmative Action,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS201,2022-02-14,1,Protests,Peaceful protest,Protesters (Mauritius),Labor Group (Mauritius),,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS205,2022-02-24,1,Protests,Peaceful protest,Protesters (Mauritius),Protesters (Ukraine),,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS206,2022-02-26,1,Protests,Peaceful protest,Protesters (Ukraine),,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS210,2022-03-09,1,Protests,Peaceful protest,Protesters (Mauritius),Labor Group (Mauritius),,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,2,National,0,MUS
+MUS211,2022-03-15,1,Protests,Peaceful protest,Protesters (Mauritius),Teachers (Mauritius); UPSEE: Union of Private Secondary Education Employees,,,Mauritius,Plaines Wilhems,,Curepipe,-20.315,57.5211,1,National,0,MUS
+MUS212,2022-03-16,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS214,2022-03-19,1,Protests,Peaceful protest,Protesters (Mauritius),ACIM: Consumers Association of Mauritius,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS216,2022-03-24,1,Protests,Peaceful protest,Protesters (Mauritius),CTSP: Confederation of Public and Private Sector Workers; Labor Group (Mauritius),,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS217,2022-03-24,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS220,2022-03-26,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS222,2022-03-28,1,Protests,Peaceful protest,Protesters (Mauritius),LPM: Linion Pep Morisien,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS223,2022-03-25,1,Protests,Peaceful protest,Protesters (Mauritius),Fridays For Future Mauritius (FFFM),,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS227,2022-04-15,1,Protests,Peaceful protest,Protesters (Mauritius),Labor Group (Mauritius); Women (Mauritius),,,Mauritius,Plaines Wilhems,,Curepipe,-20.315,57.5211,1,National,0,MUS
+MUS229,2022-04-21,1,Protests,Peaceful protest,Protesters (Mauritius),Labor Group (Mauritius); LPM: Linion Pep Morisien,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS230,2022-04-20,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS231,2022-04-20,1,Protests,Peaceful protest,Protesters (India),Labor Group (Bangladesh); Labor Group (India); Protesters (Bangladesh),,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS232,2022-04-20,1,Protests,Peaceful protest,Protesters (Bangladesh),Labor Group (Bangladesh); Labor Group (India); Protesters (India),,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS238,2022-05-01,1,Protests,Peaceful protest,Protesters (Mauritius),Fraternal Greens,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS239,2022-05-06,1,Protests,Peaceful protest,Protesters (Mauritius),Labor Group (Mauritius),,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS241,2022-04-28,1,Protests,Peaceful protest,Protesters (Mauritius),Labor Group (Mauritius),,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS242,2022-04-27,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS248,2022-05-13,1,Protests,Peaceful protest,Protesters (Mauritius),Lawyers (Mauritius),,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS249,2022-05-07,1,Protests,Peaceful protest,Protesters (Mauritius),LPM: Linion Pep Morisien,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS250,2022-05-13,1,Protests,Peaceful protest,Protesters (Mauritius),LPM: Linion Pep Morisien,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS252,2022-05-08,1,Protests,Peaceful protest,Protesters (Ukraine),,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS254,2022-05-19,1,Protests,Peaceful protest,Protesters (Mauritius),LPM: Linion Pep Morisien,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS258,2022-05-24,1,Protests,Peaceful protest,Protesters (Mauritius),LPM: Linion Pep Morisien,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS259,2022-05-27,1,Protests,Peaceful protest,Protesters (Mauritius),LPM: Linion Pep Morisien,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS263,2022-05-28,1,Protests,Peaceful protest,Protesters (Mauritius),ACIM: Consumers Association of Mauritius; Labor Group (Madagascar); LPM: Linion Pep Morisien,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS264,2022-05-28,1,Protests,Peaceful protest,Protesters (Mauritius),Muslim Group (Mauritius),,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS265,2022-06-03,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS273,2022-06-16,1,Protests,Peaceful protest,Protesters (Mauritius),MMM: Mauritian Militant Movement; Women (Mauritius),,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS274,2022-06-16,1,Protests,Peaceful protest,Protesters (Mauritius),Students (Mauritius),,,Mauritius,Plaines Wilhems,,Curepipe,-20.315,57.5211,1,National,0,MUS
+MUS275,2022-06-17,1,Protests,Peaceful protest,Protesters (Mauritius),Students (Mauritius),,,Mauritius,Plaines Wilhems,,Curepipe,-20.315,57.5211,1,National,0,MUS
+MUS276,2022-06-20,1,Protests,Peaceful protest,Protesters (Mauritius),Students (Mauritius),,,Mauritius,Plaines Wilhems,,Curepipe,-20.315,57.5211,1,National,0,MUS
+MUS278,2022-06-26,1,Protests,Peaceful protest,Protesters (Mauritius),LPM: Linion Pep Morisien,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS281,2022-06-26,1,Riots,Mob violence,Rioters (Mauritius),,Civilians (Mauritius),,Mauritius,Flacq,,Saint Julien d' Hotman,-20.2312,57.6392,1,National,0,MUS
+MUS282,2022-07-14,1,Protests,Peaceful protest,Protesters (Mauritius),Fishers (Mauritius),,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS285,2022-07-19,1,Protests,Peaceful protest,Protesters (Mauritius),Labor Group (Mauritius),,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS286,2022-07-20,1,Protests,Peaceful protest,Protesters (Mauritius),MMM: Mauritian Militant Movement; PMSD: Mauritian Social Democratic Party; PTR: Labour Party,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS287,2022-07-27,1,Protests,Peaceful protest,Protesters (Mauritius),LPM: Linion Pep Morisien,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS289,2022-07-25,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS293,2022-08-08,1,Riots,Mob violence,Rioters (Mauritius),,,,Mauritius,Pamplemousses,,Baie du Tombeau,-20.1272,57.5067,1,National,0,MUS
+MUS296,2022-09-06,1,Protests,Peaceful protest,Protesters (Mauritius),Labor Group (Mauritius),,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS302,2022-09-20,1,Riots,Mob violence,Rioters (Mauritius),Vigilante Group (Mauritius),Civilians (Mauritius),,Mauritius,Pamplemousses,,Terre Rouge,-20.1264,57.5357,1,National,0,MUS
+MUS304,2022-09-24,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS306,2022-10-03,1,Protests,Peaceful protest,Protesters (Mauritius),Labor Group (Mauritius),,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS307,2022-10-03,1,Protests,Peaceful protest,Protesters (Mauritius),Students (Mauritius); Women (Mauritius),,,Mauritius,Plaines Wilhems,,Curepipe,-20.315,57.5211,1,National,0,MUS
+MUS308,2022-10-08,1,Protests,Peaceful protest,Protesters (Mauritius),LPM: Linion Pep Morisien,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS309,2022-10-14,1,Protests,Peaceful protest,Protesters (Mauritius),LPM: Linion Pep Morisien,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS314,2022-10-29,1,Protests,Peaceful protest,Protesters (Mauritius),PR: Reform Party; PTR: Labour Party,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS315,2022-11-02,1,Protests,Peaceful protest,Protesters (Mauritius),Rastafari Communal Group (Mauritius),,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS321,2022-11-05,2,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS323,2022-11-15,1,Protests,Peaceful protest,Protesters (Mauritius),LPM: Linion Pep Morisien,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS324,2022-11-26,1,Protests,Peaceful protest,Protesters (Mauritius),LPM: Linion Pep Morisien; PMSD: Mauritian Social Democratic Party,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS326,2022-11-25,1,Protests,Peaceful protest,Protesters (Mauritius),Labor Group (Mauritius),,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS327,2022-12-03,1,Protests,Peaceful protest,Protesters (Mauritius),PTR: Labour Party,,,Mauritius,Port Louis,,Vallee Pitot,-20.1696,57.5195,1,National,0,MUS
+MUS328,2022-12-09,1,Protests,Peaceful protest,Protesters (Mauritius),LPM: Linion Pep Morisien,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS329,2022-12-22,1,Protests,Peaceful protest,Protesters (Mauritius),LPM: Linion Pep Morisien,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS337,2022-12-23,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS204,2022-02-16,2,Riots,Mob violence,Rioters (Mauritius),,Civilians (Mauritius),,Mauritius,Flacq,,Clemencia,-20.2649,57.7141,1,National,1,MUS
+MUS235,2022-04-22,1,Riots,Violent demonstration,Rioters (Mauritius),,,,Mauritius,Flacq,,Trou d'Eau Douce,-20.234,57.7956,1,National-International,0,MUS
+MUS240,2022-04-29,1,Protests,Peaceful protest,Protesters (Mauritius),Former Government of Mauritius (2018-2024); Labor Group (Mauritius),,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS279,2022-06-29,1,Protests,Peaceful protest,Protesters (Mauritius),Students (Mauritius),,,Mauritius,Flacq,,Centre de Flacq,-20.1897,57.7144,1,National,0,MUS
+MUS291,2022-07-31,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Flacq,,Trou d'Eau Douce,-20.234,57.7956,1,National,0,MUS
+MUS183,2022-01-01,1,Riots,Mob violence,Rioters (Mauritius),,Police Forces of Mauritius (2018-2024),,Mauritius,Plaines Wilhems,,Beau Bassin-Rose Hill,-20.2332,57.4661,2,National,0,MUS
+MUS184,2022-01-04,1,Protests,Protest with intervention,Protesters (Mauritius),,Police Forces of Mauritius (2018-2024),,Mauritius,Port Louis,,Vallee Pitot,-20.1696,57.5195,1,National,0,MUS
+MUS218,2022-03-27,1,Protests,Peaceful protest,Protesters (Mauritius),Government of Mauritius (2018-2024); PM: Militant Platform,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS221,2022-03-26,1,Riots,Mob violence,Rioters (Mauritius),,Civilians (Mauritius),Police Forces of Mauritius (2018-2024),Mauritius,Port Louis,,Vallee Pitot,-20.1696,57.5195,1,National,0,MUS
+MUS228,2022-04-20,1,Riots,Violent demonstration,Rioters (Mauritius),,Police Forces of Mauritius (2018-2024),,Mauritius,Plaines Wilhems,,Beau Bassin-Rose Hill,-20.2332,57.4661,1,National,0,MUS
+MUS233,2022-04-22,1,Violence against civilians,Attack,Police Forces of Mauritius (2018-2024),,Civilians (Mauritius),,Mauritius,Plaines Wilhems,,Beau Bassin-Rose Hill,-20.2332,57.4661,1,National,0,MUS
+MUS236,2022-04-22,1,Riots,Violent demonstration,Rioters (Mauritius),,Police Forces of Mauritius (2018-2024) Special Support Unit,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS245,2022-04-23,1,Riots,Violent demonstration,Rioters (Mauritius),,Police Forces of Mauritius (2018-2024),,Mauritius,Plaines Wilhems,,Beau Bassin-Rose Hill,-20.2332,57.4661,1,National,0,MUS
+MUS247,2022-04-22,1,Violence against civilians,Attack,Police Forces of Mauritius (2018-2024),,Civilians (Mauritius),Prisoners (Mauritius),Mauritius,Plaines Wilhems,,Beau Bassin-Rose Hill,-20.2332,57.4661,1,National,0,MUS
+MUS262,2022-05-29,1,Riots,Mob violence,Rioters (Mauritius),,Police Forces of Mauritius (2018-2024),,Mauritius,Pamplemousses,,Roche Bois,-20.1336,57.5034,1,National,0,MUS
+MUS266,2022-05-15,1,Violence against civilians,Attack,Police Forces of Mauritius (2018-2024),,Civilians (Mauritius),Labor Group (Mauritius),Mauritius,Riviere du Rempart,,Grand Gaube,-20.0086,57.6644,1,National,0,MUS
+MUS268,2022-05-13,1,Violence against civilians,Attack,Police Forces of Mauritius (2018-2024),,Civilians (Mauritius),,Mauritius,Plaines Wilhems,,Beau Bassin-Rose Hill,-20.2332,57.4661,1,National,0,MUS
+MUS272,2022-06-05,1,Violence against civilians,Attack,Police Forces of Mauritius (2018-2024) Intervention Group,,Civilians (Mauritius),,Mauritius,Flacq,,Trou d'Eau Douce,-20.234,57.7956,1,National,0,MUS
+MUS277,2022-06-17,2,Violence against civilians,Attack,Police Forces of Mauritius (2018-2024),,Civilians (Mauritius),Labor Group (Mauritius),Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS288,2022-07-26,1,Protests,Peaceful protest,Protesters (Mauritius),Government of Mauritius (2018-2024); MMM: Mauritian Militant Movement; PTR: Labour Party,,,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,New media-National,0,MUS
+MUS298,2022-08-30,1,Violence against civilians,Attack,Police Forces of Mauritius (2018-2024),,Civilians (Mauritius),Students (Mauritius),Mauritius,Plaines Wilhems,,Beau Bassin-Rose Hill,-20.2332,57.4661,1,National,0,MUS
+MUS305,2022-09-23,1,Violence against civilians,Attack,Police Forces of Mauritius (2018-2024),,Civilians (Mauritius),,Mauritius,Pamplemousses,,Triolet,-20.0555,57.5515,1,National,0,MUS
+MUS310,2022-10-18,1,Protests,Protest with intervention,Protesters (Mauritius),Government of Mauritius (2018-2024); LPM: Linion Pep Morisien; MMM: Mauritian Militant Movement; PMSD: Mauritian Social Democratic Party; PTR: Labour Party,Police Forces of Mauritius (2018-2024),,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS311,2022-10-18,1,Riots,Violent demonstration,Rioters (Mauritius),,Police Forces of Mauritius (2018-2024),,Mauritius,Flacq,,Poste de Flacq,-20.1682,57.7349,1,National,0,MUS
+MUS312,2022-10-21,1,Violence against civilians,Attack,Police Forces of Mauritius (2018-2024),,Civilians (Mauritius),Women (Mauritius),Mauritius,Plaines Wilhems,,Beau Bassin-Rose Hill,-20.2332,57.4661,1,National,0,MUS
+MUS316,2022-11-03,1,Protests,Protest with intervention,Protesters (Mauritius),Rastafari Communal Group (Mauritius),Police Forces of Mauritius (2018-2024),,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS318,2022-11-10,1,Protests,Protest with intervention,Protesters (Mauritius),LPM: Linion Pep Morisien,Police Forces of Mauritius (2018-2024),,Mauritius,Port Louis,,Port Louis,-20.1619,57.4988,1,National,0,MUS
+MUS319,2022-08-15,3,Violence against civilians,Attack,Police Forces of Mauritius (2018-2024),,Civilians (Mauritius),Prisoners (Mauritius),Mauritius,Plaines Wilhems,,Curepipe,-20.315,57.5211,1,National,0,MUS
+MUS320,2022-08-19,1,Violence against civilians,Attack,Police Forces of Mauritius (2018-2024),,Civilians (Mauritius),Lawyers (Mauritius),Mauritius,Plaines Wilhems,,Quatre Bornes,-20.2643,57.48,1,National,0,MUS
+MUS234,2022-04-22,1,Riots,Violent demonstration,Rioters (Mauritius),,Police Forces of Mauritius (2018-2024),Police Forces of Mauritius (2018-2024) Special Mobile Forces; Police Forces of Mauritius (2018-2024) Special Support Unit,Mauritius,Plaines Wilhems,,Beau Bassin-Rose Hill,-20.2332,57.4661,1,National,0,MUS
+MUS194,2022-01-20,1,Protests,Peaceful protest,Protesters (Mauritius),Affirmative Action,,,Mauritius,Moka,,Moka,-20.219,57.5108,1,National,0,MUS
+MUS199,2022-02-10,1,Protests,Peaceful protest,Protesters (Mauritius),Affirmative Action,,,Mauritius,Moka,,Moka,-20.219,57.5108,1,National,0,MUS
+MUS202,2022-02-13,1,Riots,Mob violence,Rioters (Mauritius),,Police Forces of Mauritius (2018-2024),,Mauritius,Plaines Wilhems,,Vacoas-Phoenix,-20.2988,57.4927,1,National,0,MUS
+MUS207,2022-02-26,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Plaines Wilhems,,Floreal,-20.3158,57.5054,1,National,0,MUS
+MUS208,2022-02-23,2,Violence against civilians,Attack,Police Forces of Mauritius (2018-2024),,Civilians (Mauritius),Prisoners (Mauritius),Mauritius,Moka,,Moka,-20.219,57.5108,1,National,1,MUS
+MUS215,2022-03-20,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Grand Port,,St Hubert,-20.3637,57.6418,1,National,0,MUS
+MUS224,2022-04-06,1,Protests,Protest with intervention,Protesters (Mauritius),Government of Mauritius (2018-2024),Police Forces of Mauritius (2018-2024),,Mauritius,Grand Port,,Plaine Magnien,-20.4297,57.6607,1,National,0,MUS
+MUS226,2022-04-14,1,Protests,Protest with intervention,Protesters (Mauritius),,Police Forces of Mauritius (2018-2024),,Mauritius,Savanne,,Camp Diable,-20.47,57.5831,1,National,0,MUS
+MUS237,2022-04-22,1,Riots,Violent demonstration,Rioters (Mauritius),Police Forces of Mauritius (2018-2024) National Coast Guard,Police Forces of Mauritius (2018-2024) Special Mobile Forces,,Mauritius,Plaines Wilhems,,Vacoas-Phoenix,-20.2988,57.4927,1,National,0,MUS
+MUS260,2022-05-25,1,Violence against civilians,Attack,Police Forces of Mauritius (2018-2024),,Civilians (Mauritius),,Mauritius,Grand Port,,Rose Belle,-20.406,57.6058,1,National,0,MUS
+MUS270,2022-06-05,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Plaines Wilhems,,Vacoas-Phoenix,-20.2988,57.4927,1,National,0,MUS
+MUS271,2022-06-10,1,Violence against civilians,Attack,Police Forces of Mauritius (2018-2024),,Civilians (Mauritius),,Mauritius,Grand Port,,Plaine Magnien,-20.4297,57.6607,1,National,0,MUS
+MUS290,2022-08-05,1,Protests,Peaceful protest,Protesters (Mauritius),Labor Group (Mauritius),,,Mauritius,Plaines Wilhems,,Vacoas-Phoenix,-20.2988,57.4927,1,National,0,MUS
+MUS292,2022-08-07,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Grand Port,,St Hubert,-20.3637,57.6418,1,National,0,MUS
+MUS294,2022-08-05,1,Riots,Mob violence,Rioters (Mauritius),,Civilians (Mauritius),Police Forces of Mauritius (2018-2024),Mauritius,Plaines Wilhems,,Vacoas-Phoenix,-20.2988,57.4927,1,National,0,MUS
+MUS299,2022-08-23,2,Protests,Peaceful protest,Protesters (Mauritius),Students (Mauritius),,,Mauritius,Grand Port,,Rose Belle,-20.406,57.6058,1,National,0,MUS
+MUS301,2022-09-20,1,Protests,Peaceful protest,Protesters (Mauritius),Teachers (Mauritius); UPSEE: Union of Private Secondary Education Employees,,,Mauritius,Moka,,Moka,-20.219,57.5108,1,National,0,MUS
+MUS322,2022-11-07,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Moka,,Moka,-20.219,57.5108,1,National,0,MUS
+MUS336,2022-12-16,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Moka,,Moka,-20.219,57.5108,1,National,0,MUS
+MUS244,2022-04-24,1,Protests,Peaceful protest,Protesters (Mauritius),Labor Group (Mauritius),,,Mauritius,Savanne,,Chemin Grenier,-20.493,57.4749,1,National,0,MUS
+MUS251,2022-05-10,1,Violence against civilians,Attack,Police Forces of Mauritius (2018-2024),,Civilians (Mauritius),,Mauritius,Savanne,,Souillac,-20.5166,57.5166,1,National,0,MUS
+MUS243,2022-04-24,1,Protests,Peaceful protest,Protesters (Mauritius),,,,Mauritius,Grand Port,,Bambous Virieux,-20.339,57.7631,1,National,0,MUS
+MUS257,2022-05-21,1,Protests,Protest with intervention,Protesters (Mauritius),Labor Group (Mauritius); MMM: Mauritian Militant Movement; Fishers (Mauritius),Police Forces of Mauritius (2018-2024),,Mauritius,Grand Port,,Mahebourg,-20.408,57.7,1,National,0,MUS
+MUS295,2022-08-06,1,Riots,Mob violence,Rioters (Mauritius),,Civilians (Mauritius),,Mauritius,Grand Port,,Mahebourg,-20.408,57.7,1,National,0,MUS
+MUS332,2022-12-14,1,Protests,Peaceful protest,Protesters (Mauritius),Labor Group (Mauritius),,,Mauritius,Grand Port,,Riche-en-Eau,-20.3806,57.655,1,National,0,MUS

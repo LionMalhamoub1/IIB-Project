@@ -1,0 +1,15 @@
+# Datasets that return HTTP 500 from the ILOSTAT bulk-download endpoint.
+# These are ILO modelled/harmonised estimates that use a different backend
+# and do not support the /data/indicator/ bulk-download endpoint.
+#
+# Prefix patterns (trailing *) exclude the entire dataset family.
+# Exact IDs (no *) exclude a single dataset.
+
+EAP_DWAP_*
+EAP_DWA1_*
+GED_PLFP_*
+EMP_NIFL_*
+TRU_DEMP_*
+UNE_DEAP_*
+MST_TUNE_*
+MST_TEAP_*

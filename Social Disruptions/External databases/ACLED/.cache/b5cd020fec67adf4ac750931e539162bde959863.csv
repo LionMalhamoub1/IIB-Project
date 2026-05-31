@@ -1,0 +1,842 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities
+JOR361,2019-04-19,2,Riots,Violent demonstration,Rioters (Jordan),,,,Jordan,Irbid,Qasabat Irbid,Al Mughayyir,32.6116,35.9408,1,National,0
+JOR369,2019-04-14,2,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Bani Kenanah,Ash Shunah ash Shamaliyah,32.6202,35.6145,1,National,0
+JOR384,2019-04-27,2,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR385,2019-04-27,2,Riots,Violent demonstration,Rioters (Jordan),,,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR405,2019-06-13,2,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,2,National,0
+JOR406,2019-06-11,2,Riots,Violent demonstration,Rioters (Jordan),,,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR407,2019-06-11,2,Riots,Violent demonstration,Rioters (Jordan),,,,Jordan,Al Karak,Al Karak,Al Huwiyah,31.1417,35.7056,1,National,0
+JOR408,2019-06-11,2,Riots,Violent demonstration,Rioters (Jordan),,,,Jordan,Al Karak,Al Karak,Ath Thaniyah,31.1659,35.7246,1,National,0
+JOR409,2019-06-11,2,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Karak,Al Karak,Al Ghuwayr,31.1333,35.75,1,National,0
+JOR410,2019-06-11,2,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Karak,Al Karak,Al Ma'muniyah ash Shamaliyah,31.1383,35.7367,1,National,0
+JOR414,2019-06-19,2,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Aqabah,Qasabat al Aqaba,Aqaba,29.5267,35.0078,1,National,0
+JOR422,2019-07-07,2,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Aqabah,Qasabat al Aqaba,Aqaba,29.5267,35.0078,1,National,0
+JOR425,2019-07-18,2,Riots,Violent demonstration,Rioters (Jordan),,,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR253,2019-02-15,1,Strategic developments,Disrupted weapons use,Police Forces of Jordan (1999-),,Unidentified Armed Group (Jordan),,Jordan,Al Balqa,Qasabat as Salt,As Salt,32.0392,35.7272,1,National,0
+JOR388,2019-05-07,1,Riots,Violent demonstration,Rioters (Jordan),,Civilians (Jordan),,Jordan,Amman,Al Jamiah,Shafa Badran,32.0536,35.9097,1,National,1
+JOR427,2019-08-05,2,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR428,2019-08-06,2,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR437,2019-08-23,1,Riots,Violent demonstration,Rioters (Jordan),,,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,2,National,0
+JOR439,2019-08-24,2,Protests,Peaceful protest,Protesters (Jordan),JEA: Jordan Engineers Association,,,Jordan,Jerash,Qasabat Jerash,Jarash,32.2808,35.8993,2,National,0
+JOR441,2019-08-24,1,Riots,Violent demonstration,Rioters (Jordan),,Police Forces of Jordan (1999-) Gendarmerie,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,2,National,0
+JOR473,2019-10-10,1,Strategic developments,Change to group/activity,Police Forces of Jordan (1999-) Gendarmerie,Police Forces of Jordan (1999-),,,Jordan,Jerash,Qasabat Jerash,Jarash,32.2808,35.8993,1,National,0
+JOR445,2019-08-30,2,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR416,2019-06-21,2,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR394,2019-05-16,2,Protests,Peaceful protest,Protesters (Jordan),Farmers (Jordan),,,Jordan,Irbid,Bani Kenanah,Ash Shunah ash Shamaliyah,32.6202,35.6145,1,International,0
+JOR317,2019-03-20,2,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR261,2019-02-20,2,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,3,International,0
+JOR319,2019-03-28,2,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR429,2019-08-08,1,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR433,2019-08-19,1,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR294,2019-03-09,2,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,1,International,0
+JOR358,2019-04-16,2,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR430,2019-08-09,1,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR450,2019-09-04,1,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR266,2019-02-21,2,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR472,2019-10-07,1,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR239,2019-01-07,1,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR398,2019-05-29,2,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR240,2019-01-12,1,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR464,2019-09-16,2,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR392,2019-05-13,2,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR359,2019-04-15,2,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR315,2019-03-19,2,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR357,2019-04-17,2,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR387,2019-05-01,2,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR320,2019-03-30,2,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR397,2019-05-27,2,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR386,2019-04-29,2,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR288,2019-03-03,2,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR483,2019-10-28,1,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR502,2019-12-12,1,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR500,2019-12-04,1,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR493,2019-11-23,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan); Teachers (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR509,2019-12-28,2,Strategic developments,Looting/property destruction,Unidentified Armed Group (Jordan),,Civilians (Jordan),,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,2,National,0
+JOR505,2019-12-18,1,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR504,2019-12-16,1,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR498,2019-11-29,2,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR362,2019-04-17,1,Protests,Peaceful protest,Protesters (Jordan),Health Workers (Jordan),,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,1,National,0
+JOR371,2019-04-23,2,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,2,International,0
+JOR452,2019-09-05,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Al Sukhnah,32.1325,36.0707,1,National,0
+JOR455,2019-09-08,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,1,National,0
+JOR444,2019-08-28,1,Strategic developments,Other,Government of Jordan (1999-),,,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,2,National,0
+JOR383,2019-04-27,2,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,3,International,0
+JOR508,2019-12-28,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR507,2019-12-24,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,2,National,0
+JOR506,2019-12-21,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR503,2019-12-08,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan); Jordanian Federation of Independent Trade Unions,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR501,2019-12-06,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR499,2019-12-02,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,1,National,0
+JOR496,2019-11-27,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR497,2019-11-27,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR495,2019-11-25,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR494,2019-11-24,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR491,2019-11-06,1,Battles,Armed clash,Unidentified Armed Group (Jordan),,Private Security Forces (Jordan),,Jordan,Jerash,Qasabat Jerash,Jarash,32.2808,35.8993,1,International,0
+JOR489,2019-11-05,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR488,2019-11-05,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR490,2019-11-05,1,Protests,Peaceful protest,Protesters (Jordan),Health Workers (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR487,2019-11-03,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR486,2019-11-02,1,Protests,Peaceful protest,Protesters (Jordan),Higher Committee for the Right of Return,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR484,2019-10-30,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR485,2019-10-30,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR482,2019-10-24,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan); Teachers (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR481,2019-10-21,1,Riots,Violent demonstration,Rioters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,1,National,0
+JOR480,2019-10-20,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,2,National,0
+JOR479,2019-10-20,1,Riots,Violent demonstration,Rioters (Jordan),Labor Group (Jordan),Police Forces of Jordan (1999-) Gendarmerie,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,1,National,0
+JOR478,2019-10-17,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR476,2019-10-16,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR475,2019-10-15,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR474,2019-10-13,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Madaba,Qasabat Madaba,Madaba,31.716,35.7939,1,National,0
+JOR470,2019-10-03,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR471,2019-10-03,1,Riots,Violent demonstration,Rioters (Jordan),,Civilians (Jordan),Teachers (Jordan),Jordan,Irbid,Bani Kenanah,Ash Shunah ash Shamaliyah,32.6202,35.6145,1,National,0
+JOR469,2019-10-01,1,Riots,Violent demonstration,Rioters (Jordan),,,,Jordan,Al Balqa,Dair Alla,Dayr Alla,32.1957,35.6216,1,National,0
+JOR468,2019-09-29,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan),,,Jordan,Ajlun,Qasabat Ajlun,Ajlun,32.3333,35.7528,1,National,0
+JOR467,2019-09-22,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan); JTA: Jordanian Teachers Association,,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR466,2019-09-21,1,Riots,Mob violence,Police Forces of Jordan (1999-),,Rioters (Palestine),Refugees/IDPs (Palestine),Jordan,Az Zarqa,Ar Russeifa,Ar Rusayfah,32.0173,36.0327,1,National,0
+JOR462,2019-09-15,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR463,2019-09-15,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan); JTA: Jordanian Teachers Association,,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,2,National,0
+JOR457,2019-09-09,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Jerash,Qasabat Jerash,Jarash,32.2808,35.8993,2,National,0
+JOR456,2019-09-09,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,2,National,0
+JOR461,2019-09-09,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Irbid,Bani Kenanah,Ash Shunah ash Shamaliyah,32.6202,35.6145,2,National,0
+JOR459,2019-09-09,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Balqa,Ash Shunah al Janubiyah,Ash Shunah al Janubiyah,31.8915,35.6178,1,National,0
+JOR460,2019-09-09,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Aqabah,Qasabat al Aqaba,Aqaba,29.5267,35.0078,2,National,0
+JOR458,2019-09-09,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Balqa,Dair Alla,Dayr Alla,32.1957,35.6216,1,National,0
+JOR454,2019-09-05,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan),,,Jordan,Al Aqabah,Qasabat al Aqaba,Aqaba,29.5267,35.0078,2,National,0
+JOR453,2019-09-05,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan),,,Jordan,Maan,Qasabat Maan,Maan,30.1962,35.7341,2,National,0
+JOR449,2019-09-03,1,Riots,Mob violence,Rioters (Jordan),Labor Group (Jordan),,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR448,2019-09-02,2,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR447,2019-09-01,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,1,National,0
+JOR443,2019-08-26,1,Protests,Peaceful protest,Protesters (Jordan),HASHD: Jordanian Democratic People's Party; JDPUP: Jordanian Democratic Popular Unity Party; JCP: Jordanian Communist Party,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR442,2019-08-25,1,Riots,Violent demonstration,Rioters (Jordan),,Police Forces of Jordan (1999-) Gendarmerie,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,2,National,0
+JOR440,2019-08-24,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,2,National,0
+JOR438,2019-08-23,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,2,National,0
+JOR436,2019-08-22,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,2,National,0
+JOR435,2019-08-21,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,2,National,0
+JOR434,2019-08-20,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,2,National,0
+JOR432,2019-08-15,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR431,2019-08-14,1,Riots,Violent demonstration,Rioters (Jordan),,,,Jordan,Irbid,Qasabat Irbid,Beit Ras,32.5933,35.8568,1,National,0
+JOR423,2019-07-14,1,Protests,Peaceful protest,Protesters (Jordan),Farmers (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR421,2019-06-30,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR420,2019-06-28,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Maan,Qasabat Maan,Maan,30.1962,35.7341,1,National,0
+JOR419,2019-06-26,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR415,2019-06-19,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,1,National,0
+JOR413,2019-06-18,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR417,2019-06-14,1,Protests,Peaceful protest,Protesters (Jordan),Government of Jordan (1999-),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR403,2019-06-07,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,2,National,0
+JOR402,2019-06-02,1,Violence against civilians,Attack,Unidentified Armed Group (Jordan),,Civilians (Jordan),Labor Group (Jordan),Jordan,Al Karak,Al Mazar al Janubi,Al Mazar al Janubi,31.0672,35.6949,2,National,0
+JOR401,2019-05-30,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Mafraq,Qasabat al Mafraq,Al Khalidiyah,32.1861,36.328,1,National,0
+JOR399,2019-05-28,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR395,2019-05-23,1,Protests,Peaceful protest,Protesters (Jordan),Lawyers (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR396,2019-05-19,1,Protests,Peaceful protest,Protesters (Jordan),Health Workers (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR393,2019-05-13,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR391,2019-05-11,1,Riots,Violent demonstration,Rioters (Jordan),,Police Forces of Jordan (1999-),,Jordan,Az Zarqa,Al Hashemiyah,Al Hashimiyah,32.129,36.1213,1,National,0
+JOR390,2019-05-09,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR389,2019-05-08,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR382,2019-04-24,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR381,2019-04-23,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Bani Kenanah,Ash Shunah ash Shamaliyah,32.6202,35.6145,2,National,0
+JOR380,2019-04-22,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Bani Kenanah,Ash Shunah ash Shamaliyah,32.6202,35.6145,1,National,0
+JOR370,2019-04-21,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Balqa,Ash Shunah al Janubiyah,Ash Shunah al Janubiyah,31.8915,35.6178,1,National,0
+JOR379,2019-04-21,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Bani Kenanah,Ash Shunah ash Shamaliyah,32.6202,35.6145,1,National,0
+JOR378,2019-04-20,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Bani Kenanah,Ash Shunah ash Shamaliyah,32.6202,35.6145,1,National,0
+JOR377,2019-04-19,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Bani Kenanah,Ash Shunah ash Shamaliyah,32.6202,35.6145,1,National,0
+JOR376,2019-04-18,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Bani Kenanah,Ash Shunah ash Shamaliyah,32.6202,35.6145,1,National,0
+JOR354,2019-04-18,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Irbid,Bani Kenanah,Ash Shunah ash Shamaliyah,32.6202,35.6145,2,International,0
+JOR355,2019-04-18,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Aqabah,Qasabat al Aqaba,Aqaba,29.5267,35.0078,2,International,0
+JOR356,2019-04-18,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Az Zarqa,Az Zarqa,Zarqa,32.0728,36.088,2,National-International,0
+JOR375,2019-04-17,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Bani Kenanah,Ash Shunah ash Shamaliyah,32.6202,35.6145,1,National,0
+JOR351,2019-04-16,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Balqa,Qasabat as Salt,As Salt,32.0392,35.7272,1,National,0
+JOR352,2019-04-16,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR353,2019-04-16,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Az Zarqa,Ar Russeifa,Ar Rusayfah,32.0173,36.0327,2,National,0
+JOR363,2019-04-16,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR364,2019-04-16,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,2,National,0
+JOR374,2019-04-16,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Bani Kenanah,Ash Shunah ash Shamaliyah,32.6202,35.6145,1,National,0
+JOR367,2019-04-15,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Madaba,Qasabat Madaba,Madaba,31.716,35.7939,1,National,0
+JOR368,2019-04-15,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Ajlun,Qasabat Ajlun,Ajlun,32.3333,35.7528,1,National,0
+JOR373,2019-04-15,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Bani Kenanah,Ash Shunah ash Shamaliyah,32.6202,35.6145,1,National,0
+JOR360,2019-04-14,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR372,2019-04-13,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Bani Kenanah,Ash Shunah ash Shamaliyah,32.6202,35.6145,1,National,0
+JOR349,2019-04-12,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Bani Kenanah,Ash Shunah ash Shamaliyah,32.6202,35.6145,2,National,0
+JOR350,2019-04-12,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Jerash,Qasabat Jerash,Jarash,32.2808,35.8993,1,National,0
+JOR347,2019-04-12,1,Protests,Peaceful protest,Protesters (Jordan),NLP: National Loyalty Party,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR345,2019-04-11,1,Protests,Peaceful protest,Protesters (Jordan),JEA: Jordan Engineers Association; Jordanian Federation of Independent Trade Unions; Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR343,2019-04-09,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan); Labor Group (Jordan),,,Jordan,Al Aqabah,Qasabat al Aqaba,Aqaba,29.5267,35.0078,1,National,0
+JOR344,2019-04-09,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan),,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR346,2019-04-09,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Jerash,Qasabat Jerash,Jarash,32.2808,35.8993,1,National,0
+JOR342,2019-04-09,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan); Teachers (Jordan); Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,International,0
+JOR341,2019-04-09,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan); Teachers (Jordan),,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,2,National-International,0
+JOR339,2019-04-08,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan),,,Jordan,Jerash,Qasabat Jerash,Jarash,32.2808,35.8993,1,National,0
+JOR340,2019-04-08,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan); JTA: Jordanian Teachers Association,,,Jordan,Az Zarqa,Az Zarqa,Zarqa,32.0728,36.088,1,National,0
+JOR337,2019-04-06,1,Protests,Peaceful protest,Protesters (Jordan),Journalists (Jordan); Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR335,2019-04-05,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR338,2019-04-04,1,Protests,Peaceful protest,Protesters (Jordan),Health Workers (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR336,2019-04-03,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Az Zarqa,Az Zarqa,Zarqa,32.0728,36.088,2,National,0
+JOR334,2019-04-02,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Mafraq,Qasabat al Mafraq,Al Manshiyah,32.3696,36.0809,1,National,0
+JOR321,2019-03-26,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR333,2019-03-25,1,Riots,Violent demonstration,Rioters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,2,National,0
+JOR324,2019-03-24,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR332,2019-03-24,1,Riots,Violent demonstration,Rioters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,2,National,0
+JOR325,2019-03-23,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR316,2019-03-22,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR326,2019-03-22,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR327,2019-03-21,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR328,2019-03-20,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR329,2019-03-19,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR330,2019-03-18,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR296,2019-03-15,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR301,2019-03-15,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan); JEA: Jordan Engineers Association,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR297,2019-03-15,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Aqabah,Qasabat al Aqaba,Aqaba,29.5267,35.0078,2,National,0
+JOR314,2019-03-15,1,Protests,Peaceful protest,Protesters (Jordan),IMJ: Islamic Movement in Jordan; Muslim Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,3,International,0
+JOR300,2019-03-15,1,Protests,Peaceful protest,Protesters (Jordan),IMJ: Islamic Movement in Jordan,,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,International,0
+JOR299,2019-03-14,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,1,National,0
+JOR298,2019-03-13,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,1,National,0
+JOR295,2019-03-11,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Maan,Qasabat Maan,Maan,30.1962,35.7341,1,National,0
+JOR293,2019-03-06,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR292,2019-03-05,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR287,2019-03-03,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR289,2019-03-03,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR290,2019-03-03,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,2,National,0
+JOR285,2019-03-02,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Jerash,Qasabat Jerash,Jarash,32.2808,35.8993,2,National,0
+JOR286,2019-03-02,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Aqabah,Qasabat al Aqaba,Aqaba,29.5267,35.0078,1,National,0
+JOR284,2019-03-01,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR282,2019-02-26,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Maan,Qasabat Maan,Maan,30.1962,35.7341,1,National,0
+JOR281,2019-02-26,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR276,2019-02-25,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR277,2019-02-25,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR278,2019-02-25,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR279,2019-02-25,1,Protests,Peaceful protest,Protesters (Jordan),Health Workers (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR280,2019-02-25,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR275,2019-02-24,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Karak,Al Qasr,Al Qasr,31.3141,35.7439,2,National,0
+JOR273,2019-02-23,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR272,2019-02-23,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,2,National,0
+JOR274,2019-02-23,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,At Tafilah,At Tafilah,At Tafilah,30.8375,35.6044,2,National,0
+JOR271,2019-02-23,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR269,2019-02-22,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,2,National,0
+JOR268,2019-02-22,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Maan,Qasabat Maan,Maan,30.1962,35.7341,2,National,0
+JOR270,2019-02-22,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,2,National,0
+JOR265,2019-02-21,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Ajlun,Qasabat Ajlun,Ajlun,32.3333,35.7528,2,National,0
+JOR267,2019-02-21,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,2,National,0
+JOR264,2019-02-21,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR262,2019-02-20,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Al Jizah,Al Jizah,31.6989,35.9553,2,National,0
+JOR263,2019-02-20,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,2,National,0
+JOR260,2019-02-19,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Al Jizah,Suwaqah,31.3615,36.114,2,National,0
+JOR259,2019-02-18,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Karak,Al Qatraneh,Al Qatranah,31.2508,36.0493,2,National,0
+JOR258,2019-02-17,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,At Tafilah,At Tafilah,At Tafilah,30.8375,35.6044,2,National,0
+JOR257,2019-02-16,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Maan,Qasabat Maan,Maan,30.1962,35.7341,2,National,0
+JOR256,2019-02-15,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Maan,Qasabat Maan,Ra's an Naqb,30.0024,35.4893,2,National,0
+JOR255,2019-02-14,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Aqabah,Qasabat al Aqaba,Aqaba,29.5267,35.0078,2,National,0
+JOR251,2019-02-14,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Jordan),,Civilians (Jordan),,Jordan,Al Balqa,Qasabat as Salt,As Salt,32.0392,35.7272,1,International,1
+JOR252,2019-02-14,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Jordan),,Police Forces of Jordan (1999-),,Jordan,Al Balqa,Qasabat as Salt,As Salt,32.0392,35.7272,1,International,3
+JOR322,2019-03-26,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR323,2019-03-25,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR302,2019-03-14,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR313,2019-03-13,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR312,2019-03-12,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR311,2019-03-11,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR310,2019-03-10,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR309,2019-03-09,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR308,2019-03-08,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR307,2019-03-07,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR305,2019-03-04,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR303,2019-03-02,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR968,2019-01-24,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1468,2019-01-24,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR241,2019-01-24,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR306,2019-03-05,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR331,2019-03-17,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR418,2019-06-21,1,Protests,Peaceful protest,Protesters (Jordan),Partnership and Salvation Party; Muslim Brotherhood; IMJ: Islamic Movement in Jordan,,,Jordan,Amman,Qasabat Amman,Abdun al Shamali,31.9484,35.8924,1,National-International,0
+JOR426,2019-07-24,1,Protests,Peaceful protest,Protesters (Jordan),Health Workers (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR477,2019-10-16,1,Riots,Violent demonstration,Rioters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,1,National,0
+JOR1458,2019-01-08,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Aqabah,Qasabat al Aqaba,Aqaba,29.5267,35.0078,1,National,0
+JOR1480,2019-02-11,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Aqabah,Qasabat al Aqaba,Aqaba,29.5267,35.0078,1,National,0
+JOR1489,2019-02-17,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Aqabah,Qasabat al Aqaba,Aqaba,29.5267,35.0078,2,National,0
+JOR1514,2019-03-17,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Aqabah,Qasabat al Aqaba,Aqaba,29.5267,35.0078,1,National,0
+JOR1557,2019-04-01,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Aqabah,Qasabat al Aqaba,Aqaba,29.5267,35.0078,3,National,0
+JOR1707,2019-09-25,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan),,,Jordan,Al Aqabah,Qasabat al Aqaba,Aqaba,29.5267,35.0078,1,National,0
+JOR1831,2019-11-05,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Balqa,Mahes and Al Fuhais,Al Fuhays,32.0047,35.7809,1,National,0
+JOR1833,2019-11-06,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Balqa,Mahes and Al Fuhais,Al Fuhays,32.0047,35.7809,2,National,0
+JOR1837,2019-11-07,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Balqa,Mahes and Al Fuhais,Al Fuhays,32.0047,35.7809,2,National,0
+JOR1844,2019-11-10,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Balqa,Mahes and Al Fuhais,Al Fuhays,32.0047,35.7809,1,National,0
+JOR1460,2019-01-13,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Balqa,Qasabat as Salt,As Salt,32.0392,35.7272,1,National,0
+JOR1716,2019-09-29,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan),,,Jordan,Al Balqa,Qasabat as Salt,As Salt,32.0392,35.7272,1,National,0
+JOR1839,2019-11-08,1,Protests,Peaceful protest,Protesters (Jordan),Former Military Forces of Jordan (1999-),,,Jordan,Al Balqa,Qasabat as Salt,As Salt,32.0392,35.7272,3,National,0
+JOR1510,2019-03-15,1,Protests,Peaceful protest,Protesters (Jordan),Protesters (Palestine); Refugees/IDPs (Palestine),,,Jordan,Al Balqa,Ain Al Basha,Mukhayyam Al Baq'a,32.0759,35.8465,1,National,0
+JOR1488,2019-02-16,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Karak,Al Karak,Al Lajjun,31.2343,35.8665,1,National,0
+JOR1457,2019-01-05,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Karak,Al Mazar al Janubi,Al Mazar al Janubi,31.0672,35.6949,1,National,0
+JOR1493,2019-02-23,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Karak,Faque,Fuqu,31.3681,35.7022,1,National,0
+JOR1509,2019-03-15,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR1581,2019-05-03,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR1684,2019-09-01,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR1691,2019-09-08,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan),,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,2,National,0
+JOR1709,2019-09-25,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan),,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR1813,2019-10-31,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,3,National,0
+JOR1814,2019-11-01,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,3,National,0
+JOR1815,2019-11-02,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR1820,2019-11-03,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR1821,2019-11-04,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR1830,2019-11-05,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR1843,2019-11-10,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR1852,2019-11-16,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR1853,2019-11-17,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR1859,2019-11-19,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR1860,2019-11-19,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan),,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR1872,2019-11-24,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR1875,2019-11-25,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR1868,2019-11-22,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Al Manshiyah,32.3696,36.0809,1,National,0
+JOR1456,2019-01-01,1,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,1,National,0
+JOR1466,2019-01-24,1,Strategic developments,Other,Civilians (Syria),Refugees/IDPs (Syria),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,1,National,0
+JOR1897,2019-12-09,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Jaber as Sirhan,32.5111,36.1964,1,National,0
+JOR1561,2019-04-14,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1563,2019-04-16,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1566,2019-04-21,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1568,2019-04-23,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1573,2019-04-29,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1576,2019-05-01,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1583,2019-05-04,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1586,2019-05-06,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1595,2019-05-14,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1599,2019-05-16,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,3,National,0
+JOR1602,2019-05-16,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1617,2019-06-12,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1627,2019-06-19,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1642,2019-07-05,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1682,2019-08-30,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1696,2019-09-15,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1702,2019-09-19,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1703,2019-09-21,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1706,2019-09-24,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1710,2019-09-26,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1713,2019-09-27,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1724,2019-10-03,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1736,2019-10-12,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1746,2019-10-17,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1748,2019-10-19,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1819,2019-11-03,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,3,National,0
+JOR1827,2019-11-05,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,3,National,0
+JOR1834,2019-11-06,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,3,National,0
+JOR1841,2019-11-09,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,3,National,0
+JOR1851,2019-11-15,1,Protests,Peaceful protest,Protesters (Jordan),Committee for Tracing Arrestees,,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1857,2019-11-19,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1864,2019-11-21,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,3,National,0
+JOR1870,2019-11-23,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR1484,2019-02-05,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Muthallath Jamiat Al al Bayt,32.3459,36.2335,1,National,0
+JOR1598,2019-05-16,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Rehab,32.3234,36.0908,1,National,0
+JOR1616,2019-06-06,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Abdun al Shamali,31.9484,35.8924,1,National,0
+JOR1700,2019-09-18,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan),,,Jordan,Amman,Al Muaqqar,Al Muwaqqar,31.8167,36.1104,1,National,0
+JOR1721,2019-10-01,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan),,,Jordan,Amman,Al Muaqqar,Al Muwaqqar,31.8167,36.1104,1,National,0
+JOR1715,2019-09-29,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Amman,Al Jamiah,Al Rashid,31.9982,35.8879,1,National,0
+JOR1909,2019-12-19,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Amman,Al Jamiah,Al Rashid,31.9982,35.8879,1,National,0
+JOR1459,2019-01-10,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1461,2019-01-15,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1464,2019-01-22,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1465,2019-01-23,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1467,2019-01-24,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1470,2019-01-27,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1479,2019-02-11,1,Protests,Peaceful protest,Protesters (Jordan),Former Military Forces of Jordan (1999-),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1494,2019-02-24,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1495,2019-02-26,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1496,2019-02-26,1,Protests,Peaceful protest,Protesters (Jordan),Health Workers (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1497,2019-02-27,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1498,2019-02-28,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1501,2019-03-05,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan); Women (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1502,2019-03-06,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1515,2019-03-19,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1517,2019-03-21,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1518,2019-03-23,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1521,2019-03-27,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1558,2019-04-03,1,Protests,Peaceful protest,Protesters (Jordan),Journalists (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1559,2019-04-08,1,Protests,Peaceful protest,Protesters (Jordan),Journalists (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1560,2019-04-10,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1562,2019-04-15,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1564,2019-04-16,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1565,2019-04-20,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1567,2019-04-22,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1570,2019-04-24,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1571,2019-04-26,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1572,2019-04-29,1,Protests,Peaceful protest,Protesters (Jordan),Former Military Forces of Jordan (1999-),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1574,2019-04-30,1,Protests,Peaceful protest,Protesters (Jordan),Former Military Forces of Jordan (1999-),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1575,2019-05-01,1,Protests,Peaceful protest,Protesters (Jordan),Former Military Forces of Jordan (1999-),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1578,2019-05-02,1,Protests,Peaceful protest,Protesters (Jordan),Former Military Forces of Jordan (1999-),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1580,2019-05-03,1,Protests,Peaceful protest,Protesters (Jordan),Former Military Forces of Jordan (1999-),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1582,2019-05-04,1,Protests,Peaceful protest,Protesters (Jordan),Former Military Forces of Jordan (1999-),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1584,2019-05-05,1,Protests,Peaceful protest,Protesters (Jordan),Former Military Forces of Jordan (1999-),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1585,2019-05-05,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1587,2019-05-07,1,Protests,Peaceful protest,Protesters (Jordan),Journalists (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1609,2019-05-22,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1612,2019-05-28,1,Protests,Peaceful protest,Protesters (Jordan),Journalists (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1619,2019-06-13,1,Protests,Peaceful protest,Protesters (Jordan),Journalists (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1623,2019-06-16,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1631,2019-06-23,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1634,2019-06-25,1,Protests,Peaceful protest,Protesters (Jordan),IAF: Islamic Action Front,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1637,2019-06-27,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1639,2019-07-02,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1640,2019-07-03,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1641,2019-07-04,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1643,2019-07-07,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1646,2019-07-11,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1647,2019-07-15,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1650,2019-07-21,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1651,2019-07-21,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1652,2019-07-22,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1656,2019-07-30,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1658,2019-07-31,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1659,2019-08-04,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1660,2019-08-05,1,Protests,Excessive force against protesters,Protesters (Jordan),,Police Forces of Jordan (1999-),,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,2,National,0
+JOR1662,2019-08-07,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,2,National,0
+JOR1667,2019-08-11,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1672,2019-08-19,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1676,2019-08-22,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1677,2019-08-27,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1681,2019-08-29,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,2,National,0
+JOR1685,2019-09-02,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1686,2019-09-03,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1689,2019-09-07,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1690,2019-09-07,1,Protests,Peaceful protest,Protesters (Jordan),Association of Agricultural Engineers (Jordan); Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1693,2019-09-11,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1695,2019-09-12,1,Protests,Protest with intervention,Protesters (Jordan),Students (Jordan),Police Forces of Jordan (1999-),,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1697,2019-09-15,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1699,2019-09-18,1,Protests,Peaceful protest,Protesters (Jordan),Farmers (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1723,2019-10-02,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1729,2019-10-07,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1733,2019-10-10,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan); Journalists (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1738,2019-10-13,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1747,2019-10-17,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1751,2019-10-21,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1757,2019-10-26,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1759,2019-10-27,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1763,2019-10-29,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1767,2019-10-31,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1816,2019-11-03,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1824,2019-11-04,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1835,2019-11-06,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan); Al Hasa Tribal Group (Jordan); Al Ajarma Tribal Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1846,2019-11-11,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1850,2019-11-13,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1854,2019-11-17,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1855,2019-11-18,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1856,2019-11-19,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1866,2019-11-21,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1871,2019-11-24,1,Protests,Peaceful protest,Protesters (Jordan),Lawyers (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1873,2019-11-24,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1879,2019-11-28,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1881,2019-11-29,1,Protests,Peaceful protest,Protesters (Jordan),Partnership and Salvation Party,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1882,2019-11-30,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1883,2019-12-02,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1887,2019-12-07,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1889,2019-12-08,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1893,2019-12-08,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1894,2019-12-08,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1895,2019-12-09,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1896,2019-12-09,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1898,2019-12-09,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1899,2019-12-10,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1900,2019-12-10,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1901,2019-12-11,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1903,2019-12-13,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1904,2019-12-14,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1905,2019-12-15,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1906,2019-12-17,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1907,2019-12-17,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1910,2019-12-21,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1912,2019-12-22,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1914,2019-12-23,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1915,2019-12-25,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1917,2019-12-26,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1919,2019-12-29,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR1880,2019-11-28,1,Protests,Peaceful protest,Protesters (Jordan),Former Military Forces of Jordan (1999-),,,Jordan,Amman,Al Jamiah,Dabouq,31.9899,35.8069,1,National,0
+JOR1911,2019-12-21,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Al Jamiah,Dabouq,31.9899,35.8069,1,National,0
+JOR1505,2019-03-12,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Madinat al Husayn,31.9784,35.911,1,National,0
+JOR1513,2019-03-17,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Madinat al Husayn,31.9784,35.911,1,National,0
+JOR1638,2019-06-30,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Amman,Marka,Marka,31.9833,35.9833,1,National,0
+JOR1708,2019-09-25,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan),,,Jordan,Amman,Marka,Marka,31.9833,35.9833,1,National,0
+JOR1717,2019-09-29,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Amman,Marka,Marka,31.9833,35.9833,1,National,0
+JOR1728,2019-10-06,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Amman,Marka,Marka,31.9833,35.9833,1,National,0
+JOR1749,2019-10-20,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Amman,Marka,Marka,31.9833,35.9833,1,National,0
+JOR1858,2019-11-19,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Marka,Marka,31.9833,35.9833,1,National,0
+JOR1884,2019-12-03,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Marka,Marka,31.9833,35.9833,1,National,0
+JOR1892,2019-12-08,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Amman,Marka,Marka,31.9833,35.9833,1,National,0
+JOR1463,2019-01-21,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Wadi as Sir,Wadi As Sir,31.9545,35.8183,1,National,0
+JOR1469,2019-01-25,1,Protests,Peaceful protest,Protesters (Jordan),Al Ababid Tribal Group (Jordan),,,Jordan,Amman,Wadi as Sir,Wadi As Sir,31.9545,35.8183,1,National,0
+JOR1483,2019-02-08,1,Protests,Peaceful protest,Protesters (Jordan),Al Ababid Tribal Group (Jordan),,,Jordan,Amman,Wadi as Sir,Wadi As Sir,31.9545,35.8183,1,National,0
+JOR1519,2019-03-23,1,Protests,Peaceful protest,Protesters (Jordan),Al Ababid Tribal Group (Jordan),,,Jordan,Amman,Wadi as Sir,Wadi As Sir,31.9545,35.8183,2,National,0
+JOR1522,2019-03-29,1,Protests,Peaceful protest,Protesters (Jordan),Al Ababid Tribal Group (Jordan),,,Jordan,Amman,Wadi as Sir,Wadi As Sir,31.9545,35.8183,2,National,0
+JOR1589,2019-05-11,1,Protests,Peaceful protest,Protesters (Jordan),Al Ababid Tribal Group (Jordan),,,Jordan,Amman,Wadi as Sir,Wadi As Sir,31.9545,35.8183,1,National,0
+JOR1655,2019-07-28,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Wadi as Sir,Wadi As Sir,31.9545,35.8183,1,National,0
+JOR1743,2019-10-16,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Wadi as Sir,Wadi As Sir,31.9545,35.8183,1,National,0
+JOR1823,2019-11-04,1,Protests,Peaceful protest,Protesters (Jordan),Farmers (Jordan),,,Jordan,Amman,Wadi as Sir,Wadi As Sir,31.9545,35.8183,1,National,0
+JOR1849,2019-11-13,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Wadi as Sir,Wadi As Sir,31.9545,35.8183,1,National,0
+JOR1876,2019-11-25,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Wadi as Sir,Wadi As Sir,31.9545,35.8183,1,National,0
+JOR1499,2019-02-28,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1503,2019-03-07,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1516,2019-03-19,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1579,2019-05-02,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1592,2019-05-13,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1603,2019-05-16,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1610,2019-05-23,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1613,2019-05-30,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1614,2019-06-02,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1615,2019-06-03,1,Protests,Peaceful protest,Protesters (Jordan),NCHR: National Centre for Human Rights (Jordan),,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1620,2019-06-13,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1624,2019-06-17,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1625,2019-06-17,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1626,2019-06-19,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1629,2019-06-20,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1630,2019-06-23,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1635,2019-06-25,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1645,2019-07-11,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1649,2019-07-18,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1664,2019-08-08,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1671,2019-08-16,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1675,2019-08-22,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1680,2019-08-29,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1694,2019-09-12,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1701,2019-09-19,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1711,2019-09-26,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1725,2019-10-03,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1734,2019-10-10,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1741,2019-10-15,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1745,2019-10-17,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1753,2019-10-24,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1756,2019-10-26,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1760,2019-10-27,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1766,2019-10-31,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1817,2019-11-03,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1836,2019-11-07,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1862,2019-11-20,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1863,2019-11-21,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1878,2019-11-27,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1886,2019-12-05,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1918,2019-12-28,1,Riots,Violent demonstration,Rioters (Jordan),,Police Forces of Jordan (1999-),,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR1520,2019-03-24,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,At Tafilah,At Tafilah,At Tafilah,30.8375,35.6044,1,National,0
+JOR1569,2019-04-24,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,At Tafilah,At Tafilah,At Tafilah,30.8375,35.6044,1,National,0
+JOR1714,2019-09-29,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,At Tafilah,At Tafilah,At Tafilah,30.8375,35.6044,2,National,0
+JOR1722,2019-10-01,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan),,,Jordan,At Tafilah,At Tafilah,At Tafilah,30.8375,35.6044,1,National,0
+JOR1726,2019-10-04,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan); Teachers (Jordan),,,Jordan,At Tafilah,At Tafilah,At Tafilah,30.8375,35.6044,1,National,0
+JOR1829,2019-11-05,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,At Tafilah,At Tafilah,At Tafilah,30.8375,35.6044,2,National,0
+JOR1832,2019-11-05,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,At Tafilah,At Tafilah,At Tafilah,30.8375,35.6044,2,National,0
+JOR1865,2019-11-21,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan); JEA: Jordan Engineers Association,,,Jordan,At Tafilah,At Tafilah,At Tafilah,30.8375,35.6044,1,National,0
+JOR1481,2019-02-09,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,At Tafilah,Bsaira,Gharandal,30.7132,35.6508,2,National,0
+JOR1591,2019-05-12,1,Riots,Violent demonstration,Rioters (Jordan),,Police Forces of Jordan (1999-),,Jordan,Az Zarqa,Al Hashemiyah,Al Hashimiyah,32.129,36.1213,1,National,0
+JOR1597,2019-05-16,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Al Hashemiyah,Al Hashimiyah,32.129,36.1213,1,National,0
+JOR1719,2019-05-11,1,Riots,Violent demonstration,Rioters (Jordan),,,,Jordan,Az Zarqa,Al Hashemiyah,Al Hashimiyah,32.129,36.1213,1,National,0
+JOR1891,2019-12-08,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Al Hashemiyah,Al Hashimiyah,32.129,36.1213,1,National,0
+JOR1913,2019-12-22,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Az Zarqa,Al Hashemiyah,Al Hashimiyah,32.129,36.1213,1,National,0
+JOR1644,2019-07-10,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Al Wasat al Tijari,32.0637,36.0893,1,National,0
+JOR1661,2019-08-07,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Al Wasat al Tijari,32.0637,36.0893,1,National,0
+JOR1669,2019-08-14,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Al Wasat al Tijari,32.0637,36.0893,1,National,0
+JOR1678,2019-08-28,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Al Wasat al Tijari,32.0637,36.0893,1,National,0
+JOR1692,2019-09-11,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Al Wasat al Tijari,32.0637,36.0893,1,National,0
+JOR1698,2019-09-18,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Al Wasat al Tijari,32.0637,36.0893,1,National,0
+JOR1712,2019-09-27,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Al Wasat al Tijari,32.0637,36.0893,1,National,0
+JOR1731,2019-10-09,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Al Wasat al Tijari,32.0637,36.0893,1,National,0
+JOR1742,2019-10-16,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Al Wasat al Tijari,32.0637,36.0893,1,National,0
+JOR1877,2019-11-27,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Al Wasat al Tijari,32.0637,36.0893,1,National,0
+JOR1885,2019-12-04,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Al Wasat al Tijari,32.0637,36.0893,1,National,0
+JOR1908,2019-12-18,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Al Wasat al Tijari,32.0637,36.0893,1,National,0
+JOR1916,2019-12-25,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Al Wasat al Tijari,32.0637,36.0893,1,National,0
+JOR1604,2019-05-17,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Al Zarqa al Jadida,32.0915,36.1048,1,National,0
+JOR1490,2019-02-19,1,Riots,Violent demonstration,Rioters (Jordan),Prisoners (Jordan),,,Jordan,Az Zarqa,Ar Russeifa,Ar Rusayfah,32.0173,36.0327,1,National,0
+JOR1758,2019-10-27,1,Riots,Violent demonstration,Rioters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Ar Russeifa,Ar Rusayfah,32.0173,36.0327,1,National,0
+JOR1761,2019-10-28,1,Riots,Violent demonstration,Rioters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Ar Russeifa,Ar Rusayfah,32.0173,36.0327,1,National,0
+JOR1762,2019-10-29,1,Riots,Violent demonstration,Rioters (Jordan),Bani Hassan Tribal Group (Jordan),Police Forces of Jordan (1999-),,Jordan,Az Zarqa,Ar Russeifa,Ar Rusayfah,32.0173,36.0327,1,National,0
+JOR1765,2019-10-31,1,Riots,Violent demonstration,Rioters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Ar Russeifa,Ar Rusayfah,32.0173,36.0327,1,National,0
+JOR1826,2019-11-05,1,Riots,Violent demonstration,Rioters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Ar Russeifa,Ar Rusayfah,32.0173,36.0327,1,National,0
+JOR1594,2019-05-14,1,Riots,Violent demonstration,Rioters (Jordan),,,,Jordan,Az Zarqa,Ar Russeifa,Awajan,32.028,36.071,1,National,0
+JOR1486,2019-02-16,1,Protests,Peaceful protest,Protesters (Jordan),Al Ababid Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Zarqa,32.0728,36.088,1,National,0
+JOR1508,2019-03-15,1,Protests,Peaceful protest,Protesters (Jordan),IMJ: Islamic Movement in Jordan,,,Jordan,Az Zarqa,Az Zarqa,Zarqa,32.0728,36.088,1,National,0
+JOR1606,2019-05-19,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Zarqa,32.0728,36.088,1,National,0
+JOR1607,2019-05-19,1,Riots,Violent demonstration,Rioters (Jordan),,,,Jordan,Az Zarqa,Az Zarqa,Zarqa,32.0728,36.088,2,National,0
+JOR1608,2019-05-20,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Zarqa,32.0728,36.088,1,National,0
+JOR1611,2019-05-25,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Zarqa,32.0728,36.088,1,National,0
+JOR1618,2019-06-12,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Zarqa,32.0728,36.088,1,National,0
+JOR1621,2019-06-14,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Zarqa,32.0728,36.088,1,National,0
+JOR1628,2019-06-19,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Zarqa,32.0728,36.088,1,National,0
+JOR1636,2019-06-27,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Zarqa,32.0728,36.088,1,National,0
+JOR1648,2019-07-17,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Zarqa,32.0728,36.088,1,National,0
+JOR1653,2019-07-24,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Zarqa,32.0728,36.088,1,National,0
+JOR1657,2019-07-31,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Zarqa,32.0728,36.088,1,National,0
+JOR1705,2019-09-23,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Zarqa,32.0728,36.088,1,National,0
+JOR1740,2019-10-14,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Az Zarqa,Az Zarqa,Zarqa,32.0728,36.088,1,National,0
+JOR1755,2019-10-26,1,Riots,Violent demonstration,Rioters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Zarqa,32.0728,36.088,1,National,0
+JOR1822,2019-11-04,1,Riots,Violent demonstration,Rioters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Zarqa,32.0728,36.088,1,National,0
+JOR1848,2019-11-13,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Zarqa,32.0728,36.088,3,National,0
+JOR1869,2019-11-23,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Az Zarqa,Zarqa,32.0728,36.088,1,National,0
+JOR1674,2019-08-21,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan); Protesters (Palestine); Refugees/IDPs (Palestine),,,Jordan,Irbid,Qasabat Irbid,Al Baq'a,32.5725,35.8746,1,National,0
+JOR1890,2019-12-08,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Irbid,Bani Obeid,Al Hisn,32.4827,35.8847,1,National,0
+JOR1500,2019-03-01,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Al Mazar Shamali,Al Mazar ash Shamali,32.4723,35.7987,1,National,0
+JOR1491,2019-02-23,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,1,National,0
+JOR1506,2019-03-12,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,1,National,0
+JOR1556,2019-04-01,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,1,National,0
+JOR1842,2019-11-09,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Irbid,Al Kourah,Dayr Abi Said,32.4981,35.6852,1,National,0
+JOR1482,2019-02-09,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR1487,2019-02-16,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR1504,2019-03-10,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR1633,2019-06-25,1,Protests,Peaceful protest,Protesters (Jordan),Sheyyab Tribal Group (Jordan),,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR1688,2019-09-07,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,2,National,0
+JOR1727,2019-10-04,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR1838,2019-11-08,1,Protests,Peaceful protest,Protesters (Jordan),Former Military Forces of Jordan (1999-),,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,3,National,0
+JOR1462,2019-01-15,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Jerash,Qasabat Jerash,Jarash,32.2808,35.8993,1,National,0
+JOR1492,2019-02-23,1,Protests,Peaceful protest,Protesters (Jordan),Al Ababid Tribal Group (Jordan),,,Jordan,Jerash,Qasabat Jerash,Jarash,32.2808,35.8993,1,National,0
+JOR1600,2019-05-16,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Jerash,Qasabat Jerash,Jarash,32.2808,35.8993,2,National,0
+JOR1670,2019-08-16,1,Protests,Peaceful protest,Protesters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Jerash,Qasabat Jerash,Jarash,32.2808,35.8993,1,National,0
+JOR1718,2019-09-30,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan),,,Jordan,Jerash,Qasabat Jerash,Jarash,32.2808,35.8993,1,National,0
+JOR1902,2019-12-12,1,Protests,Peaceful protest,Protesters (Jordan),Farmers (Jordan),,,Jordan,Jerash,Qasabat Jerash,Jarash,32.2808,35.8993,1,National,0
+JOR1825,2019-11-05,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Maan,Qasabat Maan,Al Shaydiya,29.9309,36.1391,1,National,0
+JOR1507,2019-03-15,1,Protests,Peaceful protest,Protesters (Jordan),Muslim Group (Jordan),,,Jordan,Maan,Qasabat Maan,Maan,30.1962,35.7341,1,National,0
+JOR1704,2019-09-23,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan),,,Jordan,Maan,Qasabat Maan,Maan,30.1962,35.7341,1,National,0
+JOR1840,2019-11-08,1,Protests,Peaceful protest,Protesters (Jordan),Former Military Forces of Jordan (1999-),,,Jordan,Maan,Qasabat Maan,Maan,30.1962,35.7341,3,National,0
+JOR1605,2019-05-17,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Madaba,Qasabat Madaba,Madaba,31.716,35.7939,1,National,0
+JOR1663,2019-08-07,1,Protests,Peaceful protest,Protesters (Jordan),Health Workers (Jordan),,,Jordan,Madaba,Qasabat Madaba,Madaba,31.716,35.7939,1,National,0
+JOR1720,2019-10-01,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan),,,Jordan,Madaba,Qasabat Madaba,Madaba,31.716,35.7939,1,National,0
+JOR1828,2019-11-05,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Madaba,Qasabat Madaba,Madaba,31.716,35.7939,3,National,0
+JOR1867,2019-11-21,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan); JEA: Jordan Engineers Association,,,Jordan,Madaba,Qasabat Madaba,Madaba,31.716,35.7939,1,National,0
+JOR1622,2019-06-14,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Madaba,Dieban,Malih,31.5876,35.8093,1,National,0
+JOR1732,2019-10-10,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Madaba,Dieban,Malih,31.5876,35.8093,1,National,0
+JOR1752,2019-10-22,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Madaba,Dieban,Malih,31.5876,35.8093,1,National,0
+JOR1754,2019-10-24,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Madaba,Dieban,Malih,31.5876,35.8093,1,National,0
+JOR1764,2019-10-30,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Madaba,Dieban,Malih,31.5876,35.8093,1,National,0
+JOR1847,2019-11-12,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Madaba,Dieban,Malih,31.5876,35.8093,1,National,0
+JOR1861,2019-11-20,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Madaba,Dieban,Malih,31.5876,35.8093,1,National,0
+JOR1874,2019-11-25,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Madaba,Dieban,Malih,31.5876,35.8093,1,National,0
+JOR1511,2019-03-16,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Madaba,Dieban,Dieban,31.4986,35.7839,1,National,0
+JOR1739,2019-10-14,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Madaba,Dieban,Dieban,31.4986,35.7839,1,National,0
+JOR1750,2019-10-21,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Madaba,Dieban,Dieban,31.4986,35.7839,1,National,0
+JOR1744,2019-10-16,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Madaba,Dieban,Dieban,31.4986,35.7839,1,National,0
+JOR1737,2019-10-12,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Madaba,Dieban,Dieban,31.4986,35.7839,1,National,0
+JOR1735,2019-10-11,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Madaba,Dieban,Dieban,31.4986,35.7839,1,National,0
+JOR1730,2019-10-09,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Madaba,Dieban,Dieban,31.4986,35.7839,1,National,0
+JOR1687,2019-09-06,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Madaba,Dieban,Dieban,31.4986,35.7839,1,National,0
+JOR1668,2019-08-12,1,Riots,Mob violence,Rioters (Jordan),,Rioters (Jordan),,Jordan,Madaba,Dieban,Dieban,31.4986,35.7839,1,National,1
+JOR1601,2019-05-16,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Madaba,Dieban,Dieban,31.4986,35.7839,1,National,0
+JOR1596,2019-05-15,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Madaba,Dieban,Dieban,31.4986,35.7839,1,National,0
+JOR1593,2019-05-13,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Madaba,Dieban,Dieban,31.4986,35.7839,1,National,0
+JOR1590,2019-05-12,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Madaba,Dieban,Dieban,31.4986,35.7839,1,National,0
+JOR1588,2019-05-07,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Madaba,Dieban,Dieban,31.4986,35.7839,1,National,0
+JOR1577,2019-05-01,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Madaba,Dieban,Dieban,31.4986,35.7839,1,National,0
+JOR237,2019-01-03,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR238,2019-01-07,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Aqabah,Qasabat al Aqaba,Aqaba,29.5267,35.0078,1,National,0
+JOR242,2019-01-22,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR243,2019-01-23,1,Riots,Violent demonstration,Rioters (Jordan),,Police Forces of Jordan (1999-),,Jordan,Irbid,Bani Obeid,Aydun,32.5237,35.8569,1,National,0
+JOR245,2019-01-25,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR246,2019-01-31,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR247,2019-01-31,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR248,2019-02-07,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR249,2019-02-09,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR250,2019-02-14,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR400,2019-05-28,1,Riots,Mob violence,Rioters (Jordan),Government of Jordan (1999-); Labor Group (Jordan),Rioters (Jordan),Government of Jordan (1999-); Labor Group (Jordan),Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR404,2019-06-11,1,Violence against civilians,Attack,Unidentified Armed Group (Lebanon),,Civilians (Jordan),Government of Jordan (1999-),Jordan,Al Karak,Al Karak,Al Huwiyah,31.1417,35.7056,1,National,0
+JOR411,2019-06-11,2,Violence against civilians,Attack,Unidentified Armed Group (Jordan),,Civilians (Jordan),Government of Jordan (1999-); Labor Group (Jordan),Jordan,Al Karak,Al Mazar al Janubi,Eraq,31.0903,35.6419,1,National,0
+JOR412,2019-06-10,2,Violence against civilians,Attack,Unidentified Armed Group (Jordan),,Civilians (Jordan),Government of Jordan (1999-); Labor Group (Jordan),Jordan,Al Karak,Al Mazar al Janubi,Ghawr al Safi,31.0406,35.5028,1,National,0
+JOR1485,2019-02-12,1,Protests,Peaceful protest,Protesters (Jordan),Lawyers (Jordan),,,Jordan,Amman,Al Jamiah,Al Jubayhah,32.0107,35.898,1,National,0
+JOR1654,2019-07-28,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Amman,Al Jamiah,Al Jubayhah,32.0107,35.898,1,National,0
+JOR1666,2019-08-08,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Amman,Al Jamiah,Al Jubayhah,32.0107,35.898,1,National,0
+JOR1673,2019-08-19,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Al Jamiah,Al Jubayhah,32.0107,35.898,1,National,0
+JOR1679,2019-08-28,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Al Jamiah,Al Jubayhah,32.0107,35.898,1,National,0
+JOR1683,2019-09-01,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Amman,Al Jamiah,Al Jubayhah,32.0107,35.898,1,National,0
+JOR1818,2019-11-03,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Al Jamiah,Al Jubayhah,32.0107,35.898,1,National,0
+JOR1845,2019-11-11,1,Protests,Protest with intervention,Protesters (Jordan),Students (Jordan),Police Forces of Jordan (1999-),,Jordan,Amman,Al Jamiah,Al Jubayhah,32.0107,35.898,1,National,0
+JOR366,2019-04-15,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan); Teachers (Jordan),,,Jordan,Al Karak,Al Mazar al Janubi,Al Mazar al Janubi,31.0672,35.6949,1,National,0
+JOR254,2019-02-16,1,Battles,Armed clash,Police Forces of Jordan (1999-),Police Forces of Jordan (1999-) Gendarmerie,Az Zaghoul Tribal Militia (Jordan),,Jordan,Ajlun,Qasabat Ajlun,Anjara,32.3063,35.7565,1,National-International,1
+JOR291,2019-03-04,1,Battles,Armed clash,Unidentified Tribal Militia (Jordan),,Unidentified Tribal Militia (Jordan),,Jordan,Al Karak,Al Mazar al Janubi,Al Mazar al Janubi,31.0672,35.6949,1,National,0
+JOR2996,2019-11-03,1,Strategic developments,Other,Protesters (Jordan),Aid Workers (Jordan); UNRWA: United Nations Relief and Works Agency,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,3,National,0
+JOR2997,2019-11-02,1,Riots,Mob violence,Rioters (Jordan),,Rioters (Jordan),,Jordan,Az Zarqa,Ar Russeifa,Ar Rusayfah,32.0173,36.0327,1,National,1
+JOR2998,2019-11-08,1,Battles,Armed clash,Unidentified Tribal Militia (Jordan),,Unidentified Tribal Militia (Jordan),,Jordan,Al Karak,Al Mazar al Janubi,At Taibeh,31.0501,35.6047,1,National,0
+JOR2999,2019-12-07,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR3000,2019-12-01,1,Battles,Armed clash,Unidentified Tribal Militia (Jordan),,Unidentified Tribal Militia (Jordan),,Jordan,Maan,Petra,Wadi Musa,30.321,35.479,1,National,1
+JOR3001,2019-12-01,1,Battles,Armed clash,Unidentified Tribal Militia (Jordan),,Unidentified Tribal Militia (Jordan),,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,1,National,0
+JOR3002,2019-12-23,1,Battles,Armed clash,Unidentified Armed Group (Jordan),Rioters (Jordan),Police Forces of Jordan (1999-),,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR3003,2019-03-02,1,Riots,Mob violence,Rioters (Jordan),,Rioters (Jordan),,Jordan,Amman,Qasabat Amman,Abdun al Shamali,31.9484,35.8924,1,National,0
+JOR3004,2019-03-13,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,At Tafilah,At Tafilah,At Tafilah,30.8375,35.6044,1,National,0
+JOR3005,2019-03-13,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Madinat al Husayn,31.9784,35.911,1,National,0
+JOR3006,2019-03-23,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,1,National,0
+JOR3007,2019-03-26,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR3008,2019-04-05,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Irbid,Bani Kenanah,Malka,32.6765,35.7485,2,National,0
+JOR3009,2019-04-05,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Ajlun,Qasabat Ajlun,Kufrinjah,32.2976,35.7021,1,National,0
+JOR3010,2019-04-08,1,Protests,Peaceful protest,Protesters (Jordan),,Protesters (Jordan),IAF: Islamic Action Front,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR3011,2019-04-14,1,Riots,Mob violence,Rioters (Jordan),Students (Jordan),Rioters (Jordan),Students (Jordan),Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR3012,2019-04-24,1,Battles,Armed clash,Unidentified Tribal Militia (Jordan),,Unidentified Tribal Militia (Jordan),,Jordan,Al Aqabah,Qasabat al Aqaba,Aqaba,29.5267,35.0078,1,National,1
+JOR3013,2019-05-25,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR3014,2019-05-26,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Amman,Al Jamiah,Al Jubayhah,32.0107,35.898,1,National,0
+JOR3015,2019-06-07,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR3016,2019-06-26,1,Riots,Mob violence,Rioters (Palestine),Refugees/IDPs (Palestine),Rioters (Palestine),Refugees/IDPs (Palestine),Jordan,Al Balqa,Ain Al Basha,Mukhayyam Al Baq'a,32.0759,35.8465,1,National,1
+JOR3017,2019-07-09,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Az Zarqa,Az Zarqa,Zarqa,32.0728,36.088,1,National,0
+JOR3018,2019-07-10,1,Riots,Mob violence,Rioters (Jordan),Unidentified Tribal Group (Jordan),Rioters (Jordan),Unidentified Tribal Group (Jordan),Jordan,Ajlun,Qasabat Ajlun,Kufrinjah,32.2976,35.7021,1,National,0
+JOR3019,2019-07-12,1,Riots,Mob violence,Rioters (Jordan),Unidentified Tribal Group (Jordan),Rioters (Jordan),Unidentified Tribal Group (Jordan),Jordan,Madaba,Qasabat Madaba,Madaba,31.716,35.7939,1,National,1
+JOR3021,2019-08-29,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR3022,2019-07-31,1,Riots,Mob violence,Rioters (Jordan),,Rioters (Jordan),,Jordan,Madaba,Qasabat Madaba,Madaba,31.716,35.7939,3,National,1
+JOR3023,2019-07-31,1,Riots,Mob violence,Rioters (Jordan),,Civilians (International),,Jordan,Madaba,Qasabat Madaba,Madaba,31.716,35.7939,3,National,2
+JOR3024,2019-09-08,1,Riots,Mob violence,Rioters (Jordan),Teachers (Jordan),Civilians (Jordan),Journalists (Jordan),Jordan,Al Karak,Al Mazar al Janubi,Al Mazar al Janubi,31.0672,35.6949,1,National,0
+JOR3025,2019-09-10,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR3027,2019-09-16,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,1,National,0
+JOR3028,2019-09-17,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan),,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR3029,2019-10-07,1,Riots,Mob violence,Rioters (Jordan),Unidentified Tribal Group (Jordan),Rioters (Jordan),Unidentified Tribal Group (Jordan); Civilians (Jordan); Women (Jordan),Jordan,Irbid,Qasabat Irbid,Huwwarah,32.5344,35.9058,1,National,0
+JOR3030,2019-10-15,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR3031,2019-10-23,1,Riots,Mob violence,Rioters (Jordan),Unidentified Tribal Group (Jordan); Students (Jordan),Rioters (Jordan),Unidentified Tribal Group (Jordan); Students (Jordan),Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR3032,2019-01-05,1,Battles,Armed clash,Unidentified Tribal Militia (Jordan),,Unidentified Tribal Militia (Jordan),,Jordan,Al Mafraq,Qasabat al Mafraq,Muthallath Sabha,32.2601,36.4678,2,National,1
+JOR3033,2019-01-13,1,Protests,Peaceful protest,Protesters (Jordan),Former Military Forces of Jordan (1999-),,,Jordan,Amman,Al Jamiah,Dabouq,31.9899,35.8069,1,National,0
+JOR3034,2019-01-15,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Al Balqa,Qasabat as Salt,As Salt,32.0392,35.7272,1,National,0
+JOR3035,2019-01-25,1,Protests,Peaceful protest,Protesters (Jordan),Health Workers (Jordan),,,Jordan,Az Zarqa,Al Hashemiyah,Hashemite University,32.1121,36.1841,1,National,0
+JOR3036,2019-02-19,1,Battles,Armed clash,Unidentified Tribal Militia (Jordan),,Unidentified Tribal Militia (Jordan),,Jordan,Madaba,Qasabat Madaba,Madaba,31.716,35.7939,1,National,0
+JOR3055,2019-02-27,1,Protests,Peaceful protest,Protesters (Jordan),Health Workers (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR3056,2019-03-16,1,Protests,Peaceful protest,Protesters (Jordan),IAF: Islamic Action Front,,,Jordan,Amman,Qasabat Amman,Abdun al Janubi,31.9367,35.887,1,National,0
+JOR3057,2019-03-30,1,Battles,Armed clash,Unidentified Tribal Militia (Jordan),,Unidentified Tribal Militia (Jordan),,Jordan,Al Balqa,Ash Shunah al Janubiyah,Ash Shunah al Janubiyah,31.8915,35.6178,1,National,2
+JOR3058,2019-11-16,1,Protests,Peaceful protest,Protesters (Jordan),Women (Jordan),,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR3059,2019-11-28,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR3060,2019-12-11,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR3061,2019-12-18,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Az Zarqa,Al Hashemiyah,Al Hashimiyah,32.129,36.1213,1,National,0
+JOR3062,2019-12-20,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Aqabah,Qasabat al Aqaba,Aqaba,29.5267,35.0078,1,National,0
+JOR3063,2019-12-23,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Abdun al Janubi,31.9367,35.887,1,National,0
+JOR3064,2019-12-30,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR3242,2019-01-05,1,Riots,Violent demonstration,Rioters (Jordan),,,,Jordan,Al Balqa,Qasabat as Salt,As Salt,32.0392,35.7272,2,National,0
+JOR3243,2019-01-18,1,Riots,Violent demonstration,Rioters (Jordan),,Police Forces of Jordan (1999-),,Jordan,Al Balqa,Dair Alla,Dayr Alla,32.1957,35.6216,1,National,0
+JOR3244,2019-01-21,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Maan,Qasabat Maan,Al Shaydiya,29.9309,36.1391,1,National,0
+JOR3245,2019-01-21,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR3246,2019-01-22,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Maan,Qasabat Maan,Al Shaydiya,29.9309,36.1391,1,National,0
+JOR3247,2019-01-23,1,Protests,Peaceful protest,Protesters (Jordan),Farmers (Jordan),,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR3248,2019-01-26,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR3249,2019-01-26,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Aqabah,Al Quairah,Al Quwayrah,29.8005,35.3116,1,National,0
+JOR3250,2019-01-26,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR3251,2019-01-27,1,Battles,Armed clash,Unidentified Tribal Militia (Jordan),,Unidentified Tribal Militia (Jordan),Police Forces of Jordan (1999-),Jordan,Az Zarqa,Ar Russeifa,Awajan,32.028,36.071,1,National,0
+JOR3252,2019-01-27,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Al Jamiah,Al Jubayhah,32.0107,35.898,1,National,0
+JOR3253,2019-01-27,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Al Jamiah,Al Salam,31.9739,35.8822,1,National,0
+JOR3254,2019-01-28,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan); Teachers (Jordan),,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR3255,2019-01-28,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Amman,Al Jamiah,Al Jubayhah,32.0107,35.898,1,National,0
+JOR3256,2019-02-10,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Al Jamiah,Shafa Badran,32.0536,35.9097,1,National,0
+JOR3257,2019-02-10,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Amman,Al Jamiah,Al Jubayhah,32.0107,35.898,1,National,0
+JOR3258,2019-02-15,1,Protests,Protest with intervention,Protesters (Jordan),,Police Forces of Jordan (1999-),,Jordan,Ajlun,Qasabat Ajlun,Ajlun,32.3333,35.7528,1,National,0
+JOR3259,2019-02-24,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR3260,2019-02-27,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Maan,Petra,Wadi Musa,30.321,35.479,1,National,0
+JOR3261,2019-02-27,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Maan,Ash Shobak,Ash Shawbak,30.5213,35.5714,1,National,0
+JOR3262,2019-03-17,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,At Tafilah,At Tafilah,At Tafilah,30.8375,35.6044,1,National,0
+JOR3263,2019-03-15,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Jerash,Qasabat Jerash,Jarash,32.2808,35.8993,3,National,0
+JOR3264,2019-03-10,1,Riots,Violent demonstration,Rioters (Jordan),Labor Group (Jordan),,,Jordan,Al Aqabah,Qasabat al Aqaba,Aqaba,29.5267,35.0078,3,National,0
+JOR3265,2019-03-09,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Mafraq,Qasabat al Mafraq,As Salihiyah,32.2602,36.4804,1,National,0
+JOR3266,2019-03-09,1,Riots,Violent demonstration,Rioters (Jordan),,,,Jordan,Maan,Al Huseiniya,Al Husayniyah,30.5955,35.797,1,National,0
+JOR3267,2019-03-04,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan); Women (Jordan),,,Jordan,Maan,Qasabat Maan,Maan,30.1962,35.7341,1,National,0
+JOR3268,2019-03-03,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Maan,Petra,Wadi Musa,30.321,35.479,1,National,0
+JOR3269,2019-03-26,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Al Jamiah,Al Jubayhah,32.0107,35.898,1,National,0
+JOR3270,2019-04-01,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Az Zarqa,Az Zarqa,Zarqa,32.0728,36.088,1,National,0
+JOR3271,2019-04-27,1,Riots,Mob violence,Rioters (Jordan),Unidentified Tribal Group (Jordan),Rioters (Jordan),Unidentified Tribal Group (Jordan),Jordan,Al Karak,Al Mazar al Janubi,Ghawr al Safi,31.0406,35.5028,1,National,0
+JOR3272,2019-04-29,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Al Jamiah,Al Salam,31.9739,35.8822,1,National,0
+JOR3273,2019-04-29,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Az Zarqa,Al Hashemiyah,Hashemite University,32.1121,36.1841,1,National,0
+JOR3274,2019-04-06,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,1,National,0
+JOR3275,2019-04-07,1,Riots,Violent demonstration,Rioters (Jordan),Unidentified Tribal Group (Jordan),,,Jordan,Amman,Qasabat Amman,Tabarbour,32.0029,35.9406,1,National,0
+JOR3276,2019-04-08,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR3277,2019-04-08,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,As Salihiyah,32.2602,36.4804,1,National,0
+JOR3278,2019-04-08,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan),,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR3279,2019-04-08,1,Protests,Peaceful protest,Protesters (Jordan),Government of Jordan (1999-),,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR3280,2019-04-11,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Al Jamiah,Al Jubayhah,32.0107,35.898,1,National,0
+JOR3281,2019-04-11,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Karak,Al Mazar al Janubi,Ghawr al Safi,31.0406,35.5028,1,National,0
+JOR3282,2019-04-15,1,Riots,Mob violence,Rioters (Jordan),,,,Jordan,Ajlun,Qasabat Ajlun,Anjara,32.3063,35.7565,1,National,0
+JOR3283,2019-04-16,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Jerash,Qasabat Jerash,Jarash,32.2808,35.8993,1,National,0
+JOR3284,2019-04-17,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR3285,2019-04-19,1,Protests,Peaceful protest,Protesters (Jordan),Al Ababid Tribal Group (Jordan),,,Jordan,Al Balqa,Qasabat as Salt,As Salt,32.0392,35.7272,1,National,0
+JOR3286,2019-04-24,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR3288,2019-05-24,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR3289,2019-05-21,1,Riots,Mob violence,Rioters (Jordan),Unidentified Tribal Group (Jordan),Rioters (Jordan),Unidentified Tribal Group (Jordan),Jordan,Irbid,Aghwar Shamaliyah,El Machare',32.4417,35.5956,1,National,0
+JOR3290,2019-05-10,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR3291,2019-05-20,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Jordan,Jerash,Qasabat Jerash,Jarash Camp,32.2633,35.8572,1,National,0
+JOR3292,2019-05-15,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Jordan,Al Balqa,Ain Al Basha,Mukhayyam Al Baq'a,32.0759,35.8465,1,National,0
+JOR3293,2019-05-08,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Maan,Petra,Wadi Musa,30.321,35.479,1,National,0
+JOR3341,2019-07-02,1,Riots,Violent demonstration,Rioters (Jordan),,,,Jordan,Irbid,Aghwar Shamaliyah,Wadi Rayan,32.3928,35.5869,1,National,0
+JOR3342,2019-07-06,1,Riots,Violent demonstration,Rioters (Jordan),,,,Jordan,Al Mafraq,Qasabat al Mafraq,Rehab,32.3234,36.0908,2,National,0
+JOR3343,2019-07-05,1,Riots,Violent demonstration,Rioters (Jordan),Unidentified Tribal Group (Jordan),,,Jordan,Irbid,Aghwar Shamaliyah,El Machare',32.4417,35.5956,1,National,0
+JOR3344,2019-06-26,1,Protests,Peaceful protest,Protesters (Palestine),Refugees/IDPs (Palestine),,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR3345,2019-07-17,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Jerash,Qasabat Jerash,Jarash,32.2808,35.8993,1,National,0
+JOR3346,2019-07-17,1,Riots,Mob violence,Rioters (Jordan),Unidentified Tribal Group (Jordan),Rioters (Jordan),Unidentified Tribal Group (Jordan),Jordan,Irbid,Aghwar Shamaliyah,El Machare',32.4417,35.5956,1,National,0
+JOR3347,2019-07-18,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Madaba,Qasabat Madaba,Madaba,31.716,35.7939,1,National,0
+JOR3348,2019-07-22,1,Riots,Mob violence,Rioters (Jordan),,Rioters (Jordan),,Jordan,Irbid,Aghwar Shamaliyah,Kuraymah,32.3013,35.5891,1,National,0
+JOR3349,2019-08-24,1,Riots,Violent demonstration,Rioters (Jordan),,,,Jordan,Al Mafraq,Qasabat al Mafraq,Balama,32.2344,36.0875,1,National,0
+JOR3350,2019-08-22,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR3351,2019-08-22,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Amman,Al Jamiah,Al Jubayhah,32.0107,35.898,1,National,0
+JOR3352,2019-08-21,1,Protests,Peaceful protest,Protesters (Jordan),Students (Jordan),,,Jordan,Amman,Al Jamiah,Al Jubayhah,32.0107,35.898,1,National,0
+JOR3353,2019-08-16,1,Violence against civilians,Attack,Unidentified Tribal Militia (Jordan),,Civilians (Jordan),Unidentified Tribal Group (Jordan),Jordan,Amman,Naur,Naur,31.8744,35.8247,1,National,1
+JOR3354,2019-08-10,1,Riots,Mob violence,Rioters (Jordan),Unidentified Tribal Group (Jordan),Rioters (Jordan),Unidentified Tribal Group (Jordan),Jordan,Al Balqa,Ash Shunah al Janubiyah,Karameh,31.9541,35.5801,1,National,0
+JOR3355,2019-08-05,1,Protests,Peaceful protest,Protesters (Jordan),Abu Zaghle Tribal Group (Jordan),,,Jordan,Amman,Quaismeh,Al Juwayyidah,31.8873,35.9321,1,National,0
+JOR3356,2019-09-03,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Irbid,Bani Kenanah,Ar Rafid,32.7062,35.8206,1,National,0
+JOR3357,2019-09-04,1,Riots,Mob violence,Rioters (Jordan),Al Momani Tribal Group (Jordan),,,Jordan,Ajlun,Qasabat Ajlun,Ajlun,32.3333,35.7528,2,National,0
+JOR3358,2019-09-05,1,Protests,Peaceful protest,Protesters (Jordan),Teachers (Jordan),,,Jordan,At Tafilah,Al Hasa,Al Hasa,30.8213,35.975,2,National,0
+JOR3359,2019-09-09,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Ajlun,Qasabat Ajlun,Ajlun,32.3333,35.7528,1,National,0
+JOR3360,2019-09-12,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Maan,Petra,Wadi Musa,30.321,35.479,1,National,0
+JOR3361,2019-09-17,1,Battles,Armed clash,Unidentified Tribal Militia (Jordan),,Unidentified Tribal Militia (Jordan),,Jordan,Al Mafraq,Qasabat al Mafraq,Al Manshiyah,32.3696,36.0809,1,National,1
+JOR3362,2019-09-17,1,Riots,Mob violence,Rioters (Jordan),Unidentified Tribal Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Al Manshiyah,32.3696,36.0809,1,National,0
+JOR3363,2019-09-21,1,Battles,Armed clash,Unidentified Tribal Militia (Jordan),,Unidentified Tribal Militia (Jordan),,Jordan,Az Zarqa,Ar Russeifa,Awajan,32.028,36.071,1,National,0
+JOR3364,2019-10-10,1,Battles,Armed clash,Unidentified Tribal Militia (Jordan),,Unidentified Tribal Militia (Jordan),,Jordan,Jerash,Qasabat Jerash,Mastaba,32.187,35.882,1,National,1
+JOR3365,2019-10-17,1,Riots,Mob violence,Rioters (Jordan),,Rioters (Jordan),,Jordan,Amman,Qasabat Amman,Al Hashmi Al Shamali,31.9734,35.9515,1,National,0
+JOR3366,2019-10-20,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR3367,2019-10-21,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Aqabah,Qasabat al Aqaba,Aqaba,29.5267,35.0078,1,National,0
+JOR3368,2019-10-24,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Aqabah,Qasabat al Aqaba,Aqaba,29.5267,35.0078,1,National,0
+JOR3369,2019-10-25,1,Riots,Violent demonstration,Rioters (Jordan),,,,Jordan,Madaba,Qasabat Madaba,Al Faysaliyah,31.7478,35.7703,2,National,0
+JOR3370,2019-10-25,1,Riots,Violent demonstration,Rioters (Jordan),,,,Jordan,Az Zarqa,Al Hashemiyah,Al Hashimiyah,32.129,36.1213,1,National,0
+JOR3371,2019-10-27,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Al Jamiah,Al Jubayhah,32.0107,35.898,1,National,0
+JOR3372,2019-10-27,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR3373,2019-10-20,1,Protests,Peaceful protest,Protesters (Lebanon),,,,Jordan,Amman,Qasabat Amman,Abdun al Shamali,31.9484,35.8924,1,National,0
+JOR3374,2019-11-04,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,3,National,0
+JOR3375,2019-11-08,1,Protests,Peaceful protest,Protesters (Jordan),Former Military Forces of Jordan (1999-); Former Police Forces of Jordan (1999-),,,Jordan,Maan,Petra,Wadi Musa,30.321,35.479,1,National,0
+JOR3376,2019-11-08,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR3377,2019-11-14,1,Protests,Peaceful protest,Protesters (Jordan),Former Military Forces of Jordan (1999-); Former Police Forces of Jordan (1999-),,,Jordan,Maan,Petra,Wadi Musa,30.321,35.479,1,National,0
+JOR3378,2019-11-14,1,Riots,Violent demonstration,Rioters (Jordan),Bani Hassan Tribal Group (Jordan),,,Jordan,Az Zarqa,Ar Russeifa,Awajan,32.028,36.071,1,National,0
+JOR3379,2019-11-18,1,Battles,Armed clash,Unidentified Tribal Militia (Jordan),,Unidentified Tribal Militia (Jordan),,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR3380,2019-11-20,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Aqabah,Qasabat al Aqaba,Aqaba,29.5267,35.0078,1,National,0
+JOR3381,2019-11-22,1,Protests,Peaceful protest,Protesters (Jordan),Health Workers (Jordan),,,Jordan,Maan,Qasabat Maan,Maan,30.1962,35.7341,1,National,0
+JOR3382,2019-11-24,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR3383,2019-11-26,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR3384,2019-12-01,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR3385,2019-12-05,1,Riots,Mob violence,Rioters (Jordan),Unidentified Tribal Group (Jordan),Rioters (Jordan),Unidentified Tribal Group (Jordan),Jordan,Irbid,Aghwar Shamaliyah,El Machare',32.4417,35.5956,1,National,0
+JOR3386,2019-12-13,1,Riots,Mob violence,Rioters (Jordan),,Rioters (Jordan),,Jordan,Amman,Quaismeh,Al Quwaysimah,31.9168,35.9546,1,National,0
+JOR3387,2019-12-20,1,Riots,Violent demonstration,Rioters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Qasabat Irbid,Irbid,32.5556,35.85,1,National,0
+JOR3388,2019-12-31,1,Protests,Peaceful protest,Protesters (Jordan),IAF: Islamic Action Front,,,Jordan,Amman,Al Jamiah,Al Salam,31.9739,35.8822,1,National,0
+JOR3456,2019-01-02,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Karak,Al Karak,Karak City,31.1637,35.762,1,National,0
+JOR3457,2019-01-30,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR3458,2019-02-03,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Al Jamiah,Al Salam,31.9739,35.8822,1,National,0
+JOR3459,2019-02-26,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Aqabah,Qasabat al Aqaba,Aqaba,29.5267,35.0078,1,National,0
+JOR3460,2019-03-10,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR3461,2019-04-01,1,Protests,Peaceful protest,Protesters (Jordan),Health Workers (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR3462,2019-04-02,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,1,National,0
+JOR3463,2019-04-03,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,1,National,0
+JOR3464,2019-04-04,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,1,National,0
+JOR3465,2019-04-04,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Al Jamiah,Al Jubayhah,32.0107,35.898,1,National,0
+JOR3466,2019-04-09,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Wadi as Sir,Al Swaifeh,31.9556,35.8643,1,National,0
+JOR3467,2019-04-15,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR3468,2019-04-17,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR3469,2019-04-18,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR3470,2019-04-18,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR3471,2019-04-21,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR3472,2019-04-28,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR3473,2019-05-07,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Az Zarqa,Al Hashemiyah,Hashemite University,32.1121,36.1841,1,National,0
+JOR3474,2019-05-13,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Aqabah,Qasabat al Aqaba,Aqaba,29.5267,35.0078,1,National,0
+JOR3475,2019-05-13,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Zahran,31.9564,35.8962,1,National,0
+JOR3476,2019-06-26,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Maan,Petra,Wadi Musa,30.321,35.479,1,National,0
+JOR3477,2019-06-26,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Aqabah,Qasabat al Aqaba,Aqaba,29.5267,35.0078,1,National,0
+JOR3478,2019-06-26,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Jerash,Qasabat Jerash,Jarash,32.2808,35.8993,1,National,0
+JOR3479,2019-09-01,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Al Jamiah,Al Jubayhah,32.0107,35.898,1,National,0
+JOR3480,2019-09-17,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Karak,Al Qasr,Al Qasr,31.3141,35.7439,1,National,0
+JOR3481,2019-10-08,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,National,0
+JOR3482,2019-10-10,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Madaba,Dieban,Dieban,31.4986,35.7839,1,National,0
+JOR3483,2019-11-04,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Al Jamiah,Al Salam,31.9739,35.8822,1,National,0
+JOR3484,2019-11-24,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Ar Ramtha,Jordanian University of Science and Technology,32.4971,35.9969,1,National,0
+JOR3485,2019-12-03,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Irbid,Ar Ramtha,Jordanian University of Science and Technology,32.4971,35.9969,1,National,0
+JOR3486,2019-12-05,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Balqa,Qasabat as Salt,As Salt,32.0392,35.7272,1,National,0
+JOR3525,2019-01-13,1,Riots,Mob violence,Rioters (Jordan),Unidentified Tribal Group (Jordan),Rioters (Jordan),Unidentified Tribal Group (Jordan),Jordan,Al Karak,Al Karak,Al Ghuwayr,31.1333,35.75,1,National,1
+JOR3526,2019-01-13,1,Riots,Violent demonstration,Rioters (Jordan),,,,Jordan,Al Balqa,Qasabat as Salt,As Salt,32.0392,35.7272,1,National,0
+JOR3527,2019-02-13,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Al Jamiah,Al Jubayhah,32.0107,35.898,1,National,0
+JOR3528,2019-03-03,1,Battles,Armed clash,Unidentified Tribal Militia (Jordan),,Unidentified Tribal Militia (Jordan),,Jordan,Irbid,Ar Ramtha,Ar Ramtha,32.5587,36.0082,1,National,0
+JOR3529,2019-03-11,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Karak,Al Mazar al Janubi,Ghawr al Safi,31.0406,35.5028,1,National,0
+JOR3530,2019-04-12,1,Riots,Violent demonstration,Rioters (Jordan),,,,Jordan,Az Zarqa,Az Zarqa,Zarqa,32.0728,36.088,1,National,0
+JOR3531,2019-05-15,1,Battles,Armed clash,Unidentified Tribal Militia (Jordan),,Unidentified Tribal Militia (Jordan),,Jordan,Irbid,Qasabat Irbid,Al Baq'a,32.5725,35.8746,1,National,2
+JOR3532,2019-06-18,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Al Mafraq,Qasabat al Mafraq,Mafraq,32.3429,36.208,1,National,0
+JOR3533,2019-09-11,1,Riots,Mob violence,Rioters (Jordan),Unidentified Tribal Group (Jordan),Rioters (Jordan),Unidentified Tribal Group (Jordan),Jordan,Az Zarqa,Ar Russeifa,Awajan,32.028,36.071,1,National,0
+JOR3534,2019-09-23,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Al Jamiah,Al Jubayhah,32.0107,35.898,1,National,0
+JOR3535,2019-11-30,1,Battles,Armed clash,Unidentified Tribal Militia (Jordan),,Unidentified Tribal Militia (Jordan),,Jordan,Irbid,Aghwar Shamaliyah,Al Zamaliyah,32.5024,35.6009,1,National,0
+JOR3787,2019-01-13,1,Riots,Mob violence,Rioters (Jordan),Unidentified Tribal Group (Jordan),Rioters (Jordan),Unidentified Tribal Group (Jordan),Jordan,Al Karak,Al Karak,Al Ghuwayr,31.1333,35.75,1,National,1
+JOR424,2019-07-11,1,Riots,Violent demonstration,Rioters (Jordan),,,,Jordan,Jerash,Qasabat Jerash,Jarash,32.2808,35.8993,1,National,0
+JOR3026,2019-09-10,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Al Aqabah,Qasabat al Aqaba,At Tuwaisa,29.6524,35.5443,1,National,0
+JOR465,2019-09-17,2,Strategic developments,Other,Civilians (Jordan),Refugees/IDPs (Jordan),,,Jordan,Madaba,Qasabat Madaba,Madaba,31.716,35.7939,2,Other,0
+JOR244,2019-01-23,1,Strategic developments,Arrests,Police Forces of Jordan (1999-),,Civilians (Jordan),Government of Jordan (1999-),Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,2,International,0
+JOR318,2019-03-29,1,Protests,Peaceful protest,Protesters (Jordan),Muslim Brotherhood,,,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,Regional-International,0
+JOR451,2019-09-05,1,Riots,Violent demonstration,Rioters (Jordan),JTA: Jordanian Teachers Association; Teachers (Jordan),Police Forces of Jordan (1999-),,Jordan,Amman,Qasabat Amman,Amman,31.9552,35.945,1,New media-National,0
+JOR492,2019-11-10,1,Strategic developments,Change to group/activity,Government of Jordan (1999-),,Government of Israel (2009-2021),,Jordan,Al Aqabah,Qasabat al Aqaba,Aqaba,29.5267,35.0078,3,International,0
+JOR1512,2019-03-17,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Al Abdali,31.9607,35.9166,1,National,0
+JOR1632,2019-06-24,1,Protests,Peaceful protest,Protesters (Jordan),Lawyers (Jordan),,,Jordan,Amman,Qasabat Amman,Al Abdali,31.9607,35.9166,1,National,0
+JOR1665,2019-08-08,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Al Abdali,31.9607,35.9166,1,National,0
+JOR1888,2019-12-07,1,Protests,Peaceful protest,Protesters (Jordan),,,,Jordan,Amman,Qasabat Amman,Al Abdali,31.9607,35.9166,1,National,0
+JOR3020,2019-07-30,1,Protests,Peaceful protest,Protesters (Jordan),Labor Group (Jordan),,,Jordan,Amman,Qasabat Amman,Al Abdali,31.9607,35.9166,1,National,0
+JOR3287,2019-04-24,1,Protests,Peaceful protest,Protesters (Jordan),Muslim Group (Jordan),,,Jordan,Amman,Qasabat Amman,Al Abdali,31.9607,35.9166,1,National,0

@@ -1,0 +1,60 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities
+VNM450,2017-09-15,3,Violence against civilians,Attack,Police Forces of Vietnam (1976-),,Civilians (Vietnam),Prisoners (Vietnam),Vietnam,Ninh Thuan,Phan Rang-Thap Cham,Phan Rang-Thap Cham,11.5643,108.9886,1,National,1
+VNM102,2017-02-28,1,Riots,Mob violence,Rioters (Vietnam),Labor Group (Vietnam),Private Security Forces (Vietnam),,Vietnam,Bac Ninh,Yen Phong,Yen Phong,21.2067,105.994,2,National,0
+VNM105,2017-03-15,1,Protests,Peaceful protest,Protesters (Vietnam),Labor Group (Vietnam),,,Vietnam,Hanoi,Dong Da,Hanoi,21.0245,105.841,1,National,0
+VNM106,2017-04-15,1,Battles,Armed clash,Hoanh Communal Militia (Vietnam),,Police Forces of Vietnam (1976-),,Vietnam,Hanoi,My Duc,Dong Tam,20.8049,105.671,1,National,0
+VNM109,2017-04-19,1,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Ba Ria-Vung Tau,Xuyen Moc,Tan Phuoc,10.5634,107.379,1,National,0
+VNM110,2017-04-20,1,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Ba Ria-Vung Tau,Xuyen Moc,Tan Phuoc,10.5634,107.379,1,National,0
+VNM111,2017-04-21,1,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Ba Ria-Vung Tau,Xuyen Moc,Tan Phuoc,10.5634,107.379,1,National,0
+VNM114,2017-06-05,1,Protests,Peaceful protest,Protesters (Vietnam),Labor Group (Vietnam),,,Vietnam,Bac Lieu,Bac Lieu,Bac Lieu,9.2941,105.728,3,National,0
+VNM115,2017-06-13,1,Violence against civilians,Attack,Unidentified Armed Group (Vietnam),,Civilians (Vietnam),Journalists (Vietnam),Vietnam,Hanoi,Dong Da,Hanoi,21.0245,105.841,1,National,0
+VNM121,2017-07-07,1,Riots,Violent demonstration,Rioters (Vietnam),,,,Vietnam,Quang Nam,Dien Ban,Dien Ban,15.8991,108.225,2,National,0
+VNM122,2017-07-08,1,Riots,Violent demonstration,Rioters (Vietnam),,,,Vietnam,Quang Nam,Dien Ban,Dien Ban,15.8991,108.225,2,National,0
+VNM123,2017-07-09,1,Riots,Violent demonstration,Rioters (Vietnam),,,,Vietnam,Quang Nam,Dien Ban,Dien Ban,15.8991,108.225,2,National,0
+VNM124,2017-07-10,1,Riots,Violent demonstration,Rioters (Vietnam),,,,Vietnam,Quang Nam,Dien Ban,Dien Ban,15.8991,108.225,2,National,0
+VNM125,2017-07-11,1,Riots,Violent demonstration,Rioters (Vietnam),,,,Vietnam,Quang Nam,Dien Ban,Dien Ban,15.8991,108.225,2,National,0
+VNM126,2017-07-12,1,Riots,Violent demonstration,Rioters (Vietnam),,,,Vietnam,Quang Nam,Dien Ban,Dien Ban,15.8991,108.225,2,National,0
+VNM127,2017-07-13,1,Riots,Violent demonstration,Rioters (Vietnam),,,,Vietnam,Quang Nam,Dien Ban,Dien Ban,15.8991,108.225,2,National,0
+VNM134,2017-11-15,2,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Hai Phong,An Lao,An Lao,20.8229,106.558,2,National,0
+VNM424,2017-01-02,1,Violence against civilians,Attack,Police Forces of Vietnam (1976-),,Civilians (Vietnam),,Vietnam,An Giang,Long Xuyen,Long Xuyen,10.3863,105.4351,3,Other,0
+VNM427,2017-03-16,1,Protests,Protest with intervention,Protesters (Vietnam),Women (Vietnam),Police Forces of Vietnam (1976-),,Vietnam,Ho Chi Minh,Tan Binh,Ho Chi Minh,10.823,106.63,1,Other,0
+VNM428,2017-03-21,1,Protests,Protest with intervention,Protesters (Vietnam),,Police Forces of Vietnam (1976-),,Vietnam,Ha Tinh,Ky Anh,Ky Anh,18.0686,106.298,2,Other,0
+VNM429,2017-04-13,1,Violence against civilians,Attack,Police Forces of Vietnam (1976-),,Civilians (Vietnam),,Vietnam,Quang Binh,Dong Hoi,Dong Hoi,17.4688,106.622,3,Other,0
+VNM432,2017-05-03,1,Violence against civilians,Attack,Police Forces of Vietnam (1976-),,Civilians (Vietnam),Buddhist Group (Vietnam),Vietnam,Vinh Long,Vinh Long,Vinh Long,10.2536,105.972,2,Other,1
+VNM435,2017-07-15,3,Violence against civilians,Attack,Police Forces of Vietnam (1976-),,Civilians (Vietnam),,Vietnam,Ho Chi Minh,Tan Binh,Ho Chi Minh,10.823,106.63,1,Other,0
+VNM436,2017-07-18,1,Violence against civilians,Attack,Police Forces of Vietnam (1976-),,Civilians (Vietnam),Prisoners (Vietnam),Vietnam,Gia Lai,Pleiku,Pleiku,13.9833,108.0,3,Other,1
+VNM444,2017-02-14,1,Riots,Violent demonstration,Rioters (Vietnam),Christian Group (Vietnam),Police Forces of Vietnam (1976-),,Vietnam,Ha Tinh,Ky Anh,Ky Anh,18.0686,106.298,2,National,0
+VNM479,2017-04-06,1,Protests,Peaceful protest,Protesters (Vietnam),Christian Group (Vietnam),,,Vietnam,Quang Binh,Dong Hoi,Dong Hoi,17.4688,106.622,3,International,0
+VNM478,2017-04-06,1,Protests,Peaceful protest,Protesters (Vietnam),Christian Group (Vietnam),,,Vietnam,Ha Tinh,Ha Tinh,Ha Tinh,18.3565,105.899,3,International,0
+VNM476,2017-01-15,2,Violence against civilians,Attack,Police Forces of Vietnam (1976-),,Civilians (Vietnam),Journalists (Vietnam),Vietnam,Ha Tinh,Ha Tinh,Ha Tinh,18.3565,105.899,1,International,0
+VNM426,2017-02-27,1,Violence against civilians,Attack,Police Forces of Vietnam (1976-),,Civilians (Vietnam),Christian Group (Vietnam); Brotherhood for Democracy,Vietnam,Ha Tinh,Ha Tinh,Ha Tinh,18.3565,105.899,3,Local partner-Other,0
+VNM516,2017-06-08,1,Violence against civilians,Attack,Police Forces of Vietnam (1976-),,Civilians (Vietnam),,Vietnam,Dak Lak,Buon Ma Thuot,Buon Ma That,12.6667,108.05,2,Local partner-Other,0
+VNM433,2017-06-29,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Vietnam),Police Forces of Vietnam (1976-),Civilians (Vietnam),Buddhist Group (Vietnam),Vietnam,Thua Thien Hue,Hue,Hue,16.4554,107.574,3,Other,0
+VNM103,2017-03-03,2,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Thua Thien Hue,Phu Loc,Loc Thuy,16.2517,107.937,2,National,0
+VNM118,2017-06-26,1,Protests,Peaceful protest,Protesters (Cambodia),,,,Vietnam,Quang Binh,Dong Hoi,Dong Hoi,17.4688,106.622,3,National,0
+VNM117,2017-06-14,2,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Binh Dinh,Hoai Nhon,My Tho,14.4636,109.056,2,National,0
+VNM116,2017-06-14,2,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Binh Dinh,Hoai Nhon,My An,14.5,109.083,1,National,0
+VNM477,2017-04-06,1,Protests,Peaceful protest,Protesters (Vietnam),Christian Group (Vietnam),,,Vietnam,Nghe An,Vinh,Vinh,18.6796,105.6813,3,International,0
+VNM434,2017-07-09,1,Violence against civilians,Attack,Police Forces of Vietnam (1976-),,Civilians (Vietnam),,Vietnam,Nghe An,Vinh,Vinh,18.6796,105.6813,3,Other,0
+VNM425,2017-02-15,3,Protests,Protest with intervention,Protesters (Vietnam),,Police Forces of Vietnam (1976-),,Vietnam,Nghe An,Vinh,Vinh,18.6796,105.6813,3,Other,0
+VNM107,2017-04-15,1,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Hanoi,My Duc,Dong Tam,20.8049,105.671,1,National,0
+VNM431,2017-05-02,1,Violence against civilians,Attack,Police Forces of Vietnam (1976-),,Civilians (Vietnam),Women (Vietnam),Vietnam,Ho Chi Minh,Tan Binh,Ho Chi Minh,10.823,106.63,1,Local partner-Other,0
+VNM137,2017-12-17,1,Violence against civilians,Attack,Unidentified Armed Group (Vietnam),Police Forces of Vietnam (1976-),Civilians (Vietnam),Catholic Christian Group (Vietnam),Vietnam,Nghe An,Vinh,Vinh,18.6796,105.6813,3,International,0
+VNM136,2017-12-03,1,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Hanoi,Dong Da,Hanoi,21.0245,105.841,1,National,0
+VNM135,2017-12-01,1,Protests,Peaceful protest,Protesters (Vietnam),Labor Group (Vietnam),,,Vietnam,Tien Giang,My Tho,My Tho,10.36,106.3599,3,National,0
+VNM133,2017-11-14,1,Protests,Peaceful protest,Protesters (Vietnam),Labor Group (Vietnam),,,Vietnam,Quang Nam,Thang Binh,Xa Binh Dinh Nam,15.6476,108.319,1,National,0
+VNM132,2017-09-25,1,Protests,Excessive force against protesters,Protesters (Vietnam),Labor Group (Vietnam),Police Forces of Vietnam (1976-),,Vietnam,Hai Duong,Hai Duong,Hai Duong,20.9409,106.333,1,International,0
+VNM131,2017-09-06,1,Protests,Peaceful protest,Protesters (Vietnam),Labor Group (Vietnam),,,Vietnam,Thanh Hoa,Thach Thanh,Thach Thanh,20.1666,105.667,2,National,0
+VNM130,2017-08-30,1,Protests,Peaceful protest,Protesters (Vietnam),Labor Group (Vietnam),,,Vietnam,Thai Nguyen,Thai Nguyen,Thai Nguyen,21.5942,105.848,2,National,0
+VNM129,2017-08-27,1,Protests,Peaceful protest,Protesters (Vietnam),Labor Group (Vietnam),,,Vietnam,Thai Nguyen,Thai Nguyen,Thai Nguyen,21.5942,105.848,2,National,0
+VNM120,2017-07-03,1,Protests,Peaceful protest,Protesters (Vietnam),Catholic Christian Group (Vietnam),,,Vietnam,Quang Binh,Dong Hoi,Dong Hoi,17.4688,106.622,3,International,0
+VNM119,2017-06-28,1,Violence against civilians,Attack,Police Forces of Vietnam (1976-),,Civilians (Vietnam),Catholic Christian Group (Vietnam),Vietnam,Thua Thien Hue,Hue,Hue,16.4554,107.574,3,International,0
+VNM113,2017-05-28,1,Violence against civilians,Attack,Unidentified Armed Group (Vietnam),,Civilians (Vietnam),Catholic Christian Group (Vietnam),Vietnam,Nghe An,Quynh Luu,Quynh Luu,19.1449,105.63,2,International,0
+VNM112,2017-04-24,1,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Nghe An,Quynh Luu,Quynh Luu,19.1449,105.63,2,International,0
+VNM108,2017-04-19,1,Protests,Peaceful protest,Protesters (Vietnam),Buddhist Group (Vietnam),,,Vietnam,An Giang,An Phu,An Phu,10.8159,105.0903,2,International,0
+VNM104,2017-03-13,1,Protests,Peaceful protest,Protesters (Vietnam),,,,Vietnam,Phu Tho,Tam Nong,Tam Nong,21.2944,105.231,2,National,0
+VNM101,2017-02-14,1,Protests,Protest with intervention,Protesters (Vietnam),,Police Forces of Vietnam (1976-),,Vietnam,Ha Tinh,Ky Anh,Ky Anh,18.0686,106.298,2,International,0
+VNM99,2017-02-12,1,Violence against civilians,Attack,Unidentified Armed Group (Vietnam),,Civilians (Vietnam),,Vietnam,Khanh Hoa,Nha Trang,Nha Trang,12.245,109.194,1,International,0
+VNM100,2017-02-13,1,Strategic developments,Arrests,Police Forces of Vietnam (1976-),,Civilians (Vietnam),Buddhist Group (Vietnam); Caodaist Group (Vietnam),Vietnam,Vinh Long,Vinh Long,Vinh Long,10.2536,105.972,1,International,0
+VNM519,2017-07-15,3,Violence against civilians,Attack,Police Forces of Vietnam (1976-),,Civilians (Vietnam),Brotherhood for Democracy; Christian Group (Vietnam),Vietnam,Thanh Hoa,Thanh Hoa,Thanh Hoa,19.8067,105.7852,3,International,0
+VNM128,2017-07-22,1,Violence against civilians,Attack,Military Forces of Indonesia (2014-2024),,Civilians (Vietnam),Fishers (Vietnam),Vietnam,Ba Ria-Vung Tau,Vung Tau,Vung Tau,10.3459,107.084,3,National,0

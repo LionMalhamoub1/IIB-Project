@@ -1,0 +1,33 @@
+target,horizon,model,roc_auc,pr_auc,brier,pos_rate
+Any protest (next N days),7,Persistence,0.9691,0.9961,0.0567,0.8903
+Any protest (next N days),7,+ Markets,0.9688,0.996,0.0568,0.8903
+Any protest (next N days),7,Full LR,0.9437,0.993,0.0638,0.8903
+Any protest (next N days),7,+ FAO,0.9384,0.9922,0.0682,0.8903
+Any protest (next N days),7,XGBoost (global),0.9498,0.9927,0.057,0.8903
+Any protest (next N days),7,XGBoost (income group),0.9433,0.9912,0.0904,0.8903
+Any protest (next N days),7,XGBoost no lags (global),0.7937,0.9673,0.1636,0.8903
+Any protest (next N days),7,XGBoost no lags (income group),0.8446,0.9761,0.1705,0.8903
+Any protest (next N days),30,Persistence,0.9773,0.9985,0.0473,0.9423
+Any protest (next N days),30,+ Markets,0.9735,0.9983,0.0494,0.9423
+Any protest (next N days),30,Full LR,0.9472,0.9967,0.0524,0.9423
+Any protest (next N days),30,+ FAO,0.9361,0.9959,0.0551,0.9423
+Any protest (next N days),30,XGBoost (global),0.9247,0.9947,0.0684,0.9423
+Any protest (next N days),30,XGBoost (income group),0.9131,0.9934,0.0931,0.9423
+Any protest (next N days),30,XGBoost no lags (global),0.777,0.977,0.1578,0.9423
+Any protest (next N days),30,XGBoost no lags (income group),0.8693,0.9901,0.1373,0.9423
+Elevated spike,7,Persistence,0.6044,0.2291,0.2433,0.1643
+Elevated spike,7,+ Markets,0.5968,0.2255,0.2408,0.1643
+Elevated spike,7,Full LR,0.5251,0.1839,0.3383,0.1643
+Elevated spike,7,+ FAO,0.5237,0.18,0.3433,0.1643
+Elevated spike,7,XGBoost (global),0.5843,0.2001,0.2287,0.1643
+Elevated spike,7,XGBoost (income group),0.6022,0.223,0.2278,0.1643
+Elevated spike,7,XGBoost no lags (global),0.5364,0.1888,0.2147,0.1643
+Elevated spike,7,XGBoost no lags (income group),0.5062,0.1714,0.2266,0.1643
+Elevated spike,30,Persistence,0.5978,0.2191,0.2356,0.1721
+Elevated spike,30,+ Markets,0.5832,0.2164,0.2381,0.1721
+Elevated spike,30,Full LR,0.5242,0.1826,0.3014,0.1721
+Elevated spike,30,+ FAO,0.5188,0.179,0.3119,0.1721
+Elevated spike,30,XGBoost (global),0.5294,0.2008,0.2295,0.1721
+Elevated spike,30,XGBoost (income group),0.5621,0.2166,0.2162,0.1721
+Elevated spike,30,XGBoost no lags (global),0.4944,0.1773,0.2121,0.1721
+Elevated spike,30,XGBoost no lags (income group),0.55,0.1948,0.2071,0.1721

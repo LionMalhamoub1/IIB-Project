@@ -1,0 +1,25 @@
+{
+  "range": "20191001_20191031",
+  "n_input_files": 59,
+  "threshold": 0.45,
+  "raw_records": 8686,
+  "canonical_events": 1487,
+  "movements": 100,
+  "reduction_pct": 82.9,
+  "chain_warnings": 0,
+  "movement_params": {
+    "threshold": 0.6,
+    "window_days": 30,
+    "min_multi_clusters": 1
+  },
+  "type_breakdown": {
+    "labour_strike": {
+      "raw": 1535,
+      "grouped": 280
+    },
+    "protests": {
+      "raw": 7151,
+      "grouped": 1207
+    }
+  }
+}

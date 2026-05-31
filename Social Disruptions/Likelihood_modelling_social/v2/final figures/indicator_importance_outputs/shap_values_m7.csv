@@ -1,0 +1,124 @@
+feature,label,block,shap_protest,shap_strike
+num__rule_of_law_est,Rule of Law,Macro/Governance (M2),0.289449,0.553684
+num__government_effectiveness_est,Gov. Effectiveness,Macro/Governance (M2),0.276513,0.200022
+num__political_stability_est,Political Stability,Macro/Governance (M2),0.207543,0.111087
+num__gini_coef,Gini Coefficient,Structural (M3),0.126129,0.192324
+num__gold_pct_30d_x_gold_prod,Gold×Production,Structural (M3),0.1173,0.183159
+num__voice_accountability_est,Voice & Accountability,Macro/Governance (M2),0.03396,0.169718
+num__unemployment_total,Unemployment Total,Macro/Governance (M2),0.064024,0.165004
+num__unemployment_youth,Youth Unemployment,Macro/Governance (M2),0.081568,0.14374
+fe__country_iso3_IND,Country Iso3 Ind,Country FE,0.037287,0.13664
+num__inflation_cpi_yoy,CPI Inflation YoY,Macro/Governance (M2),0.037816,0.12953
+num__gdp_per_capita_growth,GDP per Capita Growth,Macro/Governance (M2),0.126646,0.091772
+num__fx_vol_30d,FX Volatility 30d,Markets (M1),0.053456,0.082511
+num__gta_90d_count,GTA Interventions 90d,FAO / GTA (M4),0.054795,0.073765
+num__copper_vol_30d,Copper Volatility 30d,Markets (M1),0.002456,0.0647
+fe__country_iso3_GBR,Country Iso3 Gbr,Country FE,0.027569,0.06279
+num__energy_cpi_inflation,Energy CPI Inflation,Macro/Governance (M2),0.060559,0.035852
+num__fao_cereals_index_yoy_lag1m,FAO Cereals Lag 1m,FAO / GTA (M4),0.000821,0.05867
+num__unemployment_rate,Unemployment Rate,Macro/Governance (M2),0.029391,0.052995
+num__gta_harmful_events_z,GTA Harmful Events (z),FAO / GTA (M4),0.04533,0.051879
+num__unemployment_rate_z,Unemployment Rate (z),Macro/Governance (M2),0.024393,0.047318
+fe__country_iso3_ZAF,Country Iso3 Zaf,Country FE,0.013575,0.046169
+num__copper_pct_30d_x_copper_prod,Copper×Production,Structural (M3),0.002653,0.045588
+num__fx_pct_30d_lag60d,FX Change 30d Lag60,Markets (M1),0.005824,0.038334
+num__gta_30d_count_z,GTA Interventions 30d (z),FAO / GTA (M4),0.005739,0.038143
+num__gdp_growth,GDP Growth,Macro/Governance (M2),0.034591,0.038048
+num__energy_cpi_inflation_z,Energy CPI Inflation (z),Macro/Governance (M2),0.008898,0.035292
+fe__country_iso3_MOZ,Country Iso3 Moz,Country FE,0.02397,0.03478
+num__fao_cereals_index_yoy,FAO Cereals YoY,FAO / GTA (M4),0.006334,0.032401
+fe__country_iso3_USA,Country Iso3 Usa,Country FE,0.002485,0.032177
+num__dxy_level,DXY Level,Markets (M1),0.017642,0.02944
+num__yield_us10y,US 10y Yield,Markets (M1),0.004656,0.029254
+num__food_cpi_inflation,Food CPI Inflation,Macro/Governance (M2),0.016554,0.028879
+num__gold_vol_30d,Gold Volatility 30d,Markets (M1),0.002345,0.02778
+num__unemployment_sa,Unemployment SA,Macro/Governance (M2),0.026562,0.024425
+num__natgas_pct_30d,Nat. Gas Change 30d,Markets (M1),0.002385,0.02595
+num__fao_food_yoy_x_youth_unemp,FAO Food×Youth Unemp.,FAO / GTA (M4),0.024229,0.021325
+fe__country_iso3_PHL,Country Iso3 Phl,Country FE,0.023924,0.013391
+num__vix_pct_30d,VIX Change 30d,Markets (M1),0.002685,0.023551
+num__oil_brent_pct_30d_lag60d,Oil Change Lag60,Markets (M1),0.007304,0.023118
+num__fx_pct_90d,FX Change 90d,Markets (M1),0.003457,0.022715
+num__gta_90d_count_z,GTA Interventions 90d (z),FAO / GTA (M4),0.007421,0.022057
+num__fao_cereals_yoy_x_instability,FAO Cereals×Instability,FAO / GTA (M4),0.010469,0.021979
+num__oil_brent_pct_30d,Oil Change 30d,Markets (M1),0.001688,0.021197
+fe__country_iso3_POL,Country Iso3 Pol,Country FE,0.000815,0.020751
+num__food_cpi_inflation_z,Food CPI Inflation (z),Macro/Governance (M2),0.009535,0.020667
+num__month_sin,Month (sin),FAO / GTA (M4),0.003027,0.020123
+num__dxy_pct_30d,DXY Change 30d,Markets (M1),0.009232,0.019936
+num__fao_food_index_yoy,FAO Food Index YoY,FAO / GTA (M4),0.016366,0.019177
+num__fao_cereals_index_yoy_lag3m,FAO Cereals Lag 3m,FAO / GTA (M4),0.000387,0.019068
+num__vix_pct_30d_lag30d,VIX Change Lag30,Markets (M1),0.001949,0.018784
+num__fx_pct_7d,FX Change 7d,Markets (M1),0.002286,0.018603
+fe__country_iso3_ZWE,Country Iso3 Zwe,Country FE,0.001181,0.017988
+num__gta_liberalising_events_z,GTA Liberalising Events (z),FAO / GTA (M4),0.011102,0.01793
+fe__country_iso3_MYS,Country Iso3 Mys,Country FE,0.017796,0.0
+fe__country_iso3_MAR,Country Iso3 Mar,Country FE,0.0,0.017721
+num__fx_vol_7d,FX Volatility 7d,Markets (M1),0.003425,0.016059
+num__gta_30d_count,GTA Interventions 30d,FAO / GTA (M4),0.004621,0.015303
+num__oil_brent_pct_30d_x_net_importer,Oil×Net Importer,Structural (M3),0.003209,0.014135
+num__vix_level,VIX Level,Markets (M1),0.004134,0.013907
+num__inflation_cpi_yoy_z,CPI Inflation YoY (z),Macro/Governance (M2),0.013656,0.011612
+num__fao_food_index_yoy_lag3m,FAO Food Lag 3m,FAO / GTA (M4),0.001002,0.013579
+fe__country_iso3_BOL,Country Iso3 Bol,Country FE,0.000993,0.013246
+num__oil_brent_pct_30d_x_inflation,Oil×Inflation,Structural (M3),0.002658,0.01235
+num__vix_pct_30d_lag60d,VIX Change Lag60,Markets (M1),0.012286,0.00796
+fe__country_iso3_CAN,Country Iso3 Can,Country FE,0.012135,0.005183
+num__copper_pct_90d,Copper Change 90d,Markets (M1),0.006898,0.012062
+num__oil_brent_pct_30d_z,Oil Change 30d (z),Markets (M1),0.001854,0.011664
+fe__country_iso3_AUS,Country Iso3 Aus,Country FE,0.011534,0.003694
+num__fx_pct_30d_lag30d,FX Change 30d Lag30,Markets (M1),0.003243,0.011025
+num__fao_cereals_index_yoy_lag6m,FAO Cereals Lag 6m,FAO / GTA (M4),0.000364,0.01078
+num__platinum_pct_30d_x_plat_prod,Platinum×Production,Structural (M3),0.0,0.01068
+num__fao_oils_index_yoy_lag6m,FAO Oils Lag 6m,FAO / GTA (M4),0.001762,0.010429
+fe__country_iso3_NAM,Country Iso3 Nam,Country FE,0.010145,0.002298
+num__oil_brent_pct_14d,Oil Change 14d,Markets (M1),0.001835,0.009938
+fe__country_iso3_KOR,Country Iso3 Kor,Country FE,0.000824,0.009512
+num__fx_vol_30d_z,FX Volatility 30d (z),Markets (M1),0.008443,0.008942
+num__oil_brent_pct_30d_lag90d,Oil Change Lag90,Markets (M1),0.004031,0.008564
+num__fx_pct_30d,FX Change 30d,Markets (M1),0.002305,0.00831
+num__platinum_pct_30d,Platinum Change 30d,Markets (M1),0.002168,0.00805
+fe__country_iso3_JPN,Country Iso3 Jpn,Country FE,0.0,0.007858
+num__fao_oils_index_yoy,FAO Oils YoY,FAO / GTA (M4),0.007769,0.006221
+num__fao_oils_index_yoy_lag3m,FAO Oils Lag 3m,FAO / GTA (M4),0.001492,0.007693
+num__copper_pct_30d,Copper Change 30d,Markets (M1),0.003168,0.007353
+num__oil_brent_pct_30d_lag30d,Oil Change Lag30,Markets (M1),0.005809,0.00734
+num__silver_pct_30d,Silver Change 30d,Markets (M1),0.002476,0.007154
+num__dxy_vol_30d,DXY Volatility 30d,Markets (M1),0.00359,0.007012
+fe__country_iso3_SWE,Country Iso3 Swe,Country FE,0.000196,0.006941
+num__fao_food_index_yoy_lag1m,FAO Food Lag 1m,FAO / GTA (M4),0.003619,0.006932
+fe__country_iso3_LAO,Country Iso3 Lao,Country FE,0.0,0.006715
+num__fx_pct_30d_x_instability,FX×Instability,Structural (M3),0.005034,0.00631
+fe__country_iso3_PRT,Country Iso3 Prt,Country FE,0.00627,0.0
+fe__country_iso3_HUN,Country Iso3 Hun,Country FE,0.001032,0.006062
+num__fao_food_index_yoy_lag6m,FAO Food Lag 6m,FAO / GTA (M4),5e-05,0.006051
+num__fx_pct_30d_z,FX Change 30d (z),Markets (M1),0.002928,0.005841
+num__month_cos,Month (cos),FAO / GTA (M4),0.002804,0.005276
+fe__country_iso3_CHL,Country Iso3 Chl,Country FE,0.00219,0.004458
+num__vix_7d_ma,VIX 7d MA,Markets (M1),0.00406,0.004309
+num__fao_oils_index_yoy_lag1m,FAO Oils Lag 1m,FAO / GTA (M4),0.001804,0.003289
+num__inflation_accel,Inflation Acceleration,Structural (M3),0.0,0.00314
+fe__country_iso3_IRL,Country Iso3 Irl,Country FE,0.003126,0.001516
+num__gold_pct_30d,Gold Change 30d,Markets (M1),0.001025,0.002852
+fe__country_iso3_FRA,Country Iso3 Fra,Country FE,0.002718,0.000104
+fe__country_iso3_BRA,Country Iso3 Bra,Country FE,0.001001,0.002159
+fe__country_iso3_CHN,Country Iso3 Chn,Country FE,0.0,0.001713
+fe__country_iso3_IDN,Country Iso3 Idn,Country FE,0.0,0.001638
+fe__country_iso3_DEU,Country Iso3 Deu,Country FE,0.00155,0.0
+num__fx_trend_consistent,FX Trend (Consistent),Structural (M3),0.000301,0.001478
+fe__country_iso3_GRC,Country Iso3 Grc,Country FE,0.001021,0.0
+fe__country_iso3_ITA,Country Iso3 Ita,Country FE,0.000667,0.000971
+fe__country_iso3_TUR,Country Iso3 Tur,Country FE,0.000843,0.0
+fe__country_iso3_PER,Country Iso3 Per,Country FE,0.000456,0.0
+num__fao_food_index_yoy_above90,FAO Food >90th Pct.,FAO / GTA (M4),0.0,0.0
+num__fao_cereals_index_yoy_above90,FAO Cereals >90th Pct.,FAO / GTA (M4),0.0,0.0
+fe__country_iso3_NLD,Country Iso3 Nld,Country FE,0.0,0.0
+fe__country_iso3_NOR,Country Iso3 Nor,Country FE,0.0,0.0
+fe__country_iso3_KEN,Country Iso3 Ken,Country FE,0.0,0.0
+fe__country_iso3_ESP,Country Iso3 Esp,Country FE,0.0,0.0
+fe__country_iso3_VNM,Country Iso3 Vnm,Country FE,0.0,0.0
+num__covid_period,COVID Period,Structural (M3),0.0,0.0
+fe__country_iso3_THA,Country Iso3 Tha,Country FE,0.0,0.0
+fe__country_iso3_MEX,Country Iso3 Mex,Country FE,0.0,0.0
+num__gta_liberalising_events,GTA Liberalising Events,FAO / GTA (M4),0.0,0.0
+num__gta_harmful_events,GTA Harmful Events,FAO / GTA (M4),0.0,0.0

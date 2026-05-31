@@ -1,0 +1,524 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+AZE17463,2022-01-11,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Dashkasan,,Zeylik,40.5513,46.0098,2,National,0,AZE
+AZE17457,2022-01-11,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tovuz,,Munjuglu,40.7961,45.5758,2,National,0,AZE
+AZE17459,2022-01-11,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tovuz,,Asrik Jirdakhan,40.8589,45.6242,2,National,0,AZE
+AZE17460,2022-01-11,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tovuz,,Gosha,40.7833,45.5666,2,National,0,AZE
+AZE17461,2022-01-11,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tovuz,,Kokhanebi,40.8707,45.6095,2,National,0,AZE
+AZE17473,2022-01-27,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tovuz,,Kokhanebi,40.8707,45.6095,2,National-International,0,AZE
+AZE17475,2022-02-02,1,Explosions/Remote violence,Remote explosive/landmine/IED,Military Forces of Artsakh (2007-),,Civilians (Azerbaijan),Farmers (Azerbaijan),Azerbaijan,Yevlakh,,Aran,40.6252,46.9755,1,National,1,AZE
+AZE17476,2022-02-02,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17477,2022-02-08,1,Protests,Peaceful protest,Protesters (Azerbaijan),Former Military Forces of Azerbaijan (2003-),,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17485,2022-02-15,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tovuz,,Aghbulag,40.8352,45.612,2,National-International,0,AZE
+AZE17487,2022-02-18,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tovuz,,Munjuglu,40.7961,45.5758,2,National-International,0,AZE
+AZE17505,2022-03-02,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tovuz,,Asrik Jirdakhan,40.8589,45.6242,2,National-International,0,AZE
+AZE17506,2022-03-02,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tovuz,,Kokhanebi,40.8707,45.6095,2,National-International,0,AZE
+AZE17503,2022-02-28,1,Protests,Protest with intervention,Protesters (Azerbaijan),Former Military Forces of Azerbaijan (2003-),Police Forces of Azerbaijan (2003-),,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17509,2022-03-08,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Ordubad,,Kilit,38.8813,46.1327,2,National-International,0,AZE
+AZE17519,2022-03-07,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Goranboy,,Goranboy,40.6083,46.7886,3,National-International,0,AZE
+AZE17521,2022-03-07,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tartar,,Terter,40.3428,46.9317,3,National-International,0,AZE
+AZE17523,2022-03-08,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Goranboy,,Goranboy,40.6083,46.7886,3,National-International,0,AZE
+AZE17514,2022-03-05,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Goranboy,,Gjulistan,40.3581,46.5818,2,National,0,AZE
+AZE17531,2022-03-10,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Fizuli,,Fuzuli,39.5771,47.4088,3,National,0,AZE
+AZE17513,2022-03-08,1,Protests,Peaceful protest,Protesters (Azerbaijan),Women (Azerbaijan),,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,International,0,AZE
+AZE17553,2022-03-12,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tartar,,Terter,40.3428,46.9317,3,National,0,AZE
+AZE17550,2022-03-10,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17555,2022-03-23,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Civilians (Azerbaijan),,Azerbaijan,Fizuli,,Fuzuli,39.5771,47.4088,2,National,0,AZE
+AZE17559,2022-03-28,1,Protests,Peaceful protest,Protesters (Azerbaijan),Former Military Forces of Azerbaijan (2003-),,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17564,2022-04-03,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tovuz,,Aghdam,40.9053,45.5564,2,National-International,0,AZE
+AZE17565,2022-04-06,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tovuz,,Aghdam,40.9053,45.5564,2,National-International,0,AZE
+AZE17566,2022-04-04,1,Protests,Peaceful protest,Protesters (Azerbaijan),Former Military Forces of Azerbaijan (2003-),,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17570,2022-04-08,1,Protests,Peaceful protest,Protesters (Azerbaijan),Students (Azerbaijan),,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17576,2022-04-20,1,Protests,Peaceful protest,Protesters (Azerbaijan),Labor Group (Azerbaijan),,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17577,2022-04-22,1,Protests,Peaceful protest,Protesters (Azerbaijan),Labor Group (Azerbaijan),,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17534,2022-03-11,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Agdam,,Quzanli,40.1568,47.1619,3,National-International,0,AZE
+AZE17529,2022-03-10,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Agdam,,Quzanli,40.1568,47.1619,3,National,0,AZE
+AZE17517,2022-03-07,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Agdam,,Quzanli,40.1568,47.1619,3,National-International,0,AZE
+AZE17583,2022-04-30,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Dashkasan,,Zeylik,40.5513,46.0098,2,Other-National,0,AZE
+AZE17586,2022-05-01,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Dashkasan,,Zeylik,40.5513,46.0098,2,National-International,0,AZE
+AZE17587,2022-05-02,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Dashkasan,,Zeylik,40.5513,46.0098,2,National-International,0,AZE
+AZE17581,2022-04-27,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Sumqayit,,Sumqayit,40.5936,49.6663,1,National,0,AZE
+AZE17584,2022-05-01,1,Protests,Protest with intervention,Protesters (Azerbaijan),D18 Movement,Police Forces of Azerbaijan (2003-),,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17590,2022-05-05,1,Protests,Peaceful protest,Protesters (Azerbaijan),Students (Azerbaijan),,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17592,2022-05-13,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Civilians (Azerbaijan),Government of Azerbaijan (2003-),Azerbaijan,Agdam,,Quzanli,40.1568,47.1619,3,National,0,AZE
+AZE17598,2022-05-16,1,Protests,Peaceful protest,Protesters (Azerbaijan),Labor Group (Azerbaijan),,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17605,2022-05-19,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17606,2022-05-19,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Salyan,,Salyan,39.5962,48.9848,1,National,0,AZE
+AZE17609,2022-05-24,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17610,2022-05-27,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Military Forces of Azerbaijan (2003-),,Azerbaijan,Agdam,,Quzanli,40.1568,47.1619,3,National,0,AZE
+AZE17619,2022-05-31,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tovuz,,Aghdam,40.9053,45.5564,2,Other-International,0,AZE
+AZE17617,2022-05-31,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,International,0,AZE
+AZE17611,2022-06-02,1,Protests,Peaceful protest,Protesters (Azerbaijan),Former Military Forces of Azerbaijan (2003-),,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17614,2022-06-01,1,Protests,Peaceful protest,Protesters (Azerbaijan),Women (Azerbaijan),,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17626,2022-06-17,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17628,2022-06-22,1,Protests,Peaceful protest,Protesters (Azerbaijan),Muslim Unity Movement; Women (Azerbaijan),,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17636,2022-06-20,1,Protests,Peaceful protest,Protesters (Azerbaijan),LGBTQ+ (Azerbaijan),,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17640,2022-07-01,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17647,2022-07-13,1,Protests,Peaceful protest,Protesters (Azerbaijan),Former Military Forces of Azerbaijan (2003-),,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17651,2022-07-20,1,Protests,Protest with intervention,Protesters (Azerbaijan),AXCP: Azerbaijani Popular Front Party; ADR: Azerbaijan Democracy and Welfare Movement; MP: Equality Party; Nida Civic Movement,Police Forces of Azerbaijan (2003-),,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17656,2022-07-25,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Agdam,,Quzanli,40.1568,47.1619,3,National,0,AZE
+AZE17657,2022-07-25,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tartar,,Terter,40.3428,46.9317,3,National,0,AZE
+AZE17662,2022-07-25,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17664,2022-07-30,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Gadabay,,Gadabay,40.5742,45.8144,3,National,0,AZE
+AZE17682,2022-08-04,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Agdam,,Quzanli,40.1568,47.1619,3,National-International,0,AZE
+AZE17688,2022-08-07,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Fizuli,,Fuzuli,39.5771,47.4088,3,National-International,0,AZE
+AZE17689,2022-08-07,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Goranboy,,Goranboy,40.6083,46.7886,3,National-International,0,AZE
+AZE17695,2022-08-08,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17696,2022-08-12,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Gadabay,,Gadabay,40.5742,45.8144,3,National-International,0,AZE
+AZE17699,2022-08-12,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tovuz,,Tovuz,40.9924,45.6159,3,National-International,0,AZE
+AZE17730,2022-09-07,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tovuz,,Aghdam,40.9053,45.5564,2,National,0,AZE
+AZE17708,2022-09-01,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Baku,,Nardaran,40.5735,49.9889,1,National,0,AZE
+AZE17706,2022-08-24,1,Protests,Peaceful protest,Protesters (Azerbaijan),ADR: Azerbaijan Democracy and Welfare Movement,,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17707,2022-09-02,1,Protests,Peaceful protest,Protesters (Azerbaijan),Labor Group (Azerbaijan),,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17741,2022-09-12,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Dashkasan,,Dashkasan,40.5212,46.0817,3,Other-National,5,AZE
+AZE17742,2022-09-14,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Dashkasan,,Dashkasan,40.5212,46.0817,3,National-International,5,AZE
+AZE17769,2022-09-23,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tovuz,,Kokhanebi,40.8707,45.6095,2,National-International,0,AZE
+AZE17770,2022-09-23,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Dashkasan,,Tazakend,40.4621,45.9426,2,National-International,0,AZE
+AZE17771,2022-09-17,1,Strategic developments,Disrupted weapons use,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Azerbaijan,Nakhchivan,,Nakhchivan,39.2041,45.4086,3,National,0,AZE
+AZE17780,2022-09-29,1,Protests,Peaceful protest,Protesters (Azerbaijan),Women (Azerbaijan),,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17781,2022-09-30,1,Protests,Protest with intervention,Protesters (Azerbaijan),AXCP: Azerbaijani Popular Front Party,Police Forces of Azerbaijan (2003-),,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17787,2022-10-03,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tovuz,,Aghdam,40.9053,45.5564,2,National,0,AZE
+AZE17788,2022-10-03,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tovuz,,Garalar,40.7471,45.4704,2,National,0,AZE
+AZE17794,2022-10-06,1,Protests,Protest with intervention,Protesters (Azerbaijan),,Police Forces of Azerbaijan (2003-),,Azerbaijan,Baku,,Baku,40.3953,49.8822,3,National,0,AZE
+AZE17785,2022-10-01,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Civilians (Azerbaijan),,Azerbaijan,Tartar,,Sahlabad,40.3288,46.9463,1,National,0,AZE
+AZE17792,2022-10-04,1,Protests,Protest with intervention,Protesters (Azerbaijan),,Police Forces of Azerbaijan (2003-),,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17795,2022-10-07,1,Protests,Protest with intervention,Protesters (Azerbaijan),ADR: Azerbaijan Democracy and Welfare Movement,Police Forces of Azerbaijan (2003-),,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17563,2022-03-27,1,Explosions/Remote violence,Remote explosive/landmine/IED,Military Forces of Artsakh (2007-),,,,Azerbaijan,Agdam,,Quzanli,40.1568,47.1619,3,National,0,AZE
+AZE17802,2022-10-09,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Gadabay,,Novoivanovka,40.5585,45.5439,2,National-International,0,AZE
+AZE17804,2022-10-10,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tovuz,,Aghbulag,40.8352,45.612,2,National-International,0,AZE
+AZE17806,2022-10-10,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Dashkasan,,Tazakend,40.4621,45.9426,2,National-International,0,AZE
+AZE17807,2022-10-12,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Dashkasan,,Tazakend,40.4621,45.9426,2,National-International,0,AZE
+AZE17805,2022-10-10,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Dashkasan,,Astaf,40.4677,45.8624,2,National,0,AZE
+AZE17799,2022-10-08,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Civilians (Azerbaijan),Labor Group (Azerbaijan),Azerbaijan,Fizuli,,Fuzuli,39.5771,47.4088,3,National,0,AZE
+AZE17816,2022-10-15,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tovuz,,Kokhanebi,40.8707,45.6095,2,National-International,0,AZE
+AZE17824,2022-10-20,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Dashkasan,,Astaf,40.4677,45.8624,2,National-International,0,AZE
+AZE17820,2022-10-18,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Gadabay,,Daryurd,40.5391,45.6651,2,National,0,AZE
+AZE17819,2022-10-18,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Dashkasan,,Astaf,40.4677,45.8624,2,National,0,AZE
+AZE17821,2022-10-18,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Dashkasan,,Tazakend,40.4621,45.9426,2,National,0,AZE
+AZE17814,2022-10-14,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Dashkasan,,Tazakend,40.4621,45.9426,2,National,0,AZE
+AZE17822,2022-10-19,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Dashkasan,,Astaf,40.4677,45.8624,2,National,0,AZE
+AZE17832,2022-10-24,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tovuz,,Aghdam,40.9053,45.5564,2,National,0,AZE
+AZE17775,2022-09-20,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17843,2022-11-08,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tovuz,,Aghdam,40.9053,45.5564,2,Other,0,AZE
+AZE17851,2022-11-11,1,Protests,Protest with intervention,Protesters (Azerbaijan),AXCP: Azerbaijani Popular Front Party,Police Forces of Azerbaijan (2003-),,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17872,2022-11-25,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Dashkasan,,Astaf,40.4677,45.8624,2,Other-National,0,AZE
+AZE17884,2022-11-22,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tartar,,Terter,40.3428,46.9317,3,National-International,0,AZE
+AZE17866,2022-11-21,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Dashkasan,,Astaf,40.4677,45.8624,2,National,0,AZE
+AZE17868,2022-11-22,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Dashkasan,,Astaf,40.4677,45.8624,2,National,0,AZE
+AZE17867,2022-11-21,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tovuz,,Kokhanebi,40.8707,45.6095,2,National,0,AZE
+AZE17889,2022-11-26,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Dashkasan,,Astaf,40.4677,45.8624,2,Other-National,0,AZE
+AZE17892,2022-11-26,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tartar,,Terter,40.3428,46.9317,3,National-International,0,AZE
+AZE17895,2022-11-27,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tovuz,,Aghdam,40.9053,45.5564,2,Other,0,AZE
+AZE17896,2022-11-27,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Dashkasan,,Astaf,40.4677,45.8624,2,Other,0,AZE
+AZE17900,2022-11-27,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tartar,,Terter,40.3428,46.9317,3,National-International,0,AZE
+AZE17907,2022-11-28,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tartar,,Terter,40.3428,46.9317,3,Other-National,0,AZE
+AZE17921,2022-12-08,1,Protests,Peaceful protest,Protesters (Azerbaijan),Former Military Forces of Azerbaijan (2003-),,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National,0,AZE
+AZE17927,2022-12-29,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Dashkasan,,Astaf,40.4677,45.8624,2,National-International,0,AZE
+AZE17934,2022-12-28,1,Protests,Peaceful protest,Protesters (Azerbaijan),Labor Group (Azerbaijan),,,Azerbaijan,Nakhchivan,,Nakhchivan,39.2041,45.4086,1,National,0,AZE
+AZE17938,2022-12-16,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tovuz,,Aghdam,40.9053,45.5564,2,Other,0,AZE
+AZE17939,2022-12-16,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Gadabay,,Goyali,40.6941,45.4217,2,Other-International,0,AZE
+AZE17567,2022-04-12,1,Protests,Peaceful protest,Protesters (Azerbaijan),ADR: Azerbaijan Democracy and Welfare Movement,,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,International,0,AZE
+AZE17507,2022-03-04,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,International,0,AZE
+AZE17502,2022-03-01,1,Protests,Protest with intervention,Protesters (Azerbaijan),ADR: Azerbaijan Democracy and Welfare Movement,Police Forces of Azerbaijan (2003-),,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,International,0,AZE
+AZE17930,2022-12-23,1,Protests,Protest with intervention,Protesters (Azerbaijan),AXCP: Azerbaijani Popular Front Party; D18 Movement,Police Forces of Azerbaijan (2003-),,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National-International,0,AZE
+AZE17854,2022-11-15,1,Protests,Protest with intervention,Protesters (Azerbaijan),MP: Equality Party,Police Forces of Azerbaijan (2003-),,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National-International,0,AZE
+AZE17830,2022-10-24,1,Protests,Protest with intervention,Protesters (Azerbaijan),AXCP: Azerbaijani Popular Front Party,Police Forces of Azerbaijan (2003-),,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,International,0,AZE
+AZE17827,2022-10-15,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,International,0,AZE
+AZE17779,2022-09-27,1,Protests,Peaceful protest,Protesters (Azerbaijan),Women (Azerbaijan),,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,International,0,AZE
+AZE17749,2022-09-12,1,Protests,Peaceful protest,Protesters (Azerbaijan),Former Military Forces of Azerbaijan (2003-),,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,International,0,AZE
+AZE17743,2022-09-11,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Gadabay,,Novoivanovka,40.5585,45.5439,2,International,0,AZE
+AZE17624,2022-06-16,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,International,0,AZE
+AZE17620,2022-06-01,1,Protests,Protest with intervention,Protesters (Azerbaijan),,Police Forces of Azerbaijan (2003-),,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,International,0,AZE
+AZE17597,2022-05-14,1,Protests,Protest with intervention,Protesters (Azerbaijan),,Police Forces of Azerbaijan (2003-),,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,National-International,0,AZE
+AZE17574,2022-04-18,1,Protests,Peaceful protest,Protesters (Azerbaijan),Former Military Forces of Azerbaijan (2003-),,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,International,0,AZE
+AZE17572,2022-04-17,1,Protests,Peaceful protest,Protesters (Azerbaijan),MP: Equality Party,,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,International,0,AZE
+AZE17504,2022-02-27,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,International,0,AZE
+AZE17495,2022-02-25,1,Protests,Peaceful protest,Protesters (Azerbaijan),D18 Movement,,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,International,0,AZE
+AZE17492,2022-02-17,1,Protests,Peaceful protest,Protesters (Azerbaijan),Labor Group (Azerbaijan),,,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,International,0,AZE
+AZE17491,2022-02-15,1,Violence against civilians,Attack,Police Forces of Azerbaijan (2003-),,Civilians (Azerbaijan),Journalists (Azerbaijan); Prisoners (Azerbaijan),Azerbaijan,Baku,,Baku,40.3953,49.8822,1,Regional-International,0,AZE
+AZE17494,2022-02-15,1,Protests,Protest with intervention,Protesters (Azerbaijan),Civilians (Azerbaijan); Journalists (Azerbaijan); Women (Azerbaijan),Police Forces of Azerbaijan (2003-),,Azerbaijan,Baku,,Baku,40.3953,49.8822,1,Regional-International,0,AZE
+AZE17671,2022-08-01,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Shusha,,Yeghtsahogh,39.6772,46.5875,2,National-International,0,AZE
+AZE17448,2022-01-02,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Baghlipaya,40.1462,46.318,1,National,0,AZE
+AZE17857,2022-11-18,1,Violence against civilians,Attack,Military Forces of Azerbaijan (2003-),,Civilians (Azerbaijan),Farmers (Azerbaijan); Armenian Group (Azerbaijan),Azerbaijan,Khojavend,,Hatsi,39.8447,46.9575,2,Regional,0,AZE
+AZE17467,2022-01-10,1,Riots,Mob violence,Rioters (Azerbaijan),Military Forces of Azerbaijan (2003-),Civilians (Armenia),,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,Regional,0,AZE
+AZE17468,2022-01-18,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Civilians (Azerbaijan),Farmers (Azerbaijan),Azerbaijan,Goranboy,,Tap Qaraqoyunlu,40.4283,46.7688,1,National,0,AZE
+AZE17470,2022-01-25,1,Protests,Peaceful protest,Protesters (Azerbaijan),Farmers (Azerbaijan),,,Azerbaijan,Khojavend,,Karmir Shuka,39.6758,46.9486,1,Regional,0,AZE
+AZE17479,2022-02-06,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Tartar,,Qapanli,40.2628,46.9664,2,Other-National,0,AZE
+AZE17488,2022-02-15,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,3,National-Regional,0,AZE
+AZE17490,2022-02-18,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Civilians (Azerbaijan),Labor Group (Azerbaijan),Azerbaijan,Tartar,,Verin Chaylu,40.3302,46.8328,1,National,0,AZE
+AZE17515,2022-03-06,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Agdam,,Chukhurmahla,39.9947,46.8794,2,National,0,AZE
+AZE17516,2022-03-06,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Agdam,,Khidirli,40.0155,46.8905,2,National,0,AZE
+AZE17524,2022-03-10,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Agdam,,Chukhurmahla,39.9947,46.8794,2,National,0,AZE
+AZE17525,2022-03-10,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Agdam,,Ghasymly,39.9563,46.9044,2,National,0,AZE
+AZE17526,2022-03-05,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,Subnational,0,AZE
+AZE17527,2022-03-10,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Agdam,,Karadagly,40.0158,47.0668,2,National,0,AZE
+AZE17528,2022-03-10,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Agdam,,Khidirli,40.0155,46.8905,2,National,0,AZE
+AZE17552,2022-03-12,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,International,0,AZE
+AZE17557,2022-03-24,1,Protests,Peaceful protest,Protesters (Azerbaijan),Women (Azerbaijan),,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,Regional,0,AZE
+AZE17562,2022-03-26,1,Protests,Peaceful protest,Protesters (Azerbaijan),Women (Azerbaijan),,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,Subnational,0,AZE
+AZE17568,2022-04-09,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Civilians (Azerbaijan),,Azerbaijan,Tartar,,Hasangaya,40.3252,46.8477,1,International,0,AZE
+AZE17571,2022-04-17,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,,,Azerbaijan,Agdam,,Yusifjanli,39.9731,47.0504,1,National,0,AZE
+AZE17573,2022-04-17,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,3,Regional,0,AZE
+AZE17591,2022-05-12,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Civilians (Azerbaijan),,Azerbaijan,Agdam,,Cemenli,40.0701,47.0418,1,National,0,AZE
+AZE17603,2022-05-18,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,Regional,0,AZE
+AZE17612,2022-05-28,1,Protests,Peaceful protest,Protesters (Azerbaijan),Resistance Movement,,,Azerbaijan,Khojavend,,Khojavend,39.795,47.1117,1,International,0,AZE
+AZE17613,2022-05-28,1,Protests,Peaceful protest,Protesters (Azerbaijan),Resistance Movement,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,Regional-International,0,AZE
+AZE17623,2022-06-08,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,Regional,0,AZE
+AZE17685,2022-08-05,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,International,0,AZE
+AZE17702,2022-08-13,1,Strategic developments,Disrupted weapons use,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,National,0,AZE
+AZE17709,2022-08-27,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,International,0,AZE
+AZE17710,2022-08-29,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,International,0,AZE
+AZE17711,2022-08-30,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,International,0,AZE
+AZE17712,2022-08-31,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,International,0,AZE
+AZE17713,2022-09-02,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,Regional,0,AZE
+AZE17714,2022-08-20,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,Regional,0,AZE
+AZE17715,2022-08-21,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,Regional,0,AZE
+AZE17716,2022-08-23,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,Regional,0,AZE
+AZE17739,2022-09-02,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Karvachar,40.1067,46.0383,3,National-Regional,0,AZE
+AZE17740,2022-09-03,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,International,0,AZE
+AZE17754,2022-09-14,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,International,0,AZE
+AZE17761,2022-09-15,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,International,0,AZE
+AZE17762,2022-09-16,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,International,0,AZE
+AZE17772,2022-09-17,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,International,0,AZE
+AZE17773,2022-09-18,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,International,0,AZE
+AZE17774,2022-09-19,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,International,0,AZE
+AZE17776,2022-09-20,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,International,0,AZE
+AZE17778,2022-09-24,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,International,0,AZE
+AZE17800,2022-10-08,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Civilians (Azerbaijan),Labor Group (Azerbaijan),Azerbaijan,Agdam,,Yusifjanli,39.9731,47.0504,1,National,0,AZE
+AZE17811,2022-10-08,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,Regional,0,AZE
+AZE17812,2022-10-09,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,Regional,0,AZE
+AZE17831,2022-10-23,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Civilians (Azerbaijan),,Azerbaijan,Tartar,,Verin Chaylu,40.3302,46.8328,1,National,0,AZE
+AZE17836,2022-10-30,1,Protests,Peaceful protest,Protesters (Azerbaijan),Government of Artsakh (2007-),,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,Regional,0,AZE
+AZE17881,2022-11-22,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,3,National-Regional,0,AZE
+AZE17882,2022-11-22,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,Other-National,0,AZE
+AZE17883,2022-11-25,1,Violence against civilians,Attack,Military Forces of Azerbaijan (2003-),,Civilians (Azerbaijan),Armenian Group (Azerbaijan); Farmers (Azerbaijan),Azerbaijan,Tartar,,Chankatagh,40.1371,46.7756,2,Regional,0,AZE
+AZE17899,2022-11-27,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,3,Other-Regional,0,AZE
+AZE17905,2022-11-28,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,3,Other-Regional,0,AZE
+AZE17906,2022-11-28,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,3,Other-National,0,AZE
+AZE17917,2022-11-30,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,3,National-Regional,0,AZE
+AZE17933,2022-12-25,1,Protests,Peaceful protest,Protesters (Azerbaijan),Government of Artsakh (2007-),,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,International,0,AZE
+AZE17935,2022-12-17,1,Protests,Peaceful protest,Protesters (Azerbaijan),Students (Azerbaijan),,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,International,0,AZE
+AZE17946,2022-12-17,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,National,0,AZE
+AZE17947,2022-12-18,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,National,0,AZE
+AZE17948,2022-12-19,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,National,0,AZE
+AZE17949,2022-12-20,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,National,0,AZE
+AZE17950,2022-12-21,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,National,0,AZE
+AZE17951,2022-12-22,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,National,0,AZE
+AZE17952,2022-12-22,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,Regional,0,AZE
+AZE17953,2022-12-23,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,National,0,AZE
+AZE17954,2022-12-23,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,Regional,0,AZE
+AZE17955,2022-12-24,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,National,0,AZE
+AZE17956,2022-12-24,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,2,Regional,0,AZE
+AZE17957,2022-12-25,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,National,0,AZE
+AZE17958,2022-12-26,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,National,0,AZE
+AZE17959,2022-12-26,1,Protests,Peaceful protest,Protesters (Armenia),,,,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,Regional,0,AZE
+AZE17960,2022-12-27,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,National,0,AZE
+AZE17961,2022-12-27,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Stepanakert,,Stepanakert,39.8246,46.7535,1,Regional,0,AZE
+AZE17962,2022-12-28,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,National,0,AZE
+AZE17963,2022-12-29,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,National,0,AZE
+AZE17964,2022-12-30,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,National,0,AZE
+AZE17965,2022-12-03,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,Regional,0,AZE
+AZE17966,2022-12-12,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,National-Regional,0,AZE
+AZE17967,2022-12-13,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,National,0,AZE
+AZE17968,2022-12-14,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,National,0,AZE
+AZE17969,2022-12-15,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,National-Regional,0,AZE
+AZE17970,2022-12-16,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,National,0,AZE
+AZE17972,2022-12-31,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,National,0,AZE
+AZE17458,2022-01-11,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Khojavend,,Aknaghbyur,39.556,47.0822,2,National,0,AZE
+AZE17462,2022-01-11,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yellija,40.0916,45.9501,2,National,0,AZE
+AZE17464,2022-01-08,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Karvachar,40.1067,46.0383,3,National-Regional,0,AZE
+AZE17465,2022-01-10,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Khojavend,,Karmir Shuka,39.6758,46.9486,2,Other-National,0,AZE
+AZE17466,2022-01-10,1,Violence against civilians,Attack,Military Forces of Azerbaijan (2003-),,Civilians (Azerbaijan),Armenian Group (Azerbaijan); Farmers (Azerbaijan),Azerbaijan,Xocali,,Nakhichevanik,39.9077,46.8705,2,Regional,0,AZE
+AZE17469,2022-01-23,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Khojavend,,Karmir Shuka,39.6758,46.9486,2,Regional,0,AZE
+AZE17471,2022-01-26,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Khojavend,,Karmir Shuka,39.6758,46.9486,2,Regional,0,AZE
+AZE17472,2022-01-27,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Khojavend,,Karmir Shuka,39.6758,46.9486,2,Regional,0,AZE
+AZE17478,2022-02-05,1,Violence against civilians,Attack,Military Forces of Azerbaijan (2003-),,Civilians (Azerbaijan),Armenian Group (Azerbaijan),Azerbaijan,Xocali,,Khramort,39.9919,46.8369,1,Regional,0,AZE
+AZE17481,2022-02-11,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Khojavend,,Karmir Shuka,39.6758,46.9486,1,National-Regional,0,AZE
+AZE17482,2022-02-11,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Khojavend,,Taghavard,39.6692,46.9109,1,National-Regional,0,AZE
+AZE17486,2022-02-15,1,Violence against civilians,Attack,Military Forces of Azerbaijan (2003-),,Civilians (Azerbaijan),Armenian Group (Azerbaijan); Farmers (Azerbaijan),Azerbaijan,Xocali,,Khnapat,39.9688,46.8169,2,National-Regional,0,AZE
+AZE17489,2022-02-18,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Azerbaijan,Khojavend,,Taghavard,39.6692,46.9109,1,National-Regional,0,AZE
+AZE17493,2022-02-17,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Tartar,,Maghavuz,40.2511,46.6986,2,Regional,0,AZE
+AZE17496,2022-02-19,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Khojavend,,Taghavard,39.6692,46.9109,2,National,0,AZE
+AZE17497,2022-02-20,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Xocali,,Shushikend,39.7707,46.7878,2,Other-National,0,AZE
+AZE17498,2022-02-21,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Khojavend,,Taghavard,39.6692,46.9109,2,Other-National,0,AZE
+AZE17500,2022-02-23,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Khojavend,,Yukhari Veysalli,39.7379,47.0926,2,Other-National,0,AZE
+AZE17508,2022-03-07,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Damirchidam,40.2208,46.073,2,National-Regional,0,AZE
+AZE17511,2022-03-10,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yellija,40.0916,45.9501,2,National,0,AZE
+AZE17518,2022-03-07,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Xocali,,Khojaly,39.913,46.7903,3,National-Regional,0,AZE
+AZE17522,2022-03-08,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Xocali,,Khojaly,39.913,46.7903,3,National-Regional,0,AZE
+AZE17530,2022-03-10,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Xocali,,Khojaly,39.913,46.7903,3,National,0,AZE
+AZE17532,2022-03-10,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Khojavend,,Hadrut,39.5162,47.0325,3,National,0,AZE
+AZE17535,2022-03-11,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Xocali,,Khojaly,39.913,46.7903,3,National-Regional,0,AZE
+AZE17536,2022-03-11,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Khojavend,,Hadrut,39.5162,47.0325,3,National-Regional,0,AZE
+AZE17539,2022-03-06,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Xocali,,Khramort,39.9919,46.8369,2,Regional,0,AZE
+AZE17540,2022-03-07,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Xocali,,Khramort,39.9919,46.8369,2,National-Regional,0,AZE
+AZE17541,2022-03-08,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Xocali,,Khramort,39.9919,46.8369,2,Regional,0,AZE
+AZE17542,2022-03-09,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Xocali,,Khramort,39.9919,46.8369,2,Regional,0,AZE
+AZE17543,2022-03-09,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Xocali,,Nakhichevanik,39.9077,46.8705,2,Regional,0,AZE
+AZE17544,2022-03-09,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Khojavend,,Karmir Shuka,39.6758,46.9486,2,Regional,0,AZE
+AZE17545,2022-03-09,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Khojavend,,Khnushinak,39.765,47.0419,2,Regional,0,AZE
+AZE17546,2022-03-10,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Xocali,,Khramort,39.9919,46.8369,2,Regional,0,AZE
+AZE17547,2022-03-11,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Xocali,,Khnapat,39.9688,46.8169,2,Regional,0,AZE
+AZE17548,2022-03-11,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Xocali,,Khramort,39.9919,46.8369,2,Regional,0,AZE
+AZE17549,2022-03-11,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Xocali,,Parukh,40.0163,46.8011,2,Regional,0,AZE
+AZE17551,2022-03-12,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Khojavend,,Hadrut,39.5162,47.0325,3,National,0,AZE
+AZE17554,2022-02-18,1,Violence against civilians,Attack,Military Forces of Azerbaijan (2003-),,Civilians (Azerbaijan),Armenian Group (Azerbaijan),Azerbaijan,Khojavend,,Karmir Shuka,39.6758,46.9486,1,National,0,AZE
+AZE17558,2022-03-25,1,Explosions/Remote violence,Air/drone strike,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),Military Forces of Armenia (2018-),Azerbaijan,Xocali,,Parukh,40.0163,46.8011,2,National-Regional,3,AZE
+AZE17560,2022-03-24,1,Strategic developments,Disrupted weapons use,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Xocali,,Parukh,40.0163,46.8011,2,New media,0,AZE
+AZE17561,2022-03-26,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Xocali,,Parukh,40.0163,46.8011,2,National-Regional,0,AZE
+AZE17569,2022-04-11,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Xocali,,Parukh,40.0163,46.8011,2,Regional,0,AZE
+AZE17578,2022-04-22,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Civilians (Azerbaijan),,Azerbaijan,Qubadli,,Teymur Muskanli,39.4278,46.5052,1,National,0,AZE
+AZE17579,2022-04-11,1,Violence against civilians,Attack,Military Forces of Azerbaijan (2003-),,Civilians (Azerbaijan),Armenian Group (Azerbaijan); Labor Group (Azerbaijan),Azerbaijan,Khojavend,,Taghavard,39.6692,46.9109,1,Regional,0,AZE
+AZE17580,2022-04-23,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Zengilan,,Zangilan,39.085,46.6569,3,Regional-International,0,AZE
+AZE17585,2022-05-01,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yellija,40.0916,45.9501,2,National-Regional,0,AZE
+AZE17588,2022-05-03,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Kelbecer,,Haterk,40.1613,46.5138,1,Regional,0,AZE
+AZE17589,2022-05-04,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Kelbecer,,Haterk,40.1613,46.5138,1,Regional,0,AZE
+AZE17600,2022-05-17,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yellija,40.0916,45.9501,2,National,0,AZE
+AZE17602,2022-05-18,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Tartar,,Martakert,40.2049,46.8156,1,Regional,0,AZE
+AZE17604,2022-05-19,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yellija,40.0916,45.9501,2,National-Regional,0,AZE
+AZE17607,2022-05-20,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yellija,40.0916,45.9501,2,Other-National,0,AZE
+AZE17608,2022-05-21,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yellija,40.0916,45.9501,2,National,0,AZE
+AZE17621,2022-06-02,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yellija,40.0916,45.9501,2,National-Regional,0,AZE
+AZE17625,2022-06-17,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Damirchidam,40.2208,46.073,2,National-Regional,0,AZE
+AZE17627,2022-06-17,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Civilians (Azerbaijan),Labor Group (Azerbaijan),Azerbaijan,Jabrayil,,Jabrail,39.3992,47.0283,3,National,0,AZE
+AZE17633,2022-06-19,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Civilians (Azerbaijan),Labor Group (Azerbaijan),Azerbaijan,Jabrayil,,Khudaferin,39.1502,46.9469,1,National,0,AZE
+AZE17635,2022-06-20,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yellija,40.0916,45.9501,2,Other-National,0,AZE
+AZE17638,2022-06-26,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Police Forces of Azerbaijan (2003-),,Azerbaijan,Fizuli,,Ashaghi Seydakhmedli,39.5728,47.3088,1,National,0,AZE
+AZE17641,2022-07-04,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Damirchidam,40.2208,46.073,2,Other-National,0,AZE
+AZE17645,2022-07-11,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Damirchidam,40.2208,46.073,2,National-Regional,0,AZE
+AZE17649,2022-07-14,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Civilians (Turkey),,Azerbaijan,Khojavend,,Taghavard,39.6692,46.9109,1,National,0,AZE
+AZE17650,2022-07-19,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Xocali,,Shushikend,39.7707,46.7878,2,National-Regional,0,AZE
+AZE17653,2022-07-25,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Xocali,,Khojaly,39.913,46.7903,3,National,0,AZE
+AZE17654,2022-07-25,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Khojavend,,Khojavend,39.795,47.1117,3,National,0,AZE
+AZE17658,2022-07-26,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Karvachar,40.1067,46.0383,3,National,0,AZE
+AZE17659,2022-07-27,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Tartar,,Tonashen,40.3032,46.6949,2,Regional,0,AZE
+AZE17660,2022-07-28,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Khojavend,,Karmir Shuka,39.6758,46.9486,1,National-Regional,0,AZE
+AZE17661,2022-07-28,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Khojavend,,Taghavard,39.6692,46.9109,1,Regional,0,AZE
+AZE17663,2022-07-30,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Damirchidam,40.2208,46.073,2,National-Regional,0,AZE
+AZE17665,2022-07-30,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Karvachar,40.1067,46.0383,3,National-Regional,0,AZE
+AZE17666,2022-07-30,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Lachin,39.6404,46.5488,3,National-Regional,0,AZE
+AZE17667,2022-07-31,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Khojavend,,Amiranlar,39.7997,47.133,2,National,0,AZE
+AZE17668,2022-08-01,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Tartar,,Martakert,40.2049,46.8156,2,National-Regional,0,AZE
+AZE17670,2022-08-01,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Kelbecer,,Vank,40.0518,46.5444,2,National-Regional,0,AZE
+AZE17674,2022-08-03,1,Explosions/Remote violence,Air/drone strike,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Kelbecer,,Haterk,40.1613,46.5138,2,Regional,0,AZE
+AZE17675,2022-08-03,1,Explosions/Remote violence,Air/drone strike,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Kelbecer,,Heyvali,40.1499,46.6113,2,Regional,0,AZE
+AZE17677,2022-08-03,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Lachin,39.6404,46.5488,3,National,1,AZE
+AZE17678,2022-08-04,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Karvachar,40.1067,46.0383,3,National-Regional,0,AZE
+AZE17679,2022-08-04,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Xocali,,Khojaly,39.913,46.7903,3,National-Regional,0,AZE
+AZE17680,2022-08-04,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Khojavend,,Khojavend,39.795,47.1117,3,National-Regional,0,AZE
+AZE17681,2022-08-04,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Lachin,39.6404,46.5488,3,National-Regional,0,AZE
+AZE17683,2022-08-05,1,Protests,Peaceful protest,Protesters (Azerbaijan),,,,Azerbaijan,Lacin,,Lachin,39.6404,46.5488,2,International,0,AZE
+AZE17684,2022-08-05,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Karvachar,40.1067,46.0383,3,National,1,AZE
+AZE17686,2022-08-07,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Karvachar,40.1067,46.0383,3,National-Regional,0,AZE
+AZE17687,2022-08-07,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Lachin,39.6404,46.5488,3,National-Regional,0,AZE
+AZE17690,2022-08-07,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Karvachar,40.1067,46.0383,3,National-Regional,0,AZE
+AZE17691,2022-08-06,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Tartar,,Martakert,40.2049,46.8156,3,Regional,0,AZE
+AZE17692,2022-08-07,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Tartar,,Martakert,40.2049,46.8156,3,Regional,0,AZE
+AZE17693,2022-08-08,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Tartar,,Martakert,40.2049,46.8156,3,Regional,0,AZE
+AZE17694,2022-08-09,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Tartar,,Martakert,40.2049,46.8156,3,Regional,0,AZE
+AZE17697,2022-08-12,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Karvachar,40.1067,46.0383,3,National-Regional,0,AZE
+AZE17698,2022-08-12,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Lachin,39.6404,46.5488,3,National-Regional,0,AZE
+AZE17700,2022-09-02,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yellija,40.0916,45.9501,2,National-Regional,0,AZE
+AZE17701,2022-08-12,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Karvachar,40.1067,46.0383,3,National-Regional,0,AZE
+AZE17703,2022-08-26,1,Strategic developments,Non-violent transfer of territory,Military Forces of Artsakh (2007-),Military Forces of Russia (2000-) Peacekeeping Contingent in Nagorno Karabakh,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Aghavno,39.5897,46.5433,1,Regional,0,AZE
+AZE17705,2022-08-26,1,Strategic developments,Non-violent transfer of territory,Military Forces of Russia (2000-) Peacekeeping Contingent in Nagorno Karabakh,,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Lachin,39.6404,46.5488,1,Regional,0,AZE
+AZE17717,2022-08-30,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Civilians (Azerbaijan),Labor Group (Azerbaijan),Azerbaijan,Qubadli,,Gubadly,39.3431,46.5809,3,National,0,AZE
+AZE17718,2022-08-20,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Lachin,39.6404,46.5488,3,National,0,AZE
+AZE17719,2022-09-02,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Karvachar,40.1067,46.0383,3,National-Regional,0,AZE
+AZE17720,2022-09-02,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Lachin,39.6404,46.5488,3,National-Regional,0,AZE
+AZE17721,2022-09-03,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Karvachar,40.1067,46.0383,3,National-Regional,0,AZE
+AZE17722,2022-09-03,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Lachin,39.6404,46.5488,3,National-Regional,0,AZE
+AZE17723,2022-09-04,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Lachin,39.6404,46.5488,3,National-Regional,0,AZE
+AZE17726,2022-09-05,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yellija,40.0916,45.9501,2,National-Regional,0,AZE
+AZE17746,2022-09-12,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Lachin,39.6404,46.5488,3,Other-National,5,AZE
+AZE17748,2022-09-13,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Zengilan,,Zangilan,39.085,46.6569,2,National-Regional,5,AZE
+AZE17750,2022-09-14,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Lachin,39.6404,46.5488,3,Other-National,5,AZE
+AZE17751,2022-09-12,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Azerbaijan (2003-),,Civilians (Azerbaijan),Armenian Group (Azerbaijan),Azerbaijan,Khojavend,,Karmir Shuka,39.6758,46.9486,1,National-Regional,0,AZE
+AZE17752,2022-09-12,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Azerbaijan (2003-),,,,Azerbaijan,Khojavend,,Taghavard,39.6692,46.9109,1,Regional,0,AZE
+AZE17755,2022-09-10,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yellija,40.0916,45.9501,2,National-Regional,0,AZE
+AZE17759,2022-09-12,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Karvachar,40.1067,46.0383,3,Other-National,5,AZE
+AZE17760,2022-09-14,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),Civilians (Azerbaijan),Azerbaijan,Kelbecer,,Karvachar,40.1067,46.0383,3,Other-National,5,AZE
+AZE17763,2022-09-14,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yellija,40.0916,45.9501,2,National-Regional,5,AZE
+AZE17766,2022-09-22,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Karvachar,40.1067,46.0383,3,National,0,AZE
+AZE17777,2022-09-27,1,Strategic developments,Disrupted weapons use,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Azerbaijan,Lacin,,Lachin,39.6404,46.5488,3,National,0,AZE
+AZE17786,2022-10-02,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Civilians (Azerbaijan),,Azerbaijan,Khojavend,,Taghavard,39.6692,46.9109,1,National,0,AZE
+AZE17796,2022-10-08,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yellija,40.0916,45.9501,2,National-Regional,0,AZE
+AZE17833,2022-10-24,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Damirchidam,40.2208,46.073,2,National,0,AZE
+AZE17840,2022-11-04,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yellija,40.0916,45.9501,2,National-Regional,0,AZE
+AZE17845,2022-11-08,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yellija,40.0916,45.9501,2,Other,0,AZE
+AZE17848,2022-11-08,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Khojavend,,Khojavend,39.795,47.1117,3,Other-Regional,0,AZE
+AZE17849,2022-11-11,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Khojavend,,Khojavend,39.795,47.1117,3,National-Regional,0,AZE
+AZE17850,2022-11-05,1,Violence against civilians,Attack,Military Forces of Azerbaijan (2003-),,Civilians (Azerbaijan),Armenian Group (Azerbaijan); Farmers (Azerbaijan),Azerbaijan,Xocali,,Khramort,39.9919,46.8369,2,National-Regional,0,AZE
+AZE17852,2022-11-05,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Civilians (Azerbaijan),Armenian Group (Azerbaijan),Azerbaijan,Xocali,,Karmirgyugh,39.7683,46.8505,1,Regional,0,AZE
+AZE17853,2022-11-07,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Karvachar,40.1067,46.0383,3,National,0,AZE
+AZE17855,2022-11-12,1,Violence against civilians,Attack,Military Forces of Azerbaijan (2003-),,Civilians (Azerbaijan),Armenian Group (Azerbaijan); Farmers (Azerbaijan),Azerbaijan,Xocali,,Khramort,39.9919,46.8369,2,Regional,0,AZE
+AZE17856,2022-11-16,1,Violence against civilians,Attack,Military Forces of Azerbaijan (2003-),,Civilians (Azerbaijan),Armenian Group (Azerbaijan); Farmers (Azerbaijan),Azerbaijan,Xocali,,Sarushen,39.7228,46.9049,2,Regional,0,AZE
+AZE17861,2022-11-14,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Khojavend,,Khojavend,39.795,47.1117,3,National-Regional,0,AZE
+AZE17862,2022-11-16,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Agdam,,Aghdam,39.9947,46.9643,3,National-Regional,0,AZE
+AZE17863,2022-11-18,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Khojavend,,Yukhari Veysalli,39.7379,47.0926,2,Other-National,0,AZE
+AZE17864,2022-11-17,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Agdam,,Aghdam,39.9947,46.9643,3,National,0,AZE
+AZE17865,2022-11-17,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Xocali,,Khojaly,39.913,46.7903,3,National,0,AZE
+AZE17870,2022-11-21,1,Violence against civilians,Attack,Military Forces of Azerbaijan (2003-),,Civilians (Azerbaijan),Armenian Group (Azerbaijan); Farmers (Azerbaijan),Azerbaijan,Khojavend,,Machkalashen,39.6938,47.0288,2,Regional,0,AZE
+AZE17874,2022-11-25,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yellija,40.0916,45.9501,2,Other-National,0,AZE
+AZE17875,2022-11-21,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Fizuli,,Fizuli,39.5982,47.1469,3,Other-National,0,AZE
+AZE17876,2022-11-22,1,Violence against civilians,Attack,Military Forces of Azerbaijan (2003-),,Civilians (Azerbaijan),Armenian Group (Azerbaijan); Farmers (Azerbaijan),Azerbaijan,Khojavend,,Machkalashen,39.6938,47.0288,2,Regional,0,AZE
+AZE17877,2022-11-21,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Khojavend,,Khojavend,39.795,47.1117,3,Other-National,0,AZE
+AZE17878,2022-11-22,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Fizuli,,Fizuli,39.5982,47.1469,3,National-Regional,0,AZE
+AZE17879,2022-11-22,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Xocali,,Khojaly,39.913,46.7903,3,National-Regional,0,AZE
+AZE17880,2022-11-22,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Khojavend,,Khojavend,39.795,47.1117,3,National-Regional,0,AZE
+AZE17885,2022-11-25,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Agdam,,Aghdam,39.9947,46.9643,3,National-Regional,0,AZE
+AZE17886,2022-11-25,1,Violence against civilians,Attack,Military Forces of Azerbaijan (2003-),,Civilians (Azerbaijan),Armenian Group (Azerbaijan); Farmers (Azerbaijan),Azerbaijan,Khojavend,,Taghavard,39.6692,46.9109,2,Regional,0,AZE
+AZE17887,2022-11-25,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Khojavend,,Khojavend,39.795,47.1117,3,National-Regional,0,AZE
+AZE17888,2022-11-26,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Agdam,,Aghdam,39.9947,46.9643,3,National-Regional,0,AZE
+AZE17890,2022-11-26,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Fizuli,,Fizuli,39.5982,47.1469,3,National-Regional,0,AZE
+AZE17891,2022-11-26,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Khojavend,,Khojavend,39.795,47.1117,3,National-Regional,0,AZE
+AZE17893,2022-11-26,1,Strategic developments,Looting/property destruction,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Xocali,,Shushikend,39.7707,46.7878,2,National-Regional,0,AZE
+AZE17894,2022-11-27,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Agdam,,Aghdam,39.9947,46.9643,3,National-Regional,0,AZE
+AZE17897,2022-11-27,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Xocali,,Khojaly,39.913,46.7903,3,Other-Regional,0,AZE
+AZE17898,2022-11-27,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Khojavend,,Khojavend,39.795,47.1117,3,National-Regional,0,AZE
+AZE17901,2022-11-27,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yellija,40.0916,45.9501,2,National-Regional,0,AZE
+AZE17902,2022-11-28,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Fizuli,,Fizuli,39.5982,47.1469,3,Other-National,0,AZE
+AZE17903,2022-11-28,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Xocali,,Khojaly,39.913,46.7903,3,Other-National,0,AZE
+AZE17904,2022-11-28,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Khojavend,,Khojavend,39.795,47.1117,3,Other-National,0,AZE
+AZE17908,2022-11-28,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yellija,40.0916,45.9501,2,National,0,AZE
+AZE17909,2022-11-29,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Agdam,,Aghdam,39.9947,46.9643,3,Other-Regional,0,AZE
+AZE17910,2022-11-29,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Xocali,,Askeran,39.9408,46.8323,3,Regional,0,AZE
+AZE17912,2022-11-29,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Zengilan,,Keren,39.1236,46.5412,2,Other,0,AZE
+AZE17913,2022-11-29,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Tartar,,Martakert,40.2049,46.8156,3,Regional,0,AZE
+AZE17914,2022-11-29,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yellija,40.0916,45.9501,2,Other,0,AZE
+AZE17915,2022-11-30,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Agdam,,Aghdam,39.9947,46.9643,3,National-Regional,0,AZE
+AZE17918,2022-12-03,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Khojavend,,Khojavend,39.795,47.1117,3,National-Regional,0,AZE
+AZE17922,2022-12-04,1,Violence against civilians,Attack,Military Forces of Azerbaijan (2003-),,Civilians (Azerbaijan),Armenian Group (Azerbaijan),Azerbaijan,Kelbecer,,Getavan,40.1299,46.4586,1,Regional,0,AZE
+AZE17931,2022-12-14,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yellija,40.0916,45.9501,2,Other,0,AZE
+AZE17943,2022-12-15,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Agdam,,Aghdam,39.9947,46.9643,2,Other-Regional,0,AZE
+AZE17944,2022-12-15,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Khojavend,,Khojavend,39.795,47.1117,3,Other-Regional,0,AZE
+AZE17945,2022-12-16,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Khojavend,,Khojavend,39.795,47.1117,3,Other-Regional,0,AZE
+AZE18796,2022-01-27,2,Strategic developments,Looting/property destruction,Military Forces of Azerbaijan (2003-),,Civilians (Azerbaijan),Armenian Group (Azerbaijan); Orthodox Christian Group (Azerbaijan),Azerbaijan,Khojavend,,Vank,39.5112,47.0183,1,Regional,0,AZE
+AZE18797,2022-04-27,2,Strategic developments,Looting/property destruction,Military Forces of Azerbaijan (2003-),,Civilians (Azerbaijan),Armenian Group (Azerbaijan); Orthodox Christian Group (Azerbaijan),Azerbaijan,Khojavend,,Hadrut,39.5162,47.0325,1,National,0,AZE
+AZE18930,2022-05-08,2,Strategic developments,Looting/property destruction,Military Forces of Azerbaijan (2003-),,Civilians (Azerbaijan),Armenian Group (Azerbaijan),Azerbaijan,Khojavend,,Azokh,39.6217,46.9773,1,Other,0,AZE
+AZE18932,2022-05-14,2,Strategic developments,Looting/property destruction,Military Forces of Azerbaijan (2003-),,Civilians (Azerbaijan),Armenian Group (Azerbaijan),Azerbaijan,Khojavend,,Mets Tagher,39.6197,46.9512,1,Other,0,AZE
+AZE18933,2022-10-11,2,Strategic developments,Looting/property destruction,Military Forces of Azerbaijan (2003-),,Civilians (Azerbaijan),Armenian Group (Azerbaijan),Azerbaijan,Khojavend,,Mokhrenes,39.5697,46.9308,1,Other,0,AZE
+AZE18934,2022-11-10,2,Strategic developments,Looting/property destruction,Military Forces of Azerbaijan (2003-),,Civilians (Azerbaijan),Armenian Group (Azerbaijan),Azerbaijan,Khojavend,,Mets Tagher,39.6197,46.9512,1,Other,0,AZE
+AZE17646,2022-07-13,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yukhari Ayrim,40.1466,46.0038,2,National-Regional,0,AZE
+AZE17644,2022-07-08,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yukhari Ayrim,40.1466,46.0038,2,National-Regional,0,AZE
+AZE17643,2022-07-07,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yukhari Ayrim,40.1466,46.0038,2,National,0,AZE
+AZE17642,2022-07-06,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yukhari Ayrim,40.1466,46.0038,2,Other-National,0,AZE
+AZE17639,2022-06-29,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yukhari Ayrim,40.1466,46.0038,2,National-Regional,0,AZE
+AZE17637,2022-06-24,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Minkend,39.7094,46.2538,2,Other-National,0,AZE
+AZE17634,2022-06-20,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Minkend,39.7094,46.2538,2,Other-National,0,AZE
+AZE17632,2022-06-19,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zivel,39.9791,45.9436,2,National,0,AZE
+AZE17631,2022-06-18,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zivel,39.9791,45.9436,2,National,0,AZE
+AZE17629,2022-06-18,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Barmagbina,40.1083,45.9965,2,National,0,AZE
+AZE17630,2022-06-18,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yukhari Ayrim,40.1466,46.0038,2,National,0,AZE
+AZE17622,2022-06-02,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zeylik,40.0209,45.9341,2,National-Regional,0,AZE
+AZE17618,2022-05-31,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zeylik,40.0209,45.9341,2,Other-Regional,0,AZE
+AZE17616,2022-05-30,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zivel,39.9791,45.9436,2,National-Regional,0,AZE
+AZE17615,2022-05-28,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Civilians (Azerbaijan),Farmers (Azerbaijan),Azerbaijan,Fizuli,,Gorazilli,39.4932,47.0879,1,International,0,AZE
+AZE17601,2022-05-18,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zeylik,40.0209,45.9341,2,Other-National,0,AZE
+AZE17599,2022-05-17,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Barmagbina,40.1083,45.9965,2,National,0,AZE
+AZE17596,2022-05-14,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zeylik,40.0209,45.9341,2,National-Regional,0,AZE
+AZE17594,2022-05-11,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yukhari Ayrim,40.1466,46.0038,2,National-Regional,0,AZE
+AZE17595,2022-05-11,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zeylik,40.0209,45.9341,2,National-Regional,0,AZE
+AZE17593,2022-05-09,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yukhari Ayrim,40.1466,46.0038,2,National-Regional,0,AZE
+AZE18931,2022-05-08,2,Strategic developments,Looting/property destruction,Military Forces of Azerbaijan (2003-),,Civilians (Azerbaijan),Armenian Group (Azerbaijan),Azerbaijan,Tartar,,Mataghis,40.3278,46.7342,1,Other,0,AZE
+AZE17582,2022-04-29,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Civilians (Azerbaijan),,Azerbaijan,Lacin,,Khachgetik,39.5276,46.6305,1,Regional-International,1,AZE
+AZE17575,2022-04-19,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Military Forces of Azerbaijan (2003-),,Azerbaijan,Khojavend,,Khandzadzor,39.5006,46.8831,1,International,0,AZE
+AZE17510,2022-03-10,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Barmagbina,40.1083,45.9965,2,National,0,AZE
+AZE17512,2022-03-10,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yukhari Ayrim,40.1466,46.0038,2,National,0,AZE
+AZE17533,2022-03-10,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Fizuli,,Kyurtlar,39.5411,47.2036,2,National,0,AZE
+AZE17499,2022-02-23,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Ahmedli,39.6844,46.2861,2,Other-National,0,AZE
+AZE17501,2022-02-23,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zeylik,40.0209,45.9341,2,Other-National,0,AZE
+AZE17484,2022-02-14,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Barmagbina,40.1083,45.9965,2,National-Regional,0,AZE
+AZE17483,2022-02-11,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zeylik,40.0209,45.9341,2,National-Regional,0,AZE
+AZE17480,2022-02-09,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zeylik,40.0209,45.9341,2,National-Regional,0,AZE
+AZE17474,2022-01-28,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Civilians (Azerbaijan),Farmers (Azerbaijan),Azerbaijan,Fizuli,,Uchbulag,39.5888,47.0322,1,National,0,AZE
+AZE17928,2022-12-29,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zeylik,40.0209,45.9341,2,National-Regional,0,AZE
+AZE17924,2022-12-22,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Bazirkhana,40.0009,45.9438,2,National,0,AZE
+AZE17925,2022-12-22,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Mollabayramli,39.9844,45.9416,2,National,0,AZE
+AZE17926,2022-12-22,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zeylik,40.0209,45.9341,2,National,0,AZE
+AZE17942,2022-12-17,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Nagdaly,39.9075,46.4194,2,National-Regional,0,AZE
+AZE17923,2022-12-16,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zeylik,40.0209,45.9341,2,National-Regional,0,AZE
+AZE17941,2022-12-16,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zeylik,40.0209,45.9341,2,Other-Regional,0,AZE
+AZE17937,2022-12-15,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Ahmedli,39.6844,46.2861,2,Other-Regional,0,AZE
+AZE17929,2022-12-14,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Ahmedli,39.6844,46.2861,2,Other,0,AZE
+AZE17932,2022-12-14,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zeylik,40.0209,45.9341,2,Other,0,AZE
+AZE17940,2022-12-14,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Military Forces of Azerbaijan (2003-),Civilians (Azerbaijan); Labor Group (Azerbaijan),Azerbaijan,Kelbecer,,Chirag,39.9743,45.9545,1,National,1,AZE
+AZE17920,2022-12-07,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Aghgaya,40.109,46.3304,2,National-Regional,0,AZE
+AZE17919,2022-12-04,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zeylik,40.0209,45.9341,2,National-Regional,0,AZE
+AZE17916,2022-11-30,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Bazirkhana,40.0009,45.9438,2,National-Regional,0,AZE
+AZE17911,2022-11-29,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Hajilar,39.6483,46.3741,2,Other,0,AZE
+AZE17873,2022-11-25,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Istisu,39.9497,45.9602,2,Other-National,0,AZE
+AZE17869,2022-11-22,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Istisu,39.9497,45.9602,2,National,0,AZE
+AZE17871,2022-11-22,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yukhari Ayrim,40.1466,46.0038,2,National-Regional,0,AZE
+AZE17860,2022-11-18,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Mollabayramli,39.9844,45.9416,2,National-Regional,0,AZE
+AZE17859,2022-11-15,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Mollabayramli,39.9844,45.9416,2,National-Regional,0,AZE
+AZE17858,2022-11-13,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Istisu,39.9497,45.9602,2,National-Regional,0,AZE
+AZE17847,2022-11-11,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Bazirkhana,40.0009,45.9438,2,National,0,AZE
+AZE17844,2022-11-08,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Mollabayramli,39.9844,45.9416,2,Other,0,AZE
+AZE17846,2022-11-08,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zeylik,40.0209,45.9341,2,Other,0,AZE
+AZE17841,2022-11-06,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Bazirkhana,40.0009,45.9438,2,National,0,AZE
+AZE17842,2022-11-06,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Mollabayramli,39.9844,45.9416,2,National,0,AZE
+AZE17839,2022-11-04,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Mollabayramli,39.9844,45.9416,2,National-Regional,0,AZE
+AZE17838,2022-11-03,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Bazirkhana,40.0009,45.9438,2,National-Regional,0,AZE
+AZE17837,2022-11-02,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Civilians (Azerbaijan),Labor Group (Azerbaijan),Azerbaijan,Jabrayil,,Mehdili,39.3825,47.2776,1,National,0,AZE
+AZE17834,2022-10-24,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Istibulag,40.1752,46.0502,2,National,0,AZE
+AZE17835,2022-10-24,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Istisu,39.9497,45.9602,2,National,0,AZE
+AZE17828,2022-10-21,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Civilians (Azerbaijan),,Azerbaijan,Lacin,,Suarasi,39.5648,46.6711,1,National,1,AZE
+AZE17829,2022-10-21,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zeylik,40.0209,45.9341,2,National-Regional,0,AZE
+AZE17825,2022-10-20,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Mollabayramli,39.9844,45.9416,2,National-Regional,0,AZE
+AZE17826,2022-10-20,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zeylik,40.0209,45.9341,2,National-Regional,0,AZE
+AZE17823,2022-10-19,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Mollabayramli,39.9844,45.9416,2,National,0,AZE
+AZE17815,2022-10-15,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Jemilli,40.2458,46.0652,2,National-Regional,0,AZE
+AZE17817,2022-10-15,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Mollabayramli,39.9844,45.9416,2,National-Regional,0,AZE
+AZE17818,2022-10-15,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Tsitsernavank,39.6438,46.4098,2,National-Regional,0,AZE
+AZE17810,2022-10-14,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Mollabayramli,39.9844,45.9416,2,National-Regional,0,AZE
+AZE17813,2022-10-14,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Hajilar,39.6483,46.3741,2,National,0,AZE
+AZE17808,2022-10-13,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Istisu,39.9497,45.9602,2,National-Regional,0,AZE
+AZE17809,2022-10-13,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Mollabayramli,39.9844,45.9416,2,National-Regional,0,AZE
+AZE17797,2022-10-09,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Istisu,39.9497,45.9602,2,National-Regional,0,AZE
+AZE17798,2022-10-09,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Malybey,39.6202,46.4355,2,National-Regional,0,AZE
+AZE17801,2022-10-09,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Mollabayramli,39.9844,45.9416,2,National-Regional,0,AZE
+AZE17803,2022-10-09,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zeylik,40.0209,45.9341,2,National-Regional,0,AZE
+AZE17793,2022-10-05,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zivel,39.9791,45.9436,2,National,0,AZE
+AZE17789,2022-10-03,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Istisu,39.9497,45.9602,2,National,0,AZE
+AZE17790,2022-10-03,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zeylik,40.0209,45.9341,2,National,0,AZE
+AZE17791,2022-10-03,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zivel,39.9791,45.9436,2,National,0,AZE
+AZE17782,2022-09-30,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Civilians (Azerbaijan),,Azerbaijan,Fizuli,,Yukhari Dilagorda,39.7113,47.1605,1,National,2,AZE
+AZE17767,2022-09-23,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Barmagbina,40.1083,45.9965,2,National-Regional,0,AZE
+AZE17768,2022-09-23,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Keshdak,40.0694,46.0138,2,National-Regional,0,AZE
+AZE17783,2022-09-23,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Istisu,39.9497,45.9602,2,National,0,AZE
+AZE17784,2022-09-23,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zeylik,40.0209,45.9341,2,National,0,AZE
+AZE17764,2022-09-14,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yukhari Ayrim,40.1466,46.0038,2,National-Regional,5,AZE
+AZE17765,2022-09-14,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zeylik,40.0209,45.9341,2,National-Regional,5,AZE
+AZE17747,2022-09-13,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Ahmedli,39.6844,46.2861,2,National-Regional,5,AZE
+AZE17745,2022-09-11,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Tsitsernavank,39.6438,46.4098,2,Regional-International,0,AZE
+AZE17758,2022-09-11,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Aghgaya,40.109,46.3304,2,Regional-International,0,AZE
+AZE17744,2022-09-10,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Sadinlar,39.6538,46.3481,2,National-Regional,0,AZE
+AZE17756,2022-09-10,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yukhari Ayrim,40.1466,46.0038,2,National-Regional,0,AZE
+AZE17757,2022-09-10,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zeylik,40.0209,45.9341,2,National-Regional,0,AZE
+AZE17736,2022-09-09,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Ahmedli,39.6844,46.2861,2,National-Regional,0,AZE
+AZE17737,2022-09-09,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Hajilar,39.6483,46.3741,2,National-Regional,0,AZE
+AZE17738,2022-09-09,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zivel,39.9791,45.9436,2,National-Regional,0,AZE
+AZE17753,2022-09-09,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zeylik,40.0209,45.9341,2,National-Regional,0,AZE
+AZE17733,2022-09-08,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Ahmedli,39.6844,46.2861,2,National-Regional,0,AZE
+AZE17734,2022-09-08,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Hajilar,39.6483,46.3741,2,National-Regional,0,AZE
+AZE17735,2022-09-08,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zivel,39.9791,45.9436,2,National-Regional,0,AZE
+AZE17731,2022-09-07,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Ahmedli,39.6844,46.2861,2,Other-Regional,0,AZE
+AZE17732,2022-09-07,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Istisu,39.9497,45.9602,2,National,0,AZE
+AZE17728,2022-09-06,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Ahmedli,39.6844,46.2861,2,National-Regional,0,AZE
+AZE17729,2022-09-06,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zeylik,40.0209,45.9341,2,National-Regional,0,AZE
+AZE17727,2022-09-05,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zivel,39.9791,45.9436,2,National-Regional,0,AZE
+AZE17724,2022-09-04,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Yukhari Ayrim,40.1466,46.0038,2,National-Regional,0,AZE
+AZE17725,2022-09-04,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zeylik,40.0209,45.9341,2,National-Regional,0,AZE
+AZE17704,2022-08-26,1,Strategic developments,Non-violent transfer of territory,Military Forces of Artsakh (2007-),Military Forces of Russia (2000-) Peacekeeping Contingent in Nagorno Karabakh,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Sus,39.6269,46.5127,1,Regional,0,AZE
+AZE17672,2022-08-02,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Civilians (Azerbaijan),,Azerbaijan,Fizuli,,Karakhanbeyli,39.5994,47.2672,1,National,0,AZE
+AZE17669,2022-08-01,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Kelbecer,,Nareshtar,40.0393,46.408,2,National-Regional,0,AZE
+AZE17655,2022-07-25,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Lacin,,Minkend,39.7094,46.2538,2,National-Regional,0,AZE
+AZE17652,2022-07-16,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Kelbecer,,Zeylik,40.0209,45.9341,2,National-Regional,0,AZE
+AZE17648,2022-07-14,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Military Forces,,Civilians (Azerbaijan),,Azerbaijan,Jabrayil,,Dagh Tumas,39.3744,46.7624,1,National,0,AZE
+AZE17556,2022-03-24,1,Battles,Government regains territory,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Xocali,,Parukh,40.0163,46.8011,1,Regional,0,AZE
+AZE17673,2022-08-03,1,Explosions/Remote violence,Air/drone strike,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Kelbecer,,Baghirli,40.2063,46.285,2,National-Regional,1,AZE
+AZE17676,2022-08-03,1,Explosions/Remote violence,Air/drone strike,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Shusha,,Yeghtsahogh,39.6772,46.5875,2,National-Regional,1,AZE
+AZE17936,2022-12-12,1,Strategic developments,Change to group/activity,Military Forces of Azerbaijan (2003-),Civilians (Azerbaijan),,,Azerbaijan,Shusha,,Shusha,39.7601,46.7499,2,New media-Regional,0,AZE
+AZE17537,2022-03-04,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Khojavend,,Norshen,39.8497,46.978,2,Regional,0,AZE
+AZE17538,2022-03-05,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Artsakh (2007-),,Azerbaijan,Khojavend,,Norshen,39.8497,46.978,2,Regional,0,AZE
+AZE17520,2022-03-07,1,Battles,Armed clash,Military Forces of Artsakh (2007-),,Military Forces of Azerbaijan (2003-),,Azerbaijan,Agdam,,Papravand,40.1534,46.8452,2,National-Regional,0,AZE

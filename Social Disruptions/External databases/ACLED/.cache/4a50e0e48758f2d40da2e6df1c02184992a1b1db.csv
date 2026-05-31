@@ -1,0 +1,823 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities
+MLI4115,2019-01-23,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Aid Workers (Mali); Women (International),Mali,Gao,Gao,Gao,16.2717,-0.0447,1,Local partner-Other,0
+MLI3383,2019-12-30,1,Protests,Peaceful protest,Protesters (Mali),Students (Mali),,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI3374,2019-12-29,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),,Mali,Mopti,Koro,Anamoella,14.311,-3.1942,1,New media,0
+MLI3380,2019-12-29,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Madougou,14.3992,-3.0788,2,New media,3
+MLI3376,2019-12-29,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Douentza,Bore,15.1333,-3.4833,1,New media,1
+MLI3375,2019-12-29,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Bombou,14.4347,-3.2323,1,New media,3
+MLI3373,2019-12-28,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),,Mali,Mopti,Koro,Yoro,14.2793,-2.1354,1,New media,2
+MLI3367,2019-12-26,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bandiagara,Diamangolo,14.6257,-3.7091,1,Local partner-New media,1
+MLI3365,2019-12-25,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Dan Na Ambassagou,,Mali,Mopti,Bandiagara,Kirou,15.0526,-3.366,1,New media,20
+MLI3364,2019-12-25,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Dan Na Ambassagou,,Mali,Mopti,Bandiagara,Dempare,15.0434,-3.369,1,New media,5
+MLI3361,2019-12-23,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Dan Na Ambassagou,,Mali,Mopti,Bandiagara,Docoumbo,14.3549,-3.6561,2,New media,2
+MLI3359,2019-12-22,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Domoni,14.28,-2.995,2,New media,2
+MLI3356,2019-12-21,1,Battles,Armed clash,CMA: Coordination of Movements of the Azawad,,MSA: Movement for Azawad Salvation,,Mali,Menaka,Anderamboukane,In Chinnana,15.6063,3.3791,2,Other-New media,4
+MLI3352,2019-12-19,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Douentza,Mondoro,14.6762,-1.9513,2,New media-International,2
+MLI3353,2019-12-19,1,Strategic developments,Looting/property destruction,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Dogon Ethnic Group (Mali); Women (Mali),Mali,Mopti,Douentza,Mondoro,14.6762,-1.9513,2,New media,0
+MLI3348,2019-12-18,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Douentza,Gono,15.062,-2.7898,2,New media-National,2
+MLI3347,2019-12-18,1,Battles,Armed clash,Military Forces of Mali (2013-2020),,JNIM: Group for Support of Islam and Muslims,,Mali,Mopti,Douentza,Boni,15.0766,-2.2198,2,National,2
+MLI4118,2019-12-16,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Mali),,Civilians (Mali),Aid Workers (Mali),Mali,Mopti,Youwarou,Youwarou,15.3684,-4.2628,1,Local partner-Other,0
+MLI3342,2019-12-15,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Koro,Binedama,14.4639,-3.0594,1,New media,2
+MLI3341,2019-12-13,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,New media,0
+MLI3339,2019-12-12,1,Violence against civilians,Attack,Dozo Communal Militia (Mali),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Koro,Koro,14.0778,-3.0832,1,New media,2
+MLI3338,2019-12-12,1,Violence against civilians,Attack,Military Forces of Mali (2013-2020),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Koro,Siguimara,14.5227,-3.0789,2,New media-National,4
+MLI3335,2019-12-09,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Banani,14.4581,-3.288,1,New media,1
+MLI3329,2019-12-06,1,Battles,Armed clash,Military Forces of Mali (2013-2020),,JNIM: Group for Support of Islam and Muslims,,Mali,Mopti,Bandiagara,Parou,14.1891,-3.7488,2,National,5
+MLI3327,2019-12-05,1,Battles,Armed clash,Military Forces of Mali (2013-2020),,JNIM: Group for Support of Islam and Muslims,,Mali,Mopti,Bandiagara,Ouo,14.1013,-3.7846,2,National,2
+MLI3328,2019-12-05,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Yane,14.4281,-3.3145,2,New media,3
+MLI3326,2019-12-05,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Labor Group (Mali); Teachers (Mali),Mali,Gao,Ansongo,Ansongo,15.6597,0.5022,2,National,0
+MLI3323,2019-12-03,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Labor Group (Mali),Mali,Mopti,Bandiagara,Parou,14.1891,-3.7488,2,National,1
+MLI3322,2019-12-02,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Koro,Tondo Erkokoni,14.2579,-2.5728,2,New media-National,2
+MLI3318,2019-12-01,1,Battles,Armed clash,Unidentified Armed Group (Mali),,Police Forces of Mali (2013-2020) Gendarmerie,,Mali,Menaka,Menaka,Menaka,15.9182,2.4022,1,National,2
+MLI3314,2019-11-30,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Koro,Tondo Erkokoni,14.2579,-2.5728,2,New media,3
+MLI3316,2019-11-28,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Koulikoro,Koulikoro,Koulikoro,12.87,-7.56,1,National,0
+MLI3309,2019-11-25,1,Protests,Peaceful protest,Protesters (Mali),Fulani Ethnic Group (Mali),,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,New media,0
+MLI3307,2019-11-23,1,Protests,Peaceful protest,Protesters (Mali),Dogon Ethnic Group (Mali),,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI3315,2019-11-16,1,Violence against civilians,Attack,Zamana Communal Militia (Mali),,Civilians (Mali),Labor Group (Mali),Mali,Sikasso,Yanfolila,Zamana,10.9333,-8.1167,2,National,0
+MLI3306,2019-11-08,1,Protests,Peaceful protest,Protesters (Mali),Women (Mali),,,Mali,Koulikoro,Kati,Kati,12.7482,-8.0722,1,Other,0
+MLI3216,2019-09-30,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Douentza,Mondoro,14.6762,-1.9513,1,National-International,27
+MLI3223,2019-09-27,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Mali),,Civilians (Mali),Aid Workers (Mali),Mali,Mopti,Douentza,Wally,15.2947,-1.5591,1,Local partner-Other,0
+MLI3176,2019-09-11,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Koro,Tondo Erkokoni,14.2579,-2.5728,2,Other-New media,2
+MLI3105,2019-08-12,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bandiagara,Doundioulou,14.292,-3.7057,1,New media-Subnational,0
+MLI3103,2019-08-11,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bandiagara,Doundioulou,14.292,-3.7057,1,New media-Subnational,0
+MLI4117,2019-08-05,1,Violence against civilians,Sexual violence,Unidentified Armed Group (Mali),,Civilians (Mali),Aid Workers (Mali); Women (Mali),Mali,Menaka,Menaka,Menaka,15.9182,2.4022,1,Local partner-Other,0
+MLI3068,2019-07-25,1,Battles,Armed clash,Tourmouz Clan Militia (Mali),Arab Ethnic Militia (Mali),Oulad Aich Clan Militia (Mali),Arab Ethnic Militia (Mali),Mali,Tombouctou,Goundam,Lerneb,16.3287,-4.9591,2,Other-National,5
+MLI3058,2019-07-19,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,New media,0
+MLI3269,2019-07-03,3,Strategic developments,Other,Police Forces of Mali (2013-2020),,,,Mali,Mopti,Mopti,Mopti,14.4891,-4.1928,1,National,0
+MLI2990,2019-06-25,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Dan Na Ambassagou,,Mali,Mopti,Bandiagara,Perou-Peulh,14.1098,-4.0874,1,National,6
+MLI3006,2019-04-17,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Mali),,Civilians (Mali),Aid Workers (Mali),Mali,Mopti,Douentza,Douentza,14.9951,-2.9517,2,Local partner-Other,0
+MLI4359,2019-03-05,1,Protests,Peaceful protest,Protesters (Mali),Teachers (Mali),,,Mali,Kayes,Bafoulabe,Bafoulabe,13.8089,-10.8342,1,New media,0
+MLI4114,2019-02-22,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Police Forces of Mali (2013-2020) Gendarmerie,,Mali,Segou,San,Kimparana,12.837,-4.9258,1,Local partner-New media,0
+MLI2668,2019-02-15,2,Strategic developments,Arrests,Military Forces of Mali (2013-2020),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Douentza,Moniekana,14.6769,-1.6689,2,New media,0
+MLI4116,2019-02-08,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Mali),,Civilians (Mali),Aid Workers (Mali),Mali,Mopti,Mopti,Mopti,14.4891,-4.1928,3,Local partner-Other,0
+MLI2591,2019-01-20,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),,Mali,Kidal,Tessalit,Aguelhok,19.4695,0.856,1,Local partner-New media,14
+MLI2766,2019-04-03,1,Explosions/Remote violence,Shelling/artillery/missile attack,JNIM: Group for Support of Islam and Muslims,,MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),,Mali,Kidal,Kidal,Kidal,18.44,1.41,1,National-International,1
+MLI3034,2019-07-08,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),,Mali,Kidal,Kidal,Kidal,18.44,1.41,1,New media-National,0
+MLI3224,2019-10-06,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),,Mali,Kidal,Tessalit,Aguelhok,19.4695,0.856,2,National-International,1
+MLI3336,2019-12-10,1,Strategic developments,Other,Government of Mali (2013-2020),,Civilians (Mali),MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National-International,0
+MLI3039,2019-07-11,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),,Mali,Kidal,Kidal,Kidal,18.44,1.41,2,Other,0
+MLI2926,2019-05-30,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),,Mali,Kidal,Kidal,Kidal,18.44,1.41,1,New media,0
+MLI3385,2019-12-30,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Labor Group (Mali),Mali,Mopti,Koro,Bargou,13.9322,-2.9586,1,New media,2
+MLI3378,2019-12-29,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),,Mali,Mopti,Koro,Kindi,14.2219,-2.1647,1,New media,1
+MLI3357,2019-12-21,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Segou,Niono,Molodo,14.2387,-6.0241,1,National,0
+MLI3349,2019-12-15,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Koro,Sobangouma,14.182,-2.6574,2,New media-National,2
+MLI5956,2019-11-11,1,Violence against civilians,Attack,Military Forces of Niger (2011-2021),,Civilians (Mali),,Mali,Gao,Ansongo,Tamakaza,15.1598,0.7969,1,New media,0
+MLI5955,2019-11-06,2,Strategic developments,Looting/property destruction,Military Forces of Niger (2011-2021),,Civilians (Mali),Aid Workers (Mali),Mali,Gao,Ansongo,Tamakaza,15.1598,0.7969,1,New media,0
+MLI3305,2019-11-22,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Police Forces of Mali (2013-2020) Gendarmerie,,Mali,Mopti,Bandiagara,Mandoli,14.0615,-3.7861,1,Other-New media,2
+MLI3301,2019-11-18,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Banani,14.4581,-3.288,1,New media,0
+MLI3302,2019-11-18,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Ibi,14.4809,-3.2632,1,New media,0
+MLI3303,2019-11-18,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Neni,14.4652,-3.2733,1,New media,0
+MLI3295,2019-11-15,1,Protests,Peaceful protest,Protesters (Mali),Labor Group (Mali),,,Mali,Kayes,Kayes,Kayes,14.4417,-11.4341,2,National,0
+MLI3291,2019-11-15,1,Violence against civilians,Attack,Military Forces of Mali (2013-2020),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Douentza,Mondoro,14.6762,-1.9513,2,New media-National,9
+MLI3289,2019-11-15,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National-International,0
+MLI3288,2019-11-14,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Kayes,Kita,Kita,13.0346,-9.4856,2,National,0
+MLI3287,2019-11-13,1,Violence against civilians,Attack,Dozo Communal Militia (Mali),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bankass,Pe,13.3971,-3.9481,1,New media-National,20
+MLI3283,2019-11-09,1,Strategic developments,Looting/property destruction,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Students (Mali); Teachers (Mali),Mali,Mopti,Bandiagara,Deguembere,14.3395,-3.761,1,New media,0
+MLI3279,2019-11-09,1,Strategic developments,Looting/property destruction,Military Forces of Mali (2013-2020),,JNIM: Group for Support of Islam and Muslims,,Mali,Mopti,Mopti,Konna,14.9441,-3.8904,2,National,0
+MLI3278,2019-11-08,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National-International,0
+MLI3282,2019-11-07,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Dan Na Ambassagou,,Mali,Mopti,Bandiagara,Deguembere,14.3395,-3.761,1,New media,0
+MLI3256,2019-10-26,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Dan Na Ambassagou,,Mali,Mopti,Bandiagara,Doundioulou,14.292,-3.7057,2,Subnational,5
+MLI3247,2019-10-25,1,Violence against civilians,Abduction/forced disappearance,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Teachers (Mali); Students (Mali),Mali,Mopti,Mopti,Korientze,15.3943,-3.7818,1,New media-National,0
+MLI3257,2019-10-25,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Dan Na Ambassagou,,Mali,Mopti,Bandiagara,Doundioulou,14.292,-3.7057,2,New media,10
+MLI3255,2019-10-24,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Kayes,Kita,Kita,13.0346,-9.4856,1,National,0
+MLI3246,2019-10-21,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,,,Mali,Mopti,Koro,Bih,13.9104,-2.9295,1,New media-National,0
+MLI3244,2019-10-18,1,Strategic developments,Other,Dan Na Ambassagou,,Military Forces of Mali (2013-2020),,Mali,Mopti,Bandiagara,Bandiagara,14.3493,-3.6102,1,New media,0
+MLI3274,2019-10-09,1,Battles,Armed clash,Military Forces of France (2017-),Military Forces of Mali (2013-2020); Military Forces of the United States (2017-2021),JNIM: Group for Support of Islam and Muslims,,Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,3,International,1
+MLI3293,2019-11-16,1,Strategic developments,Looting/property destruction,Dozo Communal Militia (Mali),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bankass,Bidi,13.4672,-3.9183,1,National,0
+MLI3270,2019-10-30,1,Battles,Armed clash,Dan Na Ambassagou,,Military Forces of Mali (2013-2020),,Mali,Mopti,Bandiagara,Bandiagara,14.3493,-3.6102,1,New media,0
+MLI3231,2019-10-07,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Mali),,Civilians (Mali),ICRC: International Committee of the Red Cross and Red Crescent; Aid Workers (Mali),Mali,Menaka,Menaka,Menaka,15.9182,2.4022,1,New media,0
+MLI3233,2019-10-07,1,Explosions/Remote violence,Air/drone strike,Military Forces of Mali (2013-2020),,JNIM: Group for Support of Islam and Muslims,,Mali,Mopti,Douentza,Kougnan,14.5045,-1.7855,2,New media,0
+MLI3232,2019-10-07,1,Strategic developments,Looting/property destruction,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bankass,Guiwagou,13.9924,-3.5615,1,New media,0
+MLI3227,2019-10-06,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Koro,Sogou,14.7538,-3.0013,1,New media,1
+MLI3226,2019-10-06,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Koro,Berda,14.7361,-3.0449,1,New media,0
+MLI3225,2019-10-06,1,Battles,Armed clash,Unidentified Armed Group (Mali),,MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),Military Forces of Togo (2005-),Mali,Mopti,Bandiagara,Bandiagara,14.3493,-3.6102,1,New media-National,1
+MLI3222,2019-10-05,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Kassa,14.7247,-3.0663,1,Subnational,0
+MLI3221,2019-10-05,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dozo Communal Militia (Mali),Mali,Mopti,Koro,Bih,13.9104,-2.9295,1,New media-Subnational,1
+MLI3218,2019-10-03,1,Violence against civilians,Abduction/forced disappearance,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Douentza,Petaka,15.02,-2.849,2,New media,0
+MLI3220,2019-10-02,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Douentza,Petaka,15.02,-2.849,2,New media,3
+MLI3217,2019-09-30,1,Strategic developments,Looting/property destruction,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),,Mali,Mopti,Koro,Dounapen,14.3467,-2.8059,1,Subnational,0
+MLI3219,2019-09-30,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bankass,Kourouni,13.4594,-3.8683,2,Subnational,2
+MLI3210,2019-09-26,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Kidal,Kidal,Kidal,18.44,1.41,1,New media-National,0
+MLI3211,2019-09-23,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,2,National,0
+MLI3209,2019-09-23,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Koulikoro,Koulikoro,Koulikoro,12.87,-7.56,1,National,0
+MLI3214,2019-09-23,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),,Mali,Mopti,Douentza,Batouma,14.9961,-3.614,2,New media-Subnational,1
+MLI3213,2019-09-23,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Balaguina-Habe,13.9827,-4.0353,1,Subnational-International,0
+MLI3198,2019-09-20,1,Protests,Peaceful protest,Protesters (Mali),Dan Na Ambassagou,,,Mali,Mopti,Bandiagara,Bandiagara,14.3493,-3.6102,1,New media-Subnational,0
+MLI3192,2019-09-19,1,Battles,Armed clash,Arab Ethnic Militia (Mali),,Songhai Ethnic Militia (Mali),,Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,1,National,1
+MLI3204,2019-09-19,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Arab Ethnic Group (Mali),Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,1,International,2
+MLI3208,2019-09-19,1,Explosions/Remote violence,Shelling/artillery/missile attack,JNIM: Group for Support of Islam and Muslims,,MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),,Mali,Tombouctou,Tombouctou,Ber,16.8349,-2.5319,1,New media,0
+MLI3202,2019-09-18,1,Violence against civilians,Attack,Songhai Ethnic Militia (Mali),Songhai Ethnic Militia (Mali),Civilians (Mali),Arab Ethnic Group (Mali),Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,1,National-International,0
+MLI3203,2019-09-18,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Songhai Ethnic Group (Mali),Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,1,National,0
+MLI3196,2019-09-17,1,Protests,Peaceful protest,Protesters (Mali),Dan Na Ambassagou,,,Mali,Mopti,Douentza,Douentza,14.9951,-2.9517,1,New media-Subnational,0
+MLI3194,2019-09-16,1,Protests,Peaceful protest,Protesters (Mali),Dan Na Ambassagou,,,Mali,Mopti,Koro,Koro,14.0778,-3.0832,1,New media-National,0
+MLI3193,2019-09-16,1,Protests,Peaceful protest,Protesters (Mali),Labor Group (Mali),,,Mali,Sikasso,Bougouni,Bougouni,11.417,-7.479,1,National,0
+MLI3201,2019-09-16,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali),Mali,Mopti,Bandiagara,Bandiagara,14.3493,-3.6102,2,National,2
+MLI3190,2019-09-15,1,Battles,Armed clash,Dogon Ethnic Militia (Mali),,Fulani Ethnic Militia (Mali),,Mali,Mopti,Koro,Siguimara,14.5227,-3.0789,1,New media,4
+MLI3200,2019-09-15,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali),Mali,Mopti,Bankass,Welingara,13.9806,-3.5872,1,New media,0
+MLI3183,2019-09-13,1,Protests,Peaceful protest,Protesters (Mali),Dan Na Ambassagou,,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,International,0
+MLI3184,2019-09-12,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Koro,Tondo Erkokoni,14.2579,-2.5728,2,New media,0
+MLI3178,2019-09-11,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Tombouctou,Goundam,Goundam,16.4167,-3.6667,2,New media-International,3
+MLI3177,2019-09-11,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020) Operational Coordination Mechanism,,Mali,Tombouctou,Niafunke,Lere,15.7118,-4.9118,2,New media,0
+MLI3188,2019-09-10,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Tombouctou,Goundam,Goundam,16.4167,-3.6667,1,National,0
+MLI3181,2019-09-09,1,Protests,Peaceful protest,Protesters (Mali),Dan Na Ambassagou,,,Mali,Mopti,Bandiagara,Bandiagara,14.3493,-3.6102,1,National-International,0
+MLI3179,2019-09-09,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Simeyekanda,14.18,-3.74,2,New media-National,6
+MLI3175,2019-09-09,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Douentza,Boni,15.0766,-2.2198,1,New media,0
+MLI3164,2019-09-03,1,Riots,Violent demonstration,Rioters (Mali),,,,Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,1,National,0
+MLI3165,2019-09-03,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Dan Na Ambassagou,,Mali,Mopti,Bandiagara,Ouro-Fero,14.574,-3.8359,2,New media,28
+MLI3158,2019-09-02,1,Protests,Protest with intervention,Protesters (Mali),,Police Forces of Mali (2013-2020) Gendarmerie,,Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,1,National,0
+MLI3159,2019-09-02,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bandiagara,Ouro-Fero,14.574,-3.8359,1,New media,1
+MLI3160,2019-09-02,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Bandiagara,14.3493,-3.6102,2,Subnational,2
+MLI3154,2019-09-01,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bandiagara,Balaguine,14.2535,-4.0133,2,New media,2
+MLI3155,2019-09-01,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Douentza,Okoyeri,14.8269,-2.9152,1,Subnational,1
+MLI3156,2019-09-01,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Koro,14.0778,-3.0832,2,Subnational,0
+MLI3152,2019-08-30,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bankass,Guiwagou-Fittob,13.9568,-3.5336,1,New media,4
+MLI3153,2019-08-30,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bankass,Soula-Ouro,13.9551,-3.591,1,New media,0
+MLI3150,2019-08-29,1,Strategic developments,Looting/property destruction,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Orossagou,14.018,-3.9073,1,Subnational,0
+MLI3148,2019-08-28,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Bandiougou,14.6224,-3.0971,2,Subnational,1
+MLI3145,2019-08-27,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Douentza,Boussouma,15.1163,-2.5948,2,New media-Subnational,4
+MLI3147,2019-08-27,2,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Kayes,Kayes,Kayes,14.4417,-11.4341,1,National,0
+MLI3139,2019-08-25,1,Explosions/Remote violence,Shelling/artillery/missile attack,JNIM: Group for Support of Islam and Muslims,,Military Forces of France (2017-),,Mali,Menaka,Menaka,Menaka,15.9182,2.4022,2,New media,0
+MLI3129,2019-08-24,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Bodio,14.2482,-3.6883,1,Subnational,0
+MLI3128,2019-08-23,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Mopti,Bandiagara,Bandiagara,14.3493,-3.6102,1,Subnational,0
+MLI3135,2019-08-23,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Koulikoro,Kolokani,Didieni,13.8837,-8.091,1,National,0
+MLI3136,2019-08-23,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Koulikoro,Kolokani,Kolokani,13.5728,-8.0339,1,National,0
+MLI3137,2019-08-23,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Kayes,Kayes,Diboli,14.4551,-12.1994,2,National,0
+MLI3124,2019-08-21,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Tombouctou,Tombouctou,Kabara,16.7043,-2.983,1,National,0
+MLI3123,2019-08-21,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Bandiougou,14.6224,-3.0971,2,Subnational,1
+MLI3122,2019-08-21,1,Battles,Armed clash,Unidentified Armed Group (Mali),,Military Forces of Mali (2013-2020),Ganda Izo,Mali,Gao,Bourem,Chabaria,16.92,-0.6354,2,New media-National,1
+MLI3120,2019-08-20,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),,Mali,Kidal,Kidal,Kidal,18.44,1.41,1,New media,0
+MLI3116,2019-08-19,1,Protests,Peaceful protest,Protesters (Mali),Health Workers (Mali),,,Mali,Koulikoro,Koulikoro,Koulikoro,12.87,-7.56,1,New media-National,0
+MLI3133,2019-08-19,1,Riots,Violent demonstration,Rioters (Mali),Dogon Ethnic Group (Mali),MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),,Mali,Mopti,Bandiagara,Garou-Do,14.0459,-3.737,1,New media,0
+MLI3109,2019-08-16,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Koro,Anakila,14.5733,-3.0653,1,New media-Subnational,4
+MLI3108,2019-08-15,1,Battles,Armed clash,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Dogon Ethnic Militia (Mali),,Mali,Mopti,Bandiagara,Toumpou,14.4998,-3.8173,1,National,4
+MLI3132,2019-08-15,1,Riots,Violent demonstration,Rioters (Mali),Dogon Ethnic Group (Mali); Women (Mali),MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),,Mali,Mopti,Bankass,Damakana,14.0093,-3.6648,2,New media,0
+MLI3106,2019-08-14,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Koro,Mbana,14.4583,-2.8261,1,New media,0
+MLI3131,2019-08-14,1,Riots,Violent demonstration,Rioters (Mali),Dogon Ethnic Group (Mali); Women (Mali),MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),Journalists (International),Mali,Mopti,Bandiagara,Diombolo Leye,14.3001,-3.5988,1,New media,0
+MLI3104,2019-08-11,1,Strategic developments,Looting/property destruction,Military Forces of Mali (2013-2020),Dan Na Ambassagou,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Koro,Yoro,14.2793,-2.1354,2,New media,0
+MLI3102,2019-08-09,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali); Women (Mali),Mali,Mopti,Bankass,Dokono,13.6131,-3.5174,1,Subnational,2
+MLI3101,2019-08-09,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Douentza,Batouma,14.9961,-3.614,2,Other-New media,0
+MLI3100,2019-08-09,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bandiagara,Bandiagara,14.3493,-3.6102,1,New media-Subnational,1
+MLI3130,2019-08-08,1,Riots,Violent demonstration,Rioters (Mali),Dogon Ethnic Group (Mali),MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),,Mali,Mopti,Bandiagara,Doundioulou,14.292,-3.7057,1,New media,0
+MLI3097,2019-08-07,1,Battles,Armed clash,Military Forces of Mali (2013-2020),,JNIM: Group for Support of Islam and Muslims,,Mali,Mopti,Douentza,Douentza,14.9951,-2.9517,2,New media-Subnational,10
+MLI3090,2019-08-06,1,Battles,Armed clash,Unidentified Armed Group (Mali),,Police Forces of Mali (2013-2020) Gendarmerie,,Mali,Segou,Segou,Cinzana Gare,13.252,-5.9656,2,New media-National,1
+MLI3091,2019-08-06,1,Strategic developments,Looting/property destruction,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bankass,Ogossagou,13.9583,-3.5706,1,New media,0
+MLI3089,2019-08-05,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Mopti,Koro,Dinangourou,14.451,-2.245,2,New media-Subnational,1
+MLI3086,2019-08-03,1,Strategic developments,Agreement,Dozo Communal Militia (Mali),Bambara Ethnic Militia (Mali); Bozo Ethnic Militia (Mali); Farmers (Mali); Fishers (Mali),JNIM: Group for Support of Islam and Muslims,Fulani Ethnic Militia (Mali); Pastoralists (Mali),Mali,Segou,Macina,Ke-Macina,13.9641,-5.3579,1,Other-New media,0
+MLI3085,2019-08-02,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),Mali,Gao,Bourem,Tarkint,17.4794,0.1169,2,New media,0
+MLI3081,2019-08-01,1,Strategic developments,Agreement,Fulani Ethnic Militia (Mali),,Bambara Ethnic Militia (Mali),Bozo Ethnic Militia (Mali),Mali,Mopti,Djenne,Djenne,13.9045,-4.5599,1,International,0
+MLI3082,2019-08-01,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),Mali,Gao,Bourem,Tarkint,17.4794,0.1169,2,New media,0
+MLI3076,2019-07-31,1,Battles,Armed clash,Dan Na Ambassagou,,Unidentified Armed Group (Mali),,Mali,Mopti,Koro,Sobane-Da,14.4672,-3.1463,2,Subnational,0
+MLI3077,2019-07-31,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Neni,14.4652,-3.2733,1,Subnational,2
+MLI3074,2019-07-30,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI3070,2019-07-29,1,Protests,Peaceful protest,Protesters (Mali),Students (Mali),,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,Other-National,0
+MLI3067,2019-07-25,1,Battles,Armed clash,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Military Forces of Mali (2013-2020),,Mali,Mopti,Koro,Siguimara,14.5227,-3.0789,2,New media,0
+MLI3066,2019-07-23,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali); Farmers (Mali),Mali,Mopti,Douentza,Niangassagou,14.6527,-1.7781,1,New media,1
+MLI3065,2019-07-23,1,Strategic developments,Disrupted weapons use,Military Forces of Mali (2013-2020),,JNIM: Group for Support of Islam and Muslims,,Mali,Mopti,Koro,Dinangourou,14.451,-2.245,2,New media-National,0
+MLI3061,2019-07-21,1,Riots,Mob violence,Rioters (Mali),Vigilante Group (Mali),Police Forces of Mali (2013-2020),,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,New media-National,1
+MLI3059,2019-07-20,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali); Farmers (Mali),Mali,Mopti,Koro,Kinde,14.5302,-3.0529,2,Subnational,3
+MLI3055,2019-07-19,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),,Mali,Mopti,Mopti,Dialloube,15.0191,-4.2324,1,International,1
+MLI3057,2019-07-19,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Mopti,Bandiagara,Kassawan-Da,14.37,-3.966,1,Subnational,0
+MLI3056,2019-07-19,1,Violence against civilians,Attack,Dozo Communal Militia (Mali),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bankass,Boundouherou,13.4854,-3.7341,2,New media,0
+MLI3052,2019-07-17,1,Protests,Peaceful protest,Protesters (Mali),Health Workers (Mali),,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI3049,2019-07-15,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Gawa,14.4138,-2.965,2,Subnational,2
+MLI3045,2019-07-14,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),,Mali,Mopti,Koro,Dantao,14.33,-2.055,1,New media-Subnational,1
+MLI3046,2019-07-14,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),,Mali,Mopti,Koro,Yoro,14.2793,-2.1354,2,New media-Subnational,1
+MLI3043,2019-07-13,1,Strategic developments,Change to group/activity,COMAPEC-Mali: Coordination of Fulani Armed Movements in Central Mali,,,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI3040,2019-07-12,1,Strategic developments,Change to group/activity,Platform of June 14th 2014 movements,MSA: Movement for Azawad Salvation,,,Mali,Menaka,Menaka,Menaka,15.9182,2.4022,1,National-International,0
+MLI3041,2019-07-12,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Kayes,Kayes,Kayes,14.4417,-11.4341,1,National,0
+MLI3037,2019-07-10,1,Explosions/Remote violence,Air/drone strike,Military Forces of Mali (2013-2020),,Dan Na Ambassagou,,Mali,Mopti,Bandiagara,Kani-Gogouna,14.5588,-3.3889,1,New media-Subnational,0
+MLI3032,2019-07-06,1,Battles,Armed clash,Unidentified Armed Group (Mali),,CMFPR2: Coordination of Patriotic Movements and Forces for Resistance (CMA),,Mali,Tombouctou,Dire,Dire,16.257,-3.4013,1,New media,2
+MLI3033,2019-07-06,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Aid Workers (Mali),Mali,Tombouctou,Goundam,Razelma,16.5924,-4.4596,2,New media-National,0
+MLI3028,2019-07-05,1,Battles,Armed clash,Unidentified Armed Group (Mali),,Youni Communal Militia (Mali),,Mali,Gao,Ansongo,Youni,15.4241,0.741,1,New media,0
+MLI3031,2019-07-05,1,Riots,Violent demonstration,Rioters (Mali),,Police Forces of Mali (2013-2020),,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,Other-New media,0
+MLI3029,2019-07-05,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Labor Group (Mali),Mali,Mopti,Mopti,Dialloube,15.0191,-4.2324,1,New media,1
+MLI3030,2019-07-05,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Mopti,Koro,Koro,14.0778,-3.0832,1,New media,0
+MLI3027,2019-07-04,1,Battles,Armed clash,Militia (Students),,Militia (Students),,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,1
+MLI3026,2019-07-03,1,Battles,Armed clash,Fulani Ethnic Militia (Mali),,Sobangouma Communal Militia (Mali),,Mali,Mopti,Koro,Sobangouma,14.182,-2.6574,1,New media,0
+MLI3019,2019-07-01,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Mopti,Bankass,Dogo-Do,14.1323,-3.6921,1,New media,0
+MLI3021,2019-07-01,1,Strategic developments,Change to group/activity,Dozo Communal Militia (Mali),,,,Mali,Mopti,Djenne,Siragourou,13.8169,-4.3419,1,New media,0
+MLI3010,2019-06-30,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bankass,Saran,13.4251,-3.9173,1,New media-National,25
+MLI3011,2019-06-30,1,Strategic developments,Looting/property destruction,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bankass,Bidi,13.4672,-3.9183,1,New media-National,0
+MLI3012,2019-06-30,1,Strategic developments,Looting/property destruction,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bankass,Sankoro,13.5011,-3.8838,1,New media-International,0
+MLI3018,2019-06-30,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Yoro,14.2793,-2.1354,2,New media-National,10
+MLI3013,2019-06-30,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Douentza,Gono,15.062,-2.7898,1,New media,4
+MLI3015,2019-06-30,1,Strategic developments,Looting/property destruction,Dan Na Ambassagou,,Civilians (Mali),,Mali,Mopti,Douentza,Douentza,14.9951,-2.9517,1,New media,0
+MLI3014,2019-06-30,1,Violence against civilians,Attack,Military Forces of Mali (2013-2020),,Civilians (Mali),Muslim Group (Mali); Students (Mali),Mali,Mopti,Douentza,Douentza,14.9951,-2.9517,1,New media,0
+MLI3017,2019-06-30,1,Violence against civilians,Attack,Dozo Communal Militia (Mali),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Mopti,Somadougou,14.2846,-4.0647,2,New media,1
+MLI2994,2019-06-29,1,Strategic developments,Disrupted weapons use,Police Forces of Mali (2013-2020),,Unidentified Armed Group (Mali),,Mali,Mopti,Bandiagara,Goundaka,14.5001,-3.9468,1,New media-National,0
+MLI2995,2019-06-29,1,Protests,Protest with intervention,Protesters (Mali),,Police Forces of Mali (2013-2020),,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI3009,2019-06-29,1,Strategic developments,Disrupted weapons use,Military Forces of Mali (2013-2020),Dozo Communal Militia (Mali),Fulani Ethnic Militia (Mali),,Mali,Mopti,Bandiagara,Ouo,14.1013,-3.7846,1,New media-National,0
+MLI3008,2019-06-28,1,Battles,Armed clash,Fulani Ethnic Militia (Mali),,Dogon Ethnic Militia (Mali),,Mali,Mopti,Bankass,Dogo Guillado,14.1359,-3.6807,1,New media,0
+MLI2993,2019-06-26,1,Battles,Armed clash,Unidentified Armed Group (Mali),,Military Forces of Mali (2013-2020) Operational Coordination Mechanism,CMA: Coordination of Movements of the Azawad,Mali,Kidal,Kidal,Kidal,18.44,1.41,1,New media,0
+MLI2989,2019-06-25,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Dan Na Ambassagou,,Mali,Mopti,Bandiagara,Goundaka,14.5001,-3.9468,2,National,5
+MLI3007,2019-06-25,1,Violence against civilians,Attack,Military Forces of Mali (2013-2020),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Douentza,Godoware,14.8628,-1.7726,1,New media,4
+MLI2983,2019-06-23,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Petel,14.2961,-2.8149,1,National,1
+MLI2986,2019-06-23,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI2982,2019-06-23,1,Violence against civilians,Abduction/forced disappearance,Dozo Communal Militia (Mali),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Mopti,Somadougou,14.2846,-4.0647,2,New media,0
+MLI2980,2019-06-22,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Dozo Communal Militia (Mali),Bambara Ethnic Militia (Mali),Mali,Mopti,Djenne,Marebougou,14.0886,-4.4259,2,New media,2
+MLI2977,2019-06-21,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National-International,0
+MLI2974,2019-06-20,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Women (Mali),Mali,Mopti,Bandiagara,Bandiagara,14.3493,-3.6102,2,National,3
+MLI2973,2019-06-20,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Mopti,Douentza,Hombori,15.279,-1.7004,1,New media,0
+MLI2969,2019-06-18,1,Battles,Armed clash,Military Forces of Mali (2013-2020),,JNIM: Group for Support of Islam and Muslims,,Mali,Mopti,Koro,Yoro,14.2793,-2.1354,2,National-International,11
+MLI2968,2019-06-17,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Mopti,Mopti,Mopti,14.4891,-4.1928,1,National,0
+MLI2964,2019-06-16,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Tombouctou,Goundam,Tonka,16.1289,-3.7478,2,International,1
+MLI2961,2019-06-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Segou,Niono,Sokolo,14.7328,-6.1219,2,National-International,2
+MLI2962,2019-06-16,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bandiagara,Docoumbo,14.3549,-3.6561,2,New media-National,5
+MLI2963,2019-06-16,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bandiagara,Djombo Djenneke,14.42,-3.653,1,New media,0
+MLI2957,2019-06-15,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Mopti,Koro,Diankabou,14.586,-3.0805,2,New media,4
+MLI2956,2019-06-15,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bandiagara,Bandiagara,14.3493,-3.6102,1,New media,1
+MLI2955,2019-06-14,1,Riots,Violent demonstration,Rioters (Mali),,Police Forces of Mali (2013-2020),,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI2959,2019-06-14,1,Violence against civilians,Abduction/forced disappearance,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Douentza,Petaka,15.02,-2.849,2,New media,0
+MLI2958,2019-06-14,1,Violence against civilians,Attack,Military Forces of Mali (2013-2020),,Civilians (Mali),Prisoners (Mali),Mali,Segou,Macina,Ke-Macina,13.9641,-5.3579,2,New media,1
+MLI3069,2019-06-14,1,Riots,Violent demonstration,Rioters (Mali),,,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI2952,2019-06-12,1,Battles,Armed clash,Military Forces of Mali (2013-2020),,Dan Na Ambassagou,,Mali,Mopti,Bandiagara,Sangha,14.464,-3.3085,2,New media,0
+MLI2953,2019-06-12,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),,Mali,Mopti,Douentza,Petaka,15.02,-2.849,1,New media,0
+MLI2946,2019-06-10,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),,Mali,Mopti,Bandiagara,Bandiagara,14.3493,-3.6102,1,National,1
+MLI3172,2019-06-09,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,1,International,0
+MLI3173,2019-06-09,1,Strategic developments,Change to group/activity,Military Forces of Mali (2013-2020),,,,Mali,Mopti,Douentza,Nokara,15.1763,-2.3959,2,New media,0
+MLI2945,2019-06-09,1,Strategic developments,Looting/property destruction,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bandiagara,Djombo Djenneke,14.42,-3.653,1,New media,0
+MLI2942,2019-06-09,1,Riots,Mob violence,Rioters (Mali),,Police Forces of Mali (2013-2020),,Mali,Koulikoro,Koulikoro,Koulikoro,12.87,-7.56,1,National,0
+MLI3174,2019-06-09,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Diamnati,14.8961,-3.2625,1,Subnational,2
+MLI2938,2019-06-08,1,Protests,Peaceful protest,Protesters (Mali),Labor Group (Mali),,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI2939,2019-06-08,1,Violence against civilians,Attack,Military Forces of France (2017-),,Civilians (Mali),Tuareg Ethnic Group (Mali),Mali,Tombouctou,Goundam,Lerneb,16.3287,-4.9591,2,National-International,3
+MLI2940,2019-06-08,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Douentza,Boni,15.0766,-2.2198,2,New media,2
+MLI2935,2019-06-05,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Tenenkou,Aboghali,15.0821,-5.0829,2,National,2
+MLI2936,2019-06-05,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Police Forces of Mali (2013-2020) Gendarmerie,,Mali,Tombouctou,Goundam,Tonka,16.1289,-3.7478,1,National,1
+MLI2934,2019-06-03,1,Strategic developments,Looting/property destruction,Dozo Communal Militia (Mali),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Segou,Macina,Nianamado,13.88,-5.01,1,National,0
+MLI2932,2019-06-02,1,Battles,Armed clash,Unidentified Armed Group (Mali),,Police Forces of Mali (2013-2020) Gendarmerie,,Mali,Menaka,Menaka,Menaka,15.9182,2.4022,1,National-International,1
+MLI2933,2019-06-02,1,Explosions/Remote violence,Shelling/artillery/missile attack,JNIM: Group for Support of Islam and Muslims,,MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),Military Forces of France (2017-),Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,1,New media,0
+MLI2930,2019-06-01,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Aldouma,14.3845,-2.6432,2,New media,1
+MLI2929,2019-05-31,1,Violence against civilians,Abduction/forced disappearance,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Police Forces of Mali (2013-2020) Gendarmerie,Mali,Mopti,Douentza,Nokara,15.1763,-2.3959,2,Subnational,0
+MLI2925,2019-05-30,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Mali),,Civilians (Mali),ICRC: International Committee of the Red Cross and Red Crescent,Mali,Gao,Gao,Gao,16.2717,-0.0447,1,National,0
+MLI2927,2019-05-30,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Douentza,Okoyeri,14.8269,-2.9152,2,Subnational,1
+MLI2928,2019-05-30,1,Strategic developments,Disrupted weapons use,Military Forces of Mali (2013-2020),,JNIM: Group for Support of Islam and Muslims,,Mali,Mopti,Tenenkou,Kera,14.2225,-4.9983,2,National,0
+MLI2924,2019-05-29,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bankass,Bankass,14.0775,-3.5159,1,New media-International,2
+MLI2923,2019-05-28,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bankass,Baye,13.6226,-3.3705,2,Subnational,0
+MLI2921,2019-05-27,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Somadougou Communal Militia (Mali),,Mali,Mopti,Mopti,Somadougou,14.2846,-4.0647,1,New media-Subnational,3
+MLI2919,2019-05-27,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Dan Na Ambassagou,,Mali,Mopti,Bankass,Ouro,13.4389,-3.4945,2,New media,0
+MLI2914,2019-05-26,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Mopti,Mopti,Kouna,14.24,-4.147,1,New media,0
+MLI2916,2019-05-26,1,Protests,Peaceful protest,Protesters (Mali),Labor Group (Mali),,,Mali,Sikasso,Yanfolila,Kalana,10.7864,-8.1963,1,National,0
+MLI2911,2019-05-25,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI2904,2019-05-24,1,Violence against civilians,Attack,CMA: Coordination of Movements of the Azawad,,Civilians (Mali),,Mali,Gao,Ansongo,Oulit Erajoun,16.659,1.7414,2,New media,1
+MLI2905,2019-05-24,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Amba,14.7916,-2.9708,2,Subnational,0
+MLI2906,2019-05-24,1,Explosions/Remote violence,Shelling/artillery/missile attack,JNIM: Group for Support of Islam and Muslims,,MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),Military Forces of France (2017-),Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,1,Other-New media,0
+MLI2902,2019-05-23,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,International,0
+MLI2903,2019-05-23,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Mali),,Civilians (Mali),MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),Mali,Tombouctou,Goundam,Goundam,16.4167,-3.6667,1,National,0
+MLI2899,2019-05-22,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,International,0
+MLI2909,2019-05-22,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Koro,Diankabou,14.586,-3.0805,1,National,0
+MLI2895,2019-05-21,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Dogon Ethnic Militia (Mali),,Mali,Mopti,Bandiagara,Mandoli,14.0615,-3.7861,2,New media-Subnational,2
+MLI2896,2019-05-21,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),,Mali,Mopti,Tenenkou,Toguere-Koumbe,14.9169,-4.5948,2,National,0
+MLI2893,2019-05-20,1,Protests,Peaceful protest,Protesters (Mali),Women (Mali),,,Mali,Mopti,Bandiagara,Bandiagara,14.3493,-3.6102,2,Subnational,0
+MLI2894,2019-05-20,1,Violence against civilians,Abduction/forced disappearance,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),ANSIPRJ: National Alliance for the Protection of the Fulani Identity and the Restoration of Justice,Mali,Tombouctou,Niafunke,Farana,15.8216,-4.3309,1,New media-National,0
+MLI2931,2019-05-20,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Dozo Communal Militia (Mali),,Mali,Mopti,Bankass,Tori,13.6185,-3.709,2,Local partner-New media,1
+MLI2889,2019-05-19,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Dozo Communal Militia (Mali),Bambara Ethnic Militia (Mali),Mali,Mopti,Djenne,Samaye,14.0078,-4.7381,1,National,2
+MLI2880,2019-05-17,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Dozo Communal Militia (Mali),,Mali,Mopti,Djenne,Marebougou,14.0886,-4.4259,1,New media,0
+MLI2878,2019-05-16,1,Violence against civilians,Attack,Gandakoy Ethnic Militia (Mali),,Civilians (Mali),,Mali,Tombouctou,Dire,Dire,16.257,-3.4013,1,National,1
+MLI2876,2019-05-16,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Tenenkou,Kera,14.2225,-4.9983,2,New media-National,4
+MLI2875,2019-05-16,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Dozo Communal Militia (Mali),,Mali,Mopti,Djenne,Marebougou,14.0886,-4.4259,2,New media,1
+MLI2873,2019-05-15,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI2888,2019-05-15,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Douentza,Hombori,15.279,-1.7004,2,New media,0
+MLI2872,2019-05-14,1,Riots,Violent demonstration,Rioters (Mali),Labor Group (Mali),,,Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,1,New media,0
+MLI2867,2019-05-14,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bankass,Wariyero,13.5559,-3.7836,1,New media-National,3
+MLI2865,2019-05-14,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,Subnational-National,0
+MLI2869,2019-05-14,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Civilians (Burkina Faso); Labor Group (Mali); Labor Group (Burkina Faso),Mali,Mopti,Koro,Gomso-Na,13.9979,-2.9232,1,New media,5
+MLI2870,2019-05-14,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),,Mali,Tombouctou,Gourma-Rharous,Bambara Maoude,15.851,-2.7861,2,New media-National,1
+MLI2864,2019-05-13,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Mali),,Civilians (Mali),Labor Group (Mali),Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,1,New media-National,0
+MLI2862,2019-05-12,1,Battles,Armed clash,CMA: Coordination of Movements of the Azawad,,MSA: Movement for Azawad Salvation,,Mali,Gao,Ansongo,I-n-Ouellene,16.5252,1.6953,2,New media-Subnational,0
+MLI2860,2019-05-11,1,Strategic developments,Disrupted weapons use,Military Forces of Mali (2013-2020),,JNIM: Group for Support of Islam and Muslims,,Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,1,National,0
+MLI2859,2019-05-11,1,Battles,Armed clash,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Military Forces of Mali (2013-2020),Dan Na Ambassagou,Mali,Mopti,Douentza,Djoulouna,14.5439,-1.9494,2,New media-Subnational,14
+MLI2887,2019-05-11,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),Dogon Ethnic Militia (Mali),Mali,Mopti,Douentza,Malgou,14.5902,-1.8996,2,New media,1
+MLI2858,2019-05-10,1,Explosions/Remote violence,Shelling/artillery/missile attack,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Tenenkou,Tenenkou,14.4572,-4.9167,1,National,0
+MLI2857,2019-05-10,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Diombolo,14.3017,-3.6012,2,New media-Subnational,4
+MLI3171,2019-05-09,1,Explosions/Remote violence,Air/drone strike,Military Forces of Mali (2013-2020),,Dan Na Ambassagou,,Mali,Mopti,Koro,Bandiougou,14.6224,-3.0971,1,New media-Subnational,0
+MLI3170,2019-05-09,1,Riots,Violent demonstration,Rioters (Mali),,Military Forces of France (2017-),MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,1,International,0
+MLI2852,2019-05-07,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Tenenkou,Nouhoun-Peuhl,14.17,-4.91,2,New media,3
+MLI2851,2019-05-07,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bankass,Bankass,14.0775,-3.5159,1,New media,0
+MLI2853,2019-05-07,1,Battles,Armed clash,Unidentified Armed Group (Mali),,Forest Guards (Mali),,Mali,Sikasso,Sikasso,Mamabougou,11.3012,-5.4288,2,New media-National,1
+MLI2849,2019-05-06,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Koro,Diankabou,14.586,-3.0805,1,National,3
+MLI2847,2019-05-05,1,Explosions/Remote violence,Air/drone strike,Military Forces of Mali (2013-2020),,JNIM: Group for Support of Islam and Muslims,,Mali,Koulikoro,Nara,Ouagadou,14.9908,-7.4539,2,National,3
+MLI2848,2019-05-05,1,Violence against civilians,Attack,Ngadana Communal Militia (Ivory Coast),,Civilians (Mali),,Mali,Sikasso,Kadiolo,Misseni,10.3167,-6.0667,2,National,0
+MLI2846,2019-05-05,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI2886,2019-05-04,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Douentza,Hombori,15.279,-1.7004,2,New media,0
+MLI2885,2019-05-02,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Douentza,Ouro Fassi,15.1713,-2.0216,2,Local partner-New media,1
+MLI2835,2019-04-30,1,Violence against civilians,Attack,Dozo Communal Militia (Mali),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bankass,Bankass,14.0775,-3.5159,1,International,4
+MLI3060,2019-04-29,1,Riots,Mob violence,Rioters (Mali),Vigilante Group (Mali),Police Forces of Mali (2013-2020),,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,1
+MLI2829,2019-04-27,1,Riots,Violent demonstration,Rioters (Mali),GATIA: Imghad Tuareg and Allies Self-Defense Group,,,Mali,Gao,Gao,Intahaka,16.2036,-0.4769,1,New media,0
+MLI2828,2019-04-26,1,Battles,Armed clash,Unidentified Armed Group (Mali),,Military Forces of Mali (2013-2020),,Mali,Tombouctou,Tombouctou,Acharane,16.6314,-3.3256,2,National-International,1
+MLI2831,2019-04-25,1,Battles,Armed clash,Fulani Ethnic Militia (Mali),,Dogon Ethnic Militia (Mali),,Mali,Mopti,Douentza,Banay,14.6162,-1.8652,1,Subnational,2
+MLI2826,2019-04-25,1,Riots,Violent demonstration,Rioters (Mali),GATIA: Imghad Tuareg and Allies Self-Defense Group,,,Mali,Gao,Gao,Intahaka,16.2036,-0.4769,1,International,0
+MLI2823,2019-04-24,1,Violence against civilians,Attack,Military Forces of Mali (2013-2020),,Civilians (Mali),Tuareg Ethnic Group (Mali); GATIA: Imghad Tuareg and Allies Self-Defense Group; Military Forces of Mali (2013-2020) Operational Coordination Mechanism,Mali,Gao,Gao,Intahaka,16.2036,-0.4769,2,National-International,3
+MLI2818,2019-04-22,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Douentza,Dansa,15.0897,-2.7417,2,New media-National,2
+MLI2815,2019-04-21,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Koulikoro,Nara,Guire,14.6432,-6.6909,1,National-International,15
+MLI2814,2019-04-20,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),,Mali,Mopti,Douentza,Boni,15.0766,-2.2198,2,National-International,2
+MLI2810,2019-04-19,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,1,National,1
+MLI2812,2019-04-19,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Mali),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Tenenkou,Kamaka-Sebe,14.8008,-4.6371,1,New media,0
+MLI2811,2019-04-19,1,Violence against civilians,Attack,Dogon Ethnic Militia (Mali),Dan Na Ambassagou,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Koro,Birga-Dogon,14.04,-3.261,1,New media,2
+MLI2808,2019-04-18,1,Strategic developments,Other,Government of Mali (2013-2020),,,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,Other-International,0
+MLI2807,2019-04-17,1,Violence against civilians,Attack,Dogon Ethnic Militia (Mali),Dan Na Ambassagou,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Koro,Birga-Dogon,14.04,-3.261,1,New media,0
+MLI2830,2019-04-17,1,Strategic developments,Looting/property destruction,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),Mali,Tombouctou,Gourma-Rharous,Bambara Maoude,15.851,-2.7861,2,New media,0
+MLI2805,2019-04-16,1,Strategic developments,Looting/property destruction,GATIA: Imghad Tuareg and Allies Self-Defense Group,,Civilians (Mali),,Mali,Gao,Gao,Marsi,16.1118,-0.3408,1,National,0
+MLI2798,2019-04-13,1,Riots,Mob violence,Rioters (Mali),Dan Na Ambassagou,Military Forces of Mali (2013-2020),,Mali,Mopti,Koro,Koro,14.0778,-3.0832,1,New media-International,0
+MLI2796,2019-04-11,1,Protests,Peaceful protest,Protesters (Mali),Teachers (Mali),,,Mali,Segou,San,San,13.2887,-4.8875,1,New media,0
+MLI2797,2019-04-11,1,Riots,Mob violence,Rioters (Mali),Vigilante Group (Mali); Songhai Ethnic Group (Mali),Civilians (Mali),Tuareg Ethnic Group (Mali); Arab Ethnic Group (Mali),Mali,Tombouctou,Goundam,Goundam,16.4167,-3.6667,1,Other-National,0
+MLI2799,2019-04-11,1,Violence against civilians,Attack,Dogon Ethnic Militia (Mali),Dan Na Ambassagou,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bandiagara,Balaguira,13.9818,-4.0384,1,New media,5
+MLI2790,2019-04-08,1,Violence against civilians,Attack,Military Forces of Mali (2013-2020),,Civilians (Mali),,Mali,Mopti,Tenenkou,Dioura,14.8252,-5.2547,1,New media-National,1
+MLI2785,2019-04-06,1,Violence against civilians,Abduction/forced disappearance,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),,Mali,Mopti,Bandiagara,Tabia,14.0742,-3.9268,1,Subnational,0
+MLI2778,2019-04-05,1,Protests,Peaceful protest,Protesters (Mali),Muslim Group (Mali),,,Mali,Kayes,Nioro,Nioro du Sahel,15.2293,-9.5928,1,International,0
+MLI2781,2019-04-05,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bankass,Baye,13.6226,-3.3705,2,Subnational,0
+MLI2787,2019-04-05,1,Protests,Peaceful protest,Protesters (Mali),Muslim Group (Mali),,,Mali,Kayes,Kayes,Kayes,14.4417,-11.4341,1,National,0
+MLI2843,2019-04-05,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Mopti,Douentza,Petaka,15.02,-2.849,1,New media,0
+MLI2773,2019-04-04,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Mopti,Bankass,Bankass,14.0775,-3.5159,1,International,0
+MLI2774,2019-04-04,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Mopti,Koro,Koro,14.0778,-3.0832,1,International,0
+MLI2775,2019-04-04,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Mopti,Bandiagara,Bandiagara,14.3493,-3.6102,1,International,0
+MLI2768,2019-04-03,1,Battles,Armed clash,Fulani Ethnic Militia (Mali),,Military Forces of Mali (2013-2020),,Mali,Mopti,Bandiagara,Tegourou,14.2639,-3.6091,1,Subnational-National,0
+MLI2772,2019-04-03,1,Battles,Armed clash,Fulani Ethnic Militia (Mali),,Military Forces of Mali (2013-2020),,Mali,Mopti,Koro,Kobadie,14.5163,-2.9227,1,Subnational-National,0
+MLI2767,2019-04-03,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Tegourou,14.2639,-3.6091,1,Subnational-National,1
+MLI2771,2019-04-03,1,Strategic developments,Looting/property destruction,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Kobadie,14.5163,-2.9227,1,Subnational-National,0
+MLI2763,2019-04-02,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI2758,2019-04-01,1,Strategic developments,Change to group/activity,MNLA: National Movement for the Liberation of Azawad,,MPSA: Popular Movement for Azawad Salvation,,Mali,Tombouctou,Goundam,Gargando,16.4625,-4.1727,1,National,0
+MLI2762,2019-04-01,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Bandiagara,Bandiagara,14.3493,-3.6102,2,National,1
+MLI2756,2019-03-31,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Dinnguidanga,14.3373,-3.6657,2,Subnational-National,3
+MLI2752,2019-03-30,1,Violence against civilians,Abduction/forced disappearance,Ganda Izo,,Civilians (Mali),Health Workers (Mali),Mali,Gao,Gao,Boya Goundya,15.8672,0.2237,1,New media,0
+MLI2753,2019-03-30,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Dozo Communal Militia (Mali),Bambara Ethnic Group (Mali),Mali,Mopti,Djenne,Koa,14.2114,-4.7459,1,Local partner-New media,5
+MLI2755,2019-03-29,1,Explosions/Remote violence,Air/drone strike,Military Forces of France (2017-),Military Forces of Mali (2013-2020),JNIM: Group for Support of Islam and Muslims,Ansaroul Islam,Mali,Mopti,Douentza,Foulsere,14.6097,-1.5256,2,New media-National,10
+MLI2751,2019-03-29,1,Strategic developments,Looting/property destruction,Dozo Communal Militia (Mali),Bambara Ethnic Group (Mali),Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Mopti,Kowa,14.4889,-4.0183,1,Local partner-New media,0
+MLI2754,2019-03-25,1,Explosions/Remote violence,Air/drone strike,Military Forces of Mali (2013-2020),,JNIM: Group for Support of Islam and Muslims,,Mali,Segou,Niono,Nampala,15.2797,-5.5534,2,New media,0
+MLI2740,2019-03-22,1,Violence against civilians,Abduction/forced disappearance,GATIA: Imghad Tuareg and Allies Self-Defense Group,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Douentza,Nokara,15.1763,-2.3959,2,New media,0
+MLI2743,2019-03-22,1,Riots,Violent demonstration,Rioters (Mali),Muslim Group (Mali),Police Forces of Mali (2013-2020),,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI2731,2019-03-19,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,MSA: Movement for Azawad Salvation,,Mali,Gao,Ansongo,Talataye,16.5333,1.5167,2,Local partner-New media,1
+MLI2730,2019-03-17,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Tenenkou,Dioura,14.8252,-5.2547,1,New media-Regional,29
+MLI2726,2019-03-15,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Refugees/IDPs (Mali),Mali,Mopti,Bankass,Ouenkoro,13.3821,-3.8308,2,New media,1
+MLI2724,2019-03-14,1,Battles,Armed clash,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Dogon Ethnic Militia (Mali),,Mali,Mopti,Bankass,Dounde,13.9581,-3.7103,1,New media-Subnational,4
+MLI2725,2019-03-14,1,Protests,Peaceful protest,Protesters (Mali),Students (Mali),,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI2721,2019-03-14,1,Protests,Peaceful protest,Protesters (Mali),Teachers (Mali); Labor Group (Mali),,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI2717,2019-03-11,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Mopti,Bandiagara,Tegourou,14.2639,-3.6091,2,National,4
+MLI2710,2019-03-07,1,Strategic developments,Agreement,CMA: Coordination of Movements of the Azawad,MNLA: National Movement for the Liberation of Azawad,Military Forces of Mali (2013-2020),,Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,1,National,0
+MLI2696,2019-03-06,1,Protests,Peaceful protest,Protesters (Mali),Teachers (Mali),,,Mali,Gao,Gao,Gao,16.2717,-0.0447,1,National,0
+MLI2701,2019-03-06,1,Protests,Peaceful protest,Protesters (Mali),Teachers (Mali),,,Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,1,National,0
+MLI2697,2019-03-06,1,Protests,Peaceful protest,Protesters (Mali),Teachers (Mali),,,Mali,Koulikoro,Koulikoro,Koulikoro,12.87,-7.56,1,National,0
+MLI2699,2019-03-06,1,Protests,Peaceful protest,Protesters (Mali),Teachers (Mali),,,Mali,Mopti,Bandiagara,Bandiagara,14.3493,-3.6102,1,National,0
+MLI2702,2019-03-06,1,Protests,Peaceful protest,Protesters (Mali),Teachers (Mali),,,Mali,Tombouctou,Goundam,Goundam,16.4167,-3.6667,1,National,0
+MLI2704,2019-03-06,1,Protests,Peaceful protest,Protesters (Mali),Teachers (Mali),,,Mali,Segou,Baraoueli,Baroueli,13.077,-6.8312,1,National,0
+MLI2705,2019-03-06,1,Protests,Peaceful protest,Protesters (Mali),Teachers (Mali),,,Mali,Koulikoro,Nara,Nara,15.1687,-7.2847,1,National,0
+MLI2706,2019-03-06,1,Protests,Peaceful protest,Protesters (Mali),Teachers (Mali),,,Mali,Mopti,Douentza,Douentza,14.9951,-2.9517,1,National,0
+MLI2707,2019-03-06,1,Protests,Peaceful protest,Protesters (Mali),Teachers (Mali),,,Mali,Mopti,Djenne,Djenne,13.9045,-4.5599,1,National,0
+MLI2708,2019-03-06,1,Protests,Peaceful protest,Protesters (Mali),Teachers (Mali),,,Mali,Kayes,Kayes,Kayes,14.4417,-11.4341,1,National,0
+MLI2698,2019-03-06,1,Protests,Peaceful protest,Protesters (Mali),Teachers (Mali),,,Mali,Kayes,Kita,Kita,13.0346,-9.4856,1,National,0
+MLI2700,2019-03-06,1,Protests,Peaceful protest,Protesters (Mali),Teachers (Mali),,,Mali,Sikasso,Bougouni,Bougouni,11.417,-7.479,1,National,0
+MLI2709,2019-03-06,1,Protests,Peaceful protest,Protesters (Mali),Teachers (Mali),,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI2693,2019-03-05,1,Violence against civilians,Abduction/forced disappearance,Dozo Communal Militia (Mali),,Civilians (Mali),,Mali,Segou,Macina,Monimpebougou,14.1508,-5.5209,1,New media,0
+MLI2690,2019-03-04,1,Violence against civilians,Abduction/forced disappearance,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Teachers (Mali),Mali,Mopti,Djenne,Mountou,14.291,-4.6282,2,National,0
+MLI2692,2019-03-04,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Mopti,Douentza,Nokara,15.1763,-2.3959,2,New media,0
+MLI2685,2019-03-02,1,Battles,Armed clash,Dogon Ethnic Militia (Mali),,Fulani Ethnic Militia (Mali),,Mali,Mopti,Koro,Tankouli,14.7238,-2.9918,1,New media,3
+MLI2682,2019-02-27,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI2680,2019-02-27,1,Violence against civilians,Abduction/forced disappearance,Military Forces of Mali (2013-2020),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Koro,Gangafani 2,14.34,-2.0244,1,New media,0
+MLI2681,2019-02-27,1,Protests,Peaceful protest,Protesters (Mali),Teachers (Mali),,,Mali,Kayes,Kayes,Kayes,14.4417,-11.4341,1,National,0
+MLI2678,2019-02-26,1,Violence against civilians,Attack,Military Forces of Mali (2013-2020),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Koro,Dounapen,14.3467,-2.8059,2,New media,1
+MLI2671,2019-02-23,1,Explosions/Remote violence,Air/drone strike,Military Forces of France (2017-),Military Forces of Mali (2013-2020),JNIM: Group for Support of Islam and Muslims,,Mali,Mopti,Mopti,Dialloube,15.0191,-4.2324,2,International,15
+MLI2665,2019-02-22,1,Battles,Armed clash,MSA: Movement for Azawad Salvation,GATIA: Imghad Tuareg and Allies Self-Defense Group,Unidentified Communal Militia (Mali),,Mali,Menaka,Anderamboukane,Tamalat,15.797,3.7095,2,National,2
+MLI2664,2019-02-22,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Guinea),MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),Mali,Koulikoro,Kati,Siby,12.3755,-8.3349,2,International,3
+MLI2660,2019-02-20,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),GATIA: Imghad Tuareg and Allies Self-Defense Group,Mali,Menaka,Menaka,In-Agar,16.0636,2.2744,2,New media-International,1
+MLI2670,2019-02-20,1,Violence against civilians,Attack,Dogon Ethnic Militia (Mali),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Koro,Naye,14.4291,-3.0361,1,New media,0
+MLI2688,2019-02-19,2,Strategic developments,Agreement,JNIM: Group for Support of Islam and Muslims,,Government of Mali (2013-2020),,Mali,Mopti,Mopti,Mopti,14.4891,-4.1928,3,National-International,0
+MLI2656,2019-02-17,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bankass,Libe-Peulh,13.7449,-3.3529,1,New media-National,12
+MLI2652,2019-02-16,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bankass,Minima,13.7634,-3.5106,1,New media-National,3
+MLI2653,2019-02-16,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bankass,Ouro Tidani,13.8112,-3.5312,2,New media-National,2
+MLI2654,2019-02-16,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Bozo Ethnic Group (Mali),Mali,Mopti,Tenenkou,Toguere-Koumbe,14.9169,-4.5948,1,New media-International,4
+MLI2650,2019-02-16,1,Battles,Armed clash,Military Forces of Mali (2013-2020),,MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),,Mali,Gao,Gao,Gao 50km W,16.2097,-0.4237,2,Other-International,0
+MLI2651,2019-02-15,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Douentza,Mondoro,14.6762,-1.9513,2,New media,2
+MLI2669,2019-02-15,1,Violence against civilians,Attack,Military Forces of Mali (2013-2020),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Douentza,Kobou,15.1155,-1.7121,1,New media,1
+MLI2649,2019-02-15,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,MSA: Movement for Azawad Salvation,,Mali,Gao,Ansongo,Talataye,16.5333,1.5167,1,New media-National,1
+MLI2644,2019-02-13,1,Explosions/Remote violence,Air/drone strike,Military Forces of France (2017-),Military Forces of Mali (2013-2020),JNIM: Group for Support of Islam and Muslims,,Mali,Mopti,Mopti,Dialloube,15.0191,-4.2324,2,National-International,10
+MLI2645,2019-02-13,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,GATIA: Imghad Tuareg and Allies Self-Defense Group,MSA: Movement for Azawad Salvation,Mali,Menaka,Tidermene,Tedjerit,16.9733,2.5203,2,New media-National,7
+MLI2639,2019-02-12,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Mopti,Dialloube,15.0191,-4.2324,2,New media-National,3
+MLI2640,2019-02-12,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Koro,Koro,14.0778,-3.0832,2,National-International,2
+MLI2641,2019-02-12,1,Battles,Armed clash,Unidentified Armed Group (Mali),,Military Forces of Mali (2013-2020),,Mali,Mopti,Douentza,Hombori,15.279,-1.7004,1,National,1
+MLI2637,2019-02-11,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Simeyekanda,14.18,-3.74,2,Subnational,1
+MLI2635,2019-02-10,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Tenenkou,Toguere-Koumbe,14.9169,-4.5948,1,New media,2
+MLI2633,2019-02-09,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of France (2017-),,Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,2,New media-National,1
+MLI2631,2019-02-08,1,Violence against civilians,Attack,Dogon Ethnic Militia (Mali),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Koro,Sourinde,14.5377,-3.0702,1,New media,1
+MLI2629,2019-02-08,1,Violence against civilians,Attack,Dozo Communal Militia (Mali),Dogon Ethnic Group (Mali),Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bankass,Ouro-Tidiani,13.7721,-3.4726,2,New media,0
+MLI2628,2019-02-06,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Kidal,Kidal,Kidal,18.44,1.41,1,New media,1
+MLI2626,2019-02-05,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),,Mali,Mopti,Douentza,Boni,15.0766,-2.2198,2,New media-National,3
+MLI2622,2019-02-03,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),,Mali,Mopti,Tenenkou,Toguere-Koumbe,14.9169,-4.5948,2,New media,2
+MLI2619,2019-02-01,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bankass,Yara,13.54,-3.417,1,Local partner-New media,3
+MLI2617,2019-02-01,1,Violence against civilians,Abduction/forced disappearance,GATIA: Imghad Tuareg and Allies Self-Defense Group,,Civilians (Mali),,Mali,Tombouctou,Gourma-Rharous,NDaki,15.3584,-0.9241,2,New media,0
+MLI2621,2019-02-01,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bankass,Boila,13.54,-3.4,1,New media,0
+MLI2620,2019-02-01,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bankass,Dissa,13.4616,-3.3044,1,New media,2
+MLI2615,2019-01-30,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Muslim Group (Mali),Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,International,0
+MLI2612,2019-01-29,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Gao,Bourem,Tarkint,17.4794,0.1169,1,Local partner-New media,3
+MLI2611,2019-01-28,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Segou,Macina,Toye,14.0805,-4.9277,2,New media-National,4
+MLI2610,2019-01-27,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Sikasso,Kadiolo,Kadiolo,10.554,-5.7593,2,National,1
+MLI2601,2019-01-25,1,Battles,Armed clash,Unidentified Armed Group (Mali),,Police Forces of Mali (2013-2020),Douentza Communal Militia (Mali),Mali,Mopti,Douentza,Douentza,14.9951,-2.9517,1,National,1
+MLI2604,2019-01-25,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),,Mali,Mopti,Douentza,Douentza 30km N,15.2481,-2.873,2,National-International,2
+MLI2608,2019-01-24,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Labor Group (Mali),Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,1
+MLI2599,2019-01-24,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),,Mali,Mopti,Douentza,Douentza,14.9951,-2.9517,2,National,0
+MLI2594,2019-01-22,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Mali),,Civilians (International),Civilians (Slovakia),Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI2596,2019-01-22,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Bankass,Baye,13.6226,-3.3705,1,New media,0
+MLI2589,2019-01-18,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Pignari Bana,14.4997,-3.9464,2,National,2
+MLI2586,2019-01-17,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Segou,Niono,Sokolo,14.7328,-6.1219,2,Local partner-New media,0
+MLI2572,2019-01-12,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bankass,Baye,13.6226,-3.3705,2,New media,0
+MLI2569,2019-01-11,1,Violence against civilians,Attack,Dozo Communal Militia (Mali),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Segou,San,Somo,13.2401,-4.7798,2,Other-National,1
+MLI2566,2019-01-09,1,Strategic developments,Headquarters or base established,Police Forces of Mali (2013-2020) Gendarmerie,,,,Mali,Mopti,Bankass,Diallassagou,13.7407,-3.6264,1,National,0
+MLI2560,2019-01-05,1,Explosions/Remote violence,Air/drone strike,Military Forces of France (2017-),,JNIM: Group for Support of Islam and Muslims,,Mali,Mopti,Douentza,Boni,15.0766,-2.2198,2,Local partner-New media,0
+MLI2838,2019-01-05,1,Strategic developments,Looting/property destruction,Dogon Ethnic Militia (Mali),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Douentza,Tiguila,14.876,-1.8545,2,Local partner-New media,0
+MLI3337,2019-12-10,1,Protests,Peaceful protest,Protesters (Mali),Women (Mali),,,Mali,Mopti,Mopti,Mopti,14.4891,-4.1928,1,National,0
+MLI2842,2019-04-05,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Mali),,Civilians (Mali),MSF: Doctors Without Borders,Mali,Mopti,Douentza,Ouami,15.233,-1.566,1,New media,0
+MLI2558,2019-01-02,1,Battles,Armed clash,Military Forces of Mali (2013-2020),,Dogon Ethnic Militia (Mali),,Mali,Mopti,Bankass,Bobosso,13.6618,-3.6733,1,International,1
+MLI2559,2019-01-02,1,Violence against civilians,Attack,Dogon Ethnic Militia (Mali),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bankass,Bobosso,13.6618,-3.6733,1,International,0
+MLI2703,2019-03-06,1,Protests,Peaceful protest,Protesters (Mali),Teachers (Mali),,,Mali,Koulikoro,Kangaba,Kangaba,11.9415,-8.4138,1,National,0
+MLI3205,2019-09-24,1,Battles,Armed clash,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Sinekanda Communal Militia (Mali),,Mali,Mopti,Bandiagara,Sinekanda,14.0061,-4.0654,1,Subnational-International,0
+MLI3093,2019-08-07,1,Explosions/Remote violence,Shelling/artillery/missile attack,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Douentza,Boulkessi,14.7983,-1.3025,1,New media-National,0
+MLI3215,2019-09-30,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),G5S: G5 Sahel Force (2017-),Mali,Mopti,Douentza,Boulkessi,14.7983,-1.3025,1,National-International,28
+MLI2723,2019-03-14,1,Violence against civilians,Abduction/forced disappearance,JNIM: Group for Support of Islam and Muslims,Ansaroul Islam,Civilians (Mali),Unidentified Clan Group (Mali),Mali,Mopti,Douentza,Boulkessi,14.7983,-1.3025,2,New media,0
+MLI3083,2019-08-03,1,Violence against civilians,Attack,Military Forces of Mali (2013-2020),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Douentza,Boulkessi,14.7983,-1.3025,1,New media,2
+MLI3311,2019-11-26,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Douentza,Boulkessi,14.7983,-1.3025,1,National,0
+MLI3073,2019-07-30,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Douentza,Boulkessi,14.7983,-1.3025,2,National,1
+MLI2801,2019-04-14,1,Explosions/Remote violence,Air/drone strike,Military Forces of France (2017-),,,,Mali,Gao,Gao,Azoa,16.8347,0.5367,1,National,0
+MLI2784,2019-04-06,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,,,Mali,Mopti,Bandiagara,Bodio,14.2482,-3.6883,2,Subnational,0
+MLI2901,2019-05-22,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bankass,Kassagou,13.8111,-3.8264,2,Subnational,2
+MLI3251,2019-10-22,1,Battles,Armed clash,Unidentified Armed Group (Mali),,GATIA: Imghad Tuareg and Allies Self-Defense Group,,Mali,Gao,Gao,Doreye,15.8197,-0.41,2,New media-National,15
+MLI3062,2019-07-22,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of France (2017-),Military Forces of Estonia (2019-2021); Military Forces of Mali (2013-2020),Mali,Gao,Gao,Gao,16.2717,-0.0447,1,New media-National,2
+MLI3243,2019-10-18,1,Protests,Peaceful protest,Protesters (Mali),PCC: Platform Against Corruption & Unemployment,,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI3350,2019-12-19,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Bi Communal Militia (Mali),,Mali,Mopti,Koro,Bi,13.9262,-2.911,1,New media,0
+MLI3360,2019-12-23,1,Strategic developments,Looting/property destruction,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Labor Group (Mali),Mali,Mopti,Koro,Bi,13.9262,-2.911,2,New media,0
+MLI2625,2019-02-05,1,Violence against civilians,Abduction/forced disappearance,Military Forces of Burkina Faso (2015-2022),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Koro,Didia,14.1838,-2.725,1,Local partner-New media,0
+MLI3371,2019-12-27,1,Explosions/Remote violence,Air/drone strike,Military Forces of Burkina Faso (2015-2022),,JNIM: Group for Support of Islam and Muslims,,Mali,Mopti,Koro,Didia,14.1838,-2.725,2,New media,10
+MLI2984,2019-06-23,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Anana,14.3186,-2.8814,1,National,1
+MLI5429,2019-06-29,1,Violence against civilians,Abduction/forced disappearance,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Military Forces of Mali (2013-2020),Mali,Tombouctou,Goundam,Goundam,16.4167,-3.6667,2,New media,0
+MLI2822,2019-04-23,1,Riots,Mob violence,Rioters (Mali),Street Traders (Mali),Police Forces of Mali (2013-2020),,Mali,Sikasso,Sikasso,Sikasso,11.3164,-5.6777,1,National,0
+MLI2563,2019-01-07,2,Strategic developments,Other,Protesters (Mali),Teachers (Mali); UNTM: National Workers Union of Mali; Labor Group (Mali),,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,3,International,0
+MLI2573,2019-01-12,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,New media,0
+MLI2583,2019-01-15,1,Protests,Protest with intervention,Protesters (Mali),,Police Forces of Mali (2013-2020),,Mali,Kayes,Yelimane,Kersignane,14.9916,-10.9837,1,National,0
+MLI2593,2019-01-21,1,Protests,Peaceful protest,Protesters (Mali),Women (Mali),,,Mali,Sikasso,Bougouni,Kokele,11.5289,-7.5416,1,National,0
+MLI2598,2019-01-23,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Kayes,Kayes,Kayes,14.4417,-11.4341,1,National,0
+MLI2600,2019-01-24,1,Riots,Violent demonstration,Rioters (Mali),Students (Mali),Police Forces of Mali (2013-2020),,Mali,Sikasso,Sikasso,Sikasso,11.3164,-5.6777,1,National,0
+MLI2606,2019-01-26,1,Protests,Peaceful protest,Protesters (Mali),Fulani Ethnic Group (Mali),,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,International,0
+MLI2614,2019-01-29,1,Riots,Violent demonstration,Rioters (Mali),Students (Mali),,,Mali,Sikasso,Koutiala,Koutiala,12.3917,-5.4642,1,National,0
+MLI2616,2019-01-30,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI2634,2019-02-09,1,Riots,Mob violence,Dozo Communal Militia (Mali),Tombolomas Communal Militia (Mali),Rioters (Mali),Labor Group (Mali); Dogon Ethnic Group (Mali),Mali,Koulikoro,Kangaba,Samaya,11.6833,-8.65,2,National,0
+MLI2646,2019-02-13,1,Protests,Protest with intervention,Protesters (Mali),,Police Forces of Mali (2013-2020),,Mali,Mopti,Mopti,Mopti,14.4891,-4.1928,1,National,0
+MLI2648,2019-02-14,1,Riots,Mob violence,Rioters (Mali),Unidentified Communal Group (Mali),Rioters (Mali),Unidentified Communal Group (Mali),Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI2655,2019-02-16,1,Riots,Violent demonstration,Rioters (Mali),,,,Mali,Mopti,Mopti,Mopti,14.4891,-4.1928,1,National,0
+MLI2630,2019-02-08,1,Violence against civilians,Attack,Dozo Communal Militia (Mali),Dogon Ethnic Group (Mali),Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bankass,Koulogon-Habe,13.8162,-3.4418,2,New media,0
+MLI2623,2019-02-04,1,Violence against civilians,Attack,Military Forces of Mali (2013-2020),,Civilians (Mali),Tuareg Ethnic Group (Mali); Government of Mali (2013-2020),Mali,Menaka,Menaka,Menaka,15.9182,2.4022,1,National-International,1
+MLI2941,2019-06-09,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Government of Mali (2013-2020),Mali,Tombouctou,Goundam,Douekire,16.5736,-3.3719,2,National,1
+MLI2978,2019-06-21,1,Violence against civilians,Abduction/forced disappearance,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Government of Mali (2013-2020),Mali,Mopti,Bankass,Ouenkoro,13.3821,-3.8308,1,National,0
+MLI2985,2019-06-23,1,Riots,Violent demonstration,Rioters (Mali),,Civilians (Mali),Journalists (Mali),Mali,Kayes,Yelimane,Kersignane,14.9916,-10.9837,1,National,0
+MLI3042,2019-07-13,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Government of Mali (2013-2020),Mali,Gao,Gao,Gao,16.2717,-0.0447,1,National,1
+MLI2868,2019-05-14,1,Violence against civilians,Attack,Dozo Communal Militia (Mali),,Civilians (Mali),Dafing Ethnic Group (Mali); Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Djenne,Djongue-Bambara,14.1064,-4.1576,1,New media,2
+MLI2866,2019-05-14,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of France (2017-),,Mali,Kidal,Tessalit,Tessalit,20.2019,1.0124,2,New media,0
+MLI2976,2019-06-21,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),,Mali,Kidal,Tessalit,Tessalit,20.2019,1.0124,2,New media,0
+MLI3384,2019-12-30,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),,Mali,Mopti,Koro,Bargou,13.9322,-2.9586,1,Subnational,2
+MLI3377,2019-12-29,1,Battles,Armed clash,Fulani Ethnic Militia (Mali),,Dogon Ethnic Militia (Mali),,Mali,Mopti,Bankass,Ganida,13.4302,-3.5944,1,Subnational,0
+MLI3379,2019-12-29,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bankass,Lema,13.33,-3.676,1,New media-Subnational,4
+MLI3381,2019-12-29,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bankass,Ouenkoro,13.3821,-3.8308,2,New media-Subnational,2
+MLI3382,2019-12-29,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bankass,Ouenkoro,13.3821,-3.8308,2,New media-Subnational,5
+MLI3372,2019-12-27,1,Strategic developments,Looting/property destruction,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),,Mali,Mopti,Bandiagara,Parou,14.1891,-3.7488,2,New media-Subnational,0
+MLI3368,2019-12-26,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Madougou,14.3992,-3.0788,2,Local partner-New media,3
+MLI3366,2019-12-25,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Dan Na Ambassagou,,Mali,Mopti,Koro,Yoro,14.2793,-2.1354,2,New media-Subnational,2
+MLI3362,2019-12-23,1,Battles,Armed clash,Fulani Ethnic Militia (Mali),,Dan Na Ambassagou,,Mali,Mopti,Koro,Poundourou,14.27,-2.938,1,New media-Subnational,4
+MLI3351,2019-12-19,1,Violence against civilians,Attack,Military Forces of Mali (2013-2020),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Tenenkou,Malimana,14.5643,-5.423,2,New media-Subnational,24
+MLI3354,2019-12-19,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Labor Group (Mali),Mali,Mopti,Bandiagara,Parou,14.1891,-3.7488,1,New media-Subnational,0
+MLI3346,2019-12-17,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Fishers (Mali),Mali,Gao,Ansongo,Youni,15.4241,0.741,1,National,1
+MLI4191,2019-12-16,1,Violence against civilians,Abduction/forced disappearance,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Forest Guards (Mali),Mali,Mopti,Tenenkou,Dioura,14.8252,-5.2547,2,Local partner-Other,0
+MLI3345,2019-12-16,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Farmers (Mali),Mali,Segou,Macina,Ke-Macina,13.9641,-5.3579,2,National,1
+MLI3334,2019-12-09,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Sabere,14.2427,-2.941,1,New media-Subnational,2
+MLI3333,2019-12-08,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Military Forces of Mali (2013-2020),Mali,Mopti,Koro,Tondo Erkokoni,14.2579,-2.5728,2,New media-Subnational,0
+MLI3332,2019-12-08,1,Battles,Armed clash,Unidentified Armed Group (Mali),,Fafa Communal Militia (Mali),,Mali,Gao,Ansongo,Fafa,15.3217,0.7464,2,New media-National,0
+MLI3325,2019-12-04,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Labor Group (Mali),Mali,Mopti,Bandiagara,Parou,14.1891,-3.7488,2,New media-Subnational,2
+MLI3320,2019-12-02,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Gao,Bourem,Bourem,16.955,-0.3486,1,National,0
+MLI3312,2019-11-27,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Mali),,Civilians (Mali),Health Workers (International); MSF: Doctors Without Borders,Mali,Mopti,Koro,Diankabou,14.586,-3.0805,2,Other-Subnational,0
+MLI3308,2019-11-24,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Tolle Communal Militia (Mali),,Mali,Mopti,Bankass,Tolle,13.5161,-3.4997,1,Subnational,3
+MLI3300,2019-11-17,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Labor Group (Mali),Mali,Mopti,Bandiagara,Parou,14.1891,-3.7488,2,New media-Subnational,1
+MLI3297,2019-11-17,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Bargou,13.9322,-2.9586,1,Subnational,0
+MLI3299,2019-11-17,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Derou-Na,14.3172,-3.001,1,Subnational,0
+MLI3298,2019-11-17,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Bi,13.9262,-2.911,2,Subnational,0
+MLI3290,2019-11-15,1,Protests,Peaceful protest,Protesters (Mali),Women (Mali),,,Mali,Koulikoro,Kati,Kati,12.7482,-8.0722,1,New media-National,0
+MLI3286,2019-11-12,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Police Forces of Mali (2013-2020),Police Forces of Mali (2013-2020) Gendarmerie; Police Forces of Mali (2013-2020) Prison Guards,Mali,Tombouctou,Dire,Dire,16.257,-3.4013,1,New media-National,0
+MLI3285,2019-11-12,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Mopti,Koro,Dangatene,14.2333,-2.9725,1,Subnational,1
+MLI3284,2019-11-11,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Mopti,Koro,Simerou,14.4411,-3.0856,2,Subnational,1
+MLI3276,2019-11-08,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Police Forces of Mali (2013-2020) Gendarmerie,,Mali,Mopti,Mopti,Konna,14.9441,-3.8904,1,Subnational-National,2
+MLI3277,2019-11-03,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Bandiagara,Docoumbo,14.3549,-3.6561,2,Subnational-International,2
+MLI3273,2019-10-31,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Mopti,Koro,Yoro,14.2793,-2.1354,1,Subnational,0
+MLI3266,2019-10-29,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Students (Mali); Teachers (Mali),Mali,Gao,Bourem,Garbame,17.0072,-1.2179,1,New media-National,0
+MLI3263,2019-10-29,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Tuareg Ethnic Group (Mali),Mali,Menaka,Menaka,Menaka,15.9182,2.4022,1,New media-National,3
+MLI3258,2019-10-28,1,Riots,Mob violence,Rioters (Mali),Vigilante Group (Mali),,,Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,1,National,0
+MLI3259,2019-10-28,1,Strategic developments,Looting/property destruction,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Government of Mali (2013-2020),Mali,Tombouctou,Dire,Tindirma,16.1301,-3.6399,1,National,0
+MLI3260,2019-10-27,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Police Forces of Mali (2013-2020) Gendarmerie,,Mali,Sikasso,Yorosso,Koury,12.184,-4.8028,1,National,0
+MLI3280,2019-10-27,1,Violence against civilians,Abduction/forced disappearance,Fulani Ethnic Militia (Mali),,Civilians (Mali),Women (Mali),Mali,Mopti,Koro,Koro,14.0778,-3.0832,2,Subnational,0
+MLI3261,2019-10-27,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Mopti,Koro,Aldouma,14.3845,-2.6432,2,New media-Subnational,4
+MLI3262,2019-10-27,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Mopti,Koro,Gangouroubourou,14.3974,-3.0287,1,Subnational-National,0
+MLI3252,2019-10-24,1,Battles,Armed clash,Unidentified Armed Group (Mali),,Police Forces of Mali (2013-2020),,Mali,Menaka,Menaka,Menaka,15.9182,2.4022,1,National,2
+MLI3254,2019-10-23,1,Battles,Armed clash,Unidentified Armed Group (Mali),,Police Forces of Mali (2013-2020) Gendarmerie,,Mali,Mopti,Douentza,Douentza,14.9951,-2.9517,1,Subnational,1
+MLI3268,2019-10-23,1,Strategic developments,Other,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Students (Mali); Teachers (Mali),Mali,Koulikoro,Banamba,Toukoroba,13.6107,-7.0391,1,National,0
+MLI3249,2019-10-20,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Police Forces of Mali (2013-2020) Gendarmerie,,Mali,Koulikoro,Nara,Balle,15.3395,-8.587,1,National,0
+MLI3267,2019-10-20,1,Riots,Mob violence,Rioters (Mali),Vigilante Group (Mali),,,Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,1,National,0
+MLI3265,2019-10-17,1,Strategic developments,Other,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Students (Mali); Teachers (Mali),Mali,Segou,Segou,Neguebougou,13.5584,-6.5469,1,Subnational,0
+MLI3240,2019-10-15,1,Violence against civilians,Abduction/forced disappearance,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Teachers (Mali),Mali,Tombouctou,Niafunke,Arabebe,16.0747,-3.8066,1,National,0
+MLI3239,2019-10-13,1,Violence against civilians,Abduction/forced disappearance,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Aid Workers (Mali),Mali,Mopti,Tenenkou,Diafarabe,14.1409,-5.0169,2,Subnational,0
+MLI3237,2019-10-12,1,Riots,Violent demonstration,Rioters (Mali),Women (Mali),MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),,Mali,Mopti,Mopti,Sevare,14.5297,-4.0922,1,Other-Subnational,0
+MLI3236,2019-10-11,1,Protests,Peaceful protest,Protesters (Mali),Women (Mali),,,Mali,Mopti,Mopti,Sevare,14.5297,-4.0922,1,Subnational,0
+MLI3235,2019-10-09,1,Protests,Peaceful protest,Protesters (Mali),Women (Mali),,,Mali,Mopti,Mopti,Sevare,14.5297,-4.0922,1,Subnational-National,0
+MLI3234,2019-10-07,1,Strategic developments,Looting/property destruction,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Students (Mali); Teachers (Mali),Mali,Tombouctou,Niafunke,Arabebe,16.0747,-3.8066,1,New media-National,0
+MLI3230,2019-10-07,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Government of Mali (2013-2020),Mali,Menaka,Menaka,Menaka,15.9182,2.4022,1,National,0
+MLI3228,2019-10-06,1,Strategic developments,Looting/property destruction,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Students (Mali); Teachers (Mali),Mali,Tombouctou,Goundam,Echell,16.2749,-3.9431,1,New media-National,0
+MLI3229,2019-10-06,1,Strategic developments,Looting/property destruction,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Students (Mali); Teachers (Mali),Mali,Tombouctou,Goundam,Yourmi,16.1614,-3.8386,1,New media-National,0
+MLI3212,2019-09-22,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Mopti,Bankass,Ganida,13.4302,-3.5944,1,Subnational,1
+MLI3207,2019-09-21,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Koro,Mbana,14.4583,-2.8261,1,Subnational-National,0
+MLI3197,2019-09-19,1,Protests,Peaceful protest,Protesters (Mali),Dan Na Ambassagou,,,Mali,Mopti,Bankass,Bankass,14.0775,-3.5159,1,Subnational,0
+MLI3191,2019-09-19,1,Battles,Armed clash,Niono Communal Militia (Mali),,Police Forces of Mali (2013-2020),,Mali,Segou,Niono,Niono,14.2526,-5.993,1,New media-National,2
+MLI3199,2019-09-17,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Mali),,Civilians (Mali),Aid Workers (Mali),Mali,Mopti,Douentza,Nokara,15.1763,-2.3959,2,New media-Subnational,0
+MLI3195,2019-09-16,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,1,National,0
+MLI3182,2019-09-11,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Gao,Gao,Gao,16.2717,-0.0447,1,National,0
+MLI3189,2019-09-11,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,1,National,0
+MLI3187,2019-09-10,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,1,National,0
+MLI3186,2019-09-09,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,1,National-International,0
+MLI3185,2019-09-08,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,1,National-International,0
+MLI3169,2019-09-05,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020) Operational Coordination Mechanism,,Mali,Mopti,Douentza,Hombori,15.279,-1.7004,2,New media-Subnational,0
+MLI3166,2019-09-04,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,CMA: Coordination of Movements of the Azawad,MNLA: National Movement for the Liberation of Azawad,Mali,Kidal,Kidal,Kidal,18.44,1.41,1,New media-National,3
+MLI3168,2019-09-04,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Gao,Ansongo,Tarianda,15.4244,0.374,2,New media-National,1
+MLI3163,2019-09-03,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Mali),,Civilians (Mali),Government of Mali (2013-2020),Mali,Tombouctou,Gourma-Rharous,Banikane,16.9494,-1.7481,2,National-International,0
+MLI3157,2019-09-02,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Mopti,Koro,Madougou,14.3992,-3.0788,2,Subnational-International,1
+MLI3149,2019-08-29,1,Battles,Armed clash,Unidentified Armed Group (Mali),,Police Forces of Mali (2013-2020) Gendarmerie,Military Forces of Mali (2013-2020),Mali,Gao,Gao,Gao,16.2717,-0.0447,1,National,0
+MLI3146,2019-08-27,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Koulikoro,Kati,Kati,12.7482,-8.0722,1,National-International,0
+MLI3142,2019-08-26,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Labor Group (Mali),Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,1,National,1
+MLI3143,2019-08-26,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Kayes,Kayes,Kayes,14.4417,-11.4341,1,National,0
+MLI3144,2019-08-26,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Koulikoro,Kati,Kati,12.7482,-8.0722,1,National-International,0
+MLI3141,2019-08-25,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Gao,Gao,Seyna,16.35,-0.0195,1,National,1
+MLI3140,2019-08-25,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Koulikoro,Kati,Kati,12.7482,-8.0722,1,National-International,0
+MLI3138,2019-08-24,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Koulikoro,Kati,Kati,12.7482,-8.0722,1,National-International,0
+MLI3134,2019-08-23,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Koulikoro,Kati,Kati,12.7482,-8.0722,1,National,0
+MLI3126,2019-08-23,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Kayes,Kayes,Kayes,14.4417,-11.4341,1,Other-National,0
+MLI3125,2019-08-22,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Koro,Tagari-Dogon,13.86,-3.24,1,Subnational,2
+MLI3121,2019-08-21,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Douentza,Boni,15.0766,-2.2198,2,New media-Subnational,5
+MLI3118,2019-08-20,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Gao,Gao,Gao,16.2717,-0.0447,1,National,0
+MLI3114,2019-08-18,1,Strategic developments,Looting/property destruction,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Sangha,14.464,-3.3085,2,Subnational,0
+MLI3113,2019-08-18,1,Battles,Armed clash,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Military Forces of Mali (2013-2020),,Mali,Mopti,Bankass,Kourkanda-Habbe,13.6708,-3.7479,1,Subnational,0
+MLI3112,2019-08-17,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Health Workers (Mali); Labor Group (Mali),Mali,Koulikoro,Nara,Dilly,14.9995,-7.6689,1,National,0
+MLI3095,2019-08-07,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Mopti,Koro,Djimdeima,14.114,-2.9352,2,Subnational,1
+MLI3096,2019-08-07,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Mali),,Civilians (Mali),Health Workers (Mali),Mali,Gao,Bourem,Baria,16.88,-0.2964,1,National,0
+MLI3088,2019-08-05,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),Civilians (Mali),Mali,Mopti,Koro,Tondo Erkokoni,14.2579,-2.5728,2,New media-Subnational,3
+MLI3264,2019-08-04,1,Violence against civilians,Attack,Military Forces of Mali (2013-2020),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Koro,Karakindje,14.4111,-2.9051,2,Subnational,9
+MLI3087,2019-08-04,1,Explosions/Remote violence,Shelling/artillery/missile attack,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Gao,Bourem,Tarkint,17.4794,0.1169,1,New media-National,0
+MLI3084,2019-08-01,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Mali),,Civilians (Mali),Health Workers (Mali),Mali,Gao,Gao,Tacharane,16.1515,0.0708,1,National,0
+MLI3079,2019-08-01,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Health Workers (Mali),Mali,Tombouctou,Gourma-Rharous,Madiakoye,16.7504,-2.3648,2,National,0
+MLI3075,2019-07-31,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Ibi,14.4809,-3.2632,1,New media-Subnational,6
+MLI3078,2019-07-31,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Mali),,Civilians (Mali),Health Workers (Mali),Mali,Gao,Ansongo,Bara,15.1183,0.663,2,National,0
+MLI3072,2019-07-29,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Mali),,Civilians (Mali),Health Workers (Mali),Mali,Tombouctou,Gourma-Rharous,Gourma-Rharous,16.8778,-1.9231,1,National,0
+MLI3071,2019-07-29,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Kansila,14.4422,-3.9793,1,New media-Subnational,7
+MLI3063,2019-07-22,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Gao,Bourem,Bourem,16.955,-0.3486,1,National,0
+MLI3054,2019-07-18,1,Protests,Peaceful protest,Protesters (Mali),Arab Ethnic Group (Mali); UMRDA: Malian Union for the African Democratic Rally,,,Mali,Gao,Gao,Gao,16.2717,-0.0447,1,National,0
+MLI3051,2019-07-17,1,Riots,Violent demonstration,Rioters (Mali),,,,Mali,Kidal,Kidal,Kidal,18.44,1.41,1,Other-New media,0
+MLI3048,2019-07-15,1,Battles,Armed clash,Dire Communal Militia (Mali),Farmers (Mali),Dire Communal Militia (Mali),Farmers (Mali),Mali,Tombouctou,Dire,Dire,16.257,-3.4013,2,National,0
+MLI3047,2019-07-14,1,Riots,Mob violence,Rioters (Mali),,Police Forces of Mali (2013-2020),,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI3044,2019-07-14,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Gao,Gao,Anchawadi,16.3336,0.2761,2,National,1
+MLI3038,2019-07-11,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Menaka,Tidermene,Agare MBaou,16.2071,2.1911,2,Other-New media,7
+MLI3036,2019-07-09,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Forest Guards (Mali),,Mali,Kayes,Diema,Dioumara Koussata,14.5378,-8.5661,1,National,0
+MLI3035,2019-07-08,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Douentza,Douentza,14.9951,-2.9517,2,New media-Subnational,1
+MLI3025,2019-07-03,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Police Forces of Mali (2013-2020),,Mali,Sikasso,Yorosso,Sona,12.1008,-4.6909,1,National,0
+MLI3023,2019-07-02,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali); Farmers (Mali),Mali,Mopti,Koro,Gawa,14.4138,-2.965,2,Subnational-National,1
+MLI3022,2019-07-02,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Douentza,Adyael,15.1539,-2.6748,1,New media-Subnational,6
+MLI3020,2019-07-01,1,Strategic developments,Agreement,MSA: Movement for Azawad Salvation (Sekou Bolly Faction),Fulani Ethnic Militia (Mali); Pastoralists (Mali),Dan Na Ambassagou,Dogon Ethnic Militia (Mali),Mali,Mopti,Mopti,Sevare,14.5297,-4.0922,1,Subnational-National,0
+MLI2992,2019-06-26,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Yoro,14.2793,-2.1354,1,Subnational,1
+MLI2988,2019-06-24,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Labor Group (Mali),Mali,Gao,Ansongo,Tassiga,15.4729,0.6941,1,National,0
+MLI2987,2019-06-24,1,Battles,Armed clash,CMA: Coordination of Movements of the Azawad,,MSA: Movement for Azawad Salvation,,Mali,Gao,Ansongo,Agarnadamoss,16.2253,1.396,2,New media-National,10
+MLI2981,2019-06-23,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Mali),,Private Security Forces (Mali),,Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,1,National,0
+MLI2979,2019-06-22,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Dozo Communal Militia (Mali),Bambara Ethnic Militia (Mali),Mali,Segou,Macina,Soumouni,14.1373,-5.2356,2,Local partner-New media,5
+MLI2971,2019-06-18,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Bamba-Tende,14.6851,-3.0631,1,Subnational-National,4
+MLI2972,2019-06-18,1,Strategic developments,Looting/property destruction,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),,Mali,Mopti,Koro,Bi,13.9262,-2.911,1,Subnational-National,0
+MLI2967,2019-06-17,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Yoro,14.2793,-2.1354,1,Subnational-National,24
+MLI2966,2019-06-17,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Dogon Ethnic Group (Mali); Dogon Ethnic Militia (Mali),Mali,Mopti,Koro,Gangafani 2,14.34,-2.0244,1,Subnational-National,17
+MLI2960,2019-06-16,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Gao,Gao,Ntillit,15.5461,-0.4606,2,National,0
+MLI2950,2019-06-12,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bankass,Nongo,13.6307,-3.7591,1,Subnational-International,1
+MLI2951,2019-06-12,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bankass,Ogoboro,13.6065,-3.7431,1,Subnational-International,0
+MLI2947,2019-06-11,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Mali),,Civilians (Mali),Government of Mali (2013-2020),Mali,Mopti,Douentza,Boni,15.0766,-2.2198,2,Subnational,0
+MLI2943,2019-06-09,1,Violence against civilians,Attack,Katiba Macina,JNIM: Group for Support of Islam and Muslims,Civilians (Mali),Christian Group (Mali); Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Sobane-Da,14.4672,-3.1463,1,Other-Subnational,35
+MLI2944,2019-06-09,1,Battles,Armed clash,Unidentified Armed Group (Mali),,Military Forces of Mali (2013-2020),,Mali,Gao,Ansongo,Ansongo,15.6597,0.5022,2,National,0
+MLI2918,2019-05-27,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bankass,Bale,13.6981,-3.7032,2,Subnational,3
+MLI2920,2019-05-27,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),,Mali,Mopti,Bankass,Yara,13.54,-3.417,2,Subnational,1
+MLI2915,2019-05-26,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Dozo Communal Militia (Mali),Bambara Ethnic Militia (Mali),Mali,Segou,Macina,Soumouni,14.1373,-5.2356,2,New media-Subnational,1
+MLI2907,2019-05-25,1,Battles,Armed clash,Military Forces of Mali (2013-2020),,Unidentified Armed Group (Mali),,Mali,Gao,Gao,Gao,16.2717,-0.0447,1,National,0
+MLI2912,2019-05-25,1,Riots,Mob violence,Rioters (Mali),Fulani Ethnic Militia (Mali); Pastoralists (Mali),Dan Na Ambassagou,,Mali,Mopti,Douentza,Douentza,14.9951,-2.9517,1,New media-Subnational,0
+MLI2913,2019-05-25,1,Strategic developments,Looting/property destruction,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Douentza,Petaka,15.02,-2.849,2,New media-Subnational,0
+MLI2908,2019-05-25,1,Protests,Peaceful protest,Protesters (Mali),Labor Group (Mali),,,Mali,Sikasso,Yanfolila,Yanfolila,11.1833,-8.15,2,National,0
+MLI2897,2019-05-21,2,Strategic developments,Disrupted weapons use,Military Forces of Mali (2013-2020),,JNIM: Group for Support of Islam and Muslims,,Mali,Sikasso,Yorosso,Kume,12.503,-4.5471,2,National,0
+MLI2898,2019-05-21,2,Strategic developments,Disrupted weapons use,Military Forces of Mali (2013-2020),,JNIM: Group for Support of Islam and Muslims,,Mali,Sikasso,Yorosso,Ping,12.33,-4.51,2,National,0
+MLI2890,2019-05-19,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Mopti,Koro,Derou,14.0391,-3.2347,2,Subnational,0
+MLI2882,2019-05-18,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),,Mali,Kidal,Tessalit,Tessalit,20.2019,1.0124,2,National-Regional,0
+MLI2879,2019-05-17,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Mali),,Civilians (Mali),Health Workers (Mali); Labor Group (Mali),Mali,Gao,Ansongo,Ansongo,15.6597,0.5022,1,National,0
+MLI2881,2019-05-17,1,Battles,Armed clash,Unidentified Armed Group (Mali),,MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),,Mali,Tombouctou,Tombouctou,Timbuktu,16.7705,-3.0056,1,National-International,1
+MLI2874,2019-05-15,1,Battles,Armed clash,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Dogon Ethnic Militia (Mali),,Mali,Mopti,Koro,Gondogourou,14.5674,-2.9015,1,Subnational,0
+MLI2863,2019-05-13,1,Violence against civilians,Attack,Dozo Communal Militia (Mali),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Segou,Niono,Heremakono,13.9622,-6.0817,1,New media-National,12
+MLI2856,2019-05-10,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI2850,2019-05-07,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Gao,Bourem,Bourem,16.955,-0.3486,1,New media-Subnational,0
+MLI2854,2019-05-07,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Police Forces of Mali (2013-2020) Gendarmerie,,Mali,Tombouctou,Goundam,Goundam,16.4167,-3.6667,1,New media-National,1
+MLI2845,2019-05-03,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Mopti,Koro,Kassanwan,14.51,-2.131,1,Subnational,1
+MLI2840,2019-05-02,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Douentza,Tiguila,14.876,-1.8545,2,Subnational-International,6
+MLI2834,2019-04-30,1,Protests,Peaceful protest,Protesters (Mali),Women (Mali),,,Mali,Gao,Gao,Gao,16.2717,-0.0447,1,National,0
+MLI2833,2019-04-29,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Dozo Communal Militia (Mali),,Mali,Mopti,Koro,Dioungani,14.3156,-2.7403,2,Subnational-International,5
+MLI2827,2019-04-26,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),,Mali,Mopti,Bankass,Baye,13.6226,-3.3705,2,New media-Subnational,3
+MLI2832,2019-04-25,1,Violence against civilians,Attack,Dogon Ethnic Militia (Mali),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Douentza,Boulde,14.693,-1.895,1,Subnational,15
+MLI2825,2019-04-24,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Mali),,Civilians (Mali),Aid Workers (Mali); ICRC: International Committee of the Red Cross and Red Crescent,Mali,Tombouctou,Niafunke,Dianke,15.7265,-4.642,2,National,0
+MLI2824,2019-04-24,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Military Forces of Mali (2013-2020); Women (Mali),Mali,Mopti,Douentza,Boni,15.0766,-2.2198,1,Subnational-National,1
+MLI2820,2019-04-23,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),,Mali,Mopti,Douentza,Hombori,15.279,-1.7004,2,Other-Subnational,1
+MLI2819,2019-04-23,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Gao,Ansongo,Tin Hama,15.5821,0.8908,2,National,0
+MLI2817,2019-04-22,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Kayes,Diema,Sebabougou,14.3739,-8.2081,2,National,0
+MLI2816,2019-04-21,1,Violence against civilians,Attack,Dozo Communal Militia (Mali),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Segou,Macina,Fiya,14.0333,-5.15,1,New media-National,6
+MLI2806,2019-04-17,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Unidentified Clan Group (Mali),Mali,Mopti,Bankass,Pissa,13.7307,-3.4041,1,Subnational,1
+MLI2803,2019-04-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Douentza,Hombori,15.279,-1.7004,2,New media-Subnational,0
+MLI2804,2019-04-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Koro,Sobangouma,14.182,-2.6574,2,New media-Subnational,3
+MLI2802,2019-04-15,1,Battles,Armed clash,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Dogon Ethnic Militia (Mali),,Mali,Mopti,Koro,Kinde,14.5302,-3.0529,1,Subnational,1
+MLI2800,2019-04-14,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Bamba-Tende,14.6851,-3.0631,1,New media-Subnational,4
+MLI2793,2019-04-11,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Diangassagou,13.9964,-3.9414,2,Subnational,1
+MLI2794,2019-04-11,1,Protests,Peaceful protest,Protesters (Mali),Teachers (Mali),,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,Subnational-National,0
+MLI2791,2019-04-10,1,Explosions/Remote violence,Shelling/artillery/missile attack,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Gao,Bourem,Tarkint,17.4794,0.1169,1,Subnational,0
+MLI2788,2019-04-07,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Dawsahak Ethnic Group (Mali),Mali,Menaka,Menaka,Menaka,15.9182,2.4022,1,National-International,2
+MLI2782,2019-04-06,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),,Mali,Mopti,Koro,Madougou-Dogon - Binedama road,14.4007,-3.0815,2,New media-Subnational,2
+MLI2780,2019-04-05,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),,Mali,Mopti,Douentza,Boni,15.0766,-2.2198,2,Subnational,0
+MLI2779,2019-04-05,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Koulikoro,Banamba,Toubakoura,13.4637,-7.3828,1,National,0
+MLI2841,2019-04-05,1,Battles,Armed clash,MSA: Movement for Azawad Salvation,,HCUA: High Council for the Unity of Azawad,,Mali,Gao,Ansongo,Talataye,16.5333,1.5167,2,National,10
+MLI2776,2019-04-05,1,Protests,Peaceful protest,Protesters (Mali),Muslim Group (Mali),,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National-International,0
+MLI2777,2019-04-05,1,Riots,Violent demonstration,Rioters (Mali),Muslim Group (Mali),Police Forces of Mali (2013-2020),,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National-International,0
+MLI2765,2019-04-02,1,Strategic developments,Headquarters or base established,Military Forces of France (2017-),,,,Mali,Tombouctou,Gourma-Rharous,Gossi,15.8196,-1.2911,1,National-International,0
+MLI2759,2019-04-01,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),,Mali,Mopti,Koro,Kassawa,14.3857,-3.0009,2,Subnational,1
+MLI2761,2019-04-01,1,Protests,Peaceful protest,Protesters (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),,,Mali,Segou,San,San,13.2887,-4.8875,1,National,0
+MLI2757,2019-04-01,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),,Mali,Mopti,Koro,Anagadia,14.3555,-2.9366,2,Subnational-National,1
+MLI2760,2019-04-01,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Tassilima Communal Militia (Mali),Dozo Communal Militia (Mali),Mali,Segou,Tominian,Tassilima,13.6189,-4.0877,1,Subnational,4
+MLI2749,2019-03-29,2,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Diengueni-Habe,14.08,-3.955,1,Subnational,1
+MLI2750,2019-03-29,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Tuareg Ethnic Group (Mali),Mali,Tombouctou,Gourma-Rharous,Gossi,15.8196,-1.2911,2,National,1
+MLI2748,2019-03-28,1,Battles,Armed clash,GATIA: Imghad Tuareg and Allies Self-Defense Group,,CMFPR1: Coordination of Patriotic Movements and Forces for Resistance (Plateforme),,Mali,Gao,Gao,Gao,16.2717,-0.0447,2,National,1
+MLI2747,2019-03-28,1,Battles,Armed clash,Dogon Ethnic Militia (Mali),,Fulani Ethnic Militia (Mali),,Mali,Mopti,Koro,Anakila,14.5733,-3.0653,2,Subnational,0
+MLI2744,2019-03-24,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Police Forces of Mali (2013-2020) Gendarmerie,,Mali,Tombouctou,Goundam,Goundam,16.4167,-3.6667,2,National,1
+MLI2736,2019-03-22,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Segou,Segou,Segou,13.4312,-6.2492,1,National,0
+MLI2734,2019-03-22,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Kayes,Kayes,Kayes,14.4417,-11.4341,1,National,0
+MLI2735,2019-03-22,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Koulikoro,Dioila,Fana,12.7787,-6.9564,1,National,2
+MLI2737,2019-03-22,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Mopti,Mopti,Sevare,14.5297,-4.0922,1,Subnational,0
+MLI2738,2019-03-22,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Diombolo,14.3017,-3.6012,1,Other-Subnational,1
+MLI2739,2019-03-22,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Diombolo,14.3017,-3.6012,1,Other-Subnational,4
+MLI2733,2019-03-21,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Sobangouma,14.182,-2.6574,1,Subnational,0
+MLI2732,2019-03-21,1,Riots,Violent demonstration,Rioters (Mali),Women (Mali),,,Mali,Kayes,Nioro,Nioro du Sahel,15.2293,-9.5928,1,National,0
+MLI2727,2019-03-16,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI2728,2019-03-16,1,Violence against civilians,Abduction/forced disappearance,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Military Forces of Mali (2013-2020),Mali,Mopti,Douentza,Debere,15.1051,-3.0106,1,Subnational,0
+MLI2722,2019-03-14,1,Battles,Armed clash,Unidentified Armed Group (Mali),,Military Forces of Mali (2013-2020),,Mali,Mopti,Mopti,Sevare,14.5297,-4.0922,1,Subnational-International,1
+MLI2720,2019-03-13,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Bougou,14.2634,-3.6618,1,Subnational,1
+MLI2716,2019-03-11,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Koro,Dinangourou,14.451,-2.245,2,Subnational-National,0
+MLI2714,2019-03-11,1,Strategic developments,Other,Protesters (Mali),Teachers (Mali),,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,3,National-International,0
+MLI2715,2019-03-11,1,Protests,Protest with intervention,Protesters (Mali),,Police Forces of Mali (2013-2020),,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,0
+MLI2711,2019-03-07,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Tegourou,14.2639,-3.6091,1,Subnational,0
+MLI2712,2019-03-06,1,Violence against civilians,Abduction/forced disappearance,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Labor Group (Mali),Mali,Mopti,Youwarou,Gande Tama,14.9984,-4.4304,1,Subnational,0
+MLI2695,2019-03-06,1,Battles,Armed clash,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Dogon Ethnic Militia (Mali),,Mali,Mopti,Koro,Tini,14.4266,-2.6036,2,Subnational,0
+MLI2694,2019-03-05,1,Battles,Armed clash,Military Forces of Mali (2013-2020),,Dozo Communal Militia (Mali),,Mali,Segou,Macina,Monimpebougou,14.1508,-5.5209,2,National,2
+MLI2691,2019-03-04,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Labor Group (Mali),Mali,Gao,Bourem,Kourmina,16.941,-0.6799,1,National,1
+MLI2687,2019-03-02,1,Explosions/Remote violence,Shelling/artillery/missile attack,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Gao,Bourem,Tarkint,17.4794,0.1169,1,New media-Subnational,0
+MLI2686,2019-03-02,1,Protests,Peaceful protest,Protesters (Mali),,,,Mali,Gao,Ansongo,Lellehoye,15.5557,0.4944,1,National,0
+MLI2683,2019-03-01,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,G5S: G5 Sahel Force (2017-),Military Forces of Mali (2013-2020),Mali,Mopti,Koro,Dinangourou,14.451,-2.245,2,Local partner-New media,9
+MLI2684,2019-03-01,1,Riots,Violent demonstration,Rioters (Mali),Military Forces of Mali (2013-2020),,,Mali,Mopti,Youwarou,Youwarou,15.3684,-4.2628,1,Subnational,0
+MLI2676,2019-02-25,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),,Mali,Mopti,Koro,Tondo Erkokoni,14.2579,-2.5728,2,New media-Subnational,2
+MLI2675,2019-02-25,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Douentza,Boni,15.0766,-2.2198,2,Subnational,1
+MLI2672,2019-02-24,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),EUTM Mali: European Union Training Mission Mali,Mali,Koulikoro,Koulikoro,Koulikoro,12.87,-7.56,1,New media-National,2
+MLI2689,2019-02-24,2,Violence against civilians,Attack,Military Forces of Mali (2013-2020),,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Douentza,Mondoro,14.6762,-1.9513,2,Other-New media,24
+MLI2673,2019-02-24,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Mali),,Military Forces of Mali (2013-2020),,Mali,Mopti,Douentza,Douentza,14.9951,-2.9517,1,Subnational,0
+MLI2666,2019-02-22,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Segou,Tominian,Safienso,13.2419,-4.4738,2,National,1
+MLI2667,2019-02-22,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Labor Group (Mali); Pastoralists (Mali),Mali,Mopti,Bankass,Bankass,14.0775,-3.5159,1,Subnational,1
+MLI2661,2019-02-20,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Gao,Gao,Hamakouladji,16.6053,-0.1061,1,National,1
+MLI2659,2019-02-19,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Mopti,Bankass,Korossogou,13.7112,-3.2722,1,Subnational,2
+MLI2658,2019-02-19,1,Protests,Peaceful protest,Protesters (Mali),AEEM: Association of Students and Pupils in Mali; Students (Mali),,,Mali,Gao,Gao,Gao,16.2717,-0.0447,1,National,0
+MLI2657,2019-02-18,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Mali),,Civilians (Mali),Pastoralists (Mali),Mali,Gao,Ansongo,Lellehoye,15.5557,0.4944,2,National,0
+MLI2642,2019-02-12,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Mopti,Douentza,Bonta,15.102,-2.9341,1,Subnational,1
+MLI2638,2019-02-11,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Mali),,Civilians (Mali),Health Workers (Mali),Mali,Gao,Ansongo,Badji Gourma,15.7345,0.4033,1,National,0
+MLI2636,2019-02-11,2,Strategic developments,Agreement,Platform of June 14th 2014 movements,CME: Agreement Movements Coordination,Military Forces of Mali (2013-2020),,Mali,Bamako,Bamako,Bamako,12.65,-8.0,3,Other-New media,0
+MLI2632,2019-02-09,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Dozo Communal Militia (Mali),,Mali,Segou,Macina,Monimpebougou,14.1508,-5.5209,2,Subnational-National,0
+MLI2627,2019-02-06,1,Battles,Armed clash,GATIA: Imghad Tuareg and Allies Self-Defense Group,,CMFPR1: Coordination of Patriotic Movements and Forces for Resistance (Plateforme),,Mali,Gao,Gao,Gao,16.2717,-0.0447,1,National,5
+MLI2624,2019-02-04,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Mopti,Bankass,Bankass,14.0775,-3.5159,2,Subnational,6
+MLI2613,2019-01-29,2,Violence against civilians,Attack,GATIA: Imghad Tuareg and Allies Self-Defense Group,,Civilians (Mali),Fulani Ethnic Group (Mali),Mali,Tombouctou,Gourma-Rharous,Ebang Malane,15.4031,-1.3712,2,New media-National,6
+MLI2609,2019-01-27,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Segou,Macina,Tougou,14.455,-5.6115,2,National,0
+MLI2602,2019-01-25,1,Strategic developments,Arrests,Military Forces of Mali (2013-2020),,JNIM: Group for Support of Islam and Muslims,,Mali,Segou,Macina,Toye,14.0805,-4.9277,2,Subnational,0
+MLI2603,2019-01-25,1,Violence against civilians,Attack,Dozo Communal Militia (Mali),,Civilians (Mali),,Mali,Segou,Macina,Monimpebougou,14.1508,-5.5209,2,National,2
+MLI2595,2019-01-22,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Mopti,Koro,Tondo Erkokoni,14.2579,-2.5728,2,Subnational,0
+MLI2592,2019-01-21,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),Dozo Communal Militia (Mali),Mali,Segou,Macina,Toye,14.0805,-4.9277,1,New media-Subnational,2
+MLI2588,2019-01-19,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Muslim Group (Mali),Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,National,1
+MLI2590,2019-01-19,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Mopti,Bankass,Niondo,13.796,-3.7748,1,Subnational,1
+MLI2587,2019-01-18,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Government of Mali (2013-2020),Mali,Gao,Ansongo,Tassiga,15.4729,0.6941,2,National,0
+MLI2585,2019-01-17,1,Strategic developments,Looting/property destruction,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Teachers (Mali),Mali,Tombouctou,Niafunke,Attara,15.6621,-4.3523,1,National,0
+MLI2576,2019-01-14,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Tenenkou,Diafarabe,14.1409,-5.0169,2,Subnational,0
+MLI2577,2019-01-14,1,Violence against civilians,Attack,Military Forces of Mali (2013-2020),,Civilians (Mali),,Mali,Mopti,Douentza,Douentza,14.9951,-2.9517,1,New media-Subnational,0
+MLI2575,2019-01-13,1,Battles,Armed clash,Unidentified Armed Group (Mali),,Military Forces of Mali (2013-2020),,Mali,Mopti,Douentza,Douentza,14.9951,-2.9517,1,New media-Subnational,0
+MLI2574,2019-01-12,1,Battles,Armed clash,Sadiola Communal Militia (Mali),,Police Forces of Mali (2013-2020),,Mali,Kayes,Kayes,Sadiola,13.8916,-11.7054,2,National-International,1
+MLI2570,2019-01-11,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Menaka,Menaka,Menaka,15.9182,2.4022,1,New media-National,0
+MLI2567,2019-01-10,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Mopti,Koro,Gomso-Baroua,13.9911,-2.9124,2,Subnational,0
+MLI2565,2019-01-09,1,Battles,Armed clash,Fulani Ethnic Militia (Mali),Pastoralists (Mali),Lorigan Communal Militia (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Koro,14.0778,-3.0832,2,Subnational,3
+MLI2837,2019-01-05,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Douentza,Tiguila,14.876,-1.8545,2,Local partner-New media,2
+MLI2839,2019-01-05,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Douentza,Tiguila,14.876,-1.8545,2,Subnational-International,12
+MLI2836,2019-01-05,1,Protests,Peaceful protest,Protesters (Mali),Labor Group (Mali),,,Mali,Bamako,Bamako,Bamako,12.65,-8.0,1,Subnational-National,0
+MLI2557,2019-01-01,1,Battles,Armed clash,Military Forces of Mali (2013-2020),,Military Forces of Mali (2013-2020),,Mali,Mopti,Youwarou,Youwarou,15.3684,-4.2628,1,Subnational,0
+MLI2555,2019-01-01,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),,Mali,Mopti,Bankass,Bankass,14.0775,-3.5159,2,Local partner-New media,1
+MLI2769,2019-04-03,1,Strategic developments,Looting/property destruction,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Ogossagou,14.0092,-3.8857,1,Subnational-National,0
+MLI2770,2019-04-03,1,Explosions/Remote violence,Air/drone strike,Fulani Ethnic Militia (Mali),,Military Forces of Mali (2013-2020),,Mali,Mopti,Bandiagara,Ogossagou,14.0092,-3.8857,1,Subnational-National,0
+MLI3406,2019-12-30,1,Battles,Armed clash,Military Forces of France (2017-),,JNIM: Group for Support of Islam and Muslims,,Mali,Mopti,Mopti,Mopti,14.4891,-4.1928,3,National-Regional,9
+MLI2844,2019-04-17,2,Battles,Armed clash,Military Forces of France (2017-),,JNIM: Group for Support of Islam and Muslims,,Mali,Kidal,Kidal,Tin Bidene,18.8,1.95,2,New media,5
+MLI2789,2019-04-07,1,Battles,Armed clash,Military Forces of France (2017-),Military Forces of Mali (2013-2020),JNIM: Group for Support of Islam and Muslims,,Mali,Mopti,Douentza,Serma,14.86,-2.2642,2,National-International,15
+MLI2662,2019-02-21,1,Battles,Armed clash,Military Forces of France (2017-),,JNIM: Group for Support of Islam and Muslims,,Mali,Tombouctou,Goundam,Erigat el Akle,18.5797,-4.9403,2,National-International,11
+MLI2564,2019-01-08,2,Battles,Armed clash,Military Forces of France (2017-),Military Forces of Mali (2013-2020),JNIM: Group for Support of Islam and Muslims,,Mali,Mopti,Douentza,Serma,14.86,-2.2642,2,International,7
+MLI2562,2019-01-04,2,Battles,Armed clash,Military Forces of France (2017-),Military Forces of Mali (2013-2020),JNIM: Group for Support of Islam and Muslims,,Mali,Mopti,Douentza,Serma,14.86,-2.2642,2,International,8
+MLI2729,2019-03-16,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Koro,Aldouma,14.3845,-2.6432,2,Subnational,3
+MLI2877,2019-05-16,1,Riots,Violent demonstration,Rioters (Mali),,Gandakoy Ethnic Militia (Mali),,Mali,Tombouctou,Dire,Dire,16.257,-3.4013,1,National,0
+MLI2900,2019-05-22,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),CMA: Coordination of Movements of the Azawad; Government of Mali (2013-2020),Mali,Gao,Gao,Gao,16.2717,-0.0447,1,New media-National,0
+MLI2917,2019-05-27,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Police Forces of Mali (2013-2020) Gendarmerie,,Mali,Koulikoro,Koulikoro,Nyamina,13.3178,-6.982,1,Local partner-New media,0
+MLI2965,2019-06-17,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Labor Group (Mali),Mali,Gao,Ansongo,Talataye,16.5333,1.5167,1,Subnational,0
+MLI3098,2019-08-08,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Kani-Gogouna,14.5588,-3.3889,2,New media-Subnational,1
+MLI3250,2019-10-20,1,Strategic developments,Looting/property destruction,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Government of Mali (2013-2020),Mali,Koulikoro,Nara,Balle,15.3395,-8.587,1,National,0
+MLI3330,2019-12-07,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Mali),,Civilians (Mali),Government of Mali (2013-2020),Mali,Mopti,Douentza,Boni,15.0766,-2.2198,1,New media,0
+MLI3340,2019-12-13,1,Violence against civilians,Abduction/forced disappearance,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Government of Mali (2013-2020),Mali,Segou,Segou,Farako,13.4104,-6.3895,1,Local partner-New media,0
+MLI2663,2019-02-21,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),Tuareg Ethnic Group (Mali),Mali,Gao,Gao,Doro,16.1137,-0.8606,2,New media,2
+MLI2813,2019-04-20,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),,Mali,Segou,Macina,Touara,14.0068,-5.2099,2,Subnational,1
+MLI2922,2019-05-28,1,Battles,Armed clash,Unidentified Armed Group (Mali),,Military Forces of Mali (2013-2020),,Mali,Gao,Gao,Wabaria,16.1908,-0.0322,1,Subnational,0
+MLI3024,2019-07-02,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Menaka,Menaka,In Delimane,15.8685,1.5275,2,National,0
+MLI3127,2019-08-23,1,Violence against civilians,Attack,Unidentified Armed Group (Mali),,Civilians (Mali),,Mali,Gao,Gao,Lobou,16.2867,-0.0992,2,New media,1
+MLI2643,2019-02-12,1,Violence against civilians,Attack,Unidentified Communal Militia (Mali),,Civilians (Mali),Pastoralists (Mali),Mali,Mopti,Douentza,Duna,14.6486,-1.7364,2,Other-Subnational,1
+MLI2764,2019-04-02,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of France (2017-),,Mali,Mopti,Douentza,Duna,14.6486,-1.7364,2,New media-Subnational,1
+MLI3064,2019-07-22,1,Violence against civilians,Attack,Fulani Ethnic Militia (Mali),,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Douentza,Duna,14.6486,-1.7364,1,New media,0
+MLI3117,2019-08-20,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Dogon Ethnic Militia (Mali),,Mali,Mopti,Douentza,Duna,14.6486,-1.7364,1,New media-Subnational,2
+MLI3319,2019-12-01,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,,,Mali,Mopti,Bandiagara,Parou,14.1891,-3.7488,1,Local partner-New media,0
+MLI2578,2019-01-15,1,Battles,Armed clash,Islamic State in the Greater Sahara (ISGS),,Amalaoulaou Communal Militia (Mali),Tuareg Ethnic Group (Mali); GATIA: Imghad Tuareg and Allies Self-Defense Group,Mali,Gao,Ansongo,Amalaoulaou,15.4024,1.297,1,Local partner-New media,5
+MLI2579,2019-01-15,1,Battles,Armed clash,Islamic State in the Greater Sahara (ISGS),,MSA: Movement for Azawad Salvation,Dawsahak Ethnic Group (Mali),Mali,Menaka,Menaka,In-Ekar Ouest,15.9334,1.9541,1,Regional-International,7
+MLI2580,2019-01-15,1,Battles,Armed clash,Islamic State in the Greater Sahara (ISGS),,MSA: Movement for Azawad Salvation,Dawsahak Ethnic Group (Mali),Mali,Menaka,Menaka,Taghatert,15.8577,1.9613,1,Regional-International,3
+MLI2581,2019-01-15,1,Violence against civilians,Attack,Islamic State in the Greater Sahara (ISGS),,Civilians (Mali),Dawsahak Ethnic Group (Mali),Mali,Menaka,Menaka,In-Ekar Ouest,15.9334,1.9541,1,Regional-International,18
+MLI2582,2019-01-15,1,Violence against civilians,Attack,Islamic State in the Greater Sahara (ISGS),,Civilians (Mali),Dawsahak Ethnic Group (Mali),Mali,Menaka,Menaka,Taghatert,15.8577,1.9613,1,Regional-International,9
+MLI2584,2019-01-17,1,Violence against civilians,Attack,Islamic State in the Greater Sahara (ISGS),,Civilians (Mali),GATIA: Imghad Tuareg and Allies Self-Defense Group; Tuareg Ethnic Group (Mali),Mali,Gao,Ansongo,Amalaoulaou,15.4024,1.297,1,Subnational,0
+MLI2597,2019-01-23,1,Violence against civilians,Attack,Islamic State in the Greater Sahara (ISGS),,Civilians (Mali),Government of Mali (2013-2020); Tuareg Ethnic Group (Mali),Mali,Gao,Gao,Doreye,15.8197,-0.41,1,Subnational,2
+MLI2618,2019-02-01,1,Battles,Armed clash,Islamic State in the Greater Sahara (ISGS),,GATIA: Imghad Tuareg and Allies Self-Defense Group,,Mali,Menaka,Menaka,Tidimbawen,15.3859,1.4505,1,Local partner-New media,25
+MLI2647,2019-02-14,1,Battles,Armed clash,Islamic State in the Greater Sahara (ISGS),,MSA: Movement for Azawad Salvation,GATIA: Imghad Tuareg and Allies Self-Defense Group,Mali,Menaka,Menaka,Taranguit,15.6594,1.5177,2,Local partner-New media,10
+MLI2677,2019-02-26,1,Battles,Armed clash,Islamic State in the Greater Sahara (ISGS),,GATIA: Imghad Tuareg and Allies Self-Defense Group,,Mali,Tombouctou,Gourma-Rharous,NDaki,15.3584,-0.9241,2,National,2
+MLI2713,2019-03-10,1,Battles,Armed clash,Islamic State in the Greater Sahara (ISGS),,Military Forces of France (2017-),,Mali,Menaka,Menaka,Akabar,15.3717,2.0319,2,Local partner-New media,1
+MLI2795,2019-04-11,1,Battles,Armed clash,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,MSA: Movement for Azawad Salvation,,Mali,Menaka,Menaka,I-n-Kiringya,15.7847,2.4536,2,New media-National,2
+MLI2809,2019-04-18,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims and/or Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Military Forces of Mali (2013-2020),,Mali,Menaka,Menaka,Menaka,15.9182,2.4022,2,National,0
+MLI2821,2019-04-23,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims and/or Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Civilians (Mali),Dawsahak Ethnic Group (Mali),Mali,Menaka,Menaka,I-n-Telli,16.2968,2.7629,2,National,1
+MLI2855,2019-05-09,1,Strategic developments,Disrupted weapons use,Military Forces of France (2017-),,JNIM: Group for Support of Islam and Muslims and/or Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Mali,Menaka,Menaka,Menaka,15.9182,2.4022,1,New media,0
+MLI2861,2019-05-11,1,Violence against civilians,Attack,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Civilians (Mali),Tuareg Ethnic Group (Mali); Muslim Group (Mali),Mali,Tombouctou,Gourma-Rharous,Adiora,16.0872,-1.2639,1,Other-New media,0
+MLI2871,2019-05-14,1,Violence against civilians,Abduction/forced disappearance,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Civilians (Mali),Muslim Group (Mali); Tuareg Ethnic Group (Mali),Mali,Tombouctou,Gourma-Rharous,Ebang Malane,15.4031,-1.3712,1,New media,0
+MLI2910,2019-05-24,1,Battles,Armed clash,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,GATIA: Imghad Tuareg and Allies Self-Defense Group,,Mali,Gao,Gao,Tinkarazeina,15.8056,-0.4202,2,New media-National,1
+MLI2937,2019-05-31,1,Battles,Armed clash,Military Forces of France (2017-),,JNIM: Group for Support of Islam and Muslims and/or Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Mali,Tombouctou,Gourma-Rharous,NDaki,15.3584,-0.9241,2,National-Regional,10
+MLI2948,2019-06-12,1,Violence against civilians,Attack,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Civilians (Niger),Tuareg Ethnic Group (Niger),Mali,Gao,Ansongo,Ti-n-Tegalatin,15.05,0.503,2,New media-Regional,1
+MLI2949,2019-06-12,1,Strategic developments,Disrupted weapons use,JNIM: Group for Support of Islam and Muslims and/or Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,,,Mali,Menaka,Menaka,Menaka,15.9182,2.4022,1,National,2
+MLI2954,2019-06-14,1,Battles,Armed clash,Military Forces of France (2017-),Military Forces of Mali (2013-2020),Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Mali,Menaka,Menaka,Akabar,15.3717,2.0319,2,New media-National,20
+MLI2970,2019-06-18,1,Battles,Armed clash,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Military Forces of Mali (2013-2020),,Mali,Tombouctou,Gourma-Rharous,Ebang Malane,15.4031,-1.3712,2,Local partner-New media,8
+MLI2975,2019-06-21,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims and/or Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Civilians (Mali),,Mali,Mopti,Douentza,Hombori,15.279,-1.7004,1,New media,1
+MLI2991,2019-06-26,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims and/or Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Hombori Communal Militia (Mali),,Mali,Mopti,Douentza,Hombori,15.279,-1.7004,1,National,2
+MLI3050,2019-07-17,1,Battles,Armed clash,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Military Forces of Mali (2013-2020),Military Forces of France (2017-),Mali,Gao,Ansongo,Kamgala,15.376,0.7561,2,New media-Subnational,10
+MLI3053,2019-07-18,1,Battles,Armed clash,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,MSA: Movement for Azawad Salvation,,Mali,Gao,Ansongo,I-n-Kisman,15.8581,1.3436,2,New media-National,8
+MLI3092,2019-08-07,1,Battles,Armed clash,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Tuareg Ethnic Militia (Mali),GATIA: Imghad Tuareg and Allies Self-Defense Group,Mali,Gao,Gao,Indayniwen,16.0437,-0.7342,2,New media-National,1
+MLI3110,2019-08-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims and/or Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Civilians (Mali),MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),Mali,Menaka,Menaka,Intibsite,15.9036,1.8373,2,New media,1
+MLI3111,2019-08-17,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims and/or Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Police Forces of Mali (2013-2020) Gendarmerie,,Mali,Menaka,Menaka,Menaka,15.9182,2.4022,1,New media,0
+MLI3115,2019-08-18,1,Violence against civilians,Attack,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Civilians (Mali),Tuareg Ethnic Group (Mali),Mali,Tombouctou,Gourma-Rharous,Adiora,16.0872,-1.2639,2,New media,1
+MLI3119,2019-08-20,1,Violence against civilians,Abduction/forced disappearance,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Civilians (Mali),Tuareg Ethnic Group (Mali),Mali,Tombouctou,Gourma-Rharous,Adiora,16.0872,-1.2639,1,New media,0
+MLI3161,2019-09-03,1,Explosions/Remote violence,Air/drone strike,Military Forces of Burkina Faso (2015-2022),,JNIM: Group for Support of Islam and Muslims and/or Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Mali,Mopti,Douentza,Seno Mango,14.873,-1.1608,2,New media,2
+MLI3167,2019-09-04,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims and/or Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Military Forces of Mali (2013-2020) Operational Coordination Mechanism,,Mali,Mopti,Douentza,Hombori,15.279,-1.7004,2,Subnational,4
+MLI3180,2019-09-10,1,Strategic developments,Looting/property destruction,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Civilians (Mali),Pastoralists (Mali),Mali,Gao,Ansongo,Tassiga,15.4729,0.6941,2,New media,0
+MLI3238,2019-10-13,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims and/or Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Military Forces of Mali (2013-2020),,Mali,Gao,Ansongo,Ansongo,15.6597,0.5022,1,Subnational,0
+MLI3241,2019-10-16,1,Battles,Armed clash,Military Forces of Mali (2013-2020),,JNIM: Group for Support of Islam and Muslims and/or Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Mali,Mopti,Douentza,Boulkessi,14.7983,-1.3025,1,National,4
+MLI3242,2019-10-18,1,Battles,Armed clash,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,GATIA: Imghad Tuareg and Allies Self-Defense Group,,Mali,Kidal,Kidal,Achou,18.9767,1.3897,2,New media-National,6
+MLI3245,2019-10-19,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims and/or Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,MSA: Movement for Azawad Salvation,GATIA: Imghad Tuareg and Allies Self-Defense Group,Mali,Menaka,Menaka,Menaka,15.9182,2.4022,2,New media-National,3
+MLI3248,2019-10-20,1,Battles,Armed clash,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Ganda Izo,,Mali,Gao,Ansongo,Tassiga,15.4729,0.6941,1,Subnational-Regional,5
+MLI3253,2019-10-21,1,Explosions/Remote violence,Shelling/artillery/missile attack,JNIM: Group for Support of Islam and Muslims and/or Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,MINUSMA: United Nations Multidimensional Integrated Stabilization Mission in Mali (2013-2020),Military Forces of Mali (2013-2020); Military Forces of France (2017-),Mali,Menaka,Menaka,Menaka,15.9182,2.4022,1,New media,0
+MLI3271,2019-11-01,1,Battles,Armed clash,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Military Forces of Mali (2013-2020),,Mali,Menaka,Menaka,In Delimane,15.8685,1.5275,1,New media-International,54
+MLI3272,2019-11-02,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Military Forces of France (2017-),,Mali,Menaka,Menaka,Menaka,15.9182,2.4022,2,International,1
+MLI3275,2019-11-07,1,Battles,Armed clash,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,MSA: Movement for Azawad Salvation,,Mali,Menaka,Menaka,In Delimane,15.8685,1.5275,1,National,0
+MLI3281,2019-11-07,1,Violence against civilians,Abduction/forced disappearance,JNIM: Group for Support of Islam and Muslims and/or Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Civilians (Mali),Police Forces of Mali (2013-2020) Gendarmerie,Mali,Mopti,Douentza,Hombori,15.279,-1.7004,2,New media-National,0
+MLI3294,2019-11-01,1,Battles,Armed clash,Military Forces of Mali (2013-2020),Military Forces of France (2017-),JNIM: Group for Support of Islam and Muslims and/or Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Mali,Mopti,Douentza,Boulkessi,14.7983,-1.3025,2,Subnational-International,0
+MLI3296,2019-11-16,1,Battles,Armed clash,Military Forces of France (2017-),,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Mali,Menaka,Menaka,Taranguit,15.6594,1.5177,2,New media-National,5
+MLI3313,2019-11-27,1,Violence against civilians,Attack,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,Katiba Salaheddine,Civilians (Mali),Muslim Group (Mali); Tuareg Ethnic Group (Mali),Mali,Gao,Gao,Tamkoutat,16.4032,0.9921,1,New media-Subnational,0
+MLI3321,2019-12-02,1,Violence against civilians,Abduction/forced disappearance,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Civilians (Mali),,Mali,Gao,Ansongo,Fafa,15.3217,0.7464,1,New media-Subnational,0
+MLI3324,2019-12-04,1,Violence against civilians,Attack,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Civilians (Mali),Muslim Group (Mali),Mali,Gao,Ansongo,Labbezanga,14.9701,0.7026,1,New media,1
+MLI3331,2019-12-07,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims and/or Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Military Forces of France (2017-),,Mali,Gao,Ansongo,I-n-Fijaren,15.8291,1.4586,2,International,0
+MLI3343,2019-12-15,1,Explosions/Remote violence,Air/drone strike,Military Forces of France (2017-),,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Mali,Menaka,Menaka,In Nazour,15.862,2.1074,1,Local partner-New media,5
+MLI3344,2019-12-15,3,Violence against civilians,Attack,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Civilians (Mali),Military Forces of Mali (2013-2020); Prisoners (Mali),Mali,Menaka,Menaka,Menaka,15.9182,2.4022,3,Other,3
+MLI3355,2019-12-20,1,Battles,Armed clash,Military Forces of Mali (2013-2020),,JNIM: Group for Support of Islam and Muslims and/or Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Mali,Mopti,Douentza,Dakakouko,15.254,-1.5325,2,National,0
+MLI3363,2019-12-24,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims and/or Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Civilians (Mali),,Mali,Mopti,Douentza,Hombori,15.279,-1.7004,2,New media,2
+MLI3369,2019-12-26,1,Explosions/Remote violence,Air/drone strike,Military Forces of France (2017-),,JNIM: Group for Support of Islam and Muslims and/or Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Mali,Gao,Ansongo,Tin Telout,15.3192,0.4432,2,New media-Subnational,0
+MLI3370,2019-12-26,1,Explosions/Remote violence,Air/drone strike,Military Forces of France (2017-),,JNIM: Group for Support of Islam and Muslims and/or Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Mali,Gao,Ansongo,Tessit,15.2238,0.2925,2,New media,0
+MLI3525,2019-09-21,2,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Mali,Gao,Gao,Haoussa-Foulane,15.995,0.1318,1,Local partner-New media,0
+MLI2783,2019-04-06,1,Violence against civilians,Attack,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Civilians (Mali),,Mali,Gao,Ansongo,Koutou,15.2658,0.8077,2,Other,1
+MLI2883,2019-04-05,1,Violence against civilians,Attack,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Civilians (Mali),,Mali,Gao,Ansongo,Koutou,15.2658,0.8077,1,Other,0
+MLI2884,2019-04-19,1,Violence against civilians,Attack,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Civilians (Mali),Tuareg Ethnic Group (Mali),Mali,Gao,Ansongo,Asset Idri,15.1161,0.9731,1,Other,2
+MLI2741,2019-03-23,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bankass,Ogossagou,13.9583,-3.5706,1,Other-National,157
+MLI2742,2019-03-23,1,Violence against civilians,Attack,Dan Na Ambassagou,,Civilians (Mali),Fulani Ethnic Group (Mali); Pastoralists (Mali),Mali,Mopti,Bankass,Welingara,13.9806,-3.5872,1,Other-National,5
+MLI2745,2019-03-25,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bandiagara,Oundou,14.0457,-3.865,1,Subnational-International,4
+MLI2746,2019-03-26,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Bankass,Kere-Kere,13.76,-3.375,1,International,2
+MLI3310,2019-11-25,1,Battles,Armed clash,Military Forces of France (2017-),,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Mali,Menaka,Menaka,Eranga,15.6972,1.6309,2,New media-National,13
+MLI3317,2019-11-30,1,Explosions/Remote violence,Air/drone strike,Military Forces of France (2017-),,JNIM: Group for Support of Islam and Muslims,,Mali,Mopti,Douentza,Tin Habou,15.1932,-2.6689,2,National-International,10
+MLI3358,2019-12-21,1,Explosions/Remote violence,Air/drone strike,Military Forces of France (2017-),,JNIM: Group for Support of Islam and Muslims,,Mali,Segou,Niono,Nampala,15.2797,-5.5534,2,New media-National,40
+MLI3502,2019-10-17,1,Battles,Armed clash,Military Forces of France (2017-),,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Mali,Gao,Gao,Gao,16.2717,-0.0447,3,International,8
+MLI2556,2019-01-01,1,Violence against civilians,Attack,Dogon Ethnic Militia (Mali),,Civilians (Mali),Pastoralists (Mali); Fulani Ethnic Group (Mali),Mali,Mopti,Bankass,Koulogon-Habe,13.8162,-3.4418,1,Regional-International,37
+MLI2568,2019-01-10,1,Battles,Armed clash,Military Forces of France (2017-),Military Forces of Mali (2013-2020),JNIM: Group for Support of Islam and Muslims,,Mali,Mopti,Mopti,Dialloube,15.0191,-4.2324,2,National-International,15
+MLI2674,2019-02-25,1,Violence against civilians,Attack,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Gondogourou,14.5674,-2.9015,2,Subnational-International,1
+MLI2679,2019-02-26,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),Dogon Ethnic Group (Mali),Mali,Mopti,Koro,Gondogourou,14.5674,-2.9015,2,Subnational-National,17
+MLI2718,2019-03-12,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Douentza,Tkiri,15.2772,-1.6428,2,New media-National,4
+MLI2719,2019-03-12,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Police Forces of Mali (2013-2020) Gendarmerie,,Mali,Mopti,Mopti,Sare Samba,14.8525,-4.1844,2,National-International,3
+MLI2891,2019-05-19,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Police Forces of Mali (2013-2020),,Mali,Sikasso,Yorosso,Boura,12.4117,-4.5393,1,National-International,0
+MLI2892,2019-05-19,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Police Forces of Mali (2013-2020) Gendarmerie,,Mali,Sikasso,Yorosso,Koury,12.184,-4.8028,1,National-Regional,7
+MLI3162,2019-09-03,1,Explosions/Remote violence,Remote explosive/landmine/IED,JNIM: Group for Support of Islam and Muslims,,Civilians (Mali),,Mali,Mopti,Douentza,Dallah,15.1053,-2.6403,2,Other-Subnational,14
+MLI3206,2019-09-26,1,Battles,Armed clash,JNIM: Group for Support of Islam and Muslims,,Military Forces of Mali (2013-2020),,Mali,Mopti,Douentza,Batouma,14.9961,-3.614,2,New media-National,7
+MLI3304,2019-11-18,1,Battles,Armed clash,Islamic State West Africa Province (ISWAP) - Greater Sahara Faction,,Military Forces of Mali (2013-2020),Military Forces of Niger (2011-2021),Mali,Menaka,Menaka,Tabankort,15.3826,2.1009,2,New media-Regional,60
+MLI2792,2019-04-11,2,Battles,Armed clash,Military Forces of Mali (2013-2020),Military Forces of Burkina Faso (2015-2022); Military Forces of Burkina Faso (2015-2022) Gendarmerie,JNIM: Group for Support of Islam and Muslims,,Mali,Mopti,Koro,Gakou,13.6893,-2.984,2,Subnational-International,24

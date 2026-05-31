@@ -1,0 +1,41 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+MAW1586,2025-01-02,1,Riots,Mob violence,Rioters (Malawi),Vigilante Group (Malawi),Civilians (Malawi),Women (Malawi),Malawi,Southern,Mulanje,Mulanje,-16.0333,35.5,2,National,0,MWI
+MAW1587,2025-01-06,2,Riots,Mob violence,Rioters (Malawi),Rioters (Rwanda); Vigilante Group (Malawi); Vigilante Group (Rwanda),Civilians (Malawi),,Malawi,Southern,Blantyre City,Limbe,-15.809,35.0602,1,National,0,MWI
+MAW1588,2025-01-06,1,Riots,Mob violence,Rioters (Malawi),Vigilante Group (Malawi),Civilians (Malawi),Labor Group (Malawi),Malawi,Southern,Machinga,Machinga,-14.9667,35.5167,1,National,0,MWI
+MAW1589,2025-01-10,1,Violence against civilians,Attack,Police Forces of Malawi (2020-),,Civilians (Malawi),,Malawi,Northern,Mzimba,Bulala,-11.6776,33.4465,1,National,0,MWI
+MAW1593,2025-01-01,2,Strategic developments,Other,Civilians (Mozambique),Refugees/IDPs (Mozambique),,,Malawi,Southern,Nsanje,Nsanje,-16.9167,35.2667,1,Other-National,0,MWI
+MAW1595,2025-01-11,1,Protests,Excessive force against protesters,Protesters (Malawi),DPP: Democratic Progressive Party,Police Forces of Malawi (2020-),,Malawi,Central,Lilongwe City,Lilongwe,-13.9833,33.7833,1,National,0,MWI
+MAW1596,2025-01-11,1,Strategic developments,Arrests,Police Forces of Malawi (2020-),,Civilians (Malawi),DPP: Democratic Progressive Party,Malawi,Central,Lilongwe City,Lilongwe,-13.9833,33.7833,1,National,0,MWI
+MAW1597,2025-01-13,1,Riots,Violent demonstration,Rioters (Malawi),,Police Forces of Malawi (2020-),Police Forces of Mozambique (1990-),Malawi,Southern,Machinga,Nayuchi,-14.9763,35.8709,1,National,2,MWI
+MAW1599,2025-01-22,2,Riots,Mob violence,Rioters (Malawi),Vigilante Group (Malawi),Civilians (Malawi),,Malawi,Northern,Chitipa,Chitipa,-9.7167,33.2667,1,National,1,MWI
+MAW1600,2025-01-26,1,Riots,Mob violence,Rioters (Malawi),DPP: Democratic Progressive Party,Civilians (Malawi),DPP: Democratic Progressive Party,Malawi,Southern,Mulanje,Limbuli,-16.0732,35.7152,1,National,0,MWI
+MAW1601,2025-01-28,1,Riots,Mob violence,Rioters (Malawi),,,,Malawi,Southern,Mangochi,Chimwala,-14.6386,35.1833,1,National,0,MWI
+MAW1602,2025-01-31,1,Riots,Mob violence,Rioters (Malawi),Vigilante Group (Malawi),,,Malawi,Southern,Blantyre City,Mbayani,-15.7717,35.003,1,National,1,MWI
+MAW1603,2025-01-31,1,Riots,Violent demonstration,Rioters (Malawi),,Police Forces of Malawi (2020-),,Malawi,Southern,Blantyre City,Chirimba,-15.7524,35.02,2,National,0,MWI
+MAW1604,2025-02-13,1,Protests,Peaceful protest,Protesters (Malawi),,,,Malawi,Southern,Balaka,Balaka,-14.9793,34.9558,2,National,0,MWI
+MAW1605,2025-02-12,2,Riots,Mob violence,Rioters (Malawi),Vigilante Group (Malawi),Civilians (Malawi),,Malawi,Southern,Chikwawa,Mologeni,-16.15,34.7333,2,National,1,MWI
+MAW1606,2025-02-20,1,Protests,Peaceful protest,Protesters (Malawi),Government of Malawi (2020-),,,Malawi,Central,Lilongwe City,Lilongwe,-13.9833,33.7833,1,National,0,MWI
+MAW1607,2025-02-19,2,Strategic developments,Other,Government of Malawi (2020-),,Civilians (Ethiopia),Refugees/IDPs (Ethiopia),Malawi,Central,Lilongwe City,Lilongwe,-13.9833,33.7833,3,National,0,MWI
+MAW1608,2025-02-17,1,Riots,Violent demonstration,Rioters (Malawi),Students (Malawi),,,Malawi,Northern,Mzimba,Mzimba,-11.9,33.6,1,National,0,MWI
+MAW1609,2025-02-15,1,Riots,Mob violence,Rioters (Malawi),,Civilians (Malawi),Government of Malawi (2020-),Malawi,Northern,Mzimba,Mzuzu,-11.45,33.5833,2,National,0,MWI
+MAW1610,2025-02-23,1,Riots,Violent demonstration,Rioters (Malawi),Labor Group (Malawi),Private Security Forces (Malawi),MCP: Malawi Congress Party,Malawi,Southern,Machinga,Machinga,-14.9667,35.5167,1,National,0,MWI
+MAW1611,2025-02-25,1,Protests,Peaceful protest,Protesters (Malawi),Labor Group (Malawi),,,Malawi,Central,Lilongwe City,Lilongwe,-13.9833,33.7833,1,National,0,MWI
+MAW1612,2025-02-25,1,Riots,Violent demonstration,Rioters (Malawi),Labor Group (Malawi),Police Forces of Malawi (2020-),Government of Malawi (2020-); Military Forces of Malawi (2020-),Malawi,Central,Lilongwe City,Lilongwe,-13.9833,33.7833,1,National-International,0,MWI
+MAW1613,2025-02-26,1,Riots,Violent demonstration,Rioters (Malawi),Labor Group (Malawi),Police Forces of Malawi (2020-),,Malawi,Southern,Blantyre City,Limbe,-15.809,35.0602,1,National,0,MWI
+MAW1614,2025-02-28,1,Riots,Violent demonstration,Rioters (Malawi),Labor Group (Malawi),Police Forces of Malawi (2020-),,Malawi,Southern,Blantyre City,Ndirande,-15.7697,35.0416,1,National,0,MWI
+MAW1615,2025-02-28,1,Riots,Mob violence,Rioters (Malawi),Vigilante Group (Malawi),Civilians (Malawi),,Malawi,Southern,Thyolo,Thyolo,-16.0667,35.1333,1,National,1,MWI
+MAW1616,2025-03-04,1,Riots,Mob violence,Rioters (Malawi),Vigilante Group (Malawi),Civilians (Malawi),,Malawi,Southern,Blantyre City,Blantyre,-15.7833,35.0,1,National,1,MWI
+MAW1617,2025-03-04,1,Protests,Peaceful protest,Protesters (Malawi),,,,Malawi,Southern,Balaka,Balaka,-14.9793,34.9558,1,National,0,MWI
+MAW1618,2025-03-04,1,Protests,Protest with intervention,Protesters (Malawi),Labor Group (Malawi),Police Forces of Malawi (2020-),,Malawi,Central,Lilongwe City,Lilongwe,-13.9833,33.7833,1,National,0,MWI
+MAW1619,2025-03-09,1,Riots,Mob violence,Rioters (Malawi),MCP: Malawi Congress Party,DPP: Democratic Progressive Party,,Malawi,Central,Dowa,Dowa,-13.6525,33.9357,1,National,0,MWI
+MAW1620,2025-03-11,1,Riots,Mob violence,Rioters (Malawi),Vigilante Group (Malawi),Civilians (Malawi),,Malawi,Southern,Chikwawa,Chikwawa,-16.0335,34.8009,2,National,1,MWI
+MAW1621,2025-03-11,1,Protests,Protest with intervention,Protesters (Malawi),Labor Group (Malawi),Police Forces of Malawi (2020-),,Malawi,Southern,Zomba City,Zomba,-15.3833,35.3333,1,National,0,MWI
+MAW1622,2025-03-12,1,Protests,Protest with intervention,Protesters (Malawi),,Police Forces of Malawi (2020-),,Malawi,Southern,Balaka,Balaka,-14.9793,34.9558,1,National,0,MWI
+MAW1623,2025-03-13,1,Protests,Protest with intervention,Protesters (Malawi),,Police Forces of Malawi (2020-),,Malawi,Southern,Balaka,Balaka,-14.9793,34.9558,1,National,0,MWI
+MAW1624,2025-03-11,1,Riots,Violent demonstration,Rioters (Malawi),Labor Group (Malawi),Police Forces of Malawi (2020-),,Malawi,Northern,Mzimba,Mzuzu,-11.45,33.5833,1,National,0,MWI
+MAW1625,2025-03-12,1,Riots,Violent demonstration,Rioters (Malawi),,Police Forces of Malawi (2020-),,Malawi,Northern,Mzimba,Mzuzu,-11.45,33.5833,1,National,0,MWI
+MAW1626,2025-03-17,1,Protests,Peaceful protest,Protesters (Malawi),Students (Malawi); Women (Malawi),,,Malawi,Southern,Chikwawa,Chikwawa,-16.0335,34.8009,1,National,0,MWI
+MAW1627,2025-03-17,1,Riots,Mob violence,Rioters (Malawi),,Police Forces of Malawi (2020-),,Malawi,Southern,Mangochi,Katema,-14.5311,35.0357,1,National,0,MWI
+MAW1594,2025-01-01,1,Riots,Mob violence,Rioters (Malawi),Vigilante Group (Malawi),Civilians (Malawi),,Malawi,Southern,Nsanje,Bangula,-16.5833,35.1167,2,National,1,MWI
+MAW1629,2025-03-17,1,Violence against civilians,Attack,Police Forces of Malawi (2020-),,Civilians (Malawi),Government of Malawi (2020-),Malawi,Northern,Mzimba,Mzimba,-11.9,33.6,1,National,0,MWI
+MAW1598,2025-01-15,1,Riots,Mob violence,Rioters (Malawi),DPP: Democratic Progressive Party,Civilians (Malawi),MCP: Malawi Congress Party; Women (Malawi),Malawi,Southern,Blantyre City,Ndirande,-15.7697,35.0416,1,National,0,MWI

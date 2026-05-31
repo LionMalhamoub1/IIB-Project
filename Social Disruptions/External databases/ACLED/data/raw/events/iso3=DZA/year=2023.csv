@@ -1,0 +1,439 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+ALG12342,2023-01-03,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Annaba,Annaba,Annaba,36.9,7.7667,1,New media,0,DZA
+ALG12344,2023-01-08,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Relizane,Relizane,Relizane,35.7425,0.5592,1,New media,0,DZA
+ALG12345,2023-01-08,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,New media,0,DZA
+ALG12347,2023-01-08,1,Protests,Peaceful protest,Protesters (Algeria),Taxi Drivers (Algeria),,,Algeria,Saida,Saida,Saida,34.8303,0.1517,1,New media,0,DZA
+ALG12348,2023-01-03,2,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Mascara,Mascara,Mascara,35.3944,0.1397,1,National,0,DZA
+ALG12350,2023-01-10,1,Violence against civilians,Attack,Police Forces of Algeria (2019-),,Civilians (Algeria),,Algeria,Alger,Les Eucalyptus,Algiers - Les Eucalyptus,36.6651,3.1679,1,National,1,DZA
+ALG12351,2023-01-17,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0,DZA
+ALG12352,2023-01-17,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Tamanrasset,Tamenghasset,Tamanrasset,22.785,5.5228,1,New media,0,DZA
+ALG12353,2023-01-15,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0,DZA
+ALG12354,2023-01-15,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Tizi Ouzou,Souk El Tenine,Maatka,36.5833,4.0,1,National,0,DZA
+ALG12355,2023-01-14,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,National,0,DZA
+ALG12356,2023-01-14,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Chlef,Chlef,Chlef,36.1653,1.3345,1,National,0,DZA
+ALG12357,2023-01-15,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria); Students (Algeria),,,Algeria,Batna,Batna,Batna,35.5553,6.1786,1,National,0,DZA
+ALG12358,2023-01-18,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Batna,Merouana,Merouana,35.6311,5.9119,1,National,0,DZA
+ALG12359,2023-01-18,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Sidi Ben Yebka,Sidi Ben Yebka,35.8304,-0.3936,1,Subnational,0,DZA
+ALG12361,2023-01-23,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,1,National,0,DZA
+ALG12362,2023-01-25,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Batna,Seriana,Seriana,35.6972,6.1878,1,National,0,DZA
+ALG12363,2023-01-26,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria); Teachers (Algeria),,,Algeria,Annaba,Berrahal,Berrahal,36.8353,7.4533,1,National,0,DZA
+ALG12364,2023-01-22,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,2,National,0,DZA
+ALG12365,2023-01-23,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Alger,Les Eucalyptus,Algiers - El Harrach,36.7203,3.145,1,National,0,DZA
+ALG12366,2023-01-24,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tebessa,Tebessa,Tebessa,35.4042,8.1242,1,National,0,DZA
+ALG12367,2023-01-17,2,Protests,Protest with intervention,Protesters (Algeria),Muslim Group (Algeria),Police Forces of Algeria (2019-),,Algeria,Tiaret,Tiaret,Tiaret,35.3758,1.3131,1,National,0,DZA
+ALG12368,2023-01-24,1,Riots,Violent demonstration,Rioters (Algeria),Students (Algeria),,,Algeria,Batna,Lazrou,Lazrou,35.843,6.2166,1,National,0,DZA
+ALG12369,2023-01-22,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Oum El Bouaghi,Oum El Bouaghi,Oum El Bouaghi,35.8754,7.1135,1,National,0,DZA
+ALG12370,2023-01-19,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Oum El Bouaghi,Oum El Bouaghi,Oum El Bouaghi,35.8754,7.1135,1,National,0,DZA
+ALG12371,2023-01-24,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,1,National,0,DZA
+ALG12372,2023-01-29,2,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Oum El Bouaghi,Oum El Bouaghi,Oum El Bouaghi,35.8754,7.1135,1,National,0,DZA
+ALG12374,2023-01-29,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Ouargla,Touggourt,Touggourt,33.1053,6.058,1,National,0,DZA
+ALG12375,2023-02-01,1,Protests,Peaceful protest,Protesters (Algeria),Lawyers (Algeria),,,Algeria,Alger,Kouba,Algiers - Hussein Dey,36.7407,3.0962,1,National,0,DZA
+ALG12376,2023-02-01,1,Protests,Peaceful protest,Protesters (Algeria),Lawyers (Algeria),,,Algeria,Blida,Blida,Blida,36.4686,2.8289,1,National,0,DZA
+ALG12377,2023-02-01,1,Protests,Peaceful protest,Protesters (Algeria),Lawyers (Algeria),,,Algeria,Mila,Mila,Mila,36.4503,6.2644,1,National,0,DZA
+ALG12378,2023-01-28,2,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,Subnational,0,DZA
+ALG12379,2023-02-01,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,El Oued,El M'Ghair,El Meghair,33.953,5.9293,1,New media,0,DZA
+ALG12380,2023-01-26,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria); Teachers (Algeria),,,Algeria,Annaba,Annaba,Annaba,36.9,7.7667,1,National,0,DZA
+ALG12381,2023-02-01,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Saida,Saida,Saida,34.8303,0.1517,1,New media,0,DZA
+ALG12382,2023-01-29,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Alger,Reghaia,Algiers - Reghaia,36.7359,3.3402,1,National,0,DZA
+ALG12383,2023-02-01,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oum El Bouaghi,Zorg,Zorg,35.8288,7.5116,1,National,0,DZA
+ALG12384,2023-02-01,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tamanrasset,Tazrouk,Tin Tarabine,21.8634,6.8695,1,New media,0,DZA
+ALG12385,2023-02-02,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tlemcen,Mansourah,Mansourah,34.8733,-1.3303,1,National,0,DZA
+ALG12386,2023-01-28,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,El Harrouch,El Harrouch,36.6514,6.8361,1,National,0,DZA
+ALG12387,2023-01-28,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Djelfa,Ain Oussera,Ain Oussara,35.4513,2.9058,1,National,0,DZA
+ALG12388,2023-02-10,1,Violence against civilians,Attack,Military Forces of Algeria (2019-),,Civilians (Mauritania),Miners (Mauritania),Algeria,Tindouf,Tindouf,Tindouf,27.6711,-8.1474,2,Regional,2,DZA
+ALG12391,2023-02-08,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Blida,Blida,Blida,36.4686,2.8289,1,National,0,DZA
+ALG12392,2023-02-06,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,El Ancar,El Ancor,35.6876,-0.8697,1,National,0,DZA
+ALG12393,2023-02-06,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Blida,Blida,Blida,36.4686,2.8289,1,National,0,DZA
+ALG12394,2023-02-06,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0,DZA
+ALG12395,2023-02-08,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,El Tarf,Ben Mhidi,Ben M'Hidi,36.7671,7.9063,1,National,0,DZA
+ALG12396,2023-02-13,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Batna,Barika,Barika,35.389,5.3658,1,New media,0,DZA
+ALG12397,2023-02-14,1,Violence against civilians,Attack,Military Forces of Algeria (2019-),,Civilians (Mauritania),Miners (Mauritania),Algeria,Tindouf,Tindouf,Tindouf,27.6711,-8.1474,2,Regional,0,DZA
+ALG12398,2023-02-14,1,Protests,Peaceful protest,Protesters (Algeria),SNCCOPEN: National Union of Common Bodies and Professional Workers in Public Education; Labor Group (Algeria),,,Algeria,Bordj Bou Arreridj,Bordj Bou Arreridj,Bordj Bou Arreridj,36.0732,4.7611,1,National,0,DZA
+ALG12399,2023-02-15,1,Protests,Peaceful protest,Protesters (Algeria),SNCCOPEN: National Union of Common Bodies and Professional Workers in Public Education; Labor Group (Algeria),,,Algeria,Biskra,Biskra,Biskra,34.8504,5.7281,1,New media,0,DZA
+ALG12400,2023-02-14,1,Protests,Peaceful protest,Protesters (Algeria),SNCCOPEN: National Union of Common Bodies and Professional Workers in Public Education; Labor Group (Algeria),,,Algeria,Chlef,Chlef,Chlef,36.1653,1.3345,1,New media,0,DZA
+ALG12401,2023-02-15,1,Protests,Peaceful protest,Protesters (Algeria),SNCCOPEN: National Union of Common Bodies and Professional Workers in Public Education; Labor Group (Algeria),,,Algeria,Adrar,Adrar,Adrar,27.8709,-0.2856,1,New media,0,DZA
+ALG12402,2023-02-13,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Oum El Bouaghi,Ain El Fakroun,Ain Fakroun,35.9711,6.8737,1,National,0,DZA
+ALG12403,2023-02-17,2,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Setif,Djemila,Djemila,36.313,5.736,2,National,0,DZA
+ALG12404,2023-02-16,1,Protests,Peaceful protest,Protesters (Algeria),UGTA: General Union of Algerian Workers; Labor Group (Algeria),,,Algeria,Djelfa,Ain Oussera,Ain Oussara,35.4513,2.9058,1,National,0,DZA
+ALG12405,2023-02-21,1,Protests,Peaceful protest,Protesters (Algeria),CNAPESTE: National Independent Council of Higher Education Teachers; Teachers (Algeria),,,Algeria,Relizane,Relizane,Relizane,35.7425,0.5592,1,National,0,DZA
+ALG12406,2023-02-16,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Annaba,Annaba,Annaba,36.9,7.7667,1,National,0,DZA
+ALG12407,2023-02-19,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Batna,Batna,Batna,35.5553,6.1786,1,National,0,DZA
+ALG12408,2023-02-19,2,Protests,Peaceful protest,Protesters (Algeria),Taxi Drivers (Algeria),,,Algeria,Relizane,Relizane,Relizane,35.7425,0.5592,1,National,0,DZA
+ALG12409,2023-02-23,2,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Medea,Medea,Medea,36.2675,2.75,1,National,0,DZA
+ALG12410,2023-02-19,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,1,National,0,DZA
+ALG12411,2023-02-18,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tlemcen,Tlemcen,Tlemcen,34.8783,-1.315,1,National,0,DZA
+ALG12413,2023-02-25,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Annaba,Annaba,Annaba,36.9,7.7667,1,National,0,DZA
+ALG12414,2023-02-27,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Msila,Msila,M'Sila,35.7058,4.5419,1,National,0,DZA
+ALG12415,2023-03-02,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Laghouat,Laghouat,Laghouat,33.8,2.8651,1,New media,0,DZA
+ALG12416,2023-02-27,1,Protests,Peaceful protest,Protesters (Algeria),SNCCOPEN: National Union of Common Bodies and Professional Workers in Public Education; Labor Group (Algeria),,,Algeria,Ouargla,Ouargla,Ouargla,31.9664,5.3421,1,New media,0,DZA
+ALG12417,2023-02-27,1,Protests,Peaceful protest,Protesters (Algeria),SNCCOPEN: National Union of Common Bodies and Professional Workers in Public Education; Labor Group (Algeria),,,Algeria,Tlemcen,Tlemcen,Tlemcen,34.8783,-1.315,1,New media,0,DZA
+ALG12419,2023-02-27,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0,DZA
+ALG12420,2023-02-26,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Ben Azzouz,Ben Azzouz,36.8621,7.2916,1,National,0,DZA
+ALG12422,2023-02-27,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Annaba,Annaba,Annaba,36.9,7.7667,1,National,0,DZA
+ALG12423,2023-02-22,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,El Oued,Djamaa,Djemaa,33.5333,6.0,1,National,0,DZA
+ALG12424,2023-03-02,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Djelfa,Ain Oussera,Ain Oussara,35.4513,2.9058,1,National,0,DZA
+ALG12425,2023-03-01,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Jijel,Taher,Taher,36.7667,5.9,1,National,0,DZA
+ALG12426,2023-02-28,1,Strategic developments,Arrests,Police Forces of Algeria (2019-),,Civilians (International),Migrants (International),Algeria,Adrar,Adrar,Adrar,27.8709,-0.2856,1,New media,0,DZA
+ALG12427,2023-02-18,2,Strategic developments,Looting/property destruction,Unidentified Armed Group (Algeria),,Civilians (Algeria),,Algeria,Tindouf,Tindouf,Tindouf,27.6711,-8.1474,1,International,0,DZA
+ALG12428,2023-01-20,1,Strategic developments,Other,Government of Algeria (2019-),,Civilians (Algeria),LADDH: Algerian League for the Defense of Human Rights,Algeria,Alger,,Algiers,36.7525,3.042,3,Other-International,0,DZA
+ALG12430,2023-02-18,2,Battles,Armed clash,Unidentified Armed Group (Algeria),,Police Forces of Algeria (2019-),,Algeria,Tindouf,Tindouf,Tindouf,27.6711,-8.1474,1,International,0,DZA
+ALG12431,2023-03-04,2,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,El Tarf,El Tarf,El Tarf,36.7686,8.3167,1,National,0,DZA
+ALG12432,2023-03-05,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,El Tarf,El Tarf,El Tarf,36.7686,8.3167,1,National,0,DZA
+ALG12434,2023-03-06,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Sidi Bel Abbes,Sidi Bel Abbes,Sidi Bel Abbes,35.1939,-0.6414,1,National,0,DZA
+ALG12435,2023-03-06,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Djelfa,Benhar,Benhar,35.4865,3.0121,1,National,0,DZA
+ALG12436,2023-03-08,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Djendel Saadi Mohamed,Djendel,36.7804,7.1709,1,National,0,DZA
+ALG12437,2023-03-07,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Djendel Saadi Mohamed,Djendel,36.7804,7.1709,1,National,0,DZA
+ALG12438,2023-03-08,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Blida,Larbaa,Larbaa,36.5893,3.1565,1,National,0,DZA
+ALG12439,2023-03-03,1,Strategic developments,Other,Unidentified Armed Group (Algeria),,Civilians (Algeria),,Algeria,Souk Ahras,Mdaourouche,M'Daourouch,36.0739,7.8201,2,National,1,DZA
+ALG12440,2023-03-09,1,Riots,Mob violence,Rioters (Algeria),,Police Forces of Algeria (2019-),,Algeria,Annaba,El Bouni,Sidi Salem,36.8596,7.7801,1,National,0,DZA
+ALG12441,2023-03-12,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Blida,Oued Djer,Oued Djer,36.4265,2.561,1,National,0,DZA
+ALG12443,2023-03-15,1,Strategic developments,Arrests,Police Forces of Algeria (2019-),,Civilians (International),Migrants (International),Algeria,Adrar,Bordj Badji Mokhtar,Bordj Badji Mokhtar,21.3292,0.9479,1,New media,0,DZA
+ALG12444,2023-03-19,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Tlemcen,Tlemcen,Tlemcen,34.8783,-1.315,1,National,0,DZA
+ALG12446,2023-03-18,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Alger,Zeralda,Algiers - Zeralda,36.7117,2.8424,1,National,0,DZA
+ALG12447,2023-03-20,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0,DZA
+ALG12448,2023-03-19,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,1,National,0,DZA
+ALG12449,2023-03-20,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Annaba,Annaba,Annaba,36.9,7.7667,1,National,0,DZA
+ALG12450,2023-03-21,1,Protests,Peaceful protest,Protesters (Algeria),UGTA: General Union of Algerian Workers; Labor Group (Algeria),,,Algeria,Tlemcen,Tlemcen,Tlemcen,34.8783,-1.315,1,National,0,DZA
+ALG12412,2023-02-21,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,National,0,DZA
+ALG12451,2023-03-30,1,Protests,Peaceful protest,Protesters (Algeria),Health Workers (Algeria),,,Algeria,Blida,Boufarik,Boufarik,36.5741,2.9121,1,National,0,DZA
+ALG12452,2023-03-26,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Guelma,Guelma,Guelma,36.4621,7.4261,1,New media,0,DZA
+ALG12453,2023-03-27,2,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Annaba,Annaba,Annaba,36.9,7.7667,1,National,0,DZA
+ALG12454,2023-03-28,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Tlemcen,Tlemcen,Tlemcen,34.8783,-1.315,1,National,0,DZA
+ALG12455,2023-02-20,2,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,Subnational,0,DZA
+ALG12456,2023-03-30,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,Subnational,0,DZA
+ALG12457,2023-03-26,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Mostaganem,Mostaganem,Mostaganem,35.9333,0.0833,1,National,0,DZA
+ALG12459,2023-04-03,1,Strategic developments,Other,Government of Algeria (2019-),,Civilians (Algeria),Journalists (Algeria); Prisoners (Algeria),Algeria,Alger,Bouzareah,Algiers - Sidi M'Hamed,36.7541,3.057,1,National,0,DZA
+ALG12460,2023-03-30,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Mostaganem,Mostaganem,Mostaganem,35.9333,0.0833,1,National,0,DZA
+ALG12461,2023-04-01,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Boumerdes,Boumerdes,Boumerdes,36.7664,3.4772,1,National,0,DZA
+ALG12463,2023-04-08,1,Protests,Peaceful protest,Protesters (Algeria),FLN: National Liberation Front (Algeria),,,Algeria,Blida,Blida,Blida,36.4686,2.8289,1,National,0,DZA
+ALG12465,2023-04-10,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Annaba,El Hadjar,El Hadjar,36.8038,7.7368,1,National,0,DZA
+ALG12466,2023-03-25,2,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Ouargla,Hassi Messaoud,Hassi Messaoud,31.7019,6.0544,1,National,0,DZA
+ALG12467,2023-04-09,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,National,0,DZA
+ALG12468,2023-04-12,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0,DZA
+ALG12469,2023-04-17,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Setif,Setif,Setif,36.1914,5.4094,1,National,0,DZA
+ALG12470,2023-04-18,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Batna,Batna,Batna,35.5553,6.1786,1,National,0,DZA
+ALG12471,2023-04-22,1,Riots,Violent demonstration,Rioters (Algeria),Ouled Dlim Tribal Group (Algeria); Saharawi Ethnic Group (Algeria),Civilians (Algeria),Polisario Front; Labor Group (Algeria),Algeria,Tindouf,Tindouf,Laayoune refugee camp,27.7383,-8.0351,1,Regional,0,DZA
+ALG12472,2023-04-25,2,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Alger,Bouzareah,Algiers - Sidi M'Hamed,36.7541,3.057,1,National,0,DZA
+ALG12473,2023-04-26,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Annaba,Annaba,Annaba,36.9,7.7667,1,National,0,DZA
+ALG12474,2023-04-24,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0,DZA
+ALG12475,2023-04-27,1,Protests,Peaceful protest,Protesters (Algeria),Ouled Dlim Tribal Group (Algeria); Saharawi Ethnic Group (Algeria),,,Algeria,Tindouf,Tindouf,Laayoune refugee camp,27.7383,-8.0351,2,Regional,0,DZA
+ALG12476,2023-04-23,1,Protests,Peaceful protest,Protesters (Algeria),Taxi Drivers (Algeria),,,Algeria,Sidi Bel Abbes,Sidi Bel Abbes,Sidi Bel Abbes,35.1939,-0.6414,1,National,0,DZA
+ALG12477,2023-04-27,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Bechar,Bechar,Bechar,31.6167,-2.2167,1,National,0,DZA
+ALG12478,2023-04-24,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tiaret,Tiaret,Tiaret,35.3758,1.3131,1,National,0,DZA
+ALG12479,2023-04-23,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tebessa,Tebessa,Tebessa,35.4042,8.1242,1,National,0,DZA
+ALG12481,2023-04-27,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0,DZA
+ALG12482,2023-05-01,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Djelfa,Djelfa,Djelfa,34.6667,3.25,1,New media,0,DZA
+ALG12483,2023-04-30,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Sidi Bel Abbes,Sidi Bel Abbes,Sidi Bel Abbes,35.1939,-0.6414,1,National,0,DZA
+ALG12484,2023-05-01,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Sidi Bel Abbes,Sidi Bel Abbes,Sidi Bel Abbes,35.1939,-0.6414,1,National,0,DZA
+ALG12485,2023-05-05,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Ouargla,Hassi Messaoud,Gassi Taouil,30.5168,6.4667,1,National,0,DZA
+ALG12486,2023-05-01,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria); Teachers (Algeria),,,Algeria,Alger,Bouzareah,Algiers - Sidi M'Hamed,36.7541,3.057,1,National,0,DZA
+ALG12487,2023-03-15,3,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Boumerdes,Boumerdes,Boumerdes,36.7664,3.4772,1,National,0,DZA
+ALG12488,2023-04-28,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Khenchela,Babar,Babar,35.1692,7.1012,1,National,0,DZA
+ALG12489,2023-04-30,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Ouargla,Touggourt,Touggourt,33.1053,6.058,1,National,0,DZA
+ALG12490,2023-05-02,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Arzew,Arzew,35.8517,-0.3214,1,National,0,DZA
+ALG12491,2023-05-01,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Blida,Bouinan,Bouinane,36.5317,2.9919,1,National,0,DZA
+ALG12492,2023-05-01,1,Riots,Violent demonstration,Rioters (Algeria),,,,Algeria,Blida,Boufarik,Boufarik,36.5741,2.9121,1,National,0,DZA
+ALG12493,2023-04-29,1,Riots,Mob violence,Rioters (Algeria),Ouled Dlim Tribal Group (Algeria); Saharawi Ethnic Group (Algeria); Refugees/IDPs (Algeria),Polisario Front,,Algeria,Tindouf,Tindouf,Laayoune refugee camp,27.7383,-8.0351,1,Regional,0,DZA
+ALG12494,2023-04-30,1,Protests,Peaceful protest,Protesters (Algeria),Muslim Group (Algeria); Labor Group (Algeria),,,Algeria,Guelma,Guelma,Guelma,36.4621,7.4261,1,National,0,DZA
+ALG12495,2023-04-30,1,Protests,Peaceful protest,Protesters (Algeria),Muslim Group (Algeria); Labor Group (Algeria),,,Algeria,Tlemcen,Tlemcen,Tlemcen,34.8783,-1.315,1,National,0,DZA
+ALG12497,2023-05-14,2,Protests,Peaceful protest,Protesters (Algeria),Muslim Group (Algeria),,,Algeria,Tlemcen,Sebdou,Sebdou,34.637,-1.3314,1,National,0,DZA
+ALG12498,2023-05-18,1,Protests,Peaceful protest,Protesters (Algeria),SNAPAP: National Independent Union of Public Administration Personnel; SNPSP: National Union of Public Health Doctors; SNAAMARSP: Autonomous National Union of Paramedics in Anesthesia and Resuscitation; Health Workers (Algeria),,,Algeria,Guelma,Guelma,Guelma,36.4621,7.4261,1,National,0,DZA
+ALG12499,2023-05-16,1,Protests,Peaceful protest,Protesters (Algeria),SNSAE: National Syndicate of Education Supervisors and Assistants; Teachers (Algeria),,,Algeria,Relizane,Relizane,Relizane,35.7425,0.5592,1,National,0,DZA
+ALG12500,2023-05-13,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Djanet,Djanet,Djanet,24.5527,9.4858,1,National,0,DZA
+ALG12501,2023-05-07,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Alger,Bouzareah,Algiers - Sidi M'Hamed,36.7541,3.057,1,National,0,DZA
+ALG12502,2023-05-16,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Mila,Sidi Merouane,Sidi Merouane,36.5189,6.2603,1,National,0,DZA
+ALG12503,2023-05-19,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Laghouat,Laghouat,Laghouat,33.8,2.8651,1,National,0,DZA
+ALG12504,2023-05-16,1,Protests,Protest with intervention,Protesters (Algeria),CNMR: National Coordination of Retired Military Personnel; Former Military Forces of Algeria (2019-),Police Forces of Algeria (2019-),,Algeria,Blida,Bougara,Bougara,36.5418,3.081,1,New media,0,DZA
+ALG12506,2023-05-11,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Msila,Msila,M'Sila,35.7058,4.5419,1,National,0,DZA
+ALG12507,2023-05-08,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,Subnational,0,DZA
+ALG12508,2023-05-11,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Sidi Bel Abbes,Sidi Chouab,Sidi Chaib,34.596,-0.5483,1,National,0,DZA
+ALG12509,2023-05-12,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Mascara,Mascara,Mascara,35.3944,0.1397,1,National,0,DZA
+ALG12510,2023-05-11,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bejaia,Oued Ghir,Oued Ghir,36.7099,4.9786,1,National,0,DZA
+ALG12511,2023-05-23,1,Strategic developments,Arrests,Police Forces of Algeria (2019-),,Civilians (Algeria),UDS: Democratic and Social Union,Algeria,Alger,,Algiers,36.7525,3.042,1,National,0,DZA
+ALG12512,2023-05-23,1,Protests,Peaceful protest,Protesters (Algeria),Farmers (Algeria),,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0,DZA
+ALG12515,2023-05-23,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,Subnational,0,DZA
+ALG12516,2023-05-24,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Djelfa,Birine,Birine,35.635,3.225,1,National,0,DZA
+ALG12517,2023-05-29,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Tiaret,Tiaret,Tiaret,35.3758,1.3131,1,National,0,DZA
+ALG12518,2023-05-30,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Djelfa,Djelfa,Djelfa,34.6667,3.25,1,National,0,DZA
+ALG12520,2023-05-27,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Mila,Ahmed Rachedi,Ahmed Rachedi,36.3916,6.1327,1,National,0,DZA
+ALG12521,2023-05-29,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,1,National,0,DZA
+ALG12522,2023-05-29,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Chlef,Chlef,Chlef,36.1653,1.3345,1,National,0,DZA
+ALG12523,2023-05-29,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Blida,Blida,Blida,36.4686,2.8289,1,National,0,DZA
+ALG12526,2023-06-09,2,Protests,Peaceful protest,Protesters (Algeria),Farmers (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0,DZA
+ALG12527,2023-06-05,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0,DZA
+ALG12528,2023-06-06,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Batna,Batna,Batna,35.5553,6.1786,1,National,0,DZA
+ALG12530,2023-06-15,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Djelfa,Ain Maabed,Ain Maabad,34.804,3.1289,1,National,0,DZA
+ALG12532,2023-06-19,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Ain Turk,Ain El Turk,35.7438,-0.7693,1,Subnational,0,DZA
+ALG12533,2023-06-21,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bordj Bou Arreridj,Bordj Bou Arreridj,Bordj Bou Arreridj,36.0732,4.7611,1,National,0,DZA
+ALG12534,2023-06-22,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Sidi Bel Abbes,Sidi Bel Abbes,Sidi Bel Abbes,35.1939,-0.6414,1,National,0,DZA
+ALG12536,2023-06-19,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Alger,Bouzareah,Algiers - Sidi M'Hamed,36.7541,3.057,1,National,0,DZA
+ALG12538,2023-07-03,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0,DZA
+ALG12539,2023-06-29,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Tamalous,Tamalous,36.8376,6.6402,1,National,0,DZA
+ALG12540,2023-07-03,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Bousfer,Bou Sfer,35.7021,-0.812,1,Subnational,0,DZA
+ALG12542,2023-07-04,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Batna,Ain Touta,Ain Touta,35.3768,5.9,2,National,0,DZA
+ALG12545,2023-07-10,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0,DZA
+ALG12546,2023-07-08,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Guelma,Guelma,Guelma,36.4621,7.4261,1,National,0,DZA
+ALG12547,2023-07-09,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Blida,Blida,Blida,36.4686,2.8289,1,National,0,DZA
+ALG12548,2023-07-11,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Alger,,Algiers,36.7525,3.042,1,National,0,DZA
+ALG12549,2023-07-11,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Guelma,Guelma,Guelma,36.4621,7.4261,1,National,0,DZA
+ALG12550,2023-07-12,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bejaia,Souk El Tenine,Souk El Tenine,36.6266,5.3339,1,National,0,DZA
+ALG12551,2023-07-14,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Filfila,Filfila,36.8985,7.0525,1,National,0,DZA
+ALG12552,2023-07-17,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Beni Oulbane,Beni Oulbane,36.6267,6.6392,1,National,0,DZA
+ALG12553,2023-07-18,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Chlef,Ain Merrane,Ain Merane,36.1628,0.9703,1,National,0,DZA
+ALG12554,2023-07-18,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Djanet,Djanet,Djanet,24.5527,9.4858,1,National,0,DZA
+ALG12555,2023-07-21,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Blida,Blida,Blida,36.4686,2.8289,1,National,0,DZA
+ALG12556,2023-07-23,1,Riots,Violent demonstration,Rioters (Algeria),,Police Forces of Algeria (2019-),,Algeria,El Oued,Taleb Larbi,Taleb Larbi,33.7278,7.5229,1,New media,0,DZA
+ALG12558,2023-07-25,1,Riots,Violent demonstration,Rioters (Algeria),,,,Algeria,Annaba,Annaba,Annaba,36.9,7.7667,1,New media,0,DZA
+ALG12559,2023-07-25,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Djelfa,Djelfa,Djelfa,34.6667,3.25,1,National,0,DZA
+ALG12562,2023-07-23,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Blida,El Affroun,El Affroun,36.4701,2.6253,1,National,0,DZA
+ALG12564,2023-07-27,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Setif,Setif,Setif,36.1914,5.4094,1,National,0,DZA
+ALG12565,2023-07-27,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Djanet,Djanet,Djanet,24.5527,9.4858,2,New media,0,DZA
+ALG12566,2023-07-26,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Djanet,Djanet,Djanet,24.5527,9.4858,2,New media,0,DZA
+ALG12567,2023-07-25,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Djanet,Djanet,Djanet,24.5527,9.4858,2,New media,0,DZA
+ALG12568,2023-07-27,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tizi Ouzou,Larbaa-Nath-Irathen,Larbaa Nait Irathen,36.6311,4.1986,1,National,0,DZA
+ALG12569,2023-07-26,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tizi Ouzou,Draa El Mizan,Maammar,36.6015,3.8504,1,National,0,DZA
+ALG12570,2023-07-25,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Djelfa,Djelfa,Djelfa,34.6667,3.25,1,Subnational,0,DZA
+ALG12571,2023-07-29,1,Riots,Mob violence,Rioters (Algeria),Vigilante Group (Algeria),Civilians (Algeria),,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,1,National,0,DZA
+ALG12572,2023-07-31,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tebessa,Ouenza,Ouenza,35.9533,8.1292,1,New media,0,DZA
+ALG12573,2023-08-02,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Annaba,Annaba,Annaba,36.9,7.7667,1,New media,0,DZA
+ALG12574,2023-07-29,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0,DZA
+ALG12575,2023-07-29,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tebessa,Tebessa,Tebessa,35.4042,8.1242,1,National,0,DZA
+ALG12576,2023-07-30,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Blida,Bougara,Bougara,36.5418,3.081,1,National,0,DZA
+ALG12577,2023-07-30,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,2,National,0,DZA
+ALG12578,2023-07-31,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Blida,Bougara,Bougara,36.5418,3.081,1,National,0,DZA
+ALG12579,2023-07-30,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Djelfa,Djelfa,Djelfa,34.6667,3.25,1,National,0,DZA
+ALG12580,2023-07-30,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Mila,Bouhatem,Rouached,36.2717,6.0231,1,National,0,DZA
+ALG12581,2023-07-30,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Guelma,Guelma,Guelma,36.4621,7.4261,1,National,0,DZA
+ALG12582,2023-07-31,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Guelma,Guelma,Guelma,36.4621,7.4261,1,National,0,DZA
+ALG12583,2023-08-01,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Annaba,El Hadjar,El Hadjar,36.8038,7.7368,1,National,0,DZA
+ALG12584,2023-08-01,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Batna,Lemsane,Lemsane,35.6571,5.7983,1,National,0,DZA
+ALG12585,2023-07-27,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Beni Zid,Beni Zaid,36.9064,6.5303,1,National,0,DZA
+ALG12586,2023-07-31,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Guelma,El Fedjoudj,El Fedjoudj,36.5048,7.3994,1,National,0,DZA
+ALG12588,2023-08-01,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0,DZA
+ALG12589,2023-08-01,1,Protests,Peaceful protest,Protesters (Algeria),Farmers (Algeria),,,Algeria,Batna,Batna,Batna,35.5553,6.1786,1,National,0,DZA
+ALG12590,2023-07-30,1,Protests,Protest with intervention,Protesters (Algeria),,Police Forces of Algeria (2019-),,Algeria,Skikda,Beni Zid,Beni Zaid,36.9064,6.5303,1,National,0,DZA
+ALG12591,2023-07-30,2,Riots,Violent demonstration,Rioters (Algeria),,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,2,National,0,DZA
+ALG12592,2023-08-01,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tiaret,Tiaret,Tiaret,35.3758,1.3131,1,National,0,DZA
+ALG12593,2023-08-11,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Djelfa,Tadmit,Tadmit,34.2868,2.9884,1,National,0,DZA
+ALG12594,2023-08-04,2,Protests,Peaceful protest,Protesters (Algeria),Taxi Drivers (Algeria),,,Algeria,Naama,Ain Safra,Ain Sefra,32.75,-0.5833,1,National,0,DZA
+ALG12595,2023-08-03,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0,DZA
+ALG12596,2023-08-05,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,National,0,DZA
+ALG12597,2023-08-04,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Djelfa,Messaad,Messaad,34.1543,3.5031,1,National,0,DZA
+ALG12598,2023-08-06,1,Riots,Violent demonstration,Rioters (Algeria),,,,Algeria,Msila,Msila,Mezrir,35.6533,4.5279,1,National,0,DZA
+ALG12599,2023-08-14,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Batna,Batna,Batna,35.5553,6.1786,1,National,0,DZA
+ALG12600,2023-08-07,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Blida,Benkhelil,Ben Chabane,36.6202,2.8764,1,National,0,DZA
+ALG12601,2023-08-14,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Tlemcen,Tlemcen,Tlemcen,34.8783,-1.315,1,National,0,DZA
+ALG12602,2023-08-14,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Djelfa,Djelfa,Djelfa,34.6667,3.25,1,National,0,DZA
+ALG12603,2023-08-14,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Msila,Msila,M'Sila,35.7058,4.5419,1,National,0,DZA
+ALG12604,2023-08-07,1,Riots,Mob violence,Rioters (Algeria),Labor Group (Algeria),Rioters (Algeria),Labor Group (Algeria),Algeria,Tamanrasset,Tamenghasset,Tamanrasset,22.785,5.5228,1,New media,0,DZA
+ALG12605,2023-08-06,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Sidi Bel Abbes,Sidi Bel Abbes,Sidi Bel Abbes,35.1939,-0.6414,1,National,0,DZA
+ALG12606,2023-08-07,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Alger,El Achour,Algiers - Ben Aknoun,36.7667,3.0167,1,National,0,DZA
+ALG12608,2023-08-10,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0,DZA
+ALG12609,2023-08-27,1,Protests,Peaceful protest,Protesters (Algeria),UGTA: General Union of Algerian Workers; Labor Group (Algeria),,,Algeria,Chlef,Tenes,Tenes,36.5111,1.3119,1,National,0,DZA
+ALG12611,2023-08-20,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Constantine,Zighoud Youcef,Zighoud Youcef,36.5322,6.7119,1,National,0,DZA
+ALG12612,2023-08-22,1,Protests,Peaceful protest,Protesters (Algeria),Muslim Group (Algeria),,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,New media,0,DZA
+ALG12613,2023-08-21,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Bordj Bou Arreridj,Bordj Bou Arreridj,Bordj Bou Arreridj,36.0732,4.7611,1,National,0,DZA
+ALG12614,2023-08-17,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0,DZA
+ALG12618,2023-09-01,1,Protests,Peaceful protest,Protesters (Algeria),Farmers (Algeria),,,Algeria,Bejaia,Bejaia,Bejaia,36.75,5.0833,1,National,0,DZA
+ALG12619,2023-08-21,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Naama,Ain Safra,Ain Sefra,32.75,-0.5833,1,National,0,DZA
+ALG12620,2023-08-22,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Naama,Ain Safra,Ain Sefra,32.75,-0.5833,1,National,0,DZA
+ALG12621,2023-08-23,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Naama,Ain Safra,Ain Sefra,32.75,-0.5833,1,National,0,DZA
+ALG12622,2023-08-24,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Naama,Ain Safra,Ain Sefra,32.75,-0.5833,1,National,0,DZA
+ALG12623,2023-09-07,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Djelfa,Djelfa,Djelfa,34.6667,3.25,1,Subnational,0,DZA
+ALG12624,2023-09-05,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Msila,Msila,M'Sila,35.7058,4.5419,1,National,0,DZA
+ALG12625,2023-09-05,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Boumerdes,Boumerdes,Boumerdes,36.7664,3.4772,1,National,0,DZA
+ALG12626,2023-09-06,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Djelfa,Djelfa,Djelfa,34.6667,3.25,2,National,0,DZA
+ALG12627,2023-09-13,1,Protests,Peaceful protest,Protesters (Algeria),Health Workers (Algeria),,,Algeria,Alger,Kouba,Algiers - El Madania,36.75,3.0667,1,National,0,DZA
+ALG12628,2023-09-12,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Oum El Bouaghi,Oum El Bouaghi,Oum El Bouaghi,35.8754,7.1135,1,National,0,DZA
+ALG12629,2023-09-10,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Mila,Sidi Khelifa,Sidi Khelifa,36.352,6.299,1,National,0,DZA
+ALG12630,2023-09-15,2,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-),,,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,1,National,0,DZA
+ALG12631,2023-09-16,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0,DZA
+ALG12632,2023-09-19,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Beni Zid,Beni Zaid,36.9064,6.5303,2,National,0,DZA
+ALG12633,2023-09-20,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Beni Zid,Beni Zaid,36.9064,6.5303,2,National,0,DZA
+ALG12634,2023-09-20,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Blida,Blida,Blida,36.4686,2.8289,1,National,0,DZA
+ALG12525,2023-05-31,1,Riots,Violent demonstration,Rioters (Algeria),Rguibat Tribal Group (Algeria); Refugees/IDPs (Algeria); Saharawi Ethnic Group (Algeria),,,Algeria,Tindouf,Tindouf,Smara refugee camp,27.4917,-7.8274,1,Regional,0,DZA
+ALG12635,2023-09-25,1,Protests,Peaceful protest,Protesters (Algeria),Farmers (Algeria),,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0,DZA
+ALG12636,2023-09-12,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-),,,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,1,National,0,DZA
+ALG12637,2023-09-25,1,Protests,Peaceful protest,Protesters (Algeria),Health Workers (Algeria),,,Algeria,Illizi,Debdeb,Deb Deb,29.9853,9.4338,1,National,0,DZA
+ALG12638,2023-09-16,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Alger,Cheraga,Algiers - Dely Ibrahim,36.7502,2.9833,1,National,0,DZA
+ALG12639,2023-09-26,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Guelma,Guelma,Guelma,36.4621,7.4261,1,National,0,DZA
+ALG12640,2023-09-24,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria); UGTA: General Union of Algerian Workers,,,Algeria,Guelma,Guelma,Guelma,36.4621,7.4261,1,National,0,DZA
+ALG12641,2023-09-04,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Alger,Reghaia,Algiers - Reghaia,36.7359,3.3402,1,National,0,DZA
+ALG12642,2023-09-26,1,Protests,Peaceful protest,Protesters (Algeria),Taxi Drivers (Algeria),,,Algeria,Blida,Blida,Blida,36.4686,2.8289,1,National,0,DZA
+ALG12643,2023-09-24,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Adrar,Timmimoun,Timimoun,29.2639,0.231,1,National,0,DZA
+ALG12644,2023-09-24,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tlemcen,Hennaya,Hennaya,34.9523,-1.3737,1,National,0,DZA
+ALG12645,2023-09-25,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Ain Defla,Oued Djemaa,Oued Djemaa,36.0444,2.3615,1,National,0,DZA
+ALG12646,2023-10-02,1,Protests,Peaceful protest,Protesters (Algeria),CNAPESTE: National Independent Council of Higher Education Teachers; Teachers (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0,DZA
+ALG12647,2023-10-05,1,Protests,Peaceful protest,Protesters (Algeria),FM: Future Front Party; Health Workers (Algeria),,,Algeria,Tlemcen,Sebdou,Sebdou,34.637,-1.3314,1,National,0,DZA
+ALG12648,2023-10-02,1,Protests,Peaceful protest,Protesters (Algeria),Health Workers (Algeria),,,Algeria,Tlemcen,Sebdou,Sebdou,34.637,-1.3314,1,National,0,DZA
+ALG12649,2023-10-03,1,Protests,Peaceful protest,Protesters (Algeria),Health Workers (Algeria),,,Algeria,Tlemcen,Sebdou,Sebdou,34.637,-1.3314,1,National,0,DZA
+ALG12650,2023-10-02,2,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0,DZA
+ALG12651,2023-09-30,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,2,National,0,DZA
+ALG12652,2023-10-01,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria); Health Workers (Algeria),,,Algeria,Tlemcen,Sebdou,Sebdou,34.637,-1.3314,1,National,0,DZA
+ALG12653,2023-10-01,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria); UGTA: General Union of Algerian Workers,,,Algeria,Annaba,Annaba,Annaba,36.9,7.7667,1,National,0,DZA
+ALG12654,2023-10-02,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria); UGTA: General Union of Algerian Workers,,,Algeria,Alger,,Algiers,36.7525,3.042,1,National,0,DZA
+ALG12655,2023-10-02,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Ghardaia,El Meniaa,El Meniaa,30.5842,2.8832,1,National,0,DZA
+ALG12656,2023-10-04,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Biskra,Oumache,Oumache,34.6942,5.6978,1,National,0,DZA
+ALG12657,2023-10-05,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Msila,Msila,M'Sila,35.7058,4.5419,1,National,0,DZA
+ALG12658,2023-10-06,1,Protests,Peaceful protest,Protesters (Algeria),Health Workers (Algeria),,,Algeria,Tlemcen,Sebdou,Sebdou,34.637,-1.3314,1,National,0,DZA
+ALG12659,2023-10-07,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Boumerdes,Boudouaou,Boudouaou,36.7274,3.4099,1,National,0,DZA
+ALG12661,2023-10-07,1,Protests,Peaceful protest,Protesters (Algeria),Health Workers (Algeria),,,Algeria,Tlemcen,Sebdou,Sebdou,34.637,-1.3314,1,National,0,DZA
+ALG12662,2023-10-08,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Alger,Douera,Algiers - Douera,36.67,2.9444,1,National,0,DZA
+ALG12663,2023-10-08,1,Protests,Peaceful protest,Protesters (Algeria),Health Workers (Algeria),,,Algeria,Tlemcen,Sebdou,Sebdou,34.637,-1.3314,1,National,0,DZA
+ALG12664,2023-10-09,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Alger,Douera,Algiers - Douera,36.67,2.9444,1,National,0,DZA
+ALG12666,2023-10-09,1,Protests,Peaceful protest,Protesters (Algeria),Health Workers (Algeria),,,Algeria,Tlemcen,Sebdou,Sebdou,34.637,-1.3314,1,National,0,DZA
+ALG12667,2023-10-09,1,Protests,Protest with intervention,Protesters (Algeria),PT: Workers Party; CNAPESTE: National Independent Council of Higher Education Teachers; Teachers (Algeria),Police Forces of Algeria (2019-),,Algeria,Bejaia,Bejaia,Bejaia,36.75,5.0833,1,National,0,DZA
+ALG12668,2023-10-10,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria); Labor Group (Algeria),,,Algeria,Alger,Kouba,Algiers - Said Hamdine,36.7378,3.0336,1,National,0,DZA
+ALG12669,2023-10-10,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0,DZA
+ALG12670,2023-10-10,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Oum El Bouaghi,Oum El Bouaghi,Oum El Bouaghi,35.8754,7.1135,1,National,0,DZA
+ALG12671,2023-10-10,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Sidi Bel Abbes,Sidi Bel Abbes,Sidi Bel Abbes,35.1939,-0.6414,1,National,0,DZA
+ALG12673,2023-10-10,1,Protests,Peaceful protest,Protesters (Algeria),Health Workers (Algeria),,,Algeria,Tlemcen,Sebdou,Sebdou,34.637,-1.3314,1,National,0,DZA
+ALG12674,2023-10-12,1,Protests,Peaceful protest,Protesters (Algeria),Health Workers (Algeria),,,Algeria,Tlemcen,Sebdou,Sebdou,34.637,-1.3314,1,National,0,DZA
+ALG12675,2023-10-13,2,Violence against civilians,Attack,Police Forces of Algeria (2019-),,Civilians (Algeria),,Algeria,Tamanrasset,Tin Zaouatine,Tin Zaouatine,20.4163,3.3865,1,New media,2,DZA
+ALG12676,2023-10-13,1,Protests,Peaceful protest,Protesters (Algeria),Muslim Group (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0,DZA
+ALG12677,2023-10-13,1,Riots,Violent demonstration,Rioters (Algeria),,Police Forces of Algeria (2019-),,Algeria,Tamanrasset,Tin Zaouatine,Tin Zaouatine,20.4163,3.3865,1,New media,0,DZA
+ALG12678,2023-10-13,1,Protests,Peaceful protest,Protesters (Algeria),HMS: Movement of Society for Peace; Muslim Group (Algeria); Jil Jadid,,,Algeria,Alger,,Algiers,36.7525,3.042,1,National,0,DZA
+ALG12679,2023-10-12,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Alger,Cheraga,Algiers - Cheraga,36.7678,2.9592,1,National,0,DZA
+ALG12680,2023-10-15,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Ain-Bessem,Ain Bessem,36.2933,3.6732,1,National,0,DZA
+ALG12681,2023-10-14,1,Protests,Peaceful protest,Protesters (Algeria),Bina Movement; MSP: Movement of Society for Peace,,,Algeria,Alger,,Algiers,36.7525,3.042,1,National,0,DZA
+ALG12682,2023-10-14,1,Protests,Peaceful protest,Protesters (Algeria),HMS: Movement of Society for Peace,,,Algeria,Mascara,Mascara,Mascara,35.3944,0.1397,1,National,0,DZA
+ALG12683,2023-10-14,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Alger,Douera,Algiers - Douera,36.67,2.9444,1,National,0,DZA
+ALG12684,2023-10-16,2,Protests,Peaceful protest,Protesters (Algeria),Lawyers (Algeria),,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0,DZA
+ALG12685,2023-10-16,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,National,0,DZA
+ALG12686,2023-10-17,2,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Ain Temouchent,Ain Temouchent,Ain Temouchent,35.3034,-1.1452,1,National,0,DZA
+ALG12687,2023-10-15,1,Protests,Peaceful protest,Protesters (Algeria),Lawyers (Algeria),,,Algeria,Laghouat,Laghouat,Laghouat,33.8,2.8651,1,National,0,DZA
+ALG12688,2023-10-17,1,Protests,Peaceful protest,Protesters (Algeria),Protesters (Palestine),,,Algeria,Alger,,Algiers,36.7525,3.042,1,National,0,DZA
+ALG12689,2023-10-17,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Blida,Benkhelil,Ben Chabane,36.6202,2.8764,1,National,0,DZA
+ALG12690,2023-10-18,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Batna,Batna,Batna,35.5553,6.1786,1,National,0,DZA
+ALG12691,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Alger,Bouzareah,Algiers - Sidi M'Hamed,36.7541,3.057,1,New media-National,0,DZA
+ALG12692,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,El Tarf,El Tarf,El Tarf,36.7686,8.3167,1,National,0,DZA
+ALG12693,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria); Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Bordj Bou Arreridj,Bordj Bou Arreridj,Bordj Bou Arreridj,36.0732,4.7611,1,National,0,DZA
+ALG12694,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Adrar,Timiaouine,Timiaouine,20.4408,1.8075,1,National,0,DZA
+ALG12695,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria); Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Tipaza,Tipaza,Tipaza,36.5897,2.4475,1,National,0,DZA
+ALG12696,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Laghouat,Laghouat,Laghouat,33.8,2.8651,1,National,0,DZA
+ALG12697,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Batna,Batna,Batna,35.5553,6.1786,1,National,0,DZA
+ALG12698,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Medea,Medea,Medea,36.2675,2.75,1,National,0,DZA
+ALG12699,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Relizane,Relizane,Relizane,35.7425,0.5592,1,National,0,DZA
+ALG12700,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Djelfa,Djelfa,Djelfa,34.6667,3.25,1,National,0,DZA
+ALG12701,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Guelma,Guelma,Guelma,36.4621,7.4261,1,National,0,DZA
+ALG12702,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Sidi Bel Abbes,Sidi Bel Abbes,Sidi Bel Abbes,35.1939,-0.6414,1,National,0,DZA
+ALG12703,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Chlef,Chlef,Chlef,36.1653,1.3345,1,New media-National,0,DZA
+ALG12704,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Ghardaia,El Meniaa,El Meniaa,30.5842,2.8832,1,New media-National,0,DZA
+ALG12705,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Naama,Naama,Naama,33.2667,-0.3167,1,New media-National,0,DZA
+ALG12706,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement; Aid Workers (Algeria),,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,Subnational-National,0,DZA
+ALG12707,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0,DZA
+ALG12708,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Annaba,Annaba,Annaba,36.9,7.7667,1,National,0,DZA
+ALG12709,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Setif,Setif,Setif,36.1914,5.4094,1,National,0,DZA
+ALG12711,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Bejaia,Bejaia,Bejaia,36.75,5.0833,1,National,0,DZA
+ALG12712,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Oum El Bouaghi,Oum El Bouaghi,Oum El Bouaghi,35.8754,7.1135,1,National,0,DZA
+ALG12713,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Adrar,Adrar,Adrar,27.8709,-0.2856,1,National,0,DZA
+ALG12714,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Ouargla,Ouargla,Ouargla,31.9664,5.3421,1,National,0,DZA
+ALG12715,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Tlemcen,Tlemcen,Tlemcen,34.8783,-1.315,1,National,0,DZA
+ALG12716,2023-10-20,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Illizi,Illizi,Illizi,26.5048,8.4812,2,New media,0,DZA
+ALG12717,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Boumerdes,Boumerdes,Boumerdes,36.7664,3.4772,1,National,0,DZA
+ALG12718,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); Protesters (Palestine); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Ain Temouchent,Ain Temouchent,Ain Temouchent,35.3034,-1.1452,1,National,0,DZA
+ALG12719,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,El Bayadh,El Bayadh,El Bayadh,33.6861,1.0139,1,National,0,DZA
+ALG12720,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Women (Algeria); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement; Government of Algeria (2019-),,,Algeria,Saida,Saida,Saida,34.8303,0.1517,1,National,0,DZA
+ALG12722,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement; Protesters (Palestine); Students (Algeria),,,Algeria,Blida,Blida,Blida,36.4686,2.8289,1,National,0,DZA
+ALG12723,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Tamanrasset,Tamenghasset,Tamanrasset,22.785,5.5228,1,National,0,DZA
+ALG12724,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Djanet,Djanet,Djanet,24.5527,9.4858,1,National,0,DZA
+ALG12725,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Bechar,Bechar,Bechar,31.6167,-2.2167,1,National,0,DZA
+ALG12726,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Msila,Msila,M'Sila,35.7058,4.5419,1,National,0,DZA
+ALG12728,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Mila,Mila,Mila,36.4503,6.2644,1,National,0,DZA
+ALG12730,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Biskra,Biskra,Biskra,34.8504,5.7281,1,National,0,DZA
+ALG12731,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria); Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0,DZA
+ALG12732,2023-10-19,2,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Biskra,Biskra,Biskra,34.8504,5.7281,1,National,0,DZA
+ALG12733,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Tissemsilt,Tissemsilt,Tissemsilt,35.6078,1.8111,1,National,0,DZA
+ALG12734,2023-10-21,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Alger,Mahelma,Algiers - Mahelma,36.6824,2.8774,1,National,0,DZA
+ALG12735,2023-10-22,1,Protests,Peaceful protest,Protesters (Algeria),Journalists (Algeria),,,Algeria,Alger,Bouzareah,Algiers - Sidi M'Hamed,36.7541,3.057,1,National,0,DZA
+ALG12736,2023-10-23,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Oum Toub,Oum Toub,36.6888,6.572,1,National,0,DZA
+ALG12737,2023-10-25,1,Protests,Peaceful protest,Protesters (Algeria),Farmers (Algeria),,,Algeria,Chlef,Bouzeghaia,Bouzghaia,36.3384,1.2401,1,National,0,DZA
+ALG12738,2023-10-25,1,Protests,Peaceful protest,Protesters (Algeria),Journalists (Algeria),,,Algeria,Mostaganem,Mostaganem,Mostaganem,35.9333,0.0833,1,National,0,DZA
+ALG12746,2023-10-31,1,Protests,Peaceful protest,Protesters (Algeria),Health Workers (Algeria),,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,Subnational,0,DZA
+ALG12748,2023-10-28,1,Protests,Peaceful protest,Protesters (Algeria),MSP: Movement of Society for Peace,,,Algeria,Alger,,Algiers,36.7525,3.042,1,National,0,DZA
+ALG12749,2023-10-31,1,Protests,Peaceful protest,Protesters (Algeria),Protesters (International); Students (International),,,Algeria,Alger,,Algiers,36.7525,3.042,1,National,0,DZA
+ALG12750,2023-10-26,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bechar,Bechar,Bechar,31.6167,-2.2167,1,National,0,DZA
+ALG12751,2023-10-27,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bechar,Bechar,Bechar,31.6167,-2.2167,1,National,0,DZA
+ALG12752,2023-10-31,1,Protests,Peaceful protest,Protesters (Algeria),Health Workers (Algeria),,,Algeria,Alger,Bouzareah,Algiers - Sidi M'Hamed,36.7541,3.057,1,National,0,DZA
+ALG12753,2023-11-04,1,Protests,Peaceful protest,Protesters (Algeria),PVP: Party of the People's Voice,,,Algeria,Alger,,Algiers,36.7525,3.042,1,National,0,DZA
+ALG12754,2023-11-06,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Alger,Reghaia,Algiers - Reghaia,36.7359,3.3402,1,National,0,DZA
+ALG12755,2023-11-04,2,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Alger,Reghaia,Algiers - Reghaia,36.7359,3.3402,1,National,0,DZA
+ALG12756,2023-11-13,1,Riots,Violent demonstration,Rioters (Algeria),Labor Group (Algeria),Civilians (Algeria),Labor Group (Algeria),Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,Subnational,0,DZA
+ALG12757,2023-11-13,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Mila,Mila,Mila,36.4503,6.2644,1,National,0,DZA
+ALG12758,2023-11-15,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Djelfa,Ain Oussera,Ain Oussara,35.4513,2.9058,1,National,0,DZA
+ALG12759,2023-11-15,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Khenchela,El Mahmal,Mahmel,35.3833,7.2167,1,National,0,DZA
+ALG12760,2023-11-21,1,Violence against civilians,Attack,Military Forces of Algeria (2019-),,Civilians (Mali),Women (Mali); Refugees/IDPs (Mali),Algeria,Tamanrasset,Tin Zaouatine,Tin Zaouatine,20.4163,3.3865,1,Local partner-Other,0,DZA
+ALG12761,2023-11-19,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Blida,Blida,Blida,36.4686,2.8289,1,National,0,DZA
+ALG12762,2023-11-20,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Blida,Blida,Blida,36.4686,2.8289,1,National,0,DZA
+ALG12763,2023-11-20,2,Battles,Armed clash,Al Fakra Tribal Militia,Saharawi Ethnic Group (Algeria); Refugees/IDPs (Algeria),Sraghna Tribal Militia,Saharawi Ethnic Group (Algeria); Refugees/IDPs (Algeria),Algeria,Tindouf,Tindouf,Tindouf,27.6711,-8.1474,1,Regional,1,DZA
+ALG12764,2023-11-21,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Bordj Bou Arreridj,Bordj Bou Arreridj,Bordj Bou Arreridj,36.0732,4.7611,1,National,0,DZA
+ALG12766,2023-11-22,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Oran,Sidi Chahmi,Sidi Chahmi,35.6578,-0.5219,1,National,0,DZA
+ALG12767,2023-11-22,2,Protests,Peaceful protest,Protesters (Algeria),Muslim Group (Algeria),,,Algeria,Oum El Bouaghi,Oum El Bouaghi,Oum El Bouaghi,35.8754,7.1135,1,National,0,DZA
+ALG12768,2023-11-24,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0,DZA
+ALG12769,2023-12-04,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Alger,Zeralda,Algiers - Zeralda,36.7117,2.8424,1,National,0,DZA
+ALG12771,2023-12-13,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Mila,Ferdjioua,Ferdjioua,36.4073,5.9304,2,National,0,DZA
+ALG12772,2023-12-19,1,Protests,Peaceful protest,Protesters (Algeria),Health Workers (Algeria),,,Algeria,Jijel,Ziama Mansouria,Ziama Mansouriah,36.6732,5.4812,1,National,0,DZA
+ALG12773,2023-12-19,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria); Health Workers (Algeria),,,Algeria,Tlemcen,Sebdou,Sebdou,34.637,-1.3314,1,National,0,DZA
+ALG12774,2023-12-27,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Mila,Mila,Mila,36.4503,6.2644,1,National,0,DZA
+ALG12775,2023-12-18,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Constantine,El Khroub,El Khroub,36.2633,6.6936,1,National,0,DZA
+ALG12776,2023-12-18,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Khenchela,Kais,Kais,35.4947,6.9249,1,National,0,DZA
+ALG12777,2023-12-18,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Chlef,Ouled Fares,Ouled Fares,36.2336,1.2381,2,National,0,DZA
+ALG12778,2023-12-17,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Batna,Barika,Barika,35.389,5.3658,1,National,0,DZA
+ALG12779,2023-10-15,3,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Batna,Barika,Barika,35.389,5.3658,1,National,0,DZA
+ALG12781,2023-12-25,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Constantine,El Khroub,El Khroub,36.2633,6.6936,1,National,0,DZA
+ALG12782,2023-12-26,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Guelma,Ain Makhlouf,Ain Makhlouf,36.2442,7.2503,1,National,0,DZA
+ALG12783,2023-12-20,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Batna,Lazrou,Lazrou,35.843,6.2166,1,National,0,DZA
+ALG12856,2023-09-19,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Batna,Batna,Batna,35.5553,6.1786,1,National,0,DZA
+ALG12421,2023-02-25,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Jijel,El Ancer,El-Ancer,36.8017,6.1608,1,National,0,DZA
+ALG12442,2023-03-17,2,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,El Oued,Douar El Ma,Douar El Maa,33.3731,7.6858,1,New media,0,DZA
+ALG12543,2023-07-09,1,Riots,Mob violence,Rioters (Algeria),,Rioters (Algeria),,Algeria,Jijel,El Ancer,Belghimouz,36.8164,6.1327,1,National,0,DZA
+ALG12561,2023-07-22,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Beni Bechir,Beni Bashir,36.7746,6.9393,1,National,0,DZA
+ALG12563,2023-07-23,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Batna,Boumegueur,Boumageur,35.5152,5.5621,1,National,0,DZA
+ALG12346,2023-01-10,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Jijel,Jijel,Jijel,36.8212,5.7635,1,National,0,DZA
+ALG12349,2023-01-17,2,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Jijel,Jijel,Jijel,36.8212,5.7635,1,National,0,DZA
+ALG12373,2023-02-01,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Jijel,Jijel,Jijel,36.8212,5.7635,1,National,0,DZA
+ALG12390,2023-02-05,2,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria); Teachers (Algeria),,,Algeria,Jijel,Jijel,Jijel,36.8212,5.7635,1,National,0,DZA
+ALG12418,2023-02-27,2,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Jijel,Jijel,Jijel,36.8212,5.7635,1,National,0,DZA
+ALG12433,2023-03-06,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Jijel,Jijel,Jijel,36.8212,5.7635,1,National,0,DZA
+ALG12445,2023-03-21,2,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Jijel,Jijel,Jijel,36.8212,5.7635,1,National,0,DZA
+ALG12560,2023-07-22,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Jijel,Jijel,Jijel,36.8212,5.7635,1,National,0,DZA
+ALG12729,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (2019-); FLN: National Liberation Front (Algeria); RND: National Rally for Democracy; MSP: Movement of Society for Peace; FFS: Socialist Forces Front; Fajr Jadid; UGTA: General Union of Algerian Workers; Labor Group (Algeria); Bina Movement,,,Algeria,Jijel,Jijel,Jijel,36.8212,5.7635,1,National,0,DZA
+ALG12780,2023-12-14,2,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Jijel,Jijel,Jijel,36.8212,5.7635,1,National,0,DZA
+ALG12514,2023-05-21,1,Protests,Peaceful protest,Protesters (Algeria),Taxi Drivers (Algeria),,,Algeria,Djelfa,Djelfa,Djelfa,34.6667,3.25,1,National-International,0,DZA
+ALG12587,2023-07-11,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Relizane,Sidi Khettab,Sidi Khetab,35.9111,0.51,1,National-International,0,DZA
+ALG12721,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Bina Movement; Fajr Jadid; FFS: Socialist Forces Front; FLN: National Liberation Front (Algeria); Government of Algeria (2019-); Labor Group (Algeria); MSP: Movement of Society for Peace; RND: National Rally for Democracy; UGTA: General Union of Algerian Workers,,,Algeria,Mostaganem,Mostaganem,Mostaganem,35.9333,0.0833,1,National-International,0,DZA
+ALG12544,2023-07-10,2,Protests,Peaceful protest,Protesters (Algeria),Farmers (Algeria),,,Algeria,Tizi Ouzou,Tizi Ouzou,Tizi Ouzou,36.7118,4.0459,1,National,0,DZA
+ALG12665,2023-10-09,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tizi Ouzou,Tizi Ouzou,Tizi Ouzou,36.7118,4.0459,1,National,0,DZA
+ALG12672,2023-10-10,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Tizi Ouzou,Tizi Ouzou,Tizi Ouzou,36.7118,4.0459,1,National,0,DZA
+ALG12710,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Bina Movement; Fajr Jadid; FFS: Socialist Forces Front; FLN: National Liberation Front (Algeria); Government of Algeria (2019-); Labor Group (Algeria); MSP: Movement of Society for Peace; RND: National Rally for Democracy; UGTA: General Union of Algerian Workers,,,Algeria,Tizi Ouzou,Tizi Ouzou,Tizi Ouzou,36.7118,4.0459,1,National,0,DZA
+ALG12770,2023-12-18,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Tizi Ouzou,Tizi Ouzou,Tizi Ouzou,36.7118,4.0459,1,National,0,DZA
+ALG12389,2023-02-06,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Khenchela,Khenchela,Khenchela,35.4358,7.1433,1,National,0,DZA
+ALG12513,2023-05-22,2,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Khenchela,Khenchela,Khenchela,35.4358,7.1433,1,National,0,DZA
+ALG12529,2023-06-09,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Khenchela,Khenchela,Khenchela,35.4358,7.1433,1,National,0,DZA
+ALG12535,2023-06-21,1,Protests,Protest with intervention,Protesters (Algeria),,Police Forces of Algeria (2019-),,Algeria,Khenchela,Khenchela,Khenchela,35.4358,7.1433,1,National,0,DZA
+ALG12541,2023-07-02,1,Protests,Protest with intervention,Protesters (Algeria),,Police Forces of Algeria (2019-),,Algeria,Khenchela,Khenchela,Khenchela,35.4358,7.1433,1,National,0,DZA
+ALG12557,2023-07-23,1,Riots,Violent demonstration,Rioters (Algeria),,,,Algeria,Khenchela,Baghai,Baghai,35.5223,7.1157,1,National,0,DZA
+ALG12610,2023-08-20,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Khenchela,Baghai,Baghai,35.5223,7.1157,1,National,0,DZA
+ALG12727,2023-10-19,1,Protests,Peaceful protest,Protesters (Algeria),Bina Movement; Fajr Jadid; FFS: Socialist Forces Front; FLN: National Liberation Front (Algeria); Government of Algeria (2019-); Labor Group (Algeria); MSP: Movement of Society for Peace; RND: National Rally for Democracy; UGTA: General Union of Algerian Workers,,,Algeria,Khenchela,Khenchela,Khenchela,35.4358,7.1433,1,National,0,DZA
+ALG12747,2023-10-26,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Khenchela,Khenchela,Khenchela,35.4358,7.1433,1,National,0,DZA
+ALG12458,2023-03-31,1,Violence against civilians,Attack,Polisario Front,,Civilians (Algeria),Ouled Dlim Tribal Group (Algeria); Refugees/IDPs (Algeria); Saharawi Ethnic Group (Algeria),Algeria,Tindouf,Tindouf,Dakhla refugee camp,26.8293,-6.8705,1,Regional-International,0,DZA
+ALG12462,2023-03-31,1,Riots,Violent demonstration,Rioters (Algeria),Ouled Dlim Tribal Group (Algeria); Refugees/IDPs (Algeria); Saharawi Ethnic Group (Algeria),Polisario Front,,Algeria,Tindouf,Tindouf,Dakhla refugee camp,26.8293,-6.8705,1,Regional-International,0,DZA
+ALG12615,2023-08-28,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Mila,Amirat Arres,Oued Endja,36.5004,6.0701,1,National,0,DZA
+ALG12616,2023-08-29,1,Violence against civilians,Attack,Military Forces of Algeria (2019-) Border Guards,,Civilians (Morocco),Civilians (France),Algeria,Tlemcen,Marsa Ben Mhidi,Marsa Ben M'Hidi,35.084,-2.1975,2,Regional,2,DZA
+ALG12765,2023-11-22,2,Strategic developments,Disrupted weapons use,Military Forces of Algeria (2019-),,AQIM: Al Qaeda in the Islamic Maghreb,,Algeria,Blida,Blida,Blida,36.4686,2.8289,2,National,0,DZA
+ALG12617,2023-08-30,2,Strategic developments,Disrupted weapons use,Military Forces of Algeria (2019-),,AQIM: Al Qaeda in the Islamic Maghreb,,Algeria,Boumerdes,Boumerdes,Boumerdes,36.7664,3.4772,2,National,0,DZA
+ALG12607,2023-08-04,2,Strategic developments,Disrupted weapons use,Military Forces of Algeria (2019-),,AQIM: Al Qaeda in the Islamic Maghreb,,Algeria,Tebessa,Tebessa,Tebessa,35.4042,8.1242,1,National,0,DZA
+ALG12505,2023-05-10,1,Battles,Armed clash,Military Forces of Algeria (2019-),,AQIM: Al Qaeda in the Islamic Maghreb,,Algeria,Tissemsilt,Bordj El Emir Abdelkader,Bordj Emir Abdelkader,35.8658,2.2703,2,National,1,DZA
+ALG12952,2023-09-03,2,Strategic developments,Disrupted weapons use,Military Forces of Algeria (2019-),,AQIM: Al Qaeda in the Islamic Maghreb,,Algeria,Boumerdes,Boumerdes,Boumerdes,36.7664,3.4772,1,National,0,DZA
+ALG12360,2023-01-13,2,Explosions/Remote violence,Remote explosive/landmine/IED,AQIM: Al Qaeda in the Islamic Maghreb,,Civilians (Algeria),,Algeria,Khenchela,Babar,Babar,35.1692,7.1012,2,National,4,DZA
+ALG12480,2023-05-06,1,Protests,Peaceful protest,Protesters (Algeria),Saharawi Ethnic Group (Algeria); Women (Algeria),,,Algeria,Tindouf,Tindouf,Rabouni,27.4761,-8.0833,1,Regional,0,DZA
+ALG12496,2023-05-04,1,Violence against civilians,Attack,Polisario Front,,Civilians (Algeria),Saharawi Ethnic Group (Algeria); Women (Algeria),Algeria,Tindouf,Tindouf,Rabouni,27.4761,-8.0833,1,Regional,0,DZA
+ALG12519,2023-05-29,1,Protests,Protest with intervention,Protesters (Algeria),Refugees/IDPs (Algeria); Rguibat Tribal Group (Algeria); Saharawi Ethnic Group (Algeria),Polisario Front,,Algeria,Tindouf,Tindouf,Rabouni,27.4761,-8.0833,1,Regional,0,DZA
+ALG12524,2023-05-30,1,Protests,Protest with intervention,Protesters (Algeria),Refugees/IDPs (Algeria); Rguibat Tribal Group (Algeria); Saharawi Ethnic Group (Algeria); Women (Algeria),Polisario Front,,Algeria,Tindouf,Tindouf,Rabouni,27.4761,-8.0833,1,Regional,0,DZA
+ALG12531,2023-06-20,1,Protests,Peaceful protest,Protesters (Algeria),Refugees/IDPs (Algeria); Rguibat Tribal Group (Algeria); Saharawi Ethnic Group (Algeria),,,Algeria,Tindouf,Tindouf,Rabouni,27.4761,-8.0833,1,Regional,0,DZA
+ALG12537,2023-06-25,1,Protests,Peaceful protest,Protesters (Algeria),Refugees/IDPs (Algeria); Rguibat Tribal Group (Algeria); Saharawi Ethnic Group (Algeria),,,Algeria,Tindouf,Tindouf,Rabouni,27.4761,-8.0833,1,Regional,0,DZA
+ALG12660,2023-10-07,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tiaret,Frenda,Frenda,35.0654,1.0494,1,National,0,DZA
+ALG12429,2023-02-23,1,Strategic developments,Other,Government of Algeria (2019-),,MDS: Democratic and Social Movement,,Algeria,Alger,,Algiers,36.7525,3.042,3,Regional-International,0,DZA
+ALG12464,2023-04-11,2,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Khenchela,Chechar,Chechar,35.0381,7.0042,1,National,0,DZA
+ALG13119,2023-01-30,1,Strategic developments,Other,Government of Algeria (2019-),,Civilians (Algeria),,Algeria,Tizi Ouzou,Tizi Ouzou,Tizi Ouzou,36.7118,4.0459,1,Other,0,DZA
+ALG13120,2023-01-23,1,Strategic developments,Other,Government of Algeria (2019-),,Civilians (Algeria),,Algeria,Bejaia,Bejaia,Bejaia,36.75,5.0833,1,Other,0,DZA

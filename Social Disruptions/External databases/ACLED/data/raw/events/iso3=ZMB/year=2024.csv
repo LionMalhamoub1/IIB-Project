@@ -1,0 +1,28 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+ZAM1619,2024-01-07,1,Protests,Peaceful protest,Protesters (Zambia),Taxi Drivers (Zambia),,,Zambia,Copperbelt,Kitwe,Kitwe,-12.82,28.2,1,National,0,ZMB
+ZAM1620,2024-01-02,1,Riots,Mob violence,Rioters (Zambia),Vigilante Group (Zambia),Civilians (Zambia),,Zambia,Muchinga,Shiwangandu,Shiwa Ngandu,-11.2012,31.7336,1,National,1,ZMB
+ZAM1622,2024-01-24,1,Riots,Mob violence,Rioters (Zambia),,Police Forces of Zambia (2021-),,Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,1,Subnational,0,ZMB
+ZAM1623,2024-02-07,2,Riots,Mob violence,Rioters (Zambia),Vigilante Group (Zambia),Civilians (Zambia),Police Forces of Zambia (2021-),Zambia,Central,Mumbwa,Mumbwa,-14.9829,27.0619,2,National,0,ZMB
+ZAM1624,2024-03-18,1,Riots,Mob violence,Rioters (Zambia),Vigilante Group (Zambia),Civilians (Zambia),,Zambia,Luapula,Samfya,Masanta,-11.0034,29.6995,2,National,4,ZMB
+ZAM1625,2024-03-25,1,Riots,Mob violence,Rioters (Zambia),Vigilante Group (Zambia),Civilians (Zambia),,Zambia,Southern,Monze,Monze,-16.3166,27.1833,2,Regional,1,ZMB
+ZAM1626,2024-03-27,1,Riots,Mob violence,Rioters (Zambia),Vigilante Group (Zambia),Civilians (Zambia),Women (Zambia),Zambia,Copperbelt,Lufwanyama,Lufwanyama,-13.4333,27.75,1,National,1,ZMB
+ZAM1627,2024-04-17,1,Riots,Mob violence,Rioters (Zambia),Students (Zambia),Rioters (Zambia),PF: Patriotic Front,Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,1,National,0,ZMB
+ZAM1628,2024-04-21,1,Strategic developments,Arrests,Police Forces of Zambia (2021-),,Civilians (Zambia),Civilians (Ethiopia),Zambia,Lusaka,Luangwa,Luangwa,-15.6225,30.4009,2,National,0,ZMB
+ZAM1629,2024-05-09,1,Protests,Peaceful protest,Protesters (Zambia),,,,Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,1,National,0,ZMB
+ZAM1630,2024-05-15,1,Riots,Violent demonstration,Rioters (Zambia),Students (Zambia),Police Forces of Zambia (2021-),,Zambia,Lusaka,Chongwe,Chongwe,-15.3292,28.682,1,National,0,ZMB
+ZAM1631,2024-05-24,2,Strategic developments,Looting/property destruction,Unidentified Armed Group (Zambia),,Civilians (Zambia),Government of Zambia (2021-); PF: Patriotic Front,Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,3,National,0,ZMB
+ZAM1635,2024-06-16,1,Strategic developments,Other,Police Forces of Zambia (2021-),,Civilians (Zambia),Christian Group (Zambia),Zambia,Copperbelt,Ndola,Ndola,-12.9666,28.6333,1,National,0,ZMB
+ZAM1634,2024-06-05,1,Protests,Peaceful protest,Protesters (Zambia),Labor Group (Zambia); Students (Zambia),,,Zambia,Southern,Livingstone,Livingstone,-17.85,25.8667,1,National,0,ZMB
+ZAM1632,2024-05-24,1,Protests,Protest with intervention,Protesters (Zambia),Former Government of Zambia (2021-),Police Forces of Zambia (2021-),,Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,1,Subnational-National,0,ZMB
+ZAM1633,2024-05-24,2,Strategic developments,Arrests,Police Forces of Zambia (2021-),,Civilians (Zambia),CDP: Christian Democratic Party; FDD: Forum for Democracy and Development; Government of Zambia (2021-),Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,1,Subnational-National,0,ZMB
+ZAM1636,2024-06-21,1,Protests,Peaceful protest,Protesters (Zambia),,,,Zambia,Western,Mongu,Mongu,-15.25,23.1333,1,National,0,ZMB
+ZAM1637,2024-07-05,1,Strategic developments,Arrests,Police Forces of Zambia (2021-),,Civilians (Zambia),,Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,2,National,0,ZMB
+ZAM1639,2024-07-22,1,Riots,Violent demonstration,Rioters (Zambia),Students (Zambia),Police Forces of Zambia (2021-),,Zambia,Copperbelt,Kitwe,Copperbelt University Kitwe,-12.8071,28.2439,1,National,0,ZMB
+ZAM1640,2024-09-01,1,Strategic developments,Arrests,Police Forces of Zambia (2021-),,Civilians (Zambia),PF: Patriotic Front,Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,1,National,0,ZMB
+ZAM1641,2024-09-03,2,Riots,Mob violence,Rioters (Zambia),Vigilante Group (Zambia),Civilians (Zambia),,Zambia,Central,Serenje,Pensulo,-13.0319,30.4361,1,National,1,ZMB
+ZAM1642,2024-09-04,1,Strategic developments,Arrests,Police Forces of Zambia (2021-),,Civilians (International),Migrants (International),Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,1,Regional,0,ZMB
+ZAM1643,2024-08-30,1,Protests,Protest with intervention,Protesters (Zambia),,Police Forces of Zambia (2021-),,Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,1,National,0,ZMB
+ZAM1638,2024-07-10,1,Protests,Protest with intervention,Protesters (Zambia),,Police Forces of Zambia (2021-),,Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,1,Other-National,0,ZMB
+ZAM1644,2024-12-07,2,Strategic developments,Arrests,Police Forces of Zambia (2021-),,Civilians (International),Migrants (International),Zambia,Lusaka,Lusaka,Lusaka,-15.4166,28.2833,3,Regional,0,ZMB
+ZAM1645,2024-12-29,1,Riots,Mob violence,Rioters (Zambia),Vigilante Group (Zambia),Civilians (Zambia),,Zambia,Copperbelt,Lufwanyama,Lufwanyama,-13.4333,27.75,1,National,1,ZMB
+ZAM1616,2024-01-02,1,Riots,Mob violence,Rioters (Zambia),Vigilante Group (Zambia),Civilians (Zambia),,Zambia,Muchinga,Mpika,Mpika,-11.8431,31.4555,1,National,1,ZMB

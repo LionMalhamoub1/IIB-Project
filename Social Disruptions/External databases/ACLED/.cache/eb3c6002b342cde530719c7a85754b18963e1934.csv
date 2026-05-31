@@ -1,0 +1,146 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities
+MZM992,2018-12-18,1,Protests,Peaceful protest,Protesters (Mozambique),Labor Group (Mozambique); Women (Mozambique),,,Mozambique,Tete,Marara,Marara,-15.9669,33.1539,2,National,0
+MZM991,2018-12-18,1,Protests,Peaceful protest,Protesters (Mozambique),Labor Group (Mozambique); Women (Mozambique),,,Mozambique,Tete,Maravia,Cahora Bassa,-15.5844,32.7078,2,National,0
+MZM989,2018-12-17,1,Protests,Peaceful protest,Protesters (Mozambique),Labor Group (Mozambique); Women (Mozambique),,,Mozambique,Tete,Maravia,Cahora Bassa,-15.5844,32.7078,2,National,0
+MZM990,2018-12-17,1,Protests,Peaceful protest,Protesters (Mozambique),Labor Group (Mozambique); Women (Mozambique),,,Mozambique,Tete,Marara,Marara,-15.9669,33.1539,2,National,0
+MZM988,2018-11-02,1,Riots,Mob violence,Rioters (Mozambique),Vigilante Group (Mozambique),Civilians (Mozambique),,Mozambique,Manica,Macate,Macate,-19.49,33.5119,2,National,0
+MZM944,2018-10-15,1,Violence against civilians,Sexual violence,Unidentified Armed Group (Mozambique),,Civilians (Mozambique),Women (Mozambique),Mozambique,Maputo,Marracuene,Marracuene,-25.7369,32.6764,1,National,0
+MZM920,2018-09-10,2,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Mozambique),,Civilians (Mozambique),,Mozambique,Niassa,Cuamba,Cuamba,-14.8031,36.5372,2,National,0
+MZM921,2018-09-10,2,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Mozambique),,Civilians (Mozambique),,Mozambique,Niassa,Lichinga,Lichinga,-13.3128,35.2406,2,National,0
+MZM919,2018-09-07,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Macomia,Ilala,-11.8814,40.4336,1,International,0
+MZM918,2018-09-05,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Mozambique),,,,Mozambique,Cabo Delgado,Mocimboa da Praia,Malinde,-11.1646,40.2437,2,International,0
+MZM913,2018-08-20,1,Strategic developments,Arrests,Military Forces of Mozambique (1990-),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Macomia,Macomia,-12.2467,40.1208,2,National,0
+MZM908,2018-07-15,3,Violence against civilians,Attack,Military Forces of Mozambique (1990-),,Civilians (Mozambique),,Mozambique,Nampula,Larde,Topito,-16.5333,39.6667,1,International,2
+MZM890,2018-07-06,1,Strategic developments,Change to group/activity,Government of Mozambique (1990-),,,,Mozambique,Cabo Delgado,Pemba,Pemba,-12.9733,40.5176,3,National,0
+MZM906,2018-07-05,2,Violence against civilians,Attack,Unidentified Armed Group (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Palma,Kinsugule,-10.5772,40.369,2,International,3
+MZM888,2018-06-13,3,Strategic developments,Change to group/activity,Macomia Communal Militia (Mozambique),Government of Mozambique (1990-),,,Mozambique,Cabo Delgado,Macomia,Macomia,-12.2467,40.1208,1,National-International,0
+MZM883,2018-06-09,2,Strategic developments,Change to group/activity,Military Forces of Mozambique (1990-),,,,Mozambique,Cabo Delgado,Macomia,Macomia,-12.2467,40.1208,3,National,0
+MZM814,2018-03-24,1,Strategic developments,Arrests,Police Forces of Mozambique (1990-),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Mocimboa da Praia,Mocimboa Da Praia,-11.346,40.3522,1,International,0
+MZM804,2018-02-17,1,Protests,Peaceful protest,Protesters (Mozambique),FRELIMO: Liberation Front of Mozambique,,,Mozambique,Manica,Chimoio,Chimoio,-19.1164,33.4833,1,National,0
+MZM807,2018-02-09,2,Strategic developments,Looting/property destruction,Unidentified Armed Group (Mozambique),,Civilians (Mozambique),,Mozambique,Niassa,Lichinga,Lichinga,-13.3128,35.2406,1,National,0
+MZM795,2018-01-09,1,Violence against civilians,Attack,Unidentified Armed Group (Mozambique),,Civilians (Mozambique),MDM: Mozambique Democratic Movement,Mozambique,Nampula,Nampula,Nampula,-15.12,39.2647,1,International,1
+MZM905,2018-07-11,2,Strategic developments,Change to group/activity,Police Forces of Mozambique (1990-),,,,Mozambique,Nampula,Nampula,Nampula,-15.12,39.2647,1,International,0
+MZM800,2018-01-19,1,Riots,Mob violence,Rioters (Mozambique),,Police Forces of Mozambique (1990-),,Mozambique,Gaza,Chongoene,Chongoene,-25.0191,33.7961,1,International,0
+MZM801,2018-01-19,1,Riots,Mob violence,Rioters (Mozambique),Vigilante Group (Mozambique),Civilians (Mozambique),,Mozambique,Gaza,Chongoene,Chongoene,-25.0191,33.7961,1,International,2
+MZM880,2018-06-07,1,Strategic developments,Arrests,Police Forces of Mozambique (1990-),,Civilians (Mozambique),Islamist Militia (Mozambique),Mozambique,Nampula,Nampula,Nampula,-15.12,39.2647,3,International,0
+MZM2559,2018-12-15,3,Riots,Mob violence,Rioters (Mozambique),,Civilians (Mozambique),Albino Group (Mozambique),Mozambique,Zambezia,Mopeia,Mopeia,-17.9772,35.7033,1,National,1
+MZM864,2018-05-10,2,Battles,Armed clash,RENAMO: Mozambican National Resistance,,Military Forces of Mozambique (1990-),,Mozambique,Sofala,Chibabava,Muxungue,-20.5855,33.8448,1,National,0
+MZM954,2018-11-22,1,Riots,Mob violence,Rioters (Mozambique),FRELIMO: Liberation Front of Mozambique,Civilians (Mozambique),Journalists (Mozambique),Mozambique,Sofala,Marromeu,Marromeu,-18.2908,35.9453,1,International,0
+MZM952,2018-11-12,1,Violence against civilians,Attack,Unidentified Armed Group (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Palma,Pundanhar,-10.8947,40.0611,1,International,6
+MZM951,2018-11-07,1,Protests,Protest with intervention,Protesters (Mozambique),,Police Forces of Mozambique (1990-),,Mozambique,Manica,Manica,Manica,-18.935,32.8759,2,International,0
+MZM950,2018-11-05,1,Riots,Mob violence,Rioters (Mozambique),Vigilante Group (Mozambique),Police Forces of Mozambique (1990-),,Mozambique,Nampula,Nampula,Nampula,-15.12,39.2647,1,National,1
+MZM949,2018-11-04,1,Violence against civilians,Sexual violence,Police Forces of Mozambique (1990-),,Civilians (Mozambique),Women (Mozambique),Mozambique,Nampula,Nampula,Nampula,-15.12,39.2647,1,National,0
+MZM946,2018-10-23,2,Violence against civilians,Attack,Unidentified Armed Group (Mozambique),,Civilians (Mozambique),,Mozambique,Nampula,Murrupula,Murrupula,-15.4569,38.6772,2,National,7
+MZM943,2018-10-10,1,Riots,Violent demonstration,Rioters (Mozambique),RENAMO: Mozambican National Resistance,Police Forces of Mozambique (1990-),,Mozambique,Sofala,Marromeu,Marromeu,-18.2908,35.9453,1,National,0
+MZM936,2018-10-07,1,Riots,Mob violence,Rioters (Mozambique),MDM: Mozambique Democratic Movement,Civilians (Mozambique),FRELIMO: Liberation Front of Mozambique,Mozambique,Cabo Delgado,Macomia,Mueda,-12.2461,40.1611,1,National,0
+MZM941,2018-10-07,1,Riots,Mob violence,Rioters (Mozambique),FRELIMO: Liberation Front of Mozambique,Civilians (Mozambique),RENAMO: Mozambican National Resistance,Mozambique,Gaza,Xai-Xai,Xai-Xai,-25.0519,33.6442,1,National,0
+MZM940,2018-10-07,1,Riots,Mob violence,Rioters (Mozambique),RENAMO: Mozambican National Resistance,Civilians (Mozambique),FRELIMO: Liberation Front of Mozambique,Mozambique,Zambezia,Milange,Milange,-16.0986,35.77,1,National,0
+MZM935,2018-10-07,1,Violence against civilians,Attack,Police Forces of Mozambique (1990-),,Civilians (Mozambique),RENAMO: Mozambican National Resistance,Mozambique,Zambezia,Alto Molocue,Alto Molocue,-15.6356,37.6883,1,National,0
+MZM937,2018-10-07,1,Riots,Mob violence,Rioters (Mozambique),RENAMO: Mozambican National Resistance,Rioters (Mozambique),FRELIMO: Liberation Front of Mozambique; Police Forces of Mozambique (1990-),Mozambique,Tete,Tete,Tete,-16.1564,33.5867,1,International,0
+MZM938,2018-10-07,1,Violence against civilians,Attack,Police Forces of Mozambique (1990-),,Civilians (Mozambique),RENAMO: Mozambican National Resistance,Mozambique,Tete,Tete,Tete,-16.1564,33.5867,1,International,0
+MZM933,2018-10-05,1,Riots,Mob violence,Rioters (Mozambique),RENAMO: Mozambican National Resistance,Civilians (Mozambique),FRELIMO: Liberation Front of Mozambique,Mozambique,Manica,Chimoio,Chimoio,-19.1164,33.4833,1,International,0
+MZM934,2018-10-05,1,Riots,Mob violence,Rioters (Mozambique),FRELIMO: Liberation Front of Mozambique,Civilians (Mozambique),RENAMO: Mozambican National Resistance; MDM: Mozambique Democratic Movement,Mozambique,Niassa,Mandimba,Mandimba,-14.3525,35.6506,1,International,0
+MZM931,2018-10-01,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Mozambique),,Civilians (Mozambique),MDM: Mozambique Democratic Movement,Mozambique,Gaza,Bilene,Bilene,-25.1667,33.1917,1,International,0
+MZM929,2018-09-27,1,Protests,Protest with intervention,Protesters (Mozambique),,Police Forces of Mozambique (1990-),,Mozambique,Cabo Delgado,Macomia,Macomia,-12.2467,40.1208,1,International,0
+MZM928,2018-09-27,1,Violence against civilians,Attack,FRELIMO: Liberation Front of Mozambique,,Civilians (Mozambique),RENAMO: Mozambican National Resistance; Women (Mozambique),Mozambique,Tete,Tete,Tete,-16.1564,33.5867,1,International,0
+MZM926,2018-09-26,1,Riots,Mob violence,Rioters (Mozambique),FRELIMO: Liberation Front of Mozambique,Rioters (Mozambique),RENAMO: Mozambican National Resistance,Mozambique,Tete,Mutarara,Nhamayabue,-17.4206,35.0658,1,National,0
+MZM927,2018-09-26,1,Riots,Mob violence,Rioters (Mozambique),FRELIMO: Liberation Front of Mozambique,Rioters (Mozambique),RENAMO: Mozambican National Resistance,Mozambique,Sofala,Dondo,Dondo,-19.6094,34.7431,1,National,0
+MZM925,2018-09-26,1,Violence against civilians,Attack,Unidentified Armed Group (Mozambique),,Civilians (Mozambique),FRELIMO: Liberation Front of Mozambique,Mozambique,Manica,Chimoio,Chimoio,-19.1164,33.4833,1,International,2
+MZM945,2018-10-19,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Mozambique),,,,Mozambique,Nampula,Nampula,Nampula,-15.12,39.2647,2,National,0
+MZM915,2018-08-29,1,Battles,Armed clash,Military Forces of Mozambique (1990-),,Unidentified Armed Group (Mozambique),,Mozambique,Cabo Delgado,Pemba,Pemba,-12.9733,40.5176,3,International,3
+MZM962,2018-08-18,1,Violence against civilians,Attack,Police Forces of Mozambique (1990-),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Mocimboa da Praia,Mocimboa Da Praia,-11.346,40.3522,2,Other,0
+MZM961,2018-08-11,1,Violence against civilians,Attack,Police Forces of Mozambique (1990-),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Pemba,Pemba,-12.9733,40.5176,2,Other,0
+MZM911,2018-08-01,1,Violence against civilians,Attack,Unidentified Armed Group (Mozambique),,Civilians (South Africa),,Mozambique,Cabo Delgado,Palma,Palma,-10.7722,40.4756,1,International,0
+MZM910,2018-07-30,1,Violence against civilians,Attack,Police Forces of Mozambique (1990-),,Civilians (Mozambique),,Mozambique,Zambezia,Inhassunge,Ponta Olinda,-18.0539,36.9644,1,Subnational,1
+MZM903,2018-07-10,1,Battles,Armed clash,Police Forces of Mozambique (1990-),,Unidentified Armed Group (Mozambique),,Mozambique,Cabo Delgado,Palma,Namoto,-10.6167,40.4083,2,International,2
+MZM901,2018-07-07,1,Violence against civilians,Attack,Unidentified Armed Group (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Palma,Palma,-10.7722,40.4756,2,National-International,4
+MZM863,2018-07-05,1,Protests,Peaceful protest,Protesters (Mozambique),,,,Mozambique,Maputo,Cidade Da Matola,Matola,-25.9622,32.4589,1,National,0
+MZM889,2018-06-13,1,Violence against civilians,Attack,Unidentified Armed Group (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Pemba,Pemba,-12.9733,40.5176,1,International,2
+MZM865,2018-05-11,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Mozambique),,Civilians (Mozambique),RENAMO: Mozambican National Resistance,Mozambique,Zambezia,Quelimane,Quelimane,-17.8786,36.8883,1,International,0
+MZM862,2018-03-05,1,Violence against civilians,Attack,Police Forces of Mozambique (1990-),,Civilians (Mozambique),,Mozambique,Maputo,Cidade Da Matola,Matola,-25.9622,32.4589,1,National,1
+MZM923,2018-09-20,1,Battles,Armed clash,Unidentified Armed Group (Mozambique),,Military Forces of Mozambique (1990-),,Mozambique,Cabo Delgado,Palma,Pundanhar,-10.8947,40.0611,1,Local partner-Other,1
+MZM922,2018-09-19,1,Protests,Excessive force against protesters,Protesters (Mozambique),RENAMO: Mozambican National Resistance,Police Forces of Mozambique (1990-),,Mozambique,Zambezia,Quelimane,Quelimane,-17.8786,36.8883,1,International,0
+MZM805,2018-02-19,1,Violence against civilians,Attack,Police Forces of Mozambique (1990-),,Civilians (Mozambique),Women (Mozambique),Mozambique,Cabo Delgado,Mocimboa da Praia,Mocimboa Da Praia,-11.346,40.3522,1,International,0
+MZM930,2018-09-29,1,Battles,Armed clash,Unidentified Armed Group (Mozambique),,Military Forces of Mozambique (1990-),,Mozambique,Cabo Delgado,Mocimboa da Praia,Marere,-11.6628,40.3681,1,International,2
+MZM899,2018-07-05,1,Riots,Violent demonstration,Rioters (Mozambique),,Civilians (Mozambique),Government of Mozambique (1990-),Mozambique,Zambezia,Quelimane,Quelimane,-17.8786,36.8883,3,International,0
+MZM916,2018-08-17,1,Riots,Violent demonstration,Rioters (Mozambique),,,,Mozambique,Cabo Delgado,Pemba,Pemba,-12.9733,40.5176,1,Regional,0
+MZM1252,2018-10-27,1,Battles,Armed clash,Islamist Militia (Mozambique),,Military Forces of Mozambique (1990-),Wagner Group,Mozambique,Cabo Delgado,Muidumbe,Miangalewa,-11.8511,40.0761,1,International,4
+MZM797,2018-01-13,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Palma,Quissenge,-11.1642,40.4639,1,National,0
+MZM798,2018-01-13,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Palma,Olumbi,-10.9931,40.4739,1,National-International,5
+MZM799,2018-01-15,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),Health Workers (Mozambique),Mozambique,Cabo Delgado,Nangade,Litingina,-11.229,39.6327,2,National,2
+MZM809,2018-03-03,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Mocimboa da Praia,Chitolo,-11.3622,40.1047,1,National,1
+MZM810,2018-03-12,2,Battles,Armed clash,Police Forces of Mozambique (1990-),,Islamist Militia (Mozambique),,Mozambique,Cabo Delgado,Mocimboa da Praia,Mocimboa Da Praia,-11.346,40.3522,1,Regional,2
+MZM812,2018-03-21,1,Strategic developments,Agreement,Police Forces of Mozambique (1990-),,Islamist Militia (Mozambique),,Mozambique,Cabo Delgado,Mocimboa da Praia,Mocimboa Da Praia,-11.346,40.3522,1,Regional,0
+MZM813,2018-03-21,1,Strategic developments,Change to group/activity,Islamist Militia (Mozambique),,,,Mozambique,Cabo Delgado,Pemba,Pemba,-12.9733,40.5176,3,Regional,0
+MZM816,2018-04-15,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Palma,Palma,-10.7722,40.4756,2,National,1
+MZM817,2018-04-20,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Mocimboa da Praia,Diaca,-11.5381,39.9353,1,National,3
+MZM818,2018-04-21,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Palma,Palma,-10.7722,40.4756,2,National,1
+MZM819,2018-04-22,1,Violence against civilians,Abduction/forced disappearance,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Mocimboa da Praia,Diaca,-11.5381,39.9353,1,National,0
+MZM866,2018-05-16,2,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Macomia,Ilala,-11.8814,40.4336,1,National,2
+MZM868,2018-05-20,1,Strategic developments,Looting/property destruction,Islamist Militia (Mozambique),,,,Mozambique,Cabo Delgado,Mocimboa da Praia,Mocimboa Da Praia,-11.346,40.3522,2,National,0
+MZM869,2018-05-27,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Palma,Olumbi,-10.9931,40.4739,1,Other-National,5
+MZM870,2018-05-27,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Palma,Palma,-10.7722,40.4756,2,Other-National,5
+MZM871,2018-05-29,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Palma,Olumbi,-10.9931,40.4739,2,International,2
+MZM872,2018-05-31,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Palma,Mute,-10.9628,40.3517,1,International,1
+MZM873,2018-06-01,1,Battles,Armed clash,Police Forces of Mozambique (1990-),,Islamist Militia (Mozambique),,Mozambique,Cabo Delgado,Palma,Olumbi,-10.9931,40.4739,2,International,9
+MZM874,2018-06-03,1,Battles,Armed clash,Police Forces of Mozambique (1990-),,Islamist Militia (Mozambique),,Mozambique,Cabo Delgado,Palma,Palma,-10.7722,40.4756,2,International,2
+MZM875,2018-06-03,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Macomia,Mucojo,-12.0653,40.4794,1,International,3
+MZM877,2018-06-04,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Macomia,Mucojo,-12.0653,40.4794,1,Regional-International,7
+MZM879,2018-06-06,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Quissanga,Namaluco,-12.3506,40.3131,1,Other-International,6
+MZM881,2018-05-15,2,Battles,Government regains territory,Military Forces of Mozambique (1990-),,Islamist Militia (Mozambique),,Mozambique,Cabo Delgado,Pemba,Pemba,-12.9733,40.5176,3,National,0
+MZM882,2018-05-20,2,Battles,Government regains territory,Military Forces of Mozambique (1990-),,Islamist Militia (Mozambique),,Mozambique,Cabo Delgado,Pemba,Pemba,-12.9733,40.5176,3,National,1
+MZM884,2018-11-06,2,Strategic developments,Agreement,Government of Mozambique (1990-),,Islamist Militia (Mozambique),,Mozambique,Cabo Delgado,Pemba,Pemba,-12.9733,40.5176,3,International,0
+MZM885,2018-06-11,1,Battles,Armed clash,Military Forces of Mozambique (1990-),,Islamist Militia (Mozambique),,Mozambique,Cabo Delgado,Nangade,Lulute,-11.4097,39.7061,2,National-International,2
+MZM886,2018-11-06,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Pemba,Pemba,-12.9733,40.5176,2,National-International,4
+MZM891,2018-06-14,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Macomia,Macomia,-12.2467,40.1208,2,National,0
+MZM893,2018-06-17,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Macomia,Macomia,-12.2467,40.1208,3,National,2
+MZM894,2018-06-19,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Macomia,Litandacua,-11.9358,39.9847,1,National-International,5
+MZM895,2018-06-19,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Macomia,Mucojo,-12.0653,40.4794,2,National-International,7
+MZM896,2018-06-22,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Palma,Palma,-10.7722,40.4756,2,National,6
+MZM897,2018-06-23,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Palma,Maganja,-10.8514,40.5944,1,International,5
+MZM898,2018-06-25,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Macomia,Galudo,-12.1258,40.4769,1,National,0
+MZM902,2018-07-07,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Mocimboa da Praia,Mbau,-11.5892,40.1931,1,National-International,4
+MZM909,2018-07-29,1,Battles,Armed clash,Islamist Militia (Mozambique),,Military Forces of Mozambique (1990-),Police Forces of Mozambique (1990-),Mozambique,Cabo Delgado,Mocimboa da Praia,Chitolo,-11.3622,40.1047,1,International,1
+MZM912,2018-08-16,1,Battles,Government regains territory,Military Forces of Mozambique (1990-),,Islamist Militia (Mozambique),,Mozambique,Cabo Delgado,Palma,Pundanhar,-10.8947,40.0611,2,International,4
+MZM914,2018-08-21,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Palma,Pundanhar,-10.8947,40.0611,1,Regional,0
+MZM917,2018-08-23,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Mocimboa da Praia,Cobre,-11.5333,40.2546,1,Subnational,2
+MZM924,2018-09-20,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Macomia,Macomia,-12.2467,40.1208,2,Local partner-Other,14
+MZM948,2018-11-03,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),Muslim Group (Mozambique),Mozambique,Cabo Delgado,Macomia,Macomia,-12.2467,40.1208,2,Other-National,0
+MZM953,2018-11-20,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Macomia,Chai,-11.9319,40.1103,1,International,1
+MZM955,2018-11-23,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Nangade,Chicuaia Velha,-11.1498,39.582,1,International,12
+MZM956,2018-12-01,1,Battles,Armed clash,Islamist Militia (Mozambique),,Nangade Communal Militia (Mozambique),,Mozambique,Cabo Delgado,Macomia,Quinto Congresso,-12.0215,40.1463,2,Regional,1
+MZM957,2018-12-01,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Nangade,Nangade,-11.0772,39.6744,2,Regional,4
+MZM958,2018-12-02,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Mocimboa da Praia,Mocimboa Da Praia,-11.346,40.3522,2,National,3
+MZM959,2018-12-02,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Mocimboa da Praia,Njana,-11.2997,40.1872,2,National,1
+MZM960,2018-12-05,1,Battles,Armed clash,Nangade Communal Militia (Mozambique),,Islamist Militia (Mozambique),,Mozambique,Cabo Delgado,Nangade,Nangade,-11.0772,39.6744,2,International,5
+MZM963,2018-12-07,1,Strategic developments,Arrests,Nangade Communal Militia (Mozambique),,Islamist Militia (Mozambique),,Mozambique,Cabo Delgado,Nangade,Litingina,-11.229,39.6327,1,International,0
+MZM964,2018-12-10,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Palma,Nalyandele,-10.6812,40.2643,2,National,3
+MZM965,2018-12-10,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Palma,Malamba,-10.7097,40.442,2,National,1
+MZM966,2018-12-10,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Palma,Makanga,-10.5802,40.3655,2,National,1
+MZM967,2018-12-11,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Palma,Miando,-10.7026,40.372,2,National,0
+MZM968,2018-12-12,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Palma,Malamba,-10.7097,40.442,2,National,6
+MZM969,2018-12-14,1,Battles,Armed clash,Islamist Militia (Mozambique),,Nangade Communal Militia (Mozambique),,Mozambique,Cabo Delgado,Nangade,Lulute,-11.4097,39.7061,2,National,0
+MZM970,2018-12-14,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Palma,Olumbi,-10.9931,40.4739,2,National,3
+MZM972,2018-12-18,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Macomia,Litandacua,-11.9358,39.9847,1,National,3
+MZM973,2018-12-19,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Mocimboa da Praia,Njana,-11.2997,40.1872,2,National,1
+MZM975,2018-12-26,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Macomia,Mucojo,-12.0653,40.4794,2,National,1
+MZM979,2018-03-13,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Mocimboa da Praia,Chitolo,-11.3622,40.1047,1,National,1
+MZM887,2018-06-12,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Macomia,Quiterajo,-11.7504,40.442,1,National,0
+MZM900,2018-07-07,1,Violence against civilians,Attack,Unidentified Armed Group (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Macomia,Quiterajo,-11.7504,40.442,1,National,1
+MZM974,2018-12-20,1,Violence against civilians,Attack,Islamist Militia (Mozambique),,Civilians (Mozambique),,Mozambique,Cabo Delgado,Macomia,Quiterajo,-11.7504,40.442,2,National,3
+MZM971,2018-12-17,1,Protests,Peaceful protest,Protesters (Mozambique),,,,Mozambique,Maputo City,Maputo,Maputo City - Kamavota,-25.8819,32.6178,1,National,0
+MZM794,2018-01-09,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Mozambique),,Civilians (Mozambique),Mozambican Police Defence Association,Mozambique,Maputo City,Maputo,Maputo City - Kamaxaquene,-25.9345,32.5988,1,National,0
+MZM815,2018-03-27,1,Violence against civilians,Attack,Unidentified Armed Group (Mozambique),,Civilians (Mozambique),Journalists (Mozambique),Mozambique,Maputo City,Maputo,Maputo City - Kampfumo,-25.9643,32.5819,1,International,0
+MZM808,2018-03-05,1,Strategic developments,Change to group/activity,Police Forces of Mozambique (1990-),,,,Mozambique,Maputo City,Maputo,Maputo City,-25.9445,32.5776,2,International,0
+MZM811,2018-03-19,2,Strategic developments,Agreement,RENAMO: Mozambican National Resistance,,FRELIMO: Liberation Front of Mozambique,,Mozambique,Maputo City,Maputo,Maputo City,-25.9445,32.5776,3,International,0
+MZM867,2018-05-17,1,Strategic developments,Agreement,Government of Mozambique (1990-),,Government of Uganda (1986-),,Mozambique,Maputo City,Maputo,Maputo City,-25.9445,32.5776,1,National,0
+MZM876,2018-06-05,1,Strategic developments,Agreement,Government of the Democratic Republic of Congo (2001-2019),,Government of Mozambique (1990-),,Mozambique,Cabo Delgado,Pemba,Pemba,-12.9733,40.5176,3,National-International,0
+MZM904,2018-07-11,1,Strategic developments,Agreement,FRELIMO: Liberation Front of Mozambique,,RENAMO: Mozambican National Resistance,,Mozambique,Maputo City,Maputo,Maputo City,-25.9445,32.5776,3,International,0
+MZM932,2018-10-06,1,Strategic developments,Agreement,Government of Mozambique (1990-),,RENAMO: Mozambican National Resistance,,Mozambique,Maputo City,Maputo,Maputo City,-25.9445,32.5776,3,International,0
+MZM803,2018-02-09,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Mozambique),,Civilians (China),Women (China),Mozambique,Maputo City,Maputo,Maputo City,-25.9445,32.5776,1,National,0
+MZM939,2018-10-07,1,Strategic developments,Arrests,Police Forces of Mozambique (1990-),,Civilians (Mozambique),MDM: Mozambique Democratic Movement,Mozambique,Maputo City,Maputo,Maputo City,-25.9445,32.5776,1,International,0
+MZM942,2018-10-07,1,Protests,Peaceful protest,Protesters (Mozambique),,,,Mozambique,Maputo City,Maputo,Maputo City,-25.9445,32.5776,1,National,0
+MZM947,2018-10-24,1,Riots,Mob violence,Rioters (Mozambique),Vigilante Group (Mozambique),Civilians (Mozambique),,Mozambique,Maputo City,Maputo,Maputo City,-25.9445,32.5776,1,National,1
+MZM820,2018-04-30,1,Riots,Violent demonstration,Rioters (Mozambique),,Police Forces of Mozambique (1990-),,Mozambique,Maputo,Manhica,Manhica,-25.4022,32.8072,2,Regional-International,0
+MZM878,2018-06-06,1,Riots,Violent demonstration,Rioters (Mozambique),,Police Forces of Mozambique (1990-),,Mozambique,Maputo City,Maputo,Maputo City,-25.9445,32.5776,1,National,1
+MZM892,2018-06-17,1,Riots,Violent demonstration,Rioters (Mozambique),,Police Forces of Mozambique (1990-),,Mozambique,Maputo,Cidade Da Matola,Machava,-25.8986,32.4861,1,National,0

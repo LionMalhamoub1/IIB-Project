@@ -1,0 +1,136 @@
+{
+  "Logistic Regression": {
+    "folds": [
+      {
+        "fold": 1,
+        "auc": 0.781,
+        "precision": 0.5511,
+        "recall": 0.6905,
+        "f1": 0.6129
+      },
+      {
+        "fold": 2,
+        "auc": 0.8021,
+        "precision": 0.57,
+        "recall": 0.7024,
+        "f1": 0.6293
+      },
+      {
+        "fold": 3,
+        "auc": 0.8238,
+        "precision": 0.5884,
+        "recall": 0.753,
+        "f1": 0.6606
+      },
+      {
+        "fold": 4,
+        "auc": 0.7983,
+        "precision": 0.5711,
+        "recall": 0.7054,
+        "f1": 0.6312
+      },
+      {
+        "fold": 5,
+        "auc": 0.8047,
+        "precision": 0.5881,
+        "recall": 0.7054,
+        "f1": 0.6414
+      }
+    ],
+    "mean_auc": 0.802,
+    "mean_precision": 0.5737,
+    "std_precision": 0.0138,
+    "mean_recall": 0.7113,
+    "std_recall": 0.0215,
+    "mean_f1": 0.6351,
+    "std_f1": 0.0157,
+    "confusion_matrix": [
+      [
+        2817,
+        888
+      ],
+      [
+        485,
+        1195
+      ]
+    ],
+    "feature_names": [
+      "spi_30d",
+      "chirps_7d_anom_pct",
+      "era5_soil_moisture_day0",
+      "era5_soil_moisture_deep_day0",
+      "era5_soil_moisture_deep_7d_mean",
+      "gpm_peak_3h_mm",
+      "jrc_recurrence_pct",
+      "pop_density_km2",
+      "terrain_slope_mean"
+    ]
+  },
+  "Random Forest": {
+    "folds": [
+      {
+        "fold": 1,
+        "auc": 0.8436,
+        "precision": 0.6243,
+        "recall": 0.7024,
+        "f1": 0.6611
+      },
+      {
+        "fold": 2,
+        "auc": 0.8501,
+        "precision": 0.6482,
+        "recall": 0.6964,
+        "f1": 0.6714
+      },
+      {
+        "fold": 3,
+        "auc": 0.8627,
+        "precision": 0.6368,
+        "recall": 0.7202,
+        "f1": 0.676
+      },
+      {
+        "fold": 4,
+        "auc": 0.8397,
+        "precision": 0.6285,
+        "recall": 0.6696,
+        "f1": 0.6484
+      },
+      {
+        "fold": 5,
+        "auc": 0.8605,
+        "precision": 0.6309,
+        "recall": 0.7173,
+        "f1": 0.6713
+      }
+    ],
+    "mean_auc": 0.8514,
+    "mean_precision": 0.6337,
+    "std_precision": 0.0083,
+    "mean_recall": 0.7012,
+    "std_recall": 0.0181,
+    "mean_f1": 0.6656,
+    "std_f1": 0.0099,
+    "confusion_matrix": [
+      [
+        3024,
+        681
+      ],
+      [
+        502,
+        1178
+      ]
+    ],
+    "feature_names": [
+      "spi_30d",
+      "chirps_7d_anom_pct",
+      "era5_soil_moisture_day0",
+      "era5_soil_moisture_deep_day0",
+      "era5_soil_moisture_deep_7d_mean",
+      "gpm_peak_3h_mm",
+      "jrc_recurrence_pct",
+      "pop_density_km2",
+      "terrain_slope_mean"
+    ]
+  }
+}

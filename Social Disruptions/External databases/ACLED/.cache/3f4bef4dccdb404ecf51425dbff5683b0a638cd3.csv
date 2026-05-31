@@ -1,0 +1,629 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities
+BOL523,2019-11-09,1,Riots,Violent demonstration,Rioters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,National,0
+BOL585,2019-11-23,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL434,2019-11-02,1,Riots,Mob violence,Rioters (Bolivia),,Civilians (Bolivia),,Bolivia,Santa Cruz,Guarayos,Ascencion de Guarayos,-15.893,-63.1886,1,National,0
+BOL350,2019-10-22,1,Protests,Peaceful protest,Protesters (Bolivia),Students (Bolivia),,,Bolivia,Tarija,Cercado,Tarija,-21.5355,-64.7296,1,National,0
+BOL522,2019-11-09,1,Protests,Peaceful protest,Protesters (Bolivia),Police Forces of Bolivia (2006-2019),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,National,0
+BOL455,2019-11-05,1,Riots,Violent demonstration,Rioters (Bolivia),,Police Forces of Bolivia (2006-2019),,Bolivia,Pando,Nicolas Suarez,Cobija,-11.0267,-68.7692,1,National,0
+BOL524,2019-11-09,1,Violence against civilians,Attack,Unidentified Armed Group (Bolivia),,Civilians (Bolivia),,Bolivia,Oruro,Cercado,Vila Vila,-17.5578,-67.362,1,National,0
+BOL619,2019-12-27,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,Santa Cruz,Cordillera,Cabezas,-18.7878,-63.317,1,National,0
+BOL509,2019-11-08,1,Riots,Mob violence,Rioters (Bolivia),Farmers (Bolivia),,,Bolivia,Oruro,Pantaleon Dalence,Sora Sora,-18.1702,-66.9617,1,National,0
+BOL449,2019-11-04,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Beni,Vaca Diez,Riberalta,-11.0065,-66.0631,1,National,0
+BOL323,2019-10-05,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Santa Cruz,Chiquitos,Robore,-18.3347,-59.7614,1,National,0
+BOL534,2019-11-11,1,Protests,Peaceful protest,Protesters (Bolivia),Students (Bolivia),,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL514,2019-11-08,1,Protests,Peaceful protest,Protesters (Bolivia),Police Forces of Bolivia (2006-2019),,,Bolivia,Beni,Cercado,Trinidad,-14.8333,-64.9,1,National,0
+BOL508,2019-11-08,1,Protests,Peaceful protest,Protesters (Bolivia),Police Forces of Bolivia (2006-2019),,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL498,2019-11-08,1,Protests,Peaceful protest,Protesters (Bolivia),Women (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL504,2019-11-08,1,Protests,Peaceful protest,Protesters (Bolivia),Police Forces of Bolivia (2006-2019),,,Bolivia,Oruro,Cercado,Oruro,-17.9698,-67.1148,1,National,0
+BOL333,2019-10-16,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Santa Cruz,Florida,Mataral,-18.1167,-64.2167,1,National,0
+BOL474,2019-11-06,2,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Santa Cruz,Velasco,San Ignacio de Velasco,-16.3667,-60.95,1,National,0
+BOL505,2019-11-08,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia); Labor Group (Bolivia),,,Bolivia,La Paz,Aroma,Panduro,-17.4945,-67.4445,1,National,0
+BOL468,2019-11-06,1,Riots,Violent demonstration,Rioters (Bolivia),,Rioters (Bolivia),Government of Bolivia (2006-2019); Police Forces of Bolivia (2006-2019),Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL502,2019-11-08,1,Riots,Violent demonstration,Rioters (Bolivia),Farmers (Bolivia); Labor Group (Bolivia),,,Bolivia,Oruro,Pantaleon Dalence,Machacamarca,-18.1718,-67.021,2,National,0
+BOL480,2019-11-06,2,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Santa Cruz,Warnes,Warnes,-17.5163,-63.1678,1,National,0
+BOL469,2019-11-06,2,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Santa Cruz,Obispo Santistevan,Montero,-17.342,-63.2557,1,National,0
+BOL506,2019-11-08,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia); Labor Group (Bolivia),,,Bolivia,La Paz,Aroma,Patacamaya,-17.2328,-67.9176,1,National,0
+BOL497,2019-11-08,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia); Labor Group (Bolivia),,,Bolivia,La Paz,Aroma,Konani,-17.4377,-67.5186,1,National,0
+BOL437,2019-11-02,1,Riots,Violent demonstration,Rioters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL471,2019-11-06,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Potosi,Tomas Frias,Potosi,-19.5836,-65.7531,1,National,0
+BOL525,2019-11-10,1,Violence against civilians,Attack,Unidentified Armed Group (Bolivia),,Civilians (Bolivia),Labor Group (Bolivia),Bolivia,Oruro,Eduardo Avaroa,Challapata,-18.9021,-66.7705,2,National,0
+BOL501,2019-11-08,1,Riots,Violent demonstration,Rioters (Bolivia),Students (Bolivia),Police Forces of Bolivia (2006-2019),,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL446,2019-11-04,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia); Labor Group (Bolivia); Students (Bolivia); Teachers (Bolivia),,,Bolivia,Oruro,Cercado,Oruro,-17.9698,-67.1148,1,National,0
+BOL462,2019-11-05,1,Protests,Peaceful protest,Protesters (Bolivia),Women (Bolivia); Students (Bolivia),,,Bolivia,Oruro,Cercado,Oruro,-17.9698,-67.1148,1,National,0
+BOL444,2019-11-04,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL445,2019-11-04,1,Riots,Violent demonstration,Rioters (Bolivia),,Police Forces of Bolivia (2006-2019),Rioters (Bolivia),Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL441,2019-11-04,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Santa Cruz,Cordillera,Camiri,-20.0968,-63.5217,1,National,0
+BOL489,2019-11-07,1,Strategic developments,Arrests,Police Forces of Bolivia (2006-2019),,Civilians (Haiti),Refugees/IDPs (Haiti),Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL602,2019-12-05,1,Riots,Violent demonstration,Rioters (Bolivia),Students (Bolivia),Rioters (Bolivia),Students (Bolivia); Journalists (Bolivia),Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL608,2019-12-11,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL612,2019-12-17,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL334,2019-10-17,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL598,2019-12-03,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL328,2019-10-10,1,Riots,Violent demonstration,Rioters (Bolivia),Health Workers (Bolivia); Students (Bolivia),Police Forces of Bolivia (2006-2019),,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL507,2019-11-08,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Potosi,Tomas Frias,Potosi,-19.5836,-65.7531,1,National,0
+BOL520,2019-11-09,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Potosi,Tomas Frias,Potosi,-19.5836,-65.7531,1,National,0
+BOL477,2019-11-06,1,Riots,Violent demonstration,Rioters (Bolivia),,Rioters (Bolivia),,Bolivia,Beni,Cercado,Trinidad,-14.8333,-64.9,1,National,0
+BOL601,2019-12-04,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL324,2019-10-07,1,Riots,Violent demonstration,Rioters (Bolivia),,Rioters (Bolivia),,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,0
+BOL436,2019-11-02,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL610,2019-12-16,1,Riots,Mob violence,Rioters (Bolivia),Vigilante Group (Bolivia),Civilians (Bolivia),,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL453,2019-11-04,1,Protests,Peaceful protest,Protesters (Bolivia),Students (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,National,0
+BOL443,2019-11-04,2,Riots,Violent demonstration,Rioters (Bolivia),Unidentified Armed Group (Bolivia),Civilians (Bolivia),,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL615,2019-12-19,1,Protests,Peaceful protest,Protesters (Bolivia),Students (Bolivia),,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL566,2019-11-18,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Pacajes,Charana,-17.5932,-69.4466,1,National,0
+BOL447,2019-11-04,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Quillacollo,Quillacollo,-17.3923,-66.2784,1,National,0
+BOL473,2019-11-06,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia); Farmers (Bolivia),,,Bolivia,Cochabamba,Chapare,Sacaba,-17.398,-66.0383,1,National,0
+BOL452,2019-11-04,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,National,0
+BOL494,2019-11-08,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Pando,Nicolas Suarez,Cobija,-11.0267,-68.7692,3,National,0
+BOL617,2019-12-23,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia),,,Bolivia,Cochabamba,Quillacollo,Parotani,-17.5688,-66.3457,1,National,0
+BOL611,2019-12-16,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,2,National,0
+BOL335,2019-10-17,1,Protests,Peaceful protest,Protesters (Bolivia),Indigenous Group (Bolivia),,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL605,2019-12-07,1,Protests,Peaceful protest,Protesters (Bolivia),Women (Bolivia); Labor Group (Bolivia),,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL463,2019-11-06,2,Riots,Mob violence,Rioters (Bolivia),,,,Bolivia,Tarija,Aniceto Arce,Bermejo,-22.7321,-64.3372,1,National,0
+BOL478,2019-11-06,2,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Tarija,Gran Chaco,Villamontes,-21.2624,-63.469,1,National,0
+BOL475,2019-11-06,1,Riots,Violent demonstration,Rioters (Bolivia),,Civilians (Bolivia),Journalists (Bolivia),Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL586,2019-11-23,1,Riots,Violent demonstration,Rioters (Bolivia),,Police Forces of Bolivia (2019-2020),Government of Bolivia (2019-2020); Military Forces of Bolivia (2019-2020),Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL535,2019-11-11,1,Riots,Violent demonstration,Rioters (Bolivia),,Police Forces of Bolivia (2019-2020),,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,0
+BOL603,2019-12-05,1,Riots,Mob violence,Rioters (Bolivia),Labor Group (Bolivia),Rioters (Bolivia),Labor Group (Bolivia); Police Forces of Bolivia (2019-2020),Bolivia,Cochabamba,Quillacollo,Quillacollo,-17.3923,-66.2784,1,National,0
+BOL537,2019-11-11,1,Riots,Violent demonstration,Rioters (Bolivia),,Police Forces of Bolivia (2019-2020),Military Forces of Bolivia (2019-2020); Rioters (Bolivia),Bolivia,Cochabamba,Chapare,Sacaba,-17.398,-66.0383,1,National,0
+BOL114,2019-04-02,1,Riots,Mob violence,Rioters (Bolivia),Labor Group (Bolivia),Rioters (Bolivia),Labor Group (Bolivia),Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,0
+BOL526,2019-11-10,1,Strategic developments,Other,Government of Bolivia (2006-2019),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL527,2019-11-10,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,0
+BOL517,2019-11-09,1,Riots,Mob violence,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,0
+BOL515,2019-11-08,1,Riots,Violent demonstration,Rioters (Bolivia),Farmers (Bolivia); Labor Group (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Rioters (Bolivia),,Bolivia,Oruro,Cercado,Vila Vila,-17.5578,-67.362,1,National,0
+BOL496,2019-11-08,1,Riots,Violent demonstration,Rioters (Bolivia),,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL483,2019-11-07,1,Protests,Peaceful protest,Protesters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,0
+BOL467,2019-11-06,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples; Labor Group (Bolivia); Unidentified Armed Group (Bolivia); Police Forces of Bolivia (2006-2019),Rioters (Bolivia),,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL457,2019-11-05,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples; Police Forces of Bolivia (2006-2019),Rioters (Bolivia),Students (Bolivia); Civilians (Bolivia); Journalists (Bolivia),Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,0
+BOL459,2019-11-05,1,Riots,Violent demonstration,Rioters (Bolivia),,Police Forces of Bolivia (2006-2019),Government of Bolivia (2006-2019); Labor Group (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL448,2019-11-04,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples; Labor Group (Bolivia); Farmers (Bolivia); Indigenous Group (Bolivia),Rioters (Bolivia),,Bolivia,Beni,Vaca Diez,Riberalta,-11.0065,-66.0631,1,National,0
+BOL433,2019-11-01,1,Protests,Peaceful protest,Protesters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Beni,Cercado,Trinidad,-14.8333,-64.9,1,National,0
+BOL321,2019-10-02,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL319,2019-10-01,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Santa Cruz,Guarayos,Ascencion de Guarayos,-15.893,-63.1886,1,National,0
+BOL320,2019-10-01,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia),,,Bolivia,Tarija,Cercado,Tarija,-21.5355,-64.7296,1,National,0
+BOL318,2019-09-30,1,Violence against civilians,Attack,Unidentified Armed Group (Bolivia),,Civilians (Bolivia),Labor Group (Bolivia),Bolivia,Tarija,Gran Chaco,Yacuiba,-22.0139,-63.6778,1,National,1
+BOL316,2019-09-29,1,Riots,Mob violence,Rioters (Bolivia),,Police Forces of Bolivia (2006-2019),,Bolivia,Cochabamba,Tapacari,Pongo Kasa,-17.7108,-66.5506,1,National,0
+BOL314,2019-09-28,1,Violence against civilians,Attack,Unidentified Armed Group (Bolivia),,Civilians (Bolivia),Farmers (Bolivia),Bolivia,Santa Cruz,Guarayos,Ascencion de Guarayos,-15.893,-63.1886,2,National,1
+BOL311,2019-09-27,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL313,2019-09-27,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL310,2019-09-27,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL312,2019-09-27,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,Potosi,Tomas Frias,Potosi,-19.5836,-65.7531,1,National,0
+BOL309,2019-09-26,1,Riots,Mob violence,Rioters (Bolivia),,Rioters (Bolivia),,Bolivia,Potosi,Chayanta,Macha,-18.8174,-66.0374,2,National,0
+BOL306,2019-09-23,1,Protests,Peaceful protest,Protesters (Bolivia),Students (Bolivia),,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL304,2019-09-17,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL302,2019-09-16,1,Protests,Peaceful protest,Protesters (Bolivia),Indigenous Group (Bolivia),,,Bolivia,Santa Cruz,Velasco,San Ignacio de Velasco,-16.3667,-60.95,1,National,0
+BOL301,2019-09-16,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL300,2019-09-14,1,Riots,Mob violence,Rioters (Bolivia),Vigilante Group (Bolivia); Labor Group (Bolivia),Civilians (Bolivia),Women (Bolivia),Bolivia,Cochabamba,Quillacollo,Quillacollo,-17.3923,-66.2784,1,National,0
+BOL295,2019-09-11,1,Riots,Mob violence,Rioters (Bolivia),,Unidentified Armed Group (Bolivia),,Bolivia,Oruro,Cercado,Oruro,-17.9698,-67.1148,1,National,0
+BOL296,2019-09-11,1,Protests,Peaceful protest,Protesters (Bolivia),Indigenous Group (Bolivia); Farmers (Bolivia),,,Bolivia,Santa Cruz,Chiquitos,Pailon,-17.65,-62.75,2,National,0
+BOL293,2019-09-10,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Santa Cruz,Andres Ibanez,La Guardia,-17.8936,-63.3251,1,National,0
+BOL291,2019-09-06,1,Protests,Peaceful protest,Protesters (Bolivia),Women (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL289,2019-09-05,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL286,2019-09-04,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL284,2019-09-04,1,Riots,Mob violence,Rioters (Bolivia),Vigilante Group (Bolivia),Civilians (Bolivia),,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,0
+BOL285,2019-09-04,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL287,2019-09-04,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,Oruro,Cercado,Oruro,-17.9698,-67.1148,1,National,0
+BOL283,2019-09-03,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL282,2019-09-03,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL281,2019-09-02,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL280,2019-09-02,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Oruro,Litoral de Atacama,Huachacalla,-18.7931,-68.2618,1,National,0
+BOL279,2019-08-30,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Santa Cruz,Chiquitos,Robore,-18.3347,-59.7614,1,National,0
+BOL277,2019-08-29,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL278,2019-08-29,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Potosi,Antonio Quijarro,Uyuni,-20.4628,-66.8239,1,National,0
+BOL276,2019-08-28,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL274,2019-08-27,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL275,2019-08-27,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL273,2019-08-26,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL272,2019-08-26,1,Protests,Protest with intervention,Protesters (Bolivia),Labor Group (Bolivia),Police Forces of Bolivia (2006-2019),,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL267,2019-08-25,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL271,2019-08-25,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Tarija,Cercado,Tarija,-21.5355,-64.7296,1,National,0
+BOL270,2019-08-25,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,National,0
+BOL269,2019-08-25,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL266,2019-08-25,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL265,2019-08-24,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Santa Cruz,Chiquitos,Robore,-18.3347,-59.7614,1,National,0
+BOL264,2019-08-23,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL260,2019-08-20,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Tarija,Cercado,Tarija,-21.5355,-64.7296,1,National,0
+BOL254,2019-08-19,1,Riots,Mob violence,Rioters (Bolivia),Vigilante Group (Bolivia),Civilians (Bolivia),,Bolivia,La Paz,Caranavi,Caranavi,-15.834,-67.5654,1,National,0
+BOL257,2019-08-19,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Ingavi,Viacha,-16.6535,-68.3022,1,National,0
+BOL253,2019-08-15,1,Riots,Mob violence,Rioters (Bolivia),,Military Forces of Bolivia (2006-2019),,Bolivia,Oruro,Sabaya,Pisiga Bolivar,-19.2735,-68.6164,1,National,0
+BOL251,2019-08-13,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL247,2019-08-12,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL249,2019-08-12,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL248,2019-08-12,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Quillacollo,Colcapirhua,-17.3884,-66.2408,1,National,0
+BOL245,2019-08-09,1,Protests,Peaceful protest,Protesters (Bolivia),Women (Bolivia),,,Bolivia,Potosi,Tomas Frias,Potosi,-19.5836,-65.7531,1,National,0
+BOL238,2019-08-05,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL235,2019-08-02,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL234,2019-08-01,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Potosi,Tomas Frias,Potosi,-19.5836,-65.7531,1,National,0
+BOL233,2019-07-31,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Potosi,Tomas Frias,Potosi,-19.5836,-65.7531,1,National,0
+BOL232,2019-07-31,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL230,2019-07-30,1,Riots,Violent demonstration,Rioters (Bolivia),Students (Bolivia),Police Forces of Bolivia (2006-2019),,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,0
+BOL231,2019-07-30,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Potosi,Tomas Frias,Potosi,-19.5836,-65.7531,1,National,0
+BOL229,2019-07-25,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Quillacollo,Quillacollo,-17.3923,-66.2784,1,National,0
+BOL227,2019-07-24,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL228,2019-07-24,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL226,2019-07-24,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL225,2019-07-24,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL224,2019-07-23,1,Riots,Violent demonstration,Rioters (Bolivia),Prisoners (Bolivia); Women (Bolivia),,,Bolivia,Oruro,Cercado,Oruro,-17.9698,-67.1148,1,National,0
+BOL223,2019-07-23,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL220,2019-07-22,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL221,2019-07-22,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Quillacollo,Quillacollo,-17.3923,-66.2784,1,National,0
+BOL219,2019-07-19,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL216,2019-07-17,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL214,2019-07-15,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL210,2019-07-11,1,Protests,Protest with intervention,Protesters (Bolivia),,Police Forces of Bolivia (2006-2019),,Bolivia,Cochabamba,Quillacollo,Colcapirhua,-17.3884,-66.2408,1,National,0
+BOL209,2019-07-08,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Tarija,Cercado,Tarija,-21.5355,-64.7296,1,National,0
+BOL206,2019-07-03,1,Riots,Violent demonstration,Rioters (Bolivia),Prisoners (Bolivia),Rioters (Bolivia),Prisoners (Bolivia),Bolivia,Tarija,Cercado,Tarija,-21.5355,-64.7296,1,National,1
+BOL204,2019-07-02,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Oruro,Cercado,Oruro,-17.9698,-67.1148,1,National,0
+BOL205,2019-07-02,1,Protests,Protest with intervention,Protesters (Bolivia),Farmers (Bolivia),Police Forces of Bolivia (2006-2019),,Bolivia,La Paz,Nor Yungas,Unduavi,-16.3134,-67.908,1,National,0
+BOL203,2019-07-01,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Potosi,Tomas Frias,Potosi,-19.5836,-65.7531,1,National,0
+BOL202,2019-06-28,1,Protests,Protest with intervention,Protesters (Bolivia),Farmers (Bolivia),Police Forces of Bolivia (2006-2019),,Bolivia,La Paz,Larecaja,Guanay,-15.4976,-67.8833,1,National,0
+BOL199,2019-06-27,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia),,,Bolivia,La Paz,Larecaja,Guanay,-15.4976,-67.8833,1,National,0
+BOL200,2019-06-27,1,Protests,Peaceful protest,Protesters (Bolivia),Red Poncho Movement,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL201,2019-06-27,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia),,,Bolivia,La Paz,Sud Yungas,Mururata,-16.5188,-67.8174,1,National,0
+BOL198,2019-06-27,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL195,2019-06-26,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia),,,Bolivia,La Paz,Larecaja,Guanay,-15.4976,-67.8833,1,National,0
+BOL197,2019-06-26,1,Protests,Protest with intervention,Protesters (Bolivia),Farmers (Bolivia),Police Forces of Bolivia (2006-2019),,Bolivia,La Paz,Nor Yungas,Unduavi,-16.3134,-67.908,1,National,0
+BOL194,2019-06-24,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,National,0
+BOL191,2019-06-24,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL185,2019-06-18,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Manco Kapac,Copacabana,-16.1654,-69.0849,1,National,0
+BOL184,2019-06-18,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Santa Cruz,Cordillera,Camiri,-20.0968,-63.5217,1,National,0
+BOL187,2019-06-18,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL186,2019-06-18,1,Riots,Mob violence,Rioters (Bolivia),Farmers (Bolivia),Rioters (Bolivia),Farmers (Bolivia),Bolivia,La Paz,Nor Yungas,Coripata,-16.3132,-67.6036,1,National,0
+BOL181,2019-06-12,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL180,2019-06-12,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL177,2019-06-12,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL179,2019-06-12,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL178,2019-06-12,1,Protests,Protest with intervention,Protesters (Bolivia),Farmers (Bolivia); Labor Group (Bolivia),Police Forces of Bolivia (2006-2019),,Bolivia,Santa Cruz,Nuflo de Chavez,Cuatro Canadas,-17.2672,-62.5589,1,National,0
+BOL176,2019-06-11,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL175,2019-06-10,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Tarija,Gran Chaco,Yacuiba,-22.0139,-63.6778,1,National,0
+BOL172,2019-06-07,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia),,,Bolivia,Santa Cruz,Nuflo de Chavez,San Julian,-16.75,-62.65,1,National,0
+BOL171,2019-06-07,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia),,,Bolivia,Santa Cruz,Nuflo de Chavez,Cuatro Canadas,-17.2672,-62.5589,1,National,0
+BOL170,2019-06-06,1,Riots,Violent demonstration,Rioters (Bolivia),Farmers (Bolivia),Police Forces of Bolivia (2006-2019),,Bolivia,Santa Cruz,Obispo Santistevan,Montero,-17.342,-63.2557,1,National,0
+BOL169,2019-06-06,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL168,2019-06-04,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia),,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL167,2019-06-04,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL166,2019-05-31,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Santa Cruz,German Busch,Puerto Suarez,-18.9721,-57.8096,1,National,0
+BOL164,2019-05-30,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,0
+BOL163,2019-05-29,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Tarija,Cercado,Tarija,-21.5355,-64.7296,1,National,0
+BOL162,2019-05-29,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Santa Cruz,Obispo Santistevan,San Pedro,-16.8276,-63.4814,1,National,0
+BOL160,2019-05-29,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL158,2019-05-25,1,Riots,Mob violence,Rioters (Bolivia),Prisoners (Bolivia),Police Forces of Bolivia (2006-2019) Prison Guards,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL159,2019-05-25,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL156,2019-05-24,1,Protests,Peaceful protest,Protesters (Bolivia),Students (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL157,2019-05-24,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia); Journalists (Bolivia),,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL151,2019-05-21,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL148,2019-05-16,1,Protests,Protest with intervention,Protesters (Bolivia),,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Bolivia,La Paz,Caranavi,Caranavi,-15.834,-67.5654,1,National,0
+BOL145,2019-05-10,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Tarija,Aniceto Arce,Padcaya,-21.8868,-64.7132,1,National,0
+BOL143,2019-05-09,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Tarija,Aniceto Arce,Padcaya,-21.8868,-64.7132,1,National,0
+BOL141,2019-05-08,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Oruro,Cercado,Oruro,-17.9698,-67.1148,1,National,0
+BOL140,2019-05-08,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL139,2019-05-07,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL138,2019-05-06,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL137,2019-05-05,1,Riots,Mob violence,Rioters (Bolivia),,Civilians (Bolivia),,Bolivia,La Paz,Murillo,Achocalla,-16.568,-68.171,1,National,1
+BOL136,2019-05-02,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia); Government of Bolivia (2006-2019),,,Bolivia,Tarija,Aniceto Arce,Padcaya,-21.8868,-64.7132,1,National,0
+BOL135,2019-05-02,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia); Government of Bolivia (2006-2019),,,Bolivia,Tarija,Burnet O'Connor,Entre Rios,-21.5266,-64.173,1,National,0
+BOL133,2019-05-02,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia); Government of Bolivia (2006-2019),,,Bolivia,Tarija,Aniceto Arce,Bermejo,-22.7321,-64.3372,1,National,0
+BOL134,2019-05-02,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL132,2019-05-01,1,Riots,Violent demonstration,Rioters (Bolivia),Labor Group (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Rioters (Bolivia),Labor Group (Bolivia),Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL130,2019-04-25,1,Riots,Mob violence,Rioters (Bolivia),,Police Forces of Bolivia (2006-2019),,Bolivia,Cochabamba,Quillacollo,Tiquipaya,-17.338,-66.2158,1,National,0
+BOL127,2019-04-24,1,Riots,Violent demonstration,Rioters (Bolivia),Farmers (Bolivia),Police Forces of Bolivia (2006-2019),,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL128,2019-04-24,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,Oruro,Cercado,Oruro,-17.9698,-67.1148,1,National,0
+BOL126,2019-04-24,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Oruro,Pantaleon Dalence,Huanuni,-18.289,-66.8358,1,National,0
+BOL124,2019-04-23,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Beni,Vaca Diez,Riberalta,-11.0065,-66.0631,1,National,0
+BOL125,2019-04-23,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia),,,Bolivia,Tarija,Cercado,Tarija,-21.5355,-64.7296,1,National,0
+BOL122,2019-04-21,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Beni,Vaca Diez,Riberalta,-11.0065,-66.0631,1,National,0
+BOL120,2019-04-17,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL118,2019-04-16,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL119,2019-04-16,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL115,2019-04-05,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Oruro,Cercado,Oruro,-17.9698,-67.1148,1,National,0
+BOL112,2019-04-03,1,Riots,Mob violence,Rioters (Bolivia),Labor Group (Bolivia),Rioters (Bolivia),Labor Group (Bolivia),Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,0
+BOL113,2019-04-03,1,Riots,Violent demonstration,Rioters (Bolivia),,Police Forces of Bolivia (2006-2019),,Bolivia,Cochabamba,Chapare,Tunari,-16.9742,-65.421,1,National,0
+BOL110,2019-04-02,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL108,2019-03-28,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Tarija,Cercado,Tarija,-21.5355,-64.7296,1,National,0
+BOL107,2019-03-27,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Tarija,Cercado,Tarija,-21.5355,-64.7296,1,National,0
+BOL105,2019-03-26,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Tarija,Cercado,Tarija,-21.5355,-64.7296,1,National,0
+BOL103,2019-03-26,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL102,2019-03-22,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Tarija,Cercado,Tarija,-21.5355,-64.7296,1,National,0
+BOL98,2019-03-19,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Oruro,Pantaleon Dalence,Huanuni,-18.289,-66.8358,1,National,0
+BOL99,2019-03-19,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL95,2019-03-18,1,Riots,Violent demonstration,Rioters (Bolivia),,Police Forces of Bolivia (2006-2019),,Bolivia,Cochabamba,Quillacollo,Sipe Sipe,-17.45,-66.3833,1,National,0
+BOL94,2019-03-18,1,Protests,Protest with intervention,Protesters (Bolivia),Indigenous Group (Bolivia),Police Forces of Bolivia (2006-2019),,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL93,2019-03-16,1,Riots,Violent demonstration,Rioters (Bolivia),Students (Bolivia),Police Forces of Bolivia (2006-2019),,Bolivia,Cochabamba,Quillacollo,Quillacollo,-17.3923,-66.2784,1,National,0
+BOL92,2019-03-15,1,Protests,Protest with intervention,Protesters (Bolivia),Students (Bolivia),Police Forces of Bolivia (2006-2019),,Bolivia,Cochabamba,Quillacollo,Quillacollo,-17.3923,-66.2784,1,National,0
+BOL89,2019-03-14,1,Protests,Peaceful protest,Protesters (Venezuela),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL91,2019-03-14,1,Protests,Protest with intervention,Protesters (Bolivia),Students (Bolivia),Police Forces of Bolivia (2006-2019),,Bolivia,Cochabamba,Quillacollo,Quillacollo,-17.3923,-66.2784,1,National,0
+BOL90,2019-03-14,1,Protests,Peaceful protest,Protesters (Bolivia),Students (Bolivia); Teachers (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL87,2019-03-12,1,Riots,Violent demonstration,Rioters (Bolivia),Labor Group (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL88,2019-03-12,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL86,2019-03-08,1,Protests,Peaceful protest,Protesters (Bolivia),Women (Bolivia),,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL85,2019-03-08,1,Protests,Peaceful protest,Protesters (Bolivia),Women (Bolivia),,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,2,National,0
+BOL84,2019-03-05,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Sud Yungas,La Asunta,-16.1264,-67.1957,1,National,0
+BOL82,2019-02-28,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL26,2019-01-25,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,0
+BOL3,2019-01-11,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Oruro,Pantaleon Dalence,Huanuni,-18.289,-66.8358,1,National,0
+BOL470,2019-11-06,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Rioters (Bolivia),Students (Bolivia),Bolivia,Oruro,Cercado,Oruro,-17.9698,-67.1148,1,Other-National,0
+BOL211,2019-07-11,1,Protests,Peaceful protest,Protesters (Bolivia),Women (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL532,2019-11-11,1,Riots,Mob violence,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Cochabamba,Carrasco,Bulo Bulo,-17.2541,-64.3634,2,National,0
+BOL503,2019-11-08,1,Riots,Mob violence,Rioters (Bolivia),,,,Bolivia,Oruro,Cercado,Oruro,-17.9698,-67.1148,1,National,0
+BOL596,2019-11-26,1,Riots,Violent demonstration,Rioters (Bolivia),Students (Bolivia),,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL3671,2019-11-11,1,Riots,Mob violence,Rioters (Bolivia),,Police Forces of Bolivia (2019-2020),,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,1
+BOL3672,2019-11-12,1,Riots,Mob violence,Rioters (Bolivia),,Civilians (Bolivia),Cochala Youth Resistance,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL3673,2019-11-13,1,Riots,Mob violence,Rioters (Bolivia),,Civilians (Bolivia),Cochala Youth Resistance,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,1
+BOL83,2019-02-28,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL3670,2019-11-11,1,Violence against civilians,Attack,Police Forces of Bolivia (2019-2020),,Civilians (Bolivia),,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,2
+BOL1,2019-01-03,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL10,2019-01-17,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL11,2019-01-18,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL12,2019-01-18,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,0
+BOL13,2019-01-18,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL14,2019-01-19,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,0
+BOL15,2019-01-23,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,0
+BOL17,2019-01-21,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,0
+BOL19,2019-01-22,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,0
+BOL2,2019-01-04,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL21,2019-01-23,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,0
+BOL23,2019-01-24,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,0
+BOL24,2019-01-24,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL25,2019-01-25,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL27,2019-01-25,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Chapare,Sacaba,-17.398,-66.0383,1,National,0
+BOL28,2019-01-25,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL29,2019-01-26,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,0
+BOL32,2019-01-27,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,0
+BOL37,2019-01-28,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,0
+BOL38,2019-01-28,1,Protests,Peaceful protest,Protesters (Bolivia),Students (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,National,0
+BOL39,2019-01-29,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,0
+BOL4,2019-01-14,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL40,2019-01-29,1,Riots,Mob violence,Rioters (Bolivia),,Military Forces of Bolivia (2006-2019),,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL41,2019-01-30,1,Protests,Protest with intervention,Protesters (Bolivia),Labor Group (Bolivia),Police Forces of Bolivia (2006-2019),,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL42,2019-01-31,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL43,2019-01-31,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL44,2019-02-01,1,Protests,Protest with intervention,Protesters (Bolivia),Labor Group (Bolivia),Police Forces of Bolivia (2006-2019),,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL46,2019-02-01,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Quillacollo,Quillacollo,-17.3923,-66.2784,1,National,0
+BOL47,2019-02-01,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL48,2019-02-05,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia); Teachers (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL5,2019-01-14,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Potosi,Charcas,Toro Toro,-18.1339,-65.7628,1,National,0
+BOL52,2019-02-08,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Oruro,Cercado,Oruro,-17.9698,-67.1148,1,National,0
+BOL58,2019-02-11,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL6,2019-01-15,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,La Paz,Aroma,Ayo Ayo,-17.0937,-68.0062,1,National,0
+BOL60,2019-02-12,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Santa Cruz,Chiquitos,San Jose de Chiquitos,-17.85,-60.75,1,National,0
+BOL62,2019-02-13,1,Riots,Violent demonstration,Rioters (Bolivia),Labor Group (Bolivia),Police Forces of Bolivia (2006-2019),,Bolivia,Santa Cruz,Warnes,Warnes,-17.5163,-63.1678,1,National,0
+BOL65,2019-02-14,1,Riots,Violent demonstration,Rioters (Bolivia),Labor Group (Bolivia),Police Forces of Bolivia (2006-2019),,Bolivia,Santa Cruz,Warnes,Warnes,-17.5163,-63.1678,1,National,0
+BOL66,2019-02-15,1,Riots,Violent demonstration,Rioters (Bolivia),Labor Group (Bolivia),Police Forces of Bolivia (2006-2019),,Bolivia,Santa Cruz,Warnes,Warnes,-17.5163,-63.1678,1,National,0
+BOL67,2019-02-16,1,Riots,Violent demonstration,Rioters (Bolivia),Labor Group (Bolivia),Police Forces of Bolivia (2006-2019),,Bolivia,Santa Cruz,Warnes,Warnes,-17.5163,-63.1678,1,National,0
+BOL7,2019-01-15,1,Protests,Protest with intervention,Protesters (Bolivia),,MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,0
+BOL70,2019-02-20,1,Protests,Peaceful protest,Protesters (Bolivia),Teachers (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Regional,0
+BOL8,2019-01-15,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Oruro,Cercado,Oruro,-17.9698,-67.1148,1,National,0
+BOL9,2019-01-17,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,0
+BOL536,2019-11-11,1,Riots,Violent demonstration,Rioters (Bolivia),,Police Forces of Bolivia (2019-2020),Civilians (Bolivia),Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL131,2019-04-30,1,Riots,Violent demonstration,Rioters (Bolivia),Government of Bolivia (2006-2019),Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples; Civilians (Bolivia); Journalists (Bolivia); Police Forces of Bolivia (2006-2019),Bolivia,Cochabamba,Quillacollo,Tiquipaya,-17.338,-66.2158,1,National,0
+BOL63,2019-02-14,1,Violence against civilians,Attack,Police Forces of Bolivia (2006-2019),,Civilians (Bolivia),Farmers (Bolivia),Bolivia,La Paz,Sud Yungas,La Asunta,-16.1264,-67.1957,1,National,0
+BOL618,2019-12-24,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL613,2019-12-18,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL609,2019-12-11,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Potosi,Tomas Frias,Potosi,-19.5836,-65.7531,1,National,0
+BOL606,2019-12-10,1,Riots,Mob violence,Rioters (Bolivia),Vigilante Group (Bolivia),Civilians (Bolivia),,Bolivia,Cochabamba,Carrasco,Puerto Villarroel,-16.8367,-64.7932,1,National,1
+BOL607,2019-12-10,1,Protests,Peaceful protest,Protesters (Bolivia),Women (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL600,2019-12-03,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL599,2019-12-03,1,Protests,Peaceful protest,Protesters (Bolivia),Journalists (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL595,2019-11-25,1,Protests,Peaceful protest,Protesters (Bolivia),Christian Group (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL587,2019-11-24,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL574,2019-11-19,1,Protests,Peaceful protest,Protesters (Bolivia),Former Police Forces of Bolivia (2019-2020),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL571,2019-11-19,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Potosi,Cornelio Saavedra,Betanzos,-19.5533,-65.4537,1,National,0
+BOL573,2019-11-19,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Police Forces of Bolivia (2019-2020),Civilians (Bolivia); Government of Bolivia (2019-2020),Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,8
+BOL565,2019-11-18,1,Riots,Violent demonstration,Rioters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Police Forces of Bolivia (2019-2020),,Bolivia,Potosi,Cornelio Saavedra,Betanzos,-19.5533,-65.4537,1,National,1
+BOL564,2019-11-17,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Jaime Zudanez,Villa Zudanez,-19.1169,-64.7013,1,Subnational,0
+BOL559,2019-11-16,1,Riots,Violent demonstration,Rioters (Bolivia),Farmers (Bolivia); Labor Group (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Chuquisaca,Yamparaez,Tarabuco,-19.1817,-64.9152,1,Subnational,0
+BOL539,2019-11-12,1,Strategic developments,Other,Government of Bolivia (2019-2020),MDS: Social Democratic Movement,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL3717,2019-11-12,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Police Forces of Bolivia (2019-2020),,Bolivia,Cochabamba,Chapare,Sacaba,-17.398,-66.0383,1,National,1
+BOL3719,2019-11-12,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Police Forces of Bolivia (2019-2020),Military Forces of Bolivia (2019-2020),Bolivia,Potosi,Cornelio Saavedra,Betanzos,-19.5533,-65.4537,1,National,1
+BOL533,2019-11-11,1,Protests,Protest with intervention,Protesters (Bolivia),,Rioters (Bolivia),,Bolivia,Oruro,Cercado,Caracollo,-17.6363,-67.2164,1,National,0
+BOL495,2019-11-08,1,Protests,Peaceful protest,Protesters (Bolivia),Police Forces of Bolivia (2006-2019),,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL499,2019-11-08,1,Riots,Violent demonstration,Rioters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Rioters (Bolivia),Students (Bolivia),Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL511,2019-11-08,1,Riots,Mob violence,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Police Forces of Bolivia (2006-2019),,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL510,2019-11-08,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL484,2019-11-07,1,Riots,Violent demonstration,Rioters (Bolivia),Farmers (Bolivia); Labor Group (Bolivia); Students (Bolivia),Rioters (Bolivia),Labor Group (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL482,2019-11-07,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Nor Cinti,Camargo,-20.6405,-65.2075,1,Subnational,0
+BOL485,2019-11-07,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Luis Calvo,Machareti,-20.8149,-63.3628,1,Subnational,0
+BOL486,2019-11-07,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia); Students (Bolivia),,,Bolivia,Chuquisaca,Hernando Siles,Monteagudo,-19.8017,-63.956,1,Subnational,0
+BOL492,2019-11-07,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Tarija,Gran Chaco,Villamontes,-21.2624,-63.469,1,National,0
+BOL481,2019-11-07,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Santa Cruz,Cordillera,Boyuibe,-20.432,-63.2817,1,National,0
+BOL472,2019-11-06,1,Riots,Violent demonstration,Rioters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Rioters (Bolivia),Police Forces of Bolivia (2006-2019),Bolivia,Cochabamba,Quillacollo,Quillacollo,-17.3923,-66.2784,2,National,1
+BOL440,2019-11-03,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia); Students (Bolivia); Teachers (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL412,2019-10-31,1,Riots,Violent demonstration,Rioters (Bolivia),Journalists (Bolivia),Police Forces of Bolivia (2006-2019),,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL390,2019-10-30,1,Riots,Mob violence,Rioters (Bolivia),Labor Group (Bolivia),Civilians (Bolivia),CSTPB: Nationl Union of Press Workers; Journalists (Bolivia); Labor Group (Bolivia),Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL399,2019-10-30,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Cochabamba,Quillacollo,Quillacollo,-17.3923,-66.2784,1,National,0
+BOL336,2019-10-20,1,Protests,Protest with intervention,Protesters (Bolivia),,Police Forces of Bolivia (2006-2019),,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL326,2019-10-08,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia); Labor Group (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL325,2019-10-07,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL317,2019-09-30,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL308,2019-09-23,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL307,2019-09-23,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL305,2019-09-18,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL303,2019-09-16,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL299,2019-09-12,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia); Labor Group (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL297,2019-09-12,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL288,2019-09-04,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL268,2019-08-25,1,Riots,Violent demonstration,Rioters (Bolivia),Labor Group (Bolivia),Rioters (Bolivia),,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL259,2019-08-20,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL258,2019-08-20,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL255,2019-08-19,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL256,2019-08-19,1,Protests,Peaceful protest,Protesters (Bolivia),Women (Bolivia),,,Bolivia,Tarija,Cercado,Tarija,-21.5355,-64.7296,1,National,0
+BOL252,2019-08-13,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL250,2019-08-12,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL246,2019-08-09,1,Protests,Peaceful protest,Protesters (Bolivia),Teachers (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL244,2019-08-08,1,Protests,Peaceful protest,Protesters (Bolivia),Teachers (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL239,2019-08-05,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL237,2019-08-04,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL236,2019-08-03,1,Riots,Mob violence,Rioters (Bolivia),,Military Forces of Bolivia (2006-2019),,Bolivia,Oruro,Sabaya,Pisiga Bolivar,-19.2735,-68.6164,1,National,0
+BOL222,2019-07-22,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL215,2019-07-16,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL213,2019-07-12,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL212,2019-07-12,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL208,2019-07-08,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL196,2019-06-26,1,Protests,Peaceful protest,Protesters (Bolivia),Teachers (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL192,2019-06-24,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL193,2019-06-24,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL188,2019-06-18,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia); Students (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL189,2019-06-18,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Tarija,Cercado,Tarija,-21.5355,-64.7296,1,National,0
+BOL183,2019-06-17,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Potosi,Chayanta,Ocuri,-18.8418,-65.7964,1,National,0
+BOL182,2019-06-13,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Potosi,Chayanta,Ocuri,-18.8418,-65.7964,1,National,0
+BOL165,2019-05-30,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia),,,Bolivia,Santa Cruz,Obispo Santistevan,Montero,-17.342,-63.2557,1,National,0
+BOL161,2019-05-29,1,Riots,Violent demonstration,Rioters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Police Forces of Bolivia (2006-2019),Civilians (Bolivia); Journalists (Bolivia),Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL155,2019-05-23,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL152,2019-05-21,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Hernando Siles,Monteagudo,-19.8017,-63.956,1,Subnational,0
+BOL150,2019-05-17,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL146,2019-05-10,1,Riots,Violent demonstration,Rioters (Bolivia),Students (Bolivia),Rioters (Bolivia),Students (Bolivia),Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL147,2019-05-10,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL144,2019-05-09,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL142,2019-05-09,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL129,2019-04-25,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Potosi,Chayanta,Ocuri,-18.8418,-65.7964,1,National,0
+BOL121,2019-04-17,1,Protests,Peaceful protest,Protesters (Bolivia),Teachers (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL117,2019-04-15,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL116,2019-04-09,1,Protests,Peaceful protest,Protesters (Bolivia),Teachers (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL111,2019-04-02,1,Protests,Peaceful protest,Protesters (Bolivia),Students (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL109,2019-04-01,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL106,2019-03-28,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL104,2019-03-26,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL101,2019-03-22,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Yamparaez,Tarabuco,-19.1817,-64.9152,1,Subnational,0
+BOL97,2019-03-18,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL96,2019-03-18,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL68,2019-02-19,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL69,2019-02-19,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL64,2019-02-14,1,Protests,Peaceful protest,Protesters (Bolivia),Teachers (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL61,2019-02-12,1,Protests,Peaceful protest,Protesters (Bolivia),21F Movement,Protesters (Bolivia),,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL59,2019-02-11,1,Riots,Violent demonstration,Rioters (Bolivia),Students (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL57,2019-02-10,1,Riots,Violent demonstration,Rioters (Bolivia),Students (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL56,2019-02-09,1,Riots,Violent demonstration,Rioters (Bolivia),Students (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL53,2019-02-08,1,Protests,Peaceful protest,Protesters (Bolivia),Indigenous Group (Bolivia),,,Bolivia,Potosi,Tomas Frias,Potosi,-19.5836,-65.7531,1,National,0
+BOL54,2019-02-08,1,Riots,Violent demonstration,Rioters (Bolivia),Students (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL51,2019-02-07,1,Riots,Violent demonstration,Rioters (Bolivia),Students (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL50,2019-02-06,1,Protests,Peaceful protest,Protesters (Bolivia),Indigenous Group (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL49,2019-02-05,1,Riots,Violent demonstration,Rioters (Bolivia),Students (Bolivia),Civilians (Bolivia),Teachers (Bolivia),Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL22,2019-01-23,1,Protests,Peaceful protest,Protesters (Bolivia),Students (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL292,2019-09-08,1,Riots,Violent demonstration,Rioters (Bolivia),,,,Bolivia,Potosi,Chayanta,Pocoata,-18.6989,-66.1627,1,National,0
+BOL479,2019-11-06,1,Riots,Violent demonstration,Rioters (Bolivia),,Rioters (Bolivia),Government of Bolivia (2006-2019); Women (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Bolivia,Cochabamba,Quillacollo,Vinto,-17.3898,-66.3172,1,National,0
+BOL315,2019-09-28,1,Violence against civilians,Attack,Unidentified Armed Group (Bolivia),,Civilians (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Bolivia,Santa Cruz,Angel Sandoval,San Matias,-16.3618,-58.4071,1,National,1
+BOL531,2019-11-10,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Police Forces of Bolivia (2006-2019),Civilians (Bolivia),Bolivia,Santa Cruz,Ichilo,Villa Yapacani,-17.4019,-63.8828,2,National,0
+BOL561,2019-11-16,1,Protests,Peaceful protest,Protesters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Santa Cruz,Ichilo,Villa Yapacani,-17.4019,-63.8828,1,National,0
+BOL100,2019-03-21,1,Protests,Peaceful protest,Protesters (Bolivia),Government of Bolivia (2006-2019),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL1032,2019-11-22,1,Protests,Protest with intervention,Protesters (Bolivia),Farmers (Bolivia),Police Forces of Bolivia (2019-2020),,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,Other,0
+BOL123,2019-04-23,1,Riots,Mob violence,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Civilians (Bolivia),Government of Bolivia (2006-2019); Women (Bolivia),Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL149,2019-05-17,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL153,2019-05-22,1,Protests,Peaceful protest,Protesters (Bolivia),21F Movement,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL154,2019-05-22,1,Protests,Peaceful protest,Protesters (Bolivia),21F Movement,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL16,2019-01-21,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL173,2019-06-10,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL174,2019-06-10,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,Subnational,0
+BOL18,2019-01-21,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,National,0
+BOL190,2019-06-20,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL20,2019-01-22,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL207,2019-07-08,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL217,2019-07-17,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL218,2019-07-17,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Tarija,Cercado,Tarija,-21.5355,-64.7296,1,National,0
+BOL240,2019-08-06,1,Protests,Peaceful protest,Protesters (Bolivia),21F Movement,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL241,2019-08-06,1,Protests,Peaceful protest,Protesters (Bolivia),21F Movement,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,National,0
+BOL242,2019-08-07,1,Protests,Peaceful protest,Protesters (Bolivia),21F Movement,,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL243,2019-08-07,1,Protests,Peaceful protest,Protesters (Bolivia),21F Movement,,,Bolivia,Beni,Cercado,Trinidad,-14.8333,-64.9,1,National,0
+BOL261,2019-08-21,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL262,2019-08-21,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL263,2019-08-21,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Tarija,Cercado,Tarija,-21.5355,-64.7296,1,National,0
+BOL290,2019-09-05,1,Riots,Mob violence,Rioters (Bolivia),,Rioters (Bolivia),,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL294,2019-09-11,1,Riots,Violent demonstration,Rioters (Bolivia),,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples; Police Forces of Bolivia (2006-2019),Bolivia,La Paz,Sud Yungas,Chulumani,-16.4086,-67.5294,1,National,0
+BOL298,2019-09-12,1,Riots,Violent demonstration,Rioters (Bolivia),21F Movement,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples; Police Forces of Bolivia (2006-2019),Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL30,2019-01-27,1,Protests,Peaceful protest,Protesters (Venezuela),Refugees/IDPs (Venezuela),,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL31,2019-01-27,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL322,2019-10-04,1,Protests,Peaceful protest,Protesters (Bolivia),21F Movement; Health Workers (Bolivia),,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL327,2019-10-10,1,Protests,Peaceful protest,Protesters (Bolivia),Government of Bolivia (2006-2019),,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL329,2019-10-10,1,Protests,Peaceful protest,Protesters (Bolivia),Government of Bolivia (2006-2019),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL33,2019-01-27,1,Protests,Peaceful protest,Protesters (Venezuela),Refugees/IDPs (Venezuela),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL330,2019-10-11,1,Protests,Peaceful protest,Protesters (Bolivia),21F Movement,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL331,2019-10-12,1,Riots,Violent demonstration,Rioters (Bolivia),Students (Bolivia),Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples; Police Forces of Bolivia (2006-2019),Bolivia,Potosi,Tomas Frias,Potosi,-19.5836,-65.7531,1,Subnational,0
+BOL332,2019-10-15,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Potosi,Tomas Frias,Potosi,-19.5836,-65.7531,1,Subnational,0
+BOL337,2019-10-21,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Pando,Nicolas Suarez,Cobija,-11.0267,-68.7692,1,National,0
+BOL338,2019-10-21,1,Riots,Violent demonstration,Rioters (Bolivia),,Police Forces of Bolivia (2006-2019),,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,Subnational,0
+BOL34,2019-01-27,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL340,2019-10-21,1,Riots,Violent demonstration,Rioters (Bolivia),,Police Forces of Bolivia (2006-2019),,Bolivia,Oruro,Cercado,Oruro,-17.9698,-67.1148,1,National,0
+BOL341,2019-10-21,1,Protests,Protest with intervention,Protesters (Bolivia),,Police Forces of Bolivia (2006-2019),,Bolivia,Potosi,Tomas Frias,Potosi,-19.5836,-65.7531,1,Subnational,0
+BOL342,2019-10-21,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,Subnational,0
+BOL343,2019-10-21,1,Riots,Violent demonstration,Rioters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL344,2019-10-21,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Tarija,Cercado,Tarija,-21.5355,-64.7296,1,National,0
+BOL345,2019-10-21,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Beni,Cercado,Trinidad,-14.8333,-64.9,1,National,0
+BOL346,2019-10-22,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL347,2019-10-22,1,Riots,Violent demonstration,Rioters (Bolivia),Students (Bolivia),Police Forces of Bolivia (2006-2019),,Bolivia,Potosi,Tomas Frias,Potosi,-19.5836,-65.7531,1,National,0
+BOL348,2019-10-22,1,Protests,Peaceful protest,Protesters (Bolivia),,Protesters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL349,2019-10-22,1,Riots,Violent demonstration,Rioters (Bolivia),,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,National,0
+BOL35,2019-01-27,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL351,2019-10-23,1,Protests,Peaceful protest,Protesters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL352,2019-10-24,1,Riots,Violent demonstration,Rioters (Bolivia),,Rioters (Bolivia),,Bolivia,Santa Cruz,Andres Ibanez,El Torno,-17.9918,-63.3826,1,National,0
+BOL353,2019-10-24,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL354,2019-10-25,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,National,0
+BOL355,2019-10-26,1,Riots,Violent demonstration,Rioters (Bolivia),,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL356,2019-10-26,1,Riots,Violent demonstration,Rioters (Bolivia),,,,Bolivia,Tarija,Burnet O'Connor,Entre Rios,-21.5266,-64.173,1,National,0
+BOL357,2019-10-26,1,Riots,Violent demonstration,Rioters (Bolivia),,,,Bolivia,Beni,Vaca Diez,Guayaramerin,-10.8258,-65.3581,1,National,0
+BOL358,2019-10-26,1,Riots,Violent demonstration,Rioters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,2,National,0
+BOL359,2019-10-26,1,Riots,Violent demonstration,Rioters (Bolivia),,,,Bolivia,Beni,Vaca Diez,Riberalta,-11.0065,-66.0631,1,National,0
+BOL36,2019-01-27,1,Protests,Peaceful protest,Protesters (Venezuela),Refugees/IDPs (Venezuela),,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL360,2019-10-26,1,Riots,Violent demonstration,Rioters (Bolivia),,,,Bolivia,Beni,Moxos,San Ignacio,-14.9924,-65.6396,1,National,0
+BOL361,2019-10-26,1,Riots,Violent demonstration,Rioters (Bolivia),,,,Bolivia,Beni,Yacuma,Santa Ana,-13.7403,-65.4222,1,National,0
+BOL362,2019-10-26,1,Riots,Violent demonstration,Rioters (Bolivia),,,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,2,National,0
+BOL363,2019-10-26,1,Riots,Violent demonstration,Rioters (Bolivia),,,,Bolivia,Beni,Cercado,Trinidad,-14.8333,-64.9,1,National,0
+BOL364,2019-10-27,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Potosi,Cornelio Saavedra,Betanzos,-19.5533,-65.4537,1,Subnational,0
+BOL365,2019-10-27,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Potosi,Tomas Frias,Karachipampa,-19.5493,-65.7278,1,Subnational,0
+BOL366,2019-10-27,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Potosi,Cornelio Saavedra,Millares,-19.4199,-65.1828,1,Subnational,0
+BOL367,2019-10-27,1,Riots,Violent demonstration,Rioters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Potosi,Tomas Frias,Potosi,-19.5836,-65.7531,2,Subnational,0
+BOL368,2019-10-27,1,Riots,Violent demonstration,Rioters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL369,2019-10-27,1,Riots,Violent demonstration,Rioters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Santa Cruz,Ichilo,Villa Yapacani,-17.4019,-63.8828,2,Subnational,0
+BOL370,2019-10-28,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Rioters (Bolivia),,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,Subnational,0
+BOL371,2019-10-28,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Rioters (Bolivia),,Bolivia,Santa Cruz,Andres Ibanez,Cotoca,-17.7545,-62.9962,1,Subnational,0
+BOL3718,2019-11-12,1,Riots,Violent demonstration,Rioters (Bolivia),,Police Forces of Bolivia (2019-2020),,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,1
+BOL372,2019-10-28,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Rioters (Bolivia),,Bolivia,Santa Cruz,Andres Ibanez,La Guardia,-17.8936,-63.3251,1,Subnational,0
+BOL3720,2019-11-13,1,Riots,Violent demonstration,Rioters (Bolivia),,Police Forces of Bolivia (2019-2020),Military Forces of Bolivia (2019-2020),Bolivia,Santa Cruz,Obispo Santistevan,Montero,-17.342,-63.2557,1,National,1
+BOL373,2019-10-28,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Rioters (Bolivia),Labor Group (Bolivia),Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,Subnational,0
+BOL374,2019-10-28,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Oruro,Cercado,Oruro,-17.9698,-67.1148,1,National,0
+BOL375,2019-10-28,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Potosi,Tomas Frias,Potosi,-19.5836,-65.7531,1,Subnational,0
+BOL376,2019-10-28,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Santa Cruz,Florida,Samaipata,-18.1796,-63.8758,1,Subnational,0
+BOL377,2019-10-28,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Rioters (Bolivia),,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,Subnational-National,0
+BOL378,2019-10-28,1,Riots,Violent demonstration,Rioters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL379,2019-10-28,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Beni,Cercado,Trinidad,-14.8333,-64.9,1,National,0
+BOL380,2019-10-29,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia),,,Bolivia,Chuquisaca,Nor Cinti,Camargo,-20.6405,-65.2075,2,Subnational,0
+BOL381,2019-10-29,1,Protests,Peaceful protest,Protesters (Bolivia),Conade: National Committee in Defense of Democracy,,,Bolivia,Chuquisaca,Nor Cinti,Camargo,-20.6405,-65.2075,1,Subnational,0
+BOL382,2019-10-29,1,Riots,Violent demonstration,Rioters (Bolivia),Labor Group (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Rioters (Bolivia),,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,Subnational-National,0
+BOL383,2019-10-29,1,Protests,Peaceful protest,Protesters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,Subnational,0
+BOL384,2019-10-29,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,Subnational,0
+BOL385,2019-10-29,1,Riots,Violent demonstration,Rioters (Bolivia),Labor Group (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Civilians (Bolivia),Teachers (Bolivia),Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,Subnational,0
+BOL386,2019-10-29,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Rioters (Bolivia),,Bolivia,Santa Cruz,Florida,Mairana,-18.1193,-63.9565,1,Subnational,0
+BOL387,2019-10-29,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia),,,Bolivia,Chuquisaca,Nor Cinti,Padcoyo,-20.2359,-65.1528,1,Subnational,0
+BOL388,2019-10-29,1,Riots,Violent demonstration,Rioters (Bolivia),Labor Group (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Rioters (Bolivia),,Bolivia,Cochabamba,Quillacollo,Quillacollo,-17.3923,-66.2784,1,Subnational-National,0
+BOL389,2019-10-29,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia); Government of Bolivia (2006-2019); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL391,2019-10-30,1,Riots,Violent demonstration,Rioters (Bolivia),,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,Subnational,0
+BOL392,2019-10-30,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia); Labor Group (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,Subnational,0
+BOL393,2019-10-30,1,Protests,Protest with intervention,Protesters (Bolivia),Journalists (Bolivia),Police Forces of Bolivia (2006-2019),,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,Subnational,0
+BOL394,2019-10-30,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,Subnational-National,0
+BOL395,2019-10-30,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Police Forces of Bolivia (2006-2019),Civilians (Bolivia),Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,Subnational,0
+BOL396,2019-10-30,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Rioters (Bolivia),,Bolivia,Santa Cruz,Obispo Santistevan,Montero,-17.342,-63.2557,2,Subnational,0
+BOL397,2019-10-30,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Rioters (Bolivia),UJC: Santa Cruz Youth Union,Bolivia,Santa Cruz,Obispo Santistevan,Montero,-17.342,-63.2557,1,Subnational-National,2
+BOL398,2019-10-30,1,Protests,Peaceful protest,Protesters (Bolivia),Students (Bolivia); Teachers (Bolivia),,,Bolivia,Chuquisaca,Tomina,Padilla,-19.3088,-64.3027,1,Subnational,0
+BOL400,2019-10-30,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL401,2019-10-30,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Tarija,Cercado,Tarija,-21.5355,-64.7296,1,National,0
+BOL402,2019-10-30,1,Protests,Peaceful protest,Protesters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Santa Cruz,Ichilo,Villa Yapacani,-17.4019,-63.8828,1,Subnational,0
+BOL403,2019-10-30,1,Riots,Violent demonstration,Rioters (Bolivia),Labor Group (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Cochabamba,Quillacollo,Vinto,-17.3898,-66.3172,1,Subnational,0
+BOL404,2019-10-31,1,Protests,Peaceful protest,Protesters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Potosi,Cornelio Saavedra,Betanzos,-19.5533,-65.4537,2,Subnational,0
+BOL405,2019-10-31,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Potosi,Cornelio Saavedra,Betanzos,-19.5533,-65.4537,1,Subnational,0
+BOL406,2019-10-31,1,Riots,Violent demonstration,Rioters (Bolivia),,,,Bolivia,Cochabamba,Carrasco,Bulo Bulo,-17.2541,-64.3634,1,National,0
+BOL407,2019-10-31,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Potosi,Cornelio Saavedra,Chaqui,-19.5882,-65.5615,1,Subnational,0
+BOL408,2019-10-31,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Potosi,Cornelio Saavedra,Chaqui,-19.5882,-65.5615,2,Subnational,0
+BOL409,2019-10-31,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,2,National,0
+BOL410,2019-10-31,1,Riots,Violent demonstration,Rioters (Bolivia),,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL411,2019-10-31,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Carrasco,Ivirgarzama,-17.0337,-64.8575,1,National,0
+BOL413,2019-10-31,1,Protests,Peaceful protest,Protesters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples; Farmers (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL414,2019-10-31,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL415,2019-10-31,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Potosi,Cornelio Saavedra,Millares,-19.4199,-65.1828,2,Subnational,0
+BOL416,2019-10-31,1,Protests,Peaceful protest,Protesters (Bolivia),Students (Bolivia); Labor Group (Bolivia); Teachers (Bolivia); Health Workers (Bolivia),,,Bolivia,Oruro,Cercado,Oruro,-17.9698,-67.1148,1,National,0
+BOL417,2019-10-31,1,Protests,Peaceful protest,Protesters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Potosi,Cornelio Saavedra,Otuyo,-19.4863,-65.2301,1,Subnational,0
+BOL418,2019-10-31,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Potosi,Jose Maria Linares,Puna,-19.7947,-65.5061,1,Subnational,0
+BOL419,2019-10-31,1,Protests,Peaceful protest,Protesters (Bolivia),Government of Bolivia (2006-2019); Women (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL420,2019-10-31,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Tarija,Cercado,Tarija,-21.5355,-64.7296,1,National,0
+BOL421,2019-10-31,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Potosi,Cornelio Saavedra,Vina Pampa,-19.3614,-65.187,1,Subnational,0
+BOL422,2019-10-31,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Quillacollo,Vinto,-17.3898,-66.3172,1,National,0
+BOL423,2019-11-01,1,Riots,Violent demonstration,Rioters (Bolivia),Women (Bolivia),Rioters (Bolivia),,Bolivia,La Paz,Pacajes,Calacoto,-17.2823,-68.6355,1,National,0
+BOL424,2019-11-01,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL425,2019-11-01,1,Riots,Violent demonstration,Rioters (Bolivia),,Rioters (Bolivia),,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL426,2019-11-01,1,Protests,Protest with intervention,Protesters (Bolivia),Health Workers (Bolivia),Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL427,2019-11-01,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL428,2019-11-01,1,Protests,Peaceful protest,Protesters (Bolivia),Students (Bolivia),,,Bolivia,Oruro,Cercado,Oruro,-17.9698,-67.1148,1,National,0
+BOL429,2019-11-01,1,Protests,Peaceful protest,Protesters (Bolivia),Indigenous Group (Bolivia),,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL430,2019-11-01,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,National,0
+BOL431,2019-11-01,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia); Labor Group (Bolivia); Students (Bolivia); Teachers (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL432,2019-11-01,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Beni,Cercado,Trinidad,-14.8333,-64.9,1,National,0
+BOL435,2019-11-02,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL438,2019-11-03,1,Protests,Protest with intervention,Protesters (Bolivia),,Police Forces of Bolivia (2006-2019),,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,2,National,0
+BOL439,2019-11-03,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL442,2019-11-04,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL45,2019-02-01,1,Protests,Peaceful protest,Protesters (Bolivia),Health Workers (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL450,2019-11-04,2,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL451,2019-11-04,2,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,National,0
+BOL454,2019-11-04,2,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Tarija,Cercado,Tarija,-21.5355,-64.7296,1,National,0
+BOL456,2019-11-05,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL458,2019-11-05,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia); COB: Bolivian Workers' Center,,,Bolivia,La Paz,Murillo,El Alto,-16.4955,-68.1934,1,National,0
+BOL460,2019-11-05,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples; Farmers (Bolivia); Labor Group (Bolivia); Police Forces of Bolivia (2006-2019),Rioters (Bolivia),Students (Bolivia); Health Workers (Bolivia),Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL461,2019-11-05,2,Protests,Peaceful protest,Protesters (Bolivia),Teachers (Bolivia); Health Workers (Bolivia); Lawyers (Bolivia); Students (Bolivia),,,Bolivia,Oruro,Cercado,Oruro,-17.9698,-67.1148,1,National,0
+BOL464,2019-11-06,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples; Labor Group (Bolivia); Farmers (Bolivia); Women (Bolivia); Indigenous Group (Bolivia),Rioters (Bolivia),Journalists (Bolivia); Civilians (Bolivia); Labor Group (Bolivia),Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL465,2019-11-06,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL466,2019-11-06,1,Riots,Violent demonstration,Rioters (Bolivia),Labor Group (Bolivia),,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL476,2019-11-06,2,Violence against civilians,Attack,Unidentified Armed Group (Bolivia),Labor Group (Bolivia),Civilians (Bolivia),Government of Bolivia (2006-2019),Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,National,0
+BOL487,2019-11-07,1,Protests,Peaceful protest,Protesters (Bolivia),Students (Bolivia); Labor Group (Bolivia); Teachers (Bolivia),,,Bolivia,Oruro,Cercado,Oruro,-17.9698,-67.1148,1,National,0
+BOL488,2019-11-07,1,Protests,Peaceful protest,Protesters (Bolivia),Teachers (Bolivia),,,Bolivia,Chuquisaca,Tomina,Padilla,-19.3088,-64.3027,1,Subnational,0
+BOL490,2019-11-07,1,Protests,Peaceful protest,Protesters (Bolivia),Students (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL491,2019-11-07,1,Protests,Peaceful protest,Protesters (Bolivia),Students (Bolivia),,,Bolivia,Tarija,Cercado,Tarija,-21.5355,-64.7296,1,National,0
+BOL493,2019-11-07,1,Riots,Violent demonstration,Rioters (Bolivia),Labor Group (Bolivia),,,Bolivia,Chuquisaca,Yamparaez,Yamparaez,-19.1892,-65.1216,1,Subnational,0
+BOL500,2019-11-08,1,Protests,Peaceful protest,Protesters (Bolivia),Students (Bolivia); Labor Group (Bolivia); Health Workers (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National-International,0
+BOL512,2019-11-08,1,Protests,Peaceful protest,Protesters (Bolivia),Police Forces of Bolivia (2006-2019),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL513,2019-11-08,1,Protests,Peaceful protest,Protesters (Bolivia),Police Forces of Bolivia (2006-2019),,,Bolivia,Tarija,Cercado,Tarija,-21.5355,-64.7296,1,National,0
+BOL516,2019-11-09,1,Protests,Peaceful protest,Protesters (Bolivia),Police Forces of Bolivia (2006-2019); Labor Group (Bolivia),,,Bolivia,Pando,Nicolas Suarez,Cobija,-11.0267,-68.7692,1,National,0
+BOL518,2019-11-09,1,Riots,Violent demonstration,Rioters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL519,2019-11-09,1,Riots,Mob violence,Rioters (Bolivia),,,,Bolivia,Oruro,Cercado,Oruro,-17.9698,-67.1148,1,National,0
+BOL521,2019-11-09,1,Protests,Peaceful protest,Protesters (Bolivia),Police Forces of Bolivia (2006-2019),,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL528,2019-11-10,1,Riots,Violent demonstration,Rioters (Bolivia),,Civilians (Bolivia),Government of Venezuela (1999-); Journalists (Bolivia); Teachers (Bolivia),Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,Other-National,0
+BOL529,2019-11-10,1,Protests,Peaceful protest,Protesters (Bolivia),Students (Bolivia); Teachers (Bolivia),,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,Subnational,0
+BOL530,2019-11-10,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL538,2019-11-12,1,Riots,Violent demonstration,Rioters (Bolivia),,Civilians (Bolivia),,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,1
+BOL540,2019-11-12,1,Riots,Violent demonstration,Rioters (Bolivia),,,,Bolivia,Cochabamba,Quillacollo,Quillacollo,-17.3923,-66.2784,1,National,0
+BOL541,2019-11-12,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL542,2019-11-12,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia),,,Bolivia,Chuquisaca,Yamparaez,Tarabuco,-19.1817,-64.9152,1,Subnational,0
+BOL543,2019-11-12,1,Riots,Violent demonstration,Rioters (Bolivia),,Police Forces of Bolivia (2019-2020),Military Forces of Bolivia (2019-2020),Bolivia,Santa Cruz,Ichilo,Villa Yapacani,-17.4019,-63.8828,1,Subnational-National,0
+BOL544,2019-11-12,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia),,,Bolivia,Chuquisaca,Yamparaez,Yamparaez,-19.1892,-65.1216,1,Subnational,0
+BOL545,2019-11-13,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL546,2019-11-13,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL547,2019-11-14,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL548,2019-11-14,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL549,2019-11-15,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,2,Subnational,0
+BOL55,2019-02-08,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,National,0
+BOL550,2019-11-15,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL551,2019-11-15,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Potosi,Chayanta,Ravelo,-18.8062,-65.5108,1,Subnational,0
+BOL552,2019-11-15,1,Riots,Violent demonstration,Rioters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Police Forces of Bolivia (2019-2020),Military Forces of Bolivia (2019-2020),Bolivia,Cochabamba,Chapare,Sacaba,-17.398,-66.0383,1,Subnational-National,9
+BOL553,2019-11-15,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,2,Subnational,0
+BOL554,2019-11-15,1,Protests,Peaceful protest,Protesters (Bolivia),Labor Group (Bolivia),,,Bolivia,Chuquisaca,Oropeza,Yotala,-19.1564,-65.2643,1,Subnational,0
+BOL555,2019-11-16,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,Subnational,0
+BOL556,2019-11-16,1,Riots,Violent demonstration,Rioters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Police Forces of Bolivia (2019-2020),Military Forces of Bolivia (2019-2020),Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL557,2019-11-16,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Chuquisaca,Nor Cinti,Padcoyo,-20.2359,-65.1528,2,Subnational,0
+BOL558,2019-11-16,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Potosi,Chayanta,Ravelo,-18.8062,-65.5108,1,Subnational,0
+BOL560,2019-11-16,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Chuquisaca,Tomina,Tomina,-19.1854,-64.4609,1,Subnational,0
+BOL562,2019-11-16,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Chuquisaca,Oropeza,Yotala,-19.1564,-65.2643,1,Subnational,0
+BOL563,2019-11-17,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Police Forces of Bolivia (2019-2020),,Bolivia,Cochabamba,Mizque,Alalay,-17.7096,-65.6919,1,National,0
+BOL567,2019-11-18,1,Riots,Violent demonstration,Rioters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Police Forces of Bolivia (2019-2020),,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,Subnational-National,0
+BOL568,2019-11-18,1,Protests,Peaceful protest,Protesters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL569,2019-11-18,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,La Paz,Aroma,San Antonio de Senkata,-16.7974,-68.1786,1,Subnational,0
+BOL570,2019-11-18,1,Protests,Peaceful protest,Protesters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL572,2019-11-19,1,Riots,Violent demonstration,Rioters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Police Forces of Bolivia (2019-2020),,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL575,2019-11-19,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Potosi,Tomas Frias,Potosi,-19.5836,-65.7531,1,Subnational,0
+BOL576,2019-11-19,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Potosi,Chayanta,Ravelo,-18.8062,-65.5108,1,Subnational,0
+BOL577,2019-11-19,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL578,2019-11-19,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Chuquisaca,Yamparaez,Tarabuco,-19.1817,-64.9152,1,Subnational,0
+BOL579,2019-11-19,1,Protests,Peaceful protest,Protesters (Bolivia),Farmers (Bolivia); MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Chuquisaca,Jaime Zudanez,Villa Zudanez,-19.1169,-64.7013,1,Subnational,0
+BOL580,2019-11-21,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Rioters (Bolivia),Labor Group (Bolivia),Bolivia,Cochabamba,Capinota,Capinota,-17.7118,-66.2649,1,National,0
+BOL581,2019-11-21,1,Protests,Protest with intervention,Protesters (Bolivia),,Police Forces of Bolivia (2019-2020),,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,Subnational,0
+BOL582,2019-11-21,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Rioters (Bolivia),,Bolivia,Cochabamba,Punata,Punata,-17.5455,-65.8359,1,National,0
+BOL583,2019-11-21,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Rioters (Bolivia),,Bolivia,Cochabamba,Quillacollo,Sipe Sipe,-17.45,-66.3833,1,National,0
+BOL584,2019-11-21,1,Protests,Protest with intervention,Protesters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Police Forces of Bolivia (2019-2020),,Bolivia,Santa Cruz,Ichilo,Villa Yapacani,-17.4019,-63.8828,1,National,0
+BOL588,2019-11-25,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Civilians (Bolivia),,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,2,National,0
+BOL589,2019-11-25,1,Riots,Violent demonstration,Rioters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Rioters (Bolivia),MDS: Social Democratic Movement,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL590,2019-11-25,1,Protests,Peaceful protest,Protesters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Cochabamba,Carrasco,Copachuncho,-17.7187,-65.0867,1,National,0
+BOL591,2019-11-25,1,Protests,Peaceful protest,Protesters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Cochabamba,Carrasco,Epizana,-17.6371,-65.2164,1,National,0
+BOL592,2019-11-25,1,Protests,Peaceful protest,Protesters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Cochabamba,Tapacari,Llavini,-17.666,-66.4111,1,National,0
+BOL593,2019-11-25,1,Protests,Peaceful protest,Protesters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Cochabamba,Quillacollo,Parotani,-17.5688,-66.3457,1,National,0
+BOL594,2019-11-25,1,Protests,Peaceful protest,Protesters (Bolivia),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,,,Bolivia,Cochabamba,Tapacari,Pongo Kasa,-17.7108,-66.5506,1,National,0
+BOL597,2019-11-27,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL604,2019-12-06,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL614,2019-12-18,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,Subnational,0
+BOL616,2019-12-19,1,Riots,Violent demonstration,Rioters (Bolivia),Cochala Youth Resistance,Civilians (Bolivia),Journalists (Bolivia),Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL71,2019-02-20,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Tarija,Cercado,Tarija,-21.5355,-64.7296,1,Regional,0
+BOL72,2019-02-21,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Pando,Nicolas Suarez,Cobija,-11.0267,-68.7692,1,National,0
+BOL73,2019-02-21,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Cochabamba,Cercado,Cochabamba,-17.3895,-66.1568,1,National,0
+BOL74,2019-02-21,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,National,0
+BOL75,2019-02-21,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Oruro,Cercado,Oruro,-17.9698,-67.1148,1,National,0
+BOL76,2019-02-21,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Beni,Vaca Diez,Riberalta,-11.0065,-66.0631,1,National,0
+BOL77,2019-02-21,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Beni,Jose Ballivian,Rurrenabaque,-14.4413,-67.5278,1,National,0
+BOL78,2019-02-21,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Beni,Yacuma,Santa Ana del Yacuma,-13.7441,-65.4269,1,National,0
+BOL79,2019-02-21,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Santa Cruz,Andres Ibanez,Santa Cruz de la Sierra,-17.7863,-63.1812,1,National,0
+BOL80,2019-02-21,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Chuquisaca,Oropeza,Sucre,-19.0333,-65.2627,1,National,0
+BOL81,2019-02-21,1,Protests,Peaceful protest,Protesters (Bolivia),,,,Bolivia,Beni,Cercado,Trinidad,-14.8333,-64.9,1,National,0
+BOL339,2019-10-21,1,Riots,Violent demonstration,Rioters (Bolivia),CC: Civic Community,Police Forces of Bolivia (2006-2019),MAS-IPSP: Movement for Socialism-Political Instrument for the Sovereignty of the Peoples,Bolivia,La Paz,Murillo,La Paz,-16.4957,-68.1336,1,Subnational,0

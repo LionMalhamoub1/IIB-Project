@@ -1,0 +1,428 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities
+ARM6126,2023-01-19,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Ararat,Ararat,Yeraskh,39.7398,44.8282,2,National-International,0
+ARM6127,2023-01-15,1,Protests,Peaceful protest,Protesters (Armenia),National Democratic Axis,,,Armenia,Shirak,Akhuryan,Gyumri,40.7847,43.8416,1,National,0
+ARM6131,2023-01-23,1,Protests,Protest with intervention,Protesters (Armenia),,Police Forces of Armenia (2018-),,Armenia,Aragatsotn,Ashtarak,Ashtarak,40.287,44.3619,2,National,0
+ARM6134,2023-01-25,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Syunik,Kajaran,Kajaran,39.1511,46.1563,1,National,0
+ARM6137,2023-01-29,1,Protests,Peaceful protest,Protesters (Armenia),National Democratic Axis,,,Armenia,Shirak,Akhuryan,Gyumri,40.7847,43.8416,1,National,0
+ARM6141,2023-01-30,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Lori,Vanadzor,Vanadzor,40.8106,44.4854,1,National,0
+ARM6144,2023-02-14,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Norabak,40.1558,45.8604,2,National,0
+ARM6152,2023-02-18,1,Protests,Peaceful protest,Protesters (Armenia),Health Workers (Armenia); Labor Group (Armenia),,,Armenia,Gegharkunik,Vardenis,Vardenis,40.1806,45.72,1,National,0
+ARM6153,2023-02-19,1,Protests,Peaceful protest,Protesters (Armenia),Health Workers (Armenia); Labor Group (Armenia),,,Armenia,Gegharkunik,Vardenis,Vardenis,40.1806,45.72,1,National,0
+ARM6159,2023-03-03,1,Protests,Peaceful protest,Protesters (Armenia),Labor Group (Armenia),,,Armenia,Syunik,Meghri,Agarak,38.8638,46.1954,1,National,0
+ARM6163,2023-03-03,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Shirak,Akhuryan,Gyumri,40.7847,43.8416,2,National,0
+ARM6167,2023-03-05,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Sotk,40.1997,45.8643,2,National,0
+ARM6168,2023-03-05,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Verin Shorzha,40.0828,45.833,2,National,0
+ARM6169,2023-03-09,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Verin Shorzha,40.0828,45.833,2,National-International,0
+ARM6174,2023-03-13,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Verin Shorzha,40.0828,45.833,2,National-Regional,0
+ARM6180,2023-03-22,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Ararat,Ararat,Yeraskh,39.7398,44.8282,2,National-Regional,1
+ARM6181,2023-03-21,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Russia (2000-) Peacekeeping Contingent in Nagorno Karabakh,,Armenia,Syunik,Kapan,Kapan,39.2063,46.4058,2,National,0
+ARM6187,2023-03-30,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Syunik,Sisian,Noravan,39.5194,46.1005,2,National,0
+ARM6191,2023-03-31,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Armenia,Syunik,Kapan,Kapan,39.2063,46.4058,2,National,1
+ARM6194,2023-04-05,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Syunik,Meghri,Meghri,38.9031,46.2469,1,National,0
+ARM6197,2023-04-11,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Shirak,Ashotck,Ashotck,41.0384,43.8578,2,National,0
+ARM6202,2023-04-12,1,Violence against civilians,Attack,Military Forces of Azerbaijan (2003-),,Civilians (Armenia),,Armenia,Syunik,,Shgharshik,39.2316,46.3339,1,National,1
+ARM6203,2023-04-10,1,Strategic developments,Other,Military Forces of Azerbaijan (2003-),,Civilians (Armenia),,Armenia,Syunik,,Ashotavan,39.4766,45.9947,1,National-Regional,0
+ARM6204,2023-04-11,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Tavush,Tavush,Paravakar,40.9833,45.3656,2,National,0
+ARM6205,2023-04-11,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Sotk,40.1997,45.8643,2,National,0
+ARM6207,2023-04-14,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Sotk,40.1997,45.8643,2,National,0
+ARM6208,2023-04-15,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Sotk,40.1997,45.8643,2,National,0
+ARM6209,2023-04-16,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Sotk,40.1997,45.8643,2,National-Regional,0
+ARM6210,2023-04-20,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Verin Shorzha,40.0828,45.833,2,National,0
+ARM6211,2023-04-18,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Gegharkunik,Sevan,Sevan,40.5484,44.9487,2,National,0
+ARM6215,2023-04-22,1,Violence against civilians,Attack,Military Forces of Azerbaijan (2003-),,Civilians (Armenia),Labor Group (Armenia),Armenia,Gegharkunik,Vardenis,Sotk,40.1997,45.8643,2,National,0
+ARM6217,2023-04-23,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Sotk,40.1997,45.8643,2,National-Regional,1
+ARM6218,2023-04-23,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Kut,40.1785,45.8948,2,National,0
+ARM6219,2023-04-28,1,Protests,Peaceful protest,Protesters (Armenia),Military Forces of Armenia (2018-),,,Armenia,Gegharkunik,Vardenis,Tsovak,40.1833,45.6332,1,National,0
+ARM6226,2023-05-04,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Vayots Dzor,Vayk,Jermuk,39.8209,45.6708,2,National,0
+ARM6231,2023-05-18,1,Protests,Peaceful protest,Protesters (Armenia),Farmers (Armenia),,,Armenia,Gegharkunik,Sevan,Sevan,40.5484,44.9487,2,National,0
+ARM6232,2023-05-17,1,Protests,Peaceful protest,Protesters (Armenia),Former Military Forces of Armenia (2018-),,,Armenia,Aragatsotn,Ashtarak,Ashtarak,40.287,44.3619,2,National,0
+ARM6236,2023-05-18,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Norabak,40.1558,45.8604,2,National-Regional,0
+ARM6237,2023-05-17,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Sotk,40.1997,45.8643,2,National-Regional,1
+ARM6238,2023-05-19,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Gavar,Gavar,40.3522,45.1264,2,National,0
+ARM6240,2023-05-23,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Kutakan,40.2676,45.8372,2,National-Regional,0
+ARM6249,2023-05-10,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Armenia,Gegharkunik,Vardenis,Sotk,40.1997,45.8643,2,National-Regional,0
+ARM6250,2023-05-11,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Norabak,40.1558,45.8604,2,National,0
+ARM6251,2023-05-11,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Sotk,40.1997,45.8643,2,National-Regional,1
+ARM6252,2023-05-11,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Verin Shorzha,40.0828,45.833,2,National,0
+ARM6253,2023-05-12,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Kut,40.1785,45.8948,2,National,0
+ARM6254,2023-05-12,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Sotk,40.1997,45.8643,2,National-Regional,2
+ARM6255,2023-05-12,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Verin Shorzha,40.0828,45.833,2,National,0
+ARM6264,2023-06-06,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Kakhakn,40.2842,45.7849,2,National,0
+ARM6266,2023-06-08,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Tretuk,40.2387,45.8494,2,National,0
+ARM6267,2023-06-09,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Kakhakn,40.2842,45.7849,2,National-Regional,0
+ARM6270,2023-06-07,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Aragatsotn,Talin,Aragatsavan,40.3226,43.6642,1,National,0
+ARM6273,2023-06-15,1,Explosions/Remote violence,Air/drone strike,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Syunik,Kapan,Kapan,39.2063,46.4058,2,National,0
+ARM6274,2023-06-12,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Sotk,40.1997,45.8643,2,National-Regional,0
+ARM6276,2023-06-13,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Sotk,40.1997,45.8643,2,National,0
+ARM6277,2023-06-13,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Tretuk,40.2387,45.8494,2,National,0
+ARM6278,2023-06-13,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Ararat,Ararat,Yeraskh,39.7398,44.8282,2,National-Regional,0
+ARM6279,2023-06-14,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Ararat,Ararat,Yeraskh,39.7398,44.8282,2,National-Regional,0
+ARM6282,2023-06-16,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Ararat,Ararat,Yeraskh,39.7398,44.8282,2,National,0
+ARM6284,2023-06-17,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Verin Shorzha,40.0828,45.833,2,National-Regional,0
+ARM6286,2023-06-18,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Sotk,40.1997,45.8643,2,National-Regional,0
+ARM6287,2023-06-18,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Verin Shorzha,40.0828,45.833,2,National-Regional,0
+ARM6288,2023-06-19,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Sotk,40.1997,45.8643,2,National-Regional,0
+ARM6289,2023-06-19,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Ararat,Ararat,Yeraskh,39.7398,44.8282,2,National-Regional,0
+ARM6290,2023-06-20,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Kakhakn,40.2842,45.7849,2,National-Regional,0
+ARM6294,2023-06-20,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Ararat,Ararat,Yeraskh,39.7398,44.8282,2,National-Regional,0
+ARM6295,2023-06-21,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Sotk,40.1997,45.8643,2,Other,0
+ARM6296,2023-06-21,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Verin Shorzha,40.0828,45.833,2,Other,0
+ARM6297,2023-06-22,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Kakhakn,40.2842,45.7849,2,National-Regional,0
+ARM6298,2023-06-22,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Sotk,40.1997,45.8643,2,National,0
+ARM6299,2023-06-22,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Verin Shorzha,40.0828,45.833,2,National,0
+ARM6302,2023-06-24,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Ararat,Ararat,Yeraskh,39.7398,44.8282,2,National-Regional,0
+ARM6304,2023-06-27,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Ararat,Ararat,Yeraskh,39.7398,44.8282,2,National-Regional,0
+ARM6313,2023-07-03,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Aragatsotn,,Kakavadzor,40.3502,44.0515,1,National,0
+ARM6315,2023-07-10,1,Violence against civilians,Attack,Military Forces of Azerbaijan (2003-),,Civilians (Armenia),Labor Group (Armenia),Armenia,Ararat,Ararat,Yeraskh,39.7398,44.8282,1,National,0
+ARM6317,2023-07-14,1,Violence against civilians,Attack,Military Forces of Azerbaijan (2003-),,Civilians (Armenia),,Armenia,Ararat,Ararat,Yeraskh,39.7398,44.8282,1,National,0
+ARM6319,2023-07-11,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Syunik,,Sev Lake,39.5981,46.2305,2,National,0
+ARM6321,2023-07-12,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Syunik,Sisian,Ishkhanasar,39.5688,46.0394,2,Other,0
+ARM6323,2023-07-12,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Verin Shorzha,40.0828,45.833,2,National,0
+ARM6324,2023-07-13,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Karmir,Jil,40.4529,45.4497,2,National,0
+ARM6325,2023-07-13,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Ararat,Ararat,Paruyr Sevak,39.7694,44.9141,2,National,0
+ARM6331,2023-07-14,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Verin Shorzha,40.0828,45.833,2,National,0
+ARM6336,2023-07-17,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Sotk,40.1997,45.8643,2,National,0
+ARM6343,2023-07-22,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Syunik,Kapan,Kapan,39.2063,46.4058,1,National,0
+ARM6368,2023-08-06,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Kutakan,40.2676,45.8372,2,National,0
+ARM6369,2023-08-06,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Tretuk,40.2387,45.8494,2,National,0
+ARM6370,2023-08-07,1,Strategic developments,Disrupted weapons use,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Sotk,40.1997,45.8643,2,Regional,0
+ARM6376,2023-08-11,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Verin Shorzha,40.0828,45.833,2,National,0
+ARM6379,2023-08-13,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Verin Shorzha,40.0828,45.833,2,National,0
+ARM6380,2023-08-14,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Verin Shorzha,40.0828,45.833,2,National,0
+ARM6383,2023-08-15,1,Violence against civilians,Attack,Military Forces of Azerbaijan (2003-),,Civilians (International),EUMA: European Union Monitoring Mission in Armenia (2022-),Armenia,Gegharkunik,Vardenis,Verin Shorzha,40.0828,45.833,2,National-Regional,0
+ARM6384,2023-08-16,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Norabak,40.1558,45.8604,2,National,0
+ARM6386,2023-08-17,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Ararat,Ararat,Yeraskh,39.7398,44.8282,2,National-Regional,0
+ARM6390,2023-08-18,1,Violence against civilians,Attack,Unidentified Armed Group (Azerbaijan),,Civilians (Armenia),,Armenia,Syunik,Kapan,Kapan,39.2063,46.4058,1,National,0
+ARM6393,2023-08-19,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,,Aghpradzor,40.0977,45.6409,2,National,0
+ARM6394,2023-08-19,1,Violence against civilians,Attack,Unidentified Armed Group (Azerbaijan),,Civilians (Armenia),Government of Armenia (2018-),Armenia,Syunik,Kapan,Kapan,39.2063,46.4058,1,National,0
+ARM6395,2023-08-19,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Verin Shorzha,40.0828,45.833,2,National,0
+ARM6398,2023-08-21,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,,Aghpradzor,40.0977,45.6409,2,National,1
+ARM6400,2023-08-21,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Verin Shorzha,40.0828,45.833,2,National,0
+ARM6402,2023-08-23,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Armenia,Gegharkunik,Vardenis,Verin Shorzha,40.0828,45.833,2,National-Regional,0
+ARM6405,2023-08-25,1,Violence against civilians,Attack,Military Forces of Azerbaijan (2003-),,Civilians (Armenia),Labor Group (Armenia),Armenia,Ararat,Ararat,Yeraskh,39.7398,44.8282,1,National,0
+ARM6406,2023-08-26,1,Violence against civilians,Attack,Military Forces of Azerbaijan (2003-),,Civilians (Armenia),Labor Group (Armenia),Armenia,Ararat,Ararat,Yeraskh,39.7398,44.8282,1,National,0
+ARM6407,2023-08-27,1,Violence against civilians,Attack,Military Forces of Azerbaijan (2003-),,Civilians (Armenia),Labor Group (Armenia),Armenia,Ararat,Ararat,Yeraskh,39.7398,44.8282,1,National,0
+ARM6408,2023-08-31,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Armenia,Gegharkunik,Vardenis,Sotk,40.1997,45.8643,2,National-Regional,0
+ARM6409,2023-08-27,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Norabak,40.1558,45.8604,2,National-Regional,0
+ARM6410,2023-08-27,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Verin Shorzha,40.0828,45.833,2,National-Regional,0
+ARM6411,2023-09-01,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Norabak,40.1558,45.8604,2,National,0
+ARM6412,2023-09-01,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Sotk,40.1997,45.8643,2,National-Regional,3
+ARM6424,2023-09-02,1,Explosions/Remote violence,Air/drone strike,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Gavar,Gavar,40.3522,45.1264,3,National-Regional,3
+ARM6425,2023-09-05,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Kut,40.1785,45.8948,2,National-Regional,0
+ARM6426,2023-09-03,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Kutakan,40.2676,45.8372,2,National,0
+ARM6427,2023-09-02,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Norabak,40.1558,45.8604,2,National-Regional,0
+ARM6428,2023-09-07,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Norabak,40.1558,45.8604,2,National-Regional,0
+ARM6429,2023-09-01,1,Violence against civilians,Attack,Unidentified Armed Group (Azerbaijan),,Civilians (Armenia),,Armenia,Syunik,Kapan,Kapan,39.2063,46.4058,1,National,0
+ARM6430,2023-09-02,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Azerbaijan),,Civilians (Armenia),,Armenia,Syunik,Kapan,Kapan,39.2063,46.4058,1,National,0
+ARM6437,2023-09-09,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Kutakan,40.2676,45.8372,2,National-Regional,0
+ARM6439,2023-09-12,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Verin Shorzha,40.0828,45.833,2,National,0
+ARM6440,2023-09-13,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Verin Shorzha,40.0828,45.833,2,National-Regional,0
+ARM6441,2023-09-14,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Verin Shorzha,40.0828,45.833,2,National-Regional,0
+ARM6444,2023-09-15,1,Protests,Peaceful protest,Protesters (Armenia),Teachers (Armenia); Students (Armenia),,,Armenia,Shirak,,Getk,40.7281,43.7866,2,National,0
+ARM6445,2023-09-16,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Karmir,Jil,40.4529,45.4497,2,National,0
+ARM6446,2023-09-20,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Sotk,40.1997,45.8643,2,National-Regional,0
+ARM6455,2023-09-22,1,Protests,Peaceful protest,Protesters (Armenia),Students (Armenia),,,Armenia,Shirak,Akhuryan,Gyumri,40.7847,43.8416,1,National,0
+ARM6462,2023-09-22,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Gegharkunik,Gavar,Gavar,40.3522,45.1264,2,National,0
+ARM6463,2023-09-22,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Shirak,Akhuryan,Gyumri,40.7847,43.8416,1,National,0
+ARM6475,2023-09-23,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Shirak,Akhuryan,Gyumri,40.7847,43.8416,1,National,0
+ARM6476,2023-09-23,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Syunik,Kapan,Kapan,39.2063,46.4058,1,National,0
+ARM6477,2023-09-23,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Lori,Vanadzor,Vanadzor,40.8106,44.4854,1,National,0
+ARM6478,2023-09-24,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Shirak,Akhuryan,Gyumri,40.7847,43.8416,1,National,0
+ARM6479,2023-09-25,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Aragatsotn,Ashtarak,Ashtarak,40.287,44.3619,2,National,0
+ARM6480,2023-09-25,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Shirak,Akhuryan,Gyumri,40.7847,43.8416,1,National,0
+ARM6481,2023-09-25,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Gegharkunik,,Noratus,40.3744,45.1778,1,National,0
+ARM6482,2023-09-25,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Gegharkunik,,Tsakkar,40.1677,45.2172,1,National,0
+ARM6483,2023-09-23,1,Protests,Protest with intervention,Protesters (Armenia),,Police Forces of Armenia (2018-),,Armenia,Ararat,Artashat,Artashat,39.9565,44.5457,2,National,0
+ARM6489,2023-10-02,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Kut,40.1785,45.8948,2,National-Regional,1
+ARM6491,2023-10-05,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Gegharkunik,Vardenis,Norabak,40.1558,45.8604,2,National,0
+ARM6513,2023-11-18,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Ararat,Ararat,Paruyr Sevak,39.7694,44.9141,2,National-Regional,0
+ARM6124,2023-01-08,1,Protests,Protest with intervention,Protesters (Armenia),National Democratic Axis,Police Forces of Armenia (2018-),,Armenia,Shirak,Akhuryan,Gyumri,40.7847,43.8416,1,International,0
+ARM6528,2023-12-04,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Vayots Dzor,Vayk,Bardzruni,39.5198,45.482,1,National-Regional,1
+ARM6531,2023-12-06,1,Protests,Peaceful protest,Protesters (Armenia),Labor Group (Armenia),,,Armenia,Shirak,Akhuryan,Gyumri,40.7847,43.8416,1,National,0
+ARM6539,2023-12-15,1,Protests,Peaceful protest,Protesters (Armenia),Fishers (Armenia),,,Armenia,Gegharkunik,,Gagarin,40.5405,44.8697,1,National,0
+ARM6543,2023-12-20,1,Protests,Peaceful protest,Protesters (Armenia),Fishers (Armenia),,,Armenia,Gegharkunik,,Noratus,40.3744,45.1778,1,National,0
+ARM6550,2023-12-31,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6548,2023-12-26,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6549,2023-12-26,1,Protests,Peaceful protest,Protesters (Armenia),Labor Group (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6545,2023-12-22,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6546,2023-12-22,1,Protests,Peaceful protest,Protesters (Armenia),Farmers (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6547,2023-12-22,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,International,0
+ARM6544,2023-12-21,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6542,2023-12-19,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6541,2023-12-16,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6538,2023-12-14,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6537,2023-12-12,1,Protests,Peaceful protest,Protesters (Russia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6535,2023-12-11,1,Protests,Peaceful protest,Protesters (Armenia),Farmers (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6536,2023-12-11,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6533,2023-12-10,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6534,2023-12-10,1,Protests,Peaceful protest,Protesters (Armenia),HHK: Republican Party of Armenia,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6540,2023-12-09,1,Protests,Protest with intervention,Protesters (Armenia),Zang Movement,Police Forces of Armenia (2018-),,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6532,2023-12-08,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6529,2023-12-04,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6527,2023-12-03,1,Protests,Peaceful protest,Protesters (Armenia),Zang Movement,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6526,2023-12-02,1,Protests,Protest with intervention,Protesters (Armenia),Zang Movement,Police Forces of Armenia (2018-),,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6521,2023-12-01,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,International,0
+ARM6520,2023-12-01,1,Protests,Peaceful protest,Protesters (Armenia),Zang Movement,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,International,0
+ARM6525,2023-11-28,1,Protests,Protest with intervention,Protesters (Armenia),Zang Movement,Police Forces of Armenia (2018-),,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6519,2023-11-27,1,Protests,Peaceful protest,Protesters (Armenia),Labor Group (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6524,2023-11-27,1,Protests,Protest with intervention,Protesters (Armenia),Zang Movement,Police Forces of Armenia (2018-),,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6523,2023-11-26,1,Protests,Protest with intervention,Protesters (Armenia),Zang Movement,Police Forces of Armenia (2018-),,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6522,2023-11-25,1,Protests,Protest with intervention,Protesters (Armenia),Zang Movement,Police Forces of Armenia (2018-),,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6515,2023-11-23,1,Protests,Peaceful protest,Protesters (Armenia),Farmers (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6517,2023-11-23,1,Protests,Peaceful protest,Protesters (Armenia),Labor Group (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6518,2023-11-23,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6514,2023-11-20,1,Protests,Peaceful protest,Protesters (Armenia),Farmers (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6516,2023-11-18,1,Protests,Peaceful protest,Protesters (Armenia),HHK: Republican Party of Armenia,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6512,2023-11-10,1,Protests,Peaceful protest,Protesters (Armenia),National Democratic Axis,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6509,2023-11-09,1,Protests,Peaceful protest,Protesters (Armenia),HHK: Republican Party of Armenia,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6511,2023-11-09,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6508,2023-11-02,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6507,2023-11-02,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,International,0
+ARM6506,2023-10-29,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,International,0
+ARM6502,2023-10-16,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6499,2023-10-10,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6500,2023-10-10,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6498,2023-10-09,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6492,2023-10-06,1,Protests,Peaceful protest,Protesters (Armenia),National Democratic Axis,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6490,2023-10-04,1,Riots,Violent demonstration,Rioters (Armenia),,Police Forces of Armenia (2018-),,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6496,2023-10-03,1,Strategic developments,Looting/property destruction,ASALA: Armenian Secret Army for the Liberation of Armenia,YFFA: Young Fighters for the Freedom of Armenia,Civilians (Armenia),Jewish Group (Armenia),Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,International,0
+ARM6495,2023-10-02,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6493,2023-09-30,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6494,2023-09-30,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6466,2023-09-26,1,Protests,Peaceful protest,Protesters (Armenia),Health Workers (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6488,2023-09-26,1,Protests,Protest with intervention,Protesters (Armenia),Students (Armenia),Police Forces of Armenia (2018-),,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6470,2023-09-25,1,Protests,Peaceful protest,Protesters (Armenia),National Democratic Axis,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6469,2023-09-24,1,Protests,Peaceful protest,Protesters (Armenia),National Democratic Axis,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6472,2023-09-24,1,Protests,Peaceful protest,Protesters (Armenia),Students (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6486,2023-09-24,1,Protests,Protest with intervention,Protesters (Armenia),,Police Forces of Armenia (2018-),,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6468,2023-09-23,1,Protests,Peaceful protest,Protesters (Armenia),National Democratic Axis,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6484,2023-09-23,1,Protests,Protest with intervention,Protesters (Armenia),,Police Forces of Armenia (2018-),,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6485,2023-09-23,1,Protests,Protest with intervention,Protesters (Armenia),,Police Forces of Armenia (2018-),,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6451,2023-09-22,1,Protests,Peaceful protest,Protesters (Armenia),Health Workers (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6467,2023-09-22,1,Protests,Peaceful protest,Protesters (Armenia),National Democratic Axis,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6461,2023-09-21,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6474,2023-09-21,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6456,2023-09-21,1,Protests,Protest with intervention,Protesters (Armenia),,Police Forces of Armenia (2018-),,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National-International,0
+ARM6448,2023-09-20,1,Protests,Protest with intervention,Protesters (Armenia),,Police Forces of Armenia (2018-),,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6453,2023-09-20,1,Protests,Peaceful protest,Protesters (Armenia),National Democratic Axis,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6460,2023-09-20,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6447,2023-09-19,1,Protests,Protest with intervention,Protesters (Armenia),,Police Forces of Armenia (2018-),,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6452,2023-09-19,1,Protests,Peaceful protest,Protesters (Armenia),National Democratic Axis,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6457,2023-09-19,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6458,2023-09-19,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6459,2023-09-19,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,International,0
+ARM6443,2023-09-14,1,Protests,Peaceful protest,Protesters (Armenia),Teachers (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6442,2023-09-12,1,Protests,Peaceful protest,Protesters (Armenia),Teachers (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6432,2023-09-07,1,Protests,Peaceful protest,Protesters (Armenia),Kamq,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6433,2023-09-07,1,Protests,Peaceful protest,Protesters (Armenia),Labor Group (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6436,2023-09-05,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6431,2023-09-02,1,Protests,Peaceful protest,Protesters (Armenia),BHK: Prosperous Armenia Party,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6434,2023-09-02,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6435,2023-09-02,1,Protests,Peaceful protest,Protesters (Russia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,International,0
+ARM6418,2023-08-31,1,Protests,Peaceful protest,Protesters (Armenia),Women (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6423,2023-08-31,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6413,2023-08-30,1,Protests,Peaceful protest,Protesters (Armenia),National Democratic Axis,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6421,2023-08-29,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6422,2023-08-29,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6420,2023-08-28,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6419,2023-08-27,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6404,2023-08-25,1,Protests,Protest with intervention,Protesters (Armenia),National Democratic Axis,Police Forces of Armenia (2018-),,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,International,0
+ARM6403,2023-08-24,1,Protests,Peaceful protest,Protesters (Armenia),National Democratic Axis,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6401,2023-08-21,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6396,2023-08-20,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6397,2023-08-20,1,Protests,Peaceful protest,Protesters (Russia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,International,0
+ARM6391,2023-08-18,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6392,2023-08-18,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6387,2023-08-17,1,Protests,Peaceful protest,Protesters (Armenia),National Democratic Axis,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6388,2023-08-17,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6389,2023-08-17,1,Protests,Peaceful protest,Protesters (Armenia),Women (Armenia); Women in Black (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6385,2023-08-16,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6381,2023-08-14,1,Protests,Peaceful protest,Protesters (Armenia),HHK: Republican Party of Armenia; I Have Honor Alliance,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6382,2023-08-14,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,International,0
+ARM6378,2023-08-12,1,Protests,Peaceful protest,Protesters (Armenia),HHK: Republican Party of Armenia; I Have Honor Alliance,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6377,2023-08-11,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6374,2023-08-08,1,Protests,Protest with intervention,Protesters (Armenia),Khachakirner Detachment,Police Forces of Armenia (2018-),,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6371,2023-08-07,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6373,2023-08-07,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6367,2023-08-04,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6354,2023-08-03,1,Protests,Peaceful protest,Protesters (Armenia),Kamq,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6366,2023-07-31,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6342,2023-07-27,1,Protests,Peaceful protest,Protesters (Armenia),Women (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6351,2023-07-26,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6352,2023-07-26,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6353,2023-07-26,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6350,2023-07-25,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6345,2023-07-24,1,Protests,Peaceful protest,Protesters (Armenia),HHK: Republican Party of Armenia,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6347,2023-07-24,1,Protests,Peaceful protest,Protesters (Armenia),Students (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6348,2023-07-24,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6349,2023-07-24,1,Protests,Peaceful protest,Protesters (Armenia),Labor Group (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6344,2023-07-22,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6341,2023-07-21,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National-International,0
+ARM6340,2023-07-20,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6339,2023-07-19,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6338,2023-07-18,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6326,2023-07-14,1,Protests,Peaceful protest,Protesters (Armenia),HHK: Republican Party of Armenia,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6330,2023-07-14,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6337,2023-07-14,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,International,0
+ARM6327,2023-07-11,1,Protests,Peaceful protest,Protesters (Armenia),Lawyers (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6329,2023-07-10,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6312,2023-07-06,1,Protests,Peaceful protest,Protesters (Armenia),Women (Armenia); Women in Black (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6311,2023-07-05,1,Protests,Peaceful protest,Protesters (Armenia),Former Government of Armenia (2018-),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6309,2023-07-04,1,Protests,Peaceful protest,Protesters (Armenia),HHK: Republican Party of Armenia,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6314,2023-07-04,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6310,2023-07-03,1,Protests,Peaceful protest,Protesters (Armenia),National Democratic Axis; Women (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6306,2023-06-29,1,Protests,Peaceful protest,Protesters (Armenia),HHK: Republican Party of Armenia,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6305,2023-06-28,1,Protests,Peaceful protest,Protesters (Armenia),ARFD: Armenian Revolutionary Federation,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6303,2023-06-27,1,Protests,Peaceful protest,Protesters (Armenia),ARFD: Armenian Revolutionary Federation,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6307,2023-06-27,1,Protests,Peaceful protest,Protesters (Armenia),Lawyers (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6308,2023-06-26,1,Protests,Peaceful protest,Protesters (Armenia),National Democratic Axis,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6300,2023-06-23,1,Protests,Peaceful protest,Protesters (Armenia),Women (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6301,2023-06-21,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6292,2023-06-20,1,Protests,Peaceful protest,Protesters (Armenia),Lawyers (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6275,2023-06-16,1,Protests,Peaceful protest,Protesters (Armenia),Lawyers (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6283,2023-06-12,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6272,2023-06-09,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6271,2023-06-08,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6269,2023-06-05,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Lori,Tumanian,Marts,40.9569,44.7044,1,National,0
+ARM6268,2023-06-04,1,Protests,Peaceful protest,Protesters (Russia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,International,0
+ARM6263,2023-06-02,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6262,2023-06-01,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6261,2023-05-30,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6256,2023-05-28,1,Protests,Peaceful protest,Protesters (Armenia),ARFD: Armenian Revolutionary Federation,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6241,2023-05-26,1,Protests,Peaceful protest,Protesters (Armenia),National Democratic Axis,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6242,2023-05-26,1,Protests,Peaceful protest,Protesters (Armenia),Yazidi Group (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6247,2023-05-23,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6246,2023-05-22,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6245,2023-05-21,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6244,2023-05-20,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6239,2023-05-19,1,Protests,Protest with intervention,Protesters (Armenia),,Police Forces of Armenia (2018-),,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6235,2023-05-18,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6234,2023-05-17,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6233,2023-05-15,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6257,2023-05-12,1,Protests,Peaceful protest,Protesters (Armenia),No to the Ethnic Cleansing of the Republic of Artsakh Movement,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6260,2023-05-12,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6259,2023-05-09,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6225,2023-05-04,1,Protests,Protest with intervention,Protesters (Armenia),Former Government of Armenia (2018-),Police Forces of Armenia (2018-),,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6227,2023-05-04,1,Protests,Peaceful protest,Protesters (Armenia),Women (Armenia); Women in Black (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6230,2023-05-03,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6224,2023-05-02,1,Protests,Peaceful protest,Protesters (Armenia),Labor Group (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6222,2023-05-01,1,Protests,Peaceful protest,Protesters (Armenia),Labor Group (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6229,2023-04-29,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6221,2023-04-28,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6228,2023-04-28,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6220,2023-04-27,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6216,2023-04-23,1,Protests,Peaceful protest,Protesters (Armenia),ARFD: Armenian Revolutionary Federation,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6213,2023-04-21,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6214,2023-04-21,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6212,2023-04-20,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6196,2023-04-14,1,Protests,Peaceful protest,Protesters (Armenia),National Democratic Axis,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6201,2023-04-14,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6199,2023-04-13,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6198,2023-04-11,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6193,2023-04-04,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6192,2023-04-03,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6190,2023-03-31,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6183,2023-03-24,1,Protests,Peaceful protest,Protesters (Armenia),Refugees/IDPs (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6182,2023-03-23,1,Protests,Peaceful protest,Protesters (Armenia),Labor Group (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6185,2023-03-23,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6186,2023-03-23,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6178,2023-03-22,1,Protests,Peaceful protest,Protesters (Armenia),ARFD: Armenian Revolutionary Federation,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6179,2023-03-20,1,Protests,Peaceful protest,Protesters (Armenia),Labor Group (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6184,2023-03-20,1,Protests,Peaceful protest,Protesters (Armenia),Students (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6176,2023-03-16,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6172,2023-03-16,1,Protests,Peaceful protest,Protesters (Armenia),EPA: European Party of Armenia,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,International,0
+ARM6173,2023-03-15,1,Protests,Peaceful protest,Protesters (Armenia),Students (Armenia); Teachers (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6175,2023-03-13,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6165,2023-03-10,1,Protests,Peaceful protest,Protesters (Armenia),National Democratic Axis,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6166,2023-03-09,1,Protests,Peaceful protest,Protesters (Armenia),Women (Armenia); Women in Black (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6171,2023-03-09,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6164,2023-03-08,1,Protests,Peaceful protest,Protesters (Armenia),Kurdish Ethnic Group (Armenia); Women (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6170,2023-03-06,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6161,2023-03-02,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6160,2023-03-01,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,International,0
+ARM6162,2023-02-28,1,Protests,Peaceful protest,Protesters (Armenia),Students (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6158,2023-02-27,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6157,2023-02-25,1,Protests,Peaceful protest,Protesters (Russia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6150,2023-02-24,1,Protests,Peaceful protest,Protesters (Armenia),Democratic Party of Armenia,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6151,2023-02-24,1,Protests,Peaceful protest,Protesters (Armenia),EPA: European Party of Armenia,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6154,2023-02-24,1,Protests,Peaceful protest,Protesters (Armenia),HKK: Armenian Communist Party,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,International,0
+ARM6155,2023-02-24,1,Protests,Peaceful protest,Protesters (Armenia),National Democratic Axis,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6156,2023-02-20,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6147,2023-02-16,1,Protests,Protest with intervention,Protesters (Armenia),,Police Forces of Armenia (2018-),,Armenia,Kotayk,Ashtarak,Proshyan,40.254,44.4184,1,National,0
+ARM6146,2023-02-15,1,Protests,Peaceful protest,Protesters (Armenia),Kurdish Ethnic Group (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6145,2023-02-14,1,Protests,Peaceful protest,Protesters (Armenia),Khachakirner Detachment,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6148,2023-02-10,1,Protests,Peaceful protest,Protesters (Russia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,International,0
+ARM6143,2023-02-07,1,Protests,Peaceful protest,Protesters (Armenia),Khachakirner Detachment,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6142,2023-02-03,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6136,2023-02-01,1,Protests,Peaceful protest,Protesters (Armenia),Labor Group (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6138,2023-02-01,1,Protests,Peaceful protest,Protesters (Armenia),Women (Armenia),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6139,2023-01-28,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6140,2023-01-28,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,International,0
+ARM6135,2023-01-26,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6133,2023-01-23,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6132,2023-01-21,1,Protests,Peaceful protest,Protesters (Armenia),Public Voice,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6130,2023-01-20,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6129,2023-01-17,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6128,2023-01-16,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6125,2023-01-11,1,Protests,Peaceful protest,Protesters (Armenia),National Democratic Axis,,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6359,2023-07-29,1,Protests,Peaceful protest,Protesters (Armenia),Refugees/IDPs (Azerbaijan); Students (Armenia); Armenian Group (Azerbaijan); Protesters (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6360,2023-07-30,1,Protests,Peaceful protest,Protesters (Armenia),Refugees/IDPs (Azerbaijan); Students (Armenia); Armenian Group (Azerbaijan); Protesters (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6361,2023-07-31,1,Protests,Peaceful protest,Protesters (Armenia),Refugees/IDPs (Azerbaijan); Students (Armenia); Armenian Group (Azerbaijan); Protesters (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6362,2023-08-01,1,Protests,Peaceful protest,Protesters (Armenia),Refugees/IDPs (Azerbaijan); Students (Armenia); Armenian Group (Azerbaijan); Protesters (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6363,2023-08-02,1,Protests,Peaceful protest,Protesters (Armenia),Refugees/IDPs (Azerbaijan); Students (Armenia); Armenian Group (Azerbaijan); Protesters (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6364,2023-08-03,1,Protests,Peaceful protest,Protesters (Armenia),Refugees/IDPs (Azerbaijan); Students (Armenia); Armenian Group (Azerbaijan); Protesters (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6510,2023-11-06,1,Protests,Peaceful protest,Protesters (Azerbaijan),Former Government of Artsakh (2007-); Refugees/IDPs (Azerbaijan); Armenian Group (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National-International,0
+ARM6189,2023-03-30,1,Protests,Peaceful protest,Protesters (Azerbaijan),Refugees/IDPs (Azerbaijan); Armenian Group (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6258,2023-05-10,1,Protests,Peaceful protest,Protesters (Azerbaijan),Refugees/IDPs (Azerbaijan); Armenian Group (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6328,2023-07-11,1,Protests,Peaceful protest,Protesters (Azerbaijan),Refugees/IDPs (Azerbaijan); Armenian Group (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6332,2023-07-17,1,Protests,Peaceful protest,Protesters (Azerbaijan),Refugees/IDPs (Azerbaijan); Armenian Group (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6333,2023-07-18,1,Protests,Peaceful protest,Protesters (Azerbaijan),Refugees/IDPs (Azerbaijan); Armenian Group (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6334,2023-07-20,1,Protests,Peaceful protest,Protesters (Azerbaijan),Refugees/IDPs (Azerbaijan); Armenian Group (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6346,2023-07-24,1,Protests,Peaceful protest,Protesters (Azerbaijan),Refugees/IDPs (Azerbaijan); Armenian Group (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6355,2023-07-31,1,Protests,Peaceful protest,Protesters (Azerbaijan),Refugees/IDPs (Azerbaijan); Armenian Group (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National-International,0
+ARM6356,2023-08-01,1,Protests,Peaceful protest,Protesters (Azerbaijan),Refugees/IDPs (Azerbaijan); Armenian Group (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6357,2023-08-02,1,Protests,Peaceful protest,Protesters (Azerbaijan),Refugees/IDPs (Azerbaijan); Armenian Group (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6449,2023-09-21,1,Protests,Protest with intervention,Protesters (Azerbaijan),Refugees/IDPs (Azerbaijan); Armenian Group (Azerbaijan),Police Forces of Armenia (2018-),,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,International,0
+ARM6358,2023-08-03,1,Protests,Peaceful protest,Protesters (Azerbaijan),Refugees/IDPs (Azerbaijan); Armenian Group (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,International,0
+ARM6372,2023-08-07,1,Protests,Peaceful protest,Protesters (Azerbaijan),Refugees/IDPs (Azerbaijan); Armenian Group (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6414,2023-08-28,1,Protests,Peaceful protest,Protesters (Azerbaijan),Refugees/IDPs (Azerbaijan); Armenian Group (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National-International,0
+ARM6415,2023-08-29,1,Protests,Peaceful protest,Protesters (Azerbaijan),Refugees/IDPs (Azerbaijan); Armenian Group (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National-International,0
+ARM6416,2023-08-30,1,Protests,Peaceful protest,Protesters (Azerbaijan),Refugees/IDPs (Azerbaijan); Armenian Group (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6417,2023-09-01,1,Protests,Peaceful protest,Protesters (Azerbaijan),Refugees/IDPs (Azerbaijan); Armenian Group (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6454,2023-09-22,1,Protests,Peaceful protest,Protesters (Azerbaijan),Refugees/IDPs (Azerbaijan); Armenian Group (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6497,2023-10-13,1,Protests,Peaceful protest,Protesters (Azerbaijan),Refugees/IDPs (Azerbaijan); Armenian Group (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,International,0
+ARM6501,2023-10-17,1,Protests,Peaceful protest,Protesters (Azerbaijan),Refugees/IDPs (Azerbaijan); Armenian Group (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,International,0
+ARM6504,2023-10-23,1,Protests,Peaceful protest,Protesters (Azerbaijan),Refugees/IDPs (Azerbaijan); Armenian Group (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6505,2023-10-30,1,Protests,Peaceful protest,Protesters (Azerbaijan),Refugees/IDPs (Azerbaijan); Armenian Group (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,International,0
+ARM6471,2023-09-25,1,Protests,Peaceful protest,Protesters (Azerbaijan),Refugees/IDPs (Azerbaijan); Armenian Group (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6473,2023-09-23,1,Protests,Peaceful protest,Protesters (Azerbaijan),Refugees/IDPs (Azerbaijan); Students (Azerbaijan); Armenian Group (Azerbaijan),,,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6503,2023-10-20,1,Riots,Violent demonstration,Rioters (Azerbaijan),Refugees/IDPs (Azerbaijan); Armenian Group (Azerbaijan),Police Forces of Armenia (2018-),Civilians (Azerbaijan); Government of Artsakh (2007-),Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National-International,0
+ARM6892,2023-11-15,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (International),,Civilians (Armenia),Jewish Group (Armenia),Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National,0
+ARM6375,2023-08-10,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Kotayk,Kotayk,Aramus,40.2473,44.6656,1,National,0
+ARM6149,2023-02-17,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Kotayk,Ashtarak,Proshyan,40.254,44.4184,1,Regional,0
+ARM6450,2023-09-22,1,Protests,Protest with intervention,Protesters (Armenia),Students (Armenia),Police Forces of Armenia (2018-),,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National-Regional,0
+ARM6464,2023-09-19,1,Riots,Violent demonstration,Rioters (Armenia),,Police Forces of Armenia (2018-),,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National-Regional,0
+ARM6465,2023-09-20,1,Riots,Violent demonstration,Rioters (Armenia),Students (Armenia),Police Forces of Armenia (2018-),,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National-Regional,0
+ARM6487,2023-09-25,1,Protests,Protest with intervention,Protesters (Armenia),Students (Armenia),Police Forces of Armenia (2018-),,Armenia,Yerevan,Yerevan,Yerevan,40.1811,44.5136,1,National-Regional,0
+ARM6530,2023-12-05,1,Protests,Protest with intervention,Protesters (Armenia),A Country to Live In,Police Forces of Armenia (2018-),,Armenia,Lori,Tumanian,Alaverdi,41.0812,44.6154,1,National,0
+ARM6188,2023-03-30,1,Strategic developments,Other,Military Forces of Azerbaijan (2003-),,,,Armenia,Syunik,Tegh,Tegh,39.5561,46.4763,2,National-Regional,0
+ARM6195,2023-04-06,1,Violence against civilians,Attack,Military Forces of Azerbaijan (2003-),,Civilians (Armenia),Farmers (Armenia),Armenia,Syunik,Khnatsakh,Khnatsakh,39.6041,46.391,1,National,0
+ARM6206,2023-04-11,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Syunik,Tegh,Tegh,39.5561,46.4763,2,National-Regional,7
+ARM6223,2023-04-29,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Syunik,Tegh,Tegh,39.5561,46.4763,2,National-Regional,0
+ARM6243,2023-05-20,1,Protests,Peaceful protest,Protesters (Armenia),,,,Armenia,Syunik,,Kornidzor,39.5472,46.5306,1,National,0
+ARM6248,2023-05-08,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Armenia,Syunik,Tegh,Tegh,39.5561,46.4763,2,Regional,0
+ARM6265,2023-06-07,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Syunik,Tegh,Khoznavar,39.6239,46.3524,2,National,0
+ARM6280,2023-06-15,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Syunik,,Kornidzor,39.5472,46.5306,2,National,0
+ARM6281,2023-06-15,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-) Border Guard,,Armenia,Syunik,Tegh,Tegh,39.5561,46.4763,2,National-Regional,0
+ARM6293,2023-06-20,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Syunik,,Srashen,39.079,46.4994,2,National,0
+ARM6316,2023-07-12,1,Violence against civilians,Attack,Military Forces of Azerbaijan (2003-),,Civilians (Armenia),Farmers (Armenia),Armenia,Syunik,,Aravus,39.5676,46.4664,2,National,0
+ARM6318,2023-07-11,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Syunik,,Aravus,39.5676,46.4664,2,National,0
+ARM6320,2023-07-11,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Syunik,Tegh,Tegh,39.5561,46.4763,2,National,0
+ARM6322,2023-07-12,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Syunik,Tegh,Tegh,39.5561,46.4763,2,National,0
+ARM6365,2023-07-29,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Syunik,Khnatsakh,Khnatsakh,39.6041,46.391,2,National,0
+ARM6399,2023-08-21,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Syunik,Khnatsakh,Khnatsakh,39.6041,46.391,2,National,0
+ARM6438,2023-09-12,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Syunik,,Srashen,39.079,46.4994,2,National-Regional,0
+ARM6335,2023-07-17,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Syunik,,Nerkin Hand,39.0573,46.5228,2,National,0
+ARM6291,2023-06-20,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Syunik,,Nerkin Hand,39.0573,46.5228,2,National,0
+ARM6285,2023-06-18,1,Battles,Armed clash,Military Forces of Azerbaijan (2003-),,Military Forces of Armenia (2018-),,Armenia,Syunik,,Nerkin Hand,39.0573,46.5228,2,National-Regional,0
+ARM6177,2023-03-20,1,Battles,Armed clash,Military Forces of Armenia (2018-),,Military Forces of Azerbaijan (2003-),,Armenia,Syunik,,Nerkin Hand,39.0573,46.5228,2,National-Regional,0

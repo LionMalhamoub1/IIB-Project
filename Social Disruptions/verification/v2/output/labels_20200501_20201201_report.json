@@ -1,0 +1,20 @@
+{
+  "total_country_days": 5341,
+  "event_days": 2937,
+  "zero_days": 2404,
+  "event_rate": 0.5499,
+  "countries": 174,
+  "date_min": "2020-05-01",
+  "date_max": "2020-12-01",
+  "by_disruption_type": {
+    "protests": 2681,
+    "labour_strike": 1048
+  },
+  "movement_days": 2399,
+  "low_coverage_flag": {
+    "total_low_cov_days": 3470,
+    "event_days_low_cov": 1364,
+    "zero_days_low_cov": 2106,
+    "note": "zero_days_low_cov are unreliable negatives \u2014 GDELT had thin coverage so a 0 label does not confidently mean no event occurred"
+  }
+}

@@ -1,0 +1,33 @@
+# Focused keyword list for social and labour disruption modelling.
+# Uses specific multi-word phrases to avoid matching every sub-breakdown.
+# One keyword per line.  Lines starting with # are ignored.
+
+# --- Direct disruption ---
+strikes and lockouts
+trade union density
+collective bargaining coverage
+
+# --- Unemployment ---
+unemployment rate
+youth unemployment rate
+long-term unemployment
+underemployment rate
+
+# --- Labour market structure ---
+labour force participation rate
+informal employment rate
+incidence of informality
+incidence of part-time
+
+# --- Precarity & vulnerability ---
+vulnerable employment
+working poverty
+temporary employment
+self-employment rate
+neet
+
+# --- Wages & cost pressure ---
+monthly earnings
+real wage
+minimum wage compliance
+labour income share

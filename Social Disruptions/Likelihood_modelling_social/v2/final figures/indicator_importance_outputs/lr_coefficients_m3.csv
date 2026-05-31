@@ -1,0 +1,66 @@
+feature,label,block,coefficient_protest,coefficient_strike
+num__gdp_per_capita_growth,GDP per Capita Growth,Macro/Governance (M2),-0.0165,1.3171
+num__gdp_growth,GDP Growth,Macro/Governance (M2),0.1895,-1.2614
+num__fx_pct_30d,FX Change 30d,Markets (M1),-0.8946,-0.3416
+num__unemployment_sa,Unemployment SA,Macro/Governance (M2),0.8638,-0.6441
+num__rule_of_law_est,Rule of Law,Macro/Governance (M2),0.035,0.7029
+num__oil_brent_pct_30d,Oil Change 30d,Markets (M1),0.1034,0.6124
+num__gdelt_protest_28d_lag,GDELT Protest 28d Lag,GDELT Lags (M0),0.5445,0.0502
+num__unemployment_rate,Unemployment Rate,Macro/Governance (M2),-0.3902,0.4508
+num__government_effectiveness_est,Gov. Effectiveness,Macro/Governance (M2),0.1663,0.4479
+num__vix_level,VIX Level,Markets (M1),-0.4139,-0.0268
+num__fx_pct_30d_x_instability,FX×Instability,Structural (M3),0.2,0.3739
+num__fx_pct_7d,FX Change 7d,Markets (M1),0.0239,-0.3698
+num__oil_brent_pct_30d_z,Oil Change 30d (z),Markets (M1),-0.0518,-0.3586
+num__gini_coef,Gini Coefficient,Structural (M3),-0.345,0.2553
+num__unemployment_total,Unemployment Total,Macro/Governance (M2),-0.2631,0.3271
+num__vix_7d_ma,VIX 7d MA,Markets (M1),0.2994,0.1604
+num__oil_brent_pct_30d_x_net_importer,Oil×Net Importer,Structural (M3),0.05,-0.2955
+num__gdelt_protest_7d_lag,GDELT Protest 7d Lag,GDELT Lags (M0),0.2583,0.1283
+num__gdelt_strike_28d_lag,GDELT Strike 28d Lag,GDELT Lags (M0),0.2444,0.2566
+num__fx_pct_30d_lag60d,FX Change 30d Lag60,Markets (M1),0.1195,0.2537
+num__voice_accountability_est,Voice & Accountability,Macro/Governance (M2),-0.0053,-0.2485
+num__unemployment_youth,Youth Unemployment,Macro/Governance (M2),0.2296,0.133
+num__fx_vol_30d,FX Volatility 30d,Markets (M1),-0.2051,-0.0361
+num__inflation_cpi_yoy,CPI Inflation YoY,Macro/Governance (M2),0.0516,-0.1946
+num__dxy_level,DXY Level,Markets (M1),0.1941,0.069
+num__gdelt_strike_7d_lag,GDELT Strike 7d Lag,GDELT Lags (M0),-0.1403,0.1889
+num__fx_vol_7d,FX Volatility 7d,Markets (M1),-0.0249,-0.1649
+num__platinum_pct_30d,Platinum Change 30d,Markets (M1),0.0066,0.1419
+num__unemployment_rate_z,Unemployment Rate (z),Macro/Governance (M2),-0.1168,0.1336
+num__covid_period,COVID Period,Structural (M3),-0.0498,-0.133
+num__copper_pct_30d_x_copper_prod,Copper×Production,Structural (M3),-0.0506,-0.1325
+num__fx_pct_90d,FX Change 90d,Markets (M1),-0.1296,0.0827
+num__gdelt_protest_region_14d,GDELT Protest Region 14d,GDELT Lags (M0),0.1232,-0.0517
+num__energy_cpi_inflation,Energy CPI Inflation,Macro/Governance (M2),-0.0788,0.1176
+num__gdelt_strike_region_14d,GDELT Strike Region 14d,GDELT Lags (M0),-0.1118,-0.025
+num__food_cpi_inflation,Food CPI Inflation,Macro/Governance (M2),-0.1074,0.0091
+num__vix_pct_30d,VIX Change 30d,Markets (M1),0.0992,-0.0849
+num__yield_us10y,US 10y Yield,Markets (M1),-0.0799,0.0939
+num__gold_pct_30d,Gold Change 30d,Markets (M1),-0.0934,-0.0786
+num__dxy_pct_30d,DXY Change 30d,Markets (M1),-0.0899,-0.0626
+num__dxy_vol_30d,DXY Volatility 30d,Markets (M1),0.0883,0.0344
+num__copper_pct_90d,Copper Change 90d,Markets (M1),0.0859,0.0865
+num__vix_pct_30d_lag30d,VIX Change Lag30,Markets (M1),0.0853,-0.007
+num__political_stability_est,Political Stability,Macro/Governance (M2),-0.0649,-0.0821
+num__oil_brent_pct_14d,Oil Change 14d,Markets (M1),0.0335,0.0815
+num__fx_vol_30d_z,FX Volatility 30d (z),Markets (M1),0.0283,-0.077
+num__inflation_accel,Inflation Acceleration,Structural (M3),0.0743,0.0401
+num__gold_pct_30d_x_gold_prod,Gold×Production,Structural (M3),-0.0144,0.0741
+num__fx_pct_30d_z,FX Change 30d (z),Markets (M1),0.0702,0.0251
+num__natgas_pct_30d,Nat. Gas Change 30d,Markets (M1),0.0571,-0.0649
+num__gold_vol_30d,Gold Volatility 30d,Markets (M1),-0.0466,0.0626
+num__oil_brent_pct_30d_lag30d,Oil Change Lag30,Markets (M1),-0.0494,-0.0505
+num__energy_cpi_inflation_z,Energy CPI Inflation (z),Macro/Governance (M2),0.0498,-0.0181
+num__oil_brent_pct_30d_lag60d,Oil Change Lag60,Markets (M1),0.0305,0.0438
+num__oil_brent_pct_30d_x_inflation,Oil×Inflation,Structural (M3),0.026,-0.0325
+num__oil_brent_pct_30d_lag90d,Oil Change Lag90,Markets (M1),-0.0321,-0.0135
+num__food_cpi_inflation_z,Food CPI Inflation (z),Macro/Governance (M2),0.031,-0.0163
+num__fx_pct_30d_lag30d,FX Change 30d Lag30,Markets (M1),0.0262,0.0174
+num__inflation_cpi_yoy_z,CPI Inflation YoY (z),Macro/Governance (M2),-0.0257,-0.0123
+num__platinum_pct_30d_x_plat_prod,Platinum×Production,Structural (M3),-0.0256,-0.0115
+num__vix_pct_30d_lag60d,VIX Change Lag60,Markets (M1),0.0246,-0.0051
+num__copper_vol_30d,Copper Volatility 30d,Markets (M1),-0.0037,0.0229
+num__copper_pct_30d,Copper Change 30d,Markets (M1),-0.0165,0.0006
+num__fx_trend_consistent,FX Trend (Consistent),Structural (M3),0.0024,0.0137
+num__silver_pct_30d,Silver Change 30d,Markets (M1),0.0085,0.0079

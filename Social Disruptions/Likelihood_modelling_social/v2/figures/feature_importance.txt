@@ -1,0 +1,73 @@
+FEATURE IMPORTANCE -- TOP 10 BY BLOCK
+Target: protest_7d
+============================================================
+
+LOGISTIC REGRESSION: model0_persistence
+--------------------------------------------------
+
+  M0: Persistence
+    Protests last 28d                              coef = +0.5659
+    Protests last 7d                               coef = +0.3030
+    Strikes last 28d                               coef = +0.2601
+    Regional protests 14d                          coef = +0.1520
+    Strikes last 7d                                coef = -0.1223
+    Regional strikes 14d                           coef = -0.0672
+
+XGBOOST (SHAP): model5_xgb
+--------------------------------------------------
+
+  M0: Persistence
+    Protests last 28d                              SHAP = 0.1985
+    Protests last 7d                               SHAP = 0.0722
+    Strikes last 28d                               SHAP = 0.0269
+    Regional strikes 14d                           SHAP = 0.0065
+    Regional protests 14d                          SHAP = 0.0013
+    Strikes last 7d                                SHAP = 0.0000
+
+  M1: Financial Markets
+    US 10Y yield                                   SHAP = 0.0648
+    DXY level                                      SHAP = 0.0369
+    FX return z-score                              SHAP = 0.0287
+    Oil chg lag 60d                                SHAP = 0.0239
+    DXY change (30d)                               SHAP = 0.0230
+    Gold vol (30d)                                 SHAP = 0.0226
+    DXY vol (30d)                                  SHAP = 0.0193
+    VIX chg lag 60d                                SHAP = 0.0191
+    Copper price (90d)                             SHAP = 0.0180
+    VIX 7d moving avg                              SHAP = 0.0163
+
+  M2: Macro / Governance
+    Energy CPI inflation                           SHAP = 0.0410
+    Govt effectiveness                             SHAP = 0.0256
+    Unemployment rate z                            SHAP = 0.0234
+    Unemployment rate                              SHAP = 0.0183
+    GDP per capita growth                          SHAP = 0.0178
+    GDP growth                                     SHAP = 0.0122
+    Food CPI inflation                             SHAP = 0.0096
+    Voice & accountability                         SHAP = 0.0093
+    Energy CPI z-score                             SHAP = 0.0090
+    FX x instability                               SHAP = 0.0089
+
+  M3: Structural
+    Country protest baseline                       SHAP = 0.8201
+    Country strike baseline                        SHAP = 0.1024
+    Gini coefficient                               SHAP = 0.0166
+    Gold x producer                                SHAP = 0.0151
+    Oil x net importer                             SHAP = 0.0078
+    Copper x producer                              SHAP = 0.0063
+    FX trend consistent                            SHAP = 0.0000
+    COVID period                                   SHAP = 0.0000
+    Inflation accel.                               SHAP = 0.0000
+    Platinum x producer                            SHAP = 0.0000
+
+  M4: FAO / GTA
+    GTA count (90d)                                SHAP = 0.0344
+    GTA count (30d)                                SHAP = 0.0195
+    Food x youth unemp                             SHAP = 0.0165
+    FAO food (YoY)                                 SHAP = 0.0125
+    GTA count z (30d)                              SHAP = 0.0123
+    Seasonality (cos)                              SHAP = 0.0105
+    Cereals x instability                          SHAP = 0.0093
+    Seasonality (sin)                              SHAP = 0.0082
+    Trade liberalisation z                         SHAP = 0.0076
+    GTA count z (90d)                              SHAP = 0.0067

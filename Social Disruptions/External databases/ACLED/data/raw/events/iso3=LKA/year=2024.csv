@@ -1,0 +1,826 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+SRI7471,2024-01-03,2,Protests,Peaceful protest,Protesters (Sri Lanka),Farmers (Sri Lanka),,,Sri Lanka,Sabaragamuwa,Ratnapura,Embilipitiya,6.3439,80.8488,1,National,0,LKA
+SRI7477,2024-01-03,2,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,North Central,Anuradhapura,Thambuttegama,8.1575,80.2967,1,National,0,LKA
+SRI7478,2024-01-04,1,Riots,Mob violence,Rioters (Sri Lanka),,Rioters (Sri Lanka),,Sri Lanka,Uva,Moneragala,Wellawaya,6.7369,81.1027,1,National,1,LKA
+SRI7482,2024-01-08,1,Protests,Peaceful protest,Protesters (Sri Lanka),Journalists (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI7490,2024-01-11,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National,0,LKA
+SRI7493,2024-01-16,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Nuwara Eliya,6.9707,80.7828,1,National,0,LKA
+SRI7495,2024-01-19,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Southern,Galle,Karapitiya,6.0711,80.2306,1,National,0,LKA
+SRI7497,2024-01-18,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Eastern,Ampara,Oluvil,7.2945,81.8611,1,National,0,LKA
+SRI7499,2024-01-18,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National,0,LKA
+SRI7501,2024-01-13,1,Protests,Peaceful protest,Protesters (Sri Lanka),Muslim Group (Sri Lanka),,,Sri Lanka,Eastern,Trincomalee,Kinniya,8.4909,81.1853,1,National,0,LKA
+SRI7515,2024-01-19,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Sri Lanka),,Civilians (Sri Lanka),Fishers (Sri Lanka); Tamil Ethnic Group (Sri Lanka),Sri Lanka,North Western,Puttalam,Udappu,7.75,79.7924,1,National,0,LKA
+SRI7518,2024-01-23,1,Protests,Peaceful protest,Protesters (Sri Lanka),Farmers (Sri Lanka),,,Sri Lanka,Southern,Matara,Matara,5.9485,80.5353,1,National,0,LKA
+SRI7519,2024-01-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),Farmers (Sri Lanka),,,Sri Lanka,North Central,Anuradhapura,Mahavilachchiya,8.4936,80.1922,1,National,0,LKA
+SRI7521,2024-01-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Southern,Galle,Karapitiya,6.0711,80.2306,1,National,0,LKA
+SRI7526,2024-01-23,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National-International,0,LKA
+SRI7527,2024-01-19,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,International,0,LKA
+SRI7529,2024-01-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka); Muslim Group (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National-International,0,LKA
+SRI7545,2024-01-30,2,Protests,Peaceful protest,Protesters (Sri Lanka),NPP: National People's Power,,,Sri Lanka,North Central,Anuradhapura,Anuradhapura,8.3123,80.4131,1,National,0,LKA
+SRI7560,2024-02-07,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,North Western,Puttalam,Puttalam,8.0362,79.8283,1,National,0,LKA
+SRI7562,2024-02-07,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Nuwara Eliya,6.9707,80.7828,1,National,0,LKA
+SRI7567,2024-02-04,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Gampaha,Negombo,7.2168,79.8675,1,National,0,LKA
+SRI7568,2024-02-04,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Kilinochchi,Iranamadu,9.3484,80.4133,1,National,0,LKA
+SRI7570,2024-02-06,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Gampaha,Pallewela,7.1967,80.094,2,National,0,LKA
+SRI7573,2024-02-04,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka); TNPF: Tamil National People's Front,,,Sri Lanka,Eastern,Ampara,Ampara,7.2975,81.682,1,National,0,LKA
+SRI7466,2024-01-04,1,Violence against civilians,Attack,Unidentified Armed Group (Sri Lanka),,Civilians (Sri Lanka),,Sri Lanka,Northern,Jaffna,Kondavil,9.703,80.0339,1,National,0,LKA
+SRI7578,2024-02-15,1,Protests,Peaceful protest,Protesters (Sri Lanka),Farmers (Sri Lanka),,,Sri Lanka,North Central,Anuradhapura,Anuradhapura,8.3123,80.4131,1,National,0,LKA
+SRI7579,2024-02-13,1,Protests,Peaceful protest,Protesters (Sri Lanka),Farmers (Sri Lanka),,,Sri Lanka,North Central,Anuradhapura,Anuradhapura,8.3123,80.4131,1,National,0,LKA
+SRI7582,2024-02-15,2,Protests,Peaceful protest,Protesters (Sri Lanka),Journalists (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,International,0,LKA
+SRI7585,2024-02-16,1,Protests,Peaceful protest,Protesters (Sri Lanka),Students (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Chenkalady,7.786,81.591,1,National,0,LKA
+SRI7586,2024-02-14,1,Protests,Peaceful protest,Protesters (Sri Lanka),Teachers (Sri Lanka),,,Sri Lanka,Eastern,Ampara,Ampara,7.2975,81.682,1,National,0,LKA
+SRI7588,2024-02-15,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Jaffna,Inuvil,9.7126,80.0144,1,National,0,LKA
+SRI7591,2024-02-16,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Uva,Moneragala,Wellawaya,6.7369,81.1027,1,National,0,LKA
+SRI7604,2024-02-22,1,Riots,Violent demonstration,Rioters (Sri Lanka),,,,Sri Lanka,North Central,Polonnaruwa,Polonnaruwa,7.9397,81.0027,1,National,0,LKA
+SRI7608,2024-02-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),Sinhalese Ethnic Group (Sri Lanka); Students (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Maskeliya,6.8333,80.5722,1,National,0,LKA
+SRI7610,2024-02-20,1,Protests,Peaceful protest,Protesters (Sri Lanka),Buddhist Group (Sri Lanka); Christian Group (Sri Lanka); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Kilinochchi,Kilinochchi,9.3961,80.3982,1,National-International,0,LKA
+SRI7614,2024-02-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Mannar,Talaimannar,9.083,79.7337,1,National,0,LKA
+SRI7616,2024-02-19,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Mullaitivu,Puthukudiyiruppu,9.3106,80.6946,1,National-International,0,LKA
+SRI7603,2024-02-20,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); Indian Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Nuwara Eliya,6.9707,80.7828,1,National,0,LKA
+SRI7618,2024-02-26,1,Violence against civilians,Attack,Unidentified Armed Group (Sri Lanka),,Civilians (Sri Lanka),Labor Group (Sri Lanka),Sri Lanka,Southern,Galle,Elpitiya,6.2908,80.1626,1,National,1,LKA
+SRI7619,2024-02-20,1,Violence against civilians,Attack,Unidentified Armed Group (Sri Lanka),,Civilians (Sri Lanka),,Sri Lanka,North Western,Kurunegala,Kurunegala,7.4863,80.3623,1,National,0,LKA
+SRI7621,2024-02-25,1,Protests,Peaceful protest,Protesters (Sri Lanka),Catholic Christian Group (Sri Lanka),,,Sri Lanka,Western,Gampaha,Negombo,7.2168,79.8675,1,National,0,LKA
+SRI7622,2024-02-28,1,Protests,Peaceful protest,Protesters (Sri Lanka),Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka); Students (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Lindula,6.9217,80.685,1,National,0,LKA
+SRI7623,2024-02-28,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI7624,2024-02-29,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Eastern,Ampara,Sammanthurai,7.3572,81.797,1,National,0,LKA
+SRI7627,2024-02-25,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI7628,2024-02-26,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI7634,2024-02-25,1,Protests,Peaceful protest,Protesters (Sri Lanka),Teachers (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI7636,2024-02-28,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,North Western,Puttalam,Chilaw,7.5758,79.7953,1,National,0,LKA
+SRI7637,2024-02-25,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Central,Nuwara Eliya,Nanu Oya,6.9417,80.7453,1,National,0,LKA
+SRI7642,2024-03-08,2,Violence against civilians,Attack,Unidentified Armed Group (Sri Lanka),,Civilians (Sri Lanka),Buddhist Group (Sri Lanka),Sri Lanka,North Western,Puttalam,Puttalam,8.0362,79.8283,1,National,0,LKA
+SRI7643,2024-03-02,2,Protests,Peaceful protest,Protesters (Sri Lanka),Farmers (Sri Lanka); FLSP: Frontline Socialist Party,,,Sri Lanka,North Central,Polonnaruwa,Dimbulagala,7.8667,81.1166,1,National,0,LKA
+SRI7648,2024-02-26,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Eastern,Ampara,Pottuvil,6.8762,81.8267,1,National,0,LKA
+SRI7652,2024-03-08,1,Protests,Peaceful protest,Protesters (Sri Lanka),NPP: National People's Power; Women (Sri Lanka),,,Sri Lanka,North Central,Anuradhapura,Anuradhapura,8.3123,80.4131,1,National,0,LKA
+SRI7658,2024-03-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),Teachers (Sri Lanka),,,Sri Lanka,North Central,Anuradhapura,Anuradhapura,8.3123,80.4131,1,National,0,LKA
+SRI7662,2024-03-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Nuwara Eliya,6.9707,80.7828,1,National,0,LKA
+SRI7663,2024-03-11,1,Riots,Violent demonstration,Rioters (Sri Lanka),Students (Sri Lanka),,,Sri Lanka,Eastern,Ampara,Thirukkovil,7.1203,81.849,1,National,0,LKA
+SRI7666,2024-03-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,International,0,LKA
+SRI7673,2024-03-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka); Women (Sri Lanka),,,Sri Lanka,Northern,Kilinochchi,Kilinochchi,9.3961,80.3982,1,National-International,0,LKA
+SRI7675,2024-03-14,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Central,Kandy,Alawathugoda,7.4097,80.6098,1,National,0,LKA
+SRI7685,2024-03-19,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI7686,2024-03-19,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Eastern,Ampara,Oluvil,7.2945,81.8611,1,National,0,LKA
+SRI7687,2024-03-16,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); Protesters (International),,,Sri Lanka,Southern,Galle,Unawatuna,6.0212,80.2503,1,National,0,LKA
+SRI7698,2024-03-18,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI7699,2024-03-18,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Eastern,Trincomalee,Muttur,8.4585,81.2687,1,National,0,LKA
+SRI7706,2024-03-25,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Nuwara Eliya,6.9707,80.7828,1,National,0,LKA
+SRI7707,2024-03-25,1,Riots,Mob violence,Rioters (Sri Lanka),Labor Group (Sri Lanka),Rioters (Sri Lanka),Labor Group (Sri Lanka),Sri Lanka,Uva,Badulla,Badulla,6.9895,81.0557,1,National,0,LKA
+SRI7710,2024-03-26,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Nuwara Eliya,6.9707,80.7828,1,National,0,LKA
+SRI7714,2024-03-25,1,Protests,Peaceful protest,Protesters (Sri Lanka),Students (Sri Lanka); Teachers (Sri Lanka),,,Sri Lanka,Northern,Mullaitivu,Puthukudiyiruppu,9.3106,80.6946,1,National,0,LKA
+SRI7719,2024-03-25,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Uva,Badulla,Mahiyanganaya,7.3404,80.993,1,National,0,LKA
+SRI7720,2024-03-26,1,Explosions/Remote violence,Grenade,Unidentified Armed Group (Sri Lanka),,,,Sri Lanka,Western,Gampaha,Kadawatha,7.0047,79.9542,1,National,0,LKA
+SRI7690,2024-03-16,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National-International,0,LKA
+SRI7723,2024-04-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Farmers (Sri Lanka); Students (Sri Lanka); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,International,0,LKA
+SRI7725,2024-04-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Nuwara Eliya,6.9707,80.7828,1,National,0,LKA
+SRI7726,2024-04-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI7728,2024-04-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,North Central,Polonnaruwa,Polonnaruwa,7.9397,81.0027,1,National,0,LKA
+SRI7732,2024-04-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National,0,LKA
+SRI7733,2024-04-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Sabaragamuwa,Kegalle,Kegalle,7.2523,80.3436,1,National,0,LKA
+SRI7734,2024-04-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Southern,Galle,Karapitiya,6.0711,80.2306,1,National,0,LKA
+SRI7741,2024-03-30,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National-International,0,LKA
+SRI7742,2024-04-02,1,Protests,Peaceful protest,Protesters (Sri Lanka),Christian Group (Sri Lanka); Farmers (Sri Lanka); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,International,0,LKA
+SRI7744,2024-04-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Teachers (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI7745,2024-04-04,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI7747,2024-04-05,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,North Central,Anuradhapura,Mihintale,8.3593,80.5103,1,National,0,LKA
+SRI7750,2024-04-05,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Kilinochchi,Ponnaveli,9.3977,80.1321,1,National,0,LKA
+SRI7751,2024-04-09,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka); Women (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National,0,LKA
+SRI7756,2024-04-09,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka); Women (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Chavakachcheri,9.6663,80.1581,1,National,0,LKA
+SRI7759,2024-04-09,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI7763,2024-04-14,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National-International,0,LKA
+SRI7765,2024-04-18,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI7767,2024-04-19,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Vavuniya,Echchan Kulam,8.7254,80.5377,1,National,0,LKA
+SRI7468,2024-01-04,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7469,2024-01-05,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7470,2024-01-03,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7472,2024-01-05,1,Protests,Peaceful protest,Protesters (Sri Lanka),NPP: National People's Power,,,Sri Lanka,Western,Colombo,Rajagiriya,6.9174,79.8896,1,National,0,LKA
+SRI7473,2024-01-02,1,Protests,Peaceful protest,Protesters (Sri Lanka),Refugees/IDPs (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7481,2024-01-08,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7486,2024-01-09,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka); Teachers (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7487,2024-01-10,1,Strategic developments,Other,Protesters (Sri Lanka),Health Workers (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,National,0,LKA
+SRI7488,2024-01-08,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7494,2024-01-16,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7500,2024-01-18,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7502,2024-01-18,1,Protests,Peaceful protest,Protesters (Sri Lanka),Students (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7503,2024-01-14,2,Protests,Peaceful protest,Protesters (Sri Lanka),Students (Sri Lanka),,,Sri Lanka,Western,Gampaha,Kelaniya,6.9553,79.922,1,National,0,LKA
+SRI7509,2024-01-17,1,Strategic developments,Other,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,National,0,LKA
+SRI7510,2024-01-16,1,Strategic developments,Other,Protesters (Sri Lanka),ACHWU: All Ceylon Health Workers' Union; Health Workers (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,National,0,LKA
+SRI7511,2024-01-18,1,Strategic developments,Other,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,National,0,LKA
+SRI7512,2024-01-17,2,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7513,2024-01-16,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7514,2024-01-17,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7520,2024-01-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7524,2024-01-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),Buddhist Group (Sri Lanka); NJP: New People's Front,,,Sri Lanka,Western,Colombo,Battaramulla South,6.8964,79.9181,1,National,0,LKA
+SRI7532,2024-01-23,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Battaramulla South,6.8964,79.9181,1,National,0,LKA
+SRI7534,2024-01-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7540,2024-01-30,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7541,2024-02-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7544,2024-01-29,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7546,2024-01-30,1,Protests,Peaceful protest,Protesters (Sri Lanka),Students (Sri Lanka),,,Sri Lanka,Western,Gampaha,Kelaniya,6.9553,79.922,1,National,0,LKA
+SRI7551,2024-02-06,1,Strategic developments,Other,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,National,0,LKA
+SRI7552,2024-02-05,1,Protests,Peaceful protest,Protesters (Sri Lanka),ACHWU: All Ceylon Health Workers' Union; Health Workers (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7563,2024-02-07,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7575,2024-02-04,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7581,2024-02-14,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7583,2024-02-13,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Battaramulla South,6.8964,79.9181,1,National,0,LKA
+SRI7584,2024-02-15,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Bogawantalawa,6.7957,80.6746,1,National,0,LKA
+SRI7587,2024-02-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),Teachers (Sri Lanka),,,Sri Lanka,Western,Colombo,Battaramulla South,6.8964,79.9181,1,National,0,LKA
+SRI7590,2024-02-15,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7592,2024-02-15,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Hulftsdorp,6.9425,79.8583,1,National,0,LKA
+SRI7593,2024-02-13,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7594,2024-02-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7596,2024-02-19,1,Protests,Peaceful protest,Protesters (Sri Lanka),Fishers (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7598,2024-02-19,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7599,2024-02-17,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7601,2024-02-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7602,2024-02-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7607,2024-02-20,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka); Students (Sri Lanka),,,Sri Lanka,Western,Colombo,Rajagiriya,6.9174,79.8896,1,National,0,LKA
+SRI7615,2024-02-20,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7620,2024-02-28,1,Strategic developments,Other,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7629,2024-02-27,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7630,2024-02-28,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7631,2024-02-29,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Battaramulla South,6.8964,79.9181,1,National,0,LKA
+SRI7632,2024-02-27,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7638,2024-02-27,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7639,2024-02-29,2,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Rajagiriya,6.9174,79.8896,1,National,0,LKA
+SRI7647,2024-03-05,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7654,2024-03-03,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Sabaragamuwa,Ratnapura,Balangoda,6.6466,80.7007,1,National,0,LKA
+SRI7664,2024-03-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7668,2024-03-11,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7672,2024-03-13,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka); Students (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7676,2024-03-12,1,Strategic developments,Other,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,National,0,LKA
+SRI7678,2024-03-11,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7679,2024-03-20,1,Strategic developments,Other,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,National,0,LKA
+SRI7689,2024-03-20,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka); Students (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7697,2024-03-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),Women (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7700,2024-03-20,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Rajagiriya,6.9174,79.8896,1,National,0,LKA
+SRI7701,2024-03-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7708,2024-03-25,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7709,2024-03-25,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7712,2024-03-25,1,Protests,Peaceful protest,Protesters (Sri Lanka),Students (Sri Lanka),,,Sri Lanka,Western,Gampaha,Kelaniya,6.9553,79.922,1,National,0,LKA
+SRI7713,2024-03-27,2,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka); Students (Sri Lanka),,,Sri Lanka,Western,Colombo,Maradana,6.9271,79.8665,1,National,0,LKA
+SRI7735,2024-04-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7736,2024-04-02,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7738,2024-04-04,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7768,2024-04-17,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Maradana,6.9271,79.8665,1,National,0,LKA
+SRI7770,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Central,Kandy,Madulkele,7.3992,80.7335,1,National-International,0,LKA
+SRI7771,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Central,Kandy,Nawalapitiya,7.0534,80.5321,1,National-International,0,LKA
+SRI7772,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Central,Kandy,Pussellawa,7.1081,80.634,1,National-International,0,LKA
+SRI7773,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Central,Kandy,Rangala,7.3538,80.7853,1,National,0,LKA
+SRI7774,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Central,Matale,Matale,7.4698,80.6217,1,National,0,LKA
+SRI7775,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Agrapatana,6.8633,80.7029,1,National,0,LKA
+SRI7777,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Dayagama,6.8561,80.7474,1,National,0,LKA
+SRI7778,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Dikoya,6.8853,80.5938,1,National,0,LKA
+SRI7779,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Hatton,6.8916,80.5955,1,National,0,LKA
+SRI7781,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Maskeliya,6.8333,80.5722,1,National,0,LKA
+SRI7782,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Nanu Oya,6.9417,80.7453,1,National,0,LKA
+SRI7783,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Ragala,7.0111,80.8559,1,National,0,LKA
+SRI7784,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),Christian Group (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI7785,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Sabaragamuwa,Ratnapura,Balangoda,6.6466,80.7007,1,National,0,LKA
+SRI7786,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Sabaragamuwa,Ratnapura,Kahawatta,6.5825,80.5755,1,National,0,LKA
+SRI7787,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Sabaragamuwa,Ratnapura,Pinnawala,6.729,80.6765,1,National,0,LKA
+SRI7788,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Sabaragamuwa,Ratnapura,Rakwana,6.4725,80.6106,1,National,0,LKA
+SRI7789,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Uva,Badulla,Badulla,6.9895,81.0557,1,National-International,0,LKA
+SRI7790,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Uva,Badulla,Hali-Ela,6.9536,81.0299,1,National-International,0,LKA
+SRI7791,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Uva,Badulla,Haputale,6.7657,80.951,1,National-International,0,LKA
+SRI7792,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Uva,Badulla,Passara,6.9346,81.1574,1,National-International,0,LKA
+SRI7793,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Avissawella,6.953,80.2075,1,National,0,LKA
+SRI7794,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),Christian Group (Sri Lanka),,,Sri Lanka,Western,Gampaha,Negombo,7.2168,79.8675,2,National,0,LKA
+SRI7795,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Western,Kalutara,Matugama,6.5204,80.1128,1,National,0,LKA
+SRI7796,2024-04-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Eastern,Batticaloa,Vakarai,8.1333,81.4333,1,National,0,LKA
+SRI7797,2024-04-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),Students (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Delft Island,9.5198,79.6849,1,National,0,LKA
+SRI7799,2024-04-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Battaramulla South,6.8964,79.9181,1,National,0,LKA
+SRI7800,2024-04-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7803,2024-04-24,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National,0,LKA
+SRI7804,2024-04-25,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI7805,2024-04-26,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Battaramulla South,6.8964,79.9181,1,National,0,LKA
+SRI7806,2024-04-26,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka); Students (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7843,2024-05-03,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Battaramulla South,6.8964,79.9181,1,National,0,LKA
+SRI7807,2024-05-02,1,Strategic developments,Other,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,National,0,LKA
+SRI7818,2024-05-02,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National,0,LKA
+SRI7820,2024-05-02,2,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7821,2024-05-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7823,2024-05-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); NDMLP: New-Democratic Marxist-Leninist Party,,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National-International,0,LKA
+SRI7826,2024-05-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),JVP: Janatha Vimukthi Peramuna; Labor Group (Sri Lanka); NPP: National People's Power,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7827,2024-05-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),JVP: Janatha Vimukthi Peramuna; Labor Group (Sri Lanka); NPP: National People's Power,,,Sri Lanka,Southern,Matara,Matara,5.9485,80.5353,1,National,0,LKA
+SRI7828,2024-05-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); NPP: National People's Power,,,Sri Lanka,North Central,Anuradhapura,Anuradhapura,8.3123,80.4131,1,National,0,LKA
+SRI7830,2024-05-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); SJB: Samagi Jana Balavegaya,,,Sri Lanka,Central,Nuwara Eliya,Talawakelle,6.9355,80.6498,1,National,0,LKA
+SRI7838,2024-05-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); Teachers (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Nallur,9.6667,80.0333,1,National,0,LKA
+SRI7836,2024-04-30,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National-International,0,LKA
+SRI7824,2024-04-29,1,Protests,Peaceful protest,Protesters (Sri Lanka),NJP: New People's Front,,,Sri Lanka,Western,Colombo,Battaramulla South,6.8964,79.9181,1,National,0,LKA
+SRI7834,2024-04-29,1,Protests,Peaceful protest,Protesters (Sri Lanka),Students (Sri Lanka),,,Sri Lanka,Sabaragamuwa,Ratnapura,Belihuloya,6.7181,80.7671,1,National,0,LKA
+SRI7844,2024-04-29,2,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7835,2024-04-26,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka); Students (Sri Lanka); Women (Sri Lanka),,,Sri Lanka,Southern,Galle,Karapitiya,6.0711,80.2306,1,National,0,LKA
+SRI7809,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Nuwara Eliya,6.9707,80.7828,2,National,0,LKA
+SRI7769,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Central,Kandy,Huluganga,7.4024,80.7422,1,National,0,LKA
+SRI7847,2024-05-07,2,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Central,Matale,Dambulla,7.86,80.6517,1,National,0,LKA
+SRI7849,2024-05-09,2,Protests,Peaceful protest,Protesters (Sri Lanka),Women (Sri Lanka),,,Sri Lanka,North Central,Anuradhapura,Mihintale,8.3593,80.5103,1,National,0,LKA
+SRI7850,2024-04-18,1,Strategic developments,Other,Unidentified Armed Group (Sri Lanka),,Civilians (Sri Lanka),Tamil Ethnic Group (Sri Lanka),Sri Lanka,Northern,Jaffna,Pungudutivu,9.5825,79.8087,1,National-International,0,LKA
+SRI7852,2024-05-07,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Jaffna,Inuvil,9.7126,80.0144,1,National,0,LKA
+SRI7854,2024-05-06,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National-International,0,LKA
+SRI7855,2024-05-07,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7859,2024-05-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),Buddhist Group (Sri Lanka); Hindu Group (Sri Lanka); Siva Senai,,,Sri Lanka,Northern,Jaffna,Nallur,9.6667,80.0333,1,National,0,LKA
+SRI7860,2024-05-13,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI7861,2024-05-13,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National,0,LKA
+SRI7865,2024-05-16,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7870,2024-05-15,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7871,2024-05-15,2,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7873,2024-05-17,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7876,2024-05-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Sabaragamuwa,Ratnapura,Ratnapura,6.6828,80.3992,1,National,0,LKA
+SRI7879,2024-05-18,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National-International,0,LKA
+SRI7963,2024-06-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Jaffna,Delft Island,9.5198,79.6849,1,National,0,LKA
+SRI7953,2024-06-19,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Eastern,Ampara,Oluvil,7.2945,81.8611,1,National,0,LKA
+SRI7954,2024-06-19,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National,0,LKA
+SRI7956,2024-06-18,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Nuwara Eliya,6.9707,80.7828,1,National,0,LKA
+SRI7957,2024-06-18,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Eastern,Trincomalee,Muttur,8.4585,81.2687,1,National,0,LKA
+SRI7959,2024-06-18,2,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7960,2024-06-18,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7961,2024-06-18,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Battaramulla South,6.8964,79.9181,1,National,0,LKA
+SRI7958,2024-06-16,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Hatton,6.8916,80.5955,1,National,0,LKA
+SRI7966,2024-06-15,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Mannar,Talaimannar,9.083,79.7337,1,National,0,LKA
+SRI7908,2024-06-14,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Vantharumoolai,7.7995,81.5773,1,National,0,LKA
+SRI7909,2024-06-14,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Pambaimadu,8.7849,80.4157,1,National,0,LKA
+SRI7950,2024-06-14,2,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,2,National,0,LKA
+SRI7904,2024-06-13,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7906,2024-06-12,2,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,2,National,0,LKA
+SRI7929,2024-06-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),Teachers (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Chavakachcheri,9.6663,80.1581,1,National,0,LKA
+SRI7931,2024-06-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),Teachers (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Nuwara Eliya,6.9707,80.7828,1,National,0,LKA
+SRI7932,2024-06-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),Teachers (Sri Lanka),,,Sri Lanka,Western,Gampaha,Negombo,7.2168,79.8675,1,National,0,LKA
+SRI7933,2024-06-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),Teachers (Sri Lanka),,,Sri Lanka,Western,Colombo,Borella,6.9177,79.8742,1,National,0,LKA
+SRI7934,2024-06-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),CTU: Ceylon Teachers Union; Teachers (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI7924,2024-06-11,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National-International,0,LKA
+SRI7948,2024-06-11,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Kilinochchi,Pachchilapalli,9.5864,80.3629,1,National,0,LKA
+SRI7905,2024-06-10,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7910,2024-06-10,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Southern,Galle,Elpitiya,6.2908,80.1626,1,National,0,LKA
+SRI7944,2024-06-10,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,North Western,Puttalam,Puttalam,8.0362,79.8283,1,National,0,LKA
+SRI7946,2024-06-08,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Eastern,Trincomalee,Muttur,8.4585,81.2687,1,National,0,LKA
+SRI7888,2024-06-06,1,Protests,Peaceful protest,Protesters (Sri Lanka),Fishers (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Western,Gampaha,Negombo,7.2168,79.8675,1,National,0,LKA
+SRI7899,2024-06-06,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7890,2024-06-04,2,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Eastern,Ampara,Akkaraipattu,7.2165,81.8538,1,National,0,LKA
+SRI7912,2024-06-03,2,Protests,Peaceful protest,Protesters (Sri Lanka),LGBTQ+ (Sri Lanka),,,Sri Lanka,Western,Colombo,Kollupitiya,6.9097,79.8507,1,National,0,LKA
+SRI7918,2024-06-02,1,Protests,Peaceful protest,Protesters (Sri Lanka),Fishers (Sri Lanka); Students (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Arali,9.7062,79.9556,1,National,0,LKA
+SRI7942,2024-06-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7894,2024-05-31,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Chankanai,9.75,79.9667,1,National,0,LKA
+SRI7914,2024-05-31,1,Protests,Peaceful protest,Protesters (Sri Lanka),SEP: Socialist Equality Party; Students (Sri Lanka),,,Sri Lanka,Western,Colombo,Bambalapitiya,6.8865,79.8563,1,National,0,LKA
+SRI7937,2024-05-31,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Hulftsdorp,6.9425,79.8583,1,National,0,LKA
+SRI7896,2024-05-30,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7919,2024-05-30,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National-International,0,LKA
+SRI7921,2024-05-30,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Kilinochchi,Kilinochchi,9.3961,80.3982,1,National,0,LKA
+SRI7911,2024-05-29,1,Protests,Peaceful protest,Protesters (Sri Lanka),CTU: Ceylon Teachers Union; Labor Group (Sri Lanka); Teachers (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7923,2024-05-28,2,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Mullaitivu,Puthukudiyiruppu,9.3106,80.6946,1,International,0,LKA
+SRI7926,2024-05-28,2,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka); Teachers (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,International,0,LKA
+SRI7938,2024-05-28,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Jaffna,Kayts,9.6574,79.9077,1,National,0,LKA
+SRI7939,2024-05-28,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Battaramulla South,6.8964,79.9181,1,National,0,LKA
+SRI7895,2024-05-27,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Eastern,Ampara,Oluvil,7.2945,81.8611,1,National,0,LKA
+SRI7897,2024-05-27,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,North Western,Puttalam,Puttalam,8.0362,79.8283,1,National,0,LKA
+SRI7917,2024-05-27,1,Protests,Peaceful protest,Protesters (Sri Lanka),Students (Sri Lanka),,,Sri Lanka,Eastern,Trincomalee,Thampalakamam,8.4995,81.0972,1,National,0,LKA
+SRI7922,2024-05-26,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National,0,LKA
+SRI7817,2024-05-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Dharmapala Mawatha,6.9133,79.8596,1,National,0,LKA
+SRI7669,2024-03-14,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Dehiwala-Mount Lavinia,6.8402,79.8712,1,National,0,LKA
+SRI7633,2024-02-29,2,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Rathmalana,6.8166,79.8833,1,National,0,LKA
+SRI7559,2024-02-09,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka); Students (Sri Lanka),,,Sri Lanka,Western,Colombo,Borella,6.9177,79.8742,1,National,0,LKA
+SRI7543,2024-01-29,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Maharagama,6.848,79.9265,1,National,0,LKA
+SRI7531,2024-01-25,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Kollupitiya,6.9097,79.8507,1,National,0,LKA
+SRI7969,2024-06-26,1,Strategic developments,Other,Protesters (Sri Lanka),CTU: Ceylon Teachers Union; Teachers (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,National,0,LKA
+SRI7970,2024-06-26,1,Strategic developments,Other,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,National,0,LKA
+SRI7971,2024-06-23,1,Protests,Peaceful protest,Protesters (Sri Lanka),Fishers (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Kattankudy,7.6824,81.7334,1,National,0,LKA
+SRI7972,2024-06-27,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National,0,LKA
+SRI7973,2024-06-24,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National,0,LKA
+SRI7974,2024-06-24,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,North Western,Puttalam,Puttalam,8.0362,79.8283,1,National,0,LKA
+SRI7975,2024-06-28,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7976,2024-06-26,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7978,2024-06-26,1,Protests,Peaceful protest,Protesters (Sri Lanka),LGBTQ+ (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National,0,LKA
+SRI7980,2024-06-24,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National-International,0,LKA
+SRI7981,2024-06-25,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Kilinochchi,Kilinochchi,9.3961,80.3982,1,International,0,LKA
+SRI7983,2024-06-25,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Jaffna,Analaitivu,9.6679,79.7764,1,National,0,LKA
+SRI7991,2024-06-30,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National,0,LKA
+SRI7992,2024-07-04,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Nuwara Eliya,6.9707,80.7828,1,National,0,LKA
+SRI7993,2024-07-02,1,Protests,Peaceful protest,Protesters (Sri Lanka),Hindu Group (Sri Lanka); Siva Senai,,,Sri Lanka,Northern,Jaffna,Nallur,9.6667,80.0333,1,National,0,LKA
+SRI7998,2024-06-04,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,International,0,LKA
+SRI8000,2024-07-10,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Eastern,Trincomalee,Muttur,8.4585,81.2687,1,National,0,LKA
+SRI8001,2024-07-07,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Chavakachcheri,9.6663,80.1581,1,National,0,LKA
+SRI8002,2024-07-07,1,Strategic developments,Other,Protesters (Sri Lanka),Health Workers (Sri Lanka); Labor Group (Sri Lanka); NPP: National People's Power; Teachers (Sri Lanka); Government of Sri Lanka (2019-2024),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,National,0,LKA
+SRI8003,2024-07-10,1,Strategic developments,Other,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,National,0,LKA
+SRI8004,2024-07-09,1,Protests,Peaceful protest,Protesters (Sri Lanka),Farmers (Sri Lanka); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI8006,2024-07-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI8010,2024-07-06,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Pambaimadu,8.7849,80.4157,1,National,0,LKA
+SRI8012,2024-07-08,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Pettah,6.9376,79.8491,1,National,0,LKA
+SRI8013,2024-07-03,1,Protests,Peaceful protest,Protesters (Sri Lanka),Farmers (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Pettah,6.9376,79.8491,1,National,0,LKA
+SRI7988,2024-07-02,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); Teachers (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Nuwara Eliya,6.9707,80.7828,1,National,0,LKA
+SRI7989,2024-07-02,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); Teachers (Sri Lanka),,,Sri Lanka,Eastern,Ampara,Oluvil,7.2945,81.8611,1,National,0,LKA
+SRI8029,2024-07-17,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI8020,2024-07-16,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Kollupitiya,6.9097,79.8507,1,National,0,LKA
+SRI8021,2024-07-15,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Sri Lanka),,Civilians (Sri Lanka),,Sri Lanka,Eastern,Batticaloa,Kattankudy,7.6824,81.7334,1,National,0,LKA
+SRI8023,2024-07-13,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National,0,LKA
+SRI8028,2024-07-13,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI8027,2024-07-10,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI8031,2024-07-23,1,Protests,Peaceful protest,Protesters (Sri Lanka),Lawyers (Sri Lanka); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Borella,6.9177,79.8742,1,National,0,LKA
+SRI8032,2024-07-24,2,Violence against civilians,Attack,Unidentified Armed Group (Sri Lanka),,Civilians (Sri Lanka),Farmers (Sri Lanka); Tamil Ethnic Group (Sri Lanka),Sri Lanka,Northern,Mullaitivu,Thunukkai,9.15,80.2666,1,National-International,0,LKA
+SRI8034,2024-07-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),IUSF: Inter University Students' Federation; Students (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI8035,2024-07-25,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI8036,2024-07-23,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Battaramulla South,6.8964,79.9181,1,National,0,LKA
+SRI8037,2024-07-09,1,Protests,Peaceful protest,Protesters (Sri Lanka),Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Sabaragamuwa,Ratnapura,Balangoda,6.6466,80.7007,1,National,0,LKA
+SRI8038,2024-07-23,1,Protests,Peaceful protest,Protesters (Sri Lanka),Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Talawakelle,6.9355,80.6498,1,National,0,LKA
+SRI8039,2024-07-24,1,Protests,Peaceful protest,Protesters (Sri Lanka),Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Talawakelle,6.9355,80.6498,1,National,0,LKA
+SRI8040,2024-07-25,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Kilinochchi,Kilinochchi,9.3961,80.3982,1,National,0,LKA
+SRI8041,2024-07-24,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National-International,0,LKA
+SRI8044,2024-07-24,1,Protests,Peaceful protest,Protesters (Sri Lanka),Teachers (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National,0,LKA
+SRI8045,2024-07-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),Teachers (Sri Lanka),,,Sri Lanka,Western,Colombo,Battaramulla South,6.8964,79.9181,1,National,0,LKA
+SRI8047,2024-07-25,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Mannar,Pesalai West,9.0833,79.8167,1,National,0,LKA
+SRI8048,2024-07-23,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National,0,LKA
+SRI8051,2024-07-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Central,Kandy,Kundasale,7.2737,80.7001,1,National,0,LKA
+SRI8052,2024-07-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Rajagiriya,6.9174,79.8896,1,National,0,LKA
+SRI7703,2024-03-24,2,Protests,Peaceful protest,Protesters (Sri Lanka),Buddhist Group (Sri Lanka),,,Sri Lanka,Western,Kalutara,Panadura,6.7132,79.9026,1,National,0,LKA
+SRI8056,2024-07-29,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National-International,0,LKA
+SRI8057,2024-08-02,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Battaramulla South,6.8964,79.9181,1,National,0,LKA
+SRI8058,2024-08-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Talawakelle,6.9355,80.6498,1,National,0,LKA
+SRI8062,2024-07-30,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National,0,LKA
+SRI8064,2024-08-01,1,Riots,Mob violence,Rioters (Sri Lanka),,Rioters (Sri Lanka),,Sri Lanka,Northern,Kilinochchi,Kilinochchi,9.3961,80.3982,1,National,0,LKA
+SRI8065,2024-07-29,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Eastern,Batticaloa,Vavunathivu,7.7166,81.7,1,National,0,LKA
+SRI8066,2024-07-29,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Kilinochchi,Kilinochchi,9.3961,80.3982,1,National,0,LKA
+SRI8068,2024-08-06,2,Riots,Mob violence,Rioters (Sri Lanka),,Rioters (Sri Lanka),,Sri Lanka,North Western,Puttalam,Vanathavilluwa,8.1885,79.8599,1,National,0,LKA
+SRI8072,2024-07-07,2,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,2,National,0,LKA
+SRI8073,2024-08-07,2,Protests,Peaceful protest,Protesters (Sri Lanka),IUSF: Inter University Students' Federation; Students (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI8075,2024-08-16,1,Protests,Peaceful protest,Protesters (Sri Lanka),Farmers (Sri Lanka),,,Sri Lanka,Central,Matale,Dambulla,7.86,80.6517,1,National,0,LKA
+SRI8076,2024-08-15,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Eastern,Batticaloa,Vavunathivu,7.7166,81.7,1,National,0,LKA
+SRI8077,2024-08-14,2,Protests,Peaceful protest,Protesters (Sri Lanka),Farmers (Sri Lanka),,,Sri Lanka,North Central,Polonnaruwa,Damminna,7.7507,81.2146,1,National,0,LKA
+SRI8078,2024-08-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Cheddikulam,8.6659,80.3138,1,National-International,0,LKA
+SRI8079,2024-08-12,1,Strategic developments,Other,Protesters (Sri Lanka),Government of Sri Lanka (2019-2024),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,National,0,LKA
+SRI8080,2024-08-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),Government of Sri Lanka (2019-2024),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI8083,2024-08-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI8086,2024-08-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Uva,Moneragala,Wellawaya,6.7369,81.1027,1,National,0,LKA
+SRI8050,2024-07-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Sabaragamuwa,Ratnapura,Kalthota,6.6594,80.871,1,National,0,LKA
+SRI8087,2024-08-28,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Sri Lanka),,Civilians (Sri Lanka),NPP: National People's Power,Sri Lanka,Western,Gampaha,Mirigama,7.2439,80.1212,1,National,0,LKA
+SRI8091,2024-08-28,1,Protests,Peaceful protest,Protesters (Sri Lanka),Students (Sri Lanka),,,Sri Lanka,Sabaragamuwa,Ratnapura,Belihuloya,6.7181,80.7671,1,National,0,LKA
+SRI8092,2024-08-30,1,Protests,Peaceful protest,Protesters (Sri Lanka),Christian Group (Sri Lanka); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Kilinochchi,Kilinochchi,9.3961,80.3982,1,National,0,LKA
+SRI8093,2024-08-30,1,Protests,Peaceful protest,Protesters (Sri Lanka),Christian Group (Sri Lanka); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National,0,LKA
+SRI8096,2024-08-30,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI8098,2024-08-26,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Central,Nuwara Eliya,Nanu Oya,6.9417,80.7453,1,National,0,LKA
+SRI8100,2024-08-25,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,North Western,Puttalam,Puttalam,8.0362,79.8283,1,National,0,LKA
+SRI8101,2024-08-27,2,Violence against civilians,Attack,SJB: Samagi Jana Balavegaya,,Civilians (Sri Lanka),NPP: National People's Power,Sri Lanka,Western,Gampaha,Minuwangoda,7.1663,79.9533,1,National,0,LKA
+SRI8106,2024-09-03,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Nuwara Eliya,6.9707,80.7828,1,National,0,LKA
+SRI8107,2024-09-03,2,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Uva,Badulla,Badulla,6.9895,81.0557,1,National,0,LKA
+SRI8108,2024-09-05,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Western,Gampaha,Gampaha,7.0897,79.9925,1,National,0,LKA
+SRI8109,2024-09-05,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Western,Kalutara,Panadura,6.7132,79.9026,1,National,0,LKA
+SRI8110,2024-09-03,1,Protests,Peaceful protest,Protesters (Sri Lanka),GMOA: Government Medical Officers' Association; Health Workers (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI8111,2024-09-05,1,Protests,Peaceful protest,Protesters (Sri Lanka),GMOA: Government Medical Officers' Association; Health Workers (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI8112,2024-09-05,1,Protests,Peaceful protest,Protesters (Sri Lanka),Indian Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Nuwara Eliya,6.9707,80.7828,1,National,0,LKA
+SRI8113,2024-09-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Nepal),,,Sri Lanka,Eastern,Ampara,Ampara,7.2975,81.682,1,National,0,LKA
+SRI8114,2024-09-05,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); Students (Sri Lanka); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Vantharumoolai,7.7995,81.5773,1,National,0,LKA
+SRI8115,2024-09-02,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National,0,LKA
+SRI8120,2024-09-02,2,Protests,Peaceful protest,Protesters (Sri Lanka),Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka); Students (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Watawala,6.9442,80.5377,1,National,0,LKA
+SRI8121,2024-09-04,1,Protests,Peaceful protest,Protesters (Sri Lanka),Women (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Lindula,6.9217,80.685,1,National,0,LKA
+SRI8124,2024-09-13,1,Riots,Mob violence,Rioters (Sri Lanka),,Civilians (Sri Lanka),NPP: National People's Power,Sri Lanka,Uva,Moneragala,Monaragala,6.8714,81.3487,1,National,0,LKA
+SRI8125,2024-09-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),Students (Sri Lanka); Teachers (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Bogawantalawa,6.7957,80.6746,1,National,0,LKA
+SRI8126,2024-09-13,1,Protests,Peaceful protest,Protesters (Sri Lanka),Students (Sri Lanka); Teachers (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Bogawantalawa,6.7957,80.6746,1,National,0,LKA
+SRI8127,2024-09-13,1,Violence against civilians,Attack,Unidentified Armed Group (Sri Lanka),,Civilians (Sri Lanka),,Sri Lanka,Southern,Galle,Balapitiya,6.278,80.0366,1,National,0,LKA
+SRI8128,2024-09-12,2,Riots,Mob violence,Rioters (Sri Lanka),,Civilians (Sri Lanka),SLFP: Sri Lanka Freedom Party,Sri Lanka,Southern,Hambantota,Hambantota,6.1241,81.1185,1,National,0,LKA
+SRI8133,2024-09-09,2,Protests,Peaceful protest,Protesters (Sri Lanka),Teachers (Sri Lanka),,,Sri Lanka,North Western,Kurunegala,Ambanpola,7.9204,80.2351,1,National,0,LKA
+SRI8137,2024-09-17,1,Violence against civilians,Attack,Unidentified Armed Group (Sri Lanka),,Civilians (Sri Lanka),SLFP: Sri Lanka Freedom Party,Sri Lanka,Western,Colombo,Panagoda,6.8624,80.0239,1,National,1,LKA
+SRI8138,2024-09-18,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,North Western,Kurunegala,Alawwa,7.2971,80.2343,1,National,0,LKA
+SRI8139,2024-09-18,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,North Western,Puttalam,Anamaduwa,7.8786,80.008,1,National,0,LKA
+SRI8140,2024-09-18,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Sabaragamuwa,Ratnapura,Balangoda,6.6466,80.7007,1,National,0,LKA
+SRI8141,2024-09-18,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Battaramulla South,6.8964,79.9181,1,National,0,LKA
+SRI8142,2024-09-16,2,Riots,Mob violence,Rioters (Sri Lanka),NPP: National People's Power,Civilians (Sri Lanka),SJB: Samagi Jana Balavegaya,Sri Lanka,Uva,Moneragala,Bibile,7.1577,81.2192,1,National,0,LKA
+SRI8143,2024-09-18,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,North Western,Kurunegala,Kurunegala,7.4863,80.3623,1,National,0,LKA
+SRI8144,2024-09-18,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Southern,Galle,Labuduwa,6.0776,80.2325,1,National,0,LKA
+SRI8145,2024-09-18,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Gampaha,Mirigama,7.2439,80.1212,1,National,0,LKA
+SRI8146,2024-09-18,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Central,Matale,Naula,7.7047,80.6541,1,National,0,LKA
+SRI8147,2024-09-15,1,Riots,Mob violence,Rioters (Sri Lanka),SJB: Samagi Jana Balavegaya,Civilians (Sri Lanka),NPP: National People's Power,Sri Lanka,Central,Kandy,Nawalapitiya,7.0534,80.5321,1,National,0,LKA
+SRI8148,2024-09-20,2,Strategic developments,Looting/property destruction,Unidentified Armed Group (Sri Lanka),,Civilians (Sri Lanka),,Sri Lanka,Sabaragamuwa,Ratnapura,Ratnapura,6.6828,80.3992,2,National,0,LKA
+SRI8149,2024-09-18,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Southern,Hambantota,Tangalle,6.024,80.7911,1,National,0,LKA
+SRI8153,2024-09-25,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Sabaragamuwa,Kegalle,Dippitiya,7.1802,80.4583,1,National,0,LKA
+SRI8154,2024-09-25,2,Riots,Mob violence,Rioters (Sri Lanka),,Rioters (Sri Lanka),,Sri Lanka,Central,Matale,Wilgamuwa,7.5167,80.9333,1,National,1,LKA
+SRI8136,2024-09-12,1,Riots,Mob violence,Rioters (Sri Lanka),PNF: Patriotic National Front,Civilians (Sri Lanka),,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7474,2024-01-05,1,Protests,Protest with intervention,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),Police Forces of Sri Lanka (2019-2024),,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National,0,LKA
+SRI7484,2024-01-08,1,Protests,Peaceful protest,Protesters (Sri Lanka),Christian Group (Sri Lanka); Former Government of Sri Lanka (2019-2024); Government of Sri Lanka (2019-2024),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7485,2024-01-09,1,Protests,Peaceful protest,Protesters (Sri Lanka),Former Government of Sri Lanka (2019-2024); Government of Sri Lanka (2019-2024); SJB: Samagi Jana Balavegaya,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7505,2024-01-18,1,Protests,Peaceful protest,Protesters (Sri Lanka),Former Government of Sri Lanka (2019-2024); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Mullaitivu,Alampil North,9.187,80.84,1,National,0,LKA
+SRI7506,2024-01-16,1,Protests,Peaceful protest,Protesters (Sri Lanka),ACTC: All Ceylon Tamil Congress; Former Government of Sri Lanka (2019-2024); Government of Sri Lanka (2019-2024); Hindu Group (Sri Lanka); ITAK: Illankai Tamil Arasu Kachchi; Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Nallur,9.6667,80.0333,1,National-International,0,LKA
+SRI7507,2024-01-16,1,Protests,Peaceful protest,Protesters (Sri Lanka),Farmers (Sri Lanka); Former Government of Sri Lanka (2019-2024); Government of Sri Lanka (2019-2024); ITAK: Illankai Tamil Arasu Kachchi; Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National-International,0,LKA
+SRI7516,2024-01-18,1,Riots,Mob violence,Rioters (Sri Lanka),,Police Forces of Sri Lanka (2019-2024),,Sri Lanka,North Western,Kurunegala,Kurunegala,7.4863,80.3623,1,National,0,LKA
+SRI7535,2024-01-30,1,Riots,Violent demonstration,Rioters (Sri Lanka),Civilians (Sri Lanka); Former Government of Sri Lanka (2019-2024); Government of Sri Lanka (2019-2024); Journalists (Sri Lanka); Labor Group (Sri Lanka); SJB: Samagi Jana Balavegaya; STB: Samagi Tharuna Balawegaya; SVB: Samagi Vanitha Balawegaya; Women (Sri Lanka),Police Forces of Sri Lanka (2019-2024),,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7536,2024-01-31,1,Protests,Protest with intervention,Protesters (Sri Lanka),Labor Group (Sri Lanka),Police Forces of Sri Lanka (2019-2024),,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7538,2024-01-29,1,Protests,Protest with intervention,Protesters (Sri Lanka),IUSF: Inter University Students' Federation; Students (Sri Lanka),Police Forces of Sri Lanka (2019-2024),,Sri Lanka,Western,Gampaha,Kelaniya,6.9553,79.922,1,National,0,LKA
+SRI7547,2024-01-27,1,Protests,Peaceful protest,Protesters (Sri Lanka),Government of Sri Lanka (2019-2024); Journalists (Sri Lanka); Tamil Ethnic Group (Sri Lanka); TELO: Tamil Eelam Liberation Organization,,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National-International,0,LKA
+SRI7550,2024-02-05,2,Violence against civilians,Attack,Police Forces of Sri Lanka (2019-2024),,Civilians (Sri Lanka),Prisoners (India); Students (Sri Lanka); Tamil Ethnic Group (Sri Lanka),Sri Lanka,Northern,Jaffna,Vaddukoddai,9.7233,79.9401,1,International,0,LKA
+SRI7555,2024-02-09,1,Protests,Peaceful protest,Protesters (Sri Lanka),Former Government of Sri Lanka (2019-2024),,,Sri Lanka,Northern,Jaffna,Ampan,9.7167,80.2667,1,National,0,LKA
+SRI7556,2024-02-05,1,Protests,Peaceful protest,Protesters (Sri Lanka),Former Government of Sri Lanka (2019-2024),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7557,2024-02-04,2,Protests,Peaceful protest,Protesters (Sri Lanka),Former Government of Sri Lanka (2019-2024),,,Sri Lanka,Western,Colombo,Borella,6.9177,79.8742,1,National,0,LKA
+SRI7558,2024-02-04,1,Protests,Peaceful protest,Protesters (Sri Lanka),Former Government of Sri Lanka (2019-2024); Government of Sri Lanka (2019-2024); ITAK: Illankai Tamil Arasu Kachchi; Students (Sri Lanka); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Kallady,7.7086,81.7154,1,National,0,LKA
+SRI7574,2024-02-03,1,Strategic developments,Arrests,Military Forces of Sri Lanka (2019-2024),,Civilians (India),Fishers (India),Sri Lanka,Northern,Jaffna,Delft Island,9.5198,79.6849,1,National-Regional,0,LKA
+SRI7576,2024-02-04,1,Protests,Protest with intervention,Protesters (Sri Lanka),Former Government of Sri Lanka (2019-2024); Government of Sri Lanka (2019-2024); ITAK: Illankai Tamil Arasu Kachchi; Students (Sri Lanka); Tamil Ethnic Group (Sri Lanka),Police Forces of Sri Lanka (2019-2024),,Sri Lanka,Northern,Kilinochchi,Iranamadu,9.3484,80.4133,1,National-International,0,LKA
+SRI7595,2024-02-16,1,Riots,Violent demonstration,Rioters (Sri Lanka),Labor Group (Sri Lanka),Police Forces of Sri Lanka (2019-2024),,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7635,2024-03-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Former Government of Sri Lanka (2019-2024); Government of Sri Lanka (2019-2024); JVP: Janatha Vimukthi Peramuna; TNA: Tamil National Alliance; TNPF: Tamil National People's Front,,,Sri Lanka,Eastern,Ampara,Thirukkovil,7.1203,81.849,1,National,0,LKA
+SRI7641,2024-03-08,1,Violence against civilians,Attack,Police Forces of Sri Lanka (2019-2024),Police Forces of Sri Lanka (2019-2024) Special Task Force,Civilians (Sri Lanka),Government of Sri Lanka (2019-2024); Hindu Group (Sri Lanka); TNPF: Tamil National People's Front,Sri Lanka,Northern,Vavuniya,Vavuniya North,9.0044,80.576,1,International,0,LKA
+SRI7650,2024-03-05,1,Protests,Peaceful protest,Protesters (Sri Lanka),Fishers (Sri Lanka); Former Government of Sri Lanka (2019-2024); Government of Sri Lanka (2019-2024); ITAK: Illankai Tamil Arasu Kachchi; Lawyers (Sri Lanka); Tamil Ethnic Group (Sri Lanka); TNPF: Tamil National People's Front,,,Sri Lanka,Northern,Jaffna,Pungudutivu,9.5825,79.8087,1,National,0,LKA
+SRI7655,2024-03-06,1,Protests,Protest with intervention,Protesters (Sri Lanka),IUSF: Inter University Students' Federation; Students (Sri Lanka),Police Forces of Sri Lanka (2019-2024),,Sri Lanka,Western,Colombo,Borella,6.9177,79.8742,1,National,0,LKA
+SRI7656,2024-03-05,1,Riots,Violent demonstration,Rioters (Sri Lanka),Labor Group (Sri Lanka),Civilians (Sri Lanka),Labor Group (Sri Lanka); Police Forces of Sri Lanka (2019-2024),Sri Lanka,Uva,Moneragala,Sevanagala,6.3635,80.9197,1,National,0,LKA
+SRI7657,2024-03-05,1,Riots,Violent demonstration,Rioters (Sri Lanka),Students (Sri Lanka),Police Forces of Sri Lanka (2019-2024),,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7659,2024-03-09,1,Strategic developments,Arrests,Military Forces of Sri Lanka (2019-2024),,Civilians (India),Fishers (India),Sri Lanka,Northern,Jaffna,Karainagar,9.743,79.8728,1,National,0,LKA
+SRI7660,2024-03-11,1,Protests,Peaceful protest,Protesters (Sri Lanka),Christian Group (Sri Lanka); Government of Sri Lanka (2019-2024); Hindu Group (Sri Lanka); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Nallur,9.6667,80.0333,1,National-International,0,LKA
+SRI7665,2024-03-15,1,Protests,Peaceful protest,Protesters (Sri Lanka),Christian Group (Sri Lanka); Former Government of Sri Lanka (2019-2024); Government of Sri Lanka (2019-2024); Hindu Group (Sri Lanka); Tamil Ethnic Group (Sri Lanka); TNA: Tamil National Alliance; TNPF: Tamil National People's Front,,,Sri Lanka,Northern,Vavuniya,Nedunkerni,9.0529,80.6583,1,National-International,0,LKA
+SRI7667,2024-03-10,1,Protests,Peaceful protest,Protesters (Sri Lanka),Christian Group (Sri Lanka); Former Government of Sri Lanka (2019-2024); Government of Sri Lanka (2019-2024); Hindu Group (Sri Lanka); Tamil Ethnic Group (Sri Lanka); TELO: Tamil Eelam Liberation Organization; TNPF: Tamil National People's Front,,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National-International,0,LKA
+SRI7671,2024-03-11,1,Strategic developments,Disrupted weapons use,Police Forces of Sri Lanka (2019-2024),Police Forces of Sri Lanka (2019-2024) Special Task Force,Unidentified Armed Group (Sri Lanka),,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National,0,LKA
+SRI7682,2024-03-17,1,Strategic developments,Arrests,Military Forces of Sri Lanka (2019-2024),,Civilians (India),Fishers (India),Sri Lanka,Northern,Jaffna,Delft Island,9.5198,79.6849,1,National-Regional,0,LKA
+SRI7748,2024-04-03,1,Protests,Protest with intervention,Protesters (Sri Lanka),Students (Sri Lanka),Police Forces of Sri Lanka (2019-2024),,Sri Lanka,Western,Colombo,Moratuwa,6.773,79.8816,1,National,0,LKA
+SRI7760,2024-04-07,1,Violence against civilians,Attack,Police Forces of Sri Lanka (2019-2024),,Civilians (Sri Lanka),,Sri Lanka,North Central,Anuradhapura,Medawachchiya,8.5345,80.4923,1,National-International,0,LKA
+SRI7776,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Former Government of Sri Lanka (2019-2024); Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Bogawantalawa,6.7957,80.6746,1,National,0,LKA
+SRI7780,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Former Government of Sri Lanka (2019-2024); Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Kotagala,6.9284,80.6061,1,National-International,0,LKA
+SRI7814,2024-05-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Former Government of Sri Lanka (2019-2024); Government of Sri Lanka (2019-2024); ITAK: Illankai Tamil Arasu Kachchi; Labor Group (Sri Lanka); TPA: Tamil Progressive Alliance,,,Sri Lanka,Northern,Kilinochchi,Kilinochchi,9.3961,80.3982,1,National-International,0,LKA
+SRI7816,2024-04-28,1,Protests,Peaceful protest,Protesters (Sri Lanka),Government of Sri Lanka (2019-2024); Journalists (Sri Lanka); TELO: Tamil Eelam Liberation Organization,,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National-International,0,LKA
+SRI7822,2024-05-02,1,Protests,Peaceful protest,Protesters (Sri Lanka),Government of Sri Lanka (2019-2024); Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7829,2024-05-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Buddhist Group (Sri Lanka); Former Government of Sri Lanka (2019-2024); Government of Sri Lanka (2019-2024); Labor Group (Sri Lanka); SJB: Samagi Jana Balavegaya,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7831,2024-05-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Former Government of Sri Lanka (2019-2024); Government of Sri Lanka (2019-2024); Labor Group (Sri Lanka); SLFP: Sri Lanka Freedom Party,,,Sri Lanka,Western,Gampaha,Gampaha,7.0897,79.9925,1,National,0,LKA
+SRI7832,2024-05-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Farmers (Sri Lanka); Former Government of Sri Lanka (2019-2024); Government of Sri Lanka (2019-2024); Labor Group (Sri Lanka); SLPP: Sri Lanka People's Front,,,Sri Lanka,Western,Colombo,Borella,6.9177,79.8742,1,National,0,LKA
+SRI7837,2024-05-02,1,Protests,Peaceful protest,Protesters (Sri Lanka),Former Government of Sri Lanka (2019-2024); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Mullaitivu,Alampil North,9.187,80.84,1,National-International,0,LKA
+SRI7840,2024-05-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Government of Sri Lanka (2019-2024); Labor Group (Sri Lanka); Lawyers (Sri Lanka); TNPF: Tamil National People's Front,,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National-International,0,LKA
+SRI7841,2024-05-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Former Government of Sri Lanka (2019-2024); Government of Sri Lanka (2019-2024); Labor Group (Sri Lanka); SLPP: Sri Lanka People's Front; UNP: United National Party,,,Sri Lanka,Western,Colombo,Maligawatte,6.9372,79.8709,1,Other-National,0,LKA
+SRI7845,2024-05-03,1,Protests,Protest with intervention,Protesters (Sri Lanka),Health Workers (Sri Lanka); Students (Sri Lanka),Police Forces of Sri Lanka (2019-2024),,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7848,2024-05-06,1,Riots,Violent demonstration,Rioters (Sri Lanka),Labor Group (Sri Lanka),Police Forces of Sri Lanka (2019-2024),,Sri Lanka,North Central,Anuradhapura,Anuradhapura,8.3123,80.4131,1,National,0,LKA
+SRI7858,2024-05-13,1,Protests,Peaceful protest,Protesters (Sri Lanka),Government of Sri Lanka (2019-2024); SJB: Samagi Jana Balavegaya,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7872,2024-05-13,1,Protests,Protest with intervention,Protesters (Sri Lanka),Labor Group (Sri Lanka),Police Forces of Sri Lanka (2019-2024),,Sri Lanka,Western,Colombo,Battaramulla South,6.8964,79.9181,1,National,0,LKA
+SRI7881,2024-05-31,1,Strategic developments,Arrests,Police Forces of Sri Lanka (2019-2024),,Civilians (Sri Lanka),,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,Other-National,0,LKA
+SRI7883,2024-03-06,1,Strategic developments,Arrests,Police Forces of Sri Lanka (2019-2024),,Civilians (Sri Lanka),Journalists (Sri Lanka),Sri Lanka,North Western,Kurunegala,Kurunegala,7.4863,80.3623,1,Local partner-Regional,0,LKA
+SRI7884,2024-03-05,1,Strategic developments,Arrests,Police Forces of Sri Lanka (2019-2024),,Civilians (Sri Lanka),Journalists (Sri Lanka),Sri Lanka,Sabaragamuwa,Ratnapura,Pallebedda,6.4544,80.7388,1,Local partner-Regional,0,LKA
+SRI7885,2024-01-29,1,Strategic developments,Arrests,Police Forces of Sri Lanka (2019-2024),,Civilians (Sri Lanka),,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,2,Local partner-Regional,0,LKA
+SRI7889,2024-06-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Government of Sri Lanka (2019-2024),,,Sri Lanka,Central,Nuwara Eliya,Nuwara Eliya,6.9707,80.7828,1,National,0,LKA
+SRI7891,2024-05-31,1,Protests,Peaceful protest,Protesters (Sri Lanka),Former Government of Sri Lanka (2019-2024); Government of Sri Lanka (2019-2024); ITAK: Illankai Tamil Arasu Kachchi; Journalists (Sri Lanka); Tamil Ethnic Group (Sri Lanka); TNPF: Tamil National People's Front,,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI7892,2024-05-30,1,Protests,Peaceful protest,Protesters (Sri Lanka),Government of Sri Lanka (2019-2024); ITAK: Illankai Tamil Arasu Kachchi; Lawyers (Sri Lanka); Tamil Ethnic Group (Sri Lanka); TNPF: Tamil National People's Front,,,Sri Lanka,Northern,Jaffna,Chulipuram,9.7659,79.9462,1,National,0,LKA
+SRI7913,2024-06-05,1,Protests,Peaceful protest,Protesters (Sri Lanka),CPSL: Communist Party of Sri Lanka; Government of Sri Lanka (2019-2024); MJP: Mawbima Janatha Party; NFF: National Freedom Front; PHU: Pivithuru Hela Urumaya; Sarvajana Balaya,,,Sri Lanka,Western,Colombo,Battaramulla South,6.8964,79.9181,1,National,0,LKA
+SRI7916,2024-05-29,1,Protests,Peaceful protest,Protesters (Sri Lanka),Government of Sri Lanka (2019-2024); SLFP: Sri Lanka Freedom Party,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7947,2024-06-11,1,Protests,Protest with intervention,Protesters (Sri Lanka),,Police Forces of Sri Lanka (2019-2024),,Sri Lanka,Eastern,Trincomalee,Muttur,8.4585,81.2687,1,National,0,LKA
+SRI7967,2024-06-18,1,Protests,Protest with intervention,Protesters (Sri Lanka),Labor Group (Sri Lanka),Police Forces of Sri Lanka (2019-2024),,Sri Lanka,Western,Colombo,Battaramulla South,6.8964,79.9181,1,National,0,LKA
+SRI7985,2024-06-25,1,Protests,Protest with intervention,Protesters (Sri Lanka),Catholic Christian Group (Sri Lanka); Government of Sri Lanka (2019-2024); ITAK: Illankai Tamil Arasu Kachchi; SJB: Samagi Jana Balavegaya,Police Forces of Sri Lanka (2019-2024),,Sri Lanka,Eastern,Trincomalee,Muttur,8.4585,81.2687,1,National,0,LKA
+SRI7986,2024-06-26,1,Protests,Protest with intervention,Protesters (Sri Lanka),Labor Group (Sri Lanka); Teachers (Sri Lanka),Police Forces of Sri Lanka (2019-2024),,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7987,2024-06-22,1,Strategic developments,Arrests,Military Forces of Sri Lanka (2019-2024),,Civilians (India),Fishers (India),Sri Lanka,Northern,Jaffna,Delft Island,9.5198,79.6849,1,National-Regional,0,LKA
+SRI7997,2024-07-01,1,Strategic developments,Arrests,Military Forces of Sri Lanka (2019-2024),,Civilians (India),Fishers (India),Sri Lanka,Northern,Jaffna,Delft Island,9.5198,79.6849,2,Other-Regional,0,LKA
+SRI8014,2024-07-11,1,Strategic developments,Arrests,Police Forces of Sri Lanka (2019-2024),,Civilians (Sri Lanka),LTTE: Liberation Tigers of Tamil Eelam,Sri Lanka,Western,Gampaha,Katana,7.1942,79.8912,1,National,0,LKA
+SRI8015,2024-07-16,1,Violence against civilians,Attack,Police Forces of Sri Lanka (2019-2024),,Civilians (Sri Lanka),,Sri Lanka,Northern,Kilinochchi,Paranthan,9.4413,80.4002,1,National,0,LKA
+SRI8016,2024-07-15,1,Strategic developments,Other,Government of Sri Lanka (2019-2024),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,2,National,0,LKA
+SRI8030,2024-07-10,1,Strategic developments,Other,Government of Sri Lanka (2019-2024),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,National,0,LKA
+SRI8033,2024-07-26,1,Protests,Peaceful protest,Protesters (Sri Lanka),Government of Sri Lanka (2019-2024); SJB: Samagi Jana Balavegaya,,,Sri Lanka,Western,Gampaha,Yakkala,7.0869,80.0271,1,National,0,LKA
+SRI8053,2024-07-28,1,Protests,Peaceful protest,Protesters (Sri Lanka),Buddhist Group (Sri Lanka); Government of Sri Lanka (2019-2024); SLFP: Sri Lanka Freedom Party; SLPP: Sri Lanka People's Front,,,Sri Lanka,Western,Kalutara,Alubomulla,6.7085,79.9489,1,National,0,LKA
+SRI8055,2024-07-27,1,Riots,Mob violence,Rioters (Sri Lanka),,Civilians (Sri Lanka),Government of Sri Lanka (2019-2024),Sri Lanka,Northern,Kilinochchi,Kilinochchi,9.3961,80.3982,1,National,0,LKA
+SRI8059,2024-07-28,1,Protests,Peaceful protest,Protesters (Sri Lanka),Former Government of Sri Lanka (2019-2024); Government of Sri Lanka (2019-2024); Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka); TPA: Tamil Progressive Alliance,,,Sri Lanka,Central,Nuwara Eliya,Hatton,6.8916,80.5955,1,National,0,LKA
+SRI8071,2024-08-01,1,Strategic developments,Other,Military Forces of Sri Lanka (2019-2024),,Civilians (India),Fishers (India),Sri Lanka,Northern,Jaffna,Delft Island,9.5198,79.6849,1,National-Regional,1,LKA
+SRI8074,2024-08-16,1,Protests,Peaceful protest,Protesters (Sri Lanka),Former Government of Sri Lanka (2019-2024); Government of Sri Lanka (2019-2024); TELO: Tamil Eelam Liberation Organization; TNPF: Tamil National People's Front,,,Sri Lanka,Northern,Mullaitivu,Mallavi,9.1333,80.2833,1,National,0,LKA
+SRI8082,2024-08-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),Government of Sri Lanka (2019-2024); NFF: National Freedom Front; Sarvajana Balaya,,,Sri Lanka,Western,Colombo,Battaramulla South,6.8964,79.9181,1,National,0,LKA
+SRI8084,2024-08-20,1,Protests,Peaceful protest,Protesters (Sri Lanka),Former Government of Sri Lanka (2019-2024); Government of Sri Lanka (2019-2024); Tamil Ethnic Group (Sri Lanka); TNPF: Tamil National People's Front,,,Sri Lanka,Northern,Mullaitivu,Kokkuthoduvai,9.05,80.917,1,National,0,LKA
+SRI8090,2024-08-28,2,Protests,Peaceful protest,Protesters (Sri Lanka),Former Military Forces of Sri Lanka (2019-2024),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI8102,2024-09-05,2,Violence against civilians,Attack,Police Forces of Sri Lanka (2019-2024),,Civilians (Sri Lanka),,Sri Lanka,Western,Colombo,Moratuwa,6.773,79.8816,1,National,0,LKA
+SRI8103,2024-08-31,2,Protests,Peaceful protest,Protesters (Sri Lanka),Former Government of Sri Lanka (2019-2024),,,Sri Lanka,North Western,Puttalam,Puttalam,8.0362,79.8283,1,National,0,LKA
+SRI8116,2024-09-04,1,Strategic developments,Arrests,Police Forces of Sri Lanka (2019-2024),,Civilians (Sri Lanka),,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,National,0,LKA
+SRI8117,2024-08-28,1,Violence against civilians,Attack,Police Forces of Sri Lanka (2019-2024),,Civilians (Sri Lanka),Tamil Ethnic Group (Sri Lanka),Sri Lanka,Northern,Jaffna,Chunnakam,9.7375,80.0251,1,International,0,LKA
+SRI8119,2024-09-06,2,Strategic developments,Other,Government of Sri Lanka (2019-2024),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,National,0,LKA
+SRI8123,2024-09-10,1,Strategic developments,Other,Government of Sri Lanka (2019-2024),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,National,0,LKA
+SRI8130,2024-09-10,1,Protests,Protest with intervention,Protesters (Sri Lanka),Buddhist Group (Sri Lanka); IUSF: Inter University Students' Federation; Students (Sri Lanka),Police Forces of Sri Lanka (2019-2024),,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI8132,2024-09-07,1,Strategic developments,Arrests,Police Forces of Sri Lanka (2019-2024),,Civilians (India),Fishers (India),Sri Lanka,Northern,Jaffna,Delft Island,9.5198,79.6849,1,National,0,LKA
+SRI8135,2024-09-13,1,Strategic developments,Arrests,Police Forces of Sri Lanka (2019-2024),,Civilians (Sri Lanka),Government of Sri Lanka (2019-2024); TNPF: Tamil National People's Front,Sri Lanka,Northern,Mullaitivu,Puthukudiyiruppu,9.3106,80.6946,1,International,0,LKA
+SRI8150,2024-09-20,1,Strategic developments,Other,Government of Sri Lanka (2019-2024),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,National,0,LKA
+SRI8152,2024-09-21,1,Strategic developments,Other,Government of Sri Lanka (2019-2024),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,International,0,LKA
+SRI8155,2024-09-27,1,Protests,Peaceful protest,Protesters (Sri Lanka),Buddhist Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI8156,2024-10-03,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Chankanai,9.75,79.9667,1,National,0,LKA
+SRI8157,2024-10-02,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,North Central,Anuradhapura,Habarana,8.0363,80.7467,1,National,0,LKA
+SRI8158,2024-10-03,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,North Central,Anuradhapura,Habarana,8.0363,80.7467,1,National,0,LKA
+SRI8160,2024-10-03,1,Protests,Peaceful protest,Protesters (Sri Lanka),Students (Sri Lanka); Teachers (Sri Lanka),,,Sri Lanka,Central,Matale,Matale,7.4698,80.6217,1,National,0,LKA
+SRI8163,2024-10-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National-International,0,LKA
+SRI8164,2024-10-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI8166,2024-09-30,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Battaramulla South,6.8964,79.9181,1,National,0,LKA
+SRI8168,2024-09-30,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Southern,Galle,Elpitiya,6.2908,80.1626,1,National,0,LKA
+SRI8169,2024-10-03,1,Protests,Peaceful protest,Protesters (Sri Lanka),Women (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI8170,2024-10-09,1,Strategic developments,Other,Military Forces of Sri Lanka (2024-),,Civilians (India),Fishers (India),Sri Lanka,Northern,Jaffna,Delft Island,9.5198,79.6849,1,National,0,LKA
+SRI8171,2024-10-09,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Eastern,Ampara,Periyaneelavanai,7.4516,81.8142,1,National,0,LKA
+SRI8173,2024-10-07,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7537,2024-02-01,1,Strategic developments,Other,Protesters (Sri Lanka),Health Workers (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,Other-National,0,LKA
+SRI7566,2024-02-09,1,Protests,Peaceful protest,Protesters (Sri Lanka),Muslim Group (Sri Lanka),,,Sri Lanka,Eastern,Ampara,Kalmunai,7.409,81.8347,1,National,0,LKA
+SRI7577,2024-02-13,1,Strategic developments,Other,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,Other-National,0,LKA
+SRI7680,2024-03-15,1,Strategic developments,Other,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,Other-National,0,LKA
+SRI7704,2024-03-25,1,Protests,Peaceful protest,Protesters (Sri Lanka),Buddhist Group (Sri Lanka); Government of Sri Lanka (2019-2024); Hindu Group (Sri Lanka); Labor Group (Sri Lanka); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Eastern,Ampara,Kalmunai,7.409,81.8347,1,National,0,LKA
+SRI7705,2024-03-27,1,Protests,Peaceful protest,Protesters (Sri Lanka),Buddhist Group (Sri Lanka); Former Government of Sri Lanka (2019-2024); Government of Sri Lanka (2019-2024); Hindu Group (Sri Lanka); Labor Group (Sri Lanka); Tamil Ethnic Group (Sri Lanka); TNA: Tamil National Alliance,,,Sri Lanka,Eastern,Ampara,Kalmunai,7.409,81.8347,1,National,0,LKA
+SRI7715,2024-03-26,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Eastern,Ampara,Kalmunai,7.409,81.8347,1,National-International,0,LKA
+SRI7722,2024-03-31,1,Protests,Peaceful protest,Protesters (Sri Lanka),Christian Group (Sri Lanka),,,Sri Lanka,Eastern,Ampara,Kalmunai,7.409,81.8347,1,National-International,0,LKA
+SRI7739,2024-04-02,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Eastern,Ampara,Kalmunai,7.409,81.8347,1,National,0,LKA
+SRI7743,2024-04-04,1,Protests,Peaceful protest,Protesters (Sri Lanka),Students (Sri Lanka); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Eastern,Ampara,Kalmunai,7.409,81.8347,1,National,0,LKA
+SRI7754,2024-04-09,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,Other-National,0,LKA
+SRI7755,2024-04-07,1,Protests,Peaceful protest,Protesters (Sri Lanka),Lawyers (Sri Lanka); Tamil Ethnic Group (Sri Lanka); TNPF: Tamil National People's Front,,,Sri Lanka,Eastern,Ampara,Kalmunai,7.409,81.8347,1,National,0,LKA
+SRI7762,2024-04-14,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Eastern,Ampara,Kalmunai,7.409,81.8347,1,National,0,LKA
+SRI7764,2024-04-17,1,Protests,Peaceful protest,Protesters (Sri Lanka),Buddhist Group (Sri Lanka); Government of Sri Lanka (2019-2024); Hindu Group (Sri Lanka); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Eastern,Ampara,Kalmunai,7.409,81.8347,1,National,0,LKA
+SRI7801,2024-04-24,1,Protests,Peaceful protest,Protesters (Sri Lanka),Buddhist Group (Sri Lanka); Government of Sri Lanka (2019-2024); Hindu Group (Sri Lanka); Labor Group (Sri Lanka); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Eastern,Ampara,Kalmunai,7.409,81.8347,1,National,0,LKA
+SRI7869,2024-05-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Eastern,Ampara,Kalmunai,7.409,81.8347,1,National,0,LKA
+SRI7882,2024-06-12,1,Strategic developments,Other,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,Other-National,0,LKA
+SRI7903,2024-06-13,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Eastern,Ampara,Kalmunai,7.409,81.8347,1,National,0,LKA
+SRI7936,2024-06-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),CTU: Ceylon Teachers Union; Teachers (Sri Lanka),,,Sri Lanka,Eastern,Ampara,Kalmunai,7.409,81.8347,1,National,0,LKA
+SRI7968,2024-06-26,1,Strategic developments,Other,Protesters (Sri Lanka),Government of Sri Lanka (2019-2024),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,Other-National,0,LKA
+SRI7984,2024-06-24,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Eastern,Ampara,Kalmunai,7.409,81.8347,1,National,0,LKA
+SRI8008,2024-07-09,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Eastern,Ampara,Kalmunai,7.409,81.8347,1,National,0,LKA
+SRI8129,2024-09-11,1,Riots,Mob violence,Rioters (Sri Lanka),,Rioters (Sri Lanka),Police Forces of Sri Lanka (2019-2024),Sri Lanka,Eastern,Ampara,Sainthamarathu,7.3939,81.8339,1,National,0,LKA
+SRI8151,2024-09-21,1,Strategic developments,Other,Government of Sri Lanka (2019-2024),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,Other-National,0,LKA
+SRI8175,2024-10-16,2,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Mannar,Madhu,8.85,80.2,1,International,0,LKA
+SRI8178,2024-10-18,1,Strategic developments,Other,Government of Sri Lanka (2024-),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,National,0,LKA
+SRI8180,2024-10-14,1,Strategic developments,Other,Unidentified Armed Group (Sri Lanka),,Civilians (Sri Lanka),Tamil Ethnic Group (Sri Lanka),Sri Lanka,Northern,Jaffna,Kodikamam,9.6825,80.2214,1,International,0,LKA
+SRI7842,2024-05-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); Women (Sri Lanka),,,Sri Lanka,Western,Gampaha,Katunayake,7.1699,79.8884,1,National,0,LKA
+SRI8181,2024-10-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),Catholic Christian Group (Sri Lanka),,,Sri Lanka,Western,Gampaha,Negombo,7.2168,79.8675,1,National,0,LKA
+SRI8182,2024-10-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),Farmers (Sri Lanka),,,Sri Lanka,Uva,Moneragala,Monaragala,6.8714,81.3487,1,National,0,LKA
+SRI8183,2024-10-20,1,Strategic developments,Other,Government of Sri Lanka (2024-),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,National,0,LKA
+SRI8184,2024-10-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Dikoya,6.8853,80.5938,1,National,0,LKA
+SRI8185,2024-10-22,2,Riots,Mob violence,Rioters (Sri Lanka),NPP: National People's Power,Civilians (Sri Lanka),NDF: National Democratic Front (Sri Lanka),Sri Lanka,Southern,Galle,Galle,6.0367,80.217,1,National,0,LKA
+SRI8187,2024-10-24,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National-International,0,LKA
+SRI8188,2024-10-23,1,Strategic developments,Other,Military Forces of Sri Lanka (2024-),,Civilians (India),Fishers (India),Sri Lanka,Northern,Jaffna,Delft Island,9.5198,79.6849,1,Other-National,0,LKA
+SRI8189,2024-10-24,1,Strategic developments,Other,Government of Sri Lanka (2024-),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI8191,2024-10-19,2,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Sabaragamuwa,Kegalle,Mawanella,7.2519,80.4453,1,National,0,LKA
+SRI8192,2024-10-21,2,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Maradana,6.9271,79.8665,1,National,0,LKA
+SRI8193,2024-10-24,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Gampaha,Pamunugama,7.0873,79.8492,1,National,0,LKA
+SRI8194,2024-10-25,2,Riots,Mob violence,Rioters (Sri Lanka),,Police Forces of Sri Lanka (2024-),,Sri Lanka,North Central,Anuradhapura,Mahavilachchiya,8.4936,80.1922,1,National,0,LKA
+SRI8022,2024-07-09,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); Indian Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Sabaragamuwa,Ratnapura,Pinnawala,6.729,80.6765,1,National,0,LKA
+SRI8019,2024-07-15,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); Indian Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Bogawantalawa,6.7957,80.6746,1,National,0,LKA
+SRI8018,2024-07-14,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); Indian Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Nanu Oya,6.9417,80.7453,1,National,0,LKA
+SRI8017,2024-07-13,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); Indian Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Talawakelle,6.9355,80.6498,1,National,0,LKA
+SRI8011,2024-07-09,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); Indian Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Bambalapitiya,6.8865,79.8563,1,National,0,LKA
+SRI8009,2024-07-09,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); Indian Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Central,Matale,Rattota,7.5205,80.6798,1,National,0,LKA
+SRI8007,2024-07-09,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); Indian Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Sabaragamuwa,Ratnapura,Ratnapura,6.6828,80.3992,2,National,0,LKA
+SRI8005,2024-07-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); Indian Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Talawakelle,6.9355,80.6498,1,National,0,LKA
+SRI7977,2024-06-24,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Labor Group (Sri Lanka); Indian Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Uva,Badulla,Passara,6.9346,81.1574,1,National,0,LKA
+SRI7867,2024-05-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Former Government of Sri Lanka (2019-2024); Labor Group (Sri Lanka); Indian Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Lindula,6.9217,80.685,1,National,0,LKA
+SRI7866,2024-05-16,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Labor Group (Sri Lanka); Indian Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Sabaragamuwa,Ratnapura,Ratnapura,6.6828,80.3992,1,National,0,LKA
+SRI7863,2024-05-16,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); Indian Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Nanu Oya,6.9417,80.7453,1,National,0,LKA
+SRI7813,2024-05-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Former Government of Sri Lanka (2019-2024); Government of Sri Lanka (2019-2024); Labor Group (Sri Lanka); Indian Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Kotagala,6.9284,80.6061,1,National,0,LKA
+SRI7761,2024-04-19,1,Protests,Peaceful protest,Protesters (Sri Lanka),CWC: Ceylon Workers' Congress; Labor Group (Sri Lanka); Indian Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI7561,2024-02-07,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); Indian Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Talawakelle,6.9355,80.6498,1,National,0,LKA
+SRI7542,2024-01-28,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); Indian Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Central,Nuwara Eliya,Hatton,6.8916,80.5955,1,National,0,LKA
+SRI8195,2024-10-30,2,Protests,Peaceful protest,Protesters (Sri Lanka),Students (Sri Lanka),,,Sri Lanka,Sabaragamuwa,Ratnapura,Belihuloya,6.7181,80.7671,1,National,0,LKA
+SRI8196,2024-10-29,2,Protests,Peaceful protest,Protesters (Sri Lanka),Students (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Cheddikulam,8.6659,80.3138,1,National,0,LKA
+SRI8197,2024-10-30,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National,0,LKA
+SRI8200,2024-11-01,1,Strategic developments,Other,Government of Sri Lanka (2024-),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,National,0,LKA
+SRI8201,2024-10-30,1,Strategic developments,Other,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,Other-National,0,LKA
+SRI8203,2024-10-28,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI8204,2024-10-27,1,Riots,Mob violence,Rioters (Sri Lanka),,,,Sri Lanka,Eastern,Ampara,Periyaneelavanai,7.4516,81.8142,1,National,0,LKA
+SRI8207,2024-10-26,2,Riots,Mob violence,Rioters (Sri Lanka),,,,Sri Lanka,Northern,Jaffna,Chavakachcheri,9.6663,80.1581,1,National,0,LKA
+SRI8208,2024-10-26,1,Riots,Mob violence,Rioters (Sri Lanka),,Civilians (Sri Lanka),SLPP: Sri Lanka People's Front; Women (Sri Lanka),Sri Lanka,Western,Colombo,Pannipitiya,6.8462,79.9448,1,National,0,LKA
+SRI8209,2024-10-25,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Central,Nuwara Eliya,Hatton,6.8916,80.5955,1,National,0,LKA
+SRI8212,2024-11-08,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI8213,2024-11-05,1,Protests,Peaceful protest,Protesters (Sri Lanka),Students (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI8215,2024-11-05,1,Riots,Mob violence,Rioters (Sri Lanka),,Civilians (Sri Lanka),DTNA: Democratic Tamil National Alliance,Sri Lanka,Northern,Jaffna,Chavakachcheri,9.6663,80.1581,1,National,0,LKA
+SRI8216,2024-11-05,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Central,Kandy,Nawalapitiya,7.0534,80.5321,1,National,0,LKA
+SRI8214,2024-11-04,2,Violence against civilians,Attack,Unidentified Armed Group (Sri Lanka),,Civilians (Sri Lanka),SJB: Samagi Jana Balavegaya; Labor Group (Sri Lanka),Sri Lanka,Uva,Moneragala,Dambagalla,6.9496,81.3678,1,National,0,LKA
+SRI8210,2024-11-03,1,Riots,Mob violence,Rioters (Sri Lanka),TMVP: Tamil Makkal Viduthalai Pulikal,Civilians (Sri Lanka),NDF: New Democratic Front,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI7752,2024-04-08,1,Violence against civilians,Attack,Military Forces of Sri Lanka (2019-2024),,Civilians (India),Fishers (India),Sri Lanka,Northern,,Coast of Katchatheevu,9.3851,79.5139,2,International,0,LKA
+SRI7681,2024-03-20,1,Strategic developments,Arrests,Military Forces of Sri Lanka (2019-2024),,Civilians (India),Fishers (India),Sri Lanka,Northern,,Coast of Northern,9.3298,79.8404,2,National,0,LKA
+SRI8217,2024-11-14,1,Strategic developments,Other,Government of Sri Lanka (2024-),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,National-International,0,LKA
+SRI8218,2024-11-14,1,Violence against civilians,Attack,Unidentified Armed Group (Sri Lanka),,Civilians (Sri Lanka),Journalists (Sri Lanka),Sri Lanka,Central,Nuwara Eliya,Bogawantalawa,6.7957,80.6746,1,National,0,LKA
+SRI8219,2024-11-14,1,Strategic developments,Other,Government of Sri Lanka (2024-),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,National,0,LKA
+SRI8221,2024-11-14,1,Strategic developments,Arrests,Police Forces of Sri Lanka (2024-),,Civilians (Sri Lanka),,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,National,0,LKA
+SRI8222,2024-11-10,2,Strategic developments,Other,Military Forces of Sri Lanka (2024-),,Civilians (India),Fishers (India),Sri Lanka,Northern,Jaffna,Delft Island,9.5198,79.6849,1,National,0,LKA
+SRI8223,2024-11-09,1,Violence against civilians,Attack,Police Forces of Sri Lanka (2024-),,Civilians (Sri Lanka),Tamil Ethnic Group (Sri Lanka),Sri Lanka,Northern,Jaffna,Chunnakam,9.7375,80.0251,1,National-International,0,LKA
+SRI8224,2024-11-03,1,Strategic developments,Arrests,Police Forces of Sri Lanka (2024-),,Civilians (Sri Lanka),,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,3,Regional,0,LKA
+SRI8225,2024-11-11,1,Riots,Mob violence,Rioters (Sri Lanka),Former Government of Sri Lanka (2024-); SLLP: Sri Lanka Labour Party,Rioters (Sri Lanka),Former Government of Sri Lanka (2024-); SJB: Samagi Jana Balavegaya,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National,0,LKA
+SRI8227,2024-11-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Kalutara,Anguruwathota,6.6362,80.0786,1,National,0,LKA
+SRI8229,2024-11-09,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Chunnakam,9.7375,80.0251,1,National-International,0,LKA
+SRI8230,2024-11-10,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Chunnakam,9.7375,80.0251,1,International,0,LKA
+SRI8233,2024-11-19,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); Students (Sri Lanka),,,Sri Lanka,Southern,Matara,Matara,5.9485,80.5353,1,National,0,LKA
+SRI8234,2024-11-15,1,Riots,Mob violence,Rioters (Sri Lanka),,Civilians (Sri Lanka),SLPP: Sri Lanka People's Front,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI8236,2024-11-19,2,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI8237,2024-11-11,1,Protests,Peaceful protest,Protesters (Sri Lanka),Former Government of Sri Lanka (2024-); NDF: New Democratic Front,,,Sri Lanka,Uva,Badulla,Badulla,6.9895,81.0557,1,National,0,LKA
+SRI8240,2024-11-20,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); Students (Sri Lanka),,,Sri Lanka,Southern,Matara,Matara,5.9485,80.5353,1,National,0,LKA
+SRI8242,2024-11-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),Farmers (Sri Lanka); Labor Group (Sri Lanka); Students (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Vakarai,8.1333,81.4333,1,National,0,LKA
+SRI8244,2024-11-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); Students (Sri Lanka); Teachers (Sri Lanka),,,Sri Lanka,Southern,Matara,Matara,5.9485,80.5353,1,National,0,LKA
+SRI8246,2024-11-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Wellampitiya,6.9422,79.9048,1,National,0,LKA
+SRI8247,2024-11-23,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Battaramulla South,6.8964,79.9181,1,National,0,LKA
+SRI8248,2024-11-24,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Battaramulla South,6.8964,79.9181,1,National,0,LKA
+SRI8249,2024-11-30,1,Riots,Mob violence,Rioters (Sri Lanka),SLPP: Sri Lanka People's Front,Rioters (Sri Lanka),,Sri Lanka,Western,Colombo,Kaduwela,6.9339,79.982,1,National,0,LKA
+SRI8250,2024-12-02,1,Riots,Violent demonstration,Rioters (Sri Lanka),Labor Group (Sri Lanka),Police Forces of Sri Lanka (2024-),,Sri Lanka,Western,Colombo,Battaramulla South,6.8964,79.9181,1,National,0,LKA
+SRI8251,2024-12-06,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Battaramulla South,6.8964,79.9181,1,National,0,LKA
+SRI8254,2024-12-05,1,Protests,Peaceful protest,Protesters (Sri Lanka),Hindu Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI8257,2024-12-13,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI8260,2024-12-11,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI8261,2024-12-10,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI8263,2024-12-10,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National-International,0,LKA
+SRI8266,2024-12-10,1,Protests,Peaceful protest,Protesters (Sri Lanka),Former Government of Sri Lanka (2024-); Government of Sri Lanka (2024-); ITAK: Illankai Tamil Arasu Kachchi; Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National-International,0,LKA
+SRI8269,2024-12-09,1,Protests,Peaceful protest,Protesters (Sri Lanka),Farmers (Sri Lanka),,,Sri Lanka,Eastern,Trincomalee,Muttur,8.4585,81.2687,1,National,0,LKA
+SRI8270,2024-12-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),Students (Sri Lanka),,,Sri Lanka,Eastern,Ampara,Oluvil,7.2945,81.8611,1,National,0,LKA
+SRI8271,2024-12-07,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Sabaragamuwa,Kegalle,Kegalle,7.2523,80.3436,1,National,0,LKA
+SRI7476,2024-01-03,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Jaffna,Udupiddy,9.8036,80.151,1,National,0,LKA
+SRI7617,2024-02-22,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (India),Fishers (India),Civilians (Sri Lanka),Fishers (Sri Lanka),Sri Lanka,Northern,Jaffna,Vadamarachchi East,9.7512,80.2043,1,National,0,LKA
+SRI7810,2024-05-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),EPDP: Eelam People's Democratic Party; Labor Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Point Pedro,9.8166,80.2333,1,National,0,LKA
+SRI7900,2024-06-11,2,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); Private Security Forces (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Point Pedro,9.8166,80.2333,1,National,0,LKA
+SRI7930,2024-06-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),Teachers (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Vadamarachchi East,9.7512,80.2043,1,National,0,LKA
+SRI7945,2024-06-13,1,Violence against civilians,Attack,Unidentified Armed Group (Sri Lanka),,Civilians (Sri Lanka),Journalists (Sri Lanka); Tamil Ethnic Group (Sri Lanka),Sri Lanka,Northern,Jaffna,Achchuveli,9.7666,80.1,1,National-International,0,LKA
+SRI8089,2024-08-23,1,Strategic developments,Other,Military Forces of Sri Lanka (2019-2024),,Civilians (India),Fishers (India),Sri Lanka,Northern,Jaffna,Point Pedro,9.8166,80.2333,1,National-International,0,LKA
+SRI8190,2024-10-18,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Jaffna,Achchuveli,9.7666,80.1,1,National,0,LKA
+SRI8205,2024-10-27,1,Strategic developments,Other,Military Forces of Sri Lanka (2024-),,Civilians (India),Fishers (India),Sri Lanka,Northern,Jaffna,Point Pedro,9.8166,80.2333,1,National,0,LKA
+SRI8220,2024-11-12,1,Strategic developments,Other,Military Forces of Sri Lanka (2024-),,Civilians (India),Fishers (India),Sri Lanka,Northern,Jaffna,Point Pedro,9.8166,80.2333,1,National,0,LKA
+SRI8272,2024-12-22,2,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Jaffna,Valvettithurai,9.822,80.1695,1,National,0,LKA
+SRI8274,2024-12-30,2,Protests,Protest with intervention,Protesters (Sri Lanka),Labor Group (Sri Lanka),Police Forces of Sri Lanka (2024-),,Sri Lanka,North Western,Kurunegala,Bingiriya,7.6135,79.9581,1,National,0,LKA
+SRI8276,2024-12-24,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Kilinochchi,Kilinochchi,9.3961,80.3982,1,National,0,LKA
+SRI8279,2024-12-30,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Vavuniya,Vavuniya,8.7514,80.4971,1,National,0,LKA
+SRI8280,2024-12-30,1,Protests,Peaceful protest,Protesters (Sri Lanka),Farmers (Sri Lanka),,,Sri Lanka,North Central,Anuradhapura,Thirappane,8.2167,80.5167,1,National,0,LKA
+SRI8281,2024-12-14,1,Strategic developments,Other,Unidentified Armed Group (Sri Lanka),,Civilians (Sri Lanka),Christian Group (Sri Lanka),Sri Lanka,Northern,Kilinochchi,Kilinochchi,9.3961,80.3982,1,National,0,LKA
+SRI8282,2024-12-14,1,Protests,Peaceful protest,Protesters (Sri Lanka),Farmers (Sri Lanka),,,Sri Lanka,North Central,Anuradhapura,Anuradhapura,8.3123,80.4131,2,National,0,LKA
+SRI8283,2024-12-17,2,Protests,Peaceful protest,Protesters (Sri Lanka),Former Government of Sri Lanka (2024-); ITAK: Illankai Tamil Arasu Kachchi; Women (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Vavunathivu,7.7166,81.7,1,National,0,LKA
+SRI8284,2024-12-17,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Chavakachcheri,9.6663,80.1581,1,National,0,LKA
+SRI8286,2024-12-19,2,Protests,Peaceful protest,Protesters (Sri Lanka),Farmers (Sri Lanka),,,Sri Lanka,North Central,Polonnaruwa,Aralaganwila,7.7693,81.1744,1,National,0,LKA
+SRI8287,2024-12-17,1,Protests,Peaceful protest,Protesters (Sri Lanka),Students (Sri Lanka),,,Sri Lanka,Sabaragamuwa,Ratnapura,Pambahinna,6.7198,80.7836,1,National,0,LKA
+SRI8289,2024-12-20,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI8290,2024-12-23,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Valaichechenai,7.9194,81.5314,1,National,0,LKA
+SRI8295,2024-12-30,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Eastern,Batticaloa,Batticaloa,7.7102,81.6924,1,National,0,LKA
+SRI8297,2024-12-20,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI8298,2024-12-24,1,Protests,Peaceful protest,Protesters (Sri Lanka),Christian Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National,0,LKA
+SRI8300,2024-12-26,1,Violence against civilians,Attack,Unidentified Armed Group (Sri Lanka),,Civilians (Sri Lanka),Journalists (Sri Lanka); Tamil Ethnic Group (Sri Lanka),Sri Lanka,Northern,Kilinochchi,Kilinochchi,9.3961,80.3982,1,National-International,0,LKA
+SRI8324,2024-12-20,1,Violence against civilians,Attack,Unidentified Armed Group (Sri Lanka),,Civilians (Sri Lanka),Labor Group (Sri Lanka),Sri Lanka,Eastern,Batticaloa,Valaichechenai,7.9194,81.5314,1,National,0,LKA
+SRI7492,2024-01-16,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,National,0,LKA
+SRI7523,2024-01-26,1,Protests,Peaceful protest,Protesters (Sri Lanka),Catholic Christian Group (Sri Lanka); Government of Sri Lanka (2019-2024); ITAK: Illankai Tamil Arasu Kachchi; Muslim Group (Sri Lanka),,,Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,National-International,0,LKA
+SRI7609,2024-02-19,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,National-International,0,LKA
+SRI7644,2024-03-06,1,Protests,Peaceful protest,Protesters (Sri Lanka),Christian Group (Sri Lanka); Fishers (Sri Lanka),,,Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,National,0,LKA
+SRI7716,2024-03-26,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Keerimalai,9.8135,80.0137,1,National-International,0,LKA
+SRI7731,2024-04-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,National,0,LKA
+SRI7740,2024-04-05,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Keerimalai,9.8135,80.0137,1,International,0,LKA
+SRI7753,2024-04-01,1,Violence against civilians,Attack,Police Forces of Sri Lanka (2019-2024),,Civilians (Sri Lanka),Tamil Ethnic Group (Sri Lanka),Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,International,0,LKA
+SRI7757,2024-04-09,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka); Women (Sri Lanka),,,Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,National-International,0,LKA
+SRI7802,2024-04-24,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,National,0,LKA
+SRI7856,2024-05-15,1,Strategic developments,Arrests,Military Forces of Sri Lanka (2019-2024),,Civilians (Sri Lanka),Fishers (Sri Lanka),Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,2,National,0,LKA
+SRI7857,2024-05-13,1,Protests,Peaceful protest,Protesters (Sri Lanka),EPRLF: Eelam People's Revolutionary Liberation Front; Farmers (Sri Lanka); Former Government of Sri Lanka (2019-2024); Government of Sri Lanka (2019-2024); TELO: Tamil Eelam Liberation Organization,,,Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,National,0,LKA
+SRI7920,2024-05-30,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,National-International,0,LKA
+SRI7935,2024-06-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),CTU: Ceylon Teachers Union; Teachers (Sri Lanka),,,Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,Other-National,0,LKA
+SRI7979,2024-06-28,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,National,0,LKA
+SRI8043,2024-07-22,2,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,International,0,LKA
+SRI8060,2024-07-28,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,National-International,0,LKA
+SRI8067,2024-08-05,1,Strategic developments,Other,Military Forces of Sri Lanka (2019-2024),,Civilians (India),Fishers (India),Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,2,National-International,0,LKA
+SRI8070,2024-08-08,1,Strategic developments,Arrests,Military Forces of Sri Lanka (2019-2024),,Civilians (India),Fishers (India),Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,2,National,0,LKA
+SRI8088,2024-08-26,1,Strategic developments,Other,Military Forces of Sri Lanka (2019-2024),,Civilians (India),Fishers (India),Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,National,0,LKA
+SRI8097,2024-08-30,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,National,0,LKA
+SRI8099,2024-08-26,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,National,0,LKA
+SRI8105,2024-09-03,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,National,0,LKA
+SRI8161,2024-09-30,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,National-International,0,LKA
+SRI8165,2024-09-28,1,Strategic developments,Other,Military Forces of Sri Lanka (2024-),,Civilians (India),Fishers (India),Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,Other-National,0,LKA
+SRI8176,2024-10-10,1,Protests,Peaceful protest,Protesters (Sri Lanka),Farmers (Sri Lanka); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,International,0,LKA
+SRI8231,2024-11-07,1,Protests,Peaceful protest,Protesters (Sri Lanka),Former Government of Sri Lanka (2024-); Lawyers (Sri Lanka); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,International,0,LKA
+SRI8235,2024-11-19,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,National,0,LKA
+SRI8241,2024-11-22,2,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Sri Lanka),,Civilians (Sri Lanka),Fishers (Sri Lanka),Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,2,National,0,LKA
+SRI8245,2024-11-20,1,Riots,Violent demonstration,Rioters (Sri Lanka),,Police Forces of Sri Lanka (2024-),,Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,National,0,LKA
+SRI8253,2024-12-04,1,Strategic developments,Other,Military Forces of Sri Lanka (2024-),,Civilians (India),Fishers (India),Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,National-International,0,LKA
+SRI8264,2024-12-10,1,Protests,Peaceful protest,Protesters (Sri Lanka),ACTC: All Ceylon Tamil Congress; Government of Sri Lanka (2024-); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,National,0,LKA
+SRI8285,2024-11-24,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,National,0,LKA
+SRI8299,2024-12-23,1,Strategic developments,Other,Military Forces of Sri Lanka (2024-),,Civilians (India),Fishers (India),Sri Lanka,Northern,Mannar,Mannar,8.9894,79.8784,1,National-Regional,0,LKA
+SRI7548,2024-01-31,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Mannar,Nanaddan,8.8364,79.9717,2,National-International,0,LKA
+SRI7611,2024-02-19,1,Protests,Peaceful protest,Protesters (Sri Lanka),Farmers (Sri Lanka); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Mannar,Uyilankulam,8.8898,79.9849,1,National-International,0,LKA
+SRI7653,2024-03-04,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Mannar,Adampan,8.9404,80.0006,1,National,0,LKA
+SRI7874,2024-05-20,1,Protests,Peaceful protest,Protesters (Sri Lanka),Christian Group (Sri Lanka); Former Government of Sri Lanka (2019-2024); Hindu Group (Sri Lanka); Labor Group (Sri Lanka); Women (Sri Lanka),,,Sri Lanka,Northern,Mannar,Nanaddan,8.8364,79.9717,1,National,0,LKA
+SRI7999,2024-07-05,1,Violence against civilians,Attack,Unidentified Armed Group (Sri Lanka),,Civilians (Sri Lanka),Former LTTE: Liberation Tigers of Tamil Eelam,Sri Lanka,Northern,Mannar,Uyilankulam,8.8898,79.9849,1,Other,1,LKA
+SRI8131,2024-09-10,2,Violence against civilians,Attack,Unidentified Armed Group (Sri Lanka),,Civilians (Sri Lanka),Police Forces of Sri Lanka (2019-2024),Sri Lanka,Northern,Mannar,Adampan,8.9404,80.0006,1,National,0,LKA
+SRI7475,2024-01-04,1,Protests,Protest with intervention,Protesters (Sri Lanka),Lawyers (Sri Lanka); TNPF: Tamil National People's Front,Police Forces of Sri Lanka (2019-2024),,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National-International,0,LKA
+SRI7498,2024-01-18,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7504,2024-01-15,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,3,National,0,LKA
+SRI7517,2024-01-24,1,Protests,Peaceful protest,Protesters (Sri Lanka),Christian Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National-International,0,LKA
+SRI7522,2024-01-26,1,Protests,Peaceful protest,Protesters (Sri Lanka),Journalists (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7528,2024-01-26,2,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,International,0,LKA
+SRI7533,2024-01-21,2,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7553,2024-02-09,1,Protests,Peaceful protest,Protesters (Sri Lanka),Fishers (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7554,2024-02-07,2,Protests,Peaceful protest,Protesters (Sri Lanka),Fishers (Sri Lanka); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National-International,0,LKA
+SRI7597,2024-02-20,1,Protests,Peaceful protest,Protesters (Sri Lanka),Fishers (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7605,2024-02-20,1,Protests,Peaceful protest,Protesters (Sri Lanka),Students (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7606,2024-02-19,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7625,2024-02-29,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7626,2024-02-28,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7645,2024-03-03,1,Protests,Peaceful protest,Protesters (Sri Lanka),Fishers (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National-International,0,LKA
+SRI7646,2024-03-05,1,Protests,Peaceful protest,Protesters (Sri Lanka),Fishers (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National-International,0,LKA
+SRI7661,2024-03-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),Fishers (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7684,2024-03-19,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7688,2024-03-19,1,Protests,Peaceful protest,Protesters (Sri Lanka),Students (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7692,2024-03-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),Fishers (Sri Lanka); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7693,2024-03-20,1,Protests,Peaceful protest,Protesters (Sri Lanka),Fishers (Sri Lanka); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7694,2024-03-19,1,Protests,Peaceful protest,Protesters (Sri Lanka),Fishers (Sri Lanka); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National-International,0,LKA
+SRI7696,2024-03-16,1,Protests,Peaceful protest,Protesters (Sri Lanka),Government of Sri Lanka (2019-2024); Tamil Ethnic Group (Sri Lanka); Teachers (Sri Lanka); TNPF: Tamil National People's Front,,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National-International,0,LKA
+SRI7711,2024-03-25,1,Protests,Peaceful protest,Protesters (Sri Lanka),Students (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7729,2024-04-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7730,2024-04-02,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7766,2024-04-11,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Jaffna,Ariyalai,9.659,80.0477,1,National,0,LKA
+SRI7815,2024-05-03,1,Protests,Peaceful protest,Protesters (Sri Lanka),Journalists (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7819,2024-04-29,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7825,2024-05-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Government of Sri Lanka (2019-2024); Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka); NPP: National People's Power; Women (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7853,2024-05-08,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka); Women (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7864,2024-05-16,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7868,2024-05-13,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); Students (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7877,2024-05-24,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7878,2024-05-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); UTUC: United Trade Union Confederation,,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7898,2024-06-03,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Kaithady,9.6469,80.121,1,National,0,LKA
+SRI7901,2024-06-09,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7907,2024-06-14,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7915,2024-06-10,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); SJB: Samagi Jana Balavegaya,,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7925,2024-06-08,1,Protests,Peaceful protest,Protesters (Sri Lanka),Government of Canada (2015-); LGBTQ+ (Sri Lanka); Protesters (Canada); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National-International,0,LKA
+SRI7927,2024-06-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),Teachers (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,Other-National,0,LKA
+SRI7951,2024-06-18,1,Protests,Peaceful protest,Protesters (Sri Lanka),Fishers (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7964,2024-06-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Jaffna,Kallundai,9.7006,79.9794,1,National,0,LKA
+SRI7982,2024-06-26,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7990,2024-07-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI7995,2024-07-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Fishers (Sri Lanka); Jaffna District Federation of Fisheries Co-operative Unions,,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI8024,2024-07-19,1,Protests,Peaceful protest,Protesters (Sri Lanka),TNPF: Tamil National People's Front,,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI8026,2024-07-16,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI8042,2024-07-23,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National-International,0,LKA
+SRI8095,2024-08-30,1,Protests,Peaceful protest,Protesters (Sri Lanka),Christian Group (Sri Lanka); Labor Group (Sri Lanka); Students (Sri Lanka); Tamil Ethnic Group (Sri Lanka); Teachers (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI8118,2024-09-04,1,Strategic developments,Arrests,Police Forces of Sri Lanka (2019-2024),,Civilians (India),Fishers (India),Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,2,National,0,LKA
+SRI8162,2024-10-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI8167,2024-10-03,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI8172,2024-10-04,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Jaffna,Kopay,9.6833,80.05,1,National,0,LKA
+SRI8179,2024-10-11,1,Violence against civilians,Attack,Unidentified Armed Group (Sri Lanka),,Civilians (Sri Lanka),Journalists (Sri Lanka),Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI8186,2024-10-21,2,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,International,0,LKA
+SRI8198,2024-10-29,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Mandaitivu,9.6072,79.9846,1,International,0,LKA
+SRI8202,2024-10-28,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Jaffna,Kopay,9.6833,80.05,1,National,0,LKA
+SRI8206,2024-10-26,1,Riots,Mob violence,Rioters (Sri Lanka),,Civilians (Sri Lanka),TPA: Tamil Progressive Alliance,Sri Lanka,Northern,Jaffna,Kopay,9.6833,80.05,1,National,0,LKA
+SRI8211,2024-11-06,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Kaithady,9.6469,80.121,1,National,0,LKA
+SRI8226,2024-11-12,1,Riots,Mob violence,Rioters (Sri Lanka),,Civilians (Sri Lanka),,Sri Lanka,Northern,Jaffna,Columbuthurai,9.6553,80.0378,1,National,0,LKA
+SRI8252,2024-12-02,1,Strategic developments,Other,Military Forces of Sri Lanka (2024-),,Civilians (India),Fishers (India),Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI8255,2024-12-13,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI8259,2024-12-08,1,Strategic developments,Other,Military Forces of Sri Lanka (2024-),,Civilians (India),Fishers (India),Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI8265,2024-12-10,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National-International,0,LKA
+SRI8291,2024-12-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National,0,LKA
+SRI8294,2024-12-30,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Jaffna,9.6685,80.0074,1,National-International,0,LKA
+SRI7483,2024-01-08,1,Protests,Peaceful protest,Protesters (Sri Lanka),Former Government of Sri Lanka (2019-2024); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Mullaitivu,Mullaitivu,9.268,80.815,1,National-International,0,LKA
+SRI7489,2024-01-11,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Northern,Mullaitivu,Mullaitivu,9.268,80.815,1,National,0,LKA
+SRI7491,2024-01-16,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Northern,Mullaitivu,Mullaitivu,9.268,80.815,1,National,0,LKA
+SRI7549,2024-01-27,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Mullaitivu,Keppapularu,9.2754,80.7553,1,National,0,LKA
+SRI7572,2024-02-04,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka); TNPF: Tamil National People's Front,,,Sri Lanka,Northern,Mullaitivu,Mullaitivu,9.268,80.815,1,National,0,LKA
+SRI7649,2024-03-08,1,Protests,Peaceful protest,Protesters (Sri Lanka),Catholic Christian Group (Sri Lanka); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Mullaitivu,Mullaitivu,9.268,80.815,1,National-International,0,LKA
+SRI7717,2024-03-27,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Mullaitivu,Keppapularu,9.2754,80.7553,1,National,0,LKA
+SRI7886,2024-05-26,1,Protests,Peaceful protest,Protesters (Sri Lanka),Fishers (Sri Lanka),,,Sri Lanka,Northern,Mullaitivu,Mullaitivu,9.268,80.815,1,National,0,LKA
+SRI7887,2024-06-10,1,Protests,Peaceful protest,Protesters (Sri Lanka),Fishers (Sri Lanka),,,Sri Lanka,Northern,Mullaitivu,Mullaitivu,9.268,80.815,1,National,0,LKA
+SRI7965,2024-06-19,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Mullaitivu,Mullivaikkal,9.3121,80.7869,1,National,0,LKA
+SRI8054,2024-07-31,1,Protests,Peaceful protest,Protesters (Sri Lanka),Former Government of Sri Lanka (2019-2024),,,Sri Lanka,Northern,Mullaitivu,Mullaitivu,9.268,80.815,1,National,0,LKA
+SRI8063,2024-07-31,1,Protests,Peaceful protest,Protesters (Sri Lanka),Former Government of Sri Lanka (2019-2024); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Mullaitivu,Mullaitivu,9.268,80.815,1,National-International,0,LKA
+SRI8104,2024-08-31,1,Protests,Peaceful protest,Protesters (Sri Lanka),Former Government of Sri Lanka (2019-2024); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Mullaitivu,Mullaitivu,9.268,80.815,1,International,0,LKA
+SRI8199,2024-10-28,2,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Mullaitivu,Keppapularu,9.2754,80.7553,1,National,0,LKA
+SRI8256,2024-12-13,1,Protests,Peaceful protest,Protesters (Sri Lanka),Fishers (Sri Lanka); Government of Sri Lanka (2024-); ITAK: Illankai Tamil Arasu Kachchi,,,Sri Lanka,Northern,Mullaitivu,Mullaitivu,9.268,80.815,1,National,0,LKA
+SRI8262,2024-12-10,1,Protests,Peaceful protest,Protesters (Sri Lanka),Fishers (Sri Lanka); Government of Sri Lanka (2024-); ITAK: Illankai Tamil Arasu Kachchi,,,Sri Lanka,Northern,Mullaitivu,Mullaitivu,9.268,80.815,1,National,0,LKA
+SRI8268,2024-12-10,1,Protests,Peaceful protest,Protesters (Sri Lanka),Government of Sri Lanka (2024-); ITAK: Illankai Tamil Arasu Kachchi; Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Mullaitivu,Mullaitivu,9.268,80.815,1,National,0,LKA
+SRI7600,2024-02-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Eastern,Trincomalee,Trincomalee,8.5711,81.2335,1,National,0,LKA
+SRI7670,2024-03-14,1,Protests,Peaceful protest,Protesters (Sri Lanka),Students (Sri Lanka),,,Sri Lanka,Eastern,Trincomalee,Trincomalee,8.5711,81.2335,1,National,0,LKA
+SRI7677,2024-03-14,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Eastern,Trincomalee,Trincomalee,8.5711,81.2335,1,National,0,LKA
+SRI7695,2024-03-17,1,Protests,Peaceful protest,Protesters (Sri Lanka),Hindu Group (Sri Lanka); Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Eastern,Trincomalee,Trincomalee,8.5711,81.2335,1,National-International,0,LKA
+SRI7727,2024-04-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Eastern,Trincomalee,Trincomalee,8.5711,81.2335,1,National,0,LKA
+SRI7758,2024-04-09,1,Protests,Peaceful protest,Protesters (Sri Lanka),Muslim Group (Sri Lanka); Sinhalese Ethnic Group (Sri Lanka); Tamil Ethnic Group (Sri Lanka); Women (Sri Lanka),,,Sri Lanka,Eastern,Trincomalee,Trincomalee,8.5711,81.2335,1,National,0,LKA
+SRI7811,2024-04-28,1,Protests,Peaceful protest,Protesters (Sri Lanka),Farmers (Sri Lanka),,,Sri Lanka,Eastern,Trincomalee,Trincomalee,8.5711,81.2335,1,National,0,LKA
+SRI7833,2024-05-03,1,Protests,Peaceful protest,Protesters (Sri Lanka),Students (Sri Lanka),,,Sri Lanka,Eastern,Trincomalee,Trincomalee,8.5711,81.2335,1,National,0,LKA
+SRI7839,2024-05-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); TMVP: Tamil Makkal Viduthalai Pulikal,,,Sri Lanka,Eastern,Trincomalee,Trincomalee,8.5711,81.2335,1,National,0,LKA
+SRI7955,2024-06-19,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Eastern,Trincomalee,Trincomalee,8.5711,81.2335,1,National,0,LKA
+SRI7994,2024-07-02,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Eastern,Trincomalee,Trincomalee,8.5711,81.2335,1,National,0,LKA
+SRI7996,2024-07-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka); Labor Group (Sri Lanka),,,Sri Lanka,Eastern,Trincomalee,Trincomalee,8.5711,81.2335,1,National,0,LKA
+SRI8049,2024-07-23,2,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Eastern,Trincomalee,Trincomalee,8.5711,81.2335,1,National,0,LKA
+SRI8061,2024-07-29,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Eastern,Trincomalee,Trincomalee,8.5711,81.2335,1,National,0,LKA
+SRI8069,2024-07-27,1,Strategic developments,Arrests,Military Forces of Sri Lanka (2019-2024),,Civilians (Sri Lanka),Fishers (Sri Lanka),Sri Lanka,Eastern,Trincomalee,Trincomalee,8.5711,81.2335,2,National,0,LKA
+SRI8081,2024-08-10,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Eastern,Trincomalee,Trincomalee,8.5711,81.2335,1,National,0,LKA
+SRI8094,2024-08-30,1,Protests,Protest with intervention,Protesters (Sri Lanka),Christian Group (Sri Lanka); Tamil Ethnic Group (Sri Lanka),Police Forces of Sri Lanka (2019-2024),,Sri Lanka,Eastern,Trincomalee,Trincomalee,8.5711,81.2335,1,National-International,0,LKA
+SRI8228,2024-11-14,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Eastern,Trincomalee,Trincomalee,8.5711,81.2335,1,International,0,LKA
+SRI8258,2024-12-11,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Eastern,Trincomalee,Trincomalee,8.5711,81.2335,1,National,0,LKA
+SRI8267,2024-12-10,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Eastern,Trincomalee,Trincomalee,8.5711,81.2335,1,National-International,0,LKA
+SRI7496,2024-01-17,1,Protests,Protest with intervention,Protesters (Sri Lanka),IUSF: Inter University Students' Federation; Students (Sri Lanka),Police Forces of Sri Lanka (2019-2024),,Sri Lanka,Western,Colombo,Nugegoda,6.8735,79.8899,1,National,0,LKA
+SRI7508,2024-01-18,1,Protests,Protest with intervention,Protesters (Sri Lanka),Labor Group (Sri Lanka),Police Forces of Sri Lanka (2019-2024),,Sri Lanka,Western,Colombo,Nugegoda,6.8735,79.8899,1,National,0,LKA
+SRI7525,2024-01-24,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka); SYU: Socialist Youth Union,,,Sri Lanka,Western,Colombo,Sri Jayawardenepura Kotte,6.883,79.9071,1,National,0,LKA
+SRI7564,2024-02-07,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Kalubowila,6.8651,79.8709,1,National,0,LKA
+SRI7565,2024-02-07,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Sri Jayawardenepura Kotte,6.883,79.9071,1,National,0,LKA
+SRI7571,2024-02-04,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Thimbirigasyaya,6.8959,79.8661,1,National,0,LKA
+SRI7580,2024-02-14,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Western,Colombo,Sri Jayawardenepura Kotte,6.883,79.9071,1,National,0,LKA
+SRI7640,2024-02-27,1,Protests,Protest with intervention,Protesters (Sri Lanka),Students (Sri Lanka),Police Forces of Sri Lanka (2019-2024),,Sri Lanka,Western,Colombo,Sri Jayawardenepura Kotte,6.883,79.9071,1,National,0,LKA
+SRI7749,2024-04-03,1,Protests,Protest with intervention,Protesters (Sri Lanka),Students (Sri Lanka),Police Forces of Sri Lanka (2019-2024),,Sri Lanka,Western,Colombo,Nugegoda,6.8735,79.8899,1,National,0,LKA
+SRI7880,2024-05-18,1,Protests,Protest with intervention,Protesters (Sri Lanka),,Police Forces of Sri Lanka (2019-2024),,Sri Lanka,Western,Colombo,Wellawatte,6.8757,79.8596,1,National,0,LKA
+SRI7893,2024-06-13,1,Protests,Peaceful protest,Protesters (Sri Lanka),IUSF: Inter University Students' Federation; Students (Sri Lanka),,,Sri Lanka,Western,Colombo,Nugegoda,6.8735,79.8899,1,National,0,LKA
+SRI7940,2024-05-27,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Sri Jayawardenepura Kotte,6.883,79.9071,1,National,0,LKA
+SRI7941,2024-05-29,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Sri Jayawardenepura Kotte,6.883,79.9071,1,National,0,LKA
+SRI7943,2024-06-03,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Sri Jayawardenepura Kotte,6.883,79.9071,1,National,0,LKA
+SRI7949,2024-06-09,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Colombo,Piliyandala,6.7999,79.9249,1,National,0,LKA
+SRI8238,2024-11-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),Students (Sri Lanka),,,Sri Lanka,Western,Colombo,Sri Jayawardenepura Kotte,6.883,79.9071,1,National,0,LKA
+SRI8239,2024-11-22,1,Riots,Mob violence,Rioters (Sri Lanka),UNP: United National Party,Civilians (Sri Lanka),,Sri Lanka,Western,Colombo,Sri Jayawardenepura Kotte,6.883,79.9071,1,National,0,LKA
+SRI7569,2024-02-04,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Western,Kalutara,Kalutara,6.5831,79.9593,1,National,0,LKA
+SRI7721,2024-03-26,1,Riots,Violent demonstration,Rioters (Sri Lanka),,Police Forces of Sri Lanka (2019-2024),,Sri Lanka,Western,Kalutara,Kalutara,6.5831,79.9593,1,National,0,LKA
+SRI7530,2024-01-24,1,Protests,Peaceful protest,Protesters (Sri Lanka),TNPF: Tamil National People's Front,,,Sri Lanka,Northern,Jaffna,Valikamam North,9.7941,80.0388,1,National-International,0,LKA
+SRI7539,2024-01-31,1,Protests,Protest with intervention,Protesters (Sri Lanka),Students (Sri Lanka),Police Forces of Sri Lanka (2019-2024),,Sri Lanka,Central,Kandy,Peradeniya,7.2622,80.5841,1,National,0,LKA
+SRI7589,2024-02-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Northern,Jaffna,Valikamam North,9.7941,80.0388,2,National-International,0,LKA
+SRI7612,2024-02-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),TNPF: Tamil National People's Front; Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Valikamam North,9.7941,80.0388,1,National,0,LKA
+SRI7613,2024-02-20,1,Protests,Peaceful protest,Protesters (Sri Lanka),Teachers (Sri Lanka); CTU: Ceylon Teachers Union,,,Sri Lanka,Central,Kandy,Kandy,7.2955,80.6356,1,National,0,LKA
+SRI7651,2024-03-04,1,Protests,Peaceful protest,Protesters (Sri Lanka),Teachers (Sri Lanka),,,Sri Lanka,Central,Kandy,Kandy,7.2955,80.6356,1,National,0,LKA
+SRI7683,2024-03-16,1,Protests,Peaceful protest,Protesters (Sri Lanka),SJB: Samagi Jana Balavegaya; Government of Sri Lanka (2019-2024),,,Sri Lanka,Central,Kandy,Kandy,7.2955,80.6356,1,National,0,LKA
+SRI7718,2024-03-23,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka); TNPF: Tamil National People's Front; Government of Sri Lanka (2019-2024),,,Sri Lanka,Northern,Jaffna,Valikamam North,9.7941,80.0388,1,National,0,LKA
+SRI7724,2024-04-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),Health Workers (Sri Lanka),,,Sri Lanka,Central,Kandy,Peradeniya,7.2622,80.5841,1,National,0,LKA
+SRI7737,2024-04-02,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Central,Kandy,Kandy,7.2955,80.6356,1,National,0,LKA
+SRI7798,2024-04-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),TNPF: Tamil National People's Front; Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Valikamam North,9.7941,80.0388,1,National-International,0,LKA
+SRI7808,2024-04-21,1,Protests,Peaceful protest,Protesters (Sri Lanka),Indian Tamil Ethnic Group (Sri Lanka); Labor Group (Sri Lanka); CWC: Ceylon Workers' Congress,,,Sri Lanka,Central,Kandy,Kandy,7.2955,80.6356,2,National,0,LKA
+SRI7846,2024-05-03,1,Protests,Peaceful protest,Protesters (Sri Lanka),,,,Sri Lanka,Central,Kandy,Akurana,7.3666,80.6166,1,National,0,LKA
+SRI7851,2024-04-29,2,Strategic developments,Other,Unidentified Armed Group (Sri Lanka),,Civilians (Sri Lanka),LTTE: Liberation Tigers of Tamil Eelam,Sri Lanka,Northern,Jaffna,Palali,9.7982,80.0891,1,National-International,0,LKA
+SRI7862,2024-05-13,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Central,Kandy,Kandy,7.2955,80.6356,1,National,0,LKA
+SRI7875,2024-05-22,1,Protests,Peaceful protest,Protesters (Sri Lanka),TNPF: Tamil National People's Front; Government of Sri Lanka (2019-2024),,,Sri Lanka,Northern,Jaffna,Valikamam North,9.7941,80.0388,1,National,0,LKA
+SRI7902,2024-06-13,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Central,Kandy,Kandy,7.2955,80.6356,1,National,0,LKA
+SRI7928,2024-06-12,1,Protests,Peaceful protest,Protesters (Sri Lanka),Teachers (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Valikamam North,9.7941,80.0388,1,National,0,LKA
+SRI7952,2024-06-19,1,Protests,Peaceful protest,Protesters (Sri Lanka),Labor Group (Sri Lanka),,,Sri Lanka,Central,Kandy,Peradeniya,7.2622,80.5841,1,National,0,LKA
+SRI7962,2024-06-20,1,Protests,Peaceful protest,Protesters (Sri Lanka),TNPF: Tamil National People's Front; Government of Sri Lanka (2019-2024),,,Sri Lanka,Northern,Jaffna,Valikamam North,9.7941,80.0388,1,National,0,LKA
+SRI8046,2024-07-25,2,Protests,Peaceful protest,Protesters (Sri Lanka),Teachers (Sri Lanka),,,Sri Lanka,Central,Kandy,Kandy,7.2955,80.6356,1,National,0,LKA
+SRI8085,2024-08-18,1,Protests,Peaceful protest,Protesters (Sri Lanka),TNPF: Tamil National People's Front,,,Sri Lanka,Northern,Jaffna,Valikamam North,9.7941,80.0388,1,National,0,LKA
+SRI8122,2024-09-07,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Sri Lanka),,Civilians (Sri Lanka),NPP: National People's Power,Sri Lanka,Central,Kandy,Kandy,7.2955,80.6356,1,National,0,LKA
+SRI8174,2024-10-14,1,Protests,Peaceful protest,Protesters (Sri Lanka),Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Tellippalai,9.7875,80.0304,1,International,0,LKA
+SRI8177,2024-10-16,1,Protests,Peaceful protest,Protesters (Sri Lanka),TNPF: Tamil National People's Front,,,Sri Lanka,Northern,Jaffna,Valikamam North,9.7941,80.0388,1,National,0,LKA
+SRI8232,2024-11-15,1,Protests,Peaceful protest,Protesters (Sri Lanka),TNPF: Tamil National People's Front; Tamil Ethnic Group (Sri Lanka),,,Sri Lanka,Northern,Jaffna,Valikamam North,9.7941,80.0388,1,International,0,LKA
+SRI8243,2024-11-22,1,Violence against civilians,Sexual violence,Police Forces of Sri Lanka (2024-),,Civilians (Sri Lanka),Women (Sri Lanka),Sri Lanka,Northern,Jaffna,Palali,9.7982,80.0891,2,National,0,LKA
+SRI8275,2024-12-14,1,Protests,Peaceful protest,Protesters (Sri Lanka),Government of Sri Lanka (2024-); TNPF: Tamil National People's Front; Former Government of Sri Lanka (2024-),,,Sri Lanka,Northern,Jaffna,Valikamam North,9.7941,80.0388,1,National,0,LKA
+SRI8277,2024-12-23,1,Protests,Peaceful protest,Protesters (Sri Lanka),Farmers (Sri Lanka),,,Sri Lanka,Central,Kandy,Kandy,7.2955,80.6356,1,National,0,LKA
+SRI8288,2024-12-16,1,Protests,Peaceful protest,Protesters (Sri Lanka),Students (Sri Lanka),,,Sri Lanka,Central,Kandy,Peradeniya,7.2622,80.5841,1,National,0,LKA
+SRI8159,2024-09-28,1,Strategic developments,Arrests,Military Forces of Sri Lanka (2024-),,Civilians (Sri Lanka),Fishers (Sri Lanka),Sri Lanka,Eastern,Trincomalee,Coast of Trincomalee,8.6102,81.3483,2,National,0,LKA
+SRI7702,2024-03-20,1,Riots,Violent demonstration,Rioters (Sri Lanka),Buddhist Group (Sri Lanka); FLSP: Frontline Socialist Party; IUSF: Inter University Students' Federation; Students (Sri Lanka),Police Forces of Sri Lanka (2019-2024),,Sri Lanka,Western,Colombo,Pettah,6.9376,79.8491,1,National,0,LKA
+SRI7812,2024-05-01,1,Protests,Peaceful protest,Protesters (Sri Lanka),FLSP: Frontline Socialist Party; Labor Group (Sri Lanka),,,Sri Lanka,Western,Colombo,Slave Island,6.9257,79.8504,1,National,0,LKA
+SRI8134,2024-09-12,1,Riots,Mob violence,Rioters (Sri Lanka),JVP: Janatha Vimukthi Peramuna,Rioters (Sri Lanka),FLSP: Frontline Socialist Party,Sri Lanka,Western,Colombo,Sri Jayawardenepura Kotte,6.883,79.9071,1,National,0,LKA
+SRI8808,2024-07-13,1,Strategic developments,Other,Unidentified Armed Group (Sri Lanka),,Civilians (Sri Lanka),,Sri Lanka,Western,Colombo,Colombo,6.9319,79.8478,1,National-International,0,LKA

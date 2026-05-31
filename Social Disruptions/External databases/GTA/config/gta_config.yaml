@@ -1,0 +1,77 @@
+# =============================================================================
+# GTA Pipeline Configuration
+# =============================================================================
+# Run:  python src/gta_pipeline.py
+# All paths are resolved relative to the GTA/ folder root.
+
+# ---------------------------------------------------------------------------
+# Date range
+# ---------------------------------------------------------------------------
+start_date: "2017-01-01"
+end_date:   "2025-12-31"
+
+# ---------------------------------------------------------------------------
+# Countries
+#
+# "all"             → fetch interventions for every implementing jurisdiction
+#                     in the GTA database (recommended for full coverage).
+#
+# list of ISO3 codes → filter to these implementing countries only.
+#                     Requires UN M49 codes internally; see utils._ISO3_TO_UN.
+#                     Example:
+#                       countries:
+#                         - ARG
+#                         - BRA
+#                         - ZAF
+# ---------------------------------------------------------------------------
+countries: "all"
+
+# ---------------------------------------------------------------------------
+# API settings
+# ---------------------------------------------------------------------------
+api:
+  base_url: "https://api.globaltradealert.org/api/v1/data/"
+
+  # Interventions returned per page request (GTA maximum: 1000).
+  page_size: 1000
+
+  # Polite delay between consecutive page requests (seconds).
+  # Increase if you encounter rate-limiting (HTTP 429).
+  request_delay_s: 1.0
+
+  # Retry logic on transient failures.
+  max_retries: 3
+  retry_backoff_s: 2.0   # base for exponential back-off
+
+# ---------------------------------------------------------------------------
+# Cache
+# ---------------------------------------------------------------------------
+cache:
+  # If true, re-use data/raw/gta_interventions_<START>_<END>.json on re-runs
+  # instead of calling the API again.  Set to false or use --no-cache to
+  # force a full re-fetch.
+  use_cache: true
+
+# ---------------------------------------------------------------------------
+# Feature flags
+# ---------------------------------------------------------------------------
+features:
+  # Count interventions by GTA evaluation type per country-day.
+  harmful_events:      true   # gta_harmful_events      (Red)
+  liberalising_events: true   # gta_liberalising_events (Green)
+
+  # Rolling sums of gta_policy_events over trailing N-day windows.
+  # Each window adds a column: gta_Nd_count.
+  # Set to [] or remove to disable rolling features.
+  rolling_windows: [30, 90]
+
+# ---------------------------------------------------------------------------
+# Output
+# ---------------------------------------------------------------------------
+output:
+  # Filename for the processed country-day panel.
+  # <START> and <END> are replaced with YYYYMMDD dates.
+  processed_filename: "gta_country_day_<START>_<END>"
+
+  # Save CSV alongside parquet (can be large for wide date ranges).
+  save_csv: true

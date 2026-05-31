@@ -1,0 +1,870 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+ECU4081,2025-01-11,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),Government of Ecuador (2023-); Private Security Forces (Ecuador); SUR Movement (Ecuador),Ecuador,El Oro,Arenillas,Arenillas,-3.5564,-80.0695,1,Subnational-National,1,ECU
+ECU4082,2025-01-15,1,Riots,Mob violence,Rioters (Ecuador),Indigenous Group (Ecuador); Vigilante Group (Ecuador),Civilians (Ecuador),,Ecuador,Imbabura,Cotacachi,Cotacachi,0.2989,-78.2649,1,National,0,ECU
+ECU4086,2025-01-21,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,National,0,ECU
+ECU4096,2025-02-01,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),Government of Ecuador (2023-),Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,1,ECU
+ECU4100,2025-02-12,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),PSC: Social Christian Party (Ecuador),Ecuador,Manabi,Olmedo,Olmedo,-1.3956,-80.2078,2,National,1,ECU
+ECU4106,2025-02-21,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Government of Ecuador (2023-),Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,0,ECU
+ECU4107,2025-02-21,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,National,0,ECU
+ECU4108,2025-02-21,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Los Rios,Quevedo,Quevedo,-1.0286,-79.4635,1,National,0,ECU
+ECU4109,2025-02-21,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Carchi,Tulcan,Tulcan,0.8119,-77.7173,1,National,0,ECU
+ECU4084,2025-01-19,1,Riots,Mob violence,Rioters (Ecuador),Indigenous Group (Ecuador); Vigilante Group (Ecuador),Civilians (Ecuador),,Ecuador,Cotopaxi,Saquisili,Saquisili,-0.8387,-78.6664,1,National,0,ECU
+ECU4117,2025-02-22,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,National,0,ECU
+ECU4118,2025-02-22,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Sucumbios,Lago Agrio,Nueva Loja,0.0821,-76.8806,1,National,0,ECU
+ECU4120,2025-02-22,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Manabi,Puerto Lopez,Puerto Lopez,-1.5546,-80.8089,1,National,0,ECU
+ECU4121,2025-02-22,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Pastaza,Pastaza,Puyo,-1.4837,-78.0026,1,National,0,ECU
+ECU4123,2025-02-22,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Chimborazo,Riobamba,Riobamba,-1.671,-78.6471,1,Subnational-National,0,ECU
+ECU4124,2025-02-22,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Imbabura,Ibarra,San Antonio de Ibarra,0.3324,-78.1712,1,National,0,ECU
+ECU4127,2025-02-22,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Napo,Tena,Tena,-0.9922,-77.8163,1,National,0,ECU
+ECU4128,2025-02-22,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Zamora Chinchipe,Zamora,Zamora,-4.0669,-78.9549,1,National,0,ECU
+ECU4132,2025-02-25,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Santa Elena,Santa Elena,Montanita,-1.8281,-80.7529,1,National,0,ECU
+ECU4133,2025-02-26,1,Protests,Peaceful protest,Protesters (Ecuador),Taxi/Bus Drivers (Ecuador),,,Ecuador,Chimborazo,Riobamba,Riobamba,-1.671,-78.6471,1,Subnational,0,ECU
+ECU4134,2025-02-26,1,Protests,Peaceful protest,Protesters (Ecuador),Indigenous Group (Colombia); Indigenous Group (Ecuador),,,Ecuador,Carchi,Tulcan,Tulcan,0.8119,-77.7173,1,National,0,ECU
+ECU4135,2025-02-27,1,Riots,Mob violence,Rioters (Ecuador),Vigilante Group (Ecuador),Civilians (Ecuador),,Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,0,ECU
+ECU4137,2025-02-27,1,Protests,Peaceful protest,Protesters (Ecuador),Indigenous Group (Colombia); Indigenous Group (Ecuador),,,Ecuador,Carchi,Tulcan,Tulcan,0.8119,-77.7173,1,National,0,ECU
+ECU4140,2025-03-03,1,Riots,Mob violence,Rioters (Ecuador),Vigilante Group (Ecuador),Civilians (Ecuador),,Ecuador,Orellana,Orellana,Dayuma,-0.6699,-76.8775,2,National,1,ECU
+ECU4141,2025-03-04,1,Violence against civilians,Attack,Los Tiguerones Gang (Ecuador),,Civilians (Ecuador),Journalists (Ecuador),Ecuador,Esmeraldas,Quininde,Rosa Zarate,0.3278,-79.4741,1,National,1,ECU
+ECU4080,2025-01-07,1,Riots,Mob violence,Rioters (Ecuador),Indigenous Group (Ecuador); Vigilante Group (Ecuador),Civilians (Ecuador),,Ecuador,Tungurahua,San Pedro de Pelileo,Pelileo,-1.3302,-78.5454,1,Subnational,0,ECU
+ECU4090,2025-01-29,1,Riots,Mob violence,Rioters (Ecuador),Indigenous Group (Ecuador); Vigilante Group (Ecuador),Civilians (Ecuador),,Ecuador,Chimborazo,Riobamba,Cubijies,-1.6438,-78.5876,1,Subnational,0,ECU
+ECU4143,2025-02-28,1,Battles,Armed clash,CDF: Frontier Command,,Military Forces of Ecuador (2023-),,Ecuador,Sucumbios,Putumayo,Puerto El Carmen,0.1144,-75.8628,2,Other,0,ECU
+ECU4092,2025-01-31,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Manabi,Portoviejo,Portoviejo,-1.0546,-80.4545,1,Subnational,0,ECU
+ECU4101,2025-02-08,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Of Course We Can Alliance,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational-National,0,ECU
+ECU4105,2025-02-20,1,Explosions/Remote violence,Remote explosive/landmine/IED,Los Lobos Box Gang (Ecuador),,,,Ecuador,El Oro,Machala,Puerto Bolivar,-3.2681,-79.9991,1,Subnational-National,0,ECU
+ECU4116,2025-02-22,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational-National,0,ECU
+ECU4119,2025-02-22,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Manabi,Portoviejo,Portoviejo,-1.0546,-80.4545,1,National,0,ECU
+ECU4152,2025-03-14,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),Government of Ecuador (2023-); Labor Group (Colombia),Ecuador,Manabi,Chone,Canuto,-0.7988,-80.129,1,Subnational,1,ECU
+ECU4089,2025-01-29,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Azuay,Cuenca,Cuenca,-2.9006,-79.0045,1,Subnational,0,ECU
+ECU4104,2025-02-18,1,Protests,Peaceful protest,Protesters (Ecuador),Labor Group (Ecuador),,,Ecuador,Azuay,Cuenca,Cuenca,-2.9006,-79.0045,1,Subnational,0,ECU
+ECU4129,2025-02-23,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Azuay,Cuenca,Cuenca,-2.9006,-79.0045,1,Subnational,0,ECU
+ECU4131,2025-02-25,1,Protests,Peaceful protest,Protesters (Ecuador),Health Workers (Ecuador),,,Ecuador,Azuay,Cuenca,Cuenca,-2.9006,-79.0045,1,Subnational,0,ECU
+ECU4138,2025-02-28,1,Riots,Mob violence,Rioters (Ecuador),Vigilante Group (Ecuador),Civilians (Ecuador),,Ecuador,Azuay,Cuenca,Cuenca,-2.9006,-79.0045,1,Subnational,0,ECU
+ECU4145,2025-03-11,1,Protests,Peaceful protest,Protesters (Ecuador),Labor Group (Ecuador),,,Ecuador,Azuay,Cuenca,Cuenca,-2.9006,-79.0045,1,National,0,ECU
+ECU4146,2025-03-13,1,Protests,Peaceful protest,Protesters (Ecuador),Labor Group (Ecuador),,,Ecuador,Azuay,Cuenca,Cuenca,-2.9006,-79.0045,1,Subnational,0,ECU
+ECU4115,2025-02-22,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Loja,Loja,Loja,-3.9931,-79.2042,1,National,0,ECU
+ECU4126,2025-02-22,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Santo Domingo de los Tsachilas,Santo Domingo,Santo Domingo de los Tsachilas,-0.2531,-79.1754,1,National,0,ECU
+ECU4151,2025-03-12,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Loja,Loja,Loja,-3.9931,-79.2042,1,Subnational,0,ECU
+ECU4125,2025-02-22,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Santa Elena,Santa Elena,Santa Elena,-2.2262,-80.8587,1,National,0,ECU
+ECU4083,2025-01-12,1,Riots,Mob violence,Rioters (Ecuador),Indigenous Group (Ecuador); Vigilante Group (Ecuador),Civilians (Ecuador),,Ecuador,Tungurahua,San Pedro de Pelileo,Salasaca,-1.3206,-78.5779,1,National,0,ECU
+ECU4085,2025-01-22,1,Protests,Peaceful protest,Protesters (Ecuador),Labor Group (Ecuador),,,Ecuador,Tungurahua,Ambato,Ambato,-1.2491,-78.6168,1,Subnational,0,ECU
+ECU4112,2025-02-22,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Tungurahua,Ambato,Ambato,-1.2491,-78.6168,1,National,0,ECU
+ECU4147,2025-03-11,1,Riots,Mob violence,Rioters (Ecuador),Vigilante Group (Ecuador),Civilians (Ecuador),,Ecuador,Tungurahua,Ambato,Ambato,-1.2491,-78.6168,1,Subnational,0,ECU
+ECU4076,2025-01-08,1,Riots,Mob violence,Rioters (Ecuador),Vigilante Group (Ecuador),Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU4077,2025-01-08,1,Protests,Peaceful protest,Protesters (Ecuador),Afro-Ecuadorian Ethnic Group (Ecuador),,,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,0,ECU
+ECU4079,2025-01-06,1,Riots,Violent demonstration,Rioters (Ecuador),,,,Ecuador,Pichincha,Quito,Quito - Quitumbe,-0.3142,-78.5533,1,National,0,ECU
+ECU4087,2025-01-28,1,Riots,Mob violence,Rioters (Ecuador),Vigilante Group (Ecuador),Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Febres Cordero,-2.2027,-79.9325,1,National,0,ECU
+ECU4088,2025-01-14,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),Government of Ecuador (2023-); Women (Ecuador); ADN: National Democratic Action Movement,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU4091,2025-01-31,1,Protests,Peaceful protest,Protesters (Ecuador),Catholic Christian Group (Ecuador),,,Ecuador,Pichincha,Quito,Quito - Eugenio Espejo,-0.1628,-78.4785,1,National,0,ECU
+ECU4097,2025-02-01,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Pichincha,Quito,Quito - Eugenio Espejo,-0.1628,-78.4785,1,National,0,ECU
+ECU4098,2025-02-06,1,Protests,Peaceful protest,Protesters (Ecuador),Labor Group (Ecuador),,,Ecuador,Pichincha,Quito,Quito - Eugenio Espejo,-0.1628,-78.4785,1,National,0,ECU
+ECU4102,2025-02-13,1,Protests,Peaceful protest,Protesters (Ecuador),Police Forces of Ecuador (2023-),,,Ecuador,Pichincha,Quito,Quito - Quitumbe,-0.3142,-78.5533,1,National,0,ECU
+ECU4103,2025-02-16,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Pichincha,Quito,Quito - Calderon,-0.1034,-78.4238,1,National,0,ECU
+ECU4110,2025-02-21,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Guayas,Guayaquil,Guayaquil - Rocafuerte,-2.193,-79.8815,1,National,0,ECU
+ECU4111,2025-02-21,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Pichincha,Quito,Quito - Calderon,-0.1034,-78.4238,1,National,0,ECU
+ECU4113,2025-02-22,1,Protests,Peaceful protest,Protesters (Ecuador),Evangelical Christian Group (Ecuador); Labor Group (Ecuador); Lawyers (Ecuador); Catholic Christian Group (Ecuador),,,Ecuador,Guayas,Guayaquil,Guayaquil - Rocafuerte,-2.193,-79.8815,1,National,0,ECU
+ECU4114,2025-02-22,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Guayas,Guayaquil,Guayaquil - Rocafuerte,-2.193,-79.8815,1,National,0,ECU
+ECU4122,2025-02-22,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Pichincha,Quito,Quito - Eugenio Espejo,-0.1628,-78.4785,1,National,0,ECU
+ECU4130,2025-02-24,1,Protests,Peaceful protest,Protesters (Ecuador),Labor Group (Ecuador),,,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU4136,2025-02-27,1,Protests,Peaceful protest,Protesters (Ecuador),MRC: Citizen Revolution Movement,,,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU4139,2025-02-25,1,Protests,Peaceful protest,Protesters (Ecuador),Labor Group (Ecuador),,,Ecuador,Pichincha,Quito,Quito - Manuela Saenz,-0.2201,-78.5121,1,National,0,ECU
+ECU4142,2025-03-07,1,Protests,Peaceful protest,Protesters (Ecuador),Labor Group (Ecuador),,,Ecuador,Pichincha,Quito,Quito - Eugenio Espejo,-0.1628,-78.4785,1,National,0,ECU
+ECU4148,2025-03-08,1,Protests,Peaceful protest,Protesters (Ecuador),Women (Ecuador),,,Ecuador,Guayas,Guayaquil,Guayaquil - Rocafuerte,-2.193,-79.8815,1,National,0,ECU
+ECU4149,2025-03-08,1,Protests,Peaceful protest,Protesters (Ecuador),Indigenous Group (Ecuador); LGBTQ+ (Ecuador); Women (Ecuador); Afro-Ecuadorian Ethnic Group (Ecuador),,,Ecuador,Pichincha,Quito,Quito - Manuela Saenz,-0.2201,-78.5121,1,National,0,ECU
+ECU4150,2025-03-08,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Pichincha,Quito,Quito - Tumbaco,-0.2099,-78.4391,1,National,0,ECU
+ECU4153,2025-03-13,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Pichincha,Quito,Quito - Eloy Alfaro,-0.259,-78.5292,1,National,0,ECU
+ECU10312,2025-03-04,1,Strategic developments,Looting/property destruction,Military Forces of Ecuador (2023-),Police Forces of Ecuador (2023-),Unidentified Gang (Ecuador),,Ecuador,Galapagos,San Cristobal,Coast of Puerto Velasco Ibarra,-1.2619,-90.5723,2,National,0,ECU
+ECU9009,2025-01-02,1,Strategic developments,Looting/property destruction,Military Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Manabi,Manta,Coast of Manta,-0.7525,-80.7907,3,National,0,ECU
+ECU9112,2025-01-04,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (International),,Ecuador,Manabi,Manta,Coast of Manta,-0.7525,-80.7907,3,Subnational,1,ECU
+ECU9624,2025-01-31,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Cotopaxi,Salcedo,Atocha,-1.0855,-78.7299,1,National,0,ECU
+ECU9680,2025-02-03,1,Strategic developments,Looting/property destruction,Military Forces of the United States (2025-) Marine Corps,,Unidentified Gang (Ecuador),,Ecuador,Manabi,Manta,Coast of Manta,-0.7525,-80.7907,2,Subnational-National,0,ECU
+ECU9923,2025-02-16,1,Strategic developments,Looting/property destruction,Military Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Galapagos,San Cristobal,Coast of Puerto Velasco Ibarra,-1.2619,-90.5723,2,National,0,ECU
+ECU9940,2025-02-18,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Mocache,La Isla,-1.2157,-79.5959,1,National,3,ECU
+ECU9946,2025-02-19,1,Strategic developments,Looting/property destruction,Police Forces of Ecuador (2023-),Military Forces of Ecuador (2023-),Unidentified Gang (Ecuador),Unidentified Gang (Venezuela),Ecuador,Galapagos,San Cristobal,Coast of Puerto Velasco Ibarra,-1.2619,-90.5723,2,National,0,ECU
+ECU10036,2025-02-26,1,Violence against civilians,Attack,Los Igualitos Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU10037,2025-02-20,1,Violence against civilians,Attack,Military Forces of Ecuador (2023-),,Civilians (Ecuador),,Ecuador,Esmeraldas,Quininde,La Union,0.136,-79.4038,1,National,1,ECU
+ECU10038,2025-02-21,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Santo Domingo de los Tsachilas,Santo Domingo,Santo Domingo de los Tsachilas,-0.2531,-79.1754,1,National,1,ECU
+ECU10039,2025-02-19,2,Strategic developments,Looting/property destruction,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Pichincha,Quito,Quito,-0.2299,-78.525,3,National,0,ECU
+ECU10040,2025-02-24,1,Battles,Armed clash,Los Aguilas Gang (Ecuador),,Los Fenix Gang (Ecuador),Los Igualitos Gang (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,4,ECU
+ECU10041,2025-02-22,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),Unidentified Communal Group (Ecuador),Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,2,ECU
+ECU10042,2025-02-21,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU10043,2025-02-25,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU10044,2025-02-25,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Portoviejo,Portoviejo,-1.0546,-80.4545,1,Subnational,1,ECU
+ECU10045,2025-02-26,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),Government of Ecuador (2023-),Ecuador,Guayas,Santa Lucia,El Mangle,-1.7542,-79.9888,2,National,1,ECU
+ECU10046,2025-02-12,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Chimborazo,Riobamba,Riobamba,-1.671,-78.6471,1,Subnational,1,ECU
+ECU10047,2025-02-18,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational,2,ECU
+ECU10048,2025-02-23,1,Battles,Armed clash,Los Fenix Gang (Ecuador),Los Igualitos Gang (Ecuador),Los Aguilas Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,2,ECU
+ECU10049,2025-02-22,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Pichincha,Quito,Quito - La Delicia,-0.0384,-78.4921,1,National,0,ECU
+ECU10050,2025-02-21,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Former Police Forces of Ecuador (2023-),Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,1,ECU
+ECU10051,2025-02-21,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Farmers (Ecuador); Montuvio Ethnic Group (Ecuador),Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,National,0,ECU
+ECU10052,2025-02-28,1,Battles,Armed clash,Los Freddy Kruegers Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,3,ECU
+ECU10053,2025-02-21,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,1,ECU
+ECU10054,2025-02-21,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Women (Ecuador),Ecuador,Santa Elena,Santa Elena,Santa Elena,-2.2262,-80.8587,1,National,1,ECU
+ECU10055,2025-02-24,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Armed Group (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Febres Cordero,-2.2027,-79.9325,1,National,1,ECU
+ECU10056,2025-02-22,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,1,ECU
+ECU10057,2025-02-22,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Former Police Forces of Ecuador (2023-),Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,1,ECU
+ECU10058,2025-02-22,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU10059,2025-02-22,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Police Forces of Ecuador (2023-),Ecuador,Guayas,Salitre,Junquillal,-1.7158,-79.8654,2,National,1,ECU
+ECU10060,2025-02-24,2,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,0,ECU
+ECU10061,2025-02-24,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Armed Group (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,1,ECU
+ECU10062,2025-02-24,1,Strategic developments,Disrupted weapons use,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Olmedo,-2.2008,-79.8842,1,National,0,ECU
+ECU10063,2025-02-25,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Los Borrachos Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,0,ECU
+ECU10064,2025-02-25,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Santo Domingo de los Tsachilas,Santo Domingo,Puerto Limon,-0.3872,-79.3723,1,National,0,ECU
+ECU10065,2025-02-27,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU10066,2025-02-22,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Santa Elena,La Libertad,La Libertad,-2.233,-80.9104,1,National,1,ECU
+ECU10067,2025-02-23,1,Battles,Armed clash,Unidentified Armed Group (Ecuador),,Police Forces of Ecuador (2023-),,Ecuador,El Oro,Pasaje,Casacay,-3.3239,-79.7231,1,Subnational-National,1,ECU
+ECU10068,2025-02-22,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Private Security Forces (Ecuador),Ecuador,Guayas,Samborondon,Samborondon,-2.1422,-79.8647,1,National,1,ECU
+ECU10070,2025-02-23,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,1,ECU
+ECU10071,2025-02-23,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil,-2.1477,-79.9166,1,National,0,ECU
+ECU10073,2025-02-24,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Manabi,San Vicente,Canoa,-0.4635,-80.4545,1,Subnational,1,ECU
+ECU10074,2025-02-25,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Balosa,-3.3874,-79.9335,2,Subnational,1,ECU
+ECU10075,2025-02-25,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Pichincha,Quito,Quito - Eugenio Espejo,-0.1628,-78.4785,1,National,0,ECU
+ECU10076,2025-02-25,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational,1,ECU
+ECU10077,2025-02-26,1,Strategic developments,Looting/property destruction,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,El Guabo,El Guabo,-3.2416,-79.8318,1,Subnational,0,ECU
+ECU10078,2025-02-25,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Palenque,Palenque,-1.4356,-79.7569,1,National,5,ECU
+ECU10079,2025-02-25,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Venezuela),Labor Group (Venezuela),Ecuador,Pichincha,Quito,Quito - Eloy Alfaro,-0.259,-78.5292,1,National,1,ECU
+ECU10080,2025-02-25,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Cotopaxi,Latacunga,Tanicuchi,-0.781,-78.6391,1,National,1,ECU
+ECU10081,2025-02-26,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Febres Cordero,-2.2027,-79.9325,1,National,1,ECU
+ECU10082,2025-02-26,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Huaquillas,Huaquillas,-3.4747,-80.2255,1,Subnational-National,1,ECU
+ECU10083,2025-02-26,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Peru),Labor Group (Peru),Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational,1,ECU
+ECU10084,2025-02-26,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Civilians (Venezuela),Ecuador,Los Rios,Quinsaloma,Pambilar de Calope,-1.0592,-79.3245,2,National,4,ECU
+ECU10085,2025-02-26,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Puente Lucia,-1.986,-79.9855,1,National,2,ECU
+ECU10086,2025-02-27,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,2,ECU
+ECU10087,2025-02-26,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Santo Domingo de los Tsachilas,Santo Domingo,Umpe Chico,-0.1344,-79.3392,1,National,0,ECU
+ECU10088,2025-02-27,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU10089,2025-02-28,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU10090,2025-02-25,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Febres Cordero,-2.2027,-79.9325,1,National,4,ECU
+ECU10091,2025-02-27,1,Strategic developments,Looting/property destruction,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,El Oro,Machala,Puerto Bolivar,-3.2681,-79.9991,1,Subnational,0,ECU
+ECU10092,2025-02-28,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),Women (Ecuador),Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,0,ECU
+ECU10267,2025-01-12,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Urdaneta,Catarama,-1.5708,-79.4736,1,National,0,ECU
+ECU10268,2025-02-03,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Buena Fe,San Jacinto de Buena Fe,-0.8966,-79.4913,1,National,4,ECU
+ECU10269,2025-02-07,3,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Babahoyo,La Union,-1.7087,-79.3937,1,National,1,ECU
+ECU10270,2025-02-17,1,Violence against civilians,Attack,Los Pepes Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,National,4,ECU
+ECU10271,2025-02-25,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Los Picas Gang (Ecuador),,Ecuador,Pichincha,Quito,Quito - Eloy Alfaro,-0.259,-78.5292,1,National,1,ECU
+ECU10272,2025-02-26,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational,0,ECU
+ECU10274,2025-02-28,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Civilians (Colombia),Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational,2,ECU
+ECU10275,2025-02-28,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational,1,ECU
+ECU10276,2025-02-28,1,Strategic developments,Disrupted weapons use,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Daule,Daule,-1.8611,-79.9777,1,National,0,ECU
+ECU10277,2025-02-28,1,Violence against civilians,Abduction/forced disappearance,Los Aguilas Gang (Ecuador),,Civilians (Ecuador),Fishers (Ecuador),Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,0,ECU
+ECU10278,2025-02-28,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Los Aguilas Gang (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,1,ECU
+ECU10279,2025-02-28,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Former Unidentified Gang (Ecuador),Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,4,ECU
+ECU10280,2025-02-28,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Police Forces of Ecuador (2023-),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU10281,2025-02-28,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,3,ECU
+ECU10282,2025-02-28,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Naranjal,Naranjal,-2.6736,-79.6183,1,National,1,ECU
+ECU10284,2025-02-28,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),Students (Ecuador),Ecuador,Pichincha,Quito,Quito,-0.2299,-78.525,1,National,0,ECU
+ECU10285,2025-02-28,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,Pichincha,Quito,Quito - Eugenio Espejo,-0.1628,-78.4785,1,National,0,ECU
+ECU10286,2025-03-01,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational,1,ECU
+ECU10287,2025-03-01,1,Battles,Armed clash,Los Tiguerones Gang (Ecuador),,Police Forces of Ecuador (2023-),,Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,2,ECU
+ECU10288,2025-03-01,1,Violence against civilians,Attack,Los Tiguerones Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,1,ECU
+ECU10289,2025-03-01,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Police Forces of Ecuador (2023-),Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,3,ECU
+ECU10290,2025-03-01,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU10291,2025-03-01,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,2,ECU
+ECU10292,2025-03-01,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Los Rios,Babahoyo,Caracol,-1.6723,-79.4629,1,National,1,ECU
+ECU10293,2025-03-02,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Women (Ecuador),Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,1,ECU
+ECU10294,2025-03-02,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,3,ECU
+ECU10295,2025-03-02,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU10296,2025-03-02,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Playas,Playas,-2.632,-80.3881,1,National,1,ECU
+ECU10297,2025-03-02,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Jama,Jama,-0.2035,-80.2626,1,National,1,ECU
+ECU10298,2025-03-02,1,Battles,Armed clash,Military Forces of Ecuador (2023-),,CDF: Frontier Command,,Ecuador,Sucumbios,Putumayo,Puerto El Carmen,0.1144,-75.8628,1,National,1,ECU
+ECU10299,2025-03-03,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Pasaje,Pasaje de las Nieves,-3.3276,-79.8075,1,Subnational,0,ECU
+ECU10300,2025-03-03,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Esmeraldas,Quininde,Palma Real,0.623,-79.5484,1,National,3,ECU
+ECU10301,2025-03-03,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,1,ECU
+ECU10302,2025-03-03,1,Battles,Armed clash,Los Fenix Gang (Ecuador),,Los Igualitos Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,5,ECU
+ECU10303,2025-03-03,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,2,ECU
+ECU10304,2025-03-03,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,1,ECU
+ECU10305,2025-03-03,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU10306,2025-03-03,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Febres Cordero,-2.2027,-79.9325,1,National,1,ECU
+ECU10307,2025-03-03,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Nueve de Octubre,-2.1909,-79.8946,1,National,1,ECU
+ECU10308,2025-03-03,1,Strategic developments,Disrupted weapons use,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ayacucho,-2.215,-79.8897,1,National,0,ECU
+ECU10309,2025-03-03,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Police Forces of Ecuador (2023-),,Ecuador,Guayas,Playas,Playas,-2.632,-80.3881,1,National,0,ECU
+ECU10310,2025-03-03,1,Battles,Armed clash,Los AK47 Gang (Ecuador),,Los Purros Gang (Ecuador),,Ecuador,Los Rios,Puebloviejo,Puebloviejo,-1.5512,-79.5329,1,National,1,ECU
+ECU10311,2025-03-04,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Gang (Ecuador),,,,Ecuador,El Oro,El Guabo,La Iberia,-3.2571,-79.8692,1,Subnational,0,ECU
+ECU10313,2025-03-04,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,1,ECU
+ECU10314,2025-03-04,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,3,ECU
+ECU10315,2025-03-04,1,Battles,Armed clash,Los Chone Killers (Ecuador),,Latin Kings Gang (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,4,ECU
+ECU10316,2025-03-04,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Los Chone Killers (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,1,ECU
+ECU10317,2025-03-04,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,1,ECU
+ECU10318,2025-03-04,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Febres Cordero,-2.2027,-79.9325,1,National,1,ECU
+ECU10319,2025-03-04,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Jipijapa,Jipijapa,-1.3483,-80.5792,1,Subnational,0,ECU
+ECU10320,2025-03-04,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Los Choneros Gang (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational,0,ECU
+ECU10321,2025-03-04,2,Strategic developments,Looting/property destruction,Military Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil,-2.1477,-79.9166,3,National,0,ECU
+ECU10322,2025-03-05,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Gang (Ecuador),,,,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational,0,ECU
+ECU10323,2025-03-05,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,1,ECU
+ECU10325,2025-03-05,1,Strategic developments,Disrupted weapons use,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU10326,2025-03-06,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Civilians (Venezuela),Ecuador,El Oro,El Guabo,El Guabo,-3.2416,-79.8318,1,Subnational,1,ECU
+ECU10327,2025-03-06,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Puerto Bolivar,-3.2681,-79.9991,1,Subnational,1,ECU
+ECU10328,2025-03-06,1,Strategic developments,Looting/property destruction,Police Forces of Ecuador (2023-),Military Forces of Ecuador (2023-),Los Chone Killers (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,0,ECU
+ECU10329,2025-03-06,1,Battles,Armed clash,Los Fenix Gang (Ecuador),,Los Igualitos Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,22,ECU
+ECU10330,2025-03-06,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Private Security Forces (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU10331,2025-03-06,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,2,ECU
+ECU10332,2025-03-06,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,1,ECU
+ECU10333,2025-03-06,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Buena Fe,San Jacinto de Buena Fe,-0.8966,-79.4913,1,National,2,ECU
+ECU10335,2025-03-06,2,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Junin,Junin,-0.9289,-80.2057,1,Subnational-National,0,ECU
+ECU10336,2025-03-06,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,2,ECU
+ECU10338,2025-03-06,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Pichincha,Quito,Quito - La Delicia,-0.0384,-78.4921,1,National,1,ECU
+ECU10339,2025-03-07,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,El Cambio,-3.2883,-79.9005,1,Subnational,1,ECU
+ECU10340,2025-03-07,1,Strategic developments,Change to group/activity,Military Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,3,National,0,ECU
+ECU10341,2025-03-07,1,Battles,Armed clash,Police Forces of Ecuador (2023-),Military Forces of Ecuador (2023-),Los Igualitos Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU10342,2025-03-07,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,1,ECU
+ECU10343,2025-03-07,1,Strategic developments,Looting/property destruction,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Manabi,Junin,Junin,-0.9289,-80.2057,1,Subnational,0,ECU
+ECU10344,2025-03-07,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,2,ECU
+ECU10345,2025-03-07,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Portoviejo,Portoviejo,-1.0546,-80.4545,1,Subnational,0,ECU
+ECU10351,2025-03-09,1,Violence against civilians,Attack,Los Chone Killers (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,5,ECU
+ECU10352,2025-03-12,1,Violence against civilians,Attack,Los Chone Killers (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,1,ECU
+ECU10353,2025-01-31,1,Battles,Armed clash,Unidentified Armed Group (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Manabi,Portoviejo,Portoviejo,-1.0546,-80.4545,1,Subnational,0,ECU
+ECU10354,2025-03-04,1,Battles,Armed clash,Unidentified Armed Group (Ecuador),,Los Fenix Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU10355,2025-03-06,1,Battles,Armed clash,Unidentified Gang (Ecuador),Prisoners (Ecuador),Unidentified Gang (Ecuador),Prisoners (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil - Pascuales,-2.0532,-79.9511,1,National,5,ECU
+ECU10357,2025-02-24,1,Violence against civilians,Attack,Los Tiguerones Gang (Ecuador),,Civilians (Ecuador),Police Forces of Ecuador (2023-),Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,1,ECU
+ECU10358,2025-03-07,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Santa Elena,Salinas,Anconcito,-2.3205,-80.8905,1,National,1,ECU
+ECU10359,2025-03-09,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Portoviejo,Crucita,-0.8698,-80.538,1,Subnational,2,ECU
+ECU10360,2025-03-07,1,Battles,Armed clash,Unidentified Armed Group (Ecuador),,Los Igualitos Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU10361,2025-03-07,1,Battles,Armed clash,Unidentified Armed Group (Ecuador),,Police Forces of Ecuador (2023-),,Ecuador,Pichincha,Quito,Quito - Eugenio Espejo,-0.1628,-78.4785,1,National,0,ECU
+ECU10362,2025-03-10,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Jipijapa,Jipijapa,-1.3483,-80.5792,1,Subnational,0,ECU
+ECU10363,2025-03-08,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Police Forces of Ecuador (2023-) Prison Guards,,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU10364,2025-03-08,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU10365,2025-03-08,1,Explosions/Remote violence,Grenade,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational-National,0,ECU
+ECU10366,2025-03-10,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Valencia,Valencia,-0.9513,-79.3516,1,National,1,ECU
+ECU10367,2025-03-08,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,2,ECU
+ECU10368,2025-03-08,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Armed Group (Ecuador),,Ecuador,Pichincha,Quito,Quito - Quitumbe,-0.3142,-78.5533,1,National,0,ECU
+ECU10369,2025-03-11,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Portoviejo,Portoviejo,-1.0546,-80.4545,1,Subnational,1,ECU
+ECU10370,2025-03-09,1,Battles,Armed clash,Los Lobos Gang (Ecuador),,Police Forces of Ecuador (2023-),Military Forces of Ecuador (2023-); Private Security Forces (Ecuador),Ecuador,Tungurahua,Ambato,Ambato,-1.2491,-78.6168,1,National,2,ECU
+ECU10371,2025-03-12,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational,0,ECU
+ECU10372,2025-03-06,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador); Women (Ecuador),Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,National,0,ECU
+ECU10373,2025-03-09,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Los Lobos Gang (Ecuador),,Ecuador,Pichincha,Ruminahui,Sangolqui,-0.3341,-78.4522,1,National,1,ECU
+ECU10374,2025-03-06,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Azuay,Cuenca,Totoracocha,-2.9701,-78.9912,1,Subnational-National,0,ECU
+ECU10375,2025-03-08,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,El Carmen,El Rosario,-0.4253,-79.4266,1,National,1,ECU
+ECU10376,2025-03-12,1,Strategic developments,Looting/property destruction,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational-National,0,ECU
+ECU10377,2025-03-10,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Armed Group (Ecuador),,Ecuador,Guayas,Guayaquil,Puente Lucia,-1.986,-79.9855,1,National,1,ECU
+ECU10378,2025-03-10,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),Former Government of Ecuador (2023-); Labor Group (Ecuador),Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,0,ECU
+ECU10379,2025-03-08,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,2,ECU
+ECU10380,2025-03-07,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Puerto Bolivar,-3.2681,-79.9991,1,Subnational,1,ECU
+ECU10381,2025-03-08,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Portoviejo,Picoaza,-1.0339,-80.5005,1,Subnational,2,ECU
+ECU10382,2025-03-09,3,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Chongon,-2.2358,-80.0778,2,National,4,ECU
+ECU10383,2025-03-09,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU10384,2025-03-09,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Portoviejo,Portoviejo,-1.0546,-80.4545,1,Subnational,1,ECU
+ECU10385,2025-03-09,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Women (Ecuador),Ecuador,Esmeraldas,Quininde,Rosa Zarate,0.3278,-79.4741,1,National,2,ECU
+ECU10386,2025-03-10,2,Battles,Armed clash,Unidentified Gang (Ecuador),,Los Lobos Gang (Ecuador),,Ecuador,Chimborazo,Riobamba,Quimiag,-1.6581,-78.567,1,Subnational,1,ECU
+ECU10387,2025-03-10,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Armed Group (Ecuador),,Ecuador,Carchi,Montufar,San Gabriel,0.5932,-77.8308,1,National,0,ECU
+ECU10388,2025-03-09,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Santa Rosa,Santa Rosa,-3.4504,-79.9612,1,Subnational-National,1,ECU
+ECU10389,2025-03-10,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Baba,Rosa de Oro,-1.8273,-79.7191,1,National,1,ECU
+ECU10390,2025-03-10,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,Los Rios,Baba,San Joaquin,-1.8031,-79.7026,1,National,1,ECU
+ECU10392,2025-03-11,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,0,ECU
+ECU10393,2025-03-11,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Armed Group (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU10394,2025-03-10,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,2,ECU
+ECU10396,2025-03-07,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Gang (Ecuador),,,,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational-National,0,ECU
+ECU10397,2025-03-11,1,Battles,Armed clash,Unidentified Armed Group (Ecuador),,Police Forces of Ecuador (2023-),,Ecuador,Santa Elena,La Libertad,La Libertad,-2.233,-80.9104,1,National,1,ECU
+ECU10398,2025-03-14,1,Strategic developments,Looting/property destruction,Police Forces of Ecuador (2023-),Military Forces of Ecuador (2023-),Unidentified Gang (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,0,ECU
+ECU10399,2025-03-10,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Santa Rosa,Santa Rosa,-3.4504,-79.9612,1,Subnational-National,1,ECU
+ECU10401,2025-03-11,1,Battles,Armed clash,Unidentified Armed Group (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Pichincha,Quito,Quito - La Delicia,-0.0384,-78.4921,1,National,1,ECU
+ECU10402,2025-03-08,1,Protests,Peaceful protest,Protesters (Ecuador),Women (Ecuador),,,Ecuador,Azuay,Cuenca,Cuenca,-2.9006,-79.0045,1,National,0,ECU
+ECU10403,2025-03-08,1,Protests,Peaceful protest,Protesters (Ecuador),Women (Ecuador); LGBTQ+ (Ecuador),,,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational,0,ECU
+ECU10404,2025-03-12,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Gang (Ecuador),,,,Ecuador,Guayas,Guayaquil,Chongon,-2.2358,-80.0778,1,National,0,ECU
+ECU10405,2025-03-10,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Valencia,Valencia,-0.9513,-79.3516,1,National,1,ECU
+ECU10406,2025-03-12,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),Unidentified Gang (Venezuela),Ecuador,Azuay,Cuenca,El Valle,-2.9381,-78.9651,1,Subnational-National,0,ECU
+ECU10407,2025-03-11,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,San Jacinto de Yaguachi,Buena Fe,-2.2685,-79.6098,1,National,0,ECU
+ECU10408,2025-03-12,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU10409,2025-03-11,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU10410,2025-03-11,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,3,ECU
+ECU10411,2025-03-12,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil,-2.1477,-79.9166,1,National,1,ECU
+ECU10412,2025-03-12,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational-National,1,ECU
+ECU10413,2025-03-12,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Manabi,Portoviejo,Portoviejo,-1.0546,-80.4545,1,Subnational,1,ECU
+ECU10414,2025-03-12,1,Explosions/Remote violence,Grenade,Unidentified Gang (Ecuador),,,,Ecuador,El Oro,Machala,Puerto Bolivar,-3.2681,-79.9991,1,Subnational-National,0,ECU
+ECU10415,2025-03-07,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,National,0,ECU
+ECU10416,2025-03-13,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Farmers (Ecuador),Ecuador,El Oro,Arenillas,Arenillas,-3.5564,-80.0695,2,Subnational-National,2,ECU
+ECU10418,2025-03-13,3,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,El Guabo,Bajo Alto,-3.1083,-79.9002,2,Subnational,1,ECU
+ECU10419,2025-03-13,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Los Chone Killers (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,1,ECU
+ECU10420,2025-03-13,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Gang (Ecuador),,Police Forces of Ecuador (2023-) Prison Guards,,Ecuador,Guayas,Guayaquil,Guayaquil - Pascuales,-2.0532,-79.9511,1,National,1,ECU
+ECU10421,2025-03-13,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,1,ECU
+ECU10422,2025-03-13,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Huaquillas,Huaquillas,-3.4747,-80.2255,1,Subnational,1,ECU
+ECU10423,2025-03-13,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Orellana,La Joya de los Sachas,Enokanki,-0.2265,-76.8482,1,National,0,ECU
+ECU10424,2025-03-13,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Santa Elena,La Libertad,La Libertad,-2.233,-80.9104,1,National,2,ECU
+ECU10425,2025-03-13,1,Strategic developments,Disrupted weapons use,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational,0,ECU
+ECU10426,2025-03-13,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,0,ECU
+ECU10427,2025-03-13,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Tungurahua,Ambato,Montalvo,-1.3305,-78.6276,1,National,0,ECU
+ECU10428,2025-03-13,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Venezuela),,Ecuador,Guayas,Playas,Playas,-2.632,-80.3881,1,National,1,ECU
+ECU10429,2025-03-13,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Tungurahua,San Pedro de Pelileo,Pelileo,-1.3302,-78.5454,1,National,1,ECU
+ECU10430,2025-03-13,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Manabi,Santa Ana,Santa Ana,-1.2074,-80.3694,1,Subnational,0,ECU
+ECU10431,2025-03-13,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Santo Domingo de los Tsachilas,Santo Domingo,Santo Domingo de los Tsachilas,-0.2531,-79.1754,1,National,0,ECU
+ECU10432,2025-03-13,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Santa Elena,Santa Elena,Simon Bolivar,-1.8811,-80.7345,2,National,2,ECU
+ECU10433,2025-03-13,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Tungurahua,Ambato,Totoras,-1.3158,-78.596,1,National,0,ECU
+ECU10434,2025-03-11,1,Strategic developments,Looting/property destruction,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational-National,0,ECU
+ECU10435,2025-03-14,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU10437,2025-03-14,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Orellana,La Joya de los Sachas,San Sebastian del Coca,-0.3392,-77.0044,1,National,4,ECU
+ECU10573,2025-03-17,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Santa Elena,Salinas,Anconcito,-2.3205,-80.8905,2,National,1,ECU
+ECU10574,2025-03-17,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Santa Elena,La Libertad,La Libertad,-2.233,-80.9104,1,National,1,ECU
+ECU10575,2025-03-15,1,Strategic developments,Arrests,Police Forces of Ecuador (2023-),,Los Choneros Gang (Ecuador),Los Fatales Gang (Ecuador),Ecuador,Orellana,La Joya de los Sachas,La Joya de los Sachas,-0.3002,-76.8575,1,National,0,ECU
+ECU10576,2025-03-16,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Buena Fe,Patricia Pilar,-0.5742,-79.3706,1,National,1,ECU
+ECU10577,2025-03-16,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Los Rios,Buena Fe,San Jacinto de Buena Fe,-0.8966,-79.4913,1,National,3,ECU
+ECU10578,2025-03-17,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,0,ECU
+ECU10579,2025-03-14,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,0,ECU
+ECU10580,2025-03-15,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Febres Cordero,-2.2027,-79.9325,1,National,2,ECU
+ECU10581,2025-03-16,1,Explosions/Remote violence,Grenade,Los Tiguerones Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,2,ECU
+ECU10582,2025-03-17,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU10583,2025-03-16,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Garcia Moreno,-2.2143,-79.8994,1,National,1,ECU
+ECU10584,2025-03-16,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,2,ECU
+ECU10585,2025-03-16,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,El Guabo,La Iberia,-3.2571,-79.8692,1,Subnational,1,ECU
+ECU10586,2025-03-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Gang (Ecuador),,,,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational,0,ECU
+ECU10587,2025-03-13,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational,1,ECU
+ECU10588,2025-03-16,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,1,ECU
+ECU10589,2025-03-17,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,1,ECU
+ECU10590,2025-03-16,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,National,0,ECU
+ECU10591,2025-03-16,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Pasaje,Pasaje de las Nieves,-3.3276,-79.8075,1,Subnational,1,ECU
+ECU10592,2025-03-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Gang (Ecuador),,,,Ecuador,Guayas,Playas,Playas,-2.632,-80.3881,1,National,0,ECU
+ECU10593,2025-03-16,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Puebloviejo,Puebloviejo,-1.5512,-79.5329,1,National,1,ECU
+ECU10594,2025-03-16,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Puebloviejo,Puebloviejo,-1.5512,-79.5329,1,National,1,ECU
+ECU10595,2025-03-16,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Women (Ecuador),Ecuador,Pichincha,Quito,Quito - Eugenio Espejo,-0.1628,-78.4785,1,National,1,ECU
+ECU10596,2025-03-16,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Santa Elena,Santa Elena,Santa Elena,-2.2262,-80.8587,1,National,2,ECU
+ECU10597,2025-03-17,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Santo Domingo de los Tsachilas,Santo Domingo,Santo Domingo de los Tsachilas,-0.2531,-79.1754,1,National,1,ECU
+ECU10601,2025-03-16,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,1,ECU
+ECU10602,2025-03-17,1,Strategic developments,Disrupted weapons use,Military Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,El Oro,El Guabo,Bajo Alto,-3.1083,-79.9002,1,Subnational,0,ECU
+ECU10607,2025-03-17,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU10608,2025-03-17,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Huaquillas,Huaquillas,-3.4747,-80.2255,1,Subnational,1,ECU
+ECU10610,2025-03-16,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Armed Group (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational,0,ECU
+ECU10614,2025-03-17,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Pasaje,Buenavista,-3.3628,-79.8443,1,Subnational,1,ECU
+ECU10615,2025-03-16,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Pasaje,Pasaje de las Nieves,-3.3276,-79.8075,1,Subnational,1,ECU
+ECU10616,2025-03-17,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Puerto Bolivar,-3.2681,-79.9991,1,Subnational,1,ECU
+ECU10617,2025-03-17,1,Strategic developments,Disrupted weapons use,Police Forces of Ecuador (2023-),,Unidentified Armed Group (Ecuador),,Ecuador,El Oro,Machala,Puerto Bolivar,-3.2681,-79.9991,1,Subnational,0,ECU
+ECU10618,2025-03-17,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Santa Rosa,Santa Rosa,-3.4504,-79.9612,1,Subnational,1,ECU
+ECU10619,2025-03-14,1,Violence against civilians,Abduction/forced disappearance,Los Lobos Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Valencia,El Vergel,-0.7981,-79.3532,1,National,0,ECU
+ECU10622,2025-02-25,1,Violence against civilians,Attack,Police Forces of Ecuador (2023-),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Pichincha,Quito,Quito - Quitumbe,-0.3142,-78.5533,1,National,0,ECU
+ECU10625,2025-03-17,1,Battles,Armed clash,Los Tiguerones Gang (Ecuador),,Police Forces of Ecuador (2023-),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU10629,2025-03-17,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Pedernales,Pedernales,0.0702,-80.0547,1,Subnational,1,ECU
+ECU10699,2025-03-14,1,Violence against civilians,Abduction/forced disappearance,Los Tiguerones Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,0,ECU
+ECU10712,2025-03-09,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Balzar,Balzar,-1.365,-79.9049,1,National,1,ECU
+ECU10713,2025-03-16,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational,1,ECU
+ECU10749,2025-03-17,1,Battles,Armed clash,Unidentified Armed Group (Ecuador),,Police Forces of Ecuador (2023-),,Ecuador,Santo Domingo de los Tsachilas,Santo Domingo,Santo Domingo de los Tsachilas,-0.2531,-79.1754,1,National,0,ECU
+ECU10755,2025-03-06,1,Strategic developments,Looting/property destruction,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational,0,ECU
+ECU10804,2025-03-01,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,2,ECU
+ECU10874,2025-02-14,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,2,ECU
+ECU11013,2025-01-16,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),Unidentified Armed Group (Colombia),Civilians (Ecuador),Women (Ecuador),Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,1,ECU
+ECU11100,2025-02-14,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational,0,ECU
+ECU11138,2025-03-05,1,Battles,Armed clash,CDF: Frontier Command,,Military Forces of Ecuador (2023-),,Ecuador,Sucumbios,Putumayo,Puerto El Carmen,0.1144,-75.8628,1,National,0,ECU
+ECU11289,2025-01-06,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,4,ECU
+ECU11303,2025-01-14,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,0,ECU
+ECU11311,2025-02-19,1,Explosions/Remote violence,Grenade,Unidentified Gang (Ecuador),,,,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational,0,ECU
+ECU11443,2025-03-15,3,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Gang (Ecuador),,,,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,National,0,ECU
+ECU8944,2025-01-01,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),Women (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU8955,2025-01-02,1,Protests,Peaceful protest,Protesters (Ecuador),Indigenous Group (Ecuador),,,Ecuador,Cotopaxi,Salcedo,San Miguel de Salcedo,-1.044,-78.5911,1,National,0,ECU
+ECU8958,2025-01-01,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,National,0,ECU
+ECU9010,2025-01-02,1,Strategic developments,Other,Government of Ecuador (2023-),,,,Ecuador,Guayas,Guayaquil,Guayaquil,-2.1477,-79.9166,3,National,0,ECU
+ECU9012,2025-01-01,1,Battles,Armed clash,Unidentified Armed Group (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,1,ECU
+ECU9013,2025-01-02,1,Riots,Mob violence,Rioters (Ecuador),Indigenous Group (Ecuador); Vigilante Group (Ecuador),Civilians (Venezuela),,Ecuador,Cotopaxi,Salcedo,San Miguel de Salcedo,-1.044,-78.5911,1,National,0,ECU
+ECU9024,2025-01-01,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,2,ECU
+ECU9026,2025-01-01,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil,-2.1477,-79.9166,1,National,5,ECU
+ECU9028,2025-01-01,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Pasaje,Pasaje de las Nieves,-3.3276,-79.8075,1,National,2,ECU
+ECU9030,2025-01-01,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Portoviejo,Portoviejo,-1.0546,-80.4545,1,Subnational-National,1,ECU
+ECU9033,2025-01-02,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Jaramijo,Jaramijo,-0.9489,-80.6381,1,Subnational-National,1,ECU
+ECU9034,2025-01-02,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,1,ECU
+ECU9035,2025-01-03,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,1,ECU
+ECU9036,2025-01-03,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Pascuales,-2.0532,-79.9511,1,National,1,ECU
+ECU9066,2025-01-09,1,Protests,Peaceful protest,Protesters (Venezuela),MUD: Democratic Unity Roundtable,,,Ecuador,Azuay,Cuenca,Cuenca,-2.9006,-79.0045,1,National,0,ECU
+ECU9068,2025-01-08,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,El Guabo,El Guabo,-3.2416,-79.8318,1,Subnational,1,ECU
+ECU9069,2025-01-06,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,El Oro,Huaquillas,Huaquillas,-3.4747,-80.2255,1,Subnational,1,ECU
+ECU9070,2025-01-01,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,National,1,ECU
+ECU9071,2025-01-04,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational-National,1,ECU
+ECU9072,2025-01-05,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,National,1,ECU
+ECU9073,2025-01-09,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,National,1,ECU
+ECU9074,2025-01-10,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Women (Ecuador),Ecuador,El Oro,Machala,El Porton,-3.2676,-79.8906,1,Subnational-National,1,ECU
+ECU9075,2025-01-05,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Puerto Bolivar,-3.2681,-79.9991,1,National,1,ECU
+ECU9076,2025-01-10,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,El Oro,Machala,Puerto Bolivar,-3.2681,-79.9991,1,Subnational,1,ECU
+ECU9077,2025-01-08,1,Strategic developments,Disrupted weapons use,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,0,ECU
+ECU9078,2025-01-07,1,Violence against civilians,Attack,Los Tiguerones Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Esmeraldas,Quininde,Rosa Zarate,0.3278,-79.4741,1,National,1,ECU
+ECU9079,2025-01-03,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Farmers (Ecuador),Ecuador,Guayas,Colimes,Colimes,-1.5457,-80.0106,2,National,1,ECU
+ECU9080,2025-01-05,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Daule,Daule,-1.8611,-79.9777,1,National,1,ECU
+ECU9081,2025-01-04,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,0,ECU
+ECU9082,2025-01-09,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,5,ECU
+ECU9083,2025-01-09,1,Violence against civilians,Attack,Los Chone Killers (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,1,ECU
+ECU9085,2025-01-04,1,Violence against civilians,Attack,Los Tiguerones Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU9086,2025-01-05,1,Riots,Mob violence,Rioters (Ecuador),Los Lobos Gang (Ecuador); Prisoners (Ecuador),,,Ecuador,Guayas,Guayaquil,Guayaquil - Pascuales,-2.0532,-79.9511,1,National-International,0,ECU
+ECU9087,2025-01-06,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Civilians (Venezuela),Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,3,ECU
+ECU9088,2025-01-06,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,1,ECU
+ECU9089,2025-01-06,1,Battles,Armed clash,Los Tiguerones Gang (Ecuador),,Los Carniceros Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,1,ECU
+ECU9090,2025-01-06,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Armed Group (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil,-2.1477,-79.9166,1,National,0,ECU
+ECU9091,2025-01-07,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Pascuales,-2.0532,-79.9511,1,National,1,ECU
+ECU9092,2025-01-08,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),Police Forces of Ecuador (2023-),Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU9093,2025-01-08,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,4,ECU
+ECU9094,2025-01-08,1,Battles,Armed clash,Los Lobos Gang (Ecuador),Prisoners (Ecuador),Los Aguilas Gang (Ecuador),Los Choneros Gang (Ecuador); Prisoners (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil - Pascuales,-2.0532,-79.9511,1,National,1,ECU
+ECU9095,2025-01-08,1,Strategic developments,Arrests,Police Forces of Ecuador (2023-),,Civilians (Ecuador),Former Government of Ecuador (2023-); PSC: Social Christian Party (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil,-2.1477,-79.9166,1,National,0,ECU
+ECU9096,2025-01-09,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,1,ECU
+ECU9097,2025-01-09,1,Battles,Armed clash,Unidentified Armed Group (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Garcia Moreno,-2.2143,-79.8994,1,National,1,ECU
+ECU9098,2025-01-09,1,Protests,Peaceful protest,Protesters (Ecuador),Labor Group (Ecuador); Taxi/Bus Drivers (Ecuador),,,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU9099,2025-01-09,1,Protests,Peaceful protest,Protesters (Venezuela),MUD: Democratic Unity Roundtable,,,Ecuador,Guayas,Guayaquil,Guayaquil,-2.1477,-79.9166,1,National,0,ECU
+ECU9100,2025-01-09,1,Violence against civilians,Attack,Los Tiguerones Gang (Ecuador),,Civilians (Venezuela),Civilians (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil,-2.1477,-79.9166,1,National,3,ECU
+ECU9101,2025-01-09,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,2,ECU
+ECU9102,2025-01-10,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU9103,2025-01-10,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,1,ECU
+ECU9104,2025-01-05,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),Christian Group (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil - Pascuales,-2.0532,-79.9511,1,National,3,ECU
+ECU9105,2025-01-07,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Lomas de Sargentillo,Lomas de Sargentillo,-1.8796,-80.0835,1,National,1,ECU
+ECU9108,2025-01-09,1,Battles,Armed clash,Military Forces of Ecuador (2023-),Police Forces of Ecuador (2023-),Los Lobos Gang (Ecuador),,Ecuador,Los Rios,Babahoyo,Febres Cordero,-1.9637,-79.3089,2,National,3,ECU
+ECU9109,2025-01-06,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Quevedo,La Esperanza,-0.9658,-79.4224,2,National,0,ECU
+ECU9110,2025-01-03,2,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Los Rios,Quinsaloma,Quinsaloma,-1.2057,-79.3141,1,National,1,ECU
+ECU9111,2025-01-04,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Los Rios,Quinsaloma,Quinsaloma,-1.2057,-79.3141,1,National,3,ECU
+ECU9113,2025-01-03,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (International),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational,2,ECU
+ECU9114,2025-01-06,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,National,1,ECU
+ECU9115,2025-01-07,1,Battles,Armed clash,Unidentified Armed Group (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,National,1,ECU
+ECU9116,2025-01-07,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,National,1,ECU
+ECU9117,2025-01-08,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Los Choneros Gang (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,0,ECU
+ECU9118,2025-01-09,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,5,ECU
+ECU9119,2025-01-06,1,Battles,Armed clash,Unidentified Gang (Ecuador),Police Forces of Ecuador (2023-),Police Forces of Ecuador (2023-),,Ecuador,Manabi,Portoviejo,Picoaza,-1.0339,-80.5005,1,National,0,ECU
+ECU9120,2025-01-06,1,Battles,Armed clash,Unidentified Armed Group (Ecuador),,Police Forces of Ecuador (2023-),,Ecuador,Manabi,Portoviejo,Portoviejo,-1.0546,-80.4545,1,Subnational,0,ECU
+ECU9121,2025-01-07,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Portoviejo,Portoviejo,-1.0546,-80.4545,1,Subnational-National,1,ECU
+ECU9122,2025-01-09,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Manabi,Portoviejo,Portoviejo,-1.0546,-80.4545,1,Subnational-National,3,ECU
+ECU9123,2025-01-10,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Portoviejo,Portoviejo,-1.0546,-80.4545,1,Subnational,1,ECU
+ECU9124,2025-01-08,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Puerto Lopez,Puerto Lopez,-1.5546,-80.8089,1,Subnational-National,1,ECU
+ECU9125,2025-01-10,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,Manabi,Rocafuerte,Rocafuerte,-0.9236,-80.4495,1,Subnational,1,ECU
+ECU9127,2025-01-03,1,Violence against civilians,Attack,Los Lobos Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Pichincha,Quito,Quito - Calderon,-0.1034,-78.4238,1,National,0,ECU
+ECU9128,2025-01-05,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Military Forces of Ecuador (2023-),,Ecuador,Pichincha,Quito,Quito - Quitumbe,-0.3142,-78.5533,1,National,1,ECU
+ECU9129,2025-01-09,1,Protests,Peaceful protest,Protesters (Venezuela),MUD: Democratic Unity Roundtable,,,Ecuador,Pichincha,Quito,Quito,-0.2299,-78.525,1,National,0,ECU
+ECU9130,2025-01-10,1,Strategic developments,Disrupted weapons use,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Pichincha,Quito,Quito - Eugenio Espejo,-0.1628,-78.4785,1,National,0,ECU
+ECU9132,2025-01-05,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Santa Elena,La Libertad,La Libertad,-2.233,-80.9104,1,National,1,ECU
+ECU9133,2025-01-08,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Santa Elena,La Libertad,La Libertad,-2.233,-80.9104,1,National,1,ECU
+ECU9134,2025-01-09,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Santa Elena,La Libertad,La Libertad,-2.233,-80.9104,1,National,1,ECU
+ECU9135,2025-01-10,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Santa Elena,La Libertad,La Libertad,-2.233,-80.9104,1,National,1,ECU
+ECU9136,2025-01-03,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Los Lobos Gang (Ecuador),,Ecuador,Santa Elena,Salinas,Salinas,-2.2101,-80.9661,1,National,3,ECU
+ECU9137,2025-01-10,1,Strategic developments,Looting/property destruction,Military Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Santa Elena,Santa Elena,Chanduy,-2.4032,-80.6791,1,National,0,ECU
+ECU9138,2025-01-09,1,Strategic developments,Looting/property destruction,Military Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Sucumbios,Putumayo,Puerto El Carmen,0.1144,-75.8628,2,National,0,ECU
+ECU9139,2025-01-04,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Tungurahua,Ambato,Ambato,-1.2491,-78.6168,1,National,1,ECU
+ECU9140,2025-01-05,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Tungurahua,Ambato,Ambato,-1.2491,-78.6168,1,Subnational-National,1,ECU
+ECU9141,2025-01-06,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Tungurahua,Ambato,Ambato,-1.2491,-78.6168,1,Subnational,1,ECU
+ECU9142,2025-01-07,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Tungurahua,Ambato,Ambato,-1.2491,-78.6168,1,Subnational-National,0,ECU
+ECU9143,2025-01-03,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Tungurahua,Tisaleo,Tisaleo,-1.349,-78.6685,2,Subnational,1,ECU
+ECU9301,2025-01-14,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),Women (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU9303,2025-01-13,2,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),Women (Ecuador),Ecuador,Azuay,Cuenca,Cuenca,-2.9006,-79.0045,1,Subnational,0,ECU
+ECU9304,2025-01-14,2,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),Women (Ecuador),Ecuador,Los Rios,Quevedo,Quevedo,-1.0286,-79.4635,1,National,0,ECU
+ECU9305,2025-01-12,1,Battles,Armed clash,Los Lagartos Gang (Ecuador),,Police Forces of Ecuador (2023-),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,1,ECU
+ECU9306,2025-01-12,1,Battles,Armed clash,Military Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,El Oro,Machala,Puerto Bolivar,-3.2681,-79.9991,1,Subnational-National,1,ECU
+ECU9307,2025-01-16,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Los Chone Killers (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU9308,2025-01-13,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU9309,2025-01-09,1,Battles,Armed clash,Unidentified Armed Group (Ecuador),,Unidentified Armed Group (Ecuador),,Ecuador,Guayas,Playas,Playas,-2.632,-80.3881,1,National,0,ECU
+ECU9310,2025-01-12,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Los Choneros Gang (Ecuador),,Ecuador,Sucumbios,Shushufindi,Shushufindi,-0.1851,-76.6458,1,National,4,ECU
+ECU9311,2025-01-15,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Police Forces of Ecuador (2023-),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,National,0,ECU
+ECU9312,2025-01-11,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Private Security Forces (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU9313,2025-01-10,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Tungurahua,Ambato,Ambato,-1.2491,-78.6168,1,National,0,ECU
+ECU9314,2025-01-17,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Febres Cordero,-2.2027,-79.9325,1,National,1,ECU
+ECU9315,2025-01-14,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Manabi,Santa Ana,Santa Ana,-1.2074,-80.3694,1,Subnational,1,ECU
+ECU9316,2025-01-13,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,1,ECU
+ECU9317,2025-01-16,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,2,ECU
+ECU9318,2025-01-13,2,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Los Rios,Buena Fe,San Jacinto de Buena Fe,-0.8966,-79.4913,1,National,2,ECU
+ECU9319,2025-01-11,2,Strategic developments,Arrests,Police Forces of Ecuador (2023-),,Latin Kings Gang (Ecuador),Los Chone Killers (Ecuador),Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,0,ECU
+ECU9320,2025-01-11,1,Violence against civilians,Attack,Los Chone Killers (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,1,ECU
+ECU9321,2025-01-09,2,Violence against civilians,Attack,Los Tiguerones Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,2,ECU
+ECU9323,2025-01-10,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Guayas,Playas,Playas,-2.632,-80.3881,1,National,1,ECU
+ECU9324,2025-01-06,2,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador); Women (Ecuador),Ecuador,Esmeraldas,San Lorenzo,Mataje,1.0667,-78.5833,1,National,1,ECU
+ECU9325,2025-01-13,2,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Tungurahua,Ambato,Ambato,-1.2491,-78.6168,1,National,1,ECU
+ECU9328,2025-01-10,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Daule,Daule,-1.8611,-79.9777,1,National,1,ECU
+ECU9329,2025-01-11,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,1,ECU
+ECU9330,2025-01-11,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,1,ECU
+ECU9331,2025-01-11,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Portoviejo,Portoviejo,-1.0546,-80.4545,1,Subnational,1,ECU
+ECU9332,2025-01-13,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Portoviejo,Portoviejo,-1.0546,-80.4545,1,Subnational,1,ECU
+ECU9333,2025-01-14,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Portoviejo,Portoviejo,-1.0546,-80.4545,1,Subnational,1,ECU
+ECU9334,2025-01-12,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,2,ECU
+ECU9335,2025-01-16,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Naranjal,Naranjal,-2.6736,-79.6183,1,National,2,ECU
+ECU9336,2025-01-11,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Santa Elena,La Libertad,La Libertad,-2.233,-80.9104,1,National,4,ECU
+ECU9337,2025-01-15,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU9338,2025-01-14,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,1,ECU
+ECU9339,2025-01-12,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,1,ECU
+ECU9340,2025-01-14,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU9341,2025-01-12,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Military Forces of Ecuador (2023-),Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,3,ECU
+ECU9342,2025-01-14,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Police Forces of Ecuador (2023-),Ecuador,El Oro,Huaquillas,Huaquillas,-3.4747,-80.2255,1,Subnational-National,1,ECU
+ECU9343,2025-01-10,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Police Forces of Ecuador (2023-),Ecuador,Sucumbios,Lago Agrio,Nueva Loja,0.0821,-76.8806,1,National,1,ECU
+ECU9344,2025-01-15,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Women (Ecuador),Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,1,ECU
+ECU9345,2025-01-16,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational-National,1,ECU
+ECU9346,2025-01-12,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,National,0,ECU
+ECU9347,2025-01-13,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Tungurahua,Quero,Quero,-1.3808,-78.6084,1,Subnational,0,ECU
+ECU9348,2025-01-15,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Pichincha,Quito,Quito - Eugenio Espejo,-0.1628,-78.4785,1,National,0,ECU
+ECU9349,2025-01-16,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Tungurahua,Ambato,El Progreso,-1.144,-78.589,1,National,1,ECU
+ECU9352,2025-01-13,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,1,ECU
+ECU9353,2025-01-16,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,El Cambio,-3.2883,-79.9005,1,Subnational-National,1,ECU
+ECU9354,2025-01-10,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Salitre,El Salitre,-1.8304,-79.8127,1,National,1,ECU
+ECU9355,2025-01-16,3,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,1,ECU
+ECU9356,2025-01-11,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU9357,2025-01-12,3,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU9358,2025-01-13,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU9359,2025-01-14,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU9360,2025-01-16,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Pascuales,-2.0532,-79.9511,1,National,1,ECU
+ECU9361,2025-01-15,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational-National,1,ECU
+ECU9362,2025-01-11,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,1,ECU
+ECU9363,2025-01-14,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational,1,ECU
+ECU9364,2025-01-16,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Febres Cordero,-2.2027,-79.9325,1,National,2,ECU
+ECU9365,2025-01-16,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,1,ECU
+ECU9366,2025-01-17,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Montecristi,Montecristi,-1.0458,-80.6589,1,Subnational,1,ECU
+ECU9367,2025-01-14,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Manabi,Portoviejo,Portoviejo,-1.0546,-80.4545,1,Subnational,1,ECU
+ECU9368,2025-01-16,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Esmeraldas,Quininde,Rosa Zarate,0.3278,-79.4741,1,National,1,ECU
+ECU9369,2025-01-14,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Santa Ana,Santa Ana,-1.2074,-80.3694,1,Subnational,1,ECU
+ECU9371,2025-01-12,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Salitre,Tres Marias,-1.7873,-79.7556,1,National,1,ECU
+ECU9372,2025-01-10,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,3,ECU
+ECU9373,2025-01-16,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Huaquillas,Huaquillas,-3.4747,-80.2255,1,National,2,ECU
+ECU9374,2025-01-11,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational-National,2,ECU
+ECU9375,2025-01-10,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Playas,Playas,-2.632,-80.3881,1,National,2,ECU
+ECU9377,2025-01-14,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,3,ECU
+ECU9378,2025-01-16,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,4,ECU
+ECU9379,2025-01-12,1,Violence against civilians,Attack,Los Lagartos Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,5,ECU
+ECU9380,2025-01-14,1,Strategic developments,Looting/property destruction,Military Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Carchi,Tulcan,Tulcan,0.8119,-77.7173,1,National,0,ECU
+ECU9381,2025-01-15,1,Strategic developments,Looting/property destruction,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,0,ECU
+ECU9382,2025-01-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Gang (Ecuador),,,,Ecuador,Guayas,Guayaquil,Guayaquil - Febres Cordero,-2.2027,-79.9325,1,National,0,ECU
+ECU9383,2025-01-16,1,Strategic developments,Looting/property destruction,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Pascuales,-2.0532,-79.9511,1,National,0,ECU
+ECU9384,2025-01-10,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Gang (Ecuador),,,,Ecuador,El Oro,Machala,Puerto Bolivar,-3.2681,-79.9991,1,Subnational,0,ECU
+ECU9385,2025-01-17,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Government of Ecuador (2023-); Judges (Ecuador); Women (Ecuador),Ecuador,Santa Elena,La Libertad,La Libertad,-2.233,-80.9104,1,National,0,ECU
+ECU9386,2025-01-11,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Santo Domingo de los Tsachilas,Santo Domingo,Santo Domingo de los Tsachilas,-0.2531,-79.1754,1,National,0,ECU
+ECU9387,2025-01-16,2,Violence against civilians,Sexual violence,Unidentified Gang (Ecuador),,Civilians (Ecuador),Women (Ecuador),Ecuador,Azuay,Cuenca,Cuenca,-2.9006,-79.0045,1,National,0,ECU
+ECU9388,2025-01-21,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Sucre,Charapoto,-0.8378,-80.488,1,National,0,ECU
+ECU9389,2025-01-21,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Azuay,Cuenca,Cuenca,-2.9006,-79.0045,1,National,0,ECU
+ECU9390,2025-01-18,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,National,0,ECU
+ECU9392,2025-01-19,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Armed Group (Ecuador),,Ecuador,Tungurahua,Ambato,Ambato,-1.2491,-78.6168,1,National,1,ECU
+ECU9393,2025-01-22,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,National,0,ECU
+ECU9394,2025-01-19,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Manabi,Portoviejo,Portoviejo,-1.0546,-80.4545,1,Subnational,0,ECU
+ECU9397,2025-01-18,2,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Tungurahua,Ambato,Ambato,-1.2491,-78.6168,3,Subnational-National,1,ECU
+ECU9398,2025-01-23,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,1,ECU
+ECU9399,2025-01-19,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,3,ECU
+ECU9400,2025-01-22,1,Violence against civilians,Attack,Los Chone Killers (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,1,ECU
+ECU9402,2025-01-23,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Montecristi,Montecristi,-1.0458,-80.6589,1,Subnational,1,ECU
+ECU9403,2025-01-18,3,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Arenillas,Pacifico,-3.4554,-80.0439,1,Subnational,1,ECU
+ECU9404,2025-01-21,2,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Portoviejo,Portoviejo,-1.0546,-80.4545,1,Subnational,1,ECU
+ECU9405,2025-01-18,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Playas,Playas,-2.632,-80.3881,1,National,2,ECU
+ECU9407,2025-01-23,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),Unidentified Gang (Venezuela),Civilians (Venezuela),,Ecuador,Tungurahua,Ambato,Ambato,-1.2491,-78.6168,1,National,1,ECU
+ECU9408,2025-01-20,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,1,ECU
+ECU9409,2025-01-24,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Manabi,Montecristi,Montecristi,-1.0458,-80.6589,1,Subnational,1,ECU
+ECU9410,2025-01-22,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Former Police Forces of Ecuador (2023-); Labor Group (Ecuador),Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,2,ECU
+ECU9411,2025-01-21,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,1,ECU
+ECU9412,2025-01-18,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational-National,1,ECU
+ECU9413,2025-01-17,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil - Pascuales,-2.0532,-79.9511,1,National,1,ECU
+ECU9414,2025-01-20,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,3,ECU
+ECU9415,2025-01-21,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Women (Ecuador),Ecuador,Manabi,Montecristi,Montecristi,-1.0458,-80.6589,1,Subnational-National,1,ECU
+ECU9416,2025-01-24,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Women (Ecuador),Ecuador,El Oro,Santa Rosa,Santa Rosa,-3.4504,-79.9612,2,National,1,ECU
+ECU9417,2025-01-21,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Women (Ecuador),Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,3,ECU
+ECU9418,2025-01-23,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador); Women (Ecuador),Ecuador,Santa Elena,La Libertad,La Libertad,-2.233,-80.9104,1,National,1,ECU
+ECU9419,2025-01-22,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational,0,ECU
+ECU9421,2025-01-20,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,1,ECU
+ECU9422,2025-01-21,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,El Guabo,El Guabo,-3.2416,-79.8318,1,Subnational-National,1,ECU
+ECU9423,2025-01-16,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Simon Bolivar,El Progreso,-1.9833,-79.4503,1,National,1,ECU
+ECU9424,2025-01-17,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,1,ECU
+ECU9425,2025-01-19,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU9426,2025-01-22,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU9427,2025-01-24,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU9428,2025-01-20,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,24 de Mayo,Leonidas Plaza,-1.5251,-80.3378,1,Subnational,1,ECU
+ECU9429,2025-01-17,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational,1,ECU
+ECU9430,2025-01-20,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational,1,ECU
+ECU9431,2025-01-20,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational,1,ECU
+ECU9432,2025-01-20,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Palenque,Palenque,-1.4356,-79.7569,1,National,1,ECU
+ECU9433,2025-01-19,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Portoviejo,Portoviejo,-1.0546,-80.4545,1,Subnational,1,ECU
+ECU9434,2025-01-20,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Portoviejo,Portoviejo,-1.0546,-80.4545,1,Subnational,1,ECU
+ECU9435,2025-01-18,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Puerto Bolivar,-3.2681,-79.9991,1,Subnational-National,1,ECU
+ECU9436,2025-01-19,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Quevedo,Quevedo,-1.0286,-79.4635,1,National,1,ECU
+ECU9437,2025-01-20,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Pichincha,Quito,Quito - Manuela Saenz,-0.2201,-78.5121,1,National,1,ECU
+ECU9438,2025-01-22,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Babahoyo,Santa Clementina,-1.7363,-79.3187,1,National,1,ECU
+ECU9439,2025-01-19,3,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Santa Rosa,Santa Rosa,-3.4504,-79.9612,1,National,1,ECU
+ECU9440,2025-01-20,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Santa Rosa,Santa Rosa,-3.4504,-79.9612,1,Subnational-National,1,ECU
+ECU9441,2025-01-23,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Santa Rosa,Santa Rosa,-3.4504,-79.9612,1,Subnational,1,ECU
+ECU9442,2025-01-17,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,2,ECU
+ECU9443,2025-01-18,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,2,ECU
+ECU9444,2025-01-20,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,2,ECU
+ECU9445,2025-01-18,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Tungurahua,Ambato,Izamba,-1.2192,-78.5749,1,National,2,ECU
+ECU9446,2025-01-19,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Lomas de Sargentillo,Lomas de Sargentillo,-1.8796,-80.0835,1,National,2,ECU
+ECU9447,2025-01-20,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Lomas de Sargentillo,Lomas de Sargentillo,-1.8796,-80.0835,1,National,2,ECU
+ECU9448,2025-01-21,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,2,ECU
+ECU9450,2025-01-24,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Puerto Bolivar,-3.2681,-79.9991,1,Subnational,2,ECU
+ECU9451,2025-01-18,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Portoviejo,Crucita,-0.8698,-80.538,1,Subnational,3,ECU
+ECU9452,2025-01-23,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Febres Cordero,-2.2027,-79.9325,1,National,4,ECU
+ECU9453,2025-01-24,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Febres Cordero,-2.2027,-79.9325,1,National,3,ECU
+ECU9454,2025-01-20,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational-National,3,ECU
+ECU9455,2025-01-18,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,3,ECU
+ECU9456,2025-01-19,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,4,ECU
+ECU9457,2025-01-18,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Venezuela),Labor Group (Ecuador),Ecuador,El Oro,Huaquillas,Huaquillas,-3.4747,-80.2255,1,Subnational-National,1,ECU
+ECU9458,2025-01-22,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Gang (Ecuador),,,,Ecuador,Guayas,Guayaquil,Guayaquil - Febres Cordero,-2.2027,-79.9325,1,National,0,ECU
+ECU9459,2025-01-18,1,Strategic developments,Looting/property destruction,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Santa Elena,Salinas,Salinas,-2.2101,-80.9661,1,National,0,ECU
+ECU9460,2025-01-22,1,Protests,Peaceful protest,Protesters (Ecuador),Fishers (Ecuador),,,Ecuador,Santa Elena,Santa Elena,San Pedro,-1.9615,-80.7308,1,National,0,ECU
+ECU9461,2025-01-18,1,Protests,Peaceful protest,Protesters (Ecuador),Labor Group (Ecuador),,,Ecuador,Pichincha,Quito,Quito - Manuela Saenz,-0.2201,-78.5121,1,National,0,ECU
+ECU9462,2025-01-21,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Santa Elena,Salinas,Anconcito,-2.3205,-80.8905,1,National,0,ECU
+ECU9463,2025-01-24,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),MC25: Construye Movement Party; Women (Ecuador),Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,National,1,ECU
+ECU9464,2025-01-18,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Private Security Forces (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU9514,2025-01-25,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Government of Ecuador (2023-); Police Forces of Ecuador (2023-),Ecuador,Santa Elena,Salinas,Salinas,-2.2101,-80.9661,1,National,2,ECU
+ECU9515,2025-01-25,1,Violence against civilians,Attack,Los Lobos Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Daule,Daule,-1.8611,-79.9777,1,National,1,ECU
+ECU9516,2025-01-25,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU9517,2025-01-27,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Chongon,-2.2358,-80.0778,1,National,0,ECU
+ECU9518,2025-01-26,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Febres Cordero,-2.2027,-79.9325,1,National,1,ECU
+ECU9519,2025-01-26,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Nueve de Octubre,-2.1909,-79.8946,1,National,1,ECU
+ECU9520,2025-01-24,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Huaquillas,Huaquillas,-3.4747,-80.2255,1,Subnational-National,1,ECU
+ECU9521,2025-01-25,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Los Igualitos Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU9522,2025-01-24,2,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU9523,2025-01-24,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU9524,2025-01-25,2,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,El Triunfo,El Triunfo,-2.3322,-79.401,1,National,0,ECU
+ECU9525,2025-01-26,1,Strategic developments,Looting/property destruction,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Febres Cordero,-2.2027,-79.9325,1,National,0,ECU
+ECU9526,2025-01-25,1,Strategic developments,Looting/property destruction,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Posorja,-2.7101,-80.2456,1,National,0,ECU
+ECU9527,2025-01-25,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,1,ECU
+ECU9528,2025-01-27,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Jipijapa,Jipijapa,-1.3483,-80.5792,1,Subnational,1,ECU
+ECU9529,2025-01-26,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Loja,Loja,Loja,-3.9931,-79.2042,1,Subnational-National,1,ECU
+ECU9530,2025-01-10,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Loja,Loja,Loja,-3.9931,-79.2042,1,Subnational-National,1,ECU
+ECU9532,2025-01-27,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,Manabi,Montecristi,Montecristi,-1.0458,-80.6589,1,Subnational-National,1,ECU
+ECU9533,2025-01-26,2,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),Government of Ecuador (2023-); Police Forces of Ecuador (2023-); Private Security Forces (Ecuador),Ecuador,Guayas,Naranjito,Naranjito,-2.17,-79.4626,1,National,1,ECU
+ECU9534,2025-01-26,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),Police Forces of Ecuador (2023-) Prison Guards,Ecuador,Sucumbios,Lago Agrio,Nueva Loja,0.0821,-76.8806,1,National,1,ECU
+ECU9535,2025-01-26,1,Strategic developments,Disrupted weapons use,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,El Oro,Pasaje,Pasaje de las Nieves,-3.3276,-79.8075,1,National,0,ECU
+ECU9536,2025-01-26,2,Violence against civilians,Attack,Los Choneros Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Portoviejo,Portoviejo,-1.0546,-80.4545,1,National,1,ECU
+ECU9537,2025-01-25,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Puebloviejo,Puebloviejo,-1.5512,-79.5329,1,National,1,ECU
+ECU9538,2025-01-26,1,Strategic developments,Looting/property destruction,Military Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Orellana,Orellana,Puerto Francisco de Orellana,-0.4665,-76.9872,1,National,0,ECU
+ECU9539,2025-01-24,1,Riots,Violent demonstration,Rioters (Ecuador),Labor Group (Ecuador),,,Ecuador,Pichincha,Quito,Quito - Eugenio Espejo,-0.1628,-78.4785,1,National,0,ECU
+ECU9540,2025-01-27,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Pichincha,Quito,Quito - Eloy Alfaro,-0.259,-78.5292,1,National,0,ECU
+ECU9541,2025-01-24,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Los Rios,Puebloviejo,Puebloviejo,-1.5512,-79.5329,1,National,1,ECU
+ECU9542,2025-01-26,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Santa Rosa,Santa Rosa,-3.4504,-79.9612,1,Subnational-National,0,ECU
+ECU9543,2025-01-28,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Women (Ecuador),Ecuador,Canar,El Tambo,El Tambo,-2.5081,-78.9249,2,National,1,ECU
+ECU9544,2025-01-27,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,Manabi,Sucre,Bahia de Caraquez,-0.5979,-80.4237,1,Subnational,1,ECU
+ECU9545,2025-01-16,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Sucre,Bahia de Caraquez,-0.5979,-80.4237,1,Subnational,1,ECU
+ECU9546,2025-01-28,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Manabi,Bolivar,Calceta,-0.8444,-80.1648,1,Subnational,1,ECU
+ECU9547,2025-01-26,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),LGBTQ+ (Ecuador),Ecuador,Guayas,Daule,Daule,-1.8611,-79.9777,1,National,2,ECU
+ECU9548,2025-01-26,1,Violence against civilians,Attack,Los Chone Killers (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Daule,Daule,-1.8611,-79.9777,1,National,1,ECU
+ECU9549,2025-01-28,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,0,ECU
+ECU9550,2025-01-26,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,1,ECU
+ECU9551,2025-01-27,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU9552,2025-01-27,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Women (Ecuador),Ecuador,Loja,Loja,Loja,-3.9931,-79.2042,1,National,1,ECU
+ECU9553,2025-01-27,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational,0,ECU
+ECU9554,2025-01-27,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational,0,ECU
+ECU9555,2025-01-28,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),Unidentified Armed Group (Peru),Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,1,ECU
+ECU9556,2025-01-28,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Portoviejo,Portoviejo,-1.0546,-80.4545,1,Subnational-National,2,ECU
+ECU9557,2025-01-29,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Naranjal,Puerto Inca,-2.5398,-79.5495,1,National,1,ECU
+ECU9558,2025-01-28,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Los Choneros Gang (Ecuador),,Ecuador,Los Rios,Quevedo,Quevedo,-1.0286,-79.4635,1,National,1,ECU
+ECU9559,2025-01-26,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Quevedo,Quevedo,-1.0286,-79.4635,1,National,1,ECU
+ECU9560,2025-01-26,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Los Rios,Quevedo,Quevedo,-1.0286,-79.4635,1,National,0,ECU
+ECU9562,2025-01-28,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,0,ECU
+ECU9563,2025-01-28,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,2,ECU
+ECU9564,2025-01-29,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,4,ECU
+ECU9565,2025-01-30,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,3,ECU
+ECU9566,2025-01-29,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Cotopaxi,Latacunga,Inchapo,-0.9489,-78.663,1,National,1,ECU
+ECU9567,2025-01-30,2,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational-National,1,ECU
+ECU9568,2025-01-29,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,National,1,ECU
+ECU9569,2025-01-29,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,2,ECU
+ECU9570,2025-01-29,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Los Choneros Gang (Ecuador),,Ecuador,Manabi,Montecristi,Montecristi,-1.0458,-80.6589,2,Subnational-National,2,ECU
+ECU9571,2025-01-30,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Portoviejo,Portoviejo,-1.0546,-80.4545,1,Subnational,1,ECU
+ECU9572,2025-01-28,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Santa Elena,Santa Elena,Santa Elena,-2.2262,-80.8587,1,National,1,ECU
+ECU9573,2025-01-30,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,5,ECU
+ECU9574,2025-01-30,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,1,ECU
+ECU9575,2025-01-30,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU9576,2025-01-31,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,2,ECU
+ECU9577,2025-01-30,2,Strategic developments,Arrests,Police Forces of Ecuador (2023-),Military Forces of Ecuador (2023-),Mafia-18 Gang (Ecuador),Los Lagartos Gang (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil,-2.1477,-79.9166,1,National,0,ECU
+ECU9578,2025-01-30,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Mafia-18 Gang (Ecuador),Los Lagartos Gang (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,1,ECU
+ECU9579,2025-01-29,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Colombia),,Ecuador,Santa Elena,La Libertad,La Libertad,-2.233,-80.9104,1,National,1,ECU
+ECU9580,2025-01-30,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Pichincha,Quito,Quito - La Delicia,-0.0384,-78.4921,1,National,1,ECU
+ECU9581,2025-01-30,1,Strategic developments,Looting/property destruction,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,El Oro,Santa Rosa,Santa Rosa,-3.4504,-79.9612,1,Subnational,0,ECU
+ECU9582,2025-01-17,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,El Oro,Santa Rosa,Santa Rosa,-3.4504,-79.9612,1,Subnational,0,ECU
+ECU9583,2025-01-31,1,Strategic developments,Disrupted weapons use,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Manabi,Montecristi,Montecristi,-1.0458,-80.6589,1,National,0,ECU
+ECU9584,2025-01-31,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational-National,1,ECU
+ECU9619,2025-02-02,1,Strategic developments,Disrupted weapons use,Military Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Azuay,Camilo Ponce Enriquez,Santa Marta,-3.0388,-79.7,1,Subnational,0,ECU
+ECU9620,2025-02-02,1,Strategic developments,Looting/property destruction,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Azuay,Camilo Ponce Enriquez,Santa Marta,-3.0388,-79.7,1,National,0,ECU
+ECU9621,2025-02-03,1,Protests,Peaceful protest,Protesters (Ecuador),Labor Group (Ecuador),,,Ecuador,Azuay,Cuenca,Molleturo,-2.7667,-79.3969,1,National,0,ECU
+ECU9622,2025-02-02,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Gang (Ecuador),,,,Ecuador,Bolivar,Guaranda,Guanujo,-1.5613,-79.0089,1,National,0,ECU
+ECU9627,2025-02-01,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Huaquillas,Huaquillas,-3.4747,-80.2255,1,Subnational,1,ECU
+ECU9628,2025-02-07,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Huaquillas,Huaquillas,-3.4747,-80.2255,1,Subnational,0,ECU
+ECU9629,2025-02-02,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,National,3,ECU
+ECU9631,2025-02-05,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational,0,ECU
+ECU9633,2025-01-31,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Puerto Bolivar,-3.2681,-79.9991,1,Subnational,1,ECU
+ECU9635,2025-02-06,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Pasaje,Pasaje de las Nieves,-3.3276,-79.8075,1,Subnational,2,ECU
+ECU9637,2025-02-07,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Santa Rosa,Santa Rosa,-3.4504,-79.9612,1,Subnational,1,ECU
+ECU9640,2025-02-07,1,Strategic developments,Looting/property destruction,Police Forces of Ecuador (2023-),Military Forces of Ecuador (2023-); Government of Ecuador (2023-),Unidentified Gang (Ecuador),,Ecuador,Esmeraldas,Esmeraldas,Coast of Esmeraldas,1.1576,-79.6742,3,National,0,ECU
+ECU9641,2025-02-02,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Former Police Forces of Ecuador (2023-),Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,1,ECU
+ECU9642,2025-02-03,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,1,ECU
+ECU9643,2025-02-03,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,1,ECU
+ECU9645,2025-02-03,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Balao,Balao,-2.9101,-79.8167,2,National,2,ECU
+ECU9646,2025-02-05,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Balzar,Balzar,-1.365,-79.9049,1,National,2,ECU
+ECU9647,2025-02-05,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Balzar,Balzar,-1.365,-79.9049,1,National,1,ECU
+ECU9648,2025-02-06,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Balzar,Balzar,-1.365,-79.9049,1,National,3,ECU
+ECU9650,2025-02-03,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),Government of Ecuador (2023-),Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,1,ECU
+ECU9651,2025-02-05,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,El Empalme,Puerto El Mono,-0.8822,-79.6204,1,National,2,ECU
+ECU9652,2025-01-31,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Women (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil - Febres Cordero,-2.2027,-79.9325,1,National,1,ECU
+ECU9653,2025-01-31,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,4,ECU
+ECU9654,2025-02-01,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Urdaneta,-2.1984,-79.9103,1,National,1,ECU
+ECU9655,2025-02-01,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU9656,2025-02-02,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,0,ECU
+ECU9657,2025-02-03,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU9658,2025-02-03,1,Battles,Armed clash,Los Lagartos Gang (Ecuador),,Mafia-18 Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,1,ECU
+ECU9659,2025-02-04,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Armed Group (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU9660,2025-02-04,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,2,ECU
+ECU9661,2025-02-04,1,Strategic developments,Looting/property destruction,Military Forces of Ecuador (2023-),Government of Ecuador (2023-),Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil,-2.1477,-79.9166,1,National,0,ECU
+ECU9662,2025-02-04,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU9663,2025-02-05,1,Violence against civilians,Abduction/forced disappearance,Los Tiguerones Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU9664,2025-02-05,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil,-2.1477,-79.9166,1,National,0,ECU
+ECU9665,2025-02-06,3,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,2,ECU
+ECU9666,2025-02-06,1,Violence against civilians,Attack,Los Tiguerones Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Febres Cordero,-2.2027,-79.9325,1,National,1,ECU
+ECU9667,2025-02-07,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,2,ECU
+ECU9668,2025-02-07,1,Violence against civilians,Attack,Police Forces of Ecuador (2023-),Government of Ecuador (2023-),Civilians (Venezuela),Labor Group (Venezuela),Ecuador,Guayas,Guayaquil,Guayaquil - Olmedo,-2.2008,-79.8842,1,National,1,ECU
+ECU9672,2025-02-07,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Naranjal,Lechugal,-2.5291,-79.5334,1,National,3,ECU
+ECU9673,2025-02-05,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Playas,Playas,-2.632,-80.3881,1,National,1,ECU
+ECU9675,2025-02-02,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Buena Fe,San Jacinto de Buena Fe,-0.8966,-79.4913,1,National,1,ECU
+ECU9676,2025-02-06,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Los Rios,Buena Fe,San Jacinto de Buena Fe,-0.8966,-79.4913,1,National,1,ECU
+ECU9678,2025-02-04,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,24 de Mayo,Sucre,-1.2797,-80.4189,1,Subnational,1,ECU
+ECU9679,2025-02-01,1,Battles,Armed clash,Los Choneros Gang (Ecuador),,Los Tiguerones Gang (Ecuador),,Ecuador,Manabi,Jipijapa,Jipijapa,-1.3483,-80.5792,1,Subnational-National,4,ECU
+ECU9681,2025-02-01,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational,0,ECU
+ECU9682,2025-02-04,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,National,0,ECU
+ECU9683,2025-02-04,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational,1,ECU
+ECU9684,2025-02-04,1,Strategic developments,Disrupted weapons use,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,0,ECU
+ECU9685,2025-02-05,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,2,ECU
+ECU9690,2025-01-30,2,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),Women (Ecuador),Ecuador,Manabi,Montecristi,Montecristi,-1.0458,-80.6589,1,National,1,ECU
+ECU9691,2025-02-06,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Portoviejo,Picoaza,-1.0339,-80.5005,1,Subnational,1,ECU
+ECU9692,2025-02-06,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Portoviejo,Portoviejo,-1.0546,-80.4545,1,Subnational,0,ECU
+ECU9693,2025-02-06,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Pichincha,Quito,Quito - Manuela Saenz,-0.2201,-78.5121,1,National,0,ECU
+ECU9695,2025-02-06,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Santa Elena,La Libertad,La Libertad,-2.233,-80.9104,1,National,1,ECU
+ECU9698,2025-02-02,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Women (Ecuador),Ecuador,Santa Elena,Salinas,Anconcito,-2.3205,-80.8905,1,National,1,ECU
+ECU9699,2025-02-05,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Santo Domingo de los Tsachilas,Santo Domingo,Umpe Chico,-0.1344,-79.3392,2,National,1,ECU
+ECU9700,2025-02-02,1,Battles,Armed clash,Unidentified Armed Group (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Tungurahua,Ambato,Ambato,-1.2491,-78.6168,1,National,1,ECU
+ECU9701,2025-02-06,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Tungurahua,Ambato,Ambato,-1.2491,-78.6168,1,National,3,ECU
+ECU9809,2025-02-12,1,Violence against civilians,Abduction/forced disappearance,Los Aguilas Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,0,ECU
+ECU9811,2025-02-08,1,Violence against civilians,Attack,Los Tiguerones Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,1,ECU
+ECU9812,2025-02-10,1,Strategic developments,Arrests,Police Forces of Ecuador (2023-),Military Forces of Ecuador (2023-),Los Lobos Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Puna,-2.7369,-79.912,1,National,0,ECU
+ECU9814,2025-02-13,1,Battles,Armed clash,Nueva Generacion PGP Gang (Ecuador),,Unidentified Gang (Ecuador),Unidentified Armed Group (Colombia),Ecuador,Imbabura,Ibarra,San Antonio de Ibarra,0.3324,-78.1712,1,National,3,ECU
+ECU9815,2025-01-13,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Armed Group (Ecuador),,Ecuador,Manabi,Flavio Alfaro,Flavio Alfaro,-0.4046,-79.9049,1,National,2,ECU
+ECU9817,2025-02-09,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Armed Group (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU9818,2025-02-07,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Huaquillas,Huaquillas,-3.4747,-80.2255,1,Subnational,0,ECU
+ECU9819,2025-02-08,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational,0,ECU
+ECU9820,2025-01-31,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU9821,2025-02-07,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),Women (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU9822,2025-02-10,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Zamora Chinchipe,Zamora,Zamora,-4.0669,-78.9549,1,National,1,ECU
+ECU9824,2025-02-14,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Playas,Playas,-2.632,-80.3881,1,National,2,ECU
+ECU9825,2025-01-18,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Chimborazo,Riobamba,San Juan,-1.6339,-78.7823,1,National,3,ECU
+ECU9826,2025-02-02,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Buena Fe,Patricia Pilar,-0.5742,-79.3706,1,National,1,ECU
+ECU9827,2025-02-09,1,Battles,Armed clash,Unidentified Armed Group (Ecuador),,Police Forces of Ecuador (2023-),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU9828,2025-02-07,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Pichincha,Quito,Quito - Eloy Alfaro,-0.259,-78.5292,1,National,2,ECU
+ECU9829,2025-02-07,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil,-2.1477,-79.9166,1,National,0,ECU
+ECU9830,2025-02-11,1,Battles,Armed clash,Unidentified Armed Group (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Pascuales,-2.0532,-79.9511,1,National,1,ECU
+ECU9831,2025-02-08,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,3,ECU
+ECU9832,2025-02-08,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,1,ECU
+ECU9833,2025-02-13,1,Strategic developments,Looting/property destruction,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Los Rios,Ventanas,Ventanas,-1.4426,-79.459,1,National,0,ECU
+ECU9834,2025-02-09,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU9835,2025-02-08,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,1,ECU
+ECU9836,2025-02-08,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Quevedo,Quevedo,-1.0286,-79.4635,1,National,1,ECU
+ECU9837,2025-02-10,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Gang (Ecuador),,,,Ecuador,El Oro,Machala,Puerto Bolivar,-3.2681,-79.9991,1,Subnational-National,0,ECU
+ECU9839,2025-02-08,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,Esmeraldas,Quininde,Rosa Zarate,0.3278,-79.4741,1,National,1,ECU
+ECU9840,2025-02-09,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Letamendi,-2.2099,-79.9122,1,National,2,ECU
+ECU9841,2025-02-08,1,Battles,Armed clash,Los Lobos Box Gang (Ecuador),,Los Lobos Box Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU9842,2025-02-10,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU9843,2025-02-11,1,Protests,Peaceful protest,Protesters (Ecuador),Labor Group (Ecuador),,,Ecuador,El Oro,Huaquillas,Huaquillas,-3.4747,-80.2255,1,Subnational,0,ECU
+ECU9844,2025-02-09,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational,1,ECU
+ECU9845,2025-02-09,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Palenque,Palenque,-1.4356,-79.7569,1,National,2,ECU
+ECU9846,2025-02-12,1,Strategic developments,Disrupted weapons use,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Pascuales,-2.0532,-79.9511,1,National,0,ECU
+ECU9847,2025-02-11,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),Unidentified Gang (International),Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Rocafuerte,-2.193,-79.8815,1,National,0,ECU
+ECU9848,2025-02-10,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Balao,Balao,-2.9101,-79.8167,1,National,1,ECU
+ECU9849,2025-02-12,1,Strategic developments,Disrupted weapons use,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,0,ECU
+ECU9850,2025-02-10,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),Unidentified Gang (International),Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Zamora Chinchipe,Zamora,Zamora,-4.0669,-78.9549,1,National,1,ECU
+ECU9851,2025-02-11,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Guayas,El Triunfo,El Triunfo,-2.3322,-79.401,1,National,1,ECU
+ECU9852,2025-02-11,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,1,ECU
+ECU9853,2025-02-11,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,1,ECU
+ECU9854,2025-02-13,1,Explosions/Remote violence,Grenade,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Letamendi,-2.2099,-79.9122,1,National,0,ECU
+ECU9855,2025-02-12,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,1,ECU
+ECU9856,2025-02-12,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Santa Ana,Santa Ana,-1.2074,-80.3694,1,Subnational-National,2,ECU
+ECU9857,2025-02-11,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU9858,2025-02-11,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,2,ECU
+ECU9860,2025-02-13,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Sucre,Bahia de Caraquez,-0.5979,-80.4237,1,Subnational-National,2,ECU
+ECU9861,2025-02-14,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Military Forces of Ecuador (2023-),,Ecuador,Guayas,Guayaquil,Guayaquil - Pascuales,-2.0532,-79.9511,1,National,1,ECU
+ECU9862,2025-02-13,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),Civilians (Venezuela),Civilians (Ecuador),,Ecuador,El Oro,Huaquillas,Huaquillas,-3.4747,-80.2255,1,Subnational-National,3,ECU
+ECU9863,2025-02-14,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,2,ECU
+ECU9864,2025-02-14,1,Strategic developments,Looting/property destruction,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational,0,ECU
+ECU9865,2025-02-14,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,8,ECU
+ECU9905,2025-02-14,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,1,ECU
+ECU9906,2025-02-14,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,2,ECU
+ECU9907,2025-02-14,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,1,ECU
+ECU9908,2025-02-16,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Pascuales,-2.0532,-79.9511,1,National,10,ECU
+ECU9909,2025-02-14,1,Violence against civilians,Abduction/forced disappearance,Los Lobos Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil,-2.1477,-79.9166,1,National,0,ECU
+ECU9910,2025-02-15,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,2,ECU
+ECU9911,2025-02-15,1,Strategic developments,Looting/property destruction,Military Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Coast of Posorja,-2.7105,-80.2244,2,National,0,ECU
+ECU9912,2025-02-15,1,Strategic developments,Looting/property destruction,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,0,ECU
+ECU9913,2025-02-16,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU9915,2025-02-17,1,Violence against civilians,Attack,Los Lobos Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Huaquillas,Huaquillas,-3.4747,-80.2255,1,Subnational-National,1,ECU
+ECU9916,2025-02-17,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Cotopaxi,La Mana,La Mana,-0.9409,-79.2251,1,National,2,ECU
+ECU9917,2025-02-14,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Cotopaxi,La Mana,La Mana,-0.9409,-79.2251,1,National,1,ECU
+ECU9918,2025-02-17,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational,1,ECU
+ECU9919,2025-02-16,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational-National,2,ECU
+ECU9920,2025-02-15,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Women (Ecuador),Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational,0,ECU
+ECU9921,2025-02-14,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational,0,ECU
+ECU9922,2025-02-16,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Guayas,Playas,Playas,-2.632,-80.3881,1,National,1,ECU
+ECU9924,2025-02-19,1,Protests,Peaceful protest,Protesters (Ecuador),Farmers (Ecuador),,,Ecuador,Bolivar,Las Naves,Las Naves,-1.2868,-79.3156,1,National,0,ECU
+ECU9925,2025-02-16,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Colimes,Colimes,-1.5457,-80.0106,1,National,1,ECU
+ECU9926,2025-02-17,1,Battles,Armed clash,Los Lobos Gang (Ecuador),,Los Tiguerones Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU9927,2025-02-17,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,1,ECU
+ECU9928,2025-02-17,2,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,2,ECU
+ECU9929,2025-02-18,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Esmeraldas,Esmeraldas,Esmeraldas,0.9592,-79.654,1,National,1,ECU
+ECU9930,2025-02-19,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU9931,2025-02-18,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,2,ECU
+ECU9932,2025-02-18,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,0,ECU
+ECU9933,2025-02-15,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU9934,2025-02-17,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,2,ECU
+ECU9935,2025-02-18,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Pascuales,-2.0532,-79.9511,1,National,1,ECU
+ECU9936,2025-02-17,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,El Cambio,-3.2883,-79.9005,1,National,1,ECU
+ECU9937,2025-02-18,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational-National,2,ECU
+ECU9938,2025-02-17,1,Violence against civilians,Attack,Los Pepes Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,4,ECU
+ECU9939,2025-02-18,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Manabi,Manta,Manta,-0.9621,-80.7127,1,Subnational-National,2,ECU
+ECU9941,2025-02-19,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Pichincha,Quito,Quito - Eloy Alfaro,-0.259,-78.5292,1,National,1,ECU
+ECU9942,2025-02-18,3,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Santa Elena,Santa Elena,Santa Elena,-2.2262,-80.8587,1,National,3,ECU
+ECU9943,2025-02-18,3,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Police Forces of Ecuador (2023-),Ecuador,Santo Domingo de los Tsachilas,Santo Domingo,Santo Domingo de los Tsachilas,-0.2531,-79.1754,1,National,0,ECU
+ECU9944,2025-02-19,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Zaruma,Zaruma,-3.6911,-79.6123,1,Subnational,1,ECU
+ECU9945,2025-02-19,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,3,ECU
+ECU9947,2025-02-18,1,Strategic developments,Disrupted weapons use,Police Forces of Ecuador (2023-),Military Forces of Ecuador (2023-),Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,0,ECU
+ECU9948,2025-02-19,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Bolivar,Las Naves,Las Naves,-1.2868,-79.3156,1,National,1,ECU
+ECU9949,2025-02-20,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Loja,Loja,Loja,-3.9931,-79.2042,1,National,1,ECU
+ECU9950,2025-02-19,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational,0,ECU
+ECU9953,2025-02-19,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Portoviejo,Portoviejo,-1.0546,-80.4545,1,Subnational,2,ECU
+ECU9954,2025-02-18,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Zamora Chinchipe,Yantzaza,Yantzaza,-3.8326,-78.7608,1,National,1,ECU
+ECU9955,2025-02-20,3,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Colombia),,Ecuador,Manabi,Sucre,Bahia de Caraquez,-0.5979,-80.4237,1,Subnational,1,ECU
+ECU9956,2025-02-20,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Armed Group (Ecuador),,Ecuador,Guayas,Duran,Duran,-2.1686,-79.8342,1,National,1,ECU
+ECU9957,2025-02-20,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Police Forces of Ecuador (2023-),,Ecuador,Guayas,Guayaquil,Guayaquil - Pascuales,-2.0532,-79.9511,1,National,0,ECU
+ECU9958,2025-02-19,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,2,ECU
+ECU9959,2025-02-19,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,1,ECU
+ECU9960,2025-02-20,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,El Oro,Huaquillas,Huaquillas,-3.4747,-80.2255,1,Subnational,2,ECU
+ECU9962,2025-02-20,1,Strategic developments,Looting/property destruction,Unidentified Gang (Ecuador),,Civilians (Ecuador),Government of Ecuador (2023-),Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational,0,ECU
+ECU9963,2025-02-21,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Pichincha,Quito,Quito - Eloy Alfaro,-0.259,-78.5292,1,National,1,ECU
+ECU9964,2025-02-07,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Los Lobos Gang (Ecuador),,Ecuador,Pichincha,Quito,Quito - Eloy Alfaro,-0.259,-78.5292,1,National,2,ECU
+ECU9966,2025-02-21,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),Former Police Forces of Ecuador (2023-),Civilians (Ecuador),Private Security Forces (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil - Ximena,-2.251,-79.8899,1,National,1,ECU
+ECU9967,2025-02-21,1,Protests,Peaceful protest,Protesters (Ecuador),,,,Ecuador,Pichincha,Quito,Quito - Manuela Saenz,-0.2201,-78.5121,1,National,0,ECU
+ECU9968,2025-02-21,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Police Forces of Ecuador (2023-),,Ecuador,Canar,La Troncal,La Troncal,-2.427,-79.3385,1,National,1,ECU
+ECU9969,2025-02-20,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,4,ECU
+ECU9970,2025-02-21,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Santa Elena,La Libertad,La Libertad,-2.233,-80.9104,1,National,1,ECU
+ECU9971,2025-02-21,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Gang (Ecuador),,,,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational,0,ECU
+ECU11528,2025-03-15,3,Violence against civilians,Attack,Unidentified Gang (Ecuador),Prisoners (Ecuador),Civilians (Ecuador),Prisoners (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil - Pascuales,-2.0532,-79.9511,1,National,1,ECU
+ECU10072,2025-02-23,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Nobol,Petrillo,-1.9692,-80.0121,1,National,3,ECU
+ECU10273,2025-02-28,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Unidentified Gang (Ecuador),,Ecuador,Chimborazo,Colta,Colta,-1.7352,-78.7624,2,Subnational,0,ECU
+ECU9032,2025-01-02,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Guayaquil,Guayaquil - Tarqui,-2.1252,-79.9495,1,National,2,ECU
+ECU9449,2025-01-24,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Mocache,Mocache,-1.1838,-79.5055,2,National,2,ECU
+ECU9531,2025-01-25,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Mocache,Mocache,-1.1838,-79.5055,1,National,1,ECU
+ECU9951,2025-02-19,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Mocache,Mocache,-1.1838,-79.5055,1,National,1,ECU
+ECU9952,2025-02-19,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),Government of Ecuador (2023-),Ecuador,Los Rios,Mocache,Mocache,-1.1838,-79.5055,2,National,0,ECU
+ECU9067,2025-01-04,1,Strategic developments,Arrests,Police Forces of Ecuador (2023-),,Los Lobos Box Gang (Ecuador),,Ecuador,El Oro,El Guabo,El Guabo,-3.2416,-79.8318,1,Subnational-National,0,ECU
+ECU9626,2025-01-08,1,Battles,Armed clash,Police Forces of Ecuador (2023-),,Los Lobos Box Gang (Ecuador),,Ecuador,El Oro,El Guabo,El Guabo,-3.2416,-79.8318,1,National,0,ECU
+ECU9391,2025-01-22,1,Battles,Armed clash,Los Lobos Gang (Ecuador),Prisoners (Ecuador),Los Lobos Box Gang (Ecuador),Prisoners (Ecuador),Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,National,1,ECU
+ECU9630,2025-02-02,1,Battles,Armed clash,Los Lobos Box Gang (Ecuador),,Police Forces of Ecuador (2023-),,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational-National,1,ECU
+ECU9961,2025-02-20,1,Battles,Armed clash,Los Lobos Gang (Ecuador),Los Lobos Box Gang (Ecuador),Police Forces of Ecuador (2023-) Prison Guards,,Ecuador,El Oro,Machala,Machala,-3.2586,-79.9605,1,Subnational-National,0,ECU
+ECU10069,2025-02-23,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Babahoyo,Babahoyo,-1.8022,-79.5344,1,National,1,ECU
+ECU10334,2025-03-06,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Chone,Chone,-0.6991,-80.0944,1,Subnational-National,0,ECU
+ECU10337,2025-03-06,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Tosagua,Tosagua,-0.7868,-80.2347,1,Subnational,1,ECU
+ECU10356,2025-03-07,1,Violence against civilians,Attack,Los Lobos Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Los Rios,Babahoyo,Babahoyo,-1.8022,-79.5344,1,National,2,ECU
+ECU10391,2025-03-10,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Babahoyo,Babahoyo,-1.8022,-79.5344,1,National,1,ECU
+ECU10417,2025-03-13,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Babahoyo,Babahoyo,-1.8022,-79.5344,1,National,2,ECU
+ECU4144,2025-03-08,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),Government of Ecuador (2023-); PSC: Social Christian Party (Ecuador),Ecuador,Los Rios,Baba,Isla de Bejucal,-1.6775,-79.6445,2,National,1,ECU
+ECU9002,2025-01-01,1,Battles,Armed clash,Unidentified Armed Group (Ecuador),,Unidentified Gang (Ecuador),,Ecuador,Los Rios,Babahoyo,Babahoyo,-1.8022,-79.5344,1,National,1,ECU
+ECU9106,2025-01-04,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Babahoyo,Babahoyo,-1.8022,-79.5344,1,National,1,ECU
+ECU9107,2025-01-08,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador); Women (Ecuador),Ecuador,Los Rios,Babahoyo,Babahoyo,-1.8022,-79.5344,1,National,1,ECU
+ECU9322,2025-01-15,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Government of Ecuador (2023-); Police Forces of Ecuador (2023-),Ecuador,Los Rios,Babahoyo,Babahoyo,-1.8022,-79.5344,1,National,2,ECU
+ECU9326,2025-01-11,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Babahoyo,Babahoyo,-1.8022,-79.5344,1,National,1,ECU
+ECU9327,2025-01-11,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Babahoyo,Babahoyo,-1.8022,-79.5344,1,National,1,ECU
+ECU9350,2025-01-14,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Babahoyo,Babahoyo,-1.8022,-79.5344,1,National,1,ECU
+ECU9351,2025-01-15,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Babahoyo,Babahoyo,-1.8022,-79.5344,1,National,1,ECU
+ECU9395,2025-01-23,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Los Choneros Gang (Ecuador),,Ecuador,Los Rios,Babahoyo,Babahoyo,-1.8022,-79.5344,1,National,1,ECU
+ECU9396,2025-01-23,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Los Lobos Gang (Ecuador),,Ecuador,Los Rios,Babahoyo,Babahoyo,-1.8022,-79.5344,1,National,1,ECU
+ECU9420,2025-01-22,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Babahoyo,Babahoyo,-1.8022,-79.5344,1,National,1,ECU
+ECU9561,2025-01-30,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Babahoyo,Babahoyo,-1.8022,-79.5344,1,National,3,ECU
+ECU9674,2025-02-06,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Los Rios,Babahoyo,Babahoyo,-1.8022,-79.5344,1,National,1,ECU
+ECU9816,2025-01-30,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Manabi,Tosagua,Tosagua,-0.7868,-80.2347,1,Subnational-National,0,ECU
+ECU9859,2025-02-13,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Babahoyo,Babahoyo,-1.8022,-79.5344,1,National,1,ECU
+ECU10283,2025-02-28,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,San Jacinto de Yaguachi,San Jacinto de Yaguachi,-2.0953,-79.6935,1,National,0,ECU
+ECU10395,2025-03-10,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Taxi/Bus Drivers (Ecuador),Ecuador,Los Rios,Babahoyo,Pimocha,-1.835,-79.6093,1,National,1,ECU
+ECU10400,2025-03-11,1,Battles,Armed clash,Unidentified Armed Group (Ecuador),,Police Forces of Ecuador (2023-),,Ecuador,Pichincha,Puerto Quito,Puerto Quito,0.1195,-79.2605,2,National,0,ECU
+ECU4078,2025-01-06,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),Government of Ecuador (2023-); Police Forces of Ecuador (2023-),Ecuador,Guayas,Santa Lucia,Santa Lucia,-1.7157,-79.9845,1,National,2,ECU
+ECU9370,2025-01-15,2,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Santa Lucia,Santa Lucia,-1.7157,-79.9845,2,National,1,ECU
+ECU9406,2025-01-18,2,Violence against civilians,Attack,Los Lobos Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Babahoyo,Pimocha,-1.835,-79.6093,1,National,3,ECU
+ECU9810,2025-02-12,1,Violence against civilians,Attack,Los Chone Killers (Ecuador),,Civilians (Ecuador),Farmers (Ecuador),Ecuador,Guayas,San Jacinto de Yaguachi,San Jacinto de Yaguachi,-2.0953,-79.6935,1,National,0,ECU
+ECU10093,2025-02-26,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Police Forces of Ecuador (2023-),,Ecuador,Guayas,Daule,La Aurora,-2.0534,-79.881,1,National,0,ECU
+ECU10324,2025-03-05,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),Private Security Forces (Ecuador),Ecuador,Guayas,Daule,La Aurora,-2.0534,-79.881,1,National,1,ECU
+ECU10436,2025-03-14,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Daule,La Aurora,-2.0534,-79.881,1,National,3,ECU
+ECU9649,2025-02-06,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Los Tiguerones Gang (Ecuador),,Ecuador,Guayas,Daule,La Aurora,-2.0534,-79.881,1,National,1,ECU
+ECU9914,2025-02-15,1,Battles,Armed clash,Unidentified Gang (Ecuador),,Mafia-18 Gang (Ecuador),Former Police Forces of Ecuador (2023-); Unidentified Gang (Ecuador),Ecuador,Guayas,Samborondon,Ciudad Celeste,-2.0718,-79.8416,1,National,4,ECU
+ECU9965,2025-02-20,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Puebloviejo,San Juan,-1.6245,-79.5617,1,National,2,ECU
+ECU11960,2025-01-18,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Manabi,Chone,San Juan del Bua,-0.0192,-79.6054,1,Subnational,3,ECU
+ECU12475,2025-01-15,3,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Former Government of Ecuador (2023-),Ecuador,Esmeraldas,Atacames,La Union,0.8107,-79.8658,1,National,0,ECU
+ECU13259,2025-03-15,3,Strategic developments,Looting/property destruction,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Guayas,Balzar,Balzar,-1.365,-79.9049,2,National,0,ECU
+ECU13396,2025-02-11,1,Violence against civilians,Attack,Los Lobos Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Babahoyo,Babahoyo,-1.8022,-79.5344,1,National,1,ECU
+ECU13767,2025-03-06,1,Violence against civilians,Abduction/forced disappearance,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Azuay,Cuenca,Cuenca,-2.9006,-79.0045,1,National,0,ECU
+ECU13870,2025-01-15,3,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Buena Fe,Patricia Pilar,-0.5742,-79.3706,1,National,1,ECU
+ECU13928,2025-02-01,1,Violence against civilians,Attack,Unidentified Armed Group (Ecuador),,Civilians (Ecuador),,Ecuador,Los Rios,Buena Fe,Patricia Pilar,-0.5742,-79.3706,1,National,1,ECU
+ECU14308,2025-01-30,1,Violence against civilians,Attack,Unidentified Gang (Ecuador),,Civilians (Ecuador),Labor Group (Ecuador),Ecuador,Guayas,Guayaquil,Guayaquil,-2.1477,-79.9166,2,National,0,ECU

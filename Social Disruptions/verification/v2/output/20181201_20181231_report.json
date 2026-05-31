@@ -1,0 +1,25 @@
+{
+  "range": "20181201_20181231",
+  "n_input_files": 59,
+  "threshold": 0.45,
+  "raw_records": 5167,
+  "canonical_events": 1318,
+  "movements": 98,
+  "reduction_pct": 74.5,
+  "chain_warnings": 0,
+  "movement_params": {
+    "threshold": 0.6,
+    "window_days": 30,
+    "min_multi_clusters": 1
+  },
+  "type_breakdown": {
+    "labour_strike": {
+      "raw": 1080,
+      "grouped": 305
+    },
+    "protests": {
+      "raw": 4087,
+      "grouped": 1013
+    }
+  }
+}

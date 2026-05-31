@@ -1,0 +1,433 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+ISR310,2017-12-31,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR298,2017-12-17,1,Explosions/Remote violence,Shelling/artillery/missile attack,Unidentified Armed Group (Israel),,Civilians (Israel),,Israel,HaMerkaz,Petah Tiqwa,Gan Leummi Mivzar Qula,32.0357,34.9565,2,National,0,ISR
+ISR293,2017-12-14,1,Riots,Violent demonstration,Rioters (Israel),Labor Group (Israel),,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR256,2017-11-04,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR220,2017-09-03,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR205,2017-08-08,1,Explosions/Remote violence,Shelling/artillery/missile attack,Unidentified Armed Group (Palestine),,,,Israel,HaDarom,Ashqelon,Ashqelon,31.6693,34.5715,1,National,0,ISR
+ISR204,2017-08-05,1,Protests,Peaceful protest,Protesters (Israel),Likud Party,Protesters (Israel),,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National,0,ISR
+ISR202,2017-08-03,1,Protests,Peaceful protest,Protesters (Israel),Labor Group (Israel),,,Israel,HaDarom,Beer Sheva,Dimona,31.0708,35.0327,1,National,0,ISR
+ISR196,2017-07-27,1,Protests,Peaceful protest,Protesters (Israel),Labor Group (Israel),,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR150,2017-05-27,1,Protests,Peaceful protest,Protesters (Israel),Labor Group (Israel),,,Israel,HaMerkaz,Petah Tiqwa,Ben Gurion International Airport,32.0136,34.8866,1,National,0,ISR
+ISR141,2017-05-17,1,Violence against civilians,Attack,Unidentified Armed Group (Israel),,Civilians (Israel),,Israel,HaMerkaz,Petah Tiqwa,Elishama,32.1521,34.9283,1,National,0,ISR
+ISR112,2017-04-04,1,Protests,Peaceful protest,Protesters (Israel),Breaking the Silence Movement; Meretz Party,,,Israel,Tel Aviv,Tel Aviv,Kiryat Ono,32.055,34.8579,1,National,0,ISR
+ISR86,2017-03-15,1,Protests,Peaceful protest,Protesters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),,,Israel,HaMerkaz,Rehovot,Gedera,31.8146,34.78,2,National,0,ISR
+ISR87,2017-03-15,1,Protests,Peaceful protest,Protesters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),,,Israel,HaDarom,Ashqelon,Gevim,31.5076,34.5987,1,National,0,ISR
+ISR89,2017-03-15,1,Protests,Peaceful protest,Protesters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),,,Israel,HaDarom,Ashqelon,Sderot,31.525,34.5969,1,National,0,ISR
+ISR76,2017-03-01,1,Explosions/Remote violence,Shelling/artillery/missile attack,Unidentified Armed Group (Palestine),,,,Israel,HaDarom,Ashqelon,Ashqelon,31.6693,34.5715,2,National,0,ISR
+ISR70,2017-02-19,1,Protests,Peaceful protest,Protesters (Israel),Settlers (Israel),,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR67,2017-02-14,1,Protests,Peaceful protest,Protesters (Israel),Free Jerusalem,,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR66,2017-02-12,1,Protests,Peaceful protest,Protesters (Israel),Settlers (Israel),,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR104,2017-03-28,1,Protests,Peaceful protest,Protesters (Israel),Labor Group (Israel),,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR109,2017-04-01,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National,0,ISR
+ISR114,2017-04-08,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National,0,ISR
+ISR116,2017-04-15,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National,0,ISR
+ISR119,2017-04-20,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,International,0,ISR
+ISR121,2017-04-22,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National,0,ISR
+ISR127,2017-04-29,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National,0,ISR
+ISR132,2017-05-06,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National,0,ISR
+ISR134,2017-05-09,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Israel),Haredi Jewish Group (Israel),Civilians (Israel),,Israel,Tel Aviv,Tel Aviv,Bnei Brak,32.0807,34.8338,1,National,0,ISR
+ISR136,2017-05-12,1,Protests,Peaceful protest,Protesters (Israel),Women (Israel),,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR139,2017-05-13,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National,0,ISR
+ISR142,2017-05-18,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR145,2017-05-22,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR163,2017-06-12,1,Protests,Peaceful protest,Protesters (Israel),Labor Group (Israel),,,Israel,HaMerkaz,Petah Tiqwa,Ben Gurion International Airport,32.0136,34.8866,1,National,0,ISR
+ISR200,2017-08-02,1,Protests,Peaceful protest,Protesters (Israel),Labor Group (Israel),,,Israel,HaDarom,Beer Sheva,Dimona,31.0708,35.0327,1,National,0,ISR
+ISR214,2017-08-27,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR219,2017-09-02,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National,0,ISR
+ISR224,2017-09-12,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,2,National,0,ISR
+ISR227,2017-09-18,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,2,National,0,ISR
+ISR231,2017-09-29,1,Protests,Protest with intervention,Rioters (Israel),,Protesters (Israel),,Israel,Haifa,Hadera,Hadera,32.4419,34.9039,1,National,0,ISR
+ISR232,2017-10-01,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR233,2017-10-03,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Rehovot,Rishon LeZion,31.971,34.7894,1,National,0,ISR
+ISR26,2017-01-21,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National,0,ISR
+ISR269,2017-11-22,1,Protests,Peaceful protest,Protesters (Israel),Disabled Are Becoming Panthers Movement,,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR27,2017-01-21,1,Protests,Peaceful protest,Protesters (Israel),Pantsuit Nation-Israel,,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR300,2017-12-18,1,Explosions/Remote violence,Shelling/artillery/missile attack,Unidentified Armed Group (Palestine),,,,Israel,HaDarom,Ashqelon,Sderot,31.525,34.5969,2,International,0,ISR
+ISR304,2017-12-25,1,Protests,Peaceful protest,Protesters (Israel),Labor Group (Israel),,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR309,2017-12-30,1,Protests,Peaceful protest,Protesters (Israel),Druze Group (Israel),,,Israel,HaZafon,Akko,Yirka,32.9544,35.212,1,National,0,ISR
+ISR313,2017-12-23,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaZafon,Zefat,Rosh Pinna,32.9689,35.5426,1,National,0,ISR
+ISR314,2017-12-23,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaZafon,Kinneret,Tiberias,32.7922,35.5312,2,National,0,ISR
+ISR315,2017-12-23,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaZafon,Yizreel,Afula,32.6091,35.2892,1,National,0,ISR
+ISR32,2017-01-28,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National,0,ISR
+ISR33,2017-01-28,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR40,2017-02-02,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR43,2017-02-04,1,Protests,Peaceful protest,Protesters (Israel),Meretz Party; Joint List,,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,International,0,ISR
+ISR44,2017-02-04,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National,0,ISR
+ISR65,2017-02-11,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National,0,ISR
+ISR69,2017-02-18,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National,0,ISR
+ISR72,2017-02-25,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National,0,ISR
+ISR74,2017-02-26,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Haifa,Haifa,Haifa,32.8184,34.9885,1,National,0,ISR
+ISR78,2017-03-04,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National,0,ISR
+ISR83,2017-03-11,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National,0,ISR
+ISR9,2017-01-14,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National,0,ISR
+ISR93,2017-03-18,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National,0,ISR
+ISR11,2017-01-15,2,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel),,,Israel,Jerusalem,Jerusalem,Bet Shemesh,31.7307,34.9929,1,National,0,ISR
+ISR113,2017-04-04,1,Protests,Peaceful protest,Protesters (Israel),Free Jerusalem,,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR125,2017-04-27,1,Protests,Peaceful protest,Protesters (Israel),Protesters (International); Refugees/IDPs (International),,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR13,2017-01-16,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel) (Neturei Karta Faction),,,Israel,Jerusalem,Jerusalem,Bet Shemesh,31.7307,34.9929,1,National,0,ISR
+ISR138,2017-05-13,1,Violence against civilians,Attack,Unidentified Armed Group (Israel),,Civilians (Israel),Druze Group (Israel),Israel,Haifa,Haifa,Isfiya,32.7184,35.0651,1,National,0,ISR
+ISR186,2017-07-10,1,Protests,Peaceful protest,Protesters (International),Protesters (Ethiopia),,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR187,2017-07-15,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National,0,ISR
+ISR191,2017-07-22,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National,0,ISR
+ISR193,2017-07-23,1,Explosions/Remote violence,Shelling/artillery/missile attack,Unidentified Armed Group (Palestine),,,,Israel,HaDarom,Beer Sheva,Naveh,31.1618,34.3308,2,National,0,ISR
+ISR210,2017-08-19,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National,0,ISR
+ISR211,2017-08-24,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Tel Aviv,Tel Aviv,Bnei Brak,32.0807,34.8338,1,National,0,ISR
+ISR215,2017-08-29,1,Protests,Peaceful protest,Protesters (Israel),Labor Group (Israel),,,Israel,Haifa,Haifa,Haifa,32.8184,34.9885,1,National,0,ISR
+ISR221,2017-09-04,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Tel Aviv,Tel Aviv,Herzliya,32.1663,34.8254,2,National,0,ISR
+ISR223,2017-09-09,1,Riots,Mob violence,Rioters (Israel),Haredi Jewish Group (Israel),Rioters (Israel),,Israel,HaDarom,Beer Sheva,Arad,31.2588,35.2128,1,National,0,ISR
+ISR246,2017-10-23,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR250,2017-10-29,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Haifa,Haifa,Haifa,32.8184,34.9885,1,National,0,ISR
+ISR251,2017-10-29,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR252,2017-10-29,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR260,2017-11-19,1,Protests,Peaceful protest,Protesters (Israel),Disabled Are Becoming Panthers Movement,,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR275,2017-12-02,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR30,2017-01-26,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Israel),,Civilians (Israel),,Israel,Haifa,Haifa,Qiryat Yam,32.8497,35.0697,1,National,1,ISR
+ISR301,2017-12-21,1,Protests,Peaceful protest,Protesters (Israel),Histadrut Union,,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR308,2017-12-30,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR34,2017-01-29,1,Protests,Peaceful protest,Protesters (International),Right Now: Advocates for African Asylum Seekers in Israel; Protesters (United States); Protesters (Israel),,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR35,2017-01-29,1,Protests,Peaceful protest,Protesters (Israel),Right Now: Advocates for African Asylum Seekers in Israel,,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR273,2017-11-30,1,Riots,Mob violence,Rioters (Israel),Jewish Group (Israel),Civilians (Israel),Arab Ethnic Group (Israel),Israel,Haifa,Haifa,Haifa,32.8184,34.9885,1,National,0,ISR
+ISR229,2017-09-23,1,Riots,Mob violence,Rioters (Israel),,Civilians (Israel),Settlers (Israel),Israel,HaMerkaz,Ramla,Modiin,31.8983,35.0105,2,National,0,ISR
+ISR105,2017-03-28,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),Civilians (Israel),Women (Israel),Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National-International,0,ISR
+ISR146,2017-05-23,1,Explosions/Remote violence,Shelling/artillery/missile attack,Unidentified Armed Group (Egypt),,,,Israel,HaDarom,Beer Sheva,Eilat,29.5581,34.9482,2,National,0,ISR
+ISR170,2017-06-21,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Ben Gurion International Airport,32.0136,34.8866,2,National,0,ISR
+ISR174,2017-06-25,1,Explosions/Remote violence,Shelling/artillery/missile attack,Ahfad al Sahaba,,,,Israel,HaDarom,Ashqelon,Sderot,31.525,34.5969,2,National-International,0,ISR
+ISR299,2017-12-17,1,Explosions/Remote violence,Shelling/artillery/missile attack,Unidentified Armed Group (Palestine),,,,Israel,HaDarom,Ashqelon,Sderot,31.525,34.5969,2,National,0,ISR
+ISR307,2017-12-29,1,Explosions/Remote violence,Shelling/artillery/missile attack,Unidentified Armed Group (Palestine),,,,Israel,HaDarom,Ashqelon,Sderot,31.525,34.5969,2,National-International,0,ISR
+ISR75,2017-02-27,1,Explosions/Remote violence,Air/drone strike,Unidentified Armed Group (Palestine),,,,Israel,HaDarom,Ashqelon,Sderot,31.525,34.5969,2,National-International,0,ISR
+ISR92,2017-03-15,1,Protests,Peaceful protest,Protesters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),,,Israel,HaMerkaz,Ramla,Gannot,32.0186,34.8264,1,National,0,ISR
+ISR94,2017-03-18,1,Explosions/Remote violence,Shelling/artillery/missile attack,Unidentified Armed Group (Palestine),,,,Israel,HaDarom,Ashqelon,Ashqelon,31.6693,34.5715,2,National-International,0,ISR
+ISR649,2017-05-22,1,Explosions/Remote violence,Shelling/artillery/missile attack,Unidentified Armed Group (Palestine),,,,Israel,HaDarom,Ashqelon,Ziqim,31.6091,34.5214,1,Local partner-New media,0,ISR
+ISR103,2017-03-27,1,Violence against civilians,Attack,Unidentified Armed Group (Palestine),,Civilians (Israel),Women (Israel),Israel,HaMerkaz,Ramla,Lod,31.9467,34.8903,1,National-International,0,ISR
+ISR171,2017-06-22,1,Riots,Mob violence,Rioters (Israel),Lehava,Civilians (Palestine),,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National-International,0,ISR
+ISR188,2017-07-15,1,Strategic developments,Disrupted weapons use,Unidentified Armed Group (Israel),,,,Israel,HaZafon,Kinneret,Maghar,32.8898,35.407,1,National-International,0,ISR
+ISR280,2017-12-08,1,Explosions/Remote violence,Shelling/artillery/missile attack,Al Nasser Salah al Deen Brigades,Al Aqsa Martyrs Brigade,,,Israel,HaDarom,Ashqelon,Sderot,31.525,34.5969,1,National-International,0,ISR
+ISR290,2017-12-11,1,Explosions/Remote violence,Shelling/artillery/missile attack,Unidentified Armed Group (Palestine),,,,Israel,HaDarom,Beer Sheva,Naveh,31.1618,34.3308,1,National-International,0,ISR
+ISR46,2017-02-06,1,Explosions/Remote violence,Shelling/artillery/missile attack,Unidentified Armed Group (Palestine),,,,Israel,HaDarom,Ashqelon,Ashqelon,31.6693,34.5715,1,International,0,ISR
+ISR42,2017-02-03,1,Protests,Peaceful protest,Protesters (Israel),ARF: Armenian Revolutionary Federation; Armenian National Committee of Jerusalem,,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,International,0,ISR
+ISR164,2017-06-12,1,Violence against civilians,Attack,Unidentified Armed Group (Israel),,Civilians (Israel),Bedouin Ethnic Group (Israel),Israel,HaDarom,Beer Sheva,Mulada,31.2607,34.9757,1,International,1,ISR
+ISR156,2017-06-03,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Israel),,,,Israel,HaZafon,Akko,Deir al Assad,32.936,35.27,1,International,0,ISR
+ISR152,2017-05-27,1,Protests,Peaceful protest,Protesters (Israel),Peace Now Movement,,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,International,0,ISR
+ISR80,2017-03-06,1,Protests,Peaceful protest,Protesters (Palestine),Students (Palestine),,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,International,0,ISR
+ISR162,2017-06-10,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,International,0,ISR
+ISR165,2017-06-13,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,International,0,ISR
+ISR183,2017-07-01,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,International,0,ISR
+ISR8,2017-01-14,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,International,0,ISR
+ISR172,2017-06-24,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,International,0,ISR
+ISR143,2017-05-20,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,International,0,ISR
+ISR184,2017-07-08,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,International,0,ISR
+ISR155,2017-06-03,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,International,0,ISR
+ISR316,2017-12-31,1,Protests,Peaceful protest,Protesters (Israel),Labor Group (Israel),,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR45,2017-02-05,1,Strategic developments,Other,Protesters (Israel),,,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,3,National,0,ISR
+ISR168,2017-06-21,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Israel),,Civilians (Israel),Jewish Group (Israel),Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR102,2017-03-25,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National,0,ISR
+ISR15,2017-01-17,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel) (Neturei Karta Faction),,,Israel,Jerusalem,Jerusalem,Bet Shemesh,31.7307,34.9929,1,National,0,ISR
+ISR192,2017-07-22,1,Strategic developments,Disrupted weapons use,Unidentified Armed Group (Palestine),,,,Israel,HaDarom,Ashqelon,Sderot,31.525,34.5969,2,National-International,0,ISR
+ISR249,2017-10-29,1,Riots,Violent demonstration,Rioters (Israel),,Rioters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR167,2017-06-18,1,Protests,Peaceful protest,Protesters (Israel),Haredi Jewish Group (Israel) (Neturei Karta Faction),,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR239,2017-10-16,1,Protests,Peaceful protest,Protesters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),,,Israel,Tel Aviv,Tel Aviv,Bnei Brak,32.0807,34.8338,1,National,0,ISR
+ISR288,2017-12-10,1,Protests,Peaceful protest,Protesters (Israel),Students (Israel),,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR222,2017-09-09,1,Protests,Peaceful protest,Protesters (Israel),Anonymous for Animal Rights; Vegan Active,,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR166,2017-06-14,1,Protests,Peaceful protest,Protesters (Israel),Students (Israel),,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR305,2017-12-26,1,Protests,Peaceful protest,Protesters (Palestine),Prisoners (Palestine),,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,3,International,0,ISR
+ISR213,2017-08-26,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,International,0,ISR
+ISR3,2017-01-07,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National,0,ISR
+ISR1,2017-01-03,1,Violence against civilians,Attack,Unidentified Armed Group (Israel),,Civilians (Israel),,Israel,Haifa,Haifa,Haifa,32.8184,34.9885,1,National,1,ISR
+ISR647,2017-01-03,1,Violence against civilians,Attack,Unidentified Armed Group (Palestine),,Civilians (Israel),,Israel,HaZafon,Yizreel,Afula,32.6091,35.2892,2,Local partner-New media,0,ISR
+ISR286,2017-12-09,1,Protests,Peaceful protest,Protesters (Israel),,Protesters (Israel),Likud Party,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National-International,0,ISR
+ISR296,2017-12-16,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,International,0,ISR
+ISR302,2017-12-23,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,International,0,ISR
+ISR153,2017-06-02,1,Protests,Peaceful protest,Protesters (Israel),Women (Israel),,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,International,0,ISR
+ISR149,2017-05-26,1,Protests,Peaceful protest,Protesters (Israel),Fathers in Orange,,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR247,2017-10-25,1,Protests,Peaceful protest,Protesters (Palestine),Haredi Jewish Group (Israel) (Yerushalmi Faction),,,Israel,Haifa,Hadera,Atlit,32.6889,34.9424,2,National,0,ISR
+ISR243,2017-10-19,1,Protests,Peaceful protest,Protesters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),,,Israel,HaMerkaz,Ramla,Modiin,31.8983,35.0105,1,National,0,ISR
+ISR195,2017-07-26,1,Riots,Mob violence,Rioters (Israel),Bedouin Ethnic Group (Israel),,,Israel,HaDarom,Beer Sheva,Revivim,31.044,34.7218,1,National,0,ISR
+ISR131,2017-05-03,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR218,2017-09-02,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR197,2017-07-29,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National,0,ISR
+ISR236,2017-10-08,1,Protests,Peaceful protest,Protesters (Israel),Protesters (Palestine); Women Wage Peace; Women (Israel),,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,International,0,ISR
+ISR312,2017-12-23,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Haifa,Haifa,Haifa,32.8184,34.9885,1,National,0,ISR
+ISR8860,2017-01-05,1,Violence against civilians,Attack,Unidentified Armed Group (Israel),Jewish Group (Israel),Civilians (Israel),Arab Ethnic Group (Israel); Labor Group (Israel),Israel,HaDarom,Ashqelon,Ashdod,31.7921,34.6497,1,National,0,ISR
+ISR8876,2017-12-05,1,Riots,Mob violence,Rioters (Israel),,Rioters (Israel),,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR8861,2017-12-10,1,Riots,Mob violence,Rioters (Israel),,Civilians (Israel),,Israel,HaZafon,Akko,Shefaram,32.8058,35.169,2,National,0,ISR
+ISR652,2017-08-07,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,HaZafon,Yizreel,Nazareth,32.6993,35.3048,3,National,0,ISR
+ISR16,2017-01-17,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel) (Neturei Karta Faction),,,Israel,Jerusalem,Jerusalem,Jerusalem - Mea Shearim,31.7878,35.2211,1,National,0,ISR
+ISR12,2017-01-15,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel),,,Israel,Jerusalem,Jerusalem,Jerusalem - Mea Shearim,31.7878,35.2211,1,National,0,ISR
+ISR137,2017-05-13,1,Riots,Mob violence,Rioters (Israel),Haredi Jewish Group (Israel),,,Israel,Jerusalem,Jerusalem,Jerusalem - Mea Shearim,31.7878,35.2211,1,National,0,ISR
+ISR8864,2017-04-18,1,Protests,Protest with intervention,Protesters (Israel),Students (Israel),Rioters (Israel),,Israel,Jerusalem,Jerusalem,Jerusalem - Kiryat Shmuel,31.7694,35.2111,1,National,0,ISR
+ISR253,2017-10-29,1,Protests,Peaceful protest,Protesters (Israel),Settlers (Israel),,,Israel,Jerusalem,Jerusalem,Jerusalem - Rehavia,31.7745,35.2119,1,National,0,ISR
+ISR129,2017-02-05,1,Protests,Peaceful protest,Protesters (Israel),Haredi Jewish Group (Israel),,,Israel,Jerusalem,Jerusalem,Jerusalem - Mea Shearim,31.7878,35.2211,1,National,0,ISR
+ISR10683,2017-03-11,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); High Follow-Up Committee; Muslim Group (Israel),,,Israel,HaZafon,Akko,Kabul,32.8686,35.2117,1,International,0,ISR
+ISR10779,2017-06-16,1,Protests,Peaceful protest,Protesters (Israel),Bedouin Ethnic Group (Israel),,,Israel,HaDarom,Beer Sheva,Beersheba,31.2518,34.7913,2,International,0,ISR
+ISR10659,2017-01-15,1,Protests,Peaceful protest,Protesters (Israel),Bedouin Ethnic Group (Israel),,,Israel,HaDarom,Beer Sheva,Rahat,31.3955,34.757,1,International,0,ISR
+ISR10700,2017-05-30,1,Protests,Peaceful protest,Protesters (Israel),Bedouin Ethnic Group (Israel); Women (Israel),,,Israel,HaDarom,Beer Sheva,Rahat,31.3955,34.757,2,International,0,ISR
+ISR10648,2017-01-10,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,Haifa,Haifa,Haifa,32.8184,34.9885,1,International,0,ISR
+ISR10780,2017-06-17,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Women (Israel),,,Israel,Haifa,Haifa,Haifa,32.8184,34.9885,1,International,0,ISR
+ISR10817,2017-11-16,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,Haifa,Hadera,Jisr ez Zarqa,32.5368,34.9127,1,International,0,ISR
+ISR10684,2017-03-12,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Muslim Group (Israel),,,Israel,Haifa,Hadera,Umm el Fahm,32.5173,35.1535,1,International,0,ISR
+ISR10687,2017-03-29,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Students (Israel),,,Israel,Haifa,Hadera,Umm el Fahm,32.5173,35.1535,1,International,0,ISR
+ISR10714,2017-12-30,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,Haifa,Hadera,Umm el Fahm,32.5173,35.1535,1,International,0,ISR
+ISR10777,2017-06-07,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Muslim Group (Israel); Islamic Movement in Israel - Northern Branch,,,Israel,HaMerkaz,Sharon,Et Taiyiba,32.2662,35.0089,1,International,0,ISR
+ISR10816,2017-11-16,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Christian Group (Israel),,,Israel,HaMerkaz,Ramla,Lod,31.9467,34.8903,1,International,0,ISR
+ISR10650,2017-01-11,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Joint List; High Follow-Up Committee,,,Israel,HaMerkaz,Sharon,Qalansuwa,32.2849,34.9811,1,International,0,ISR
+ISR10657,2017-01-14,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaMerkaz,Sharon,Qalansuwa,32.2849,34.9811,1,International,0,ISR
+ISR10676,2017-02-11,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaMerkaz,Sharon,Qalansuwa,32.2849,34.9811,1,International,0,ISR
+ISR10678,2017-02-25,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaMerkaz,Sharon,Qalansuwa,32.2849,34.9811,1,International,0,ISR
+ISR10815,2017-11-03,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaMerkaz,Sharon,Qalansuwa,32.2849,34.9811,1,International,0,ISR
+ISR10677,2017-02-18,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaMerkaz,Sharon,Qalansuwa,32.2849,34.9811,1,International,0,ISR
+ISR10682,2017-03-11,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaMerkaz,Sharon,Qalansuwa,32.2849,34.9811,1,International,0,ISR
+ISR10685,2017-03-18,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaMerkaz,Sharon,Qalansuwa,32.2849,34.9811,1,International,0,ISR
+ISR10686,2017-03-25,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaMerkaz,Sharon,Qalansuwa,32.2849,34.9811,1,International,0,ISR
+ISR10797,2017-08-13,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaMerkaz,Sharon,Qalansuwa,32.2849,34.9811,1,International,0,ISR
+ISR10808,2017-10-05,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Students (Israel); Teachers (Israel),,,Israel,HaMerkaz,Sharon,Qalansuwa,32.2849,34.9811,1,International,0,ISR
+ISR10781,2017-06-22,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Women (Israel),,,Israel,HaMerkaz,Ramla,Ramla,31.9292,34.8656,1,International,0,ISR
+ISR10812,2017-10-29,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaMerkaz,Sharon,Tirah,32.2341,34.9502,1,International,0,ISR
+ISR10681,2017-03-10,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Students (Israel); Teachers (Israel); Joint List; High Follow-Up Committee,,,Israel,HaZafon,Akko,Akko,32.9281,35.0765,1,International,0,ISR
+ISR10695,2017-05-21,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Yizreel,Dabburiya,32.6926,35.3712,1,International,0,ISR
+ISR10688,2017-04-02,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Yizreel,Dabburiya,32.6926,35.3712,1,International,0,ISR
+ISR10778,2017-06-12,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Yizreel,Dabburiya,32.6926,35.3712,1,International,0,ISR
+ISR10690,2017-04-11,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Christian Group (Israel),,,Israel,HaZafon,Akko,Ibillin,32.8223,35.1927,1,International,0,ISR
+ISR10675,2017-01-27,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Muslim Group (Israel),,,Israel,HaZafon,Akko,Kabul,32.8686,35.2117,1,International,0,ISR
+ISR10691,2017-04-11,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Students (Israel); Labor Group (Israel),,,Israel,HaZafon,Akko,Kafr Manda,32.8103,35.2601,1,International,0,ISR
+ISR10819,2017-11-24,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Joint List; Women (Israel),,,Israel,HaZafon,Akko,Karmiel,32.9171,35.305,1,International,0,ISR
+ISR10807,2017-09-29,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Women (Israel),,,Israel,HaZafon,Akko,Karmiel,32.9171,35.305,1,International,0,ISR
+ISR10809,2017-10-06,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Women (Israel),,,Israel,HaZafon,Akko,Karmiel,32.9171,35.305,1,International,0,ISR
+ISR10806,2017-09-24,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Women (Israel),,,Israel,HaZafon,Akko,Karmiel,32.9171,35.305,1,International,0,ISR
+ISR10653,2017-01-12,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Akko,Kaukab Abu el Hija,32.8316,35.2485,1,International,0,ISR
+ISR10674,2017-01-24,1,Protests,Peaceful protest,Protesters (Israel),Druze Group (Israel),,,Israel,HaZafon,Kinneret,Maghar,32.8898,35.407,1,International,0,ISR
+ISR10803,2017-09-10,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Women (Israel),,,Israel,HaZafon,Akko,Majd el Kurum,32.9219,35.2557,1,International,0,ISR
+ISR10804,2017-09-13,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Women (Israel),,,Israel,HaZafon,Akko,Majd el Kurum,32.9219,35.2557,1,International,0,ISR
+ISR10655,2017-01-12,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Yizreel,Nazareth,32.6993,35.3048,1,International,0,ISR
+ISR10680,2017-03-03,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Yizreel,Nazareth,32.6993,35.3048,2,International,0,ISR
+ISR10805,2017-09-16,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Christian Group (Israel),,,Israel,HaZafon,Yizreel,Nazareth,32.6993,35.3048,1,International,0,ISR
+ISR10654,2017-01-12,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Akko,Sakhnin,32.8642,35.2971,1,International,0,ISR
+ISR10796,2017-08-12,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Akko,Sakhnin,32.8642,35.2971,1,International,0,ISR
+ISR10802,2017-09-05,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Akko,Sakhnin,32.8642,35.2971,1,International,0,ISR
+ISR10672,2017-01-21,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Students (Israel),,,Israel,HaZafon,Akko,Tamra,32.853,35.1987,1,International,0,ISR
+ISR10810,2017-10-08,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Health Workers (Israel),,,Israel,HaZafon,Kinneret,Tiberias,32.7922,35.5312,1,International,0,ISR
+ISR10795,2017-08-05,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Labor Group (Palestine),,,Israel,HaZafon,Yizreel,Turaan,32.7769,35.3724,1,International,0,ISR
+ISR10703,2017-09-16,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Joint List,,,Israel,Tel Aviv,Tel Aviv,Jaffa,32.0495,34.7579,1,International,0,ISR
+ISR10652,2017-01-11,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Students (Israel),,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,International,0,ISR
+ISR106,2017-03-28,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National-International,0,ISR
+ISR157,2017-06-04,1,Riots,Mob violence,Rioters (Israel),Haredi Jewish Group (Israel),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem - Mea Shearim,31.7878,35.2211,1,National,0,ISR
+ISR179,2017-06-27,1,Riots,Violent demonstration,Rioters (Israel),,Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR206,2017-08-08,1,Riots,Mob violence,Rioters (Israel),Haredi Jewish Group (Israel),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem - Mea Shearim,31.7878,35.2211,1,National,0,ISR
+ISR209,2017-08-18,1,Riots,Mob violence,Rioters (Israel),Arab Ethnic Group (Israel),Civilians (Israel),Military Forces of Israel (2009-2021),Israel,Haifa,Hadera,Pardes Hanna Karkur,32.4741,34.9778,1,National-International,0,ISR
+ISR263,2017-11-19,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),Police Forces of Israel (2009-2021),,Israel,Tel Aviv,Tel Aviv,Bnei Brak,32.0807,34.8338,1,National-International,0,ISR
+ISR264,2017-11-19,1,Explosions/Remote violence,Shelling/artillery/missile attack,Unidentified Armed Group (Egypt),,Military Forces of Israel (2009-2021),,Israel,HaDarom,Beer Sheva,Kerem Shalom,31.2278,34.2846,2,National,0,ISR
+ISR265,2017-11-19,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR274,2017-11-30,1,Battles,Armed clash,Unidentified Armed Group (Israel),,Military Forces of Israel (2009-2021),,Israel,HaDarom,Beer Sheva,Arad,31.2588,35.2128,1,National-International,1,ISR
+ISR99,2017-03-20,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR245,2017-10-23,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem - Mea Shearim,31.7878,35.2211,1,International,0,ISR
+ISR111,2017-04-02,1,Strategic developments,Arrests,Police Forces of Israel (2009-2021),,Civilians (Israel),Islamic Movement in Israel - Northern Branch,Israel,Haifa,Hadera,Umm el Fahm,32.5173,35.1535,1,International,0,ISR
+ISR266,2017-11-20,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),Police Forces of Israel (2009-2021),,Israel,Tel Aviv,Tel Aviv,Bnei Brak,32.0807,34.8338,1,International,0,ISR
+ISR41,2017-02-02,1,Violence against civilians,Attack,Police Forces of Israel (2009-2021) Prison Guards,,Civilians (Palestine),Prisoners (Palestine),Israel,HaDarom,Beer Sheva,Rekhes Nafha,30.7187,34.7878,1,International,0,ISR
+ISR267,2017-11-20,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,International,0,ISR
+ISR10794,2017-08-03,1,Riots,Violent demonstration,Rioters (Israel),Arab Ethnic Group (Israel),Police Forces of Israel (2009-2021),,Israel,Tel Aviv,Tel Aviv,Jaffa,32.0495,34.7579,1,International,0,ISR
+ISR10661,2017-01-18,1,Protests,Excessive force against protesters,Protesters (Israel),Bedouin Ethnic Group (Israel),Police Forces of Israel (2009-2021),,Israel,HaDarom,Beer Sheva,Umm al Hiran,31.3601,34.9962,1,International,1,ISR
+ISR10658,2017-01-14,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Joint List; Government of Israel (2009-2021),,,Israel,HaZafon,Akko,Sakhnin,32.8642,35.2971,1,International,0,ISR
+ISR10705,2017-10-14,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Government of Israel (2009-2021),,,Israel,HaMerkaz,Sharon,Qalansuwa,32.2849,34.9811,1,International,0,ISR
+ISR10811,2017-10-10,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Joint List; Women (Israel); Government of Israel (2009-2021),,,Israel,HaZafon,Akko,Karmiel,32.9171,35.305,1,International,0,ISR
+ISR10702,2017-09-16,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Joint List; Government of Israel (2009-2021),,,Israel,HaZafon,Akko,Majd el Kurum,32.9219,35.2557,1,International,0,ISR
+ISR59,2017-02-09,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Bet Shemesh,31.7307,34.9929,1,National,0,ISR
+ISR176,2017-06-26,1,Riots,Mob violence,Police Forces of Israel (2009-2021),,Rioters (Israel),Haredi Jewish Group (Israel),Israel,Jerusalem,Jerusalem,Jerusalem - Mea Shearim,31.7878,35.2211,1,National,0,ISR
+ISR169,2017-06-21,1,Riots,Mob violence,Rioters (Israel),Haredi Jewish Group (Israel),Police Forces of Israel (2009-2021),Military Forces of Israel (2009-2021),Israel,Jerusalem,Jerusalem,Jerusalem - Mea Shearim,31.7878,35.2211,1,National,0,ISR
+ISR63,2017-02-09,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),Police Forces of Israel (2009-2021),,Israel,HaMerkaz,Ramla,Modiin,31.8983,35.0105,1,National,0,ISR
+ISR207,2017-08-15,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem - Mea Shearim,31.7878,35.2211,1,National,0,ISR
+ISR77,2017-03-02,1,Battles,Armed clash,Unidentified Armed Group (Palestine),,Military Forces of Israel (2009-2021),,Israel,HaDarom,Beer Sheva,Kissufim,31.3749,34.3984,2,National,0,ISR
+ISR62,2017-02-09,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR240,2017-10-16,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),Military Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR97,2017-03-20,1,Riots,Mob violence,Rioters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),Police Forces of Israel (2009-2021),,Israel,HaDarom,Ashqelon,Qiryat Malakhi,31.7289,34.7463,1,National,0,ISR
+ISR55,2017-02-08,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR2,2017-01-04,1,Riots,Violent demonstration,Rioters (Israel),,Police Forces of Israel (2009-2021),,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR271,2017-11-27,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction); OJC: Orthodox Council of Jerusalem,Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR258,2017-11-13,1,Protests,Protest with intervention,Protesters (Israel),Haredi Jewish Group (Israel),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR272,2017-11-28,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction); OJC: Orthodox Council of Jerusalem,Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR56,2017-02-08,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel),Police Forces of Israel (2009-2021),,Israel,HaMerkaz,Ramla,Modiin,31.8983,35.0105,1,National,0,ISR
+ISR270,2017-11-26,1,Protests,Protest with intervention,Protesters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR140,2017-05-14,1,Riots,Mob violence,Police Forces of Israel (2009-2021),,Rioters (Israel),Haredi Jewish Group (Israel),Israel,Jerusalem,Jerusalem,Bet Shemesh,31.7307,34.9929,1,National,0,ISR
+ISR53,2017-02-08,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Bet Shemesh,31.7307,34.9929,1,National,0,ISR
+ISR54,2017-02-08,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel),Police Forces of Israel (2009-2021),,Israel,Tel Aviv,Tel Aviv,Bnei Brak,32.0807,34.8338,1,National,0,ISR
+ISR151,2017-05-27,1,Riots,Violent demonstration,Rioters (Israel),,Police Forces of Israel (2009-2021),,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National,0,ISR
+ISR248,2017-10-26,1,Protests,Protest with intervention,Protesters (Israel),Haredi Jewish Group (Israel),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem - Mea Shearim,31.7878,35.2211,1,National,0,ISR
+ISR651,2017-08-01,1,Strategic developments,Looting/property destruction,Military Forces of Israel (2009-2021),,Civilians (Israel),Bedouin Ethnic Group (Israel); Arab Ethnic Group (Israel),Israel,HaDarom,Beer Sheva,Al Araqeeb,31.3339,34.8022,1,International,0,ISR
+ISR8878,2017-12-13,1,Violence against civilians,Attack,Military Forces of Israel (2009-2021),,Civilians (Israel),Druze Group (Israel); Military Forces of Israel (2009-2021),Israel,HaZafon,Kinneret,Tiberias,32.7922,35.5312,3,National,0,ISR
+ISR8877,2017-12-13,1,Strategic developments,Disrupted weapons use,Unidentified Armed Group (Palestine),,Military Forces of Israel (2009-2021),,Israel,HaDarom,Ashqelon,Sderot,31.525,34.5969,2,National,0,ISR
+ISR8874,2017-01-18,1,Strategic developments,Looting/property destruction,Police Forces of Israel (2009-2021),,Civilians (Israel),Bedouin Ethnic Group (Israel),Israel,HaDarom,Beer Sheva,Umm al Hiran,31.3601,34.9962,1,National,0,ISR
+ISR8875,2017-03-29,1,Riots,Violent demonstration,Rioters (Israel),Journalists (Israel),Civilians (Israel),Government of Israel (2009-2021); Histadrut Union; Labor Group (Israel),Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR8869,2017-03-13,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR217,2017-09-01,1,Strategic developments,Change to group/activity,Police Forces of Israel (2009-2021),,,,Israel,HaMerkaz,Ramla,Lod,31.9467,34.8903,1,International,0,ISR
+ISR234,2017-10-03,1,Strategic developments,Looting/property destruction,Police Forces of Israel (2009-2021),,Civilians (Israel),Bedouin Ethnic Group (Israel); Arab Ethnic Group (Israel),Israel,HaDarom,Beer Sheva,Al Araqeeb,31.3339,34.8022,1,International,0,ISR
+ISR294,2017-12-14,1,Strategic developments,Change to group/activity,Government of Israel (2009-2021),,,,Israel,HaDarom,Beer Sheva,Kerem Shalom,31.2278,34.2846,3,International,0,ISR
+ISR208,2017-08-15,1,Strategic developments,Arrests,Police Forces of Israel (2009-2021),,Civilians (Palestine),Islamic Movement in Israel - Northern Branch,Israel,Haifa,Hadera,Umm el Fahm,32.5173,35.1535,1,National,0,ISR
+ISR261,2017-11-19,1,Protests,Protest with intervention,Protesters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Bet Shemesh,31.7307,34.9929,1,National,0,ISR
+ISR128,2017-05-01,1,Protests,Protest with intervention,Protesters (Israel),Haredi Jewish Group (Israel),Police Forces of Israel (2009-2021),,Israel,Tel Aviv,Tel Aviv,Bnei Brak,32.0807,34.8338,1,National,0,ISR
+ISR50,2017-02-07,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel),Police Forces of Israel (2009-2021),,Israel,HaMerkaz,Ramla,Modiin,31.8983,35.0105,1,National,0,ISR
+ISR98,2017-03-20,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem - Mea Shearim,31.7878,35.2211,1,National,0,ISR
+ISR185,2017-07-09,1,Riots,Violent demonstration,Rioters (Israel),,Police Forces of Israel (2009-2021),,Israel,HaMerkaz,Sharon,Batzra,32.2141,34.8768,1,National,0,ISR
+ISR159,2017-06-09,1,Riots,Mob violence,Rioters (Israel),Haredi Jewish Group (Israel),Military Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem - Mea Shearim,31.7878,35.2211,1,National,0,ISR
+ISR48,2017-02-07,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel),Police Forces of Israel (2009-2021),,Israel,Tel Aviv,Tel Aviv,Bnei Brak,32.0807,34.8338,1,National,0,ISR
+ISR154,2017-06-02,1,Riots,Mob violence,Rioters (Israel),Haredi Jewish Group (Israel),Military Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem - Mea Shearim,31.7878,35.2211,1,National,0,ISR
+ISR100,2017-03-24,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Bet Shemesh,31.7307,34.9929,1,National,0,ISR
+ISR101,2017-03-24,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR57,2017-02-08,1,Protests,Protest with intervention,Protesters (Israel),Lehava,Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR110,2017-04-01,1,Riots,Violent demonstration,Rioters (Israel),Labor Group (Israel),Police Forces of Israel (2009-2021),,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR49,2017-02-07,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR47,2017-02-07,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Bet Shemesh,31.7307,34.9929,1,National,0,ISR
+ISR225,2017-09-15,1,Riots,Mob violence,Rioters (Israel),Haredi Jewish Group (Israel),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem - Mea Shearim,31.7878,35.2211,1,National,0,ISR
+ISR194,2017-07-24,1,Violence against civilians,Attack,Unidentified Armed Group (Palestine),,Civilians (Israel),Arab Ethnic Group (Palestine),Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National-International,0,ISR
+ISR23,2017-01-18,1,Riots,Violent demonstration,Police Forces of Israel (2009-2021),,Rioters (Israel),Arab Ethnic Group (Palestine); Higher Guidance Committee for Arab Residents of Negev; Bedouin Ethnic Group (Israel),Israel,HaDarom,Beer Sheva,Hura,31.3008,34.9361,2,International,2,ISR
+ISR235,2017-10-04,1,Violence against civilians,Attack,Unidentified Armed Group (Israel),Arab Ethnic Group (Palestine),Civilians (Israel),,Israel,HaMerkaz,Petah Tiqwa,Kafr Qaseem,32.1141,34.9762,1,National-International,1,ISR
+ISR91,2017-03-15,1,Violence against civilians,Attack,Settlers (Israel),,Civilians (Israel),Arab Ethnic Group (Palestine),Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,International,0,ISR
+ISR11629,2017-05-09,1,Riots,Mob violence,Rioters (Israel),,Civilians (Israel),Arab Ethnic Group (Israel),Israel,HaZafon,Yizreel,Naura,32.614,35.3917,1,National,0,ISR
+ISR11616,2017-06-05,1,Riots,Mob violence,Rioters (Israel),Arab Ethnic Group (Israel),Police Forces of Israel (2009-2021),,Israel,HaMerkaz,Petah Tiqwa,Kafr Qaseem,32.1141,34.9762,1,National,1,ISR
+ISR10818,2017-11-21,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Yizreel,Kafr Kanna,32.7466,35.3424,1,National-International,0,ISR
+ISR10829,2017-12-28,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Yizreel,Ein Mahil,32.723,35.353,1,National-International,0,ISR
+ISR126,2017-04-28,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaDarom,Beer Sheva,Rahat,31.3955,34.757,1,National-International,0,ISR
+ISR17,2017-01-18,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Students (Israel),,,Israel,Haifa,Haifa,Haifa,32.8184,34.9885,1,National-International,0,ISR
+ISR18,2017-01-18,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Students (Israel),,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National-International,0,ISR
+ISR19,2017-01-18,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Yizreel,Nazareth,32.6993,35.3048,1,National,0,ISR
+ISR198,2017-07-29,1,Riots,Violent demonstration,Rioters (Israel),Arab Ethnic Group (Israel),Police Forces of Israel (2009-2021),,Israel,Tel Aviv,Tel Aviv,Jaffa,32.0495,34.7579,1,National-International,0,ISR
+ISR20,2017-01-18,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaMerkaz,Sharon,Qalansuwa,32.2849,34.9811,1,National,0,ISR
+ISR203,2017-08-03,1,Riots,Mob violence,Rioters (Israel),Arab Ethnic Group (Israel),Police Forces of Israel (2009-2021),,Israel,Tel Aviv,Tel Aviv,Jaffa,32.0495,34.7579,1,National,0,ISR
+ISR21,2017-01-18,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Students (Israel),,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National-International,0,ISR
+ISR22,2017-01-18,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,Tel Aviv,Tel Aviv,Jaffa,32.0495,34.7579,1,National,0,ISR
+ISR25,2017-01-21,1,Protests,Protest with intervention,Protesters (Israel),Arab Ethnic Group (Israel),Police Forces of Israel (2009-2021),,Israel,Haifa,Hadera,Arara,32.4955,35.0941,1,National-International,0,ISR
+ISR281,2017-12-08,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,Haifa,Hadera,Umm el Fahm,32.5173,35.1535,1,National-International,0,ISR
+ISR7,2017-01-13,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,3,National-International,0,ISR
+ISR158,2017-06-06,1,Riots,Violent demonstration,Rioters (Israel),Arab Ethnic Group (Israel),Police Forces of Israel (2009-2021),,Israel,HaMerkaz,Petah Tiqwa,Kafr Qaseem,32.1141,34.9762,1,International,1,ISR
+ISR107,2017-03-30,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Akko,Deir Hanna,32.862,35.3637,1,International,0,ISR
+ISR144,2017-05-22,1,Strategic developments,Other,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,3,International,0,ISR
+ISR10786,2017-07-22,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); High Follow-Up Committee,,,Israel,HaMerkaz,Sharon,Et Taiyiba,32.2662,35.0089,1,International,0,ISR
+ISR10707,2017-12-08,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); High Follow-Up Committee,,,Israel,HaMerkaz,Petah Tiqwa,Kafr Qaseem,32.1141,34.9762,1,International,0,ISR
+ISR10708,2017-12-08,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); High Follow-Up Committee,,,Israel,HaMerkaz,Petah Tiqwa,Jaljulya,32.1547,34.9537,1,International,0,ISR
+ISR10656,2017-01-13,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaMerkaz,Sharon,Qalansuwa,32.2849,34.9811,1,International,0,ISR
+ISR10697,2017-05-26,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Muslim Group (Israel); High Follow-Up Committee,,,Israel,HaDarom,Beer Sheva,Beersheba,31.2518,34.7913,1,International,0,ISR
+ISR10698,2017-05-26,1,Riots,Violent demonstration,Rioters (Israel),Arab Ethnic Group (Israel),Police Forces of Israel (2009-2021),,Israel,Haifa,Hadera,Arara,32.4955,35.0941,1,International,0,ISR
+ISR10660,2017-01-18,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Students (Israel),,,Israel,HaDarom,Beer Sheva,Beersheba,31.2518,34.7913,1,International,0,ISR
+ISR10798,2017-08-16,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Islamic Movement in Israel - Northern Branch,,,Israel,Haifa,Hadera,Baqa al Gharbiyyeh,32.4181,35.0431,1,International,0,ISR
+ISR10662,2017-01-19,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaMerkaz,Petah Tiqwa,Kafr Qaseem,32.1141,34.9762,1,International,0,ISR
+ISR10669,2017-01-20,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Akko,Akko,32.9281,35.0765,1,International,0,ISR
+ISR10783,2017-07-21,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Muslim Group (Israel),,,Israel,HaMerkaz,Sharon,Et Taiyiba,32.2662,35.0089,1,International,0,ISR
+ISR10696,2017-05-24,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Joint List,,,Israel,HaZafon,Akko,Araba,32.8509,35.3371,1,International,0,ISR
+ISR10825,2017-12-09,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); High Follow-Up Committee,,,Israel,Haifa,Haifa,Haifa,32.8184,34.9885,1,International,0,ISR
+ISR10699,2017-05-26,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Muslim Group (Israel); High Follow-Up Committee,,,Israel,Haifa,Haifa,Haifa,32.8184,34.9885,1,International,0,ISR
+ISR10706,2017-12-08,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); High Follow-Up Committee,,,Israel,Haifa,Hadera,Kafr Qara,32.5067,35.0539,1,International,0,ISR
+ISR10693,2017-04-29,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaMerkaz,Sharon,Tirah,32.2341,34.9502,1,International,0,ISR
+ISR10821,2017-12-07,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaMerkaz,Sharon,Et Taiyiba,32.2662,35.0089,1,International,0,ISR
+ISR10828,2017-12-22,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Akko,Jadeidi Makr,32.9286,35.1496,1,International,0,ISR
+ISR10701,2017-07-27,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Bedouin Ethnic Group (Israel); Higher Guidance Committee for Arab Residents of Negev; High Follow-Up Committee,,,Israel,HaDarom,Beer Sheva,Beersheba,31.2518,34.7913,1,International,0,ISR
+ISR10666,2017-01-19,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Yizreel,Kafr Kanna,32.7466,35.3424,1,International,0,ISR
+ISR10799,2017-08-16,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Islamic Movement in Israel - Northern Branch,,,Israel,Haifa,Hadera,Umm el Fahm,32.5173,35.1535,1,International,0,ISR
+ISR10785,2017-07-22,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); High Follow-Up Committee,,,Israel,Haifa,Hadera,Umm el Fahm,32.5173,35.1535,1,International,0,ISR
+ISR10814,2017-11-03,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,Haifa,Hadera,Umm el Fahm,32.5173,35.1535,1,International,0,ISR
+ISR10792,2017-07-23,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaMerkaz,Sharon,Et Taiyiba,32.2662,35.0089,1,International,0,ISR
+ISR10824,2017-12-09,1,Riots,Violent demonstration,Rioters (Israel),Arab Ethnic Group (Israel); High Follow-Up Committee,Civilians (Israel),,Israel,Haifa,Hadera,Ara,32.5037,35.0798,2,International,0,ISR
+ISR10668,2017-01-20,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaMerkaz,Sharon,Tirah,32.2341,34.9502,1,International,0,ISR
+ISR10709,2017-12-08,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); High Follow-Up Committee,,,Israel,HaMerkaz,Sharon,Qalansuwa,32.2849,34.9811,1,International,0,ISR
+ISR10679,2017-02-27,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); High Follow-Up Committee,,,Israel,HaMerkaz,Ramla,Ramla,31.9292,34.8656,1,International,0,ISR
+ISR10788,2017-07-22,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); High Follow-Up Committee,,,Israel,Haifa,Hadera,Baqa al Gharbiyyeh,32.4181,35.0431,1,International,0,ISR
+ISR10820,2017-12-07,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Yizreel,Nazareth,32.6993,35.3048,1,International,0,ISR
+ISR10667,2017-01-19,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Yizreel,Uzayr,32.7887,35.3208,2,International,0,ISR
+ISR10663,2017-01-19,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaMerkaz,Sharon,Et Taiyiba,32.2662,35.0089,1,International,0,ISR
+ISR10665,2017-01-19,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Akko,Majd el Kurum,32.9219,35.2557,1,International,0,ISR
+ISR10823,2017-12-09,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); High Follow-Up Committee,,,Israel,HaZafon,Akko,Majd el Kurum,32.9219,35.2557,1,International,0,ISR
+ISR10801,2017-08-16,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Islamic Movement in Israel - Northern Branch,,,Israel,HaZafon,Akko,Sakhnin,32.8642,35.2971,1,International,0,ISR
+ISR10790,2017-07-22,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); High Follow-Up Committee,,,Israel,HaZafon,Akko,Sakhnin,32.8642,35.2971,1,International,0,ISR
+ISR10822,2017-12-09,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); High Follow-Up Committee,,,Israel,HaZafon,Akko,Araba,32.8509,35.3371,1,International,0,ISR
+ISR10710,2017-12-08,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); High Follow-Up Committee,,,Israel,HaZafon,Akko,Tamra,32.853,35.1987,1,International,0,ISR
+ISR10670,2017-01-20,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Yizreel,Dabburiya,32.6926,35.3712,1,International,0,ISR
+ISR10793,2017-07-23,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Akko,Kafr Yasif,32.9545,35.1623,1,International,0,ISR
+ISR10789,2017-07-22,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); High Follow-Up Committee,,,Israel,HaZafon,Yizreel,Nazareth,32.6993,35.3048,1,International,0,ISR
+ISR10826,2017-12-11,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Students (Israel),,,Israel,HaZafon,Akko,Jadeidi Makr,32.9286,35.1496,1,International,0,ISR
+ISR10711,2017-12-09,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); High Follow-Up Committee,,,Israel,HaZafon,Yizreel,Reine,32.7222,35.3153,1,International,0,ISR
+ISR10827,2017-12-11,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Muslim Group (Israel),,,Israel,Tel Aviv,Tel Aviv,Jaffa,32.0495,34.7579,1,International,0,ISR
+ISR10784,2017-07-21,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Muslim Group (Israel),,,Israel,HaZafon,Akko,Majd el Kurum,32.9219,35.2557,1,International,0,ISR
+ISR10671,2017-01-20,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Akko,Kafr Manda,32.8103,35.2601,1,International,0,ISR
+ISR10791,2017-07-22,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Akko,Kafr Manda,32.8103,35.2601,1,International,0,ISR
+ISR10713,2017-12-14,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,Haifa,Hadera,Umm el Fahm,32.5173,35.1535,1,International,0,ISR
+ISR10712,2017-12-12,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); High Follow-Up Committee; Joint List,,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,International,0,ISR
+ISR10664,2017-01-19,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Akko,Kabul,32.8686,35.2117,1,International,0,ISR
+ISR10787,2017-07-22,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); High Follow-Up Committee,,,Israel,HaMerkaz,Sharon,Qalansuwa,32.2849,34.9811,1,International,0,ISR
+ISR10782,2017-07-21,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Muslim Group (Israel),,,Israel,Haifa,Hadera,Kafr Qara,32.5067,35.0539,1,International,0,ISR
+ISR10800,2017-08-16,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Islamic Movement in Israel - Northern Branch,,,Israel,HaZafon,Akko,Majd el Kurum,32.9219,35.2557,1,International,0,ISR
+ISR10813,2017-11-03,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Akko,Shefaram,32.8058,35.169,1,International,0,ISR
+ISR277,2017-12-07,1,Riots,Mob violence,Rioters (Israel),Arab Ethnic Group (Israel),Civilians (Israel),,Israel,Haifa,Hadera,Umm el Fahm,32.5173,35.1535,2,National,0,ISR
+ISR278,2017-12-08,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Yizreel,Kafr Kanna,32.7466,35.3424,1,International,0,ISR
+ISR279,2017-12-08,1,Protests,Protest with intervention,Protesters (Israel),Arab Ethnic Group (Israel); Women (Israel),Police Forces of Israel (2009-2021),,Israel,HaZafon,Akko,Nahaf,32.9344,35.3168,1,International,0,ISR
+ISR295,2017-12-15,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Akko,Sakhnin,32.8642,35.2971,1,National,0,ISR
+ISR283,2017-12-09,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaDarom,Beer Sheva,Rahat,31.3955,34.757,1,National,0,ISR
+ISR284,2017-12-09,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Akko,Tamra,32.853,35.1987,1,National,0,ISR
+ISR135,2017-05-10,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR285,2017-12-09,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaMerkaz,Sharon,Tirah,32.2341,34.9502,1,National,0,ISR
+ISR282,2017-09-12,1,Riots,Mob violence,Rioters (Israel),Arab Ethnic Group (Israel),Civilians (Israel),,Israel,Haifa,Hadera,Pardes Hanna Karkur,32.4741,34.9778,2,National,0,ISR
+ISR648,2017-05-06,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,Local partner-New media,0,ISR
+ISR650,2017-07-22,1,Riots,Violent demonstration,Rioters (Israel),Arab Ethnic Group (Israel),,,Israel,Haifa,Hadera,Umm el Fahm,32.5173,35.1535,1,Local partner-New media,0,ISR
+ISR122,2017-04-22,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Islamic Movement in Israel - Southern Branch,,,Israel,HaDarom,Beer Sheva,Beersheba,31.2518,34.7913,1,International,0,ISR
+ISR118,2017-04-18,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Prisoners (Palestine),,,Israel,Haifa,Hadera,Umm el Fahm,32.5173,35.1535,1,International,0,ISR
+ISR130,2017-05-02,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Refugees/IDPs (Palestine),,,Israel,HaZafon,Akko,Kabri,33.0209,35.1484,1,International,0,ISR
+ISR108,2017-03-30,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaZafon,Akko,Sakhnin,32.8642,35.2971,1,International,0,ISR
+ISR79,2017-03-05,1,Protests,Peaceful protest,Protesters (Israel),Bedouin Ethnic Group (Israel); Arab Ethnic Group (Israel),,,Israel,HaDarom,Beer Sheva,Beersheba,31.2518,34.7913,1,International,0,ISR
+ISR5,2017-01-08,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Higher Guidance Committee for Arab Residents of Negev; Bedouin Ethnic Group (Israel),,,Israel,HaDarom,Beer Sheva,Beersheba,31.2518,34.7913,2,International,0,ISR
+ISR36,2017-01-29,1,Protests,Peaceful protest,Protesters (Israel),Bedouin Ethnic Group (Israel); Arab Ethnic Group (Israel),,,Israel,HaDarom,Beer Sheva,Beersheba,31.2518,34.7913,1,International,0,ISR
+ISR24,2017-01-20,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaMerkaz,Sharon,Et Taiyiba,32.2662,35.0089,1,International,0,ISR
+ISR84,2017-03-12,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaMerkaz,Sharon,Et Taiyiba,32.2662,35.0089,1,International,0,ISR
+ISR10,2017-01-14,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Hadash,,,Israel,HaZafon,Akko,Kafr Yasif,32.9545,35.1623,2,International,0,ISR
+ISR29,2017-01-24,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Students (Israel),,,Israel,Haifa,Haifa,Haifa,32.8184,34.9885,1,International,0,ISR
+ISR6,2017-01-10,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaMerkaz,Sharon,Qalansuwa,32.2849,34.9811,1,National,0,ISR
+ISR161,2017-06-10,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,HaMerkaz,Petah Tiqwa,Kafr Qaseem,32.1141,34.9762,1,International,0,ISR
+ISR14,2017-01-16,1,Riots,Mob violence,Rioters (Israel),Haredi Jewish Group (Israel),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem - Mea Shearim,31.7878,35.2211,1,National,0,ISR
+ISR212,2017-08-26,1,Protests,Peaceful protest,Protesters (Israel),,Protesters (Israel),Haredi Jewish Group (Israel),Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR226,2017-09-17,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem - Mea Shearim,31.7878,35.2211,1,National-International,0,ISR
+ISR230,2017-09-24,1,Protests,Peaceful protest,Protesters (Israel),Disabled Are Becoming Panthers Movement,,,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR241,2017-10-19,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National-International,0,ISR
+ISR4,2017-01-07,1,Protests,Protest with intervention,Protesters (Israel),,Police Forces of Israel (2009-2021),,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR60,2017-02-09,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),Military Forces of Israel (2009-2021),,Israel,Tel Aviv,Tel Aviv,Bnei Brak,32.0807,34.8338,1,National,0,ISR
+ISR64,2017-02-09,1,Riots,Mob violence,Rioters (Israel),,Civilians (Israel),Arab Ethnic Group (Palestine),Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,National-International,0,ISR
+ISR653,2017-10-23,1,Protests,Protest with intervention,Protesters (Israel),Haredi Jewish Group (Israel),Military Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,Local partner-New media,0,ISR
+ISR88,2017-03-15,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR11874,2017-03-27,1,Protests,Peaceful protest,Protesters (Israel),Haredi Jewish Group (Israel),,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR11875,2017-02-13,1,Protests,Protest with intervention,Protesters (Israel),Haredi Jewish Group (Israel),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR11872,2017-10-17,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel) (Yerushalmi Faction),Military Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR11873,2017-07-27,1,Riots,Violent demonstration,Rioters (Israel),Haredi Jewish Group (Israel),Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR289,2017-12-11,1,Strategic developments,Disrupted weapons use,Unidentified Armed Group (Palestine),,Military Forces of Israel (2009-2021),,Israel,HaDarom,Ashqelon,Ashqelon,31.6693,34.5715,2,National-International,0,ISR
+ISR291,2017-12-13,1,Explosions/Remote violence,Shelling/artillery/missile attack,PIJ: Palestinian Islamic Jihad,,,,Israel,HaDarom,Beer Sheva,Magen,31.2991,34.4275,2,National-International,0,ISR
+ISR654,2017-11-30,1,Explosions/Remote violence,Shelling/artillery/missile attack,PIJ: Palestinian Islamic Jihad,,Military Forces of Israel (2009-2021),,Israel,HaDarom,Ashqelon,Erez,31.5602,34.5666,2,Local partner-New media,0,ISR
+ISR794,2017-01-30,1,Protests,Peaceful protest,Protesters (Israel),Labor Group (Israel),,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National,0,ISR
+ISR655,2017-12-03,1,Riots,Mob violence,Rioters (Palestine),,Civilians (Israel),,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,Local partner-New media,0,ISR
+ISR10649,2017-01-11,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Balad: National Democratic Assembly; Joint List,,,Israel,Haifa,Hadera,Baqa al Gharbiyyeh,32.4181,35.0431,1,International,0,ISR
+ISR10651,2017-01-11,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Balad: National Democratic Assembly; Joint List,,,Israel,HaZafon,Akko,Kafr Yasif,32.9545,35.1623,1,International,0,ISR
+ISR10673,2017-01-22,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Balad: National Democratic Assembly; High Follow-Up Committee; Joint List,,,Israel,HaMerkaz,Ramla,Ramla,31.9292,34.8656,1,International,0,ISR
+ISR10689,2017-04-05,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Balad: National Democratic Assembly; Joint List; Women (Israel),,,Israel,HaMerkaz,Ramla,Lod,31.9467,34.8903,1,International,0,ISR
+ISR10692,2017-04-27,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Balad: National Democratic Assembly,,,Israel,HaZafon,Akko,Shefaram,32.8058,35.169,1,International,0,ISR
+ISR10694,2017-05-06,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Balad: National Democratic Assembly,,,Israel,HaZafon,Akko,Shefaram,32.8058,35.169,1,International,0,ISR
+ISR10704,2017-10-08,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Balad: National Democratic Assembly; Hadash; Islamic Movement in Israel - Northern Branch; Joint List,,,Israel,HaZafon,Yizreel,Reine,32.7222,35.3153,1,International,0,ISR
+ISR656,2017-12-15,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel); Balad: National Democratic Assembly; Government of Israel (2009-2021); Muslim Group (Israel),,,Israel,HaZafon,Yizreel,Nazareth,32.6993,35.3048,1,Local partner-New media,0,ISR
+ISR190,2017-07-20,1,Riots,Violent demonstration,Rioters (Israel),LGBTQ+ (Israel),Police Forces of Israel (2009-2021),,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,National,0,ISR
+ISR11882,2017-05-10,1,Protests,Peaceful protest,Protesters (Israel),Haredi Jewish Group (Israel),,,Israel,HaMerkaz,Ramla,Tzrifin,31.9573,34.8406,1,National,0,ISR
+ISR90,2017-03-15,1,Explosions/Remote violence,Shelling/artillery/missile attack,Unidentified Armed Group (Palestine),,,,Israel,HaDarom,Beer Sheva,Netivot,31.4231,34.5891,2,National,0,ISR
+ISR133,2017-08-05,1,Strategic developments,Looting/property destruction,Settlers (Israel),,Civilians (Palestine),,Israel,HaZafon,Yizreel,Naura,32.614,35.3917,1,National-Regional,0,ISR
+ISR189,2017-07-17,1,Protests,Peaceful protest,Protesters (Israel),Settlers (Israel),,,Israel,Jerusalem,Jerusalem,Jerusalem - Givat Ram,31.7755,35.2027,1,National,0,ISR
+ISR28,2017-01-23,1,Protests,Peaceful protest,Protesters (Israel),Arab Ethnic Group (Israel),,,Israel,Jerusalem,Jerusalem,Jerusalem - Givat Ram,31.7755,35.2027,1,Regional-International,0,ISR
+ISR31,2017-01-26,1,Protests,Peaceful protest,Protesters (International),Refugees/IDPs (International),,,Israel,Jerusalem,Jerusalem,Jerusalem - Givat Ram,31.7755,35.2027,1,Regional,0,ISR
+ISR37,2017-01-30,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Jerusalem,Jerusalem,Jerusalem - Givat Ram,31.7755,35.2027,1,National,0,ISR
+ISR61,2017-02-09,1,Protests,Peaceful protest,Protesters (Israel),Settlers (Israel),,,Israel,Jerusalem,Jerusalem,Jerusalem - Givat Ram,31.7755,35.2027,1,National,0,ISR
+ISR85,2017-03-14,1,Riots,Violent demonstration,Rioters (Palestine),,Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem - Givat Ram,31.7755,35.2027,1,Regional,0,ISR
+ISR8879,2017-12-19,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Jerusalem,Jerusalem,Jerusalem - Givat Ram,31.7755,35.2027,1,National,0,ISR
+ISR73,2017-02-25,1,Protests,Protest with intervention,Protesters (Lebanon),,Military Forces of Israel (2009-2021),,Israel,HaZafon,Zefat,Menara,33.1969,35.5439,2,National-International,0,ISR
+ISR115,2017-04-10,1,Explosions/Remote violence,Shelling/artillery/missile attack,Islamic State Sinai Province (IS Sinai),,,,Israel,HaDarom,Beer Sheva,Kissufim,31.3749,34.3984,2,National-International,0,ISR
+ISR238,2017-10-15,1,Explosions/Remote violence,Shelling/artillery/missile attack,Islamic State Sinai Province (IS Sinai),,,,Israel,HaDarom,Beer Sheva,Magen,31.2991,34.4275,1,National-International,0,ISR
+ISR51,2017-02-08,1,Explosions/Remote violence,Shelling/artillery/missile attack,Islamic State Sinai Province (IS Sinai),,,,Israel,HaDarom,Beer Sheva,Eilat,29.5581,34.9482,2,International,0,ISR
+ISR71,2017-02-20,1,Explosions/Remote violence,Shelling/artillery/missile attack,Islamic State Sinai Province (IS Sinai),,,,Israel,HaDarom,Beer Sheva,Naveh,31.1618,34.3308,1,National-International,0,ISR
+ISR123,2017-04-23,1,Violence against civilians,Attack,Unidentified Armed Group (Palestine),,Civilians (Israel),,Israel,Tel Aviv,Tel Aviv,Tel Aviv,32.0809,34.7806,1,International,0,ISR
+ISR199,2017-08-02,1,Violence against civilians,Attack,Unidentified Armed Group (Palestine),,Civilians (Israel),,Israel,HaMerkaz,Rehovot,Yavne,31.8808,34.7384,1,National,0,ISR
+ISR287,2017-12-10,1,Battles,Armed clash,Unidentified Armed Group (Palestine),,Police Forces of Israel (2009-2021),,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,International,0,ISR
+ISR38,2017-01-02,1,Battles,Armed clash,Hamas Movement,Prisoners (Palestine); Hamas Movement,Police Forces of Israel (2009-2021) Prison Guards,,Israel,HaDarom,Beer Sheva,Qeziot,30.8765,34.4597,1,National,0,ISR
+ISR39,2017-01-02,1,Battles,Armed clash,Hamas Movement,Prisoners (Palestine); Hamas Movement,Police Forces of Israel (2009-2021) Prison Guards,,Israel,HaDarom,Beer Sheva,Rekhes Nafha,30.7187,34.7878,1,National,0,ISR
+ISR58,2017-02-09,1,Violence against civilians,Attack,Unidentified Armed Group (Palestine),,Civilians (Israel),,Israel,HaMerkaz,Petah Tiqwa,Petah Tikva,32.0871,34.8875,1,International,0,ISR
+ISR147,2017-05-23,1,Battles,Armed clash,Unidentified Armed Group (Palestine),,Police Forces of Israel (2009-2021),,Israel,HaMerkaz,Sharon,Netanya,32.3329,34.8599,1,Regional-International,1,ISR
+ISR201,2017-08-03,1,Protests,Peaceful protest,Protesters (Israel),LGBTQ+ (Israel),,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,International,0,ISR
+ISR216,2017-08-31,1,Protests,Peaceful protest,Protesters (Israel),Derech Chaim,,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,International,0,ISR
+ISR297,2017-12-17,1,Protests,Peaceful protest,Protesters (Israel),Labor Group (Israel); Histadrut Union,,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National-International,0,ISR
+ISR303,2017-12-23,1,Protests,Peaceful protest,Protesters (Israel),,,,Israel,Jerusalem,Jerusalem,Jerusalem,31.769,35.2163,1,National-International,0,ISR

@@ -1,0 +1,28 @@
+article_id,published_date,url,title,cluster_id,country,city,protest_type
+A1,2023-04-03,https://news.cl/a1,Chilean teachers begin nationwide strike,0,chile,santiago,strike
+A2,2023-04-07,https://latam.cl/a2,Strike enters second week with no resolution,0,chile,santiago,strike
+A3,2023-04-21,https://bbc.com/a3,Chile three-week teachers strike ends with deal,0,chile,santiago,strike
+B1,2023-06-14,https://lemonde.fr/b1,Paris metro workers walk out over pay,2,france,paris,strike
+B2,2023-06-17,https://reuters.com/b2,French metro strike enters third day,2,france,paris,strike
+B3,2023-06-19,https://france24.com/b3,Commuters frustrated as Paris walkout continues,2,france,paris,walkout
+B4,2023-06-21,https://apnews.com/b4,Paris transport strike entered its 8th day,2,france,paris,strike
+C1,2023-02-01,https://thehindu.com/c1,Farmers begin march toward Delhi,3,india,new delhi,march
+C2,2023-02-06,https://ndtv.com/c2,Farmers protest swells near Delhi border,3,india,new delhi,protest
+C3,2023-02-12,https://bbc.com/c3,Indian farmer protest leaders meet government,3,india,new delhi,march
+C4,2023-02-20,https://reuters.com/c4,Farmers protest continues into third week,3,india,new delhi,protest
+C5,2023-03-01,https://aljazeera.com/c5,India farm protest ends after government concessions,3,india,new delhi,march
+D1,2023-01-18,https://guardian.com/d1,NHS nurses walk out in historic strike action,4,uk,london,strike
+D2,2023-01-19,https://bbc.co.uk/d2,Second day of NHS nursing strike continues,4,uk,london,strike
+E1,2023-11-09,https://globo.com/e1,Brazilians protest against pension reform in Sao Paulo,5,brazil,sao paulo,protest
+E2,2023-11-10,https://folha.com/e2,Anti-pension reform protests spread across Brazil,5,brazil,sao paulo,demonstration
+E3,2023-11-12,https://bbc.com/e3,Brazil protest movement continues amid crackdown,6,brazil,rio de janeiro,protest
+F1,2023-09-20,https://ahram.eg/f1,Egyptians protest austerity measures in Cairo,7,egypt,cairo,protest
+F2,2023-09-23,https://madamasr.com/f2,Cairo protests in their fourth day,7,egypt,cairo,protest
+F3,2023-09-26,https://reuters.com/f3,Egypt unrest: protest movement in its seventh day,7,egypt,cairo,protest
+F4,2023-09-28,https://bbc.com/f4,Egyptian protests continue as arrests mount,8,egypt,alexandria,demonstration
+G1,2023-04-05,https://cooperativa.cl/g1,Copper miners strike at Codelco over bonuses,1,chile,antofagasta,strike
+G2,2023-04-06,https://mineria.cl/g2,Codelco miners second day of strike action,1,chile,antofagasta,strike
+H1,2023-07-15,https://dailynation.ke/h1,Kenyan teachers protest pay cuts in Nairobi,9,kenya,nairobi,protest
+H2,2023-08-22,https://thenews.pk/h2,Pakistan lawyers stage protest in Karachi,10,pakistan,karachi,demonstration
+H3,2023-05-10,https://nikkei.com/h3,South Korean truckers protest fuel surcharge cuts,11,south korea,seoul,protest
+H4,2023-03-18,https://vanguard.ng/h4,Nigeria labour unions protest rising fuel prices,12,nigeria,abuja,protest

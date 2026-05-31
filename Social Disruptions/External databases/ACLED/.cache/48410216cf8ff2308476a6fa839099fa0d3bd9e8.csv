@@ -1,0 +1,646 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities
+KEN6693,2018-11-11,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Mombasa,Nyali,Nyali,-4.0525,39.6954,1,National,0
+KEN6803,2018-09-07,2,Riots,Violent demonstration,Rioters (Kenya),Unidentified Tribal Group (Kenya),Rioters (Kenya),Unidentified Tribal Group (Kenya),Kenya,Marsabit,Saku,Marsabit,2.333,37.983,2,National,0
+KEN6439,2018-09-03,2,Protests,Peaceful protest,Protesters (Kenya),Maasai Ethnic Group (Kenya),,,Kenya,Narok,Narok North,Narok,-1.0783,35.8601,1,National,0
+KEN6428,2018-08-27,2,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Bomet,Bomet Central,Chepkositonik,-0.7333,35.3667,1,National,0
+KEN6335,2018-08-06,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Kakamega,Likuyani,Likuyani,0.7101,35.1118,1,National,1
+KEN6389,2018-07-19,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nakuru,Molo,Molo,-0.248,35.737,1,National,0
+KEN6392,2018-07-18,2,Protests,Peaceful protest,Protesters (Kenya),Students (Kenya),,,Kenya,Nyandarua,Olkalou,Ol Kalou,-0.2709,36.3792,1,National,0
+KEN6387,2018-07-17,1,Riots,Mob violence,Rioters (Kenya),Students (Kenya),Civilians (Kenya),,Kenya,Nyeri,Nyeri Central,Nyeri,-0.4167,36.95,1,National,0
+KEN6390,2018-07-17,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),Christian Group (Kenya),Kenya,Kitui,Mwingi West,Nzawa,-1.0767,37.8921,1,National,0
+KEN6391,2018-07-17,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Kakamega,Mumias West,Mumias,0.3351,34.4864,1,National,1
+KEN6380,2018-07-10,1,Riots,Violent demonstration,Rioters (Kenya),Students (Kenya),,,Kenya,Kakamega,Ikolomani,Makhokho Secondary School,0.1743,34.7516,1,National,0
+KEN6376,2018-07-09,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Makueni,Kibwezi West,Emali,-2.0807,37.4726,1,National,0
+KEN6340,2018-06-14,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Kisumu,Kisumu Central,Kisumu,-0.1,34.75,1,National,1
+KEN6336,2018-06-09,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Homa Bay,Homa Bay Town,Homa Bay,-0.5273,34.4571,1,National,0
+KEN6327,2018-06-04,1,Riots,Violent demonstration,Rioters (Kenya),,,,Kenya,Kisii,Nyaribari Chache,Kisii,-0.6833,34.7667,1,National,0
+KEN6325,2018-05-31,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nyandarua,Olkalou,Ol Kalou,-0.2709,36.3792,1,National,0
+KEN6318,2018-05-24,1,Strategic developments,Looting/property destruction,Al Shabaab,,,,Kenya,Mandera,Mandera East,Mandera,3.9357,41.8542,1,National,0
+KEN6317,2018-05-21,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Nakuru,Naivasha,Naivasha,-0.7202,36.4285,1,National,2
+KEN6316,2018-05-21,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Mandera,Mandera East,Mandera,3.9357,41.8542,1,National,0
+KEN6305,2018-05-15,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Muranga,Kiharu,Muranga,-0.7166,37.15,1,National,1
+KEN6306,2018-05-15,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Bungoma,Kanduyi,Siritany,0.5859,34.5359,1,National,1
+KEN6303,2018-05-14,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Taita Taveta,Voi,Nyangala,-3.6263,38.7332,2,National,1
+KEN6289,2018-05-01,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Homa Bay,Ndhiwa,Ndhiwa,-0.7333,34.3667,1,National,1
+KEN6288,2018-04-30,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Kisii,Nyaribari Chache,Kisii,-0.6833,34.7667,1,National,0
+KEN6284,2018-04-27,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Meru,Tigania West,Tigania,0.1667,37.75,2,National,0
+KEN6282,2018-04-25,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Baringo,Tiaty,Loruk,0.7109,36.0273,1,National,0
+KEN6281,2018-04-24,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Busia,Matayos,Busia,0.46,34.112,1,National,2
+KEN6222,2018-04-16,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Meru,Imenti North,Meru,0.05,37.65,2,National,0
+KEN6219,2018-04-11,1,Violence against civilians,Attack,Unidentified Communal Militia (Kenya),,Civilians (Kenya),Christian Group (Kenya),Kenya,Kakamega,Matungu,Matungu,0.3833,34.4833,1,National,0
+KEN6217,2018-04-11,1,Violence against civilians,Attack,Laisamis Clan Militia (Kenya),,Civilians (Kenya),,Kenya,Marsabit,Laisamis,Laisamis,1.6,37.8,2,National,2
+KEN6214,2018-04-11,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Tharaka-Nithi,Tharaka South,Kathwana,-0.1282,37.9358,1,National,0
+KEN6210,2018-04-10,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Kisumu,Kisumu East,Nyalenda,-0.15,34.75,1,National,1
+KEN6208,2018-04-08,1,Violence against civilians,Attack,Laisamis Clan Militia (Kenya),,Civilians (Kenya),,Kenya,Marsabit,Laisamis,Laisamis,1.6,37.8,2,National,3
+KEN6193,2018-04-03,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),,Kenya,Kwale,Msambweni,Ukunda,-4.2875,39.5661,1,National,2
+KEN6194,2018-04-03,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Kilifi,Kilifi North,Kilifi,-3.633,39.85,1,National,0
+KEN6189,2018-03-28,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Kisumu,Kisumu Central,Kisumu,-0.1,34.75,1,National,0
+KEN6118,2018-03-12,1,Riots,Violent demonstration,Rioters (Kenya),Students (Kenya),,,Kenya,Turkana,Turkana Central,Lodwar,3.1191,35.5973,1,National,0
+KEN6117,2018-03-08,1,Protests,Peaceful protest,Protesters (Kenya),Health Workers (Kenya),,,Kenya,Lamu,Lamu West,Lamu,-2.2717,40.902,1,National,0
+KEN6099,2018-02-24,1,Riots,Mob violence,Rioters (Kenya),,Civilians (International),,Kenya,Elgeyo Marakwet,Marakwet West,Kapsowar,0.9805,35.5575,2,National,0
+KEN6087,2018-02-23,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Laikipia,Laikipia West,Nyahururu,0.0333,36.3667,1,National,0
+KEN6085,2018-02-20,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Meru,Imenti North,Meru,0.05,37.65,1,National,1
+KEN6080,2018-02-18,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Kilifi,Kaloleni,Tsunguni,-3.815,39.6617,1,National,1
+KEN5979,2018-02-08,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Kisumu,Nyando,Awasi,-0.16,35.0731,2,National,0
+KEN5974,2018-02-06,1,Riots,Violent demonstration,Rioters (Kenya),,,,Kenya,Kisumu,Nyando,Awasi,-0.16,35.0731,1,National,0
+KEN5964,2018-01-26,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Taita Taveta,Taveta,Taveta,-3.3988,37.6834,2,National,0
+KEN6107,2018-02-28,1,Riots,Violent demonstration,Rioters (Kenya),,,,Kenya,Homa Bay,Homa Bay Town,Homa Bay,-0.5273,34.4571,1,National,0
+KEN6364,2018-07-01,1,Riots,Violent demonstration,Rioters (Kenya),Students (Kenya); Women (Kenya),,,Kenya,Kisumu,Kisumu Central,Kisumu,-0.1,34.75,1,National,0
+KEN6326,2018-06-03,1,Protests,Peaceful protest,Protesters (Kenya),Students (Kenya); Women (Kenya),,,Kenya,Muranga,Kiharu,Muranga,-0.7166,37.15,1,National,0
+KEN6187,2018-03-26,1,Violence against civilians,Attack,Ndhiwa Communal Militia (Kenya),,Civilians (Kenya),Women (Kenya),Kenya,Homa Bay,Ndhiwa,Ndhiwa,-0.7333,34.3667,2,National,0
+KEN6761,2018-12-20,1,Violence against civilians,Sexual violence,Unidentified Armed Group (Kenya),,Civilians (Kenya),Men (Kenya),Kenya,Embu,Mbeere North,Siakago,-0.5833,37.6333,1,National,0
+KEN5928,2018-01-04,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Taita Taveta,Voi,Voi,-3.3961,38.5561,2,National,1
+KEN5933,2018-01-07,1,Riots,Mob violence,Rioters (Kenya),,Rioters (Kenya),,Kenya,Nakuru,Gilgil,Gilgil,-0.4897,36.312,1,National,0
+KEN5938,2018-01-13,1,Riots,Violent demonstration,Rioters (Kenya),,Civilians (Kenya),,Kenya,Marsabit,Saku,Marsabit,2.333,37.983,1,National,3
+KEN5941,2018-01-16,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Siaya,Alego Usonga,Siaya,0.06,34.2861,3,National,3
+KEN5950,2018-01-29,1,Protests,Peaceful protest,Protesters (Kenya),Health Workers (Kenya),,,Kenya,Lamu,Lamu West,Lamu,-2.2717,40.902,1,National,0
+KEN5952,2018-01-30,1,Protests,Peaceful protest,Protesters (Kenya),NASA: National Super Alliance,,,Kenya,Busia,Matayos,Busia,0.46,34.112,1,National,0
+KEN5953,2018-01-30,1,Protests,Peaceful protest,Protesters (Kenya),NASA: National Super Alliance,,,Kenya,Homa Bay,Homa Bay Town,Homa Bay,-0.5273,34.4571,1,National,0
+KEN5955,2018-01-30,1,Protests,Peaceful protest,Protesters (Kenya),NASA: National Super Alliance,,,Kenya,Kisii,Nyaribari Chache,Kisii,-0.6833,34.7667,1,National,0
+KEN5956,2018-01-30,1,Protests,Peaceful protest,Protesters (Kenya),NASA: National Super Alliance,,,Kenya,Kisumu,Kisumu Central,Kisumu,-0.1,34.75,1,National,0
+KEN5959,2018-01-30,1,Protests,Peaceful protest,Protesters (Kenya),NASA: National Super Alliance,,,Kenya,Siaya,Alego Usonga,Siaya,0.06,34.2861,1,National,0
+KEN6062,2018-02-09,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Lamu,Lamu West,Witu,-2.3889,40.4382,1,National,0
+KEN6063,2018-02-11,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Lamu,Lamu West,Witu,-2.3889,40.4382,1,National,0
+KEN6082,2018-02-19,1,Riots,Violent demonstration,Rioters (Kenya),,,,Kenya,Vihiga,Emuhaya,Luanda,0.0319,34.5805,1,National,0
+KEN6084,2018-02-20,2,Violence against civilians,Attack,Unidentified Ethnic Militia (Kenya),,Civilians (Kenya),Unidentified Ethnic Group (Kenya),Kenya,Wajir,Wajir North,Malkagufu,2.6465,39.5705,1,National,2
+KEN6213,2018-04-11,1,Protests,Peaceful protest,Protesters (Kenya),Students (Kenya),,,Kenya,Nyeri,Nyeri Central,Nyeri,-0.4167,36.95,1,National,0
+KEN6223,2018-04-17,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Kirinyaga,Kirinyaga South,Kutus,-0.5753,37.3269,1,National,0
+KEN6228,2018-04-21,1,Battles,Armed clash,Tugen Ethnic Militia (Kenya),Pastoralists (Kenya),Unidentified Communal Militia (Kenya),,Kenya,Baringo,Baringo North,Ngaratuko,0.7299,35.9763,1,National,1
+KEN6283,2018-04-27,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nandi,Nandi East,Nandi Hills,0.1066,35.1838,2,National,0
+KEN6287,2018-04-30,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Kisumu,Kisumu Central,Kisumu,-0.1,34.75,1,National,0
+KEN6294,2018-05-04,1,Violence against civilians,Attack,Pokot Ethnic Militia (Kenya),,Civilians (Kenya),Turkana Ethnic Group (Kenya),Kenya,Baringo,Tiaty,Tiati,1.2972,35.9336,2,National,2
+KEN6295,2018-05-04,1,Violence against civilians,Attack,Turkana Ethnic Militia (Kenya),,Civilians (Kenya),Pokot Ethnic Group (Kenya),Kenya,Baringo,Marigat,Marigat,0.4667,35.9833,1,National,3
+KEN6302,2018-05-14,1,Protests,Peaceful protest,Protesters (Kenya),Lawyers (Kenya),,,Kenya,Uasin Gishu,Moiben,Eldoret,0.5167,35.2833,1,National,0
+KEN6314,2018-05-21,1,Battles,Armed clash,Unidentified Communal Militia (Kenya),,Unidentified Communal Militia (Kenya),,Kenya,Isiolo,Isiolo,Ngeramara,0.5965,37.623,1,National,1
+KEN6315,2018-05-21,1,Battles,Armed clash,Unidentified Communal Militia (Kenya),,Unidentified Communal Militia (Kenya),,Kenya,Isiolo,Isiolo,Isiolo,0.3546,37.5822,2,National,1
+KEN6320,2018-05-26,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Kirinyaga,Kirinyaga South,Kutus,-0.5753,37.3269,2,National,0
+KEN6348,2018-06-23,1,Battles,Armed clash,Wajir Communal Militia (Kenya),Pastoralists (Kenya),Wajir Communal Militia (Kenya),Pastoralists (Kenya),Kenya,Wajir,Wajir East,Wajir,1.75,40.06,1,National,1
+KEN6353,2018-06-26,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nyandarua,Olkalou,Ol Kalou,-0.2709,36.3792,1,National,0
+KEN6354,2018-06-26,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Muranga,Kigumo,Muthithini,-0.8167,37.0333,1,National,0
+KEN6355,2018-06-27,1,Protests,Peaceful protest,Protesters (Kenya),Turkana Ethnic Group (Kenya),,,Kenya,Turkana,Turkana South,Kalemngorok,2.1339,35.4952,1,National,0
+KEN6361,2018-06-30,1,Riots,Mob violence,Rioters (Kenya),,Rioters (Kenya),,Kenya,Kisumu,Kisumu Central,Kondele,-0.0789,34.7759,1,National,0
+KEN6362,2018-06-29,1,Riots,Violent demonstration,Rioters (Kenya),,,,Kenya,Turkana,Turkana East,Ngamia,2.2074,35.7606,1,National,0
+KEN6366,2018-07-02,1,Riots,Mob violence,Rioters (Kenya),Students (Kenya),Civilians (Kenya),Teachers (Kenya),Kenya,Marsabit,Saku,Marsabit,2.333,37.983,1,National,0
+KEN6367,2018-07-02,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Makueni,Kibwezi West,Kivuthini,-2.4061,37.9722,1,National,1
+KEN6369,2018-07-03,1,Riots,Violent demonstration,Rioters (Kenya),Students (Kenya); Women (Kenya),,,Kenya,Siaya,Alego Usonga,Siaya,0.06,34.2861,1,National,0
+KEN6395,2018-07-23,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Narok,Narok North,Narok,-1.0783,35.8601,1,National,0
+KEN6398,2018-07-15,3,Strategic developments,Change to group/activity,Al Shabaab,,,,Kenya,Meru,Imenti North,Meru,0.05,37.65,3,National,0
+KEN6403,2018-08-07,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Kajiado,Kajiado Central,Namanga,-2.5431,36.791,1,National,0
+KEN6406,2018-08-06,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Kajiado,Kajiado Central,Namanga,-2.5431,36.791,1,National,0
+KEN6467,2018-09-13,2,Battles,Armed clash,Kipsigi Ethnic Militia (Kenya),,Ogiek Ethnic Militia (Kenya),,Kenya,Nakuru,Molo,Ndoswa,-0.3333,35.8667,2,National,0
+KEN6474,2018-09-13,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Mandera,Mandera South,El Wak,2.8094,40.9358,1,National,2
+KEN6614,2018-09-27,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),,Kenya,Turkana,Turkana East,Lokori,1.9516,36.0358,2,National,2
+KEN6627,2018-10-08,2,Protests,Peaceful protest,Protesters (Kenya),Maasai Ethnic Group (Kenya),,,Kenya,Narok,Narok South,Maji Moto,-1.3379,35.7094,1,National,0
+KEN6328,2018-06-04,1,Protests,Peaceful protest,Protesters (Kenya),Students (Kenya),,,Kenya,Isiolo,Isiolo,Isiolo,0.3546,37.5822,1,National,0
+KEN6301,2018-05-14,1,Protests,Peaceful protest,Protesters (Kenya),Students (Kenya),,,Kenya,Nyamira,Borabu,Nyando,-0.7166,35.0333,1,National,0
+KEN6377,2018-07-09,1,Riots,Violent demonstration,Rioters (Kenya),Students (Kenya); Women (Kenya),,,Kenya,Kakamega,Mumias West,Mumias,0.3351,34.4864,1,New media-National,0
+KEN6630,2018-10-09,2,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Trans Nzoia,Cherangany,Tunen,0.9581,35.1618,2,New media,0
+KEN6432,2018-08-27,2,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Samburu,Samburu East,Kiambere,0.7833,37.8333,2,New media,0
+KEN6628,2018-10-08,2,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Narok,Narok West,Maasai Mara Game Reserve,-1.49,35.1439,2,New media,0
+KEN6770,2018-12-29,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Kenya),,Civilians (Kenya),,Kenya,Kwale,Kinango,Silaloni,-3.6169,39.2869,2,New media,2
+KEN5945,2018-01-16,1,Strategic developments,Non-violent transfer of territory,Al Shabaab,,,,Kenya,Lamu,Lamu East,Kiunga,-1.741,41.492,2,International,0
+KEN5932,2018-01-07,1,Explosions/Remote violence,Shelling/artillery/missile attack,Al Shabaab,,,,Kenya,Wajir,Wajir East,Wajir,1.75,40.06,2,International,0
+KEN5943,2018-01-20,1,Strategic developments,Looting/property destruction,Al Shabaab,,,,Kenya,Mandera,Mandera South,El Wak,2.8094,40.9358,1,International,0
+KEN5944,2018-01-15,1,Violence against civilians,Attack,Al Shabaab,,Civilians (Kenya),,Kenya,Lamu,Lamu West,Lamu,-2.2717,40.902,2,International,1
+KEN6066,2018-02-13,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Kisii,Nyaribari Chache,Kisii,-0.6833,34.7667,1,National,0
+KEN6624,2018-09-15,2,Battles,Armed clash,Marsabit Communal Militia (Kenya),,Marsabit Communal Militia (Kenya),,Kenya,Marsabit,Saku,Marsabit,2.333,37.983,2,International,0
+KEN6424,2018-08-24,1,Strategic developments,Looting/property destruction,Al Shabaab,,,,Kenya,Lamu,Lamu West,Lamu,-2.2717,40.902,1,International,0
+KEN6077,2018-02-16,1,Violence against civilians,Attack,Al Shabaab,,Civilians (Kenya),Teachers (Kenya),Kenya,Wajir,Wajir East,Qarsa,2.078,40.7483,1,National-International,3
+KEN6436,2018-09-03,2,Riots,Mob violence,Rioters (Kenya),,Police Forces of Uganda (1986-),,Kenya,Busia,Budalangi,Sumba Island,0.1036,33.9139,1,National,0
+KEN6292,2018-05-03,1,Violence against civilians,Attack,Al Shabaab,,Civilians (Kenya),,Kenya,Mandera,Mandera East,Mandera,3.9357,41.8542,1,International,4
+KEN6911,2018-10-23,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),Aid Workers (Kenya),Kenya,Kisumu,Kisumu Central,Kisumu,-0.1,34.75,1,Local partner-Other,0
+KEN6110,2018-03-01,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Uasin Gishu,Moiben,Eldoret,0.5167,35.2833,1,International,0
+KEN5963,2018-02-02,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),,Kenya,West Pokot,Pokot South,Chepareria,1.3077,35.2039,2,International,0
+KEN6339,2018-06-12,2,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Kisumu,Kisumu Central,Kisumu,-0.1,34.75,3,National,0
+KEN6285,2018-04-28,2,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Lamu,Lamu West,Witu,-2.3889,40.4382,1,National,0
+KEN6313,2018-05-21,1,Riots,Mob violence,Rioters (Kenya),Students (Kenya),Rioters (Kenya),Students (Kenya),Kenya,Isiolo,Isiolo,Isiolo,0.3546,37.5822,1,National,0
+KEN6116,2018-03-05,1,Protests,Peaceful protest,Protesters (Kenya),Students (Kenya),,,Kenya,Kiambu,Thika Town,Thika,-1.05,37.0833,1,National,0
+KEN6309,2018-05-19,1,Riots,Mob violence,Rioters (Kenya),Students (Kenya),Rioters (Kenya),Students (Kenya),Kenya,Isiolo,Isiolo,Isiolo,0.3546,37.5822,1,National,0
+KEN6311,2018-05-20,1,Riots,Mob violence,Rioters (Kenya),Students (Kenya),Rioters (Kenya),Students (Kenya),Kenya,Isiolo,Isiolo,Isiolo,0.3546,37.5822,1,National,0
+KEN5942,2018-01-17,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Machakos,Machakos,Machakos,-1.5167,37.2667,1,Regional,0
+KEN6333,2018-06-07,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Kiambu,Ruiru,Tatu City,-1.1574,36.9018,1,National,0
+KEN6185,2018-03-25,1,Riots,Violent demonstration,Rioters (Kenya),Students (Kenya),,,Kenya,Migori,Suna West,Migori,-1.0667,34.4667,2,National,0
+KEN5975,2018-02-06,1,Riots,Violent demonstration,Rioters (Kenya),,,,Kenya,Migori,Suna West,Migori,-1.0667,34.4667,1,National,0
+KEN6692,2018-11-11,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Mombasa,Kisauni,Kisauni,-4.0333,39.6833,1,National,0
+KEN6321,2018-05-25,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nakuru,Nakuru North,Nakuru,-0.2441,36.142,1,National,0
+KEN5930,2018-01-05,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nyandarua,Kinangop,Mai Mahiu,-0.5833,36.6167,1,National,0
+KEN6290,2018-05-02,1,Riots,Violent demonstration,Rioters (Kenya),Students (Kenya),,,Kenya,Garissa,Garissa,Garissa,-0.4536,39.6461,1,National,0
+KEN6074,2018-02-08,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Kakamega,Lurambi,Kakamega,0.2833,34.7384,1,National,1
+KEN5954,2018-01-30,1,Protests,Peaceful protest,Protesters (Kenya),NASA: National Super Alliance,,,Kenya,Kakamega,Lurambi,Kakamega,0.2833,34.7384,1,National,0
+KEN5957,2018-01-30,1,Protests,Peaceful protest,Protesters (Kenya),NASA: National Super Alliance,,,Kenya,Migori,Suna West,Migori,-1.0667,34.4667,1,National,0
+KEN6324,2018-05-31,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nakuru,Nakuru North,Nakuru,-0.2441,36.142,1,National,0
+KEN6312,2018-05-20,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Nyandarua,Kinangop,Kinangop,-0.7308,36.6591,1,National,3
+KEN6344,2018-06-21,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Homa Bay,Suba,Kitawa,-0.6823,34.052,1,National,0
+KEN6346,2018-06-21,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Homa Bay,Suba,Magunga,-0.6888,34.1505,2,National,0
+KEN6342,2018-06-21,1,Protests,Peaceful protest,Protesters (Kenya),Health Workers (Kenya),,,Kenya,Machakos,Machakos,Machakos,-1.5167,37.2667,1,National,0
+KEN6360,2018-06-30,1,Riots,Violent demonstration,Rioters (Kenya),,,,Kenya,Uasin Gishu,Ainabkoi,Burnt Forest,0.2167,35.4333,1,National,0
+KEN6386,2018-07-17,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Nakuru,Nakuru North,Nakuru,-0.2441,36.142,1,National,2
+KEN6345,2018-06-21,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Homa Bay,Suba,Nyandiwa,-0.7226,34.0591,2,National,0
+KEN6307,2018-05-17,2,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nyandarua,Kinangop,Kinangop,-0.7308,36.6591,2,National,0
+KEN6479,2018-09-21,1,Violence against civilians,Attack,Marakwet Ethnic Militia (Kenya),,Civilians (Kenya),,Kenya,Baringo,Tiaty,Tiati,1.2972,35.9336,1,National,3
+KEN6471,2018-08-07,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),Pastoralists (Kenya),Civilians (Kenya),Farmers (Kenya),Kenya,Kilifi,Ganze,Ganze,-3.543,39.6927,2,National,0
+KEN5935,2018-01-12,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),,Kenya,Nyamira,Nyamira,Nyamira,-0.5666,34.9167,1,National,1
+KEN6397,2018-07-27,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),Women (Kenya),Kenya,Kirinyaga,Kirinyaga South,Kutus,-0.5753,37.3269,2,International,1
+KEN6186,2018-03-25,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),Women (Kenya),Kenya,Kirinyaga,Kirinyaga West,Kibingoti,-0.5667,37.1833,1,National,1
+KEN6417,2018-08-16,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),,Kenya,Mandera,Mandera South,El Wak,2.8094,40.9358,2,National,0
+KEN6410,2018-08-09,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Kisumu,Kisumu Central,Kisumu,-0.1,34.75,1,National,1
+KEN6405,2018-08-07,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Kisumu,Kisumu Central,Kisumu,-0.1,34.75,1,National,1
+KEN6404,2018-08-06,1,Protests,Peaceful protest,Protesters (Kenya),KNUN: Kenya National Union of Nurses; Health Workers (Kenya),,,Kenya,Bomet,Bomet East,Bomet,-0.7833,35.35,1,National,0
+KEN6400,2018-08-05,1,Protests,Peaceful protest,Protesters (Kenya),Protestant Christian Group (Kenya),,,Kenya,Nyandarua,Kinangop,Nyandarua,-0.55,36.6167,2,National,0
+KEN6828,2018-10-12,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Kericho,Belgut,Kiptule,-0.4007,35.1722,1,National,2
+KEN6827,2018-10-11,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Kilifi,Kilifi South,Jumba Ruins,-3.9441,39.7715,1,National,0
+KEN6826,2018-10-05,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Kirinyaga,Kirinyaga South,Kutus,-0.5753,37.3269,1,National,0
+KEN6824,2018-09-22,1,Protests,Peaceful protest,Protesters (Kenya),Labor Group (Kenya),,,Kenya,Samburu,Samburu Central,Maralal,1.0968,36.698,1,National,0
+KEN6822,2018-09-20,1,Violence against civilians,Attack,Kerio Communal Militia (Kenya),Pastoralists (Kenya),Civilians (Kenya),Pastoralists (Kenya),Kenya,Turkana,Turkana Central,Kerio,2.9833,36.1167,2,National,3
+KEN6819,2018-09-18,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Kiambu,Githunguri,Mitahato,-1.0928,36.8412,1,National,0
+KEN6820,2018-09-18,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Meru,Imenti North,Meru,0.05,37.65,1,National,0
+KEN6817,2018-09-16,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Kiambu,Limuru,Limuru,-1.1136,36.6421,1,National,1
+KEN6816,2018-09-15,1,Violence against civilians,Attack,Irobo Communal Militia (Kenya),,Civilians (Kenya),,Kenya,Kakamega,Shinyalu,Irobo,0.1907,34.7771,1,National,1
+KEN6814,2018-09-13,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Mombasa,Kisauni,Kisauni,-4.0333,39.6833,2,National,1
+KEN6810,2018-09-12,1,Protests,Peaceful protest,Protesters (Kenya),Street Traders (Kenya),,,Kenya,Kwale,Msambweni,Diani,-4.279,39.594,1,National,0
+KEN6805,2018-09-10,1,Protests,Peaceful protest,Protesters (Kenya),Labor Group (Kenya),,,Kenya,Muranga,Kiharu,Muranga,-0.7166,37.15,1,National,0
+KEN6802,2018-09-05,1,Battles,Armed clash,Gabra Ethnic Militia (Kenya),Pastoralists (Kenya),Borana Ethnic Militia (Kenya),Pastoralists (Kenya),Kenya,Marsabit,Saku,Marsabit,2.333,37.983,2,National,2
+KEN6796,2018-08-11,1,Violence against civilians,Attack,Pokot Ethnic Militia (Kenya),,Civilians (Kenya),Women (Kenya),Kenya,Baringo,Tiaty,Tiati,1.2972,35.9336,2,National,1
+KEN6795,2018-08-06,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Kajiado,Kajiado Central,Bissil,-2.0987,36.7942,1,National,0
+KEN6704,2018-11-19,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),Women (Kenya),Kenya,West Pokot,West Pokot,Kapenguria,1.2333,35.1167,2,National,1
+KEN6702,2018-11-17,1,Violence against civilians,Attack,Chemase Communal Militia (Kenya),,Civilians (Kenya),Farmers (Kenya); Women (Kenya),Kenya,Nandi,Tinderet,Chemase,-0.0371,35.048,2,New media,1
+KEN6662,2018-10-30,1,Violence against civilians,Attack,Unidentified Communal Militia (Kenya),,Civilians (Kenya),Women (Kenya),Kenya,Laikipia,Laikipia North,Ol Moran,0.4599,36.7556,2,National,1
+KEN6636,2018-10-12,1,Battles,Armed clash,Maasai Ethnic Militia (Kenya),,Private Security Forces (South Africa),,Kenya,Narok,Narok South,Maji Moto,-1.3379,35.7094,1,National,0
+KEN6635,2018-10-11,1,Violence against civilians,Attack,Unidentified Ethnic Militia (Kenya),,Civilians (Kenya),,Kenya,West Pokot,Pokot Central,Sigor,1.4845,35.4717,2,National,2
+KEN6631,2018-10-09,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Kenya),,Civilians (Kenya),Women (Kenya),Kenya,Tharaka-Nithi,Tharaka South,Kathwana,-0.1282,37.9358,2,National,0
+KEN6629,2018-10-08,1,Strategic developments,Agreement,Pokot Ethnic Militia (Kenya),,Marakwet Ethnic Militia (Kenya),,Kenya,West Pokot,Pokot Central,Sigor,1.4845,35.4717,3,National,0
+KEN6625,2018-10-07,1,Violence against civilians,Attack,Nakuru Communal Militia (Kenya),,Civilians (Kenya),,Kenya,Nakuru,Njoro,Mauche,-0.5083,35.9752,2,New media-National,1
+KEN6622,2018-10-06,1,Protests,Peaceful protest,Protesters (Kenya),Students (Kenya),,,Kenya,Kericho,Belgut,Kabianga,-0.4457,35.1382,1,New media,0
+KEN6673,2018-09-23,1,Battles,Armed clash,Kipsigi Ethnic Militia (Kenya),,Maasai Ethnic Militia (Kenya),,Kenya,Narok,Narok North,Olpusimoru,-0.6581,35.7328,2,National,0
+KEN6756,2018-09-23,1,Protests,Peaceful protest,Protesters (Kenya),Maasai Ethnic Group (Kenya),,,Kenya,Nakuru,Naivasha,Mai Mahiu,-0.9838,36.5899,1,National,0
+KEN6755,2018-09-21,1,Violence against civilians,Attack,Somali Ethnic Militia (Kenya),Pastoralists (Kenya),Civilians (Kenya),,Kenya,Kitui,Kitui East,Kiini,-1.4333,38.0667,2,National,1
+KEN6615,2018-09-16,1,Strategic developments,Change to group/activity,Police Forces of Uganda (1986-),,,,Kenya,Migori,Nyatike,Migingo Island,-0.8827,33.9385,1,International,0
+KEN6470,2018-09-14,1,Violence against civilians,Attack,Al Shabaab,,Civilians (Kenya),,Kenya,Garissa,Ijara,Ijara,-1.5952,40.5144,2,National,2
+KEN6465,2018-09-13,1,Battles,Armed clash,Kipsigi Ethnic Militia (Kenya),,Ogiek Ethnic Militia (Kenya),,Kenya,Nakuru,Njoro,Mau Narok,-0.6,36.0,2,National,1
+KEN6463,2018-09-12,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),Somali Ethnic Group (Kenya); Muslim Group (Kenya),Kenya,Kwale,Msambweni,Ukunda,-4.2875,39.5661,2,National,2
+KEN6459,2018-09-10,1,Violence against civilians,Attack,Unidentified Ethnic Militia (Kenya),,Civilians (Kenya),Unidentified Ethnic Group (Kenya),Kenya,Nakuru,Njoro,Mauche,-0.5083,35.9752,2,National,0
+KEN6458,2018-09-10,1,Violence against civilians,Attack,Unidentified Ethnic Militia (Kenya),,Civilians (Kenya),Unidentified Ethnic Group (Kenya),Kenya,Narok,Narok North,Narok,-1.0783,35.8601,2,International,1
+KEN6448,2018-09-04,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nyeri,Nyeri Central,Nyeri,-0.4167,36.95,3,International,0
+KEN6447,2018-09-04,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Bomet,Bomet East,Bomet,-0.7833,35.35,3,International,0
+KEN6451,2018-09-04,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),Pastoralists (Kenya),Kenya,Nakuru,Njoro,Mau Narok,-0.6,36.0,2,New media-National,1
+KEN6445,2018-09-03,1,Riots,Mob violence,Unidentified Armed Group (Kenya),,Rioters (Kenya),Vigilante Group (Kenya),Kenya,Muranga,Kandara,Kabati,-0.95,37.1,2,National,1
+KEN6443,2018-09-03,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Makueni,Makueni,Wote,-1.7808,37.6288,2,National,0
+KEN6441,2018-09-03,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Kiambu,Limuru,Ngecha,-1.17,36.6689,1,New media,0
+KEN6444,2018-09-03,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),Journalists (Kenya); Students (Kenya),Kenya,Migori,Suna West,Migori,-1.0667,34.4667,1,National-International,1
+KEN6438,2018-09-03,1,Protests,Peaceful protest,Protesters (Kenya),Taxi Drivers (Kenya),,,Kenya,Nakuru,Nakuru North,Nakuru,-0.2441,36.142,1,National,0
+KEN6434,2018-08-28,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Makueni,Kibwezi West,Emali,-2.0807,37.4726,2,National,0
+KEN6429,2018-08-27,1,Protests,Peaceful protest,Protesters (Kenya),Health Workers (Kenya),,,Kenya,Kilifi,Malindi,Malindi,-3.22,40.12,1,National,0
+KEN6420,2018-08-20,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Bomet,Chepalungu,Chebunyo,-0.9667,35.1833,1,National,0
+KEN6413,2018-08-14,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),,Kenya,Kakamega,Butere,Butere,0.2064,34.4935,2,National,1
+KEN6216,2018-04-11,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),Teachers (Kenya),Kenya,Busia,Bunyala,Bulemia,0.1167,34.0,1,National,1
+KEN6100,2018-02-24,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Homa Bay,Karachuonyo,Kendu Bay,-0.3589,34.6492,2,National,2
+KEN6378,2018-07-10,1,Riots,Mob violence,Rioters (Kenya),Students (Kenya),,,Kenya,Kisumu,Kisumu Central,Kisumu,-0.1,34.75,1,International,0
+KEN5931,2018-01-06,1,Riots,Mob violence,Rioters (Kenya),Labor Group (Kenya),,,Kenya,Kilifi,Malindi,Malindi,-3.22,40.12,1,International,0
+KEN6322,2018-05-26,1,Riots,Mob violence,Rioters (Kenya),Labor Group (Kenya),,,Kenya,Kilifi,Kilifi North,Watamu,-3.3543,40.0209,1,National,0
+KEN6363,2018-06-29,1,Riots,Mob violence,Rioters (Kenya),,,,Kenya,Kakamega,Matungu,Matungu,0.3833,34.4833,1,National,0
+KEN6357,2018-06-28,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),,,Kenya,Nakuru,Nakuru North,Nakuru,-0.2441,36.142,1,National,0
+KEN6296,2018-05-05,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),,,Kenya,Meru,Tigania East,Mikinduri,0.1231,37.8358,1,National,0
+KEN6192,2018-04-01,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),,,Kenya,Kisii,Nyaribari Chache,Kisii,-0.6833,34.7667,1,National,0
+KEN6122,2018-03-17,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),,,Kenya,Kakamega,Lurambi,Kakamega,0.2833,34.7384,1,National,0
+KEN6801,2018-08-30,1,Riots,Mob violence,Rioters (Kenya),Marakwet Ethnic Militia (Kenya); Vigilante Group (Kenya),,,Kenya,Elgeyo Marakwet,Marakwet East,Kapyego,1.1465,35.4789,1,National,0
+KEN9562,2018-03-09,1,Protests,Peaceful protest,Protesters (Kenya),Students (Kenya),,,Kenya,Turkana,Turkana Central,Lodwar,3.1191,35.5973,1,National,0
+KEN6128,2018-03-24,1,Violence against civilians,Attack,Unidentified Communal Militia (Kenya),,Civilians (Kenya),Pastoralists (Kenya),Kenya,Samburu,Samburu North,Nachola,1.8348,36.603,2,National,10
+KEN9678,2018-07-18,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Kilifi,Kilifi North,Kararacha,-3.4519,39.8921,1,National,1
+KEN9706,2018-06-25,1,Protests,Peaceful protest,Protesters (Kenya),Farmers (Kenya),,,Kenya,Migori,Awendo,Awendo,-0.9,34.5333,1,National,0
+KEN9708,2018-11-21,1,Protests,Peaceful protest,Protesters (Kenya),Farmers (Kenya),,,Kenya,Trans Nzoia,Saboti,Kitale,1.0167,35.0,1,New media,0
+KEN9713,2018-03-02,1,Protests,Peaceful protest,Protesters (Kenya),Farmers (Kenya),,,Kenya,Bomet,Konoin,Kaptebengwet,-0.5789,35.3027,1,New media,0
+KEN9721,2018-03-01,1,Protests,Peaceful protest,Protesters (Kenya),Farmers (Kenya),,,Kenya,Kericho,Ainamoi,Kericho,-0.3677,35.2831,1,New media,0
+KEN9731,2018-04-17,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Kisii,South Mugirango,Nyatwoni,-0.9202,34.6731,1,New media,1
+KEN9782,2018-02-17,1,Protests,Peaceful protest,Protesters (Kenya),Muslim Group (Kenya); Haki Africa,,,Kenya,Kilifi,Malindi,Malindi,-3.22,40.12,1,New media,0
+KEN9804,2018-08-28,1,Protests,Peaceful protest,Protesters (Kenya),Taxi Drivers (Kenya),,,Kenya,Kilifi,Malindi,Malindi,-3.22,40.12,1,National,0
+KEN9809,2018-11-22,2,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Bungoma,Kanduyi,Luyekhe,0.5088,34.5922,1,New media,0
+KEN9810,2018-04-08,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Kilifi,Malindi,Malindi,-3.22,40.12,1,National,0
+KEN10046,2018-09-06,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Kenya),,Civilians (Kenya),Students (Kenya); Women (Kenya),Kenya,Meru,Imenti North,Meru,0.05,37.65,1,National,0
+KEN10047,2018-09-16,2,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),Students (Kenya); Women (Kenya),Kenya,Meru,Imenti North,Meru,0.05,37.65,1,National,0
+KEN10056,2018-01-07,1,Violence against civilians,Attack,Private Security Forces (Kenya),,Civilians (Kenya),,Kenya,Mombasa,Nyali,Nyali,-4.0525,39.6954,1,National,1
+KEN10061,2018-11-29,1,Protests,Peaceful protest,Protesters (Kenya),Muslim Group (Kenya),,,Kenya,Kilifi,Rabai,Mbungoni,-3.85,39.6333,1,National,0
+KEN10066,2018-07-30,1,Protests,Peaceful protest,Protesters (Kenya),Students (Kenya),,,Kenya,Kiambu,Juja,Juja,-1.1833,37.1167,1,National,0
+KEN10075,2018-01-19,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Mombasa,Nyali,Nyali,-4.0525,39.6954,1,National,0
+KEN10077,2018-07-14,2,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Laikipia,Laikipia West,Kinamba,0.419,36.3274,1,National,0
+KEN10084,2018-10-08,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nyeri,Nyeri Central,Nyeri,-0.4167,36.95,1,National,0
+KEN10121,2018-06-04,1,Violence against civilians,Attack,Pokot Ethnic Militia (Kenya),Pastoralists (Kenya),Civilians (Kenya),,Kenya,Turkana,Turkana East,Lokori,1.9516,36.0358,1,National,3
+KEN10123,2018-01-14,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),,Kenya,Baringo,Tiaty,Kapedo,1.1692,36.0955,1,National,1
+KEN10125,2018-07-25,1,Riots,Mob violence,Rioters (Kenya),,,,Kenya,Tana River,Bura,Madogo,-0.4711,39.5952,1,National,0
+KEN10181,2018-01-14,1,Battles,Armed clash,Pokot Ethnic Militia (Kenya),Pastoralists (Kenya),Samburu Ethnic Militia (Kenya),Pastoralists (Kenya),Kenya,Samburu,Samburu North,Baragoi,1.7833,36.7833,1,National,0
+KEN10228,2018-06-24,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Nakuru,Nakuru North,Nakuru,-0.2441,36.142,1,National,0
+KEN10230,2018-10-09,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),,,Kenya,Kiambu,Thika Town,Thika,-1.05,37.0833,1,National,0
+KEN10267,2018-01-11,1,Protests,Peaceful protest,Protesters (Kenya),Students (Kenya),,,Kenya,West Pokot,West Pokot,Kapenguria,1.2333,35.1167,1,National,0
+KEN10274,2018-01-10,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Nyandarua,Kinangop,Kinangop,-0.7308,36.6591,2,National,1
+KEN10285,2018-09-27,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Turkana,Turkana South,Lokichar,2.3833,35.65,2,National,0
+KEN10333,2018-08-21,1,Battles,Armed clash,Maasai-Siria Sub-Clan Militia (Kenya),,Maasai-Iruasi Ngishu Sub-Clan Militia (Kenya),,Kenya,Narok,Transmara West,Trans Mara,-1.169,34.889,1,National,0
+KEN10337,2018-04-10,2,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),Students (Kenya),Kenya,Muranga,Kiharu,Gituto,-0.7307,37.0067,2,National,1
+KEN10339,2018-11-19,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya); Taxi Drivers (Kenya),Civilians (Kenya),,Kenya,Migori,Suna West,Migori,-1.0667,34.4667,1,National,3
+KEN10340,2018-05-06,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Uasin Gishu,Moiben,Chepkanga,0.5862,35.3487,1,National,1
+KEN10343,2018-11-23,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Machakos,Athi River,Athi River,-1.45,36.9833,1,National,4
+KEN10344,2018-04-07,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya); Taxi Drivers (Kenya),Civilians (Kenya),,Kenya,Migori,Uriri,Uriri,-0.9689,34.5083,1,National,1
+KEN10345,2018-09-21,2,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Nakuru,Kuresoi North,Kamara,-0.09,35.6678,1,National,1
+KEN10357,2018-06-30,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Kiambu,Kabete,Wangige,-1.2167,36.7167,1,National,0
+KEN10358,2018-11-19,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Migori,Uriri,Uriri,-0.9689,34.5083,1,National,0
+KEN10409,2018-01-15,2,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Bungoma,Kanduyi,Bungoma,0.5635,34.5606,1,National,1
+KEN10410,2018-03-12,2,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),Students (Kenya),Kenya,Kakamega,Mumias West,Musanda,0.2238,34.437,1,National,2
+KEN10429,2018-05-09,2,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya); Taxi Drivers (Kenya),Civilians (Kenya),,Kenya,Isiolo,Garbatulla,Kubi Turkana,0.5667,38.2,2,National,0
+KEN10432,2018-03-29,1,Protests,Peaceful protest,Protesters (Kenya),Women (Kenya),,,Kenya,Narok,Narok North,Narok,-1.0783,35.8601,2,National,0
+KEN10461,2018-02-24,1,Protests,Peaceful protest,Protesters (Kenya),MCC: Maendeleo Chap Chap,,,Kenya,Lamu,Lamu West,Mpeketoni,-2.3899,40.6987,1,National,0
+KEN10464,2018-01-11,1,Protests,Peaceful protest,Protesters (Kenya),Students (Kenya),,,Kenya,Machakos,Machakos,Machakos,-1.5167,37.2667,1,National,0
+KEN10465,2018-06-28,1,Protests,Peaceful protest,Protesters (Kenya),Students (Kenya),,,Kenya,Kisumu,Seme,Nyatigo,-0.1167,34.4833,1,National,0
+KEN10471,2018-06-16,2,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),Christian Group (Kenya),Kenya,Kirinyaga,Kirinyaga East,Thumaita,-0.4466,37.366,1,National,0
+KEN10472,2018-06-21,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),Women (Kenya),Kenya,Migori,Nyatike,Sori,-0.8409,34.1598,2,National,0
+KEN10473,2018-11-05,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Tharaka-Nithi,Chuka,Chuka,-0.3333,37.65,1,National,1
+KEN10482,2018-08-29,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Muranga,Kiharu,Muranga,-0.7166,37.15,2,National,0
+KEN10492,2018-10-02,1,Protests,Peaceful protest,Protesters (Kenya),Labor Group (Kenya),,,Kenya,Busia,Teso North,Malaba,0.6346,34.2756,1,National,0
+KEN10497,2018-11-17,2,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Nakuru,Naivasha,Naivasha,-0.7202,36.4285,2,National,1
+KEN10504,2018-01-25,1,Protests,Peaceful protest,Protesters (Kenya),Women (Kenya),,,Kenya,Kiambu,Gatundu South,Mutunguru,-0.9243,36.7913,1,National,0
+KEN10505,2018-07-12,2,Protests,Peaceful protest,Protesters (Kenya),Women (Kenya),,,Kenya,Kilifi,Ganze,Gede,-3.4521,39.3026,1,National,0
+KEN10617,2018-07-23,2,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Migori,Suna West,Migori,-1.0667,34.4667,2,National,0
+KEN10618,2018-07-23,2,Protests,Peaceful protest,Protesters (Kenya),Labor Group (Kenya),,,Kenya,Machakos,Masinga,Wendano,-0.9814,37.4929,1,National,0
+KEN10639,2018-12-10,1,Strategic developments,Agreement,Pokot Ethnic Militia (Kenya),Pastoralists (Kenya),Turkana Ethnic Militia (Kenya),,Kenya,Turkana,Turkana South,Kainuk,1.7745,35.506,1,National,0
+KEN10779,2018-06-12,1,Protests,Peaceful protest,Protesters (Kenya),Students (Kenya); Women (Kenya),,,Kenya,Narok,Narok North,Narok,-1.0783,35.8601,1,National,0
+KEN10782,2018-07-07,1,Riots,Mob violence,Rioters (Kenya),Students (Kenya),,,Kenya,Siaya,Bondo,Usengi,-0.0637,34.054,1,National,0
+KEN10788,2018-10-02,1,Protests,Peaceful protest,Protesters (Kenya),Labor Group (Kenya),,,Kenya,Nakuru,Naivasha,Naivasha,-0.7202,36.4285,1,National,0
+KEN10791,2018-11-22,1,Protests,Peaceful protest,Protesters (Kenya),Women (Kenya),,,Kenya,Samburu,Samburu East,Wamba,0.9802,37.3235,1,National,0
+KEN10792,2018-07-11,1,Riots,Mob violence,Rioters (Kenya),Students (Kenya),,,Kenya,Homa Bay,Homa Bay Town,Homa Bay,-0.5273,34.4571,1,National,0
+KEN10793,2018-07-12,1,Riots,Mob violence,Rioters (Kenya),Students (Kenya),,,Kenya,Homa Bay,Karachuonyo,Kendu Bay,-0.3589,34.6492,1,National,0
+KEN10794,2018-07-09,2,Riots,Mob violence,Rioters (Kenya),Students (Kenya),,,Kenya,Homa Bay,Karachuonyo,Kendu Bay,-0.3589,34.6492,2,National,0
+KEN10795,2018-07-10,1,Riots,Mob violence,Rioters (Kenya),Students (Kenya),,,Kenya,Kisii,Nyaribari Chache,Kisii,-0.6833,34.7667,1,National,0
+KEN10797,2018-12-05,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Samburu,Samburu East,Wamba,0.9802,37.3235,1,National,0
+KEN10816,2018-05-03,1,Violence against civilians,Attack,Pokot Ethnic Militia (Kenya),Pastoralists (Kenya),Civilians (Kenya),Students (Kenya),Kenya,Baringo,Tiaty,Kapedo,1.1692,36.0955,1,National,4
+KEN10817,2018-05-03,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Baringo,Marigat,Marigat,0.4667,35.9833,1,National,0
+KEN10818,2018-01-07,2,Violence against civilians,Attack,Unidentified Communal Militia (Kenya),,Civilians (Kenya),Pastoralists (Kenya),Kenya,West Pokot,Pokot Central,Cheptulel,1.3223,35.607,1,National,4
+KEN10819,2018-01-07,2,Violence against civilians,Attack,Pokot Ethnic Militia (Kenya),Pastoralists (Kenya),Civilians (Kenya),Marakwet Ethnic Group (Kenya),Kenya,Elgeyo Marakwet,Marakwet West,Elegeyo-Marakwet,0.99,35.55,2,National,2
+KEN6103,2018-02-26,1,Riots,Violent demonstration,Rioters (Kenya),,,,Kenya,Kiambu,Limuru,Limuru,-1.1136,36.6421,1,National,0
+KEN6304,2018-05-15,1,Battles,Armed clash,Unidentified Armed Group (Kenya),,Al Shabaab,,Kenya,Kwale,Matuga,Kwale,-4.1738,39.4521,1,National,2
+KEN6462,2018-09-12,1,Battles,Armed clash,Kipsigi Ethnic Militia (Kenya),,Ogiek Ethnic Militia (Kenya),,Kenya,Nakuru,Njoro,Njoro,-0.3316,35.9449,2,National,1
+KEN6807,2018-09-11,2,Battles,Armed clash,Kipsigi Ethnic Militia (Kenya),,Ogiek Ethnic Militia (Kenya),,Kenya,Nakuru,Njoro,Njoro,-0.3316,35.9449,2,National,1
+KEN6808,2018-09-11,2,Battles,Armed clash,Kipsigi Ethnic Militia (Kenya),,Ogiek Ethnic Militia (Kenya),,Kenya,Nakuru,Njoro,Nessuiet,-0.3898,35.8964,1,National,1
+KEN6809,2018-09-11,2,Battles,Armed clash,Kipsigi Ethnic Militia (Kenya),,Ogiek Ethnic Militia (Kenya),,Kenya,Nakuru,Molo,Mariashoni,-0.3678,35.8267,1,National,1
+KEN6811,2018-09-12,1,Battles,Armed clash,Kipsigi Ethnic Militia (Kenya),,Ogiek Ethnic Militia (Kenya),,Kenya,Nakuru,Njoro,Nessuiet,-0.3898,35.8964,1,National,1
+KEN6812,2018-09-12,1,Battles,Armed clash,Kipsigi Ethnic Militia (Kenya),,Ogiek Ethnic Militia (Kenya),,Kenya,Nakuru,Molo,Mariashoni,-0.3678,35.8267,1,National,1
+KEN6453,2018-09-07,2,Battles,Armed clash,Maasai Ethnic Militia (Kenya),,Kipsigi Ethnic Militia (Kenya),,Kenya,Narok,Narok South,Olmekenyu,-0.8299,35.6679,1,New media-National,1
+KEN10177,2018-02-15,1,Battles,Armed clash,Police Forces of Kenya (2013-2022),,Al Shabaab,,Kenya,Isiolo,Merti,Merti,1.0667,38.6667,1,National,1
+KEN10268,2018-06-19,1,Riots,Violent demonstration,Rioters (Kenya),Students (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Kiambu,Thika Town,Thika,-1.05,37.0833,1,National,0
+KEN10283,2018-01-11,1,Protests,Protest with intervention,Protesters (Kenya),Students (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Makueni,Kibwezi West,Kibwezi,-2.4112,37.9652,1,National,0
+KEN10284,2018-05-08,1,Riots,Mob violence,Rioters (Kenya),,Police Forces of Kenya (2013-2022),Civilians (Kenya); Government of Kenya (2013-2022),Kenya,West Pokot,West Pokot,Kapenguria,1.2333,35.1167,1,National,0
+KEN10326,2018-04-13,1,Riots,Mob violence,Rioters (Kenya),NARC-Kenya: National Rainbow Coalition-Kenya,Rioters (Kenya),Government of Kenya (2013-2022); ODM: Orange Democratic Movement,Kenya,Busia,Bunyala,Port Bunyala,0.0939,33.9756,2,National,0
+KEN10435,2018-04-05,2,Battles,Armed clash,Unidentified Armed Group (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Samburu,Samburu East,Wamba,0.9802,37.3235,2,National,4
+KEN10624,2018-02-01,1,Riots,Violent demonstration,Rioters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Tana River,Bura,Madogo,-0.4711,39.5952,1,National,0
+KEN10644,2018-01-06,1,Riots,Violent demonstration,Rioters (Kenya),Labor Group (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Kajiado,Kajiado West,Suswa,-1.1167,36.35,1,National,1
+KEN10647,2018-10-01,2,Violence against civilians,Attack,Military Forces of Kenya (2013-2022),,Civilians (Kenya),,Kenya,Mandera,Mandera South,El Wak,2.8094,40.9358,1,National,1
+KEN10756,2018-07-04,1,Protests,Protest with intervention,Protesters (Kenya),Students (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Siaya,Gem,Yala,0.0991,34.5376,1,National,0
+KEN10803,2018-05-05,1,Riots,Violent demonstration,Rioters (Kenya),Students (Kenya),Police Forces of Kenya (2013-2022),Government of Kenya (2013-2022),Kenya,West Pokot,West Pokot,Kapenguria,1.2333,35.1167,1,National,0
+KEN10822,2018-02-15,1,Strategic developments,Disrupted weapons use,Police Forces of Kenya (2013-2022),,Unidentified Armed Group (Kenya),,Kenya,Isiolo,Merti,Merti,1.0667,38.6667,1,National,0
+KEN5927,2018-01-02,1,Battles,Armed clash,Al Shabaab,,Police Forces of Kenya (2013-2022),,Kenya,Mandera,Mandera East,Mandera,3.9357,41.8542,1,International,6
+KEN5934,2018-01-09,1,Protests,Excessive force against protesters,Protesters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Nyamira,Nyamira,Nyamira,-0.5666,34.9167,2,National,1
+KEN5939,2018-01-14,1,Protests,Protest with intervention,Protesters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Marsabit,Saku,Marsabit,2.333,37.983,1,National,0
+KEN5949,2018-01-27,1,Battles,Armed clash,Al Shabaab,,Military Forces of Kenya (2013-2022),,Kenya,Garissa,Hulugho,Handaro,-1.458,40.6668,1,International,2
+KEN5970,2018-02-05,1,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),Prisoners (Kenya),Kenya,Nyeri,Nyeri Central,Nyeri,-0.4167,36.95,1,National,0
+KEN5973,2018-02-06,1,Riots,Violent demonstration,Rioters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Kisumu,Nyando,Ahero,-0.1833,34.9166,1,National,3
+KEN5976,2018-02-07,1,Riots,Violent demonstration,Rioters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Kericho,Ainamoi,Kericho,-0.3677,35.2831,1,National,0
+KEN5980,2018-02-09,1,Battles,Armed clash,Military Forces of Kenya (2013-2022),,Al Shabaab,,Kenya,Wajir,Wajir East,Wajir,1.75,40.06,2,National,3
+KEN6064,2018-02-12,1,Explosions/Remote violence,Shelling/artillery/missile attack,Al Shabaab,,Military Forces of Kenya (2013-2022),,Kenya,Mandera,Mandera South,El Wak,2.8094,40.9358,1,Regional,5
+KEN6065,2018-02-13,1,Explosions/Remote violence,Shelling/artillery/missile attack,Al Shabaab,,Military Forces of Kenya (2013-2022),,Kenya,Mandera,Mandera South,El Wak,2.8094,40.9358,1,Regional,5
+KEN6067,2018-02-14,1,Battles,Armed clash,Military Forces of Kenya (2013-2022),,Al Shabaab,,Kenya,Lamu,Lamu West,Lamu,-2.2717,40.902,2,International,3
+KEN6068,2018-02-14,1,Battles,Armed clash,Police Forces of Kenya (2013-2022),,Military Forces of Kenya (2013-2022),,Kenya,Mandera,Mandera East,Mandera,3.9357,41.8542,2,National,2
+KEN6075,2018-02-09,1,Explosions/Remote violence,Remote explosive/landmine/IED,Al Shabaab,,Police Forces of Kenya (2013-2022),,Kenya,Wajir,Wajir East,Wajir,1.75,40.06,2,International,0
+KEN6076,2018-02-14,1,Explosions/Remote violence,Shelling/artillery/missile attack,Al Shabaab,,Military Forces of Kenya (2013-2022),,Kenya,Mandera,Mandera East,Mandera,3.9357,41.8542,2,International,0
+KEN6101,2018-02-25,1,Strategic developments,Disrupted weapons use,Military Forces of Kenya (2013-2022),,Al Shabaab,,Kenya,Garissa,Hulugho,Hulugho,-1.15,41.0667,2,National,0
+KEN6102,2018-02-26,1,Riots,Mob violence,Rioters (Kenya),Journalists (Kenya); Vigilante Group (Kenya),Police Forces of Kenya (2013-2022),Civilians (Kenya),Kenya,Meru,Imenti North,Meru,0.05,37.65,2,National,1
+KEN6113,2018-03-02,1,Battles,Armed clash,Police Forces of Kenya (2013-2022),,Al Shabaab,,Kenya,Mandera,Lafey,Fino,3.3711,41.4468,1,International,5
+KEN6120,2018-03-14,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Kenya),,Military Forces of Kenya (2013-2022),,Kenya,Mandera,Mandera South,El Wak,2.8094,40.9358,1,International,2
+KEN6123,2018-03-19,1,Riots,Violent demonstration,Rioters (Kenya),Students (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Nyeri,Nyeri Central,Nyeri,-0.4167,36.95,1,National,0
+KEN6126,2018-03-21,1,Strategic developments,Disrupted weapons use,Police Forces of Kenya (2013-2022),,Unidentified Armed Group (Kenya),,Kenya,Nakuru,Nakuru North,Nakuru,-0.2441,36.142,1,National,0
+KEN6127,2018-03-23,1,Riots,Violent demonstration,Rioters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Kakamega,Lurambi,Kakamega,0.2833,34.7384,1,National,0
+KEN6196,2018-04-05,1,Riots,Mob violence,Police Forces of Kenya (2013-2022),,Rioters (Kenya),,Kenya,Embu,Manyatta,Kirigi,-0.45,37.4667,1,National,0
+KEN6215,2018-04-11,1,Strategic developments,Disrupted weapons use,Police Forces of Kenya (2013-2022),,Al Shabaab,,Kenya,Garissa,Ijara,Ijara,-1.5952,40.5144,1,National,0
+KEN6220,2018-04-15,1,Protests,Protest with intervention,Protesters (Kenya),ODM: Orange Democratic Movement,Police Forces of Kenya (2013-2022),,Kenya,Busia,Bunyala,Port Bunyala,0.0939,33.9756,2,National,0
+KEN6225,2018-04-17,2,Riots,Mob violence,Rioters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Embu,Mbeere South,Mashamba,-0.7563,37.5126,1,National,0
+KEN6286,2018-04-28,1,Strategic developments,Looting/property destruction,Police Forces of Kenya (2013-2022),,,,Kenya,Laikipia,Laikipia West,Rumuruti,0.2707,36.5454,3,National,0
+KEN6291,2018-05-03,1,Battles,Armed clash,Al Shabaab,,Military Forces of Kenya (2013-2022),,Kenya,Mandera,Mandera East,Mandera,3.9357,41.8542,1,International,0
+KEN6293,2018-05-04,1,Battles,Armed clash,Police Forces of Kenya (2013-2022),,Unidentified Armed Group (Kenya),,Kenya,Kilifi,Kilifi North,Kilifi,-3.633,39.85,1,National,0
+KEN6297,2018-05-08,1,Explosions/Remote violence,Remote explosive/landmine/IED,Al Shabaab,,Military Forces of Kenya (2013-2022),,Kenya,Mandera,Mandera South,Daba Siti,2.6106,40.8863,1,Regional,1
+KEN6298,2018-05-08,1,Strategic developments,Change to group/activity,Police Forces of Kenya (2013-2022),,,,Kenya,Mandera,Mandera East,Mandera,3.9357,41.8542,3,International,0
+KEN6300,2018-05-13,1,Battles,Armed clash,Police Forces of Kenya (2013-2022),,Pokot Ethnic Militia (Kenya),,Kenya,Baringo,Tiaty,Kapedo,1.1692,36.0955,1,National,2
+KEN6319,2018-05-25,1,Protests,Protest with intervention,Protesters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Lamu,Lamu West,Lamu,-2.2717,40.902,1,National,0
+KEN6330,2018-06-06,1,Explosions/Remote violence,Remote explosive/landmine/IED,Al Shabaab,,Police Forces of Kenya (2013-2022),,Kenya,Garissa,Dadaab,Liboi,0.3534,40.8723,1,International,5
+KEN6347,2018-06-22,1,Protests,Excessive force against protesters,Protesters (Kenya),Refugees/IDPs (Kenya),Military Forces of Kenya (2013-2022),,Kenya,Wajir,Tarbaj,Kotulo,2.4094,40.5948,1,National,1
+KEN6349,2018-06-23,1,Violence against civilians,Attack,Military Forces of Kenya (2013-2022),,Civilians (Kenya),,Kenya,Wajir,Wajir East,Lagh Kutulo,2.1291,40.929,1,National,0
+KEN6350,2018-06-23,1,Violence against civilians,Attack,Military Forces of Kenya (2013-2022),,Civilians (Kenya),,Kenya,Wajir,Wajir East,Konton,2.0053,40.9274,1,National,0
+KEN6351,2018-06-23,1,Violence against civilians,Attack,Military Forces of Kenya (2013-2022),,Civilians (Kenya),,Kenya,Wajir,Wajir East,Qarsa,2.078,40.7483,2,National,0
+KEN6352,2018-06-23,1,Violence against civilians,Attack,Military Forces of Kenya (2013-2022),,Civilians (Kenya),,Kenya,Wajir,Wajir East,Boji Garass,2.1014,40.9178,2,National,0
+KEN6358,2018-06-28,1,Battles,Armed clash,Military Forces of Kenya (2013-2022),,Al Shabaab,,Kenya,Wajir,Tarbaj,Tarbaj,2.216,40.12,2,National,1
+KEN6359,2018-06-29,1,Riots,Violent demonstration,Rioters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Uasin Gishu,Ainabkoi,Burnt Forest,0.2167,35.4333,1,National,1
+KEN6368,2018-07-03,1,Battles,Armed clash,Police Forces of Kenya (2013-2022),,Al Shabaab,,Kenya,Garissa,Hulugho,Sangailu,-1.3059,40.7345,2,National,0
+KEN6371,2018-07-03,1,Protests,Excessive force against protesters,Protesters (Kenya),Taxi Drivers (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Bungoma,Tongaren,Binyenya,0.8271,34.988,1,National,1
+KEN6372,2018-07-05,1,Riots,Mob violence,Police Forces of Kenya (2013-2022),,Rioters (Kenya),Vigilante Group (Kenya),Kenya,Bungoma,Tongaren,Binyenya,0.8271,34.988,1,National,1
+KEN6373,2018-07-05,1,Explosions/Remote violence,Remote explosive/landmine/IED,Al Shabaab,,Police Forces of Kenya (2013-2022),,Kenya,Garissa,Hulugho,Handaro,-1.458,40.6668,2,National,0
+KEN6375,2018-07-05,1,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),,Kenya,Trans Nzoia,Endebess,Endebess,1.0667,34.85,1,National,0
+KEN6383,2018-07-12,1,Battles,Armed clash,Police Forces of Kenya (2013-2022),,Al Shabaab,,Kenya,Mandera,Lafey,Sheikh Barrow,3.5042,41.1934,2,National,0
+KEN6385,2018-07-14,1,Riots,Mob violence,Police Forces of Kenya (2013-2022),,Rioters (Kenya),Vigilante Group (Kenya),Kenya,Kwale,Msambweni,Kinondo,-4.39,39.5465,1,National,1
+KEN6393,2018-07-20,1,Riots,Mob violence,Rioters (Kenya),Students (Kenya),Police Forces of Kenya (2013-2022),Karatina Communal Militia (Kenya),Kenya,Nyeri,Mathira East,Karatina,-0.4817,37.1251,1,National,0
+KEN6396,2018-07-26,1,Battles,Armed clash,Police Forces of Kenya (2013-2022),,Al Shabaab,,Kenya,Lamu,Lamu West,Milihoi,-2.2167,40.7,1,International,1
+KEN6402,2018-08-06,1,Strategic developments,Change to group/activity,Police Forces of Kenya (2013-2022),,,,Kenya,Isiolo,Isiolo,Isiolo,0.3546,37.5822,3,National,0
+KEN6407,2018-08-08,1,Explosions/Remote violence,Remote explosive/landmine/IED,Al Shabaab,,Military Forces of Kenya (2013-2022),,Kenya,Lamu,Lamu West,Bodhei,-1.8563,40.7166,2,International,5
+KEN6411,2018-08-12,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),FORD-Kenya: Forum for the Restoration of Democracy-Kenya; Government of Kenya (2013-2022),Kenya,Kakamega,Likuyani,Soy,0.6784,35.1438,1,National,1
+KEN6412,2018-08-13,1,Explosions/Remote violence,Remote explosive/landmine/IED,Al Shabaab,,Civilians (Kenya),Labor Group (Kenya),Kenya,Mandera,Mandera South,El Wak,2.8094,40.9358,2,National,3
+KEN6430,2018-08-27,1,Riots,Mob violence,Rioters (Kenya),Government of Kenya (2013-2022),Rioters (Kenya),,Kenya,Muranga,Kiharu,Muranga,-0.7166,37.15,2,National,0
+KEN6431,2018-08-27,2,Strategic developments,Arrests,Police Forces of Kenya (2013-2022),,Al Shabaab,,Kenya,Garissa,Ijara,Ijara,-1.5952,40.5144,2,National,0
+KEN6435,2018-08-29,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Kenya),,Military Forces of Kenya (2013-2022),,Kenya,Lamu,Lamu East,Kiunga,-1.741,41.492,2,International,5
+KEN6440,2018-09-03,2,Battles,Armed clash,Maasai Ethnic Militia (Kenya),,Narok Communal Militia (Kenya),Police Forces of Kenya (2013-2022),Kenya,Narok,Narok North,Narok,-1.0783,35.8601,1,National,1
+KEN6446,2018-09-03,2,Riots,Violent demonstration,Rioters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Kiambu,Kabete,Gitaru,-1.2333,36.6833,1,National,0
+KEN6449,2018-09-04,2,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),,Kenya,Kericho,Sigowet,Sondu,-0.391,35.0169,1,National,0
+KEN6450,2018-09-04,2,Battles,Armed clash,Police Forces of Kenya (2013-2022),,Unidentified Armed Group (Kenya),,Kenya,Nyandarua,Ndaragwa,Kanyagia,-0.0866,36.4711,1,National,3
+KEN6452,2018-09-06,1,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),,Kenya,Mombasa,Kisauni,Utange,-3.9758,39.7189,1,National,3
+KEN6456,2018-08-27,2,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),,Kenya,Nakuru,Nakuru North,Nakuru,-0.2441,36.142,2,National,1
+KEN6460,2018-09-11,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Wajir,Tarbaj,Kotulo,2.4094,40.5948,2,National,0
+KEN6461,2018-09-11,1,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),Somali Ethnic Group (Kenya),Kenya,Wajir,Tarbaj,Kotulo,2.4094,40.5948,2,National,3
+KEN6464,2018-09-12,1,Battles,Armed clash,Police Forces of Kenya (2013-2022),,Unidentified Armed Group (Kenya),,Kenya,Kiambu,Juja,Juja,-1.1833,37.1167,2,National,2
+KEN6468,2018-09-13,1,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),,Kenya,Kisii,Nyaribari Chache,Kisii,-0.6833,34.7667,2,National,1
+KEN6472,2018-09-12,1,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),,Kenya,Mandera,Mandera South,El Wak,2.8094,40.9358,1,National,3
+KEN6473,2018-09-13,1,Riots,Violent demonstration,Police Forces of Kenya (2013-2022),,Rioters (Kenya),Health Workers (Kenya),Kenya,Mandera,Mandera South,El Wak,2.8094,40.9358,1,National,1
+KEN6609,2018-09-24,1,Battles,Armed clash,Al Shabaab,,Military Forces of Kenya (2013-2022),,Kenya,Lamu,Lamu West,Pandanguo,-2.2347,40.4778,2,Regional-International,10
+KEN6616,2018-10-01,1,Battles,Armed clash,Police Forces of Kenya (2013-2022),Private Security Forces (Kenya),Unidentified Armed Group (Kenya),,Kenya,Kiambu,Thika Town,Thika,-1.05,37.0833,1,National,6
+KEN6618,2018-10-02,1,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),Journalists (Kenya),Kenya,Homa Bay,Homa Bay Town,Homa Bay,-0.5273,34.4571,1,National,0
+KEN6620,2018-10-02,2,Violence against civilians,Attack,Military Forces of Kenya (2013-2022),,Civilians (Kenya),,Kenya,Mandera,Mandera East,Mandera,3.9357,41.8542,3,Regional,0
+KEN6621,2018-10-05,1,Riots,Violent demonstration,Rioters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Nakuru,Gilgil,Gilgil,-0.4897,36.312,1,National,0
+KEN6645,2018-07-02,1,Explosions/Remote violence,Remote explosive/landmine/IED,Al Shabaab,,Military Forces of Kenya (2013-2022),,Kenya,Mandera,Mandera East,Lafey,3.6704,41.5814,2,International,3
+KEN6647,2018-07-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,Al Shabaab,,Military Forces of Kenya (2013-2022),,Kenya,Wajir,Tarbaj,Tarbaj,2.216,40.12,2,International,0
+KEN6696,2018-11-16,1,Protests,Protest with intervention,Protesters (Kenya),Labor Group (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Isiolo,Isiolo,Isiolo,0.3546,37.5822,1,National,0
+KEN6757,2018-12-16,1,Riots,Mob violence,Police Forces of Kenya (2013-2022),,Rioters (Kenya),,Kenya,Trans Nzoia,Kwanza,Kwanza,1.1684,34.9926,1,National,5
+KEN6758,2018-12-17,1,Battles,Armed clash,Military Forces of Kenya (2013-2022),,Al Shabaab,,Kenya,Lamu,Lamu West,Bodhei,-1.8563,40.7166,1,National,0
+KEN6763,2018-12-24,1,Riots,Mob violence,Rioters (Kenya),Taxi Drivers (Kenya),Civilians (Kenya),Government of Kenya (2013-2022),Kenya,Embu,Manyatta,Manyatta,-0.4307,37.4803,2,National,1
+KEN6765,2018-12-25,1,Battles,Armed clash,Al Shabaab,,Police Forces of Kenya (2013-2022),,Kenya,Mandera,Mandera East,Mandera,3.9357,41.8542,1,Regional,2
+KEN6767,2018-12-27,1,Protests,Excessive force against protesters,Protesters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Bungoma,Kanduyi,Bungoma,0.5635,34.5606,1,New media,0
+KEN6798,2018-08-26,1,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),Labor Group (Kenya),Kenya,Bomet,Bomet East,Bomet,-0.7833,35.35,1,National,0
+KEN6813,2018-09-13,1,Battles,Armed clash,Unidentified Armed Group (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Mombasa,Kisauni,Kisauni,-4.0333,39.6833,2,National,1
+KEN6815,2018-09-15,1,Battles,Armed clash,Pokot Ethnic Militia (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Baringo,Baringo Central,Ramacha,0.4325,35.7877,1,National,0
+KEN6818,2018-09-17,1,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),Labor Group (Kenya),Kenya,Muranga,Kigumo,Kigumo,-0.8167,36.9833,1,National,1
+KEN6825,2018-09-26,1,Explosions/Remote violence,Remote explosive/landmine/IED,Military Forces of Kenya (2013-2022),,Civilians (Kenya),,Kenya,West Pokot,Pokot North,Nakuyen,1.4416,34.9099,2,National,2
+KEN7344,2018-09-13,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),Police Forces of Kenya (2013-2022); Taxi Drivers (Kenya),Kenya,Kisii,Nyaribari Chache,Kisii,-0.6833,34.7667,2,National,3
+KEN9598,2018-06-10,2,Riots,Mob violence,Rioters (Kenya),Jubilee Party,Rioters (Kenya),Jubilee Party; Police Forces of Kenya (2013-2022),Kenya,Baringo,Marigat,Marigat,0.4667,35.9833,1,National,0
+KEN9611,2018-09-17,1,Riots,Mob violence,Rioters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Tharaka-Nithi,Tharaka North,Kathangachwe,-0.0889,38.1927,1,National,0
+KEN9784,2018-08-18,1,Riots,Violent demonstration,Rioters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Kilifi,Malindi,Malindi,-3.22,40.12,2,New media,0
+KEN6617,2018-10-02,2,Explosions/Remote violence,Shelling/artillery/missile attack,Al Shabaab,,Military Forces of Kenya (2013-2022),,Kenya,Lamu,Lamu East,Mararani,-1.7027,41.3019,1,Regional,0
+KEN6381,2018-07-11,1,Violence against civilians,Attack,Dassanach Ethnic Militia (Ethiopia),,Civilians (Kenya),,Kenya,Turkana,Turkana North,Olgana,4.4747,35.9714,2,National,2
+KEN6632,2018-10-09,1,Violence against civilians,Attack,Police Forces of Kenya (2013-2022) Prison Guards,,Civilians (Kenya),,Kenya,Nyeri,Nyeri Central,Nyeri,-0.4167,36.95,1,National,0
+KEN6694,2018-11-14,1,Violence against civilians,Attack,KANU: Kenya African National Union,,Civilians (Kenya),,Kenya,Baringo,Baringo Central,Kabarnet,0.4919,35.743,1,National,0
+KEN6079,2018-02-18,1,Violence against civilians,Attack,SLDF: Sabaot Land Defence Force,,Civilians (Kenya),Nyumba Kumi Initiative,Kenya,Bungoma,Cheptais,Cheptais,0.8099,34.4564,2,National,4
+KEN9415,2018-03-07,1,Strategic developments,Arrests,Police Forces of Kenya (2013-2022),,Civilians (Kenya),Former Government of Kenya (2013-2022),Kenya,Laikipia,Laikipia West,Rumuruti,0.2707,36.5454,1,National,0
+KEN6745,2018-12-14,1,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),,Kenya,Mandera,Mandera East,Mandera,3.9357,41.8542,1,National,0
+KEN6741,2018-12-13,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Unidentified Armed Group (Kenya),,Kenya,Vihiga,Vihiga,Kegoye,0.0667,34.7333,2,National,1
+KEN6742,2018-12-13,1,Riots,Violent demonstration,Rioters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Kitui,Kitui Central,Kitui,-1.3667,38.0167,1,National,0
+KEN6739,2018-12-12,1,Battles,Armed clash,Unidentified Armed Group (Kenya),,Private Security Forces (Kenya),,Kenya,Mombasa,Nyali,Nyali,-4.0525,39.6954,1,National,1
+KEN6737,2018-12-11,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),,Kenya,Vihiga,Vihiga,Rambara,0.0667,34.7,2,National,0
+KEN6736,2018-12-10,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),Christian Group (Kenya),Kenya,Kiambu,Kiambu Town,Kiambu,-1.1667,36.8333,2,National,1
+KEN6734,2018-12-08,2,Battles,Armed clash,Unidentified Armed Group (Kenya),,Private Security Forces (Kenya),,Kenya,Mandera,Mandera East,Mandera,3.9357,41.8542,1,National,1
+KEN6733,2018-12-08,1,Explosions/Remote violence,Remote explosive/landmine/IED,Al Shabaab,,Civilians (Kenya),,Kenya,Lamu,Lamu East,Sankuri,-1.7169,41.372,2,National,0
+KEN6732,2018-12-07,1,Riots,Violent demonstration,Rioters (Kenya),Labor Group (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Taita Taveta,Voi,Voi,-3.3961,38.5561,1,National,0
+KEN6730,2018-12-06,2,Violence against civilians,Attack,Pokot Ethnic Militia (Kenya),,Civilians (Kenya),Government of Kenya (2013-2022),Kenya,Turkana,Loima,Kapelbok,3.0021,35.5322,2,New media-National,2
+KEN6727,2018-12-05,1,Violence against civilians,Attack,Unidentified Communal Militia (Kenya),,Civilians (Kenya),,Kenya,Elgeyo Marakwet,Marakwet West,Elegeyo-Marakwet,0.99,35.55,2,National,0
+KEN6728,2018-12-05,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),,Kenya,Turkana,Turkana South,Lokichar,2.3833,35.65,3,New media-National,1
+KEN6729,2018-12-05,1,Riots,Mob violence,Rioters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Lamu,Lamu West,Lamu,-2.2717,40.902,1,National,0
+KEN6723,2018-11-30,2,Riots,Mob violence,Rioters (Kenya),Police Forces of Kenya (2013-2022),Rioters (Kenya),Police Forces of Kenya (2013-2022),Kenya,Bungoma,Kanduyi,Bungoma,0.5635,34.5606,1,National,0
+KEN6721,2018-11-29,1,Protests,Peaceful protest,Protesters (Kenya),Labor Group (Kenya),,,Kenya,Taita Taveta,Taveta,Taveta,-3.3988,37.6834,1,National,0
+KEN6722,2018-11-29,1,Riots,Violent demonstration,Rioters (Kenya),Labor Group (Kenya); Taxi Drivers (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Kericho,Ainamoi,Kericho,-0.3677,35.2831,1,New media,0
+KEN6725,2018-11-28,2,Violence against civilians,Attack,Unidentified Communal Militia (Kenya),Pastoralists (Kenya),Civilians (Kenya),Farmers (Kenya),Kenya,Nakuru,Rongai,Banita,-0.118,36.0756,1,National,0
+KEN6724,2018-11-28,2,Violence against civilians,Attack,Pokot Ethnic Militia (Kenya),,Civilians (Kenya),,Kenya,Turkana,Kibish,Kaakong,4.354,35.524,1,New media-National,1
+KEN6719,2018-11-28,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),Pastoralists (Kenya),Kenya,Wajir,Wajir North,Gambela,3.28,39.37,2,National,1
+KEN6717,2018-11-27,1,Battles,Armed clash,Unidentified Armed Group (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Nakuru,Nakuru North,Nakuru,-0.2441,36.142,3,National,2
+KEN6718,2018-11-27,2,Riots,Violent demonstration,Rioters (Kenya),Students (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Uasin Gishu,Kesses,Moi University,0.2821,35.2946,1,New media,0
+KEN6716,2018-11-26,1,Protests,Protest with intervention,Protesters (Kenya),Labor Group (Kenya); Taxi Drivers (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Meru,Tigania East,Kiguchwa,0.15,37.85,2,National,0
+KEN6708,2018-11-23,1,Riots,Mob violence,Rioters (Kenya),KCYM: Kitui County Youth Movement,Rioters (Kenya),,Kenya,Kitui,Kitui Central,Kitui,-1.3667,38.0167,1,National,0
+KEN6712,2018-11-23,1,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),Police Forces of Kenya (2013-2022),Kenya,Kiambu,Kiambaa,Thimbigua,-1.1833,36.7667,2,National,1
+KEN6713,2018-11-23,1,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),,Kenya,Mombasa,Kisauni,Kisauni,-4.0333,39.6833,1,National,0
+KEN6707,2018-11-22,1,Battles,Armed clash,Kapkeny Clan Militia (Kenya),,Kabasiran Clan Militia (Kenya),,Kenya,Elgeyo Marakwet,Marakwet East,Kapsowar,1.1,35.5575,2,National,1
+KEN6706,2018-11-21,1,Violence against civilians,Attack,Pokot Ethnic Militia (Kenya),,Civilians (Kenya),,Kenya,Elgeyo Marakwet,Marakwet East,Kipchumwa,1.2693,35.5557,2,National,0
+KEN6705,2018-11-20,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (International),Aid Workers (Italy); Civilians (Kenya),Kenya,Kilifi,Magarini,Chakama,-3.1305,39.6823,1,International,0
+KEN6701,2018-11-16,1,Battles,Armed clash,Marakwet Ethnic Militia (Kenya),,Pokot Ethnic Militia (Kenya),,Kenya,West Pokot,West Pokot,Kapenguria,1.2333,35.1167,2,National,2
+KEN6699,2018-11-15,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),,Kenya,Elgeyo Marakwet,Marakwet East,Endo,1.2667,35.6167,2,National,1
+KEN6698,2018-11-15,1,Battles,Armed clash,Unidentified Armed Group (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Elgeyo Marakwet,Marakwet East,Endo,1.2667,35.6167,2,National,1
+KEN6691,2018-11-10,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),Health Workers (Kenya); Aid Workers (Kenya),Kenya,Garissa,Ijara,Masalani,-1.6947,40.1694,2,National,0
+KEN6690,2018-11-08,2,Battles,Armed clash,Matan Clan Militia (Kenya),,Geledle Clan Militia (Kenya),,Kenya,Wajir,Wajir East,Wajir,1.75,40.06,3,National,3
+KEN6688,2018-11-07,1,Battles,Armed clash,Matan Clan Militia (Kenya),,Geledle Clan Militia (Kenya),,Kenya,Wajir,Wajir North,Kara Agarsu,2.9893,39.744,2,National,1
+KEN6689,2018-11-07,1,Battles,Armed clash,Turkana Ethnic Militia (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Isiolo,Isiolo,Isiolo,0.3546,37.5822,3,International,3
+KEN6687,2018-11-06,2,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Kericho,Kipkelion West,Kabirer,-0.1198,35.4005,2,National,0
+KEN6683,2018-11-06,1,Battles,Armed clash,Lagdera Communal Militia (Kenya),,Uchana Communal Militia (Kenya),,Kenya,Isiolo,Garbatulla,Janju,0.6834,39.0845,2,National,3
+KEN6686,2018-11-06,2,Riots,Mob violence,Rioters (Kenya),Fishers (Kenya),,,Kenya,Nakuru,Naivasha,Naivasha,-0.7202,36.4285,1,National,0
+KEN6684,2018-11-06,1,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),Fishers (Kenya),Kenya,Nakuru,Naivasha,Naivasha,-0.7202,36.4285,1,National,0
+KEN6685,2018-11-06,1,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),,Kenya,Kilifi,Magarini,Magarini,-3.0333,40.0666,1,National,0
+KEN6680,2018-11-04,1,Battles,Armed clash,Lagdera Communal Militia (Kenya),,Uchana Communal Militia (Kenya),,Kenya,Garissa,Lagdera,Mado Gashi,0.7305,39.1724,1,National,0
+KEN6665,2018-11-02,2,Battles,Armed clash,Maasai Ethnic Militia (Kenya),,Maasai Ethnic Militia (Kenya),,Kenya,Narok,Transmara West,Trans Mara,-1.169,34.889,2,National,0
+KEN6666,2018-11-02,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Kakamega,Butere,Butere,0.2064,34.4935,1,National,0
+KEN6678,2018-11-02,1,Battles,Armed clash,Police Forces of Kenya (2013-2022) Prison Guards,,Police Forces of Kenya (2013-2022) Prison Guards,,Kenya,Kilifi,Malindi,Malindi,-3.22,40.12,1,National,0
+KEN6663,2018-10-31,2,Protests,Peaceful protest,Protesters (Kenya),Students (Kenya),,,Kenya,Kakamega,Lurambi,Kakamega,0.2833,34.7384,2,National,0
+KEN6664,2018-10-31,1,Battles,Armed clash,Unidentified Communal Militia (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Elgeyo Marakwet,Marakwet West,Elegeyo-Marakwet,0.99,35.55,3,National,1
+KEN6661,2018-10-30,1,Violence against civilians,Sexual violence,Unidentified Armed Group (Kenya),,Civilians (Kenya),,Kenya,Kakamega,Ikolomani,Bushiangala,0.1833,34.6833,2,National,0
+KEN6660,2018-10-29,1,Riots,Violent demonstration,Rioters (Kenya),Students (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Vihiga,Hamisi,Kaimosi,0.1266,34.8466,1,National,0
+KEN6659,2018-10-28,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),,,Kenya,Bomet,Bomet East,Bomet,-0.7833,35.35,2,National,0
+KEN6652,2018-10-21,1,Violence against civilians,Attack,Turkana Ethnic Militia (Kenya),Pastoralists (Kenya),Civilians (Kenya),Pastoralists (Kenya),Kenya,Baringo,Tiaty,Kapedo,1.1692,36.0955,1,New media-International,4
+KEN6654,2018-10-24,2,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Machakos,Machakos,Machakos,-1.5167,37.2667,1,New media,0
+KEN6653,2018-10-24,2,Protests,Protest with intervention,Protesters (Kenya),Teachers (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Kericho,Bureti,Litein,-0.5833,35.1833,1,New media,0
+KEN6643,2018-10-17,2,Battles,Armed clash,Marsabit Communal Militia (Kenya),,Marsabit Communal Militia (Kenya),,Kenya,Marsabit,North Horr,Jaldesa,4.1935,37.0775,1,New media,2
+KEN6648,2018-10-17,2,Battles,Armed clash,Marsabit Communal Militia (Kenya),,Marsabit Communal Militia (Kenya),,Kenya,Marsabit,Saku,Marsabit,2.333,37.983,2,National,8
+KEN6644,2018-10-17,1,Protests,Protest with intervention,Protesters (Kenya),Students (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Machakos,Machakos,Machakos,-1.5167,37.2667,1,National,0
+KEN6639,2018-10-16,1,Strategic developments,Arrests,Police Forces of Kenya (2013-2022),,Civilians (Kenya),,Kenya,Kwale,Kinango,Kisiwani,-3.9488,39.4101,2,Regional,0
+KEN6640,2018-10-16,1,Protests,Protest with intervention,Protesters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Kwale,Kinango,Kisiwani,-3.9488,39.4101,1,Regional,0
+KEN6641,2018-10-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,Al Shabaab,,Military Forces of Kenya (2013-2022),,Kenya,Mandera,Lafey,Fino,3.3711,41.4468,2,International,0
+KEN6638,2018-10-12,1,Battles,Armed clash,Marsabit Communal Militia (Kenya),,Marsabit Communal Militia (Kenya),,Kenya,Marsabit,Saku,Marsabit,2.333,37.983,2,International,4
+KEN6675,2018-09-26,1,Protests,Protest with intervention,Protesters (Kenya),Students (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Machakos,Machakos,Machakos,-1.5167,37.2667,1,Regional,0
+KEN6674,2018-09-25,1,Protests,Protest with intervention,Protesters (Kenya),Students (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Machakos,Machakos,Machakos,-1.5167,37.2667,1,Regional,0
+KEN6670,2018-09-24,1,Battles,Armed clash,Military Forces of Kenya (2013-2022),,Al Shabaab,,Kenya,Lamu,Lamu West,Lamu,-2.2717,40.902,2,National,10
+KEN6671,2018-09-24,1,Protests,Protest with intervention,Protesters (Kenya),Students (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Machakos,Machakos,Machakos,-1.5167,37.2667,1,Regional,0
+KEN6754,2018-09-21,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),,Kenya,Migori,Kuria East,Kuria East,-1.2437,34.5957,2,National,1
+KEN6750,2018-09-19,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),,Kenya,Kisumu,Kisumu East,Nyamasaria,-0.1161,34.7837,2,National,0
+KEN6669,2018-09-19,1,Protests,Peaceful protest,Protesters (Kenya),Labor Group (Kenya),,,Kenya,Kakamega,Mumias West,Mumias,0.3351,34.4864,1,National,0
+KEN6749,2018-09-18,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),,Kenya,Kisumu,Kisumu East,Nyamasaria,-0.1161,34.7837,2,National,0
+KEN6668,2018-09-17,1,Protests,Peaceful protest,Protesters (Kenya),Jubilee Party,,,Kenya,Nakuru,Nakuru North,Nakuru,-0.2441,36.142,1,National,0
+KEN6646,2018-03-07,1,Strategic developments,Disrupted weapons use,Military Forces of Kenya (2013-2022),,Al Shabaab,,Kenya,Garissa,Hulugho,Sangailu,-1.3059,40.7345,2,International,0
+KEN12288,2018-06-14,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Kenya),,Civilians (Kenya),,Kenya,Lamu,Lamu West,Witu,-2.3889,40.4382,1,National,0
+KEN12289,2018-09-15,3,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Kenya),,Civilians (Kenya),,Kenya,Lamu,Lamu East,Kiunga,-1.741,41.492,1,National,0
+KEN6651,2018-10-22,2,Protests,Peaceful protest,Protesters (Kenya),Teachers (Kenya),,,Kenya,Homa Bay,Mbita,Mbita,-0.4166,34.2,1,National,0
+KEN6365,2018-07-02,1,Strategic developments,Change to group/activity,Al Shabaab,,,,Kenya,Garissa,Hulugho,Boni Forest,-1.5394,41.3314,1,International,0
+KEN6442,2018-09-03,2,Violence against civilians,Attack,Military Forces of Kenya (2013-2022),,Civilians (Kenya),Pastoralists (Kenya),Kenya,Garissa,Hulugho,Boni Forest,-1.5394,41.3314,2,National,0
+KEN9750,2018-07-02,1,Violence against civilians,Attack,Al Shabaab,,Civilians (Kenya),Labor Group (Kenya),Kenya,Garissa,Hulugho,Boni Forest,-1.5394,41.3314,1,International,0
+KEN10393,2018-08-24,2,Protests,Protest with intervention,Protesters (Kenya),Labor Group (Kenya),Police Forces of Kenya (2013-2022) General Service Unit,,Kenya,Isiolo,Isiolo,Isiolo,0.3546,37.5822,1,National,0
+KEN10404,2018-11-04,1,Riots,Violent demonstration,Rioters (Kenya),Students (Kenya),Police Forces of Kenya (2013-2022) General Service Unit,,Kenya,Kisumu,Kisumu West,Maseno,-0.0042,34.6095,1,National,0
+KEN10405,2018-11-27,1,Protests,Excessive force against protesters,Protesters (Kenya),Students (Kenya),Police Forces of Kenya (2013-2022) General Service Unit,,Kenya,Uasin Gishu,Moiben,Eldoret,0.5167,35.2833,1,National,0
+KEN6114,2018-02-28,1,Battles,Armed clash,Police Forces of Kenya (2013-2022),Police Forces of Kenya (2013-2022) General Service Unit,Al Shabaab,,Kenya,Wajir,Wajir East,Wajir,1.75,40.06,1,National,0
+KEN6341,2018-06-17,1,Explosions/Remote violence,Remote explosive/landmine/IED,Al Shabaab,,Police Forces of Kenya (2013-2022) General Service Unit,,Kenya,Wajir,Tarbaj,Tarbaj,2.216,40.12,1,National-Regional,8
+KEN6703,2018-11-19,1,Battles,Armed clash,Police Forces of Kenya (2013-2022) Border Patrol Unit,,Al Shabaab,,Kenya,Garissa,Hulugho,Boni Forest,-1.5394,41.3314,2,National-International,1
+KEN6740,2018-12-13,2,Battles,Armed clash,Police Forces of Kenya (2013-2022) Rapid Deployment Unit,,Police Forces of Kenya (2013-2022),,Kenya,Mandera,Mandera East,Mandera,3.9357,41.8542,1,National,0
+KEN6766,2018-12-25,1,Explosions/Remote violence,Grenade,Unidentified Armed Group (Kenya),,Police Forces of Kenya (2013-2022) Border Patrol Unit,,Kenya,Mandera,Mandera East,Mandera,3.9357,41.8542,1,New media,0
+KEN10331,2018-11-06,1,Violence against civilians,Attack,Private Security Forces (Kenya),,Civilians (Kenya),Journalists (Kenya),Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,National,0
+KEN10643,2018-02-27,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,National,1
+KEN5947,2018-01-22,1,Protests,Peaceful protest,Protesters (Kenya),Women (Kenya),,,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,International,0
+KEN5958,2018-01-30,1,Protests,Peaceful protest,Protesters (Kenya),NASA: National Super Alliance,,,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,National,0
+KEN5960,2018-01-31,1,Protests,Protest with intervention,Protesters (Kenya),NASA: National Super Alliance,Police Forces of Kenya (2013-2022),,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,National,0
+KEN5967,2018-02-04,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (United States),,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,International,1
+KEN5978,2018-02-08,1,Protests,Protest with intervention,Protesters (Kenya),NASA: National Super Alliance,Police Forces of Kenya (2013-2022),,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,National,0
+KEN6086,2018-02-23,1,Riots,Mob violence,Rioters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,National,0
+KEN6104,2018-02-26,1,Riots,Violent demonstration,Rioters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,2,National,0
+KEN6119,2018-03-13,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,National,0
+KEN6121,2018-03-14,1,Protests,Peaceful protest,Protesters (Kenya),Teachers (Kenya),,,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,National,0
+KEN6188,2018-03-27,1,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),Journalists (Kenya),Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,National,0
+KEN6190,2018-03-28,1,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),NRM: National Resistance Movement,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,National,0
+KEN6212,2018-04-11,1,Protests,Protest with intervention,Protesters (Kenya),Students (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,National,0
+KEN6221,2018-04-15,1,Protests,Peaceful protest,Protesters (Kenya),Students (Kenya),,,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,National,0
+KEN6299,2018-05-11,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,National,0
+KEN6308,2018-05-19,1,Protests,Protest with intervention,Protesters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,National,0
+KEN6310,2018-05-20,1,Strategic developments,Arrests,Police Forces of Kenya (2013-2022),,Al Shabaab,,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,National,0
+KEN6331,2018-06-06,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,International,0
+KEN6374,2018-07-05,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,National,0
+KEN6382,2018-07-12,1,Riots,Violent demonstration,Rioters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,National,0
+KEN6408,2018-08-08,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,International,0
+KEN6409,2018-08-08,1,Strategic developments,Arrests,Police Forces of Kenya (2013-2022),,Civilians (Kenya),,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,National,0
+KEN6634,2018-10-11,1,Protests,Peaceful protest,Protesters (Kenya),Protesters (South Sudan),,,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,Regional,0
+KEN6642,2018-10-09,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),,,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,Subnational,0
+KEN6667,2018-09-15,3,Violence against civilians,Attack,Mungiki Militia,,Civilians (Kenya),Labor Group (Kenya),Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,Regional,1
+KEN6676,2018-09-27,1,Protests,Peaceful protest,Protesters (Kenya),Labor Group (Kenya),,,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,Regional,0
+KEN6695,2018-11-14,1,Strategic developments,Arrests,Police Forces of Kenya (2013-2022),,Civilians (Kenya),Government of Kenya (2013-2022),Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,National,0
+KEN6720,2018-11-29,2,Battles,Armed clash,Police Forces of Kenya (2013-2022),,Police Forces of Kenya (2013-2022),,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,International,0
+KEN6748,2018-09-18,2,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,National,0
+KEN6806,2018-09-11,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,National,0
+KEN9780,2018-06-11,1,Protests,Peaceful protest,Protesters (Kenya),Labor Group (Kenya),,,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,New media,0
+KEN10030,2018-03-06,1,Protests,Peaceful protest,Protesters (Kenya),Health Workers (Kenya),,,Kenya,Nairobi,Westlands,Nairobi - Westlands,-1.2379,36.7879,1,National,0
+KEN10062,2018-02-16,1,Protests,Peaceful protest,Protesters (Kenya),NASA: National Super Alliance; ODM: Orange Democratic Movement,,,Kenya,Nairobi,Westlands,Nairobi - Westlands,-1.2379,36.7879,1,Subnational,0
+KEN10072,2018-06-04,1,Protests,Peaceful protest,Protesters (Kenya),Students (Kenya); Women (Kenya),,,Kenya,Nairobi,Kibra,Nairobi - Kibra,-1.3061,36.7857,2,Subnational,0
+KEN10073,2018-07-02,1,Protests,Peaceful protest,Protesters (Kenya),Taxi Drivers (Kenya),,,Kenya,Nairobi,Westlands,Nairobi - Westlands,-1.2379,36.7879,1,Subnational,0
+KEN10090,2018-08-15,1,Riots,Mob violence,Rioters (Kenya),,Rioters (Kenya),,Kenya,Nairobi,Embakasi West,Nairobi - Embakasi West,-1.2692,36.8917,1,Subnational,0
+KEN5951,2018-01-30,1,Riots,Mob violence,Rioters (Kenya),NASA: National Super Alliance,Police Forces of Kenya (2013-2022),,Kenya,Nairobi,Westlands,Nairobi - Westlands,-1.2379,36.7879,1,National,0
+KEN5961,2018-01-31,1,Strategic developments,Other,Unidentified Armed Group (Kenya),,Civilians (Kenya),,Kenya,Nairobi,Langata,Nairobi - Langata,-1.3508,36.7589,1,Subnational,0
+KEN5962,2018-02-02,1,Riots,Violent demonstration,Rioters (Kenya),NRM: National Resistance Movement,,,Kenya,Nairobi,Kibra,Nairobi - Kibra,-1.3061,36.7857,1,National,0
+KEN5966,2018-02-04,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nairobi,Kibra,Nairobi - Kibra,-1.3061,36.7857,1,National,0
+KEN5971,2018-02-05,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nairobi,Kibra,Nairobi - Kibra,-1.3061,36.7857,1,National,0
+KEN5972,2018-02-06,1,Riots,Violent demonstration,Rioters (Kenya),NASA: National Super Alliance,Police Forces of Kenya (2013-2022),,Kenya,Nairobi,Westlands,Nairobi - Westlands,-1.2379,36.7879,1,Subnational,0
+KEN6073,2018-02-08,1,Riots,Violent demonstration,Rioters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Nairobi,Kamukunji,Nairobi - Kamukunji,-1.2759,36.8526,1,International,0
+KEN6111,2018-03-01,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nairobi,Westlands,Nairobi - Westlands,-1.2379,36.7879,1,Subnational,0
+KEN6115,2018-03-05,1,Protests,Protest with intervention,Protesters (Kenya),Journalists (Kenya); Students (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Nairobi,Westlands,Nairobi - Westlands,-1.2379,36.7879,1,National,0
+KEN6124,2018-03-19,1,Protests,Peaceful protest,Protesters (Kenya),Teachers (Kenya),,,Kenya,Nairobi,Westlands,Nairobi - Westlands,-1.2379,36.7879,1,National,0
+KEN6329,2018-06-05,1,Protests,Protest with intervention,Protesters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Nairobi,Kibra,Nairobi - Kibra,-1.3061,36.7857,1,National,0
+KEN6334,2018-05-20,1,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),Women (Kenya),Kenya,Nairobi,Westlands,Nairobi - Westlands,-1.2379,36.7879,1,National,1
+KEN6343,2018-06-21,1,Riots,Mob violence,Rioters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Nairobi,Kibra,Nairobi - Kibra,-1.3061,36.7857,1,National,0
+KEN6388,2018-07-18,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),Government of Kenya (2013-2022),Kenya,Nairobi,Ruaraka,Nairobi - Ruaraka,-1.2456,36.8799,1,National,1
+KEN6401,2018-08-06,1,Protests,Protest with intervention,Protesters (Kenya),"Health Workers (Kenya); KUDHEIHA: Kenya Union of Domestic, Hotels, Educational Institutions, Hospital and Allied Workers",Police Forces of Kenya (2013-2022),,Kenya,Nairobi,Kibra,Nairobi - Kibra,-1.3061,36.7857,1,National,0
+KEN6423,2018-08-23,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nairobi,Westlands,Nairobi - Westlands,-1.2379,36.7879,1,National-International,0
+KEN6426,2018-08-26,2,Battles,Armed clash,Police Forces of Kenya (2013-2022),,Unidentified Armed Group (Kenya),,Kenya,Nairobi,Embakasi North,Nairobi - Embakasi North,-1.2517,36.8995,1,National,5
+KEN6427,2018-08-26,2,Battles,Armed clash,Police Forces of Kenya (2013-2022),,Unidentified Armed Group (Kenya),,Kenya,Nairobi,Ruaraka,Nairobi - Ruaraka,-1.2456,36.8799,1,National,1
+KEN6611,2018-09-25,1,Riots,Violent demonstration,Rioters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Nairobi,Roysambu,Nairobi - Roysambu,-1.2067,36.8888,1,National,0
+KEN6649,2018-10-19,1,Battles,Armed clash,Police Forces of Kenya (2013-2022),,Unidentified Armed Group (Kenya),,Kenya,Nairobi,Embakasi Central,Nairobi - Embakasi Central,-1.268,36.9148,1,National,1
+KEN6650,2018-10-19,2,Strategic developments,Arrests,Police Forces of Kenya (2013-2022),,Civilians (Kenya),,Kenya,Nairobi,Embakasi Central,Nairobi - Embakasi Central,-1.268,36.9148,1,National,0
+KEN6657,2018-10-28,2,Violence against civilians,Sexual violence,Unidentified Armed Group (Kenya),,Civilians (Kenya),Women (Kenya),Kenya,Nairobi,Embakasi North,Nairobi - Embakasi North,-1.2517,36.8995,1,National,0
+KEN6658,2018-10-28,1,Battles,Armed clash,Police Forces of Kenya (2013-2022),,Unidentified Armed Group (Kenya),,Kenya,Nairobi,Embakasi North,Nairobi - Embakasi North,-1.2517,36.8995,1,National,6
+KEN6731,2018-12-06,1,Battles,Armed clash,Police Forces of Kenya (2013-2022),,Unidentified Armed Group (Kenya),,Kenya,Nairobi,Embakasi Central,Nairobi - Embakasi Central,-1.268,36.9148,1,National,1
+KEN6747,2018-09-12,2,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),,Kenya,Nairobi,Embakasi North,Nairobi - Embakasi North,-1.2517,36.8995,1,National,3
+KEN6752,2018-09-21,2,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),Labor Group (Kenya),Kenya,Nairobi,Embakasi North,Nairobi - Embakasi North,-1.2517,36.8995,1,National,1
+KEN6753,2018-09-21,1,Riots,Violent demonstration,Rioters (Kenya),Labor Group (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Nairobi,Embakasi North,Nairobi - Embakasi North,-1.2517,36.8995,1,National,0
+KEN6759,2018-12-18,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nairobi,Embakasi Central,Nairobi - Embakasi Central,-1.268,36.9148,1,New media,0
+KEN6760,2018-12-19,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nairobi,Embakasi Central,Nairobi - Embakasi Central,-1.268,36.9148,1,New media,0
+KEN6762,2018-12-22,1,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),Students (Kenya),Kenya,Nairobi,Kibra,Nairobi - Kibra,-1.3061,36.7857,1,National,1
+KEN6768,2018-12-27,1,Protests,Protest with intervention,Protesters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Nairobi,Kibra,Nairobi - Kibra,-1.3061,36.7857,1,New media,0
+KEN6797,2018-08-22,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nairobi,Roysambu,Nairobi - Roysambu,-1.2067,36.8888,1,National,0
+KEN6799,2018-08-28,2,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),Prisoners (Kenya),Kenya,Nairobi,Westlands,Nairobi - Westlands,-1.2379,36.7879,1,National,0
+KEN6821,2018-09-19,1,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),,Kenya,Nairobi,Embakasi North,Nairobi - Embakasi North,-1.2517,36.8995,1,National,3
+KEN6823,2018-09-21,1,Riots,Violent demonstration,Rioters (Kenya),,,,Kenya,Nairobi,Embakasi North,Nairobi - Embakasi North,-1.2517,36.8995,1,National,0
+KEN6613,2018-09-27,1,Violence against civilians,Attack,Military Forces of Kenya (2013-2022),,Civilians (Kenya),,Kenya,Mandera,Mandera South,Daba Siti,2.6106,40.8863,1,Regional,0
+KEN6612,2018-09-26,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Kenya),,Military Forces of Kenya (2013-2022),,Kenya,Mandera,Mandera South,Daba Siti,2.6106,40.8863,1,Regional,0
+KEN6610,2018-09-25,1,Battles,Armed clash,Al Shabaab,,Military Forces of Kenya (2013-2022),,Kenya,Lamu,Lamu East,Kiwayu,-2.012,41.27,3,Regional,1
+KEN6672,2018-09-25,1,Battles,Armed clash,Al Shabaab,,Military Forces of Kenya (2013-2022),,Kenya,Lamu,Lamu West,Lamu,-2.2717,40.902,2,Regional,13
+KEN6379,2018-07-10,1,Battles,Armed clash,Police Forces of Kenya (2013-2022),,Al Shabaab,,Kenya,Garissa,Dadaab,Liboi,0.3534,40.8723,1,National-Regional,0
+KEN10578,2018-04-24,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Police Forces of Kenya (2013-2022),Civilians (Kenya),Kenya,Kwale,Kinango,Miritini,-4.0,39.5667,1,National,1
+KEN10603,2018-04-17,1,Protests,Peaceful protest,Protesters (Kenya),Farmers (Kenya),,,Kenya,Kisii,South Mugirango,Itumbe,-0.7339,34.6546,1,National,0
+KEN5965,2018-02-02,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Mombasa,Mvita,Mombasa,-4.0547,39.6636,1,National,0
+KEN6083,2018-02-20,1,Riots,Mob violence,Rioters (Kenya),,Civilians (Kenya),Government of Kenya (2013-2022),Kenya,Mombasa,Mvita,Mombasa,-4.0547,39.6636,1,National,0
+KEN6125,2018-03-20,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Mombasa,Mvita,Mombasa,-4.0547,39.6636,1,National,0
+KEN6226,2018-04-18,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Mombasa,Mvita,Mombasa,-4.0547,39.6636,1,National,0
+KEN6280,2018-04-24,1,Protests,Excessive force against protesters,Protesters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Kwale,Kinango,Miritini,-4.0,39.5667,1,National,1
+KEN6418,2018-08-18,1,Protests,Protest with intervention,Protesters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Mombasa,Mvita,Mombasa,-4.0547,39.6636,1,National,0
+KEN6455,2018-09-08,2,Strategic developments,Arrests,Police Forces of Kenya (2013-2022),,Civilians (International),Civilians (China); Civilians (Pakistan); Journalists (Kenya),Kenya,Mombasa,Mvita,Mombasa,-4.0547,39.6636,1,National-International,0
+KEN6626,2018-10-07,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Mombasa,Mvita,Mombasa,-4.0547,39.6636,1,National,2
+KEN6637,2018-10-12,1,Protests,Peaceful protest,Protesters (Kenya),Students (Kenya),,,Kenya,Mombasa,Mvita,Mombasa,-4.0547,39.6636,1,National,0
+KEN6677,2018-09-29,2,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Mombasa,Jomvu,Jomvu,-3.985,39.614,1,New media,0
+KEN6697,2018-11-12,2,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),,Kenya,Baringo,Baringo North,Bartabwa,0.8378,35.8099,2,National,1
+KEN6700,2018-11-15,1,Violence against civilians,Attack,Pokot Ethnic Militia (Kenya),,Civilians (Kenya),Pastoralists (Kenya),Kenya,Baringo,Baringo North,Bartabwa,0.8378,35.8099,2,National,1
+KEN6714,2018-11-24,1,Battles,Armed clash,Military Militia,,Police Forces of Kenya (2013-2022),,Kenya,Mombasa,Likoni,Likoni,-4.0839,39.6616,1,National,1
+KEN6715,2018-11-24,1,Violence against civilians,Attack,Military Militia,,Civilians (Rwanda),Civilians (Kenya),Kenya,Mombasa,Likoni,Likoni,-4.0839,39.6616,1,National,1
+KEN6726,2018-12-03,1,Riots,Violent demonstration,Rioters (Kenya),Students (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Mombasa,Mvita,Mombasa,-4.0547,39.6636,1,National,0
+KEN6769,2018-12-28,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya); Taxi Drivers (Kenya),Civilians (Kenya),,Kenya,Mombasa,Likoni,Likoni,-4.0839,39.6616,1,National,2
+KEN6793,2018-07-31,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Mombasa,Mvita,Mombasa,-4.0547,39.6636,1,National,1
+KEN6800,2018-08-30,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Mombasa,Mvita,Mombasa,-4.0547,39.6636,1,National,0
+KEN6804,2018-09-10,1,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),,Kenya,Mombasa,Mvita,Mombasa,-4.0547,39.6636,1,National,1
+KEN9789,2018-08-12,2,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Mombasa,Mvita,Mombasa,-4.0547,39.6636,1,National,2
+KEN10703,2018-07-26,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),Government of Kenya (2013-2022),Kenya,Nyeri,Nyeri Central,Gitathi-ini,-0.433,36.9333,1,National,1
+KEN13986,2018-06-23,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya); Taxi Drivers (Kenya),Civilians (Kenya),Government of Kenya (2013-2022),Kenya,Machakos,Masinga,Ekalakala,-0.9681,37.4722,1,National,0
+KEN10172,2018-12-19,2,Riots,Mob violence,Rioters (Kenya),,Civilians (Kenya),,Kenya,Migori,Kuria East,Kegonga,-1.25,34.65,1,National,0
+KEN6218,2018-04-13,1,Violence against civilians,Attack,Mwea Communal Militia (Kenya),,Civilians (Kenya),,Kenya,Embu,Mbeere South,Mwea,-0.75,37.4833,1,National,1
+KEN6394,2018-07-20,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Kenya),,,,Kenya,Narok,Narok North,Olpusimoru,-0.6581,35.7328,1,National,0
+KEN6421,2018-08-20,1,Riots,Mob violence,Rioters (Kenya),,Civilians (Kenya),Former Government of Kenya (2013-2022); Police Forces of Kenya (2013-2022),Kenya,Trans Nzoia,Kiminini,Mukuyu,0.9378,34.9753,1,New media-National,0
+KEN6619,2018-10-02,1,Riots,Violent demonstration,Rioters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Homa Bay,Homa Bay Town,Homa Bay,-0.5273,34.4571,1,National,0
+KEN9601,2018-07-11,1,Riots,Mob violence,Rioters (Kenya),Jubilee Party; Street Traders (Kenya),County Inspectorate Officers (2013-2022),,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,National,0
+KEN6735,2018-12-10,1,Battles,Armed clash,Lou Clan Militia (South Sudan),Nuer Ethnic Militia (South Sudan),Lou Clan Militia (South Sudan),Nuer Ethnic Militia (South Sudan),Kenya,Turkana,Turkana West,Kakuma Refugee Camp,3.7524,34.8301,1,Regional,2
+KEN6738,2018-12-11,1,Protests,Excessive force against protesters,Protesters (Kenya),LGBTQ+ (Kenya),Rioters (Kenya),Vigilante Group (Kenya),Kenya,Turkana,Turkana West,Kakuma Refugee Camp,3.7524,34.8301,1,International,0
+KEN7936,2018-12-11,1,Protests,Protest with intervention,Protesters (International),LGBTQ+ (International); Refugees/IDPs (International),Rioters (International),Refugees/IDPs (International); Rioters (Kenya),Kenya,Turkana,Turkana West,Kakuma Refugee Camp,3.7524,34.8301,1,International,0
+KEN10176,2018-01-06,1,Battles,Armed clash,Pokot Ethnic Militia (Kenya),Pastoralists (Kenya),Marakwet Ethnic Militia (Kenya),,Kenya,Elgeyo Marakwet,Marakwet East,Tot,1.2003,35.6588,1,National,2
+KEN10746,2018-01-05,1,Battles,Armed clash,Unidentified Communal Militia (Kenya),Pastoralists (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Elgeyo Marakwet,Marakwet East,Tot,1.2003,35.6588,2,National,5
+KEN6098,2018-02-22,1,Strategic developments,Looting/property destruction,Unidentified Communal Militia (Kenya),,,,Kenya,Trans Nzoia,Endebess,Chepchoina,1.2028,34.8114,1,National,0
+KEN6384,2018-07-13,1,Riots,Mob violence,Rioters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Migori,Rongo,Rongo,-0.7556,34.5995,1,National,0
+KEN6655,2018-10-25,2,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Trans Nzoia,Endebess,Chepchoina,1.2028,34.8114,2,National,0
+KEN6711,2018-11-23,1,Battles,Armed clash,Unidentified Armed Group (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Mombasa,Nyali,Ganjoni,-4.0644,39.6607,1,National,0
+KEN9707,2018-05-31,1,Protests,Peaceful protest,Protesters (Kenya),Farmers (Kenya),,,Kenya,Kisumu,Muhoroni,Muhoroni,-0.1567,35.1984,1,National,0
+KEN9811,2018-01-16,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Mombasa,Nyali,Ganjoni,-4.0644,39.6607,1,New media,0
+KEN6656,2018-10-26,1,Battles,Armed clash,Police Forces of Kenya (2013-2022),,Unidentified Armed Group (Kenya),,Kenya,Nairobi,Mathare,Nairobi - Mathare,-1.2604,36.8607,1,National,1
+KEN6425,2018-08-24,1,Strategic developments,Looting/property destruction,Al Shabaab,,,,Kenya,Tana River,Galole,Hola,-1.5036,40.0333,2,International,0
+KEN14460,2018-12-26,1,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),,Kenya,Bungoma,Sirisia,Butonge,0.7121,34.4671,1,National,1
+KEN15266,2018-01-21,1,Riots,Mob violence,Rioters (Kenya),Nyumba Kumi Initiative; Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Kakamega,Shinyalu,Senyende,0.2856,34.7961,2,National,1
+KEN6478,2018-09-19,1,Protests,Protest with intervention,Protesters (Kenya),Taxi Drivers (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Mombasa,Jomvu,Jomvu,-3.985,39.614,1,National,0
+KEN6081,2018-02-19,1,Battles,Armed clash,Police Forces of Kenya (2013-2022),,Al Shabaab,,Kenya,Isiolo,Garbatulla,Garbatulla,0.5333,38.52,2,National,2
+KEN6679,2018-11-03,1,Battles,Armed clash,Lagdera Communal Militia (Kenya),,Uchana Communal Militia (Kenya),,Kenya,Isiolo,Garbatulla,Garbatulla,0.5333,38.52,2,National,2
+KEN6681,2018-11-04,1,Violence against civilians,Attack,Lagdera Communal Militia (Kenya),,Civilians (Kenya),,Kenya,Isiolo,Garbatulla,Garbatulla,0.5333,38.52,2,National,0
+KEN6910,2018-02-21,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),Aid Workers (Kenya),Kenya,Isiolo,Garbatulla,Garbatulla,0.5333,38.52,1,Local partner-Other,0
+KEN6743,2018-12-14,2,Battles,Armed clash,Kipsigi Ethnic Militia (Kenya),,Maasai Ethnic Militia (Kenya),,Kenya,Narok,Narok South,Olololunga,-1.003,35.664,2,National,1
+KEN6469,2018-09-14,1,Battles,Armed clash,Police Forces of Kenya (2013-2022),,Nessuit Communal Militia (Kenya),,Kenya,Nakuru,Njoro,Nessuiet,-0.3898,35.8964,1,National,1
+KEN6475,2018-09-14,1,Strategic developments,Looting/property destruction,Unidentified Ethnic Militia (Kenya),,,,Kenya,Nakuru,Njoro,Nessuiet,-0.3898,35.8964,2,National,0
+KEN6476,2018-09-14,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),Farmers (Kenya),Kenya,Nakuru,Njoro,Nessuiet,-0.3898,35.8964,2,National,1
+KEN6477,2018-09-14,1,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),,Kenya,Nakuru,Njoro,Nessuiet,-0.3898,35.8964,2,National,3
+KEN6751,2018-09-20,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Kenya),,Civilians (Kenya),,Kenya,Nakuru,Njoro,Nessuiet,-0.3898,35.8964,1,New media,0
+KEN5940,2018-01-16,1,Violence against civilians,Attack,Police Forces of Kenya (2013-2022),,Civilians (Kenya),Sengwer Ethnic Group (Kenya),Kenya,Elgeyo Marakwet,Marakwet East,Embobut,1.2167,35.6333,1,International,1
+KEN9819,2018-01-17,1,Battles,Armed clash,Sengwer Ethnic Militia (Kenya),,Police Forces of Kenya (2013-2022) Kenya Forest Service Rangers,,Kenya,Elgeyo Marakwet,Marakwet East,Embobut,1.2167,35.6333,1,New media,1
+KEN5969,2018-02-05,1,Riots,Violent demonstration,Rioters (Kenya),Students (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Meru,Tigania West,Nchiru,0.1325,37.7363,1,National,0
+KEN6108,2018-02-27,1,Riots,Violent demonstration,Rioters (Kenya),Students (Kenya),Police Forces of Kenya (2013-2022),Civilians (Kenya); Journalists (Kenya),Kenya,Meru,Tigania West,Nchiru,0.1325,37.7363,1,New media-National,1
+KEN6457,2018-09-06,1,Violence against civilians,Attack,Unidentified Communal Militia (Kenya),,Civilians (Kenya),,Kenya,Narok,Narok South,Nkoben,-0.9,35.6167,2,National,1
+KEN6744,2018-12-14,2,Battles,Armed clash,Kipsigi Ethnic Militia (Kenya),,Maasai Ethnic Militia (Kenya),,Kenya,Narok,Narok South,Nkoben,-0.9,35.6167,1,National,0
+KEN10275,2018-09-29,2,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Muranga,Kigumo,Kangare,-0.7833,36.8667,1,National,0
+KEN10074,2018-05-15,1,Protests,Peaceful protest,Protesters (Kenya),Women (Kenya),,,Kenya,Nairobi,Starehe,Nairobi - Starehe,-1.2881,36.8236,1,Subnational,0
+KEN10080,2018-01-23,1,Riots,Mob violence,Rioters (Kenya),Christian Group (Kenya); Students (Kenya),Rioters (Kenya),Muslim Group (Kenya); Students (Kenya),Kenya,Nairobi,Starehe,Nairobi - Starehe,-1.2881,36.8236,1,Subnational-National,0
+KEN10088,2018-04-30,1,Riots,Mob violence,Rioters (Kenya),,Civilians (Kenya),Labor Group (Kenya),Kenya,Nairobi,Starehe,Nairobi - Starehe,-1.2881,36.8236,1,New media-Subnational,0
+KEN6211,2018-04-11,1,Protests,Peaceful protest,Protesters (Kenya),Teachers (Kenya),,,Kenya,Nairobi,Starehe,Nairobi - Starehe,-1.2881,36.8236,1,National,0
+KEN6337,2018-06-11,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nairobi,Starehe,Nairobi - Starehe,-1.2881,36.8236,1,National,0
+KEN6338,2018-06-12,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nairobi,Starehe,Nairobi - Starehe,-1.2881,36.8236,1,National,0
+KEN6370,2018-07-03,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nairobi,Starehe,Nairobi - Starehe,-1.2881,36.8236,1,National,0
+KEN6399,2018-07-31,1,Violence against civilians,Attack,Merrile Ethnic Militia (Ethiopia),,Civilians (Kenya),,Kenya,Turkana,Turkana North,Lowerangak,4.2667,35.8833,1,National,1
+KEN6195,2018-04-04,1,Protests,Protest with intervention,Protesters (Kenya),Labor Group (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Nairobi,Starehe,Nairobi - Starehe,-1.2881,36.8236,1,National,0
+KEN10109,2018-05-11,1,Riots,Violent demonstration,Rioters (Kenya),Taxi Drivers (Kenya),,,Kenya,Nairobi,Kasarani,Nairobi - Kasarani,-1.2254,36.8977,1,National,0
+KEN5948,2018-01-24,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Kitui,Mwingi Central Sub- County,Mwingi,-0.9333,38.0667,1,National,0
+KEN6106,2018-02-27,1,Riots,Violent demonstration,Rioters (Kenya),Vigilante Group (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Kitui,Mwingi Central Sub- County,Mwingi,-0.9333,38.0667,1,National,0
+KEN6209,2018-04-10,1,Riots,Mob violence,Rioters (Kenya),NARC: National Rainbow Coalition,Rioters (Kenya),WDM: Wiper Democratic Movement,Kenya,Kitui,Mwingi Central Sub- County,Mwingi,-0.9333,38.0667,1,National,0
+KEN6227,2018-04-19,1,Protests,Protest with intervention,Protesters (Kenya),Taxi Drivers (Kenya),Police Forces of Kenya (2013-2022),,Kenya,Nairobi,Kasarani,Nairobi - Kasarani,-1.2254,36.8977,1,New media-Subnational,0
+KEN6764,2018-12-25,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),,Kenya,Siaya,Bondo,Bondo,-0.1003,34.2729,1,National,1
+KEN10119,2018-01-05,1,Violence against civilians,Attack,Marakwet Ethnic Militia (Kenya),,Civilians (Kenya),,Kenya,West Pokot,Pokot Central,Chesogon,1.3048,35.6245,2,National,3
+KEN6109,2018-02-28,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),,Kenya,Nyeri,Nyeri Central,Nyeri,-0.4167,36.95,1,New media-National,2
+KEN10352,2018-02-20,1,Riots,Mob violence,Rioters (Kenya),Vigilante Group (Kenya),Civilians (Kenya),Women (Kenya),Kenya,Nairobi,Dagoretti North,Nairobi - Dagoretti North,-1.2793,36.7789,1,National,0
+KEN5936,2018-01-13,1,Battles,Armed clash,Al Shabaab,,Police Forces of Kenya (2013-2022),,Kenya,Lamu,Lamu West,Lamu,-2.2717,40.902,2,International,1
+KEN5946,2018-01-20,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Kenya),,Civilians (Kenya),,Kenya,Mandera,Mandera East,Mandera,3.9357,41.8542,2,International,4
+KEN5968,2018-02-05,1,Protests,Protest with intervention,Protesters (Kenya),,Police Forces of Kenya (2013-2022),,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,International,0
+KEN6323,2018-05-31,1,Protests,Peaceful protest,Protesters (Kenya),,,,Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,International,0
+KEN6419,2018-08-19,1,Violence against civilians,Attack,Unidentified Armed Group (Kenya),,Civilians (Kenya),,Kenya,Nairobi,Dagoretti North,Nairobi - Dagoretti North,-1.2793,36.7789,1,Subnational-National,0
+KEN6433,2018-08-28,1,Strategic developments,Arrests,Police Forces of Kenya (2013-2022),,Civilians (Kenya),Judges (Kenya),Kenya,Nairobi,Starehe,Nairobi,-1.283,36.817,1,International,0
+KEN6633,2018-10-10,1,Battles,Armed clash,Al Shabaab,,Police Forces of Kenya (2013-2022) National Police Reservists,,Kenya,Mandera,Mandera East,Arabia,3.5254,41.4991,1,National-International,2
+KEN6794,2018-08-02,1,Strategic developments,Arrests,Police Forces of Kenya (2013-2022),,Civilians (Kenya),Street Traders (Kenya),Kenya,Nairobi,Dagoretti North,Nairobi - Dagoretti North,-1.2793,36.7789,2,National,0
+KEN6072,2018-01-15,3,Battles,Armed clash,Degodia Clan Militia (Kenya),,Arjuran Ethnic Militia (Kenya),,Kenya,Wajir,Wajir North,El Das,2.5333,39.55,2,National,4
+KEN6191,2018-03-28,1,Violence against civilians,Attack,Garre Ethnic Militia (Kenya),,Civilians (Kenya),Degodia Clan Group (Kenya),Kenya,Mandera,Banissa,Banissa,3.9439,40.3445,2,International,6
+KEN10179,2018-07-25,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Kenya),,Civilians (Kenya),Students (Kenya),Kenya,Tana River,Bura,Madogo,-0.4711,39.5952,1,National,0
+KEN18770,2018-08-14,1,Violence against civilians,Sexual violence,Police Forces of Kenya (2013-2022),,Civilians (Democratic Republic of Congo),Prisoners (Democratic Republic of Congo); Women (Democratic Republic of Congo); Refugees/IDPs (Democratic Republic of Congo),Kenya,Nairobi,Starehe,Nairobi - Starehe,-1.2881,36.8236,1,National,0
+KEN20234,2018-06-12,2,Protests,Peaceful protest,Protesters (Kenya),Fishers (Kenya),,,Kenya,Siaya,Bondo,Usengi,-0.0637,34.054,1,National,0
+KEN20431,2018-02-16,1,Explosions/Remote violence,Remote explosive/landmine/IED,Al Shabaab,,Police Forces of Kenya (2013-2022),,Kenya,Wajir,Wajir East,Qarsa,2.078,40.7483,1,National,0

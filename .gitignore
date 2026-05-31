@@ -1,0 +1,24 @@
+# Data files
+*.parquet
+*.jsonl
+*.xlsx
+*.xls
+*.joblib
+*.pkl
+*.h5
+*.hdf5
+
+# Large output / cache directories
+cache/
+outputs/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+data/secrets/
+
+# OS
+.DS_Store
+Thumbs.db

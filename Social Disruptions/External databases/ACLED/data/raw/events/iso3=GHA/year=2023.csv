@@ -1,0 +1,369 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+GHA1655,2023-01-07,1,Protests,Peaceful protest,Protesters (Ghana),#FixTheCountry,,,Ghana,Northern,Tamale,Tamale,9.4008,-0.8393,1,National,0,GHA
+GHA1657,2023-01-09,1,Battles,Armed clash,Bomaa Communal Militia (Ghana),,Bomaa Communal Militia (Ghana),,Ghana,Ahafo,Tano North,Bomaa,7.0805,-2.1696,1,National,1,GHA
+GHA1658,2023-01-07,2,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),Labor Group (Ghana),Ghana,Bono,Jaman North,Asiri,7.8006,-2.7019,1,National,1,GHA
+GHA1660,2023-01-18,1,Riots,Mob violence,Rioters (Ghana),,Civilians (Ghana),,Ghana,Central,Ekumfi,Ekumfi Dunkwa,5.2778,-0.924,1,National,1,GHA
+GHA1667,2023-01-24,1,Riots,Mob violence,Rioters (Ghana),,Civilians (Ghana),,Ghana,Ashanti,Atwima Mponua,Krofrom,6.6735,-2.2787,1,National,1,GHA
+GHA1668,2023-01-22,1,Riots,Mob violence,Rioters (Ghana),,Civilians (Ghana),Journalists (Ghana),Ghana,Bono East,Techiman North,Techiman,7.5896,-1.9337,2,National,0,GHA
+GHA1681,2023-02-07,2,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),Fulani Ethnic Group (Ghana); Pastoralists (Ghana); Labor Group (Ghana),Ghana,Eastern,Kwahu Afram Plains South,Maame Krobo,6.9522,-0.4384,1,National,0,GHA
+GHA1683,2023-02-08,2,Protests,Peaceful protest,Protesters (Ghana),Miners (Ghana),,,Ghana,Eastern,Atiwa,Anyinam,6.3816,-0.5493,1,National,0,GHA
+GHA1685,2023-02-07,2,Violence against civilians,Attack,Fulani Ethnic Militia (Ghana),Pastoralists (Ghana),Civilians (Ghana),Farmers (Ghana),Ghana,Eastern,Kwahu Afram Plains South,Maame Krobo,6.9522,-0.4384,1,National,1,GHA
+GHA1693,2023-02-12,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Central,Ajumako-Enyan-Essiam,Ajumako Bisease,5.4566,-0.9794,1,National,1,GHA
+GHA1694,2023-02-07,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Ashanti,Kwabre East,Adanwomase,6.8125,-1.4756,1,National,0,GHA
+GHA1698,2023-02-20,1,Riots,Violent demonstration,Rioters (Ghana),Nalerigu Communal Group (Ghana),,,Ghana,North East,Mamprusi East,Nalerigu,10.5255,-0.3702,1,National,0,GHA
+GHA1699,2023-02-20,2,Riots,Mob violence,Rioters (Ghana),,Civilians (Ghana),Miners (Ghana),Ghana,Central,Upper Denkyira West,Fobinso,5.9813,-1.9396,1,National,1,GHA
+GHA1702,2023-02-21,1,Riots,Mob violence,Rioters (Ghana),,Rioters (Ghana),,Ghana,Savannah,East Gonja,Salaga,8.5508,-0.5187,1,National,1,GHA
+GHA1703,2023-02-23,1,Riots,Mob violence,Rioters (Ghana),,Civilians (Ghana),Fulani Ethnic Group (Ghana); Pastoralists (Ghana),Ghana,Ashanti,Ejura Sekyedumase,Aframso,7.3124,-1.3901,2,National,1,GHA
+GHA1705,2023-02-22,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Ghana),,Civilians (Ghana),Pastoralists (Ghana),Ghana,Ashanti,Ejura Sekyedumase,Ejura,7.3856,-1.3562,2,National,0,GHA
+GHA1709,2023-03-06,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,North East,Mamprusi East,Nalerigu,10.5255,-0.3702,1,National,0,GHA
+GHA1710,2023-03-06,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,North East,Mamprusi East,Gambaga,10.5309,-0.4382,1,National,0,GHA
+GHA1712,2023-03-04,2,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Volta,North Tongu,Juapong,6.2902,0.1988,1,National,0,GHA
+GHA1714,2023-03-10,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Upper West,Wa,Wa,10.0607,-2.5019,1,National,0,GHA
+GHA1717,2023-03-16,2,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Central,Gomoa West,Winneba,5.3436,-0.623,1,National,1,GHA
+GHA1721,2023-03-21,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Bono,Jaman North,Duadaso,7.9031,-2.6305,1,National,0,GHA
+GHA1724,2023-03-19,2,Riots,Mob violence,Rioters (Ghana),Farmers (Ghana),Civilians (Ghana),Labor Group (Ghana),Ghana,Bono East,Nkoranza South,Nkoranza,7.5625,-1.7039,2,National,0,GHA
+GHA1731,2023-03-26,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Savannah,Bole,Bole,9.0345,-2.4834,1,National,0,GHA
+GHA1746,2023-04-12,2,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Eastern,Yilo Krobo,Wurapong,6.2337,-0.2777,1,National,1,GHA
+GHA1747,2023-04-08,2,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Upper West,Wa,Wa,10.0607,-2.5019,1,National,1,GHA
+GHA1748,2023-03-21,2,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Northern,Saboba,Saboba,9.7074,0.3184,2,National,1,GHA
+GHA1751,2023-04-06,2,Protests,Peaceful protest,Protesters (Ghana),Farmers (Ghana),,,Ghana,Ashanti,Sekyere Central,Nsuta,7.01,-1.381,2,National,0,GHA
+GHA1752,2023-04-09,1,Riots,Mob violence,Rioters (Ghana),,,,Ghana,Central,Gomoa East,Ojobi,5.483,-0.535,1,National,0,GHA
+GHA1753,2023-04-09,1,Violence against civilians,Sexual violence,Fulani Ethnic Militia (Ghana),Pastoralists (Ghana),Civilians (Ghana),Women (Ghana); Fulani Ethnic Group (Ghana); Pastoralists (Ghana),Ghana,Central,Gomoa East,Ojobi,5.483,-0.535,1,National,0,GHA
+GHA1756,2023-04-17,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Ashanti,Amansie West,Moseaso,6.5108,-1.8533,1,National,3,GHA
+GHA1758,2023-04-18,1,Protests,Peaceful protest,Protesters (Ghana),Labor Group (Ghana),,,Ghana,Greater Accra,Tema,Tema,5.6596,-0.0097,1,National,0,GHA
+GHA1773,2023-05-18,2,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Upper East,Garu Tempane,Tempane,10.8562,-0.132,2,National,0,GHA
+GHA1774,2023-05-18,1,Riots,Mob violence,Rioters (Ghana),,Rioters (Ghana),,Ghana,Northern,Tamale,Yong,9.3403,-0.8191,1,National,3,GHA
+GHA1775,2023-05-04,1,Violence against civilians,Attack,Unidentified Armed Group (Ghana),,Civilians (Ghana),NDC: National Democratic Congress (Ghana),Ghana,Ashanti,Obuasi,Akrofuom,6.119,-1.6531,1,National,1,GHA
+GHA1776,2023-05-08,2,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),Women (Ghana),Ghana,Northern,Mion,Zakpalsi,9.4666,-0.3166,1,National,2,GHA
+GHA1778,2023-05-09,1,Riots,Mob violence,Rioters (Ghana),,Civilians (Ghana),Bunso Communal Group (Ghana),Ghana,Eastern,West Akim,Bunso,5.9388,-0.671,1,National,0,GHA
+GHA1781,2023-05-09,2,Protests,Peaceful protest,Protesters (Ghana),TUC: Trade Union Congress (Ghana),,,Ghana,Greater Accra,Kpone Katamanso,Kpone,5.6897,0.057,1,National,0,GHA
+GHA1786,2023-05-20,2,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Central,Twifo Heman Lower Denkyira,Dwukwa-Mfuom,5.3707,-1.4042,1,National,1,GHA
+GHA1788,2023-05-22,1,Protests,Peaceful protest,Protesters (Ghana),Students (Ghana); Women (Ghana),,,Ghana,Upper East,Kasena Nankana East,Navrongo,10.8956,-1.0921,1,National,0,GHA
+GHA1790,2023-06-01,1,Battles,Armed clash,Gonja Ethnic Militia (Ghana),,Mamprusi Ethnic Militia (Ghana),,Ghana,Savannah,North Gonja,Lukula,9.9829,-1.242,1,National,1,GHA
+GHA1791,2023-06-01,1,Battles,Armed clash,Gonja Ethnic Militia (Ghana),,Mamprusi Ethnic Militia (Ghana),,Ghana,Savannah,North Gonja,Lukula,9.9829,-1.242,2,National,0,GHA
+GHA1798,2023-06-04,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Western North,Sefwi Bibiani-Ahwiaso Bekwai,Bibiani,6.4667,-2.3333,1,National,1,GHA
+GHA1804,2023-06-12,1,Protests,Peaceful protest,Protesters (Ghana),Dankare Be Lembu Youth Group (Ghana),,,Ghana,Savannah,West Gonja,Damongo,9.0834,-1.8182,1,National,0,GHA
+GHA1809,2023-06-29,1,Riots,Mob violence,Rioters (Ghana),,Civilians (Ghana),LGBTQ+ (Ghana),Ghana,Western North,Sefwi Bibiani-Ahwiaso Bekwai,Bibiani,6.4667,-2.3333,1,National,0,GHA
+GHA1810,2023-06-29,1,Battles,Armed clash,Binyami Ethnic Militia (Ghana),,Naamuhi Ethnic Militia (Ghana),,Ghana,Northern,Nanumba South,Lungni,8.5529,-0.0063,1,National,0,GHA
+GHA1813,2023-07-02,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Eastern,Suhum,Suhum,6.0409,-0.45,2,National,1,GHA
+GHA1814,2023-07-03,1,Protests,Peaceful protest,Protesters (Ghana),Labor Group (Ghana),,,Ghana,Western,Shama,Shama,5.0102,-1.6289,1,National,0,GHA
+GHA1816,2023-06-17,2,Riots,Violent demonstration,Rioters (Cameroon),,,,Ghana,Savannah,North Gonja,Daboya,9.5311,-1.379,1,National,0,GHA
+GHA1821,2023-07-06,2,Riots,Mob violence,Rioters (Ghana),NPP: New Patriotic Party,Rioters (Ghana),NPP: New Patriotic Party,Ghana,Ashanti,Ahafo Ano North,Tepa,7.0048,-2.1638,1,National,0,GHA
+GHA1824,2023-07-02,2,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Eastern,New Juaben,Nyamekrom,6.0857,-0.2968,2,National,1,GHA
+GHA1829,2023-07-17,2,Riots,Mob violence,Rioters (Ghana),,Civilians (Ghana),,Ghana,Northern,Mion,Zakpalsi,9.4666,-0.3166,1,National,2,GHA
+GHA1831,2023-07-27,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Eastern,New Juaben,Koforidua,6.0941,-0.2591,2,National,1,GHA
+GHA1833,2023-07-25,1,Riots,Mob violence,Rioters (Ghana),Students (Ghana),Civilians (Ghana),Teachers (Ghana); Labor Group (Ghana),Ghana,Upper West,Wa,Wa,10.0607,-2.5019,1,National,0,GHA
+GHA1837,2023-08-01,1,Violence against civilians,Attack,Private Security Forces (Ghana),,Civilians (Ghana),Students (Ghana); Aid Workers (Ghana); Labor Group (Ghana); Women (Ghana),Ghana,Western North,Aowin,Enchi,5.8232,-2.8237,2,National,0,GHA
+GHA1840,2023-07-31,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Central,Mfantsiman,Saltpond,5.203,-1.0574,1,National,1,GHA
+GHA1842,2023-07-21,1,Riots,Mob violence,Rioters (Ghana),NPP: New Patriotic Party,NPP: New Patriotic Party,,Ghana,Northern,Sagnerigu,Sagnarigu,9.4228,-0.8985,1,National,0,GHA
+GHA1843,2023-08-02,1,Riots,Mob violence,Rioters (Ghana),NPP: New Patriotic Party,NPP: New Patriotic Party,,Ghana,Northern,Sagnerigu,Sagnarigu,9.4228,-0.8985,1,National,0,GHA
+GHA1846,2023-08-01,1,Protests,Peaceful protest,Protesters (Ghana),NPP: New Patriotic Party,,,Ghana,Bono East,Atebubu Amantin,Atebubu,7.7554,-0.9809,1,National,0,GHA
+GHA1850,2023-08-26,2,Riots,Mob violence,Rioters (Ghana),,Civilians (Ghana),NPP: New Patriotic Party,Ghana,North East,Mamprusi East,Nalerigu,10.5255,-0.3702,1,National,0,GHA
+GHA1853,2023-08-23,1,Violence against civilians,Attack,Private Security Forces (Ghana),,Civilians (Ghana),Miners (Ghana),Ghana,Western North,Juabeso,Abrokofe,6.3867,-2.8916,1,National,1,GHA
+GHA1856,2023-08-30,2,Riots,Mob violence,Rioters (Ghana),,Rioters (Ghana),,Ghana,Ashanti,Ejisu Juaben,Kokodie,6.7683,-1.3897,1,National,0,GHA
+GHA1857,2023-08-27,2,Riots,Mob violence,Rioters (Ghana),Boti Communal Group (Ghana),Civilians (Ghana),Fulani Ethnic Group (Ghana); Pastoralists (Ghana),Ghana,Eastern,Yilo Krobo,Boti,6.1954,-0.2197,1,National,0,GHA
+GHA1861,2023-08-14,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Central,Mfantsiman,Saltpond,5.203,-1.0574,1,National,0,GHA
+GHA1863,2023-08-16,2,Violence against civilians,Attack,Unidentified Armed Group (Ghana),,Civilians (Ghana),,Ghana,Eastern,Birim North,New Abirem,6.3452,-0.9997,2,National,1,GHA
+GHA1864,2023-08-14,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Upper East,Builsa North,Sandema,10.7347,-1.2836,1,National,0,GHA
+GHA1865,2023-08-11,1,Riots,Mob violence,Rioters (Ghana),,Civilians (Ghana),Health Workers (Ghana),Ghana,Northern,Nanumba North,Bimbilla,8.8592,0.0593,1,National,0,GHA
+GHA1872,2023-09-13,2,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Central,Upper Denkyira West,Diaso,6.1531,-2.153,1,National,0,GHA
+GHA1873,2023-09-12,2,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Western,Prestea-Huni Valley,Prestea,5.433,-2.15,1,National,0,GHA
+GHA1780,2023-05-05,1,Riots,Mob violence,Rioters (Ghana),,Civilians (Ghana),NPP: New Patriotic Party,Ghana,Bono East,Atebubu Amantin,Atebubu,7.7554,-0.9809,1,National,0,GHA
+GHA1880,2023-09-26,2,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Ashanti,Atwima Mponua,Akomfere,6.5521,-2.0685,1,National,1,GHA
+GHA1885,2023-09-28,2,Strategic developments,Change to group/activity,JNIM: Group for Support of Islam and Muslims,,,,Ghana,Upper West,Sissala West,Fatchu,10.9595,-2.3967,1,New media-National,0,GHA
+GHA1901,2023-10-09,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Western,Prestea-Huni Valley,Bogoso,5.5686,-2.0054,1,National,1,GHA
+GHA1935,2023-10-16,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Ghana),,Civilians (Ghana),Kubease Communal Group (Ghana),Ghana,Eastern,Kwahu Afram Plains North,Kubease,7.0923,-0.0033,1,National,0,GHA
+GHA1959,2023-10-26,2,Protests,Peaceful protest,Protesters (Ghana),Students (Ghana),,,Ghana,Northern,Savelugu Nanton,Pong-Tamale,9.6895,-0.829,1,National,0,GHA
+GHA1704,2023-02-25,1,Riots,Mob violence,Rioters (Ghana),,Civilians (Ghana),Women (Ghana),Ghana,Central,Mfantsiman,Mankessim,5.2717,-1.0152,1,National,0,GHA
+GHA1666,2023-01-16,2,Riots,Mob violence,Rioters (Ghana),Buipe Communal Group (Ghana),,,Ghana,Savannah,Gonja Central,Buipe,8.7904,-1.4676,2,National,0,GHA
+GHA1769,2023-05-17,2,Riots,Mob violence,Rioters (Ghana),Students (Ghana),Rioters (Ghana),,Ghana,Ashanti,Atwima Kwanwoma,Sokoban,6.5919,-1.624,1,National,0,GHA
+GHA1697,2023-02-23,2,Battles,Armed clash,Wenchike Communal Militia (Ghana),,Wenchike Communal Militia (Ghana),,Ghana,North East,Chereponi,Chereponi,10.15,0.2833,2,National,4,GHA
+GHA1675,2023-01-25,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),,,Ghana,Ashanti,Atwima Mponua,Krofrom,6.6735,-2.2787,1,National,0,GHA
+GHA1673,2023-01-27,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Ashanti,Atwima Mponua,Krofrom,6.6735,-2.2787,1,National,0,GHA
+GHA1779,2023-05-08,1,Riots,Mob violence,Rioters (Ghana),,,,Ghana,Northern,Karaga,Karaga,9.9267,-0.433,1,National,0,GHA
+GHA2019,2023-11-08,1,Protests,Peaceful protest,Protesters (Ghana),KPC: Kusaug People's Congress,,,Ghana,Upper East,Garu Tempane,Garu,10.8532,-0.1759,1,National,0,GHA
+GHA2021,2023-11-06,2,Protests,Peaceful protest,Protesters (Ghana),Students (Ghana),,,Ghana,Northern,Kpandai,Kpandai,8.4689,-0.0113,1,National,0,GHA
+GHA2038,2023-11-12,2,Protests,Peaceful protest,Protesters (Ghana),NPP: New Patriotic Party,,,Ghana,Ashanti,Adansi North,Adanse Asokwa,6.2459,-1.5072,1,National,0,GHA
+GHA1907,2023-10-16,2,Riots,Mob violence,Rioters (Ghana),,Civilians (Ghana),Women (Ghana); Labor Group (Ghana),Ghana,Eastern,New Juaben,Okorasi,6.0373,-0.26,2,National,1,GHA
+GHA2034,2023-11-08,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Eastern,Birim North,New Abirem,6.3452,-0.9997,1,National,0,GHA
+GHA2035,2023-11-11,1,Riots,Mob violence,Rioters (Ghana),Zongo Communal Group (Ghana); Gariba Communal Group (Ghana),Rioters (Ghana),Zongo Communal Group (Ghana); Ayekotse Communal Group (Ghana),Ghana,Eastern,Suhum,Suhum,6.0409,-0.45,1,National,0,GHA
+GHA2042,2023-11-20,1,Battles,Armed clash,Jaabu Ethnic Militia (Ghana),,Forboru Ethnic Militia (Ghana),,Ghana,North East,Chereponi,Chereponi,10.15,0.2833,2,National,4,GHA
+GHA2043,2023-11-28,2,Riots,Mob violence,Rioters (Ghana),,Civilians (Ghana),Teachers (Ghana); Students (Ghana),Ghana,Eastern,New Juaben,Koforidua,6.0941,-0.2591,1,National,0,GHA
+GHA2047,2023-11-21,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Ashanti,Bosome Freho,Danso,6.3833,-1.3666,1,National,0,GHA
+GHA2055,2023-11-27,2,Violence against civilians,Attack,Unidentified Armed Group (Ghana),,Civilians (Ghana),,Ghana,Ashanti,Mampong,Nkwanta,7.1263,-1.3964,2,National,2,GHA
+GHA2067,2023-12-05,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Upper West,Nadowli-Kaleo,Sombo,10.3114,-2.6895,1,National,0,GHA
+GHA2083,2023-12-31,2,Riots,Mob violence,Rioters (Ghana),Ahamansu Communal Group (Ghana); Yadzo Communal Group (Ghana),,,Ghana,Oti,Kadjebi,Dodi Papase,7.7254,0.508,1,National,0,GHA
+GHA2094,2023-01-10,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Central,Abura-Asebu-Kwamankese,Abura,5.2838,-1.1169,2,National,0,GHA
+GHA2096,2023-12-30,1,Riots,Mob violence,Rioters (Ghana),,Rioters (Ghana),,Ghana,Ashanti,Afigya Kwabre,Kyekyewere,7.1422,-1.6396,1,National,3,GHA
+GHA1822,2023-06-29,2,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Western,Prestea-Huni Valley,Hiawa,5.6218,-2.1644,1,National,0,GHA
+GHA1677,2023-01-30,1,Protests,Peaceful protest,Protesters (Ghana),Taxi Drivers (Ghana),,,Ghana,Central,Assin South,Assin Manso,5.5226,-1.1654,1,National,0,GHA
+GHA2008,2023-11-01,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Ashanti,Atwima Kwanwoma,Twedie,6.6597,-1.7235,2,National,1,GHA
+GHA2059,2023-11-29,1,Riots,Mob violence,Rioters (Ghana),Twedie Communal Group (Ghana),Rioters (Ghana),Foase Communal Group (Ghana),Ghana,Ashanti,Atwima Kwanwoma,Twedie,6.6597,-1.7235,2,National,0,GHA
+GHA2080,2023-12-24,1,Riots,Mob violence,Rioters (Ghana),Atwima Agogo Communal Group (Ghana),Rioters (Ghana),Twedie Communal Group (Ghana),Ghana,Ashanti,Atwima Kwanwoma,Twedie,6.6597,-1.7235,1,National,0,GHA
+GHA1768,2023-05-13,1,Riots,Mob violence,Rioters (Ghana),NDC: National Democratic Congress (Ghana),Rioters (Ghana),NDC: National Democratic Congress (Ghana),Ghana,Eastern,Atiwa,Adasawase,6.4093,-0.5166,1,National,0,GHA
+GHA2036,2023-11-15,2,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Ashanti,Kumasi,Deduako,6.6574,-1.5458,1,National,1,GHA
+GHA1654,2023-01-01,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,North East,Mamprusi West,Sayoo,10.3859,-0.7951,1,National,2,GHA
+GHA1806,2023-06-16,2,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),Labor Group (Ghana),Ghana,Central,Cape Coast,Cape Coast,5.1075,-1.2431,1,National,1,GHA
+GHA1823,2023-07-10,1,Riots,Violent demonstration,Rioters (Ghana),GPRTU: Ghana Private Road Transport Union; Labor Group (Ghana),,,Ghana,Western,Wassa Amenfi East,Bawdie,5.6355,-2.0961,2,National,0,GHA
+GHA1848,2023-08-13,1,Strategic developments,Other,JNIM: Group for Support of Islam and Muslims,,,,Ghana,Upper East,Bawku,Bado,11.1442,-0.2398,1,Local partner-Other,0,GHA
+GHA2020,2023-10-03,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Central,Cape Coast,Cape Coast,5.1075,-1.2431,2,National,1,GHA
+GHA2039,2023-11-14,1,Protests,Peaceful protest,Protesters (Ghana),Students (Ghana),,,Ghana,Western,Wassa Amenfi East,Asikuma,5.9006,-1.8342,1,National,0,GHA
+GHA2057,2023-11-29,2,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Nigeria),,Ghana,Central,Gomoa West,Gomoa,5.4312,-0.754,2,National,1,GHA
+GHA2072,2023-12-12,2,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Western,Wassa Amenfi East,Oforikrom,5.817,-1.883,1,National,0,GHA
+GHA2095,2023-01-08,2,Riots,Mob violence,Rioters (Ghana),,Civilians (Ghana),Pastoralists (Ghana),Ghana,Oti,Krachi West,Krachi,7.8,0.0167,2,National,0,GHA
+GHA2078,2023-12-21,2,Riots,Mob violence,Rioters (Ghana),,Rioters (Ghana),,Ghana,Ashanti,Kumasi,Kumasi,6.6936,-1.6218,1,National,0,GHA
+GHA2068,2023-12-01,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Rioters (Ghana),,Ghana,Bono,Berekum,Berekum,7.45,-2.5833,2,National,1,GHA
+GHA2049,2023-11-23,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Ashanti,Kumasi,Kumasi,6.6936,-1.6218,1,National,1,GHA
+GHA2050,2023-11-23,2,Protests,Peaceful protest,Protesters (Ghana),Students (Ghana); Teachers (Ghana),,,Ghana,Ashanti,Kumasi,Kumasi,6.6936,-1.6218,1,National,0,GHA
+GHA1938,2023-10-19,1,Riots,Mob violence,Rioters (Ghana),,,,Ghana,Ashanti,Kumasi,Kumasi,6.6936,-1.6218,2,National,0,GHA
+GHA1870,2023-08-19,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Ashanti,Kumasi,Kumasi,6.6936,-1.6218,1,National,1,GHA
+GHA1844,2023-08-02,1,Protests,Peaceful protest,Protesters (Ghana),Labor Group (Ghana),,,Ghana,Ashanti,Kumasi,Kumasi,6.6936,-1.6218,1,National,0,GHA
+GHA1820,2023-07-13,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Bono,Berekum,Berekum,7.45,-2.5833,1,National,2,GHA
+GHA1784,2023-05-17,1,Riots,Mob violence,Rioters (Ghana),Students (Ghana),,,Ghana,Ashanti,Kumasi,Kumasi,6.6936,-1.6218,1,National,0,GHA
+GHA1730,2023-03-28,1,Protests,Peaceful protest,Protesters (Ghana),Labor Group (Ghana),,,Ghana,Ashanti,Kumasi,Kumasi,6.6936,-1.6218,1,National,0,GHA
+GHA1678,2023-01-26,2,Riots,Violent demonstration,Rioters (Ghana),NDC: National Democratic Congress (Ghana),,,Ghana,Ashanti,Kumasi,Kumasi,6.6936,-1.6218,1,National,0,GHA
+GHA2093,2023-01-08,2,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Central,Abura-Asebu-Kwamankese,Asuansi,5.2951,-1.2571,1,National,0,GHA
+GHA1777,2023-05-06,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Central,Gomoa East,Kasoa,5.5345,-0.4168,2,National,1,GHA
+GHA1960,2023-10-27,2,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Bono,Jaman North,Sampa,7.9472,-2.6949,2,National,1,GHA
+GHA2063,2023-11-30,1,Violence against civilians,Attack,Unidentified Armed Group (Ghana),,Civilians (Ghana),,Ghana,Bono,Jaman North,Sampa,7.9472,-2.6949,1,National,1,GHA
+GHA1745,2023-04-08,2,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Greater Accra,Ga South,Mallam,5.5712,-0.2928,1,National,0,GHA
+GHA1739,2023-04-07,2,Violence against civilians,Attack,Fulani Ethnic Militia (Ghana),Pastoralists (Ghana),Civilians (Ghana),,Ghana,Upper East,Bongo,Bongo,10.909,-0.8075,2,National,0,GHA
+GHA1719,2023-03-16,2,Violence against civilians,Attack,Unidentified Armed Group (Ghana),,Civilians (Ghana),Christian Group (Ghana),Ghana,Oti,Nkwanta South,Bonakye,8.4005,0.4076,1,National,1,GHA
+GHA1760,2023-04-15,1,Protests,Peaceful protest,Protesters (Ghana),Labor Group (Ghana); Women (Ghana),,,Ghana,Volta,Ho,Ho,6.6008,0.4713,1,National,0,GHA
+GHA2022,2023-11-09,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Volta,Ho,Ho,6.6008,0.4713,1,National,0,GHA
+GHA2066,2023-12-05,1,Violence against civilians,Attack,Unidentified Armed Group (Ghana),,Civilians (Ghana),,Ghana,Upper East,Nabdam,Nangodi,10.8602,-0.6667,1,National,2,GHA
+GHA1770,2023-05-14,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Western,Ahanta West,Beaho,4.8938,-1.8418,1,National,2,GHA
+GHA1875,2023-09-19,2,Protests,Peaceful protest,Protesters (Ghana),Students (Ghana),,,Ghana,Western,Sekondi Takoradi,Takoradi,4.9149,-1.7776,2,National,0,GHA
+GHA1754,2023-04-04,1,Riots,Mob violence,Rioters (Ghana),,Civilians (Ghana),,Ghana,Eastern,Akwapem North,Akropong,5.9705,-0.0892,1,National,0,GHA
+GHA1845,2023-06-20,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Greater Accra,Shai Osudoku,Dodowa,5.8811,-0.0987,1,National,0,GHA
+GHA1855,2023-08-30,2,Riots,Mob violence,Rioters (Ghana),,Civilians (Ghana),Christian Group (Ghana),Ghana,Eastern,Akwapem North,Bewasi,5.9773,-0.154,1,National,0,GHA
+GHA1743,2023-04-09,1,Riots,Mob violence,Rioters (Ghana),Gudaayiri Communal Group (Ghana),Rioters (Ghana),Viiseh Communal Group (Ghana),Ghana,Upper West,Wa West,Guo,10.0628,-2.6083,2,National,4,GHA
+GHA1839,2023-07-29,2,Riots,Mob violence,Rioters (Ghana),,Civilians (Ghana),,Ghana,Bono,Sunyani,Sunyani,7.3333,-2.3333,1,National,0,GHA
+GHA1869,2023-08-13,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Ashanti,Kwabre East,Mamponteng,6.7333,-1.55,1,National,0,GHA
+GHA1879,2023-09-23,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Central,Agona East,Bontrase,5.6044,-0.5552,1,National,1,GHA
+GHA1881,2023-09-26,2,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Central,Ewutu Senya,Awutu Bereku,5.5126,-0.5127,2,National,1,GHA
+GHA1695,2023-02-17,2,Riots,Mob violence,Rioters (Ghana),,Rioters (Ghana),Miners (Ghana),Ghana,Ashanti,Amansie West,Adubia,6.4019,-1.9356,2,National,0,GHA
+GHA1876,2023-09-21,1,Violence against civilians,Attack,Unidentified Armed Group (Ghana),,Civilians (Ghana),,Ghana,Upper East,Pusiga,Pusiga,11.0846,-0.1279,1,National-International,9,GHA
+GHA1998,2023-10-25,1,Violence against civilians,Attack,Adome Communal Militia (Ghana),,Civilians (Ghana),,Ghana,Eastern,Asuogyaman,Adome,6.2386,0.11,1,National,1,GHA
+GHA1767,2023-05-11,1,Riots,Mob violence,Rioters (Ghana),Miners (Ghana),Civilians (Ghana),,Ghana,Ahafo,Asunafo North,Goaso,6.8036,-2.5172,2,National,0,GHA
+GHA1800,2023-05-30,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Greater Accra,Ledzokuku,Teshi,5.5837,-0.1072,1,National,0,GHA
+GHA1838,2023-07-27,1,Violence against civilians,Attack,Unidentified Communal Militia (Ghana),,Civilians (Ghana),,Ghana,Greater Accra,Ledzokuku,Teshi,5.5837,-0.1072,1,National,0,GHA
+GHA2015,2023-10-27,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Western,Sekondi Takoradi,Sekondi-Takoradi,4.9354,-1.7274,1,National,0,GHA
+GHA1847,2023-08-02,1,Riots,Violent demonstration,Rioters (Ghana),,,,Ghana,Greater Accra,Shai Osudoku,Dodowa,5.8811,-0.0987,1,National,0,GHA
+GHA1819,2023-07-09,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Bono East,Kintampo South,Apaaso,8.0177,-1.7323,1,National,1,GHA
+GHA1939,2023-10-20,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Central,Gomoa East,Kasoa,5.5345,-0.4168,1,National,0,GHA
+GHA1659,2023-01-15,1,Riots,Mob violence,Rioters (Ghana),Jamestown Communal Group (Ghana),,,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA1676,2023-02-03,2,Protests,Peaceful protest,Protesters (Ghana),Students (Ghana),,,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA1755,2023-04-14,1,Riots,Mob violence,Rioters (Ghana),,Civilians (Ghana),Teachers (Ghana),Ghana,Ashanti,Amansie Central,Odumase,6.3167,-1.6333,1,National,0,GHA
+GHA1764,2023-04-25,1,Protests,Peaceful protest,Protesters (Ghana),Health Workers (Ghana),,,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA1765,2023-04-25,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Greater Accra,La Dade Kotopon,La,5.5602,-0.1576,1,National,0,GHA
+GHA1772,2023-05-16,1,Protests,Peaceful protest,Protesters (Ghana),Labor Group (Ghana),,,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA1782,2023-05-05,2,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA1783,2023-05-04,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA1789,2023-05-25,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,Subnational,0,GHA
+GHA1808,2023-06-27,2,Violence against civilians,Attack,Unidentified Armed Group (Ghana),,Civilians (Ghana),NDC: National Democratic Congress (Ghana),Ghana,Central,Assin North,Assin Praso,5.931,-1.3671,1,National,0,GHA
+GHA1815,2023-07-04,1,Protests,Peaceful protest,Protesters (Ghana),Labor Group (Ghana),,,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA1832,2023-07-19,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Greater Accra,Accra,Osu,5.5572,-0.1864,1,National,0,GHA
+GHA1868,2023-08-22,2,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Western,Jomoro,Half Assini,5.05,-2.8833,2,National,0,GHA
+GHA1877,2023-09-22,1,Protests,Peaceful protest,Protesters (Ghana),#FixTheCountry; Democracy Hub,,,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA1878,2023-09-20,1,Riots,Violent demonstration,Rioters (Ghana),,,,Ghana,Greater Accra,Ga West,Ofako,5.6561,-0.2686,1,National,0,GHA
+GHA1884,2023-09-23,1,Riots,Violent demonstration,Rioters (Ghana),#FixTheCountry; Democracy Hub,,,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,Subnational-National,0,GHA
+GHA1886,2023-10-04,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Ashanti,Atwima Nwabiagya,Koforidua,6.7267,-1.7277,1,National,1,GHA
+GHA1888,2023-10-04,2,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA1900,2023-10-07,1,Riots,Mob violence,Rioters (Ghana),NPP: New Patriotic Party,Civilians (Ghana),Journalists (Ghana),Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA1936,2023-10-13,1,Riots,Mob violence,Rioters (Ghana),NDC: National Democratic Congress (Ghana),Civilians (Ghana),Journalists (Ghana),Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA2051,2023-11-23,1,Protests,Peaceful protest,Protesters (Ghana),NDC: National Democratic Congress (Ghana),,,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA2052,2023-11-24,2,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA2058,2023-11-28,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA2061,2023-11-29,2,Riots,Violent demonstration,Rioters (Ghana),NDC: National Democratic Congress (Ghana),Civilians (Ghana),NDC: National Democratic Congress (Ghana),Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA2071,2023-12-07,2,Protests,Peaceful protest,Protesters (Ghana),Labor Group (Ghana); Street Traders (Ghana),,,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA2074,2023-12-11,2,Protests,Peaceful protest,Protesters (Ghana),The New Force,,,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA2079,2023-12-19,2,Protests,Peaceful protest,Protesters (Ghana),Labor Group (Ghana); Women (Ghana),,,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA2598,2023-07-20,2,Protests,Peaceful protest,Protesters (Ghana),NPP: New Patriotic Party,,,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA2599,2023-08-11,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Northern,Nanumba North,Bimbilla,8.8592,0.0593,1,National,0,GHA
+GHA2614,2023-07-26,1,Riots,Mob violence,Rioters (Ghana),,Rioters (Ghana),,Ghana,Western,Ahanta West,Busua,4.8066,-1.9388,1,National,0,GHA
+GHA2624,2023-08-03,1,Protests,Peaceful protest,Protesters (Ghana),Labor Group (Ghana),,,Ghana,Western,Jomoro,Half Assini,5.05,-2.8833,2,National,0,GHA
+GHA2625,2023-09-15,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Ashanti,Amansie Central,Kyebi,6.3171,-1.6128,1,National,0,GHA
+GHA2627,2023-10-06,2,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Greater Accra,Ga West,Samsam Odumase,5.7752,-0.2887,1,National,0,GHA
+GHA2628,2023-10-10,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA2629,2023-10-11,2,Protests,Peaceful protest,Protesters (Ghana),Journalists (Ghana); Labor Group (Ghana),,,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA2630,2023-10-13,1,Riots,Mob violence,Rioters (Ghana),NDC: National Democratic Congress (Ghana),Rioters (Ghana),NDC: National Democratic Congress (Ghana),Ghana,Greater Accra,Accra,South La Estate,5.5541,-0.1634,1,National,0,GHA
+GHA2631,2023-10-19,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA2632,2023-11-07,2,Protests,Peaceful protest,Protesters (Ghana),Students (Ghana),,,Ghana,Northern,Yendi,Yendi,9.4333,0.0167,1,National,0,GHA
+GHA2633,2023-11-14,2,Riots,Mob violence,Rioters (Ghana),NPP: New Patriotic Party,Rioters (Ghana),NPP: New Patriotic Party,Ghana,Greater Accra,Ledzokuku,Teshi,5.5837,-0.1072,1,National,0,GHA
+GHA2634,2023-11-18,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,North East,Chereponi,Chereponi,10.15,0.2833,1,National,0,GHA
+GHA2635,2023-11-20,2,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Greater Accra,Ga West,Samsam Odumase,5.7752,-0.2887,2,National,0,GHA
+GHA2636,2023-12-08,2,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Western,Wassa Amenfi East,Oforikrom,5.817,-1.883,1,National,0,GHA
+GHA2637,2023-12-22,2,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Ashanti,Adansi North,Adanse Asokwa,6.2459,-1.5072,3,National,0,GHA
+GHA2655,2023-09-15,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Eastern,Suhum,Suhum,6.0409,-0.45,1,National,0,GHA
+GHA2656,2023-12-15,2,Protests,Peaceful protest,Protesters (Ghana),Teachers (Ghana),,,Ghana,Northern,Tamale,Tamale,9.4008,-0.8393,3,National,0,GHA
+GHA2658,2023-09-17,1,Violence against civilians,Attack,NPP: New Patriotic Party,,Civilians (Ghana),NDC: National Democratic Congress (Ghana),Ghana,Greater Accra,Ga West,Achimota,5.6167,-0.2333,1,Subnational-National,0,GHA
+GHA2673,2023-07-12,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),Students (Ghana),Ghana,Eastern,New Juaben,Koforidua,6.0941,-0.2591,1,National,1,GHA
+GHA2674,2023-07-13,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Central,Assin North,Assin Bereku,5.8678,-1.3389,1,National,2,GHA
+GHA2676,2023-07-15,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Central,Assin South,Adiembra,5.6796,-1.2949,1,National,0,GHA
+GHA2677,2023-07-15,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Central,Assin North,Dansame,5.8989,-1.3438,1,National,0,GHA
+GHA2678,2023-07-18,1,Protests,Peaceful protest,Protesters (Ghana),Christian Group (Ghana),,,Ghana,Central,Komenda-Edina-Eguafo-Abirem,Komenda,5.0507,-1.4899,1,National,0,GHA
+GHA2679,2023-07-23,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Eastern,Asuogyaman,Anum,6.4934,0.1506,1,National,0,GHA
+GHA2680,2023-07-25,2,Protests,Peaceful protest,Protesters (Ghana),NPP: New Patriotic Party,,,Ghana,Bono East,Atebubu Amantin,Atebubu,7.7554,-0.9809,1,National,0,GHA
+GHA2681,2023-07-27,1,Riots,Mob violence,Rioters (Ghana),Students (Ghana); Vigilante Group (Ghana),Civilians (Ghana),Students (Ghana),Ghana,Bono,Sunyani,Sunyani,7.3333,-2.3333,1,National,0,GHA
+GHA2682,2023-08-09,1,Riots,Mob violence,Rioters (Ghana),NDC: National Democratic Congress (Ghana),Rioters (Ghana),NPP: New Patriotic Party,Ghana,Bono East,Techiman North,Tuobodom,7.6401,-1.9052,1,National,0,GHA
+GHA2683,2023-08-12,2,Riots,Mob violence,Rioters (Ghana),,Civilians (Ghana),LGBTQ+ (Ghana),Ghana,Western North,Sefwi Bibiani-Ahwiaso Bekwai,Bibiani,6.4667,-2.3333,1,National,0,GHA
+GHA2685,2023-08-21,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Western,Jomoro,Ekpu,5.0462,-2.866,2,National,0,GHA
+GHA2686,2023-08-29,2,Riots,Mob violence,Rioters (Ghana),,Civilians (Ghana),LGBTQ+ (Ghana); Teachers (Ghana),Ghana,Western,Prestea-Huni Valley,Prestea,5.433,-2.15,1,National,0,GHA
+GHA2687,2023-08-29,1,Protests,Peaceful protest,Protesters (Ghana),Labor Group (Ghana),,,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA2688,2023-09-16,1,Violence against civilians,Sexual violence,Galamseyers,Miners (Ghana),Civilians (Ghana),Women (Ghana),Ghana,Ashanti,Bekwai,Anwiankwanta,6.4667,-1.6333,1,National,1,GHA
+GHA2695,2023-10-22,1,Riots,Mob violence,Rioters (Ghana),Students (Ghana),Rioters (Ghana),Students (Ghana),Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA2696,2023-10-23,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Ashanti,Obuasi,Akrofuom,6.119,-1.6531,1,National,0,GHA
+GHA2697,2023-10-18,1,Violence against civilians,Attack,Galamseyers,Miners (Ghana),Civilians (Ghana),Miners (Ghana),Ghana,Eastern,Atiwa,Asamam Tamfoe,6.3679,-0.5284,1,National,0,GHA
+GHA2698,2023-10-26,2,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Ashanti,Offinso,Offinso,6.9048,-1.6558,1,National,0,GHA
+GHA2699,2023-11-15,1,Protests,Peaceful protest,Protesters (Ghana),Women (Ghana),,,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA2701,2023-12-05,1,Protests,Peaceful protest,Protesters (Ghana),Women (Ghana),,,Ghana,Northern,Tamale,Tamale,9.4008,-0.8393,3,National,0,GHA
+GHA2703,2023-12-15,2,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Eastern,Kwahu West,Nkawkaw,6.5528,-0.7698,1,National,0,GHA
+GHA2705,2023-08-25,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Northern,Saboba,Saboba,9.7074,0.3184,1,National,0,GHA
+GHA2715,2023-07-06,2,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Ashanti,Bekwai,Adokwai,6.3701,-1.4956,1,National,0,GHA
+GHA2716,2023-08-14,1,Protests,Peaceful protest,Protesters (Ghana),Taxi Drivers (Ghana),,,Ghana,Greater Accra,Kpone Katamanso,Kpone,5.6897,0.057,2,Subnational,0,GHA
+GHA2717,2023-08-18,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),Women (Ghana),Ghana,North East,Bunkpurugu Yonyo,Bumbuna,10.4553,0.0655,1,National,1,GHA
+GHA2718,2023-09-03,2,Riots,Mob violence,Rioters (Ghana),,Rioters (Ghana),,Ghana,Central,Ewutu Senya,Awutu Bereku,5.5126,-0.5127,1,National,0,GHA
+GHA2719,2023-12-20,2,Riots,Mob violence,Rioters (Ghana),NDC: National Democratic Congress (Ghana),Rioters (Ghana),NPP: New Patriotic Party; Unidentified Armed Group (Ghana),Ghana,Central,Gomoa East,Kasoa,5.5345,-0.4168,1,National,0,GHA
+GHA2720,2023-12-20,2,Protests,Peaceful protest,Protesters (Ghana),NDC: National Democratic Congress (Ghana),,,Ghana,Central,Gomoa East,Kasoa,5.5345,-0.4168,1,National,0,GHA
+GHA1732,2023-03-14,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),Women (Ghana),Ghana,Central,Gomoa East,Nyanyano,5.4695,-0.4087,1,National,0,GHA
+GHA1766,2023-05-15,2,Violence against civilians,Attack,Bortianor Communal Militia (Ghana),,Civilians (Ghana),Bortianor Communal Group (Ghana),Ghana,Greater Accra,Ga South,Bortianor,5.5118,-0.3346,1,National,1,GHA
+GHA2002,2023-10-27,1,Riots,Mob violence,Rioters (Ghana),Adele Ethnic Group (Ghana); Chala Ethnic Group (Ghana),Rioters (Ghana),Akyode Ethnic Group (Ghana),Ghana,Oti,Nkwanta South,Nkwanta,8.2588,0.5205,1,National,1,GHA
+GHA2040,2023-11-21,1,Violence against civilians,Attack,Unidentified Armed Group (Ghana),,Civilians (Ghana),,Ghana,Oti,Nkwanta South,Nkwanta,8.2588,0.5205,1,National,8,GHA
+GHA2622,2023-12-31,1,Violence against civilians,Attack,Unidentified Armed Group (Ghana),,Civilians (Ghana),,Ghana,Oti,Nkwanta South,Odomi,8.3199,0.5378,1,National,1,GHA
+GHA2638,2023-12-29,1,Violence against civilians,Attack,Unidentified Ethnic Militia (Ghana),,Civilians (Ghana),Farmers (Ghana); Teachers (Ghana); Unidentified Ethnic Group (Ghana),Ghana,Oti,Nkwanta South,Odomi,8.3199,0.5378,1,National,0,GHA
+GHA2048,2023-11-21,1,Strategic developments,Looting/property destruction,Land Guards,,Civilians (Ghana),Labor Group (Ghana),Ghana,Ashanti,Kumasi,Kumasi,6.6936,-1.6218,1,National,0,GHA
+GHA1740,2023-04-11,1,Violence against civilians,Attack,Land Guards,,Civilians (Ghana),Labor Group (Ghana),Ghana,Central,Gomoa East,Kasoa,5.5345,-0.4168,1,National,0,GHA
+GHA2626,2023-09-20,1,Violence against civilians,Attack,Land Guards,,Civilians (Ghana),Labor Group (Ghana),Ghana,Greater Accra,Ga West,Ofankor,5.6634,-0.2653,1,National,1,GHA
+GHA1792,2023-05-30,1,Violence against civilians,Attack,Land Guards,,Civilians (Ghana),,Ghana,Central,Gomoa East,Okyereko,5.4141,-0.605,1,National,0,GHA
+GHA2702,2023-12-01,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Land Guards,,Ghana,Central,Upper Denkyira East,Dunkwa,5.961,-1.7826,2,National,1,GHA
+GHA1825,2023-07-18,1,Riots,Mob violence,Rioters (Ghana),Labor Group (Ghana),Land Guards,,Ghana,Ashanti,Kumasi,Akwatia-Line,6.699,-1.6082,1,National,0,GHA
+GHA2018,2023-11-06,1,Riots,Mob violence,Rioters (Ghana),,Land Guards,,Ghana,Greater Accra,Ada West,Toflokpo,5.8583,0.4221,1,National,0,GHA
+GHA1689,2023-02-09,1,Violence against civilians,Attack,Unidentified Communal Militia (Ghana),,Civilians (Ghana),Nyankpala Communal Group (Ghana),Ghana,Northern,Tolon,Nyankpala,9.4004,-0.9814,1,National,0,GHA
+GHA1690,2023-02-12,1,Violence against civilians,Attack,Unidentified Communal Militia (Ghana),,Civilians (Ghana),Nyankpala Communal Group (Ghana),Ghana,Northern,Tolon,Nyankpala,9.4004,-0.9814,1,National,0,GHA
+GHA2700,2023-11-21,2,Violence against civilians,Attack,Unidentified Communal Militia (Ghana),,Civilians (Ghana),,Ghana,Oti,Krachi East,Dambai,8.0676,0.1795,3,National,3,GHA
+GHA1741,2023-04-06,1,Violence against civilians,Attack,Unidentified Communal Militia (Ghana),,Civilians (Ghana),Karaga Communal Group (Ghana),Ghana,Northern,Karaga,Karaga,9.9267,-0.433,1,National,1,GHA
+GHA2692,2023-09-19,2,Riots,Mob violence,Rioters (Ghana),NPP: New Patriotic Party,Rioters (Ghana),NDC: National Democratic Congress (Ghana),Ghana,Central,Agona West,Swedru,5.5371,-0.6998,2,National,0,GHA
+GHA1696,2023-02-20,1,Riots,Violent demonstration,Rioters (Ghana),Walewale Communal Group (Ghana),,,Ghana,North East,Mamprusi West,Walewale,10.3511,-0.801,1,National,0,GHA
+GHA1711,2023-03-06,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,North East,Mamprusi West,Walewale,10.3511,-0.801,1,National,0,GHA
+GHA1737,2023-04-01,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,North East,Mamprusi West,Walewale,10.3511,-0.801,1,National,1,GHA
+GHA1828,2023-07-21,1,Violence against civilians,Attack,Unidentified Communal Militia (Ghana),,Civilians (Ghana),,Ghana,North East,Mamprusi West,Walewale,10.3511,-0.801,1,National,1,GHA
+GHA1859,2023-08-12,1,Violence against civilians,Attack,Unidentified Communal Militia (Ghana),,Civilians (Ghana),Labor Group (Ghana),Ghana,North East,Mamprusi West,Gbimsi,10.395,-0.7843,1,National,0,GHA
+GHA1661,2023-01-20,2,Violence against civilians,Attack,Police Forces of Ghana (2017-2025),,Civilians (Ghana),,Ghana,Central,Mfantsiman,Anyinabrim,5.25,-1.1666,1,National,0,GHA
+GHA1664,2023-01-20,2,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Police Forces of Ghana (2017-2025),,Ghana,Central,Mfantsiman,Anyinabrim,5.25,-1.1666,1,National,0,GHA
+GHA1665,2023-01-16,2,Protests,Excessive force against protesters,Protesters (Ghana),,Police Forces of Ghana (2017-2025),,Ghana,Savannah,Gonja Central,Buipe,8.7904,-1.4676,1,National,0,GHA
+GHA1670,2023-01-22,2,Strategic developments,Arrests,Police Forces of Ghana (2017-2025),,Civilians (Ghana),Students (Ghana),Ghana,Eastern,New Juaben,Asokori,6.1158,-0.272,1,National,0,GHA
+GHA1672,2023-01-30,1,Violence against civilians,Attack,Police Forces of Ghana (2017-2025),,Civilians (Ghana),Labor Group (Ghana),Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,1,GHA
+GHA1679,2023-01-22,1,Riots,Violent demonstration,Rioters (Ghana),Students (Ghana),Police Forces of Ghana (2017-2025),,Ghana,Eastern,New Juaben,Asokori,6.1158,-0.272,1,National,0,GHA
+GHA1680,2023-02-06,1,Riots,Mob violence,Rioters (Ghana),Miners (Ghana),Military Forces of Ghana (2017-2025),,Ghana,Western North,Sefwi Bibiani-Ahwiaso Bekwai,Bibiani,6.4667,-2.3333,1,National,0,GHA
+GHA1682,2023-02-06,2,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),Police Forces of Ghana (2017-2025),Ghana,Central,Gomoa East,Kasoa,5.5345,-0.4168,1,National,0,GHA
+GHA1684,2023-02-04,1,Protests,Peaceful protest,Protesters (Ghana),Government of Ghana (2017-2025); Mpataba Communal Group (Ghana),,,Ghana,Western,Jomoro,Mpataba,5.0977,-2.5884,1,National,0,GHA
+GHA1687,2023-02-14,1,Riots,Mob violence,Rioters (Ghana),Students (Ghana),Police Forces of Ghana (2017-2025),,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA1692,2023-02-13,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),Police Forces of Ghana (2017-2025),Ghana,Central,Gomoa East,Gomoa Akwamu,5.5185,-0.7457,1,National,0,GHA
+GHA1701,2023-02-19,1,Riots,Mob violence,Rioters (Ghana),Nalerigu Communal Group (Ghana),Police Forces of Ghana (2017-2025),,Ghana,North East,Mamprusi East,Nalerigu,10.5255,-0.3702,1,National,0,GHA
+GHA1706,2023-03-09,1,Violence against civilians,Attack,Military Forces of Ghana (2017-2025),,Civilians (Ghana),,Ghana,Central,Gomoa East,Ngleshie-Amanfro,5.5397,-0.3969,1,National,0,GHA
+GHA1708,2023-03-08,1,Violence against civilians,Attack,Police Forces of Ghana (2017-2025),,Civilians (Ghana),,Ghana,Upper West,Wa,Wa,10.0607,-2.5019,1,National,1,GHA
+GHA1722,2023-03-16,2,Riots,Mob violence,Rioters (Ghana),Miners (Ghana),Police Forces of Ghana (2017-2025),,Ghana,Western,Tarkwa Nsuaem,Benso,5.1603,-1.8937,1,National,1,GHA
+GHA1725,2023-03-17,1,Strategic developments,Arrests,Police Forces of Ghana (2017-2025),,Civilians (Ghana),,Ghana,Western,Tarkwa Nsuaem,Benso,5.1603,-1.8937,1,National,0,GHA
+GHA1728,2023-03-17,1,Battles,Armed clash,Police Forces of Ghana (2017-2025),,Military Forces of Ghana (2017-2025),,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,Subnational,0,GHA
+GHA1736,2023-04-03,1,Riots,Mob violence,Rioters (Ghana),NDC: National Democratic Congress (Ghana),Police Forces of Ghana (2017-2025),,Ghana,Northern,Tamale,Tamale,9.4008,-0.8393,1,National,0,GHA
+GHA1738,2023-04-06,2,Riots,Mob violence,Rioters (Ghana),,Police Forces of Ghana (2017-2025) Community Policing Assistants,,Ghana,Ashanti,Kumasi,Kumasi,6.6936,-1.6218,1,National,0,GHA
+GHA1744,2023-04-12,2,Riots,Violent demonstration,Rioters (Ghana),Taxi Drivers (Ghana),Police Forces of Ghana (2017-2025),,Ghana,Western North,Sefwi Bibiani-Ahwiaso Bekwai,Sefwi Bekwai,6.1946,-2.3226,1,National,0,GHA
+GHA1749,2023-04-08,2,Riots,Mob violence,Rioters (Ghana),,Police Forces of Ghana (2017-2025),,Ghana,Ashanti,Sekyere East,Effiduase,6.8468,-1.3961,1,National,0,GHA
+GHA1750,2023-04-07,1,Riots,Mob violence,Rioters (Ghana),,Police Forces of Ghana (2017-2025),,Ghana,Ashanti,Sekyere Kumawu,Kumawu,6.9167,-1.2833,1,National,0,GHA
+GHA1757,2023-04-15,1,Protests,Protest with intervention,Protesters (Ghana),Kukurantumi Communal Group (Ghana),Police Forces of Ghana (2017-2025),,Ghana,Eastern,East Akim,Kukurantumi,6.1883,-0.3655,1,National,0,GHA
+GHA1759,2023-04-14,1,Riots,Mob violence,Rioters (Ghana),Labor Group (Ghana),Police Forces of Ghana (2017-2025),,Ghana,Eastern,Atiwa,Adasawase,6.4093,-0.5166,2,National,0,GHA
+GHA1761,2023-04-22,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),Police Forces of Ghana (2017-2025),Ghana,Central,Abura-Asebu-Kwamankese,Abura-Dunkwa,5.3405,-1.1703,1,National,0,GHA
+GHA1762,2023-04-22,1,Riots,Mob violence,Rioters (Ghana),Kukurantumi Communal Group (Ghana),Police Forces of Ghana (2017-2025),,Ghana,Eastern,East Akim,Kukurantumi,6.1883,-0.3655,1,National,0,GHA
+GHA1771,2023-05-13,2,Riots,Mob violence,Rioters (Ghana),,Police Forces of Ghana (2017-2025),,Ghana,Greater Accra,Ningo Prampram,Prampram,5.7152,0.1049,1,National,0,GHA
+GHA1785,2023-05-24,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),Police Forces of Ghana (2017-2025),Ghana,Volta,Akatsi South,Akatsi,6.1167,0.8,1,National,0,GHA
+GHA1787,2023-05-20,1,Riots,Mob violence,Rioters (Ghana),,Police Forces of Ghana (2017-2025) Ghana Immigration Service,,Ghana,Volta,Ketu South,Aflao,6.1198,1.1901,1,National,0,GHA
+GHA1795,2023-06-06,2,Riots,Mob violence,Rioters (Ghana),Government of Ghana (2017-2025),Civilians (Ghana),NPP: New Patriotic Party,Ghana,Volta,Ho,Ho,6.6008,0.4713,1,National,0,GHA
+GHA1797,2023-05-30,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),Police Forces of Ghana (2017-2025),Ghana,Ashanti,Kumasi,Kumasi,6.6936,-1.6218,1,National,0,GHA
+GHA1799,2023-06-08,2,Protests,Peaceful protest,Protesters (Ghana),Government of Ghana (2017-2025),,,Ghana,Volta,Ho,Ho,6.6008,0.4713,1,National,0,GHA
+GHA1802,2023-06-10,2,Battles,Armed clash,Police Forces of Ghana (2017-2025),,Land Guards,,Ghana,Greater Accra,Ga South,Tuba,5.5156,-0.3817,1,National,9,GHA
+GHA1803,2023-05-11,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Police Forces of Ghana (2017-2025) Ghana Immigration Service,,Ghana,Bono,Dormaa West,Nkrankwanta,7.0222,-3.0454,1,National,0,GHA
+GHA1807,2023-06-21,2,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Police Forces of Ghana (2017-2025),,Ghana,Eastern,Yilo Krobo,Nkurakan,6.1256,-0.2123,1,National,0,GHA
+GHA1817,2023-07-04,2,Riots,Violent demonstration,Rioters (Ghana),GPRTU: Ghana Private Road Transport Union; Labor Group (Ghana),Police Forces of Ghana (2017-2025),,Ghana,Western,Shama,Nyankrom,4.9976,-1.663,1,National,0,GHA
+GHA1826,2023-07-20,1,Violence against civilians,Attack,Police Forces of Ghana (2017-2025),,Civilians (Ghana),Farmers (Ghana),Ghana,Eastern,Yilo Krobo,Boti,6.1954,-0.2197,1,National,0,GHA
+GHA1827,2023-07-20,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Police Forces of Ghana (2017-2025),,Ghana,Eastern,Yilo Krobo,Nkurakan,6.1256,-0.2123,1,National,0,GHA
+GHA1830,2023-07-19,2,Riots,Mob violence,Rioters (Ghana),Labor Group (Ghana),Police Forces of Ghana (2017-2025),,Ghana,Central,Gomoa East,Ojobi,5.483,-0.535,1,National,0,GHA
+GHA1834,2023-07-23,1,Riots,Mob violence,Rioters (Ghana),,Police Forces of Ghana (2017-2025),,Ghana,Eastern,Atiwa,Adasawase,6.4093,-0.5166,1,National,0,GHA
+GHA1835,2023-07-23,2,Violence against civilians,Attack,Police Forces of Ghana (2017-2025),,Civilians (Ghana),,Ghana,Eastern,Atiwa,Adasawase,6.4093,-0.5166,1,National,1,GHA
+GHA1841,2023-08-01,1,Riots,Mob violence,Rioters (Ghana),Taxi Drivers (Ghana),Police Forces of Ghana (2017-2025) Metropolitan City Guards,,Ghana,Ashanti,Kumasi,Kumasi,6.6936,-1.6218,1,National,0,GHA
+GHA1851,2023-08-30,1,Riots,Mob violence,Rioters (Ghana),,Police Forces of Ghana (2017-2025),,Ghana,Volta,Hohoe,Hohoe,7.1518,0.4736,2,National,2,GHA
+GHA1852,2023-08-28,1,Riots,Violent demonstration,Rioters (Ghana),,Police Forces of Ghana (2017-2025),,Ghana,Northern,Tamale,Tamale,9.4008,-0.8393,1,National,0,GHA
+GHA1858,2023-08-07,1,Riots,Violent demonstration,Rioters (Ghana),Taxi Drivers (Ghana),Police Forces of Ghana (2017-2025),,Ghana,Ashanti,Kumasi,Kumasi,6.6936,-1.6218,1,National,0,GHA
+GHA1866,2023-08-07,2,Protests,Protest with intervention,Protesters (Ghana),,Police Forces of Ghana (2017-2025),,Ghana,Greater Accra,Ga South,Awoshie,5.5838,-0.2778,1,National,0,GHA
+GHA1874,2023-09-21,1,Protests,Protest with intervention,Protesters (Ghana),#FixTheCountry; Democracy Hub; Journalists (Ghana),Police Forces of Ghana (2017-2025),Civilians (Ghana),Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA1887,2023-10-03,1,Protests,Peaceful protest,Protesters (Ghana),Arise Ghana (Ghana); Government of Ghana (2017-2025); NDC: National Democratic Congress (Ghana),,,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,Subnational-National,0,GHA
+GHA1889,2023-10-03,1,Riots,Violent demonstration,Rioters (Ghana),,Police Forces of Ghana (2017-2025),,Ghana,Greater Accra,Tema,Ashaiman,5.6665,-0.0348,1,National,0,GHA
+GHA1955,2023-10-21,1,Protests,Protest with intervention,Protesters (Ghana),,Police Forces of Ghana (2017-2025),,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA1956,2023-10-22,1,Protests,Protest with intervention,Protesters (Ghana),,Police Forces of Ghana (2017-2025),,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA1957,2023-10-23,1,Protests,Protest with intervention,Protesters (Ghana),,Police Forces of Ghana (2017-2025),,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA1971,2023-10-29,1,Violence against civilians,Attack,Military Forces of Ghana (2017-2025),,Civilians (Ghana),,Ghana,Upper East,Garu Tempane,Garu,10.8532,-0.1759,1,National,1,GHA
+GHA1990,2023-10-24,1,Battles,Armed clash,Garu Communal Militia (Ghana),,Military Forces of Ghana (2017-2025),,Ghana,Upper East,Garu Tempane,Garu,10.8532,-0.1759,1,National,0,GHA
+GHA2000,2023-10-29,1,Violence against civilians,Attack,Military Forces of Ghana (2017-2025),,Civilians (Ghana),,Ghana,Upper East,Garu Tempane,Bugri,10.9761,-0.128,1,National,0,GHA
+GHA2028,2023-11-10,1,Violence against civilians,Attack,Police Forces of Ghana (2017-2025) Wildlife Protection,,Civilians (Ghana),Miners (Ghana),Ghana,Ahafo,Asutifi South,Mfante,6.8045,-2.2987,1,National,2,GHA
+GHA2045,2023-11-27,1,Strategic developments,Looting/property destruction,Military Forces of Ghana (2017-2025),,Civilians (Ghana),Labor Group (Ghana),Ghana,Ashanti,Bosome Freho,Asiwa,6.4167,-1.3333,2,National,0,GHA
+GHA2046,2023-11-20,1,Violence against civilians,Attack,Military Forces of Ghana (2017-2025),,Civilians (Ghana),,Ghana,Upper East,Talensi,Tongo,10.7089,-0.8023,2,National,0,GHA
+GHA2054,2023-11-27,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Military Forces of Ghana (2017-2025),,Ghana,Ashanti,Bosome Freho,Asiwa,6.4167,-1.3333,2,National,0,GHA
+GHA2062,2023-12-05,1,Riots,Violent demonstration,Rioters (Ghana),NDC: National Democratic Congress (Ghana),Police Forces of Ghana (2017-2025),,Ghana,Central,Gomoa West,Winneba,5.3436,-0.623,1,National,0,GHA
+GHA2069,2023-12-20,2,Riots,Mob violence,Rioters (Ghana),,Police Forces of Ghana (2017-2025),,Ghana,Greater Accra,Accra,Mamobi,5.5954,-0.1952,1,National,0,GHA
+GHA2070,2023-12-18,1,Riots,Mob violence,Rioters (Ghana),,Police Forces of Ghana (2017-2025),,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,National,0,GHA
+GHA2073,2023-12-15,2,Riots,Mob violence,Rioters (Ghana),,Police Forces of Ghana (2017-2025),,Ghana,Oti,Kadjebi,Kadjebi,7.5373,0.462,1,National,0,GHA
+GHA2076,2023-12-26,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana); Yagaba Communal Group (Ghana),Police Forces of Ghana (2017-2025),,Ghana,North East,Mamprusi West,Loagri,10.2783,-0.8266,1,National,0,GHA
+GHA2077,2023-12-25,1,Riots,Mob violence,Rioters (Ghana),,Police Forces of Ghana (2017-2025),,Ghana,Oti,Kadjebi,Kadjebi,7.5373,0.462,1,National,0,GHA
+GHA2600,2023-08-09,1,Violence against civilians,Attack,Police Forces of Ghana (2017-2025),,Civilians (Ghana),Miners (Ghana); Prisoners (Ghana),Ghana,Ashanti,Bekwai,Afoako,6.3826,-1.636,1,National,2,GHA
+GHA2663,2023-08-21,1,Violence against civilians,Attack,Unidentified Armed Group (Ghana),,Civilians (Ghana),Government of Ghana (2017-2025); NPP: New Patriotic Party,Ghana,Upper East,Binduri,Binduri,10.9694,-0.3062,2,National,2,GHA
+GHA2670,2023-07-07,2,Riots,Mob violence,Rioters (Ghana),Students (Ghana),Police Forces of Ghana (2017-2025),,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,2,National,0,GHA
+GHA2672,2023-07-11,1,Violence against civilians,Attack,Police Forces of Ghana (2017-2025),,Civilians (Ghana),Journalists (Ghana),Ghana,Bono,Jaman South,Drobo,7.5836,-2.7868,1,National,0,GHA
+GHA2675,2023-07-14,1,Riots,Mob violence,Rioters (Ghana),NPP: New Patriotic Party,Civilians (Ghana),Government of Ghana (2017-2025),Ghana,Bono East,Atebubu Amantin,Atebubu,7.7554,-0.9809,1,National,0,GHA
+GHA2684,2023-08-18,2,Battles,Armed clash,Galamseyers,Miners (Ghana),Police Forces of Ghana (2017-2025) Wildlife Protection,,Ghana,Western,Ahanta West,Cape Three Points Forest Reserve,4.856,-2.0473,1,National,0,GHA
+GHA2689,2023-09-14,1,Battles,Armed clash,NPP: New Patriotic Party,,Police Forces of Ghana (2017-2025),,Ghana,Bono East,Techiman North,Techiman,7.5896,-1.9337,1,National,0,GHA
+GHA2690,2023-09-17,1,Battles,Armed clash,Galamseyers,Miners (Ghana),Military Forces of Ghana (2017-2025),,Ghana,Central,Assin North,Assin Kushea,5.8731,-1.452,2,National,0,GHA
+GHA2691,2023-09-17,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),Military Forces of Ghana (2017-2025),Ghana,Central,Assin North,Assin Praso,5.931,-1.3671,2,National,0,GHA
+GHA2694,2023-10-22,1,Violence against civilians,Attack,Police Forces of Ghana (2017-2025),Government of Ghana (2017-2025); Muslim Group (Ghana),Civilians (Ghana),Journalists (Ghana),Ghana,Greater Accra,Ga West,Ofankor,5.6634,-0.2653,1,National,0,GHA
+GHA2721,2023-12-26,1,Riots,Mob violence,Rioters (Ghana),,Civilians (Ghana),Government of Ghana (2017-2025),Ghana,Oti,Kadjebi,Kadjebi,7.5373,0.462,2,National,0,GHA
+GHA2722,2023-08-11,2,Violence against civilians,Attack,Police Forces of Ghana (2017-2025),,Civilians (Ghana),Prisoners (Ghana),Ghana,Volta,Ho,Ho,6.6008,0.4713,1,National,1,GHA
+GHA1871,2023-09-07,1,Violence against civilians,Attack,Unidentified Armed Group (Ghana),,Civilians (Ghana),NDC: National Democratic Congress (Ghana),Ghana,Upper East,Kasena Nankana West,Nabango,10.9289,-0.9759,1,National,1,GHA
+GHA1671,2023-02-01,2,Violence against civilians,Attack,Military Forces of Ghana (2017-2025),,Civilians (Ghana),Labor Group (Ghana),Ghana,Greater Accra,Ga South,Hobor,5.6894,-0.4261,1,National,1,GHA
+GHA1934,2023-10-18,2,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Ashanti,Kumasi,Tafo,6.7345,-1.6128,1,National,1,GHA
+GHA1937,2023-10-18,1,Riots,Mob violence,Rioters (Ghana),,Rioters (Ghana),,Ghana,Ashanti,Afigya Kwabre,Pankrono,6.7499,-1.6056,1,National,1,GHA
+GHA2064,2023-12-08,2,Riots,Mob violence,Rioters (Ghana),,Military Forces of Ghana (2017-2025),,Ghana,Central,Ewutu Senya,Gomoa Fetteh,5.4223,-0.4669,2,National,0,GHA
+GHA1718,2023-03-10,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Ashanti,Afigya Kwabre,Afigya-Kwabre,6.9864,-1.5579,1,National,1,GHA
+GHA2082,2023-12-30,1,Riots,Mob violence,Rioters (Ghana),Bronkong Communal Group (Ghana),Rioters (Ghana),Afrancho Communal Group (Ghana),Ghana,Ashanti,Afigya Kwabre,Afigya-Kwabre,6.9864,-1.5579,1,National,3,GHA
+GHA1669,2023-01-31,1,Violence against civilians,Attack,Military Forces of Ghana (2017-2025),,Civilians (Ghana),Government of Ghana (2017-2025),Ghana,Upper East,Bawku,Bawku,11.05,-0.25,1,National,7,GHA
+GHA1674,2023-02-01,1,Riots,Mob violence,Rioters (Ghana),,Civilians (Ghana),Journalists (Ghana),Ghana,Western,Tarkwa Nsuaem,Tarkwa,5.3,-1.9833,1,National,0,GHA
+GHA1686,2023-02-06,1,Violence against civilians,Attack,Unidentified Armed Group (Ghana),,Civilians (Ghana),,Ghana,Upper East,Bawku,Bawku,11.05,-0.25,1,National,1,GHA
+GHA1707,2023-03-07,1,Violence against civilians,Attack,Military Forces of Ghana (2017-2025),,Civilians (Ghana),Students (Ghana); Taxi Drivers (Ghana),Ghana,Greater Accra,Ga West,Taifa,5.6566,-0.25,1,Subnational-National,0,GHA
+GHA1713,2023-03-09,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Greater Accra,Ga West,Taifa,5.6566,-0.25,1,National,0,GHA
+GHA1715,2023-03-04,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Military Forces of Ghana (2017-2025),,Ghana,Greater Accra,Ga West,Taifa,5.6566,-0.25,1,Subnational-National,1,GHA
+GHA1729,2023-03-25,1,Riots,Mob violence,Rioters (Ghana),Students (Ghana),Rioters (Ghana),Students (Ghana),Ghana,Upper East,Bawku,Bawku,11.05,-0.25,1,National,0,GHA
+GHA1733,2023-04-03,1,Battles,Armed clash,Bawku Communal Militia (Ghana),,Police Forces of Ghana (2017-2025) Ghana Immigration Service,,Ghana,Upper East,Bawku,Bawku,11.05,-0.25,1,National,1,GHA
+GHA1735,2023-04-03,1,Violence against civilians,Attack,Bawku Communal Militia (Ghana),,Civilians (Ghana),Labor Group (Ghana),Ghana,Upper East,Bawku,Bawku,11.05,-0.25,1,National,1,GHA
+GHA1763,2023-04-21,1,Violence against civilians,Attack,Unidentified Armed Group (Ghana),,Civilians (Ghana),Muslim Group (Ghana),Ghana,Upper East,Bawku,Bawku,11.05,-0.25,2,National,6,GHA
+GHA1862,2023-08-12,1,Violence against civilians,Attack,Unidentified Armed Group (Ghana),,Civilians (Ghana),,Ghana,Upper East,Bawku,Bawku,11.05,-0.25,1,National,1,GHA
+GHA1961,2023-10-27,2,Protests,Peaceful protest,Protesters (Ghana),Labor Group (Ghana); Women (Ghana),,,Ghana,Greater Accra,Ga East,Dome,5.6554,-0.2328,1,National,0,GHA
+GHA2056,2023-11-27,1,Violence against civilians,Attack,Unidentified Armed Group (Ghana),,Civilians (Ghana),Labor Group (Ghana); Mamprusi Ethnic Group (Ghana),Ghana,Upper East,Bawku,Bawku,11.05,-0.25,1,National,2,GHA
+GHA2601,2023-08-12,1,Violence against civilians,Attack,Bawku Communal Militia (Ghana),,Civilians (Ghana),,Ghana,Upper East,Bawku,Bawku,11.05,-0.25,1,National,1,GHA
+GHA2602,2023-08-14,1,Battles,Armed clash,Bawku Communal Militia (Ghana),,Military Forces of Ghana (2017-2025),,Ghana,Upper East,Bawku,Bawku,11.05,-0.25,1,National,0,GHA
+GHA2661,2023-08-27,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Unidentified Armed Group (Ghana),,Ghana,Upper East,Binduri,Bazua,11.0022,-0.3557,1,National,3,GHA
+GHA2662,2023-08-27,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Unidentified Armed Group (Ghana),,Ghana,Upper East,Binduri,Bazua,11.0022,-0.3557,2,National,1,GHA
+GHA1691,2023-02-14,2,Riots,Violent demonstration,Rioters (Ghana),,Police Forces of Ghana (2017-2025),,Ghana,Ashanti,Obuasi,Obuasi,6.2022,-1.6679,2,National,0,GHA
+GHA1794,2023-05-30,1,Violence against civilians,Attack,Unidentified Armed Group (Ghana),,Civilians (Ghana),,Ghana,Northern,Sagnerigu,Dungu,9.4892,-0.845,2,National,0,GHA
+GHA1796,2023-05-31,1,Riots,Mob violence,Rioters (Ghana),Miners (Ghana),Military Forces of Ghana (2017-2025),,Ghana,Ashanti,Obuasi,Obuasi,6.2022,-1.6679,1,National,0,GHA
+GHA1801,2023-05-30,2,Riots,Violent demonstration,Rioters (Ghana),,Police Forces of Ghana (2017-2025),,Ghana,Ashanti,Obuasi,Obuasi,6.2022,-1.6679,1,National,0,GHA
+GHA1860,2023-08-15,1,Violence against civilians,Attack,Police Forces of Ghana (2017-2025),,Civilians (Ghana),Miners (Ghana),Ghana,Ashanti,Amansie Central,Fiankoma,6.315,-1.7272,1,National,2,GHA
+GHA1793,2023-06-01,2,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Ashanti,Atwima Nwabiagya,Bokwankye,6.7225,-1.6942,1,National,1,GHA
+GHA1854,2023-08-29,1,Battles,Armed clash,Unidentified Communal Militia (Ghana),,Okyeman Communal Militia (Ghana),,Ghana,Eastern,Nsawam Adoagyiri,Nsawan,5.8192,-0.3535,1,National,2,GHA
+GHA2693,2023-07-15,2,Riots,Mob violence,Rioters (Ghana),,Rioters (Ghana),,Ghana,Eastern,Nsawam Adoagyiri,Nsawan,5.8192,-0.3535,2,National,2,GHA
+GHA1727,2023-03-30,1,Violence against civilians,Attack,Kekpande Communal Militia (Ghana),,Civilians (Ghana),Tuluwe Communal Group (Ghana),Ghana,Savannah,Gonja Central,Buipe,8.7904,-1.4676,2,National,1,GHA
+GHA2053,2023-11-27,2,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Ashanti,Asante Akim South,Banka,6.2964,-1.2117,1,National,0,GHA
+GHA1716,2023-03-08,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Central,Agona West,Asafo,5.5536,-0.6586,1,National,1,GHA
+GHA2671,2023-07-08,2,Violence against civilians,Attack,Unidentified Armed Group (Ghana),,Civilians (Ghana),Fulani Ethnic Group (Ghana); Pastoralists (Ghana),Ghana,Central,Gomoa East,Gomoa Dominase,5.484,-0.5927,1,National,0,GHA
+GHA1700,2023-02-20,1,Riots,Mob violence,Rioters (Ghana),Walewale Communal Group (Ghana),,,Ghana,North East,Mamprusi West,Walewale,10.3511,-0.801,1,National,0,GHA
+GHA1720,2023-03-19,1,Riots,Mob violence,Rioters (Ghana),Vigilante Group (Ghana),Civilians (Ghana),,Ghana,Ashanti,Atwima Mponua,Adiembra,6.6028,-2.0381,1,National,1,GHA
+GHA1882,2023-09-20,1,Protests,Peaceful protest,Protesters (Ghana),,,,Ghana,Ashanti,Amansie West,Manso Nkwanta,6.4689,-1.886,2,National,0,GHA
+GHA1883,2023-09-19,1,Protests,Protest with intervention,Protesters (Ghana),GPRTU: Ghana Private Road Transport Union,Police Forces of Ghana (2017-2025),,Ghana,Ashanti,Amansie West,Manso Nkwanta,6.4689,-1.886,1,National,0,GHA
+GHA3293,2023-02-10,1,Protests,Peaceful protest,Protesters (Ghana),Labor Group (Ghana),,,Ghana,Greater Accra,Accra,Accra,5.556,-0.1969,1,Subnational,0,GHA

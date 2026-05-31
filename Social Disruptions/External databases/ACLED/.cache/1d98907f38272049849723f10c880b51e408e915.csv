@@ -1,0 +1,22 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities
+BHS87,2023-02-01,1,Protests,Peaceful protest,Protesters (Bahamas),,,,Bahamas,New Providence,,Nassau,25.0582,-77.3431,1,National,0
+BHS98,2023-06-29,1,Protests,Peaceful protest,Protesters (Bahamas),FNM: Free National Movement,,,Bahamas,New Providence,,Nassau,25.0582,-77.3431,1,National,0
+BHS100,2023-07-24,1,Protests,Peaceful protest,Protesters (Bahamas),FNM: Free National Movement,Protesters (Bahamas),PLP: Progressive Liberal Party,Bahamas,New Providence,,Nassau,25.0582,-77.3431,1,National,0
+BHS102,2023-09-08,1,Violence against civilians,Attack,Police Forces of the Bahamas (2021-),,Civilians (Bahamas),,Bahamas,New Providence,,Nassau,25.0582,-77.3431,1,National,0
+BHS103,2023-09-28,2,Strategic developments,Arrests,Military Forces of the Bahamas (2021-),,Civilians (Cuba),Refugees/IDPs (Cuba),Bahamas,Exuma,,Coast of Exuma,24.0963,-76.3838,3,Regional,0
+BHS119,2023-12-02,1,Riots,Mob violence,Rioters (Bahamas),Labor Group (Bahamas),Civilians (United States),Women (United States); LGBTQ+ (United States),Bahamas,New Providence,,Nassau,25.0582,-77.3431,3,National,0
+BHS120,2023-03-22,1,Violence against civilians,Sexual violence,Police Forces of the Bahamas (2021-),,Civilians (Bahamas),Women (Bahamas),Bahamas,Central Abaco,,Marsh Harbour,26.5338,-77.0825,1,National,0
+BHS121,2023-11-30,1,Violence against civilians,Attack,Unidentified Armed Group (Bahamas),,Civilians (Bahamas),FNM: Free National Movement,Bahamas,New Providence,,Nassau,25.0582,-77.3431,1,National,0
+BHS86,2023-01-25,2,Violence against civilians,Attack,Police Forces of the Bahamas (2021-),,Civilians (Bahamas),,Bahamas,New Providence,,Nassau,25.0582,-77.3431,1,National,0
+BHS88,2023-01-29,2,Violence against civilians,Attack,Police Forces of the Bahamas (2021-),,Civilians (Cuba),Prisoners (Cuba); Refugees/IDPs (Cuba),Bahamas,New Providence,,Nassau,25.0582,-77.3431,1,Regional,0
+BHS90,2023-02-15,1,Protests,Protest with intervention,Protesters (Bahamas),COI: Coalition of Independents,Police Forces of the Bahamas (2021-),,Bahamas,New Providence,,Nassau,25.0582,-77.3431,1,National,0
+BHS91,2023-02-11,1,Violence against civilians,Attack,Police Forces of the Bahamas (2021-),,Civilians (Haiti),Labor Group (Haiti),Bahamas,New Providence,,Nassau,25.0582,-77.3431,1,National,0
+BHS93,2023-03-08,2,Violence against civilians,Attack,Police Forces of the Bahamas (2021-),,Civilians (Bahamas),Students (Bahamas),Bahamas,Bimini,,Alice Town,25.7272,-79.2965,1,National,0
+BHS101,2023-07-11,1,Violence against civilians,Sexual violence,Military Forces of the Bahamas (2021-),,Civilians (Bahamas),Women (Bahamas),Bahamas,New Providence,,Nassau,25.0582,-77.3431,3,National,0
+BHS118,2023-07-19,2,Strategic developments,Arrests,Military Forces of the Bahamas (2021-),Military Forces of the United States (2021-2025),Civilians (Haiti),Refugees/IDPs (Haiti),Bahamas,Central Eleuthera,,Coast of Savannah Sound,25.0853,-76.1533,3,National-Regional,0
+BHS85,2023-01-21,1,Strategic developments,Arrests,Military Forces of the United States (2021-2025),,Civilians (Haiti),Refugees/IDPs (Haiti),Bahamas,Bimini,,Coast of Sal Cay Bank,23.8267,-80.0759,2,National-Regional,0
+BHS89,2023-02-14,2,Strategic developments,Arrests,Military Forces of the United States (2021-2025),,Civilians (International),Refugees/IDPs (International),Bahamas,New Providence,,Coast of Nassau,25.0959,-77.351,3,Regional,0
+BHS92,2023-03-05,1,Strategic developments,Arrests,Military Forces of the United States (2021-2025),Military Forces of the Bahamas (2021-),Civilians (Haiti),Refugees/IDPs (Haiti),Bahamas,North Andros,,Coast of Andros,24.7291,-77.7426,3,National,0
+BHS96,2023-03-15,2,Strategic developments,Arrests,Military Forces of the United States (2021-2025),,Civilians (Cuba),Refugees/IDPs (Cuba),Bahamas,Bimini,,Coast of Sal Cay Bank,23.8267,-80.0759,2,Regional,0
+BHS97,2023-03-12,1,Strategic developments,Arrests,Military Forces of the United States (2021-2025),,Civilians (Cuba),Refugees/IDPs (Cuba),Bahamas,Bimini,,Coast of Sal Cay Bank,23.8267,-80.0759,3,Regional,0
+BHS99,2023-07-15,1,Strategic developments,Arrests,Military Forces of the United States (2021-2025),,Civilians (Haiti),Refugees/IDPs (Haiti),Bahamas,Bimini,,Coast of Sal Cay Bank,23.8267,-80.0759,3,National,0

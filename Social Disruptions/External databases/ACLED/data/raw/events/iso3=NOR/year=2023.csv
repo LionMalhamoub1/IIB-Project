@@ -1,0 +1,342 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+NOR1102,2023-01-17,1,Protests,Peaceful protest,Protesters (Norway),LO: Norwegian Confederation of Trade Unions; Labor Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1103,2023-01-09,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1107,2023-01-21,1,Protests,Peaceful protest,Protesters (Norway),Russian Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1108,2023-01-09,1,Protests,Peaceful protest,Protesters (Norway),Motvind Norge; NMF: Green Warriors of Norway,,,Norway,Rogaland,Sola,Sola,58.8859,5.6479,1,Other,0,NOR
+NOR1111,2023-01-23,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Vestland,Hoyanger,Hoyanger,61.2196,6.0725,1,National,0,NOR
+NOR1114,2023-02-10,1,Protests,Peaceful protest,Protesters (Norway),Labor Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1115,2023-01-14,1,Protests,Peaceful protest,Protesters (Norway),Women (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1116,2023-02-08,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1120,2023-02-20,1,Protests,Peaceful protest,Protesters (Norway),Labor Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1121,2023-02-22,1,Protests,Peaceful protest,Protesters (Norway),Labor Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1122,2023-02-23,1,Protests,Peaceful protest,Protesters (Norway),Labor Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1136,2023-02-28,1,Protests,Peaceful protest,Protesters (Norway),Labor Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1140,2023-02-27,1,Protests,Protest with intervention,Protesters (Norway),NSR-N: Youth Committee of the Norwegian Sami Association; Sami Indigenous Group (Norway); NU: Nature and Youth Norway,Police Forces of Norway (2013-),,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1141,2023-02-28,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1143,2023-02-28,1,Protests,Protest with intervention,Protesters (Norway),NSR-N: Youth Committee of the Norwegian Sami Association; Sami Indigenous Group (Norway); NU: Nature and Youth Norway,Police Forces of Norway (2013-),,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1145,2023-03-01,1,Protests,Protest with intervention,Protesters (Norway),NSR-N: Youth Committee of the Norwegian Sami Association; Sami Indigenous Group (Norway); NU: Nature and Youth Norway,Police Forces of Norway (2013-),,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1146,2023-03-02,1,Protests,Protest with intervention,Protesters (Norway),NSR-N: Youth Committee of the Norwegian Sami Association; Sami Indigenous Group (Norway); NU: Nature and Youth Norway,Police Forces of Norway (2013-),,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1147,2023-03-03,1,Protests,Peaceful protest,Protesters (Norway),NSR-N: Youth Committee of the Norwegian Sami Association; Sami Indigenous Group (Norway); NU: Nature and Youth Norway,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1153,2023-02-10,1,Protests,Peaceful protest,Protesters (Norway),NU: Nature and Youth Norway,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Subnational,0,NOR
+NOR1154,2023-03-09,1,Protests,Peaceful protest,Protesters (Norway),Sami Indigenous Group (Norway),,,Norway,Troms og Finnmark,Karasjok,Karasjok,69.4721,25.5183,1,National,0,NOR
+NOR1157,2023-03-08,1,Protests,Peaceful protest,Protesters (Norway),Women (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1158,2023-03-08,1,Protests,Peaceful protest,Protesters (Norway),Women (Norway),,,Norway,Agder,Risor,Risor,58.7191,9.2238,1,National,0,NOR
+NOR1159,2023-03-08,1,Protests,Peaceful protest,Protesters (Norway),Women (Norway),,,Norway,Rogaland,Stavanger,Stavanger,58.9666,5.7322,1,National,0,NOR
+NOR1161,2023-03-11,1,Protests,Peaceful protest,Protesters (Norway),Greenpeace,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1162,2023-03-14,1,Protests,Peaceful protest,Protesters (Norway),Labor Group (Norway),,,Norway,Innlandet,Vestre Toten,Raufoss,60.726,10.6133,1,National,0,NOR
+NOR1163,2023-03-15,1,Protests,Peaceful protest,Protesters (Norway),Labor Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1164,2023-03-16,1,Protests,Peaceful protest,Protesters (Norway),Labor Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1165,2023-03-16,1,Protests,Peaceful protest,Protesters (Norway),Labor Group (Norway),,,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,Subnational,0,NOR
+NOR1169,2023-03-11,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Vestland,Kvinnherad,Husnes,59.861,5.7531,1,Subnational,0,NOR
+NOR1170,2023-03-23,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Subnational,0,NOR
+NOR1119,2023-02-24,1,Protests,Peaceful protest,Protesters (Norway),Government of Norway (2013-); AP: Labour Party,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,National,0,NOR
+NOR1125,2023-02-24,1,Protests,Peaceful protest,Protesters (Norway),Ukrainian Group (Norway),,,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,National,0,NOR
+NOR1126,2023-02-24,1,Protests,Peaceful protest,Protesters (Norway),Ukrainian Group (Norway); Russian Group (Norway),,,Norway,Troms og Finnmark,Sor-Varanger,Kirkenes,69.7261,30.0499,1,National,0,NOR
+NOR1127,2023-02-24,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Viken,Drammen,Drammen,59.7402,10.2038,1,Subnational,0,NOR
+NOR1128,2023-02-24,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Innlandet,Sondre Land,Hov,60.6992,10.3509,1,National,0,NOR
+NOR1129,2023-02-24,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Agder,Lillesand,Lillesand,58.2496,8.3786,1,National,0,NOR
+NOR1130,2023-02-24,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,More og Romsdal,Molde,Molde,62.7381,7.1586,1,National,0,NOR
+NOR1131,2023-02-24,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Agder,Risor,Risor,58.7191,9.2238,1,National,0,NOR
+NOR1132,2023-02-24,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Vestland,Gloppen,Sandane,61.7726,6.2155,1,National,0,NOR
+NOR1133,2023-02-24,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Rogaland,Stavanger,Stavanger,58.9666,5.7322,1,National,0,NOR
+NOR1135,2023-02-24,1,Protests,Peaceful protest,Protesters (Norway),Ukrainian Group (Norway),,,Norway,More og Romsdal,Averoy,Bruhagen,63.0526,7.6313,1,Subnational,0,NOR
+NOR1137,2023-02-25,2,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Vestfold og Telemark,Faerder,Tjome,59.1149,10.3916,2,Subnational,0,NOR
+NOR1139,2023-02-27,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,New media,0,NOR
+NOR1172,2023-03-19,1,Protests,Peaceful protest,Protesters (Norway),DxE: Direct Action Everywhere,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,International,0,NOR
+NOR1173,2023-03-28,1,Protests,Peaceful protest,Protesters (Norway),Labor Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1177,2023-04-20,1,Protests,Peaceful protest,Protesters (Norway),Labor Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1178,2023-04-23,1,Protests,Peaceful protest,Protesters (Norway),Motvind Norge,,,Norway,Innlandet,Nord-Odal,Sand,60.3921,11.5402,2,Other,0,NOR
+NOR1188,2023-05-01,1,Protests,Peaceful protest,Protesters (Norway),Labor Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1191,2023-05-14,1,Protests,Peaceful protest,Protesters (Norway),KrF: Christian Democratic Party; MDG: The Green Party of Norway,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1193,2023-05-11,1,Protests,Peaceful protest,Protesters (Norway),Labor Group (Norway),,,Norway,Nordland,Fauske,Fauske,67.2641,15.3992,2,National,0,NOR
+NOR1197,2023-05-13,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1198,2023-05-15,1,Protests,Peaceful protest,Protesters (Norway),Norway's Palestine Committee; Palestinian Group (Norway); KK: Struggle Committee,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1199,2023-05-15,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee; Norway's Palestine Committee; Palestinian Group (Norway); Red Party; NKP: Communist Party of Norway; SV: Socialist Left Party,,,Norway,Agder,Kristiansand,Kristiansand,58.1456,7.9872,1,Other,0,NOR
+NOR1200,2023-05-15,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee,,,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,Other,0,NOR
+NOR1201,2023-05-24,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1202,2023-05-29,1,Strategic developments,Other,Military Forces of Norway (2013-),NATO: North Atlantic Treaty Organization,,,Norway,Trondelag,Orland,Bjugn,63.7649,9.8086,1,Other-Regional,0,NOR
+NOR1205,2023-05-31,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee; Red Party; SU: Socialist Youth; RU: Red Youth; NKP: Communist Party of Norway,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1113,2023-01-21,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee; Women (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1118,2023-02-11,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1148,2023-03-04,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee,,,Norway,Agder,Kristiansand,Kristiansand,58.1456,7.9872,1,Other,0,NOR
+NOR1149,2023-03-04,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee,,,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,Other,0,NOR
+NOR1150,2023-03-08,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee; Women (Norway),,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1151,2023-03-08,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee; Women (Norway),,,Norway,Agder,Kristiansand,Kristiansand,58.1456,7.9872,1,Other,0,NOR
+NOR1152,2023-03-08,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee; Women (Norway),,,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,Other,0,NOR
+NOR1171,2023-03-21,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1175,2023-03-28,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee; SU: Socialist Youth,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1186,2023-05-01,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee; Labor Group (Norway),,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1187,2023-05-01,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee; Labor Group (Norway),,,Norway,Agder,Kristiansand,Kristiansand,58.1456,7.9872,1,Other,0,NOR
+NOR1190,2023-05-01,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee; Labor Group (Norway),,,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,Other,0,NOR
+NOR1207,2023-06-08,1,Protests,Peaceful protest,Protesters (Norway),LGBTQ+ (Norway),,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Subnational,0,NOR
+NOR1209,2023-06-03,1,Protests,Peaceful protest,Protesters (Norway),NSR-N: Youth Committee of the Norwegian Sami Association; NU: Nature and Youth Norway; Sami Indigenous Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1210,2023-06-02,1,Protests,Peaceful protest,Protesters (Norway),Sami Indigenous Group (Norway),,,Norway,Troms og Finnmark,Tromso,Tromso,69.6487,18.9559,1,National,0,NOR
+NOR1211,2023-06-01,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1212,2023-06-04,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1214,2023-05-31,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,National,0,NOR
+NOR1203,2023-06-02,1,Protests,Peaceful protest,Protesters (Norway),NSR-N: Youth Committee of the Norwegian Sami Association; NU: Nature and Youth Norway; Sami Indigenous Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1215,2023-06-04,1,Protests,Peaceful protest,Protesters (Norway),DxE: Direct Action Everywhere,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,International,0,NOR
+NOR1216,2023-06-20,1,Protests,Peaceful protest,Protesters (Norway),DxE: Direct Action Everywhere,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,International,0,NOR
+NOR1217,2023-06-10,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee; RKU: Revolutionary Communist Youth,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1092,2023-01-04,1,Protests,Peaceful protest,Protesters (Norway),XR: Extinction Rebellion,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1206,2023-06-05,1,Protests,Peaceful protest,Protesters (Norway),XR: Extinction Rebellion,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other-National,0,NOR
+NOR1208,2023-05-22,1,Protests,Peaceful protest,Protesters (Norway),Norwegian Society for the Conservation of Nature; NU: Nature and Youth Norway; XR: Extinction Rebellion,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1218,2023-04-17,1,Protests,Peaceful protest,Protesters (Norway),DxE: Direct Action Everywhere,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,2,International,0,NOR
+NOR1219,2023-05-25,1,Protests,Peaceful protest,Protesters (Norway),DxE: Direct Action Everywhere,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,International,0,NOR
+NOR1222,2023-06-17,1,Protests,Peaceful protest,Protesters (Norway),LGBTQ+ (Norway),,,Norway,Agder,Gjerstad,Gjerstad,58.8813,9.0194,1,National,0,NOR
+NOR1223,2023-06-26,1,Protests,Peaceful protest,Protesters (Norway),Motvind Norge,,,Norway,Trondelag,Afjord,Roan,64.1728,10.2291,2,Other,0,NOR
+NOR1224,2023-06-19,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Rogaland,Sandnes,Sandnes,58.8517,5.7362,1,National,0,NOR
+NOR1225,2023-06-29,1,Protests,Protest with intervention,Protesters (Norway),Motvind Norge,Police Forces of Norway (2013-),,Norway,Trondelag,Afjord,Roan,64.1728,10.2291,2,National,0,NOR
+NOR1226,2023-06-19,1,Protests,Peaceful protest,Protesters (Norway),Greenpeace,,,Norway,Vestland,Austrheim,Mongstad,60.7979,5.0116,1,Other-Subnational,0,NOR
+NOR1227,2023-07-01,1,Protests,Peaceful protest,Protesters (Norway),LGBTQ+ (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1228,2023-06-27,1,Protests,Peaceful protest,Protesters (Norway),Motvind Norge,,,Norway,Trondelag,Afjord,Roan,64.1728,10.2291,2,National,0,NOR
+NOR1229,2023-06-28,1,Protests,Peaceful protest,Protesters (Norway),Motvind Norge,,,Norway,Trondelag,Afjord,Roan,64.1728,10.2291,2,National,0,NOR
+NOR1230,2023-06-30,1,Protests,Peaceful protest,Protesters (Norway),Motvind Norge,,,Norway,Trondelag,Afjord,Roan,64.1728,10.2291,2,Other,0,NOR
+NOR1231,2023-07-01,1,Protests,Peaceful protest,Protesters (Norway),Motvind Norge,,,Norway,Trondelag,Afjord,Roan,64.1728,10.2291,2,Other,0,NOR
+NOR1232,2023-07-02,1,Protests,Peaceful protest,Protesters (Norway),Motvind Norge,,,Norway,Trondelag,Afjord,Roan,64.1728,10.2291,2,Other,0,NOR
+NOR1233,2023-07-03,1,Protests,Peaceful protest,Protesters (Norway),Motvind Norge,,,Norway,Trondelag,Afjord,Roan,64.1728,10.2291,2,Other,0,NOR
+NOR1234,2023-07-04,1,Protests,Peaceful protest,Protesters (Norway),Motvind Norge,,,Norway,Trondelag,Afjord,Roan,64.1728,10.2291,2,Other,0,NOR
+NOR1236,2023-07-14,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Troms og Finnmark,Tana,Tana Bru,70.2007,28.1776,1,Regional,0,NOR
+NOR1237,2023-07-06,1,Protests,Peaceful protest,Protesters (Norway),Iranian Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1238,2023-07-07,1,Protests,Peaceful protest,Protesters (Norway),Muslim Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1239,2023-07-05,1,Protests,Peaceful protest,Protesters (Norway),Norway's Palestine Committee; Palestinian Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1240,2023-06-25,1,Protests,Peaceful protest,Protesters (Norway),LGBTQ+ (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1241,2023-07-19,2,Protests,Peaceful protest,Protesters (Norway),DxE: Direct Action Everywhere,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,International,0,NOR
+NOR1245,2023-07-29,1,Protests,Peaceful protest,Protesters (Norway),SIAN: Stop Islamisation of Norway,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1259,2023-08-25,1,Protests,Peaceful protest,Protesters (Norway),DxE: Direct Action Everywhere,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,International,0,NOR
+NOR1260,2023-08-26,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee; RKU: Revolutionary Communist Youth; RU: Red Youth,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1261,2023-09-02,1,Riots,Mob violence,Rioters (Norway),Eritrean Group (Norway),Civilians (Norway),Eritrean Group (Norway); Police Forces of Norway (2013-),Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Subnational-National,0,NOR
+NOR1262,2023-08-30,1,Protests,Peaceful protest,Protesters (Norway),DxE: Direct Action Everywhere,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,International,0,NOR
+NOR1263,2023-09-03,1,Protests,Peaceful protest,Protesters (Norway),Eritrean Group (Norway),,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Subnational,0,NOR
+NOR1264,2023-09-07,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee; Red Party; RKU: Revolutionary Communist Youth,,,Norway,Agder,Kristiansand,Kristiansand,58.1456,7.9872,1,Other,0,NOR
+NOR1265,2023-09-07,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee; SU: Socialist Youth; RKU: Revolutionary Communist Youth,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1266,2023-09-07,1,Protests,Peaceful protest,Protesters (Norway),RKU: Revolutionary Communist Youth; KK: Struggle Committee; Red Party,,,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,Other,0,NOR
+NOR735,2023-08-30,1,Strategic developments,Other,Civilians (Ukraine),Refugees/IDPs (Ukraine),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,3,Other-National,0,NOR
+NOR1268,2023-09-10,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1269,2023-09-20,1,Protests,Peaceful protest,Protesters (Norway),Labor Group (Norway),,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1270,2023-09-20,1,Protests,Peaceful protest,Protesters (Norway),Labor Group (Norway),,,Norway,Innlandet,Gjovik,Gjovik,60.797,10.6945,1,Other,0,NOR
+NOR1271,2023-09-20,1,Protests,Peaceful protest,Protesters (Norway),Labor Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1272,2023-09-20,1,Protests,Peaceful protest,Protesters (Norway),Labor Group (Norway),,,Norway,Rogaland,Stavanger,Stavanger,58.9666,5.7322,1,Other,0,NOR
+NOR1273,2023-09-20,1,Protests,Peaceful protest,Protesters (Norway),Labor Group (Norway),,,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,Other,0,NOR
+NOR1274,2023-08-26,1,Protests,Peaceful protest,Protesters (Norway),LGBTQ+ (Norway); KK: Struggle Committee,,,Norway,Trondelag,Stjordal,Stjordal,63.4704,10.9134,1,Other,0,NOR
+NOR1275,2023-09-02,1,Protests,Peaceful protest,Protesters (Norway),Russian Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1276,2023-09-11,1,Protests,Peaceful protest,Protesters (Norway),Sami Indigenous Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1281,2023-09-13,1,Protests,Peaceful protest,Protesters (Norway),DxE: Direct Action Everywhere,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,International,0,NOR
+NOR1282,2023-09-30,1,Protests,Peaceful protest,Protesters (Norway),DxE: Direct Action Everywhere,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,International,0,NOR
+NOR1286,2023-09-26,1,Protests,Peaceful protest,Protesters (Norway),BKA: Grandparents' Climate Action Norway,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,New media,0,NOR
+NOR1287,2023-10-09,1,Protests,Peaceful protest,Protesters (Norway),Norway's Palestine Committee; Palestinian Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1288,2023-10-11,1,Protests,Peaceful protest,Protesters (Norway),NSR-N: Youth Committee of the Norwegian Sami Association; Sami Indigenous Group (Norway); NU: Nature and Youth Norway,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1289,2023-10-13,1,Protests,Peaceful protest,Protesters (Norway),NSR-N: Youth Committee of the Norwegian Sami Association; Sami Indigenous Group (Norway); NU: Nature and Youth Norway,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1290,2023-10-12,1,Protests,Peaceful protest,Protesters (Norway),Sami Indigenous Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1292,2023-10-11,1,Protests,Protest with intervention,Protesters (Norway),NSR-N: Youth Committee of the Norwegian Sami Association; Sami Indigenous Group (Norway); NU: Nature and Youth Norway,Police Forces of Norway (2013-),,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1293,2023-10-13,1,Protests,Protest with intervention,Protesters (Norway),NSR-N: Youth Committee of the Norwegian Sami Association; Sami Indigenous Group (Norway); NU: Nature and Youth Norway; FFF: Fridays for Future; Protesters (Sweden); Students (Sweden),Police Forces of Norway (2013-),,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1294,2023-10-12,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee,,,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,Other,0,NOR
+NOR1295,2023-10-12,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee,,,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,Other,0,NOR
+NOR1296,2023-10-15,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1298,2023-10-14,1,Protests,Peaceful protest,Protesters (Norway),Norway's Palestine Committee; Palestinian Group (Norway),,,Norway,Troms og Finnmark,Tromso,Tromso,69.6487,18.9559,1,National,0,NOR
+NOR1299,2023-10-09,1,Protests,Peaceful protest,Protesters (Norway),Norway's Palestine Committee; Palestinian Group (Norway); KK: Struggle Committee,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1301,2023-10-12,1,Protests,Peaceful protest,Protesters (Norway),NU: Nature and Youth Norway; FFF: Fridays for Future; Students (Sweden); NSR-N: Youth Committee of the Norwegian Sami Association; Sami Indigenous Group (Norway),,,Norway,Viken,Baerum,Lysaker,59.913,10.6365,1,National,0,NOR
+NOR1302,2023-10-14,1,Protests,Peaceful protest,Protesters (Norway),Palestinian Group (Norway); KK: Struggle Committee,,,Norway,Agder,Kristiansand,Kristiansand,58.1456,7.9872,1,Other,0,NOR
+NOR1304,2023-10-14,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1305,2023-10-14,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Vestland,Sunnfjord,Forde,61.4527,5.8577,1,Other,0,NOR
+NOR1306,2023-10-14,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Agder,Kristiansand,Kristiansand,58.1456,7.9872,1,Other,0,NOR
+NOR1307,2023-10-14,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1308,2023-10-14,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Rogaland,Stavanger,Stavanger,58.9666,5.7322,1,Other,0,NOR
+NOR1309,2023-10-14,1,Protests,Protest with intervention,Protesters (Norway),SIAN: Stop Islamisation of Norway,Police Forces of Norway (2013-),,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1310,2023-10-15,1,Protests,Protest with intervention,Protesters (Norway),,Police Forces of Norway (2013-),Protesters (Norway),Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1311,2023-10-21,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1313,2023-10-19,1,Protests,Peaceful protest,Protesters (Norway),Students (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1314,2023-10-18,2,Protests,Peaceful protest,Protesters (Norway),Students (Norway); KK: Struggle Committee,,,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,Other,0,NOR
+NOR1315,2023-10-14,1,Protests,Peaceful protest,Protesters (Norway),SU: Socialist Youth; NU: Nature and Youth Norway; Red Party; MDG: The Green Party of Norway; KK: Struggle Committee,,,Norway,Agder,Kristiansand,Kristiansand,58.1456,7.9872,1,Other,0,NOR
+NOR1316,2023-10-17,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1317,2023-10-18,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Subnational,0,NOR
+NOR1320,2023-10-28,1,Protests,Peaceful protest,Protesters (Norway),AI: Amnesty International; LO: Norwegian Confederation of Trade Unions; Labor Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Subnational-National,0,NOR
+NOR1321,2023-10-28,1,Protests,Peaceful protest,Protesters (Norway),Norway's Palestine Committee; Palestinian Group (Norway),,,Norway,Troms og Finnmark,Tromso,Tromso,69.6487,18.9559,1,National,0,NOR
+NOR1322,2023-10-26,1,Protests,Peaceful protest,Protesters (Norway),Norway's Palestine Committee; Palestinian Group (Norway); KK: Struggle Committee; LO: Norwegian Confederation of Trade Unions; Red Party; Labor Group (Norway),,,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,Other,0,NOR
+NOR1323,2023-10-28,1,Protests,Peaceful protest,Protesters (Norway),Palestinian Group (Norway),,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,National,0,NOR
+NOR1324,2023-10-28,1,Protests,Peaceful protest,Protesters (Norway),Palestinian Group (Norway),,,Norway,Viken,Drammen,Drammen,59.7402,10.2038,1,National,0,NOR
+NOR1325,2023-10-28,1,Protests,Peaceful protest,Protesters (Norway),SV: Socialist Left Party; Red Party,,,Norway,Nordland,Alstahaug,Sandnessjoen,66.0222,12.6364,1,National,0,NOR
+NOR1326,2023-10-27,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Troms og Finnmark,Tromso,Tromso,69.6487,18.9559,1,National,0,NOR
+NOR1327,2023-10-28,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Nordland,Bodo,Bodo,67.2864,14.3911,1,National,0,NOR
+NOR1328,2023-10-31,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1331,2023-11-10,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Agder,Kristiansand,Kristiansand,58.1456,7.9872,1,Other,0,NOR
+NOR1332,2023-10-28,1,Protests,Peaceful protest,Protesters (Norway),Norway's Palestine Committee; Palestinian Group (Norway); LO: Norwegian Confederation of Trade Unions; Labor Group (Norway); SV: Socialist Left Party; Red Party; AP: Labour Party,,,Norway,Rogaland,Stavanger,Stavanger,58.9666,5.7322,1,National,0,NOR
+NOR1333,2023-11-03,1,Protests,Peaceful protest,Protesters (Norway),Red Party; H: Conservative Party; Government of Norway (2013-),,,Norway,Viken,Moss,Moss,59.4321,10.6571,1,Subnational,0,NOR
+NOR1334,2023-11-08,1,Protests,Peaceful protest,Protesters (Norway),Students (Norway),,,Norway,Agder,Arendal,Arendal,58.465,8.7695,1,National,0,NOR
+NOR1335,2023-11-08,1,Protests,Peaceful protest,Protesters (Norway),Students (Norway),,,Norway,Agder,Kristiansand,Kristiansand,58.1456,7.9872,1,National,0,NOR
+NOR1336,2023-11-08,1,Protests,Peaceful protest,Protesters (Norway),Students (Norway); Teachers (Norway); Labor Group (Norway),,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Subnational,0,NOR
+NOR1337,2023-11-04,1,Protests,Peaceful protest,Protesters (Norway),SV: Socialist Left Party; Red Party; Norway's Palestine Committee; Palestinian Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1339,2023-10-30,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1340,2023-10-31,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1343,2023-11-07,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1344,2023-11-01,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1345,2023-11-02,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1346,2023-11-03,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1347,2023-11-11,1,Protests,Peaceful protest,Protesters (Norway),Government of Norway (2013-); Palestinian Group (Norway); SV: Socialist Left Party,,,Norway,Troms og Finnmark,Tromso,Tromso,69.6487,18.9559,1,National,0,NOR
+NOR1348,2023-11-06,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1349,2023-11-07,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1350,2023-11-08,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1351,2023-11-09,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1352,2023-11-10,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1353,2023-11-11,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1354,2023-11-13,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1356,2023-11-11,1,Protests,Peaceful protest,Protesters (Norway),Students (Norway); Norway's Palestine Committee; Palestinian Group (Norway),,,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,National,0,NOR
+NOR1357,2023-02-03,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Agder,Kristiansand,Kristiansand,58.1456,7.9872,1,National,0,NOR
+NOR1358,2023-02-03,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1359,2023-11-08,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Rogaland,Stavanger,Stavanger,58.9666,5.7322,1,National,0,NOR
+NOR1360,2023-11-09,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Subnational,0,NOR
+NOR1361,2023-11-09,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1362,2023-11-11,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1363,2023-11-12,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Viken,Nordre Follo,Kolbotn,59.8116,10.7974,1,Subnational,0,NOR
+NOR1364,2023-11-12,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,Other,0,NOR
+NOR1355,2023-11-11,1,Protests,Peaceful protest,Protesters (Norway),Norwegian People's Aid; SV: Socialist Left Party; Red Party; AUF: Workers' Youth League; Norway's Palestine Committee; Palestinian Group (Norway),,,Norway,Innlandet,Hamar,Hamar,60.7948,11.0749,1,National,0,NOR
+NOR1365,2023-11-16,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1366,2023-11-17,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1367,2023-11-18,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee,,,Norway,Agder,Kristiansand,Kristiansand,58.1456,7.9872,1,Other,0,NOR
+NOR1368,2023-11-16,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee; Students (Norway); RU: Red Youth,,,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,Other,0,NOR
+NOR1369,2023-11-18,1,Protests,Peaceful protest,Protesters (Norway),LGBTQ+ (Norway),,,Norway,Troms og Finnmark,Tromso,Tromso,69.6487,18.9559,1,Other-National,0,NOR
+NOR1370,2023-11-18,1,Protests,Peaceful protest,Protesters (Norway),Norwegian People's Aid; KK: Struggle Committee,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1374,2023-11-25,1,Riots,Mob violence,Rioters (Norway),Eritrean Group (Norway),Police Forces of Norway (2013-),,Norway,Agder,Kristiansand,Kristiansand,58.1456,7.9872,1,National,0,NOR
+NOR1376,2023-11-13,1,Protests,Peaceful protest,Protesters (Norway),Health Workers (Norway),,,Norway,More og Romsdal,Kristiansund,Kristiansund,63.1104,7.7279,1,National,0,NOR
+NOR1377,2023-11-13,1,Protests,Peaceful protest,Protesters (Norway),Health Workers (Norway),,,Norway,Trondelag,Levanger,Levanger,63.7447,11.3006,1,National,0,NOR
+NOR1378,2023-11-13,1,Protests,Peaceful protest,Protesters (Norway),Health Workers (Norway),,,Norway,More og Romsdal,Molde,Molde,62.7381,7.1586,1,National,0,NOR
+NOR1379,2023-11-13,1,Protests,Peaceful protest,Protesters (Norway),Health Workers (Norway),,,Norway,Trondelag,Namsos,Namsos,64.4662,11.4957,1,National,0,NOR
+NOR1380,2023-11-13,1,Protests,Peaceful protest,Protesters (Norway),Health Workers (Norway),,,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,National,0,NOR
+NOR1381,2023-11-13,1,Protests,Peaceful protest,Protesters (Norway),Health Workers (Norway),,,Norway,More og Romsdal,Volda,Volda,62.1458,6.0794,1,National,0,NOR
+NOR1382,2023-11-23,1,Protests,Peaceful protest,Protesters (Norway),Norway's Palestine Committee; Palestinian Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1383,2023-10-24,1,Protests,Peaceful protest,Protesters (Norway),Protestant Christian Group (Norway),,,Norway,More og Romsdal,Molde,Molde,62.7381,7.1586,1,National,0,NOR
+NOR1384,2023-11-01,1,Protests,Peaceful protest,Protesters (Norway),Protestant Christian Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1385,2023-11-06,1,Protests,Peaceful protest,Protesters (Norway),Protestant Christian Group (Norway),,,Norway,Agder,Arendal,Arendal,58.465,8.7695,1,National,0,NOR
+NOR1386,2023-11-25,1,Protests,Peaceful protest,Protesters (Norway),SU: Socialist Youth; Women (Norway); KK: Struggle Committee; Red Party,,,Norway,Agder,Kristiansand,Kristiansand,58.1456,7.9872,1,Other,0,NOR
+NOR1387,2023-11-25,1,Protests,Peaceful protest,Protesters (Norway),Women (Norway); KK: Struggle Committee,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1388,2023-11-25,1,Protests,Peaceful protest,Protesters (Norway),Women (Norway); KK: Struggle Committee,,,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,Other,0,NOR
+NOR1389,2023-11-25,1,Protests,Peaceful protest,Protesters (Norway),Women (Norway); KK: Struggle Committee,,,Norway,Agder,Vennesla,Vennesla,58.2693,7.9724,1,Other,0,NOR
+NOR1390,2023-11-25,1,Protests,Peaceful protest,Protesters (Norway),Women (Norway); KK: Struggle Committee; Palestinian Group (Norway),,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1391,2023-11-10,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1392,2023-11-12,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1393,2023-11-13,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1394,2023-11-14,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1395,2023-11-16,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1398,2023-11-23,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,National,0,NOR
+NOR1399,2023-11-25,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,National,0,NOR
+NOR1400,2023-11-15,1,Protests,Protest with intervention,Protesters (Norway),,Rioters (Norway),,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1401,2023-11-08,1,Protests,Peaceful protest,Protesters (Norway),Teachers (Norway),,,Norway,Rogaland,Stavanger,Stavanger,58.9666,5.7322,1,Other-National,0,NOR
+NOR1402,2023-11-08,1,Protests,Peaceful protest,Protesters (Norway),Teachers (Norway); Students (Norway),,,Norway,Troms og Finnmark,Tromso,Tromso,69.6487,18.9559,1,Other-Subnational,0,NOR
+NOR1403,2023-11-08,1,Protests,Peaceful protest,Protesters (Norway),Teachers (Norway),,,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,Other,0,NOR
+NOR1404,2023-11-08,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1405,2023-11-08,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Viken,Indre Ostfold,Askim,59.5829,11.1642,1,Other,0,NOR
+NOR1406,2023-11-08,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Vestland,Alver,Knarvik,60.5466,5.2879,1,Other,0,NOR
+NOR1407,2023-11-08,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Trondelag,Stjordal,Stjordal,63.4704,10.9134,1,Other,0,NOR
+NOR1408,2023-11-08,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Troms og Finnmark,Nordreisa,Storslett,69.7678,21.0244,2,Other,0,NOR
+NOR1409,2023-11-30,1,Protests,Peaceful protest,Protesters (Norway),DxE: Direct Action Everywhere,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,International,0,NOR
+NOR1410,2023-04-19,1,Protests,Peaceful protest,Protesters (Norway),Health Workers (Norway); H: Conservative Party,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1411,2023-11-20,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Rogaland,Stavanger,Stavanger,58.9666,5.7322,1,National,0,NOR
+NOR1412,2023-11-21,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1413,2023-11-30,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Nordland,Narvik,Narvik,68.4417,17.4415,1,National,0,NOR
+NOR1415,2023-12-12,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Agder,Flekkefjord,Flekkefjord,58.2972,6.6604,1,National,0,NOR
+NOR1416,2023-11-16,1,Protests,Peaceful protest,Protesters (Norway),Students (Norway),,,Norway,Agder,Kristiansand,Kristiansand,58.1456,7.9872,1,National,0,NOR
+NOR1417,2023-12-02,1,Protests,Peaceful protest,Protesters (Norway),Norway's Palestine Committee; Palestinian Group (Norway),,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1418,2023-12-08,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1419,2023-12-09,1,Protests,Peaceful protest,Protesters (Norway),Norway's Palestine Committee; Palestinian Group (Norway),,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1421,2023-12-14,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other,0,NOR
+NOR1423,2023-12-16,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Agder,Arendal,Arendal,58.465,8.7695,1,National,0,NOR
+NOR1424,2023-12-16,1,Protests,Peaceful protest,Protesters (Norway),Norway's Palestine Committee; Palestinian Group (Norway),,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,National,0,NOR
+NOR1425,2023-12-16,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Nordland,Bodo,Bodo,67.2864,14.3911,1,National,0,NOR
+NOR1426,2023-12-16,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Vestland,Sunnfjord,Forde,61.4527,5.8577,1,National,0,NOR
+NOR1427,2023-12-16,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Viken,Fredrikstad,Fredrikstad,59.2089,10.9504,1,National,0,NOR
+NOR1428,2023-12-16,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Viken,Hol,Geilo,60.5337,8.2089,1,National,0,NOR
+NOR1429,2023-12-16,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Innlandet,Hamar,Hamar,60.7948,11.0749,1,National,0,NOR
+NOR1430,2023-12-16,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Rogaland,Haugesund,Haugesund,59.4141,5.2696,1,National,0,NOR
+NOR1431,2023-12-16,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Agder,Kristiansand,Kristiansand,58.1456,7.9872,1,National,0,NOR
+NOR1432,2023-12-16,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Vestland,Laerdal,Laerdalsoyri,61.0987,7.4825,1,National,0,NOR
+NOR1433,2023-12-16,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,More og Romsdal,Molde,Molde,62.7381,7.1586,1,National,0,NOR
+NOR1434,2023-12-16,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Vestland,Stad,Nordfjordeid,61.9076,5.9891,1,National,0,NOR
+NOR1435,2023-12-16,1,Protests,Peaceful protest,Protesters (Norway),Norway's Palestine Committee; Palestinian Group (Norway); AI: Amnesty International; LO: Norwegian Confederation of Trade Unions; Labor Group (Norway); Protestant Christian Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1436,2023-12-16,1,Protests,Peaceful protest,Protesters (Norway),Norway's Palestine Committee; Palestinian Group (Norway); Labor Group (Norway),,,Norway,Vestfold og Telemark,Porsgrunn,Porsgrunn,59.14,9.6585,1,National,0,NOR
+NOR1437,2023-12-16,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Trondelag,Naeroysund,Rorvik,64.8672,11.2343,1,National,0,NOR
+NOR1438,2023-12-16,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Nordland,Alstahaug,Sandnessjoen,66.0222,12.6364,2,National,0,NOR
+NOR1439,2023-12-16,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Rogaland,Stavanger,Stavanger,58.9666,5.7322,1,National,0,NOR
+NOR1440,2023-12-16,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Troms og Finnmark,Tromso,Tromso,69.6487,18.9559,1,National,0,NOR
+NOR1441,2023-12-16,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,National,0,NOR
+NOR1442,2023-12-16,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Vestland,Voss,Vossevangen,60.6291,6.4101,1,National,0,NOR
+NOR1444,2023-12-18,1,Protests,Peaceful protest,Protesters (Norway),Norway's Palestine Committee; Palestinian Group (Norway),,,Norway,Innlandet,Vestre Toten,Raufoss,60.726,10.6133,1,National,0,NOR
+NOR1445,2023-12-23,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee,,,Norway,Agder,Kristiansand,Kristiansand,58.1456,7.9872,1,Other,0,NOR
+NOR1446,2023-11-25,1,Protests,Peaceful protest,Protesters (Norway),Palestinian Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1447,2023-12-01,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1448,2023-12-02,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1449,2023-12-07,1,Protests,Peaceful protest,Protesters (Norway),Norway's Palestine Committee; Palestinian Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1453,2023-11-13,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Subnational,0,NOR
+NOR1454,2023-11-21,2,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Troms og Finnmark,Vadso,Vadso,70.0741,29.7497,1,National,0,NOR
+NOR1455,2023-11-27,1,Protests,Peaceful protest,Protesters (Norway),Labor Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Subnational,0,NOR
+NOR1462,2023-12-30,2,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Subnational,0,NOR
+NOR1476,2023-03-25,1,Protests,Peaceful protest,Protesters (Norway),SU: Socialist Youth,,,Norway,Viken,Fredrikstad,Fredrikstad,59.2089,10.9504,1,Subnational,0,NOR
+NOR1510,2023-11-29,1,Protests,Peaceful protest,Protesters (Norway),Students (Norway),,,Norway,Nordland,Bodo,Bodo,67.2864,14.3911,1,National,0,NOR
+NOR1538,2023-03-08,1,Protests,Peaceful protest,Protesters (Norway),Women (Norway),,,Norway,Troms og Finnmark,Tromso,Tromso,69.6487,18.9559,1,National,0,NOR
+NOR1542,2023-03-08,1,Protests,Peaceful protest,Protesters (Norway),Red Party; SV: Socialist Left Party; Women (Norway),,,Norway,Rogaland,Haugesund,Haugesund,59.4141,5.2696,1,National,0,NOR
+NOR1297,2023-10-18,1,Protests,Protest with intervention,Protesters (Norway),KK: Struggle Committee,Police Forces of Norway (2013-),,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,Other-National,0,NOR
+NOR1156,2023-03-08,1,Protests,Peaceful protest,Protesters (Norway),Women (Norway),,,Norway,More og Romsdal,Alesund,Alesund,62.4757,6.1552,1,National,0,NOR
+NOR1185,2023-05-01,1,Protests,Peaceful protest,Protesters (Norway),Labor Group (Norway); LO: Norwegian Confederation of Trade Unions,,,Norway,More og Romsdal,Alesund,Alesund,62.4757,6.1552,1,Other,0,NOR
+NOR1341,2023-11-08,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,More og Romsdal,Alesund,Alesund,62.4757,6.1552,1,National,0,NOR
+NOR1342,2023-11-04,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,More og Romsdal,Alesund,Alesund,62.4757,6.1552,1,National,0,NOR
+NOR1375,2023-11-13,1,Protests,Peaceful protest,Protesters (Norway),Health Workers (Norway),,,Norway,More og Romsdal,Alesund,Alesund,62.4757,6.1552,1,National,0,NOR
+NOR1422,2023-12-16,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,More og Romsdal,Alesund,Alesund,62.4757,6.1552,1,National,0,NOR
+NOR1809,2023-11-29,1,Protests,Peaceful protest,Protesters (Norway),Action Group for Palestine,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1204,2023-05-27,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,3,Regional,0,NOR
+NOR1144,2023-03-01,1,Protests,Peaceful protest,Protesters (International),,,,Norway,Svalbard,Spitsbergen,Longyearbyen,78.2231,15.6463,1,National,0,NOR
+NOR1318,2023-10-21,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Vestfold og Telemark,Tonsberg,Tonsberg,59.2676,10.412,1,Subnational,0,NOR
+NOR1414,2023-12-11,1,Protests,Peaceful protest,Protesters (Norway),Health Workers (Norway),,,Norway,Vestfold og Telemark,Tonsberg,Tonsberg,59.2676,10.412,1,Subnational,0,NOR
+NOR2112,2023-10-25,1,Protests,Peaceful protest,Protesters (Norway),BKA: Grandparents' Climate Action Norway,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,New media,0,NOR
+NOR1112,2023-02-08,1,Protests,Peaceful protest,Protesters (Norway),XR: Extinction Rebellion,,,Norway,Viken,Baerum,Fornebu,59.8996,10.6286,1,Other,0,NOR
+NOR1117,2023-02-12,1,Protests,Peaceful protest,Protesters (International),Greenpeace,,,Norway,Rogaland,Haugesund,Haugesund,59.4141,5.2696,1,Other-Subnational,0,NOR
+NOR1160,2023-03-17,1,Protests,Peaceful protest,Protesters (Norway),Grandparents' Climate Action; MDG: The Green Party of Norway; NU: Nature and Youth Norway; RU: Red Youth; SU: Socialist Youth; XR: Extinction Rebellion; Young Greens of Norway,,,Norway,Rogaland,Stavanger,Stavanger,58.9666,5.7322,1,National,0,NOR
+NOR1176,2023-04-27,1,Protests,Peaceful protest,Protesters (Norway),XR: Extinction Rebellion,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other-Subnational,0,NOR
+NOR1179,2023-05-03,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee; Sami Indigenous Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1220,2023-06-18,1,Protests,Peaceful protest,Protesters (Norway),Greenpeace,,,Norway,Vestland,Austrheim,Mongstad,60.7979,5.0116,1,Other-Subnational,0,NOR
+NOR1221,2023-06-20,1,Protests,Peaceful protest,Protesters (Norway),Greenpeace,,,Norway,Vestland,Austrheim,Mongstad,60.7979,5.0116,1,Other-Subnational,0,NOR
+NOR1242,2023-07-25,1,Protests,Peaceful protest,Protesters (Norway),Grandparents' Climate Action,,,Norway,Rogaland,Haugesund,Haugesund,59.4141,5.2696,1,New media,0,NOR
+NOR1243,2023-07-29,1,Protests,Peaceful protest,Protesters (Norway),Grandparents' Climate Action,,,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,New media,0,NOR
+NOR1246,2023-04-22,1,Protests,Peaceful protest,Protesters (Norway),BKA: Grandparents' Climate Action Norway,,,Norway,Innlandet,Nord-Aurdal,Fagernes,60.9858,9.2321,1,New media,0,NOR
+NOR1247,2023-05-01,1,Protests,Peaceful protest,Protesters (Norway),BKA: Grandparents' Climate Action Norway,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,New media,0,NOR
+NOR1248,2023-05-01,1,Protests,Peaceful protest,Protesters (Norway),BKA: Grandparents' Climate Action Norway,,,Norway,Vestfold og Telemark,Porsgrunn,Porsgrunn,59.14,9.6585,1,New media,0,NOR
+NOR1249,2023-05-01,1,Protests,Peaceful protest,Protesters (Norway),BKA: Grandparents' Climate Action Norway,,,Norway,Troms og Finnmark,Tromso,Tromso,69.6487,18.9559,1,New media,0,NOR
+NOR1250,2023-05-01,1,Protests,Peaceful protest,Protesters (Norway),Norwegian Society for the Conservation of Nature; NU: Nature and Youth Norway; Greenpeace; XR: Extinction Rebellion; BKA: Grandparents' Climate Action Norway,,,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,New media,0,NOR
+NOR1251,2023-05-04,1,Protests,Peaceful protest,Protesters (Norway),BKA: Grandparents' Climate Action Norway,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,New media,0,NOR
+NOR1252,2023-05-10,1,Protests,Peaceful protest,Protesters (Norway),BKA: Grandparents' Climate Action Norway; Students (Norway),,,Norway,Rogaland,Stavanger,Stavanger,58.9666,5.7322,1,New media,0,NOR
+NOR1253,2023-05-13,1,Protests,Peaceful protest,Protesters (Norway),BKA: Grandparents' Climate Action Norway,,,Norway,Rogaland,Stavanger,Stavanger,58.9666,5.7322,1,New media,0,NOR
+NOR1254,2023-05-20,1,Protests,Peaceful protest,Protesters (Norway),BKA: Grandparents' Climate Action Norway,,,Norway,Troms og Finnmark,Tromso,Tromso,69.6487,18.9559,1,New media,0,NOR
+NOR1255,2023-06-05,1,Protests,Peaceful protest,Protesters (Norway),BKA: Grandparents' Climate Action Norway,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,New media,0,NOR
+NOR1256,2023-06-10,1,Protests,Peaceful protest,Protesters (Norway),BKA: Grandparents' Climate Action Norway,,,Norway,More og Romsdal,Alesund,Alesund,62.4757,6.1552,1,New media,0,NOR
+NOR1257,2023-06-17,1,Protests,Peaceful protest,Protesters (Norway),BKA: Grandparents' Climate Action Norway,,,Norway,Troms og Finnmark,Tromso,Tromso,69.6487,18.9559,1,New media,0,NOR
+NOR1258,2023-07-17,1,Protests,Peaceful protest,Protesters (Norway),BKA: Grandparents' Climate Action Norway; Protesters (United Kingdom),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,New media,0,NOR
+NOR1278,2023-01-21,1,Protests,Peaceful protest,Protesters (Norway),XR: Extinction Rebellion,,,Norway,Vestfold og Telemark,Skien,Skien,59.219,9.6034,1,Other,0,NOR
+NOR1279,2023-09-23,1,Protests,Peaceful protest,Protesters (Norway),XR: Extinction Rebellion,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,International,0,NOR
+NOR1280,2023-09-23,1,Protests,Peaceful protest,Protesters (Norway),XR: Extinction Rebellion,,,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,International,0,NOR
+NOR1283,2023-09-15,1,Protests,Peaceful protest,Protesters (Norway),FFF: Fridays for Future; Students (International); BKA: Grandparents' Climate Action Norway,,,Norway,Vestland,Bergen,Bergen,60.3926,5.3198,1,New media,0,NOR
+NOR1284,2023-09-25,1,Protests,Peaceful protest,Protesters (Norway),Greenpeace,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1291,2023-10-04,1,Protests,Peaceful protest,Protesters (Norway),XR: Extinction Rebellion,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1319,2023-10-23,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1329,2023-11-01,1,Protests,Peaceful protest,Protesters (Norway),Just Stop Oil (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1330,2023-11-02,1,Protests,Peaceful protest,Protesters (Norway),Just Stop Oil (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other-National,0,NOR
+NOR1338,2023-03-20,1,Protests,Peaceful protest,Protesters (Norway),XR: Extinction Rebellion,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,National,0,NOR
+NOR1372,2023-11-18,1,Protests,Peaceful protest,Protesters (Norway),XR: Extinction Rebellion; Women (Norway),,,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,International,0,NOR
+NOR1373,2023-11-21,1,Protests,Peaceful protest,Protesters (Norway),XR: Extinction Rebellion,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Subnational-National,0,NOR
+NOR1420,2023-12-12,1,Protests,Peaceful protest,Protesters (Norway),XR: Extinction Rebellion,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1443,2023-12-16,1,Protests,Protest with intervention,Protesters (Norway),Just Stop Oil (Norway),Private Security Forces (Norway),,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,National,0,NOR
+NOR1456,2023-11-30,1,Protests,Peaceful protest,Protesters (Norway),XR: Extinction Rebellion; Just Stop Oil (Norway),,,Norway,Trondelag,Trondheim,Trondheim,63.4365,10.3981,1,National,0,NOR
+NOR1123,2023-02-23,1,Protests,Peaceful protest,Protesters (Norway),NSR-N: Youth Committee of the Norwegian Sami Association; Sami Indigenous Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other-National,0,NOR
+NOR1124,2023-02-24,1,Protests,Peaceful protest,Protesters (Norway),NSR-N: Youth Committee of the Norwegian Sami Association; Sami Indigenous Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other-National,0,NOR
+NOR1138,2023-02-26,1,Protests,Protest with intervention,Protesters (Norway),NSR-N: Youth Committee of the Norwegian Sami Association; NU: Nature and Youth Norway; Sami Indigenous Group (Norway),Police Forces of Norway (2013-),,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other-National,0,NOR
+NOR1142,2023-02-25,1,Protests,Peaceful protest,Protesters (Norway),NSR-N: Youth Committee of the Norwegian Sami Association; NU: Nature and Youth Norway; Sami Indigenous Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other-National,0,NOR
+NOR1155,2023-03-08,1,Protests,Peaceful protest,Protesters (Norway),SIAN: Stop Islamisation of Norway,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1174,2023-04-02,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Viken,Indre Ostfold,Mysen,59.5556,11.3259,1,Other-New media,0,NOR
+NOR1189,2023-05-01,1,Protests,Peaceful protest,Protesters (Norway),Labor Group (Norway); Palestinian Group (Norway),,,Norway,Vestfold og Telemark,Tonsberg,Tonsberg,59.2676,10.412,1,Other,0,NOR
+NOR1194,2023-05-13,1,Protests,Peaceful protest,Protesters (Norway),Palestinian Group (Norway),,,Norway,Vestfold og Telemark,Sandefjord,Sandefjord,59.1354,10.2229,1,Other,0,NOR
+NOR1267,2023-09-02,1,Protests,Peaceful protest,Protesters (Norway),SIAN: Stop Islamisation of Norway,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1277,2023-09-29,1,Protests,Peaceful protest,Protesters (Norway),SIAN: Stop Islamisation of Norway,Protesters (Norway),,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other-National,0,NOR
+NOR1285,2023-10-02,1,Protests,Peaceful protest,Protesters (Norway),Grandparents' Climate Action; Greenpeace; Norwegian Society for the Conservation of Nature; NU: Nature and Youth Norway; SU: Socialist Youth; WWF: World Wildlife Fund,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other-New media,0,NOR
+NOR1300,2023-10-14,1,Protests,Peaceful protest,Protesters (Norway),KK: Struggle Committee; Norway's Palestine Committee; Palestinian Group (Norway),,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1303,2023-10-07,1,Protests,Peaceful protest,Protesters (Norway),SIAN: Stop Islamisation of Norway,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1312,2023-03-04,1,Protests,Peaceful protest,Protesters (Norway),SIAN: Stop Islamisation of Norway,,,Norway,Oslo,Oslo,Oslo,59.911,10.7531,1,Other,0,NOR
+NOR1371,2023-10-28,1,Protests,Peaceful protest,Protesters (Norway),SIAN: Stop Islamisation of Norway,,,Norway,Viken,Asker,Asker,59.8362,10.433,1,Other,0,NOR
+NOR1396,2023-11-18,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Innlandet,Lillehammer,Lillehammer,61.1145,10.4671,1,Other,0,NOR
+NOR1397,2023-11-21,1,Protests,Peaceful protest,Protesters (Norway),,,,Norway,Svalbard,Spitsbergen,Longyearbyen,78.2231,15.6463,1,Other,0,NOR

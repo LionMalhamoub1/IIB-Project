@@ -1,0 +1,34 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+RWA692,2021-01-11,1,Battles,Armed clash,Interahamwe Militia,,Military Forces of Rwanda (1994-),,Rwanda,West,Rusizi,Nyungwe Forest,-2.5204,29.3041,1,International,0,RWA
+RWA693,2021-02-04,1,Strategic developments,Other,Unidentified Armed Group (Rwanda),,Civilians (Rwanda),Farmers (Rwanda); Women (Rwanda),Rwanda,East,Ngoma,Birenga,-2.2109,30.4934,1,National,0,RWA
+RWA700,2021-03-04,1,Explosions/Remote violence,Grenade,Unidentified Armed Group (Rwanda),,Civilians (Rwanda),,Rwanda,East,Kayonza,Miyange,-1.8881,30.5248,1,National,0,RWA
+RWA695,2021-02-01,2,Battles,Armed clash,Military Forces of Rwanda (1994-),,FDLR: Democratic Forces for the Liberation of Rwanda,Military Forces of Burundi (2005-),Rwanda,West,Rusizi,Nyungwe Forest,-2.5204,29.3041,2,New media,0,RWA
+RWA706,2021-09-21,1,Riots,Mob violence,Rioters (Rwanda),Vigilante Group (Rwanda),Civilians (Rwanda),,Rwanda,South,Huye,Akarehe,-2.6749,29.7572,1,National,2,RWA
+RWA699,2021-02-28,1,Battles,Armed clash,Military Forces of Rwanda (1994-),,FLN: National Liberation Front (Rwanda),,Rwanda,West,Rusizi,Nyungwe Forest,-2.5204,29.3041,2,Regional,6,RWA
+RWA698,2021-02-27,1,Battles,Armed clash,Military Forces of Rwanda (1994-),,FLN: National Liberation Front (Rwanda),,Rwanda,West,Rusizi,Nyungwe Forest,-2.5204,29.3041,2,New media-Regional,0,RWA
+RWA697,2021-02-26,1,Battles,Armed clash,Military Forces of Rwanda (1994-),,FLN: National Liberation Front (Rwanda),,Rwanda,West,Rusizi,Nyungwe Forest,-2.5204,29.3041,2,New media-Regional,0,RWA
+RWA696,2021-02-25,1,Battles,Armed clash,Military Forces of Rwanda (1994-),,FLN: National Liberation Front (Rwanda),,Rwanda,West,Rusizi,Nyungwe Forest,-2.5204,29.3041,2,New media-Regional,0,RWA
+RWA770,2021-07-04,1,Violence against civilians,Attack,Police Forces of Rwanda (1994-),,Civilians (Rwanda),,Rwanda,East,Bugesera,Kabeza,-2.2008,30.1835,1,Other,1,RWA
+RWA761,2021-07-27,2,Violence against civilians,Attack,Police Forces of Rwanda (1994-),,Civilians (Rwanda),Women (Rwanda); Prisoners (Rwanda),Rwanda,East,Bugesera,Kibenga,-2.2147,30.1057,1,Other,1,RWA
+RWA796,2021-04-28,1,Violence against civilians,Attack,Police Forces of Rwanda (1994-) Prison Guards,,Civilians (Rwanda),Prisoners (Rwanda),Rwanda,East,Kirehe,Kirehe,-2.2666,30.65,2,Other,5,RWA
+RWA814,2021-04-13,1,Violence against civilians,Attack,Police Forces of Rwanda (1994-),Military Forces of Rwanda (1994-),Civilians (Rwanda),,Rwanda,East,Rwamagana,Murehe,-2.0079,30.2802,1,Other,1,RWA
+RWA736,2021-03-12,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Rwanda),,Civilians (Rwanda),Labor Group (Rwanda); Women (Rwanda),Rwanda,Kigali City,Gasabo,Kimironko,-1.9361,30.1303,2,Other,0,RWA
+RWA735,2021-03-12,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Rwanda),,Civilians (Rwanda),Women (Rwanda),Rwanda,Kigali City,Gasabo,Kinyinya,-1.9113,30.0772,2,Other,0,RWA
+RWA754,2021-09-29,1,Violence against civilians,Attack,Police Forces of Rwanda (1994-),,Civilians (Rwanda),Prisoners (Rwanda),Rwanda,North,Gicumbi,Gicumbi,-1.579,30.066,2,Other,0,RWA
+RWA729,2021-10-17,1,Violence against civilians,Abduction/forced disappearance,Police Forces of Rwanda (1994-),,Civilians (Rwanda),,Rwanda,North,Gicumbi,Gicumbi,-1.579,30.066,2,Other,0,RWA
+RWA765,2021-10-14,1,Violence against civilians,Attack,Police Forces of Rwanda (1994-),,Civilians (Rwanda),,Rwanda,North,Gicumbi,Gicumbi,-1.579,30.066,2,Other,2,RWA
+RWA815,2021-05-14,1,Violence against civilians,Attack,Unidentified Armed Group (Rwanda),,Civilians (Rwanda),,Rwanda,North,Musanze,Musanze,-1.4915,29.6008,1,Other,0,RWA
+RWA752,2021-03-27,1,Violence against civilians,Attack,Police Forces of Rwanda (1994-),,Civilians (Rwanda),Labor Group (Rwanda),Rwanda,North,Rulindo,Ndorandi,-1.6629,29.948,1,Other,1,RWA
+RWA787,2021-04-02,1,Violence against civilians,Attack,Police Forces of Rwanda (1994-) Prison Guards,,Civilians (Rwanda),Prisoners (Rwanda),Rwanda,South,Gisagara,Cyumba,-2.6575,29.8772,1,Other,1,RWA
+RWA734,2021-02-07,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Rwanda),,Civilians (Rwanda),Teachers (Rwanda),Rwanda,South,Nyamagabe,Nyanza,-2.45,29.6,2,Other,0,RWA
+RWA806,2021-02-24,1,Violence against civilians,Attack,Police Forces of Rwanda (1994-) Prison Guards,,Civilians (Rwanda),Prisoners (Rwanda),Rwanda,West,Rusizi,Rusizi,-2.5702,29.0754,1,Other,1,RWA
+RWA707,2021-10-08,1,Protests,Peaceful protest,Protesters (Rwanda),Labor Group (Rwanda),,,Rwanda,West,Rubavu,Rubavu,-1.6894,29.3025,2,National,0,RWA
+RWA780,2021-11-04,1,Violence against civilians,Attack,Police Forces of Rwanda (1994-),,Civilians (Rwanda),,Rwanda,West,Rubavu,Rubavu,-1.6894,29.3025,2,Other,2,RWA
+RWA701,2021-04-14,1,Violence against civilians,Attack,Military Forces of Rwanda (1994-),,Civilians (Democratic Republic of Congo),,Rwanda,West,Rubavu,Cyanzarwe,-1.6442,29.3268,2,National,1,RWA
+RWA704,2021-07-06,2,Riots,Mob violence,Rioters (Rwanda),Government of Rwanda (1994-),Civilians (Rwanda),,Rwanda,Kigali City,,Kigali,-1.9638,30.0383,1,National,1,RWA
+RWA713,2021-10-15,2,Strategic developments,Arrests,Police Forces of Rwanda (1994-),,Civilians (Rwanda),DALFA-Umurinzi: Development and Liberty for All; Journalists (Rwanda),Rwanda,Kigali City,,Kigali,-1.9638,30.0383,1,Other,0,RWA
+RWA760,2021-08-08,1,Violence against civilians,Attack,Police Forces of Rwanda (1994-),,Civilians (Rwanda),Women (Rwanda),Rwanda,Kigali City,Nyarugenge,Kiyovu,-1.9542,30.0707,1,Other,1,RWA
+RWA703,2021-05-23,1,Battles,Armed clash,Military Forces of Rwanda (1994-),,FLN: National Liberation Front (Rwanda),,Rwanda,West,Rusizi,Nyamuzi,-2.6063,29.3105,2,Regional,2,RWA
+RWA803,2021-02-07,1,Violence against civilians,Attack,Police Forces of Rwanda (1994-) Prison Guards,,Civilians (Rwanda),Prisoners (Rwanda),Rwanda,West,Rusizi,Nkanka,-2.4117,28.9367,1,Other,1,RWA
+RWA702,2021-04-19,1,Violence against civilians,Attack,Military Forces of Rwanda (1994-),,Civilians (Democratic Republic of Congo),,Rwanda,West,Rubavu,Murambi,-1.6495,29.2652,1,National,2,RWA
+RWA705,2021-08-27,1,Strategic developments,Looting/property destruction,FDLR: Democratic Forces for the Liberation of Rwanda,,Civilians (Rwanda),,Rwanda,West,Rubavu,Bugeshi,-1.5404,29.3755,1,National,0,RWA

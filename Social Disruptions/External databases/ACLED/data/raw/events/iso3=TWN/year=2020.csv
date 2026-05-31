@@ -1,0 +1,535 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+TWN805,2020-03-06,1,Protests,Peaceful protest,Protesters (Taiwan),Farmers (Taiwan),,,Taiwan,Pingtung,Pingtung,Pingtung City,22.6832,120.4879,1,National,0,TWN
+TWN769,2020-01-21,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Hualien,Hualien,Fuli,23.1811,121.2503,1,National,0,TWN
+TWN767,2020-01-20,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Miaoli,Miaoli,Zaoqiao,24.6425,120.8671,1,National,0,TWN
+TWN745,2020-01-06,1,Protests,Peaceful protest,Protesters (Taiwan),KMT: Kuomintang,,,Taiwan,Yunlin,Yunlin,Douliu City,23.7095,120.5623,1,National,0,TWN
+TWN812,2020-03-15,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Chiayi,Chiayi,Shuishang,23.4288,120.4,1,National,0,TWN
+TWN902,2020-06-19,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Hualien,Hualien,Guangfu,23.669,121.4234,1,Subnational,0,TWN
+TWN859,2020-05-18,1,Protests,Peaceful protest,Protesters (Taiwan),Fishers (Taiwan),,,Taiwan,Pingtung,Pingtung,Liuqiu,22.3404,120.3715,1,National,0,TWN
+TWN746,2020-01-06,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Yunlin,Yunlin,Xiluo Urban,23.7496,120.4359,1,National,0,TWN
+TWN814,2020-03-18,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Pingtung,Pingtung,Pingtung City,22.6832,120.4879,1,National,0,TWN
+TWN882,2020-06-08,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Yunlin,Yunlin,Mailiao,23.7987,120.2179,1,National,0,TWN
+TWN847,2020-05-02,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Yilan,Yilan,Yilan City,24.7606,121.7542,1,National,0,TWN
+TWN897,2020-06-13,1,Protests,Peaceful protest,Protesters (Taiwan),Health Workers (Taiwan); NPP: New Power Party,,,Taiwan,Pingtung,Pingtung,Pingtung City,22.6832,120.4879,1,National,0,TWN
+TWN876,2020-06-02,1,Protests,Peaceful protest,Protesters (Taiwan),Students (Taiwan),,,Taiwan,Chiayi,Chiayi,Puzi City,23.447,120.2573,1,National,0,TWN
+TWN752,2020-01-08,1,Protests,Peaceful protest,Protesters (Taiwan),KMT: Kuomintang,,,Taiwan,Taitung,Taitung,Daren,22.2971,120.883,1,National,0,TWN
+TWN835,2020-04-20,1,Protests,Peaceful protest,Protesters (Taiwan),Farmers (Taiwan),,,Taiwan,Pingtung,Pingtung,Pingtung City,22.6832,120.4879,1,National,0,TWN
+TWN755,2020-01-09,1,Protests,Peaceful protest,Protesters (Taiwan),KMT: Kuomintang,,,Taiwan,Yunlin,Yunlin,Huwei Urban,23.7159,120.4338,1,National,0,TWN
+TWN772,2020-02-01,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Chiayi,Chiayi,Puzi City,23.447,120.2573,1,National,0,TWN
+TWN861,2020-05-19,1,Protests,Peaceful protest,Protesters (Taiwan),Farmers (Taiwan),,,Taiwan,Yunlin,Yunlin,Tuku Urban,23.706,120.3561,1,National,0,TWN
+TWN779,2020-02-10,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Changhua,Changhua,Fangyuan,23.9245,120.3203,1,National,0,TWN
+TWN822,2020-03-28,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Pingtung,Pingtung,Pingtung City,22.6832,120.4879,1,National,0,TWN
+TWN803,2020-03-05,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kinmen,Kinmen,Jincheng Urban,24.4328,118.3205,1,National,0,TWN
+TWN778,2020-02-10,1,Protests,Protest with intervention,Protesters (Taiwan),,Police Forces of Taiwan (2016-),,Taiwan,Changhua,Changhua,Tianwei,23.8896,120.5416,1,National,0,TWN
+TWN819,2020-03-20,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Nantou,Nantou,Guoxing,24.0405,120.8571,1,National,0,TWN
+TWN868,2020-05-25,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Hualien,Hualien,Hualien City,23.9914,121.6106,1,National,0,TWN
+TWN816,2020-03-18,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Yunlin,Yunlin,Kouhu,23.6208,120.1626,1,National,0,TWN
+TWN872,2020-05-30,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Hualien,Hualien,Guangfu,23.669,121.4234,1,National,0,TWN
+TWN941,2020-07-10,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Yilan,Yilan,Datong,24.6775,121.609,1,National,0,TWN
+TWN944,2020-07-10,1,Protests,Peaceful protest,Protesters (Taiwan),Farmers (Taiwan),,,Taiwan,Yilan,Yilan,Wujie,24.7,121.7833,1,National,0,TWN
+TWN954,2020-07-15,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Miaoli,Miaoli,Miaoli City,24.5736,120.815,1,National,0,TWN
+TWN957,2020-07-15,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Yunlin,Yunlin,Mailiao,23.7987,120.2179,1,National,0,TWN
+TWN963,2020-07-13,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Chiayi,Chiayi,Shuishang,23.4288,120.4,1,National,0,TWN
+TWN968,2020-07-24,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taitung,Taitung,Taitung City,22.7556,121.1141,1,National,0,TWN
+TWN971,2020-07-23,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Changhua,Changhua,Yuanlin City,23.9598,120.5859,1,National,0,TWN
+TWN976,2020-07-31,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Miaoli,Miaoli,Miaoli City,24.5736,120.815,1,National,0,TWN
+TWN863,2020-05-20,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Hualien,Hualien,Fenglin Urban,23.7465,121.4475,1,National,0,TWN
+TWN843,2020-04-28,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Changhua,Changhua,Tianzhong Urban,23.8588,120.5856,1,National,0,TWN
+TWN851,2020-05-09,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Hualien,Hualien,Fenglin Urban,23.7465,121.4475,1,National,0,TWN
+TWN990,2020-08-03,1,Protests,Peaceful protest,Protesters (Taiwan),Farmers (Taiwan),,,Taiwan,Taitung,Taitung,Taitung City,22.7556,121.1141,1,National,0,TWN
+TWN1026,2020-08-31,1,Protests,Peaceful protest,Protesters (Taiwan),Farmers (Taiwan),,,Taiwan,Yunlin,Yunlin,Douliu City,23.7095,120.5623,1,National,0,TWN
+TWN1005,2020-08-21,1,Protests,Peaceful protest,Protesters (Taiwan),Tax and Legal Reform League,,,Taiwan,Miaoli,Miaoli,Miaoli City,24.5736,120.815,1,National,0,TWN
+TWN1001,2020-08-18,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Yunlin,Yunlin,Mailiao,23.7987,120.2179,1,National,0,TWN
+TWN1002,2020-08-19,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Miaoli,Miaoli,Tongxiao Urban,24.4941,120.6803,1,National,0,TWN
+TWN1004,2020-08-20,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kinmen,Kinmen,Jincheng Urban,24.4328,118.3205,1,National,0,TWN
+TWN992,2020-08-11,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Hualien,Hualien,Fenglin Urban,23.7465,121.4475,1,National,0,TWN
+TWN1041,2020-09-11,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Changhua,Changhua,Hemei Urban,24.1093,120.494,1,National,0,TWN
+TWN1060,2020-09-24,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Chiayi,Chiayi,Lucao,23.4115,120.3085,1,National,0,TWN
+TWN1057,2020-09-23,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-),,,Taiwan,Pingtung,Pingtung,Liuqiu,22.3404,120.3715,1,National,0,TWN
+TWN791,2020-02-24,2,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Yunlin,Yunlin,Douliu City,23.7095,120.5623,1,National,0,TWN
+TWN1077,2020-10-05,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Chiayi,Chiayi,Yizhu,23.357,120.2169,1,National,0,TWN
+TWN1084,2020-10-05,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Changhua,Changhua,Yuanlin City,23.9598,120.5859,1,National,0,TWN
+TWN1092,2020-10-15,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Nantou,Nantou,Nantou City,23.9188,120.6781,1,National,0,TWN
+TWN1089,2020-10-13,1,Riots,Violent demonstration,Rioters (Taiwan),Indigenous Group (Taiwan),,,Taiwan,Pingtung,Pingtung,Pingtung City,22.6832,120.4879,1,National,0,TWN
+TWN1093,2020-10-16,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Nantou,Nantou,Zhushan Urban,23.7555,120.682,1,National,0,TWN
+TWN1098,2020-10-15,1,Protests,Protest with intervention,Protesters (Taiwan),Indigenous Group (Taiwan),Police Forces of Taiwan (2016-),,Taiwan,Pingtung,Pingtung,Majia,22.7028,120.6476,1,National,0,TWN
+TWN1119,2020-10-26,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-),,,Taiwan,Hsinchu,Hsinchu,Hukou,24.8833,121.05,1,National,0,TWN
+TWN1134,2020-11-06,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Nantou,Nantou,Yuchi,23.8973,120.9381,1,National,0,TWN
+TWN1972,2020-02-03,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Changhua,Changhua,Fangyuan,23.9245,120.3203,1,National,0,TWN
+TWN1992,2020-11-30,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-),,,Taiwan,Pingtung,Pingtung,Fangliao,22.3668,120.5937,1,National,0,TWN
+TWN1996,2020-12-04,1,Protests,Peaceful protest,Protesters (Taiwan),Journalists (Taiwan),,,Taiwan,Pingtung,Pingtung,Pingtung City,22.6832,120.4879,1,National,0,TWN
+TWN2001,2020-12-05,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Chiayi,Chiayi,Puzi City,23.447,120.2573,1,National,0,TWN
+TWN2018,2020-12-18,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-),,,Taiwan,Pingtung,Pingtung,Fangliao,22.3668,120.5937,1,National,0,TWN
+TWN2019,2020-12-26,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-),,,Taiwan,Pingtung,Pingtung,Fangliao,22.3668,120.5937,1,National,0,TWN
+TWN1087,2020-10-16,1,Riots,Violent demonstration,Rioters (Taiwan),Students (Taiwan),Police Forces of Taiwan (2016-),,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1102,2020-10-18,1,Protests,Peaceful protest,Protesters (Thailand),Students (Thailand),,,Taiwan,Taipei City,Taipei City,Taipei City - Da'an,25.0267,121.5345,1,National,0,TWN
+TWN1114,2020-10-26,1,Protests,Protest with intervention,Protesters (Taiwan),Government of Taiwan (2016-); KMT: Kuomintang; BSAA: Blue Sky Action Alliance,Police Forces of Taiwan (2016-),,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1121,2020-10-26,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1133,2020-11-02,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-); KMT: Kuomintang; TPP: Taiwan People's Party,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1156,2020-11-17,1,Protests,Protest with intervention,Protesters (Taiwan),Labor Group (Taiwan),Police Forces of Taiwan (2016-),,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1158,2020-11-20,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Datong,25.0662,121.5154,1,National,0,TWN
+TWN1161,2020-11-19,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-); Former Government of Taiwan (2016-); KMT: Kuomintang,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1286,2020-05-24,1,Protests,Peaceful protest,Protesters (International),Labor Group (International),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN2039,2020-12-24,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-); TPP: Taiwan People's Party; NP: New Party,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN2044,2020-12-28,1,Protests,Peaceful protest,Protesters (Taiwan),Students (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN2045,2020-12-29,1,Protests,Peaceful protest,Protesters (Taiwan),Taiwan Labour Party,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN773,2020-02-03,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN826,2020-03-31,1,Protests,Peaceful protest,Protesters (International),Labor Group (International); NAFR: National Association for Firefighters' Rights,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN838,2020-04-23,1,Protests,Protest with intervention,Protesters (Taiwan),Shezi Island Communal Group (Taiwan),Police Forces of Taiwan (2016-),,Taiwan,Taipei City,Taipei City,Taipei City - Xinyi,25.0338,121.5673,1,National,0,TWN
+TWN845,2020-05-01,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National-International,0,TWN
+TWN850,2020-05-06,1,Protests,Protest with intervention,Protesters (Taiwan),,Police Forces of Taiwan (2016-),,Taiwan,Taipei City,Taipei City,Taipei City - Zhongshan,25.0642,121.5336,1,National,0,TWN
+TWN865,2020-05-23,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN884,2020-06-09,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Songshan,25.0551,121.5623,1,National,0,TWN
+TWN894,2020-06-13,1,Protests,Peaceful protest,Protesters (Taiwan),CUPP: Chinese Unity Promotion Party,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN896,2020-06-13,1,Protests,Peaceful protest,Protesters (Taiwan),BLM: Black Lives Matter; Unidentified Ethnic Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National-International,0,TWN
+TWN916,2020-07-02,1,Protests,Peaceful protest,Protesters (Taiwan),Farmers (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN917,2020-06-28,1,Protests,Peaceful protest,Protesters (Taiwan),KMT: Kuomintang,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN962,2020-07-15,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Da'an,25.0267,121.5345,1,National,0,TWN
+TWN986,2020-08-04,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1009,2020-08-16,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,International,0,TWN
+TWN1051,2020-09-15,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN2046,2020-12-31,1,Protests,Peaceful protest,Protesters (Taiwan),Health Workers (Taiwan); Government of Taiwan (2016-); KMT: Kuomintang,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1148,2020-11-12,1,Protests,Peaceful protest,Protesters (Taiwan),333 Political Party Alliance,,,Taiwan,Taipei City,Taipei City,Taipei City - Xinyi,25.0338,121.5673,1,National,0,TWN
+TWN997,2020-08-10,1,Protests,Peaceful protest,Protesters (Taiwan),BSAA: Blue Sky Action Alliance,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN811,2020-03-13,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1017,2020-08-30,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City,25.0396,121.5651,1,National,0,TWN
+TWN998,2020-08-14,1,Protests,Peaceful protest,Protesters (Taiwan),Shezi Island Communal Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN2012,2020-12-10,1,Protests,Peaceful protest,Protesters (Taiwan),Former Government of Taiwan (2016-),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1378,2020-06-29,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1339,2020-03-21,1,Protests,Peaceful protest,Protesters (Taiwan),Students (Taiwan); Teachers (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1344,2020-05-13,1,Protests,Peaceful protest,Protesters (Taiwan),TAHR: Taiwan Association for Human Rights; Christian Group (Taiwan); Lawyers (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN2004,2020-11-27,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan); Lawyers (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1364,2020-06-05,1,Protests,Peaceful protest,Protesters (Taiwan),TISM: Taiwan International Student Movement; Students (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1377,2020-06-23,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1388,2020-06-09,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1333,2020-04-08,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1012,2020-08-25,1,Protests,Peaceful protest,Protesters (Taiwan),Teachers (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1013,2020-08-27,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN961,2020-07-13,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Nangang,25.0546,121.6067,1,National,0,TWN
+TWN878,2020-06-03,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongshan,25.0642,121.5336,1,National,0,TWN
+TWN1038,2020-09-08,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1104,2020-10-20,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City,25.0396,121.5651,1,National,0,TWN
+TWN862,2020-05-20,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN942,2020-07-09,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN870,2020-05-27,1,Protests,Peaceful protest,Protesters (Taiwan),Health Workers (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1070,2020-09-30,1,Protests,Peaceful protest,Protesters (Taiwan),Teachers (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN834,2020-04-17,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1400,2020-06-17,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Songshan,25.0551,121.5623,1,National,0,TWN
+TWN1398,2020-06-03,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-); NPP: New Power Party,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1128,2020-10-25,1,Protests,Peaceful protest,Protesters (Taiwan),Taiwan Labour Party,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1409,2020-02-08,1,Protests,Peaceful protest,Protesters (Taiwan),Health Workers (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN2043,2020-12-28,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1402,2020-03-23,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1424,2020-02-21,1,Protests,Peaceful protest,Protesters (Taiwan),TFAU: Taoyuan Flight Attendants Union; NPP: New Power Party; TPP: Taiwan People's Party; Government of Taiwan (2016-); Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1448,2020-08-18,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1440,2020-09-10,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City,25.0396,121.5651,1,National,0,TWN
+TWN1401,2020-02-03,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Da'an,25.0267,121.5345,1,National,0,TWN
+TWN1435,2020-08-25,1,Protests,Peaceful protest,Protesters (Taiwan),Health Workers (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City,25.0396,121.5651,1,National,0,TWN
+TWN1436,2020-02-24,1,Protests,Peaceful protest,Protesters (Taiwan),Health Workers (Taiwan); TCTU: Taiwan Confederation of Trade Unions; Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City,25.0396,121.5651,1,National,0,TWN
+TWN1461,2020-08-24,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN842,2020-04-28,1,Protests,Peaceful protest,Protesters (Taiwan),Health Workers (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN770,2020-01-30,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1095,2020-10-16,1,Protests,Peaceful protest,Protesters (Taiwan),Teachers (Taiwan); THEU: Taiwan Higher Education Union,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1997,2020-12-03,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Xinyi,25.0338,121.5673,1,National,0,TWN
+TWN879,2020-06-04,1,Protests,Peaceful protest,Protesters (Taiwan),Health Workers (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1085,2020-10-07,1,Protests,Peaceful protest,Protesters (Taiwan),THEU: Taiwan Higher Education Union; Teachers (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1136,2020-11-03,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City,25.0396,121.5651,1,National,0,TWN
+TWN1065,2020-09-29,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1048,2020-09-17,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongshan,25.0642,121.5336,1,National,0,TWN
+TWN1150,2020-11-11,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Xinyi,25.0338,121.5673,1,National,0,TWN
+TWN2010,2020-12-12,1,Protests,Peaceful protest,Protesters (Taiwan),333 Political Party Alliance,,,Taiwan,Taipei City,Taipei City,Taipei City - Neihu,25.0697,121.5892,1,National,0,TWN
+TWN869,2020-05-27,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN2033,2020-12-21,1,Protests,Peaceful protest,Protesters (Taiwan),Health Workers (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Neihu,25.0697,121.5892,1,National,0,TWN
+TWN1147,2020-11-13,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN923,2020-07-01,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Wanhua,25.0316,121.4993,1,National,0,TWN
+TWN853,2020-05-12,1,Protests,Peaceful protest,Protesters (Taiwan),Farmers (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN943,2020-07-06,1,Protests,Peaceful protest,Protesters (Taiwan),KMT: Kuomintang; Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN922,2020-06-29,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN2038,2020-12-22,1,Protests,Peaceful protest,Protesters (Taiwan),Former Government of Taiwan (2016-),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN995,2020-08-11,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1040,2020-09-10,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN758,2020-01-14,1,Protests,Peaceful protest,Protesters (Taiwan),Shezi Island Communal Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Shilin,25.0924,121.5246,1,National,0,TWN
+TWN921,2020-06-30,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Shilin,25.0924,121.5246,1,National,0,TWN
+TWN952,2020-07-17,1,Riots,Violent demonstration,Rioters (Taiwan),KMT: Kuomintang,Police Forces of Taiwan (2016-),,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN852,2020-05-11,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1144,2020-11-11,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Da'an,25.0267,121.5345,1,National,0,TWN
+TWN1106,2020-10-20,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Da'an,25.0267,121.5345,1,National,0,TWN
+TWN820,2020-03-26,1,Protests,Peaceful protest,Protesters (Taiwan),Women (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN782,2020-02-12,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Da'an,25.0267,121.5345,1,National,0,TWN
+TWN875,2020-06-02,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1998,2020-12-03,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN855,2020-05-13,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Xinyi,25.0338,121.5673,1,National,0,TWN
+TWN830,2020-04-09,1,Protests,Peaceful protest,Protesters (Taiwan),Shezi Island Communal Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Xinyi,25.0338,121.5673,1,National,0,TWN
+TWN987,2020-08-07,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Datong,25.0662,121.5154,1,National,0,TWN
+TWN1046,2020-09-17,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-); KMT: Kuomintang,,,Taiwan,Taipei City,Taipei City,Taipei City - Songshan,25.0551,121.5623,1,National,0,TWN
+TWN1011,2020-08-28,1,Protests,Peaceful protest,Protesters (Taiwan),GPT: Green Party Taiwan,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1003,2020-08-19,1,Protests,Peaceful protest,Protesters (Taiwan),Tax and Legal Reform League,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN760,2020-01-15,1,Protests,Protest with intervention,Protesters (Taiwan),KMT: Kuomintang,Police Forces of Taiwan (2016-),,Taiwan,Taipei City,Taipei City,Taipei City - Zhongshan,25.0642,121.5336,1,National,0,TWN
+TWN906,2020-06-22,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN890,2020-06-11,1,Protests,Peaceful protest,Protesters (Taiwan),Students (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN799,2020-02-27,1,Protests,Peaceful protest,Protesters (Taiwan),Shezi Island Communal Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Xinyi,25.0338,121.5673,1,National,0,TWN
+TWN1083,2020-10-07,1,Protests,Peaceful protest,Protesters (Taiwan),KMT: Kuomintang; Women (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1036,2020-09-10,1,Protests,Peaceful protest,Protesters (Taiwan),Shezi Island Communal Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN2041,2020-12-24,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN2040,2020-12-24,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan); TCTU: Taiwan Confederation of Trade Unions; TFFU: Taiwan Federation of Financial Unions,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1059,2020-09-23,1,Protests,Peaceful protest,Protesters (Taiwan),Health Workers (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Nangang,25.0546,121.6067,1,National,0,TWN
+TWN871,2020-05-27,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Xinyi,25.0338,121.5673,1,National,0,TWN
+TWN1162,2020-11-19,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-); KMT: Kuomintang,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN821,2020-03-26,1,Protests,Protest with intervention,Protesters (Taiwan),Shezi Island Communal Group (Taiwan),Police Forces of Taiwan (2016-),,Taiwan,Taipei City,Taipei City,Taipei City - Xinyi,25.0338,121.5673,1,National,0,TWN
+TWN771,2020-01-30,1,Protests,Peaceful protest,Protesters (Taiwan),LGBTQ+ (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Xinyi,25.0338,121.5673,1,National,0,TWN
+TWN796,2020-02-26,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongshan,25.0642,121.5336,1,National,0,TWN
+TWN774,2020-02-03,1,Protests,Peaceful protest,Protesters (Taiwan),KMT: Kuomintang,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongshan,25.0642,121.5336,1,National,0,TWN
+TWN1056,2020-09-23,1,Protests,Peaceful protest,Protesters (Taiwan),Teachers (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1069,2020-09-30,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1135,2020-11-06,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1067,2020-09-30,1,Protests,Peaceful protest,Protesters (Taiwan),Shezi Island Communal Group (Taiwan),Protesters (Taiwan),Shezi Island Communal Group (Taiwan),Taiwan,Taipei City,Taipei City,Taipei City - Xinyi,25.0338,121.5673,1,National,0,TWN
+TWN920,2020-06-29,1,Protests,Peaceful protest,Protesters (Taiwan),KMT: Kuomintang; Former Military Forces of Taiwan (2016-); Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN907,2020-06-23,1,Protests,Peaceful protest,Protesters (Taiwan),Teachers (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN956,2020-07-14,1,Protests,Peaceful protest,Protesters (Taiwan),TPP: Taiwan People's Party,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1010,2020-08-25,1,Protests,Peaceful protest,Protesters (Taiwan),Students (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN918,2020-06-29,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN904,2020-06-20,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Xinyi,25.0338,121.5673,1,National,0,TWN
+TWN783,2020-02-14,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1123,2020-10-29,1,Protests,Peaceful protest,Protesters (Vietnam),Labor Group (Vietnam); Catholic Christian Group (Vietnam),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongshan,25.0642,121.5336,1,National,0,TWN
+TWN1032,2020-09-12,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-); KMT: Kuomintang; Former Government of Taiwan (2016-),,,Taiwan,Taipei City,Taipei City,Taipei City - Wenshan,24.9901,121.5705,1,National,0,TWN
+TWN1022,2020-09-01,1,Protests,Peaceful protest,Protesters (Taiwan),KMT: Kuomintang; Government of Taiwan (2016-),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN813,2020-03-16,1,Protests,Peaceful protest,Protesters (Taiwan),Students (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN860,2020-05-19,1,Protests,Peaceful protest,Protesters (Taiwan),KMT: Kuomintang; DPP: Democratic Progressive Party,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1103,2020-10-21,1,Protests,Peaceful protest,Protesters (Taiwan),NP: New Party; BSAA: Blue Sky Action Alliance,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1072,2020-09-30,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1131,2020-11-04,1,Protests,Peaceful protest,Protesters (Taiwan),Farmers (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN804,2020-03-06,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN953,2020-07-18,1,Protests,Peaceful protest,Protesters (Taiwan),TPP: Taiwan People's Party; TSU: Taiwan Solidarity Union; FTP: Free Taiwan Party; TRP: Taiwan Renewal Party; TAIP: Taiwan Independence Party,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN823,2020-03-29,1,Protests,Peaceful protest,Protesters (Taiwan),Students (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Da'an,25.0267,121.5345,1,National,0,TWN
+TWN1044,2020-09-18,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-); TPP: Taiwan People's Party,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN766,2020-01-19,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN802,2020-03-04,1,Protests,Peaceful protest,Protesters (International),TIWA: Taiwan International Workers' Association; Labor Group (International),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN951,2020-07-14,1,Protests,Peaceful protest,Protesters (Taiwan),KMT: Kuomintang,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1163,2020-11-19,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-); KMT: Kuomintang,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN881,2020-06-08,1,Protests,Peaceful protest,Protesters (Taiwan),BSAA: Blue Sky Action Alliance,,,Taiwan,Taipei City,Taipei City,Taipei City - Datong,25.0662,121.5154,1,National,0,TWN
+TWN848,2020-05-03,1,Protests,Peaceful protest,Protesters (International),Labor Group (International),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN985,2020-08-07,1,Protests,Peaceful protest,Protesters (Taiwan),Students (International),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN790,2020-02-22,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City,25.0396,121.5651,1,National,0,TWN
+TWN898,2020-06-15,1,Protests,Peaceful protest,Protesters (Taiwan),BLM: Black Lives Matter,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1111,2020-10-19,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1007,2020-08-19,1,Protests,Peaceful protest,Protesters (Taiwan),Shezi Island Communal Group (Taiwan),Protesters (Taiwan),Shezi Island Communal Group (Taiwan),Taiwan,Taipei City,Taipei City,Taipei City - Xinyi,25.0338,121.5673,1,National,0,TWN
+TWN836,2020-04-21,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1066,2020-09-29,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1042,2020-09-18,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-); DPP: Democratic Progressive Party,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN2036,2020-12-16,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1109,2020-10-21,1,Protests,Peaceful protest,Protesters (International),TIWA: Taiwan International Workers' Association; Labor Group (International); Protesters (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Neihu,25.0697,121.5892,1,National,0,TWN
+TWN2032,2020-12-16,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Datong,25.0662,121.5154,1,National,0,TWN
+TWN753,2020-01-08,1,Protests,Peaceful protest,Protesters (Taiwan),KMT: Kuomintang,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN2034,2020-12-16,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Xinyi,25.0338,121.5673,1,National,0,TWN
+TWN946,2020-07-06,1,Protests,Peaceful protest,Protesters (Taiwan),KMT: Kuomintang; TPP: Taiwan People's Party; NPP: New Power Party,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN854,2020-05-12,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN945,2020-07-07,1,Protests,Peaceful protest,Protesters (Taiwan),KMT: Kuomintang; Farmers (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN857,2020-05-15,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Xinyi,25.0338,121.5673,1,National,0,TWN
+TWN892,2020-06-12,1,Protests,Peaceful protest,Protesters (Taiwan),CUPP: Chinese Unity Promotion Party; BLM: Black Lives Matter,,,Taiwan,Taipei City,Taipei City,Taipei City - Neihu,25.0697,121.5892,1,National,0,TWN
+TWN2002,2020-11-20,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1287,2020-05-20,1,Protests,Protest with intervention,Protesters (Taiwan),,Police Forces of Taiwan (2016-),,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,New media-National,0,TWN
+TWN1125,2020-10-29,1,Protests,Peaceful protest,Protesters (Taiwan),Farmers (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,International,0,TWN
+TWN1977,2020-04-30,1,Protests,Peaceful protest,Protesters (Taiwan),CET: Citizen of the Earth,,,Taiwan,Yilan,Yilan,Luodong Urban,24.6756,121.7708,1,New media,0,TWN
+TWN1045,2020-09-18,1,Protests,Peaceful protest,Protesters (Taiwan),Students (Taiwan); NSUT: National Students' Union of Taiwan,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1168,2020-11-23,1,Protests,Peaceful protest,Protesters (Taiwan),Truku Indigenous Group (Taiwan),,,Taiwan,Hualien,Hualien,Hualien City,23.9914,121.6106,1,National,0,TWN
+TWN2015,2020-12-11,1,Protests,Peaceful protest,Protesters (Taiwan),Puyuma Indigenous Group (Taiwan),,,Taiwan,Taitung,Taitung,Taitung City,22.7556,121.1141,1,National,0,TWN
+TWN2003,2020-11-24,1,Protests,Peaceful protest,Protesters (Taiwan),Indigenous Group (Taiwan); Tsou Indigenous Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN885,2020-06-09,1,Protests,Peaceful protest,Protesters (Taiwan),Truku Indigenous Group (Taiwan),,,Taiwan,Hualien,Hualien,Hualien City,23.9914,121.6106,1,National,0,TWN
+TWN1031,2020-09-11,1,Protests,Peaceful protest,Protesters (Taiwan),Indigenous Group (Taiwan); Atayal Indigenous Group (Taiwan); Protestant Christian Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1014,2020-09-02,1,Protests,Peaceful protest,Protesters (Taiwan),Kavalan Indigenous Group (Taiwan),,,Taiwan,Hualien,Hualien,Fengbin,23.5852,121.5027,1,National,0,TWN
+TWN1015,2020-08-31,1,Protests,Peaceful protest,Protesters (Taiwan),KMT: Kuomintang; Government of Taiwan (2016-),,,Taiwan,Hsinchu City,Hsinchu City,Hsinchu City,24.807,120.9677,1,National,0,TWN
+TWN1100,2020-10-17,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,New Taipei City,New Taipei City,Gongliao,25.0174,121.9457,1,National,0,TWN
+TWN1063,2020-09-28,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kaohsiung City,Kaohsiung City,Alian,22.8779,120.332,1,National,0,TWN
+TWN858,2020-05-15,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kaohsiung City,Kaohsiung City,Linyuan,22.5002,120.3995,1,National,0,TWN
+TWN940,2020-07-09,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taoyuan City,Taoyuan City,Dayuan,25.0638,121.1952,1,International,0,TWN
+TWN1097,2020-10-12,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taoyuan City,Taoyuan City,Bade,24.9473,121.2916,1,National,0,TWN
+TWN924,2020-07-03,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taoyuan City,Taoyuan City,Guanyin,25.0364,121.0823,1,National,0,TWN
+TWN1502,2020-03-08,1,Protests,Peaceful protest,Protesters (Taiwan),Students (Taiwan); Teachers (Taiwan),,,Taiwan,Tainan City,Tainan City,Guantian,23.1949,120.355,1,National,0,TWN
+TWN765,2020-01-16,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taichung City,Taichung City,Wuqi,24.2469,120.5346,1,National,0,TWN
+TWN994,2020-08-13,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Tainan City,Tainan City,Houbi,23.3788,120.3353,1,National,0,TWN
+TWN993,2020-08-09,1,Protests,Peaceful protest,Protesters (Taiwan),Fishers (Taiwan),,,Taiwan,New Taipei City,New Taipei City,Gongliao,25.0174,121.9457,1,National,0,TWN
+TWN1994,2020-12-01,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taoyuan City,Taoyuan City,Longtan,24.851,121.2174,1,National,0,TWN
+TWN1075,2020-10-02,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taoyuan City,Taoyuan City,Pingzhen,24.9459,121.2184,1,National,0,TWN
+TWN2007,2020-12-11,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,New Taipei City,New Taipei City,Tucheng,24.9684,121.4378,1,National,0,TWN
+TWN919,2020-07-01,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,New Taipei City,New Taipei City,Linkou,25.0794,121.3876,1,National,0,TWN
+TWN958,2020-07-15,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kaohsiung City,Kaohsiung City,Meinong,22.9051,120.5595,1,National,0,TWN
+TWN1167,2020-11-25,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,New Taipei City,New Taipei City,Xindian,24.9744,121.5423,1,National,0,TWN
+TWN1117,2020-10-27,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,New Taipei City,New Taipei City,Linkou,25.0794,121.3876,1,National,0,TWN
+TWN1035,2020-09-09,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Tainan City,Tainan City,Houbi,23.3788,120.3353,1,National,0,TWN
+TWN967,2020-07-21,1,Protests,Peaceful protest,Protesters (Taiwan),Teachers (Taiwan); Students (Taiwan),,,Taiwan,Taichung City,Taichung City,Dongshi,24.261,120.8273,1,National,0,TWN
+TWN969,2020-07-25,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taichung City,Taichung City,Qingshui,24.302,120.5851,1,National,0,TWN
+TWN1118,2020-10-27,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,New Taipei City,New Taipei City,Wugu,25.0849,121.4387,1,National,0,TWN
+TWN793,2020-02-25,1,Protests,Peaceful protest,Protesters (International),Students (International),,,Taiwan,Taoyuan City,Taoyuan City,Zhongli,24.9837,121.2248,1,National,0,TWN
+TWN751,2020-01-08,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Tainan City,Tainan City,Baihe,23.3571,120.4504,1,National,0,TWN
+TWN1124,2020-10-29,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Chiayi City,Chiayi City,Chiayi City,23.4816,120.4502,1,National,0,TWN
+TWN877,2020-06-02,1,Protests,Peaceful protest,Protesters (International),Labor Group (International),,,Taiwan,Taoyuan City,Taoyuan City,Pingzhen,24.9459,121.2184,1,National,0,TWN
+TWN1139,2020-11-02,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Hsinchu City,Hsinchu City,Hsinchu City,24.807,120.9677,1,National,0,TWN
+TWN806,2020-03-07,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Hsinchu City,Hsinchu City,Hsinchu City,24.807,120.9677,1,National,0,TWN
+TWN776,2020-02-05,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taichung City,Taichung City,Longjing,24.206,120.5234,1,National,0,TWN
+TWN787,2020-02-19,1,Protests,Peaceful protest,Protesters (Taiwan),Farmers (Taiwan),,,Taiwan,Tainan City,Tainan City,Xinying,23.3118,120.3147,1,National,0,TWN
+TWN1988,2020-05-01,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Hsinchu City,Hsinchu City,Hsinchu City,24.807,120.9677,1,National,0,TWN
+TWN1141,2020-11-10,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-); TPP: Taiwan People's Party,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN989,2020-08-06,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN909,2020-06-23,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taoyuan City,Taoyuan City,Yangmei,24.9103,121.1462,1,National,0,TWN
+TWN982,2020-07-30,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN980,2020-07-31,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taoyuan City,Taoyuan City,Yangmei,24.9103,121.1462,1,National,0,TWN
+TWN915,2020-07-01,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Da'an,25.0267,121.5345,1,National,0,TWN
+TWN914,2020-06-30,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City,25.0396,121.5651,1,National,0,TWN
+TWN2017,2020-12-28,1,Protests,Peaceful protest,Protesters (Taiwan),KMT: Kuomintang,,,Taiwan,Changhua,Changhua,Changhua City,24.0728,120.5615,1,National,0,TWN
+TWN2008,2020-12-10,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-),,,Taiwan,Changhua,Changhua,Changhua City,24.0728,120.5615,1,National,0,TWN
+TWN1039,2020-09-08,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Changhua,Changhua,Changhua City,24.0728,120.5615,1,National,0,TWN
+TWN1024,2020-09-02,1,Protests,Peaceful protest,Protesters (Taiwan),Farmers (Taiwan),,,Taiwan,Changhua,Changhua,Changhua City,24.0728,120.5615,1,National,0,TWN
+TWN1029,2020-08-31,1,Protests,Peaceful protest,Protesters (Taiwan),KMT: Kuomintang; Government of Taiwan (2016-),,,Taiwan,Changhua,Changhua,Changhua City,24.0728,120.5615,1,National,0,TWN
+TWN960,2020-07-14,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Changhua,Changhua,Changhua City,24.0728,120.5615,1,National,0,TWN
+TWN938,2020-07-05,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Changhua,Changhua,Changhua City,24.0728,120.5615,1,National,0,TWN
+TWN901,2020-06-19,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Yunlin,Yunlin,Taixi,23.723,120.1936,1,National,0,TWN
+TWN867,2020-05-24,1,Protests,Peaceful protest,Protesters (Taiwan),Teachers (Taiwan),,,Taiwan,Hualien,Hualien,Ji'an,23.931,121.595,1,National,0,TWN
+TWN837,2020-04-23,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Tainan City,Tainan City,Nansi,23.182,120.5164,1,National,0,TWN
+TWN798,2020-02-27,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Changhua,Changhua,Changhua City,24.0728,120.5615,1,National,0,TWN
+TWN2659,2020-10-30,1,Protests,Peaceful protest,Protesters (Taiwan),LGBTQ+ (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Wanhua,25.0316,121.4993,1,National,0,TWN
+TWN2660,2020-06-28,1,Protests,Peaceful protest,Protesters (Taiwan),LGBTQ+ (Taiwan); Protesters (International); LGBTQ+ (International),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN996,2020-08-12,1,Protests,Peaceful protest,Protesters (Taiwan),Taiwan Republic Office,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongshan,25.0642,121.5336,1,National,0,TWN
+TWN2035,2020-12-13,1,Protests,Peaceful protest,Protesters (International),Labor Group (International); TIWA: Taiwan International Workers' Association; Protesters (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1132,2020-11-05,1,Protests,Peaceful protest,Protesters (International),Labor Group (International); TIWA: Taiwan International Workers' Association; Catholic Christian Group (Taiwan); Protesters (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN764,2020-01-16,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City,25.0396,121.5651,1,International,0,TWN
+TWN1020,2020-08-31,1,Protests,Peaceful protest,Protesters (Taiwan),Five Demands Movement,,,Taiwan,Taipei City,Taipei City,Taipei City - Da'an,25.0267,121.5345,1,International,0,TWN
+TWN905,2020-06-23,1,Protests,Peaceful protest,Protesters (Taiwan),GPT: Green Party Taiwan,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,International,0,TWN
+TWN741,2020-01-04,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,International,0,TWN
+TWN3374,2020-04-29,1,Protests,Protest with intervention,Protesters (Taiwan),Fishers (Taiwan),Military Forces of Taiwan (2016-),,Taiwan,Taoyuan City,Taoyuan City,Coast of Guanyin,25.0619,121.0747,2,National,0,TWN
+TWN1164,2020-11-20,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-); KMT: Kuomintang,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1418,2020-09-29,1,Protests,Peaceful protest,Protesters (International),Labor Group (International); TIWA: Taiwan International Workers' Association,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1838,2020-06-04,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1426,2020-02-27,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1370,2020-05-28,1,Protests,Peaceful protest,Protesters (Taiwan),TYAD: Taiwan Youth Association for Democracy; Students (Taiwan); Students (China); Protesters (China); Hong Kong Outlanders,,,Taiwan,Taipei City,Taipei City,Taipei City - Xinyi,25.0338,121.5673,1,National,0,TWN
+TWN3445,2020-06-19,1,Protests,Peaceful protest,Protesters (Taiwan),Economic Democracy Union; Hong Kong Outlanders; Protesters (China); Students (China); Lawyers (Taiwan); TAHR: Taiwan Association for Human Rights,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,International,0,TWN
+TWN1381,2020-06-13,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-); NPP: New Power Party,,,Taiwan,Pingtung,Pingtung,Pingtung City,22.6832,120.4879,3,National,0,TWN
+TWN2026,2020-12-31,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Miaoli,Miaoli,Miaoli City,24.5736,120.815,1,National,0,TWN
+TWN2042,2020-12-25,1,Protests,Peaceful protest,Protesters (Taiwan),Lawyers (Taiwan); Former Government of Taiwan (2016-); Health Workers (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN2030,2020-12-19,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-),,,Taiwan,Tainan City,Tainan City,Dongshan,23.2825,120.4473,1,National,0,TWN
+TWN2047,2020-12-17,1,Protests,Peaceful protest,Protesters (Taiwan),Amis Indigenous Group (Taiwan),,,Taiwan,Taitung,Taitung,Taitung City,22.7556,121.1141,1,National,0,TWN
+TWN2049,2020-12-17,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-),,,Taiwan,Taoyuan City,Taoyuan City,Longtan,24.851,121.2174,1,National,0,TWN
+TWN2016,2020-12-16,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Changhua,Changhua,Changhua City,24.0728,120.5615,1,National,0,TWN
+TWN2025,2020-12-15,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Miaoli,Miaoli,Miaoli City,24.5736,120.815,1,National,0,TWN
+TWN2013,2020-12-10,1,Protests,Peaceful protest,Protesters (Taiwan),Lawyers (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN2011,2020-12-08,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Songshan,25.0551,121.5623,1,National,0,TWN
+TWN1991,2020-12-03,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-),,,Taiwan,Pingtung,Pingtung,Pingtung City,22.6832,120.4879,1,National,0,TWN
+TWN1995,2020-12-02,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Changhua,Changhua,Changhua City,24.0728,120.5615,1,National,0,TWN
+TWN1172,2020-11-27,1,Protests,Peaceful protest,Protesters (Taiwan),,Protesters (Taiwan),,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1173,2020-11-27,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Pingtung,Pingtung,Fangliao,22.3668,120.5937,1,National,0,TWN
+TWN1166,2020-11-27,1,Protests,Peaceful protest,Protesters (Taiwan),Indigenous Group (Taiwan),,,Taiwan,Hualien,Hualien,Guangfu,23.669,121.4234,1,National,0,TWN
+TWN1176,2020-11-25,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1174,2020-11-24,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Changhua,Changhua,Fangyuan,23.9245,120.3203,1,National,0,TWN
+TWN1175,2020-11-24,1,Protests,Peaceful protest,Protesters (Taiwan),NPP: New Power Party; Government of Taiwan (2016-),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1169,2020-11-23,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-),,,Taiwan,Pingtung,Pingtung,Fangliao,22.3668,120.5937,1,National,0,TWN
+TWN1165,2020-11-22,1,Protests,Peaceful protest,Protesters (Taiwan),KMT: Kuomintang; TPP: Taiwan People's Party; Labor Group (Taiwan); Government of Taiwan (2016-); Former Government of Taiwan (2016-),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN2005,2020-11-22,1,Protests,Peaceful protest,Protesters (Taiwan),Green Citizens' Action Alliance; Lawyers (Taiwan),,,Taiwan,New Taipei City,New Taipei City,Tamsui,25.1871,121.4437,1,National,0,TWN
+TWN1155,2020-11-16,1,Protests,Peaceful protest,Protesters (Taiwan),Greenpeace,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1153,2020-11-15,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taoyuan City,Taoyuan City,Longtan,24.851,121.2174,1,National,0,TWN
+TWN1151,2020-11-12,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Nantou,Nantou,Nantou City,23.9188,120.6781,1,National,0,TWN
+TWN1146,2020-11-12,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Yunlin,Yunlin,Douliu City,23.7095,120.5623,1,National,0,TWN
+TWN1149,2020-11-09,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,New Taipei City,New Taipei City,Wugu,25.0849,121.4387,1,National,0,TWN
+TWN1120,2020-10-30,1,Protests,Peaceful protest,Protesters (Taiwan),Lawyers (Taiwan),,,Taiwan,Yunlin,Yunlin,Huwei Urban,23.7159,120.4338,1,National,0,TWN
+TWN1115,2020-10-29,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1122,2020-10-28,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taitung,Taitung,Taitung City,22.7556,121.1141,1,National,0,TWN
+TWN1127,2020-10-27,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Tainan City,Tainan City,Liouying,23.2787,120.3653,1,National,0,TWN
+TWN1112,2020-10-23,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Changhua,Changhua,Xizhou,23.8517,120.4989,1,National,0,TWN
+TWN1108,2020-10-22,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Xinyi,25.0338,121.5673,1,International,0,TWN
+TWN1110,2020-10-20,1,Protests,Peaceful protest,Protesters (Taiwan),CET: Citizen of the Earth; ERF: Environmental Rights Foundation; Puyuma Indigenous Group (Taiwan); Green Citizens' Action Alliance,Protesters (Taiwan),,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1105,2020-10-19,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1091,2020-10-15,1,Protests,Peaceful protest,Protesters (Taiwan),Truku Indigenous Group (Taiwan),,,Taiwan,Hualien,Hualien,Hualien City,23.9914,121.6106,1,National,0,TWN
+TWN1101,2020-10-13,1,Protests,Peaceful protest,Protesters (Taiwan),Students (Taiwan),,,Taiwan,Yunlin,Yunlin,Douliu City,23.7095,120.5623,1,National,0,TWN
+TWN1088,2020-10-12,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taitung,Taitung,Taitung City,22.7556,121.1141,1,National,0,TWN
+TWN1099,2020-10-12,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Xinyi,25.0338,121.5673,1,National,0,TWN
+TWN1074,2020-10-01,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kinmen,Kinmen,Jinning,24.4511,118.3349,1,National,0,TWN
+TWN1352,2020-09-30,1,Protests,Peaceful protest,Protesters (Taiwan),Students (Taiwan),,,Taiwan,Yunlin,Yunlin,Douliu City,23.7095,120.5623,1,National,0,TWN
+TWN1047,2020-09-17,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Changhua,Changhua,Yuanlin City,23.9598,120.5859,1,National,0,TWN
+TWN1055,2020-09-17,1,Protests,Peaceful protest,Protesters (Taiwan),CET: Citizen of the Earth; Green Citizens' Action Alliance; AI: Amnesty International; FFF: Fridays for Future; Students (Taiwan); ERF: Environmental Rights Foundation,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1050,2020-09-16,1,Protests,Peaceful protest,Protesters (Taiwan),CET: Citizen of the Earth,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1049,2020-09-16,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Changhua,Changhua,Changhua City,24.0728,120.5615,1,National,0,TWN
+TWN1043,2020-09-15,1,Protests,Peaceful protest,Protesters (Taiwan),LGBTQ+ (Taiwan); TAHR: Taiwan Association for Human Rights,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1439,2020-09-08,1,Protests,Peaceful protest,Protesters (Taiwan),Farmers (Taiwan); Health Workers (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City,25.0396,121.5651,1,National,0,TWN
+TWN1023,2020-09-05,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1025,2020-09-02,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City,25.0396,121.5651,1,National,0,TWN
+TWN1396,2020-08-17,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN999,2020-08-11,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,International,0,TWN
+TWN1990,2020-07-27,1,Protests,Peaceful protest,Protesters (Taiwan),Fishers (Taiwan),,,Taiwan,Yunlin,Yunlin,Kouhu,23.6208,120.1626,1,National,0,TWN
+TWN959,2020-07-16,1,Protests,Peaceful protest,Protesters (Taiwan),Amis Indigenous Group (Taiwan),,,Taiwan,Hualien,Hualien,Hualien City,23.9914,121.6106,1,National,0,TWN
+TWN939,2020-07-10,1,Protests,Peaceful protest,Protesters (Taiwan),Fishers (Taiwan),,,Taiwan,Yunlin,Yunlin,Douliu City,23.7095,120.5623,1,National,0,TWN
+TWN950,2020-07-08,1,Protests,Peaceful protest,Protesters (Taiwan),KMT: Kuomintang; NPP: New Power Party,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,New media,0,TWN
+TWN948,2020-07-06,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Tainan City,Tainan City,Anding,23.0908,120.2336,1,National,0,TWN
+TWN928,2020-06-30,1,Protests,Peaceful protest,Protesters (Taiwan),KMT: Kuomintang; Government of Taiwan (2016-),,,Taiwan,Taichung City,Taichung City,Longjing,24.206,120.5234,1,National,0,TWN
+TWN926,2020-06-28,1,Protests,Peaceful protest,Protesters (Taiwan),KMT: Kuomintang; Government of Taiwan (2016-),,,Taiwan,Taichung City,Taichung City,Longjing,24.206,120.5234,1,National,0,TWN
+TWN910,2020-06-23,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN899,2020-06-16,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN888,2020-06-11,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Xinyi,25.0338,121.5673,1,National,0,TWN
+TWN886,2020-06-10,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Songshan,25.0551,121.5623,1,National,0,TWN
+TWN887,2020-06-10,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN864,2020-05-23,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Yunlin,Yunlin,Mailiao,23.7987,120.2179,1,National,0,TWN
+TWN1262,2020-05-14,1,Protests,Peaceful protest,Protesters (Taiwan),CET: Citizen of the Earth,Protesters (Taiwan),Labor Group (Taiwan),Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN856,2020-05-13,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Tainan City,Tainan City,Baihe,23.3571,120.4504,1,National,0,TWN
+TWN849,2020-05-05,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN844,2020-04-29,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1359,2020-04-17,1,Protests,Peaceful protest,Protesters (Taiwan),TAHR: Taiwan Association for Human Rights; Lawyers (Taiwan); ERF: Environmental Rights Foundation,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1288,2020-04-16,1,Protests,Peaceful protest,Protesters (Taiwan),TAHR: Taiwan Association for Human Rights; Lawyers (Taiwan); ERF: Environmental Rights Foundation,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN833,2020-04-15,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Pingtung,Pingtung,Pingtung City,22.6832,120.4879,1,National,0,TWN
+TWN831,2020-04-11,1,Protests,Peaceful protest,Protesters (Taiwan),Fishers (Taiwan),,,Taiwan,Taoyuan City,Taoyuan City,Xinwu,24.9793,121.0868,1,National,0,TWN
+TWN828,2020-04-06,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Hualien,Hualien,Shoufeng,23.8707,121.5089,1,National,0,TWN
+TWN827,2020-04-06,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN825,2020-03-31,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN810,2020-03-11,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN809,2020-03-09,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Pingtung,Pingtung,Neipu,22.6121,120.5668,1,National,0,TWN
+TWN807,2020-03-08,1,Protests,Peaceful protest,Protesters (Taiwan),Women (Taiwan),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN800,2020-03-04,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN789,2020-02-20,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN786,2020-02-19,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN785,2020-02-17,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN781,2020-02-11,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Changhua,Changhua,Dacun,23.9936,120.5473,1,National,0,TWN
+TWN775,2020-02-05,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN759,2020-01-15,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN757,2020-01-14,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN744,2020-01-06,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Yunlin,Yunlin,Douliu City,23.7095,120.5623,1,National,0,TWN
+TWN1137,2020-11-07,1,Protests,Peaceful protest,Protesters (Taiwan),Amis Indigenous Group (Taiwan),,,Taiwan,Hualien,Hualien,Guangfu,23.669,121.4234,1,National,0,TWN
+TWN1138,2020-11-06,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Yunlin,Yunlin,Erlun,23.7704,120.4134,1,National,0,TWN
+TWN2652,2020-10-31,1,Protests,Peaceful protest,Protesters (Taiwan),DPP: Democratic Progressive Party; Greenpeace; Green Citizens' Action Alliance; GPT: Green Party Taiwan; Indigenous Group (Taiwan); KMT: Kuomintang; LGBTQ+ (Taiwan); NPP: New Power Party; Students (Taiwan); TSP: Taiwan Statebuilding Party; Protesters (International); LGBTQ+ (International),,,Taiwan,Taipei City,Taipei City,Taipei City - Xinyi,25.0338,121.5673,1,National,0,TWN
+TWN1159,2020-11-21,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-),,,Taiwan,Chiayi,Chiayi,Liujiao,23.5149,120.2628,1,National,0,TWN
+TWN817,2020-03-18,1,Protests,Peaceful protest,Protesters (Taiwan),Students (Taiwan); ERF: Environmental Rights Foundation; Air Clean Taiwan,,,Taiwan,Changhua,Changhua,Changhua City,24.0728,120.5615,1,National,0,TWN
+TWN2037,2020-12-16,1,Protests,Peaceful protest,Protesters (Taiwan),Lawyers (Taiwan); Wild at Heart Legal Defense Association,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1171,2020-11-22,1,Protests,Peaceful protest,Protesters (Taiwan),Lawyers (Taiwan); Air Clean Taiwan; Wild at Heart Legal Defense Association,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1157,2020-11-19,1,Protests,Peaceful protest,Protesters (Taiwan),Green Citizens' Action Alliance; CET: Citizen of the Earth; Lawyers (Taiwan); Anti-Nuclear Group (Taiwan); Wild at Heart Legal Defense Association,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN1062,2020-09-27,1,Protests,Peaceful protest,Protesters (Taiwan),FFF: Fridays for Future; Students (Taiwan); Green Citizens' Action Alliance; AI: Amnesty International; Government of Taiwan (2016-); DPP: Democratic Progressive Party; GPT: Green Party Taiwan; NPP: New Power Party; TIWA: Taiwan International Workers' Association; ERF: Environmental Rights Foundation; Labor Group (International); Labor Group (Taiwan); Protesters (International),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN2014,2020-12-10,1,Protests,Peaceful protest,Protesters (Taiwan),TIWA: Taiwan International Workers' Association; Labor Group (International); Labor Group (Taiwan); Protesters (International),,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN2243,2020-10-16,1,Strategic developments,Looting/property destruction,Unidentified Armed Group (Taiwan),Fishers (Taiwan),Civilians (Taiwan),,Taiwan,Penghu,Penghu,Magong City,23.566,119.5857,1,National,0,TWN
+TWN893,2020-06-13,1,Protests,Peaceful protest,Protesters (Taiwan),DPP: Democratic Progressive Party; Government of Taiwan (2016-); Hong Kong Outlanders; KMT: Kuomintang; NSUT: National Students' Union of Taiwan; Protesters (China); Students (China); Students (Taiwan); TAHR: Taiwan Association for Human Rights; Economic Democracy Union,,,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,National,0,TWN
+TWN883,2020-06-08,1,Protests,Protest with intervention,Protesters (Taiwan),KMT: Kuomintang,Police Forces of Taiwan (2016-),,Taiwan,Taoyuan City,Taoyuan City,Zhongli,24.9837,121.2248,1,National,0,TWN
+TWN1008,2020-08-19,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN1016,2020-08-30,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Tainan City,,Tainan City,23.0005,120.2276,1,National,0,TWN
+TWN1018,2020-08-30,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN1019,2020-08-31,1,Protests,Peaceful protest,Protesters (Taiwan),Five Demands Movement; NPP: New Power Party; Students (Taiwan); TSP: Taiwan Statebuilding Party,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,Regional,0,TWN
+TWN1021,2020-08-31,1,Protests,Peaceful protest,Protesters (Taiwan),Five Demands Movement,,,Taiwan,Taichung City,,Taichung City,24.1637,120.6484,1,Regional,0,TWN
+TWN1027,2020-09-03,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN1030,2020-08-31,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-); KMT: Kuomintang,,,Taiwan,New Taipei City,New Taipei City,New Taipei City,25.0177,121.4626,1,National,0,TWN
+TWN1033,2020-09-12,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-); KMT: Kuomintang,,,Taiwan,New Taipei City,New Taipei City,New Taipei City,25.0177,121.4626,1,National,0,TWN
+TWN1034,2020-09-10,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,New Taipei City,New Taipei City,New Taipei City,25.0177,121.4626,1,National,0,TWN
+TWN1058,2020-09-20,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taichung City,,Taichung City,24.1637,120.6484,1,National,0,TWN
+TWN1061,2020-09-23,1,Protests,Peaceful protest,Protesters (Taiwan),Tax and Legal Reform League,,,Taiwan,Taichung City,,Taichung City,24.1637,120.6484,1,National,0,TWN
+TWN1064,2020-09-29,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,New Taipei City,New Taipei City,New Taipei City,25.0177,121.4626,1,National,0,TWN
+TWN1071,2020-09-30,1,Protests,Peaceful protest,Protesters (Taiwan),NFEU: The National Federation of Education Unions; Teachers (Taiwan); THEU: Taiwan Higher Education Union,,,Taiwan,New Taipei City,New Taipei City,New Taipei City,25.0177,121.4626,1,National,0,TWN
+TWN1073,2020-09-30,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Keelung City,Keelung City,Keelung City,25.1272,121.7357,1,National,0,TWN
+TWN1076,2020-10-07,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National-International,0,TWN
+TWN1078,2020-10-08,1,Protests,Peaceful protest,Protesters (Taiwan),Former Government of Taiwan (2016-); Government of Taiwan (2016-),,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN1079,2020-10-07,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-); KMT: Kuomintang,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN1080,2020-10-07,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-); TSP: Taiwan Statebuilding Party,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN1081,2020-10-07,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN1082,2020-10-08,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN1086,2020-10-07,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-),,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN1090,2020-10-15,1,Protests,Protest with intervention,Protesters (Taiwan),Students (Taiwan),Police Forces of Taiwan (2016-),,Taiwan,Tainan City,,Tainan City,23.0005,120.2276,1,National,0,TWN
+TWN1094,2020-10-15,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-),,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN1096,2020-10-13,1,Protests,Protest with intervention,Protesters (Taiwan),Students (Taiwan),Police Forces of Taiwan (2016-),,Taiwan,Tainan City,,Tainan City,23.0005,120.2276,1,National,0,TWN
+TWN1116,2020-10-29,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN1140,2020-11-03,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,New Taipei City,New Taipei City,New Taipei City,25.0177,121.4626,1,National,0,TWN
+TWN1142,2020-11-10,1,Protests,Peaceful protest,Protesters (Taiwan),Farmers (Taiwan),,,Taiwan,New Taipei City,New Taipei City,New Taipei City,25.0177,121.4626,1,National,0,TWN
+TWN1143,2020-11-10,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-); KMT: Kuomintang,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN1145,2020-11-12,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN1152,2020-11-13,1,Protests,Peaceful protest,Protesters (Taiwan),TPP: Taiwan People's Party,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN1154,2020-11-16,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,New Taipei City,New Taipei City,New Taipei City,25.0177,121.4626,1,National,0,TWN
+TWN1160,2020-11-19,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-); KMT: Kuomintang,,,Taiwan,Tainan City,,Tainan City,23.0005,120.2276,1,National,0,TWN
+TWN1293,2020-06-12,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-); Protesters (China); TAHR: Taiwan Association for Human Rights,,,Taiwan,Tainan City,,Tainan City,23.0005,120.2276,1,National,0,TWN
+TWN1358,2020-07-09,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taichung City,,Taichung City,24.1637,120.6484,1,National,0,TWN
+TWN1395,2020-07-17,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taichung City,,Taichung City,24.1637,120.6484,1,National,0,TWN
+TWN1399,2020-05-11,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-),,,Taiwan,Taichung City,,Taichung City,24.1637,120.6484,1,National,0,TWN
+TWN1405,2020-10-07,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,New Taipei City,New Taipei City,New Taipei City,25.0177,121.4626,1,National,0,TWN
+TWN1417,2020-01-10,1,Protests,Protest with intervention,Protesters (Taiwan),Labor Group (Taiwan),Police Forces of Taiwan (2016-),,Taiwan,New Taipei City,New Taipei City,New Taipei City,25.0177,121.4626,1,National,0,TWN
+TWN1979,2020-05-16,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,New media,0,TWN
+TWN1999,2020-12-03,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN2000,2020-12-04,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,New Taipei City,New Taipei City,New Taipei City,25.0177,121.4626,1,National,0,TWN
+TWN2006,2020-12-08,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN2009,2020-12-08,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-),,,Taiwan,Tainan City,,Tainan City,23.0005,120.2276,1,National,0,TWN
+TWN2021,2020-12-30,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN2022,2020-12-26,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-),,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN2023,2020-12-22,1,Protests,Peaceful protest,Protesters (Taiwan),Journalists (Taiwan),,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN2027,2020-12-18,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,New Taipei City,New Taipei City,New Taipei City,25.0177,121.4626,1,National,0,TWN
+TWN2028,2020-12-18,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taichung City,,Taichung City,24.1637,120.6484,1,National,0,TWN
+TWN2029,2020-12-14,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-),,,Taiwan,Taichung City,,Taichung City,24.1637,120.6484,1,National,0,TWN
+TWN2031,2020-12-22,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-),,,Taiwan,Tainan City,,Tainan City,23.0005,120.2276,1,National,0,TWN
+TWN3485,2020-11-28,1,Protests,Peaceful protest,Protesters (Taiwan),LGBTQ+ (Taiwan); Men (Taiwan),,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN740,2020-01-03,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taichung City,,Taichung City,24.1637,120.6484,1,National,0,TWN
+TWN742,2020-01-05,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Tainan City,,Tainan City,23.0005,120.2276,1,National,0,TWN
+TWN743,2020-01-05,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Tainan City,,Tainan City,23.0005,120.2276,1,National,0,TWN
+TWN747,2020-01-06,1,Protests,Peaceful protest,Protesters (Taiwan),Former Police Forces of Taiwan (2016-),,,Taiwan,Taichung City,,Taichung City,24.1637,120.6484,1,National,0,TWN
+TWN749,2020-01-07,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taichung City,,Taichung City,24.1637,120.6484,1,National,0,TWN
+TWN750,2020-01-07,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taichung City,,Taichung City,24.1637,120.6484,1,National,0,TWN
+TWN754,2020-01-08,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Tainan City,,Tainan City,23.0005,120.2276,1,National,0,TWN
+TWN756,2020-01-09,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taichung City,,Taichung City,24.1637,120.6484,1,National,0,TWN
+TWN761,2020-01-16,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,New Taipei City,New Taipei City,New Taipei City,25.0177,121.4626,1,Regional,0,TWN
+TWN762,2020-01-16,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taichung City,,Taichung City,24.1637,120.6484,1,Regional,0,TWN
+TWN763,2020-01-16,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,Regional,0,TWN
+TWN768,2020-01-21,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Tainan City,,Tainan City,23.0005,120.2276,1,National,0,TWN
+TWN780,2020-02-11,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taichung City,,Taichung City,24.1637,120.6484,1,National,0,TWN
+TWN784,2020-02-15,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,New Taipei City,New Taipei City,New Taipei City,25.0177,121.4626,1,National,0,TWN
+TWN788,2020-02-20,1,Protests,Peaceful protest,Protesters (Taiwan),DPP: Democratic Progressive Party,,,Taiwan,Taichung City,,Taichung City,24.1637,120.6484,1,National,0,TWN
+TWN792,2020-02-24,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taichung City,,Taichung City,24.1637,120.6484,1,National,0,TWN
+TWN795,2020-02-26,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taichung City,,Taichung City,24.1637,120.6484,1,National,0,TWN
+TWN797,2020-02-27,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN801,2020-03-04,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Tainan City,,Tainan City,23.0005,120.2276,1,National,0,TWN
+TWN808,2020-03-09,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN824,2020-03-30,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taichung City,,Taichung City,24.1637,120.6484,1,National,0,TWN
+TWN832,2020-04-15,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taichung City,,Taichung City,24.1637,120.6484,1,National,0,TWN
+TWN839,2020-04-24,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN840,2020-04-26,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Tainan City,,Tainan City,23.0005,120.2276,1,National,0,TWN
+TWN846,2020-05-01,1,Protests,Peaceful protest,Protesters (Taiwan),FTP: Free Taiwan Party; GPT: Green Party Taiwan; TSP: Taiwan Statebuilding Party,,,Taiwan,New Taipei City,New Taipei City,New Taipei City,25.0177,121.4626,1,National,0,TWN
+TWN873,2020-05-31,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN874,2020-06-01,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Tainan City,,Tainan City,23.0005,120.2276,1,National,0,TWN
+TWN880,2020-06-05,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN889,2020-06-11,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Tainan City,,Tainan City,23.0005,120.2276,1,National,0,TWN
+TWN891,2020-06-11,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Tainan City,,Tainan City,23.0005,120.2276,1,National,0,TWN
+TWN895,2020-06-13,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taichung City,,Taichung City,24.1637,120.6484,1,National,0,TWN
+TWN900,2020-06-17,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,New Taipei City,New Taipei City,New Taipei City,25.0177,121.4626,1,National,0,TWN
+TWN903,2020-06-20,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Keelung City,Keelung City,Keelung City,25.1272,121.7357,1,National,0,TWN
+TWN908,2020-06-23,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taichung City,,Taichung City,24.1637,120.6484,1,National,0,TWN
+TWN927,2020-07-01,1,Protests,Peaceful protest,Protesters (Taiwan),Health Workers (Taiwan),,,Taiwan,Taichung City,,Taichung City,24.1637,120.6484,1,National,0,TWN
+TWN934,2020-06-03,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,New media,0,TWN
+TWN935,2020-06-04,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,New media,0,TWN
+TWN936,2020-06-02,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,New media,0,TWN
+TWN937,2020-06-01,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN947,2020-07-07,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taichung City,,Taichung City,24.1637,120.6484,1,National,0,TWN
+TWN964,2020-07-15,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taichung City,,Taichung City,24.1637,120.6484,1,National,0,TWN
+TWN965,2020-07-23,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Tainan City,,Tainan City,23.0005,120.2276,1,National,0,TWN
+TWN972,2020-07-22,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Keelung City,Keelung City,Keelung City,25.1272,121.7357,1,National,0,TWN
+TWN973,2020-07-21,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN974,2020-07-21,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Keelung City,Keelung City,Keelung City,25.1272,121.7357,1,International,0,TWN
+TWN975,2020-07-20,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Tainan City,,Tainan City,23.0005,120.2276,1,National,0,TWN
+TWN977,2020-07-31,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Tainan City,,Tainan City,23.0005,120.2276,1,National,0,TWN
+TWN979,2020-07-29,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kaohsiung City,,Kaohsiung City,22.6298,120.3039,1,National,0,TWN
+TWN981,2020-07-29,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,New Taipei City,New Taipei City,New Taipei City,25.0177,121.4626,1,National,0,TWN
+TWN983,2020-07-27,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taichung City,,Taichung City,24.1637,120.6484,1,National,0,TWN
+TWN1037,2020-09-10,1,Protests,Peaceful protest,Protesters (Taiwan),Farmers (Taiwan),,,Taiwan,Kaohsiung City,Kaohsiung City,Yong'an,22.8113,120.2397,1,National,0,TWN
+TWN2024,2020-12-18,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Kaohsiung City,Kaohsiung City,Zuoying,22.6878,120.2922,1,National,0,TWN
+TWN1028,2020-08-31,1,Protests,Peaceful protest,Protesters (Taiwan),Government of Taiwan (2016-); KMT: Kuomintang,,,Taiwan,Taoyuan City,Taoyuan City,Taoyuan City,24.9554,121.23,1,National,0,TWN
+TWN1052,2020-09-17,1,Protests,Peaceful protest,Protesters (Taiwan),DPP: Democratic Progressive Party; Government of Taiwan (2016-),,,Taiwan,Taoyuan City,Taoyuan City,Taoyuan City,24.9554,121.23,1,National,0,TWN
+TWN1068,2020-09-30,1,Protests,Peaceful protest,Protesters (Taiwan),DPP: Democratic Progressive Party; Government of Taiwan (2016-); KMT: Kuomintang; NPSU: Non-Partisan Solidarity Union,,,Taiwan,Taoyuan City,Taoyuan City,Taoyuan City,24.9554,121.23,1,National,0,TWN
+TWN1170,2020-11-22,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taoyuan City,Taoyuan City,Taoyuan City,24.9554,121.23,1,National,0,TWN
+TWN2048,2020-12-16,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Taoyuan City,Taoyuan City,Taoyuan City,24.9554,121.23,1,National,0,TWN
+TWN841,2020-04-28,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taoyuan City,Taoyuan City,Taoyuan City,24.9554,121.23,1,National,0,TWN
+TWN925,2020-07-03,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taoyuan City,Taoyuan City,Taoyuan City,24.9554,121.23,1,National,0,TWN
+TWN955,2020-07-16,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Taoyuan City,Taoyuan City,Taoyuan City,24.9554,121.23,1,National,0,TWN
+TWN1006,2020-08-16,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Tainan City,Tainan City,Syuejia,23.2554,120.1705,1,National,0,TWN
+TWN815,2020-03-18,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Tainan City,Tainan City,Sigang,23.1231,120.2034,1,National,0,TWN
+TWN748,2020-01-06,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Pingtung,Pingtung,Wanluan,22.5728,120.5678,1,National,0,TWN
+TWN777,2020-02-07,1,Protests,Peaceful protest,Protesters (Taiwan),Buddhist Group (Taiwan),,,Taiwan,Pingtung,Pingtung,Wanluan,22.5728,120.5678,1,National,0,TWN
+TWN829,2020-04-08,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Pingtung,Pingtung,Xinyuan,22.5117,120.4473,1,National,0,TWN
+TWN866,2020-05-23,1,Protests,Peaceful protest,Protesters (Taiwan),Farmers (Taiwan),,,Taiwan,Pingtung,Pingtung,Donggang Urban,22.4668,120.4543,1,National,0,TWN
+TWN970,2020-07-23,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Pingtung,Pingtung,Donggang Urban,22.4668,120.4543,1,National,0,TWN
+TWN978,2020-07-29,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Pingtung,Pingtung,Nanzhou,22.4833,120.5167,1,National,0,TWN
+TWN1974,2020-04-17,1,Protests,Peaceful protest,Protesters (Taiwan),Fishers (Taiwan),,,Taiwan,Taoyuan City,,Coast of Taoyuan City,25.0806,121.0611,2,New media,0,TWN
+TWN1000,2020-08-15,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Hsinchu,Hsinchu,Baoshan,24.7428,120.9991,1,National,0,TWN
+TWN1053,2020-09-19,1,Protests,Protest with intervention,Protesters (Taiwan),,Police Forces of Taiwan (2016-),,Taiwan,Hsinchu,Hsinchu,Zhubei City,24.827,121.013,1,National,0,TWN
+TWN1054,2020-09-19,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Hsinchu,Hsinchu,Zhubei City,24.827,121.013,1,National,0,TWN
+TWN1107,2020-10-23,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Hsinchu,Hsinchu,Baoshan,24.7428,120.9991,1,National,0,TWN
+TWN1126,2020-10-29,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan); Taiwan Labour Party,,,Taiwan,Hsinchu,Hsinchu,Zhubei City,24.827,121.013,1,National,0,TWN
+TWN2020,2020-12-24,1,Protests,Peaceful protest,Protesters (Taiwan),Labor Group (Taiwan),,,Taiwan,Hsinchu,Hsinchu,Hengshan,24.7113,121.1367,1,National,0,TWN
+TWN794,2020-02-26,1,Protests,Peaceful protest,Protesters (Taiwan),GPT: Green Party Taiwan; LGBTQ+ (Taiwan),,,Taiwan,Hsinchu,Hsinchu,Zhubei City,24.827,121.013,1,National,0,TWN
+TWN818,2020-03-19,1,Protests,Peaceful protest,Protesters (Taiwan),Farmers (Taiwan),,,Taiwan,Hsinchu,Hsinchu,Zhubei City,24.827,121.013,1,National,0,TWN
+TWN966,2020-07-20,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Hsinchu,Hsinchu,Zhubei City,24.827,121.013,1,National,0,TWN
+TWN988,2020-08-07,1,Protests,Peaceful protest,Protesters (Taiwan),,,,Taiwan,Hsinchu,Hsinchu,Zhubei City,24.827,121.013,1,National,0,TWN
+TWN1113,2020-10-25,1,Protests,Peaceful protest,Protesters (Taiwan),DPP: Democratic Progressive Party; Hong Kong Outlanders; Protesters (China); Students (China); Students (Taiwan); TAHR: Taiwan Association for Human Rights; Government of Taiwan (2016-),,,Taiwan,Taipei City,Taipei City,Taipei City,25.0396,121.5651,1,National-Regional,0,TWN
+TWN1993,2020-11-27,1,Riots,Violent demonstration,Rioters (Taiwan),KMT: Kuomintang; Government of Taiwan (2016-),Rioters (Taiwan),Government of Taiwan (2016-); DPP: Democratic Progressive Party,Taiwan,Taipei City,Taipei City,Taipei City - Zhongzheng,25.0326,121.5181,1,International,0,TWN

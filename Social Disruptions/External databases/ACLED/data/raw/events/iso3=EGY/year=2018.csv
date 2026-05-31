@@ -1,0 +1,498 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities,iso3
+EGY9063,2018-12-15,2,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Beni Suef,Beni Suef City,Bani Suwayf,29.0744,31.0979,1,National,0,EGY
+EGY9039,2018-12-10,2,Violence against civilians,Attack,Police Forces of Egypt (2014-),,Civilians (Egypt),Prisoners (Egypt),Egypt,Giza,Giza City,Giza,30.0146,31.209,1,National,1,EGY
+EGY8679,2018-01-31,1,Battles,Armed clash,Unidentified Armed Group (Egypt),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,National,1,EGY
+EGY8645,2018-01-05,2,Violence against civilians,Attack,Police Forces of Egypt (2014-),,Civilians (Egypt),,Egypt,Qena,Qena City,Qina,26.1642,32.7267,2,National,1,EGY
+EGY8633,2018-01-01,1,Violence against civilians,Attack,Unidentified Armed Group (Egypt),,Civilians (Egypt),Coptic Christian Group (Egypt),Egypt,Giza,Al Omrania,Al Umraniyah,30.0024,31.2019,1,National,2,EGY
+EGY9119,2018-12-31,2,Violence against civilians,Sexual violence,Police Forces of Egypt (2014-) Prison Guards,,Civilians (Egypt),Prisoners (Egypt); Men (Egypt),Egypt,Fayoum,Fayoum,Monshaat Al Fayoum,29.2921,30.8463,1,National,1,EGY
+EGY8651,2018-01-09,1,Strategic developments,Other,Government of Egypt (2014-),Judges (Egypt),Muslim Brotherhood,,Egypt,Giza,Giza City,Giza,30.0146,31.209,1,National,0,EGY
+EGY8681,2018-02-02,2,Strategic developments,Looting/property destruction,Military Forces of Egypt (2014-),,,,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,International,0,EGY
+EGY8702,2018-02-15,1,Explosions/Remote violence,Air/drone strike,Military Forces of Egypt (2014-),,Unidentified Armed Group (Egypt),,Egypt,Matrouh,Siwa,Siwa Oasis,29.1923,25.5275,2,International,0,EGY
+EGY8798,2018-05-23,2,Explosions/Remote violence,Air/drone strike,Military Forces of Egypt (2014-),,Unidentified Armed Group (Egypt),,Egypt,Matrouh,Siwa,Siwa Oasis,29.1923,25.5275,2,National,0,EGY
+EGY8822,2018-07-03,2,Battles,Armed clash,Military Forces of Egypt (2014-),Police Forces of Egypt (2014-),Islamist Militia (Egypt),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,International,5,EGY
+EGY9017,2018-12-05,1,Protests,Protest with intervention,Protesters (Egypt),,Police Forces of Egypt (2014-),,Egypt,Damietta,Damietta 1,Damietta,31.4165,31.8133,1,National,0,EGY
+EGY9015,2018-12-04,1,Protests,Protest with intervention,Protesters (Egypt),,Police Forces of Egypt (2014-),,Egypt,Damietta,Damietta 1,Damietta,31.4165,31.8133,1,National,0,EGY
+EGY9455,2018-01-17,2,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Ismailia,Ismailia 2,Ismailia,30.6043,32.2723,1,National,0,EGY
+EGY8658,2018-01-12,1,Strategic developments,Change to group/activity,Government of Egypt (2014-),,,,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,International,0,EGY
+EGY8778,2018-03-08,1,Strategic developments,Looting/property destruction,Military Forces of Egypt (2014-),,,,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,New media,0,EGY
+EGY8692,2018-02-10,1,Explosions/Remote violence,Air/drone strike,Military Forces of Egypt (2014-),,Unidentified Armed Group (Egypt),,Egypt,Matrouh,Siwa,Siwa Oasis,29.1923,25.5275,2,New media,0,EGY
+EGY8657,2018-01-11,1,Strategic developments,Looting/property destruction,Military Forces of Egypt (2014-),,,,Egypt,North Sinai,Nakhl,An Nakhl,29.9096,33.7483,2,New media,0,EGY
+EGY8821,2018-06-28,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Egypt),,Civilians (Egypt),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,International,1,EGY
+EGY8673,2018-01-25,2,Strategic developments,Headquarters or base established,Military Forces of Egypt (2014-),Police Forces of Egypt (2014-),,,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,Local partner-New media,0,EGY
+EGY8824,2018-07-09,3,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Beheira,Kafr Al Dawar City,Kafr ad Dawwar,31.134,30.128,1,Other,0,EGY
+EGY8687,2018-02-06,1,Violence against civilians,Abduction/forced disappearance,Police Forces of Egypt (2014-),,Civilians (Egypt),Journalists (Egypt),Egypt,Giza,Al Doki,Dokki,30.0351,31.214,1,Other,0,EGY
+EGY8663,2018-01-15,2,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Gharbia,Tanta 1,Tanta,30.7885,31.0019,1,Other,0,EGY
+EGY10761,2018-12-31,3,Protests,Peaceful protest,Protesters (Egypt),Labor Group (Egypt),,,Egypt,Beheira,Kafr Al Dawar City,Kafr ad Dawwar,31.134,30.128,1,National,0,EGY
+EGY8689,2018-02-09,1,Strategic developments,Change to group/activity,Military Forces of Egypt (2014-),,,,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,International,0,EGY
+EGY8669,2018-01-22,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Alexandria,Al Dekhila,Al Maks,31.1476,29.8438,1,Other,0,EGY
+EGY8676,2018-01-27,1,Violence against civilians,Attack,Unidentified Armed Group (Egypt),,Civilians (Egypt),,Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,1,International,0,EGY
+EGY8763,2018-04-14,1,Strategic developments,Change to group/activity,Government of Egypt (2014-),,,,Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,3,International,0,EGY
+EGY8958,2018-10-31,2,Violence against civilians,Abduction/forced disappearance,Police Forces of Egypt (2014-),,Civilians (Egypt),,Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,3,International,0,EGY
+EGY8832,2018-06-15,3,Violence against civilians,Attack,Police Forces of Egypt (2014-),,Civilians (Egypt),Prisoners (Egypt),Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,1,International,1,EGY
+EGY9453,2018-01-01,2,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,1,National,0,EGY
+EGY8647,2018-01-08,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,3,Other,0,EGY
+EGY8736,2018-03-06,1,Riots,Mob violence,Rioters (Egypt),Ultras Ahlawy,Police Forces of Egypt (2014-),,Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,1,National,0,EGY
+EGY8732,2018-03-04,1,Protests,Peaceful protest,Protesters (Egypt),Ghad Political Party,,,Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,1,National,0,EGY
+EGY8693,2018-02-10,1,Strategic developments,Arrests,Government of Egypt (2014-),,Civilians (Egypt),Masr al-Qawia Party,Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,1,National,0,EGY
+EGY8690,2018-02-09,1,Battles,Armed clash,Police Forces of Egypt (2014-),,Hasam Movement,,Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,1,New media,3,EGY
+EGY8840,2018-08-13,2,Battles,Armed clash,Police Forces of Egypt (2014-),,Islamist Militia (Egypt),,Egypt,Giza,6th of October 1,6th October City,29.9464,30.9169,1,International,6,EGY
+EGY8857,2018-09-04,1,Strategic developments,Disrupted weapons use,Unidentified Armed Group (Egypt),,Police Forces of Egypt (2014-),,Egypt,Cairo,Al Zaytoun,Cairo - Hada'iq al Qubbah,30.0979,31.3048,1,National,0,EGY
+EGY8659,2018-01-13,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Cairo,Helwan,Cairo - Helwan,29.8414,31.3008,1,Other,0,EGY
+EGY8656,2018-01-11,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Cairo,Al Waily,Cairo - Al Wayli,30.0771,31.2851,1,Other,0,EGY
+EGY8714,2018-02-17,1,Protests,Protest with intervention,Protesters (Egypt),Labor Group (Egypt),Police Forces of Egypt (2014-),,Egypt,Cairo,Al Dahier,Cairo - Al Nozha,30.068,31.2687,1,Other,0,EGY
+EGY8744,2018-03-18,2,Violence against civilians,Attack,Police Forces of Egypt (2014-),,Civilians (Egypt),Prisoners (Egypt),Egypt,Cairo,Torah,Cairo - Tura,29.941,31.3145,1,National,0,EGY
+EGY8642,2018-01-05,2,Violence against civilians,Attack,Police Forces of Egypt (2014-),,Civilians (Egypt),Prisoners (Egypt),Egypt,Cairo,Al Khalifa,Cairo - Al Muqattam,30.0217,31.3033,1,New media,1,EGY
+EGY8643,2018-01-06,1,Riots,Mob violence,Rioters (Egypt),,Police Forces of Egypt (2014-),,Egypt,Cairo,Al Khalifa,Cairo - Al Muqattam,30.0217,31.3033,1,New media,0,EGY
+EGY10669,2018-11-11,3,Violence against civilians,Attack,Police Forces of Egypt (2014-) Prison Guards,,Civilians (Egypt),Prisoners (Egypt); Muslim Brotherhood; Women (Egypt),Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,1,National,0,EGY
+EGY8773,2018-04-22,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Alexandria,Bab Sharqi,Alexandria,31.1981,29.9192,1,Other,0,EGY
+EGY8750,2018-03-25,1,Battles,Armed clash,Police Forces of Egypt (2014-),,Hasam Movement,,Egypt,Beheira,Damanhour City,Damanhur,31.0392,30.4691,3,International,6,EGY
+EGY8748,2018-03-24,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Egypt),,Police Forces of Egypt (2014-),,Egypt,Alexandria,Awal Al Raml,Roushdy,31.2317,29.9499,1,International,2,EGY
+EGY8749,2018-03-24,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Alexandria,Awal Al Raml,Roushdy,31.2317,29.9499,1,International,0,EGY
+EGY8747,2018-03-23,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Dakahlia,Nebrowa,Dirin,31.0977,31.2687,1,National,0,EGY
+EGY8745,2018-03-20,1,Violence against civilians,Attack,Police Forces of Egypt (2014-),,Civilians (Egypt),,Egypt,Menoufia,Shebeen Al Kom City,Shibin al Kawm,30.5526,31.009,2,National,1,EGY
+EGY8838,2018-08-11,1,Explosions/Remote violence,Suicide bomb,Unidentified Armed Group (Egypt),,Civilians (Egypt),Coptic Christian Group (Egypt),Egypt,Qalyubia,Shoubra Al Khiema 1,Shubra al Khayma,30.1251,31.2505,1,National,1,EGY
+EGY8835,2018-08-03,1,Violence against civilians,Attack,Unidentified Armed Group (Egypt),,Civilians (Egypt),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,International,1,EGY
+EGY8819,2018-06-26,1,Violence against civilians,Attack,Unidentified Armed Group (Egypt),,Civilians (Egypt),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,Regional,1,EGY
+EGY8814,2018-06-22,1,Violence against civilians,Attack,Police Forces of Egypt (2014-),,Civilians (Egypt),,Egypt,Cairo,Al Zaytoun,Cairo - Hada'iq al Qubbah,30.0979,31.3048,1,National,1,EGY
+EGY8806,2018-06-10,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Unidentified Armed Group (Egypt),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,International,4,EGY
+EGY8805,2018-06-09,1,Violence against civilians,Attack,Unidentified Armed Group (Egypt),,Civilians (Egypt),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,International,1,EGY
+EGY8794,2018-05-21,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,1,Other,0,EGY
+EGY8789,2018-05-17,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamist Militia (Egypt),,Egypt,North Sinai,Al Hasana,Al Hasna,30.4669,33.7843,2,International,5,EGY
+EGY8791,2018-05-17,2,Battles,Armed clash,Police Forces of Egypt (2014-),,Islamist Militia (Egypt),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,International,9,EGY
+EGY8787,2018-05-14,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Egypt),,Civilians (Egypt),,Egypt,Cairo,New Cairo 2,Cairo - New Cairo 1,30.0629,31.5236,1,National,4,EGY
+EGY8786,2018-05-12,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Cairo,Al Marg,Cairo - Al Marg,30.1515,31.3386,1,National,0,EGY
+EGY9462,2018-11-09,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Kafr el-Sheikh,Kafr Al Sheikh City,Kafr ash Shaykh,31.1143,30.9401,1,National,0,EGY
+EGY9461,2018-06-14,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Kafr el-Sheikh,Kafr Al Sheikh City,Kafr ash Shaykh,31.1143,30.9401,1,National,0,EGY
+EGY9459,2018-04-19,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Qalyubia,Toukh,Toukh,30.3535,31.2022,1,National,0,EGY
+EGY9457,2018-02-15,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Qalyubia,Qalyub City,Qalyub,30.1792,31.2056,1,National,0,EGY
+EGY9116,2018-12-29,2,Strategic developments,Arrests,Military Forces of Egypt (2014-),,Civilians (International),Civilians (Egypt),Egypt,Matrouh,Mersa Matrouh,Marsa Matruh,31.3525,27.2453,1,National,0,EGY
+EGY9113,2018-12-29,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Unidentified Armed Group (Egypt),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,National-International,10,EGY
+EGY9115,2018-12-29,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Unidentified Armed Group (Egypt),,Egypt,Giza,Giza City,Giza,30.0146,31.209,2,National-International,16,EGY
+EGY9112,2018-12-29,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Unidentified Armed Group (Egypt),,Egypt,Giza,6th of October 1,6th October City,29.9464,30.9169,1,National-International,14,EGY
+EGY9111,2018-12-28,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Egypt),,Civilians (International),Civilians (Vietnam); Civilians (Egypt),Egypt,Giza,Giza City,Giza,30.0146,31.209,1,National,4,EGY
+EGY9099,2018-12-26,1,Protests,Peaceful protest,Protesters (Egypt),Military Forces of Egypt (2014-),,,Egypt,Beheira,Damanhour,Bastarah,31.0767,30.4242,1,National,0,EGY
+EGY9100,2018-12-26,1,Strategic developments,Looting/property destruction,Military Forces of Egypt (2014-),,Civilians (Egypt),,Egypt,North Sinai,Romana,Bir Qatia,30.9543,32.7457,1,New media,0,EGY
+EGY9101,2018-12-26,2,Strategic developments,Looting/property destruction,Militia (Pro-Government),,Civilians (Egypt),,Egypt,Damietta,Damietta,Izbat Al Basartah,31.3804,31.793,1,National,0,EGY
+EGY9095,2018-12-23,1,Strategic developments,Looting/property destruction,Military Forces of Egypt (2014-),,Civilians (Egypt),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY9094,2018-12-23,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,1,National,0,EGY
+EGY9086,2018-12-21,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Unidentified Armed Group (Egypt),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,National,1,EGY
+EGY9084,2018-12-20,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Unidentified Armed Group (Egypt),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,1,New media,4,EGY
+EGY9130,2018-12-17,1,Violence against civilians,Abduction/forced disappearance,Military Forces of Egypt (2014-),,Civilians (Egypt),,Egypt,Luxor,Luxor City,Luxor,25.6965,32.6459,1,National,0,EGY
+EGY9074,2018-12-17,1,Violence against civilians,Attack,Private Security Forces (Egypt),EPS: Egyptian Pharmacists Syndicate,Civilians (Egypt),Journalists (Egypt),Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,1,National,0,EGY
+EGY9163,2018-09-26,1,Battles,Armed clash,Bedouin Ethnic Militia (Egypt),,Bedouin Ethnic Militia (Egypt),,Egypt,Cairo,Badr City,Cairo - Badr City,30.136,31.715,1,National,2,EGY
+EGY9458,2018-04-15,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Dakahlia,Al Mansoura 2,Al Mansurah,31.0364,31.3807,1,National,0,EGY
+EGY8650,2018-01-09,1,Battles,Armed clash,Unidentified Armed Group (Egypt),,Police Forces of Egypt (2014-),,Egypt,Dakahlia,Al Mansoura 2,Al Mansurah,31.0364,31.3807,3,National,0,EGY
+EGY8841,2018-08-16,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Menoufia,Shebeen Al Kom City,Shibin al Kawm,30.5526,31.009,1,Other,0,EGY
+EGY9456,2018-05-02,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Damietta,Al Zarfa,Mit El-Khouly,31.2059,31.634,1,National,0,EGY
+EGY9454,2018-02-01,1,Strategic developments,Disrupted weapons use,Military Forces of Egypt (2014-),,Unidentified Armed Group (Egypt),,Egypt,Giza,6th of October 1,6th October City,29.9464,30.9169,1,National,0,EGY
+EGY9064,2018-12-15,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt),,,Egypt,Gharbia,Greater Mahala 1,Al Mahallah al Kubra,30.9761,31.1669,1,National,0,EGY
+EGY9061,2018-12-15,1,Protests,Peaceful protest,Protesters (Egypt),NFF: Nation's Future Party,,,Egypt,Gharbia,Zefta,Zifta,30.7153,31.2471,2,National,0,EGY
+EGY9065,2018-12-15,1,Violence against civilians,Abduction/forced disappearance,Military Forces of Egypt (2014-),,Civilians (Egypt),Women (Egypt),Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,1,New media-National,0,EGY
+EGY9062,2018-12-15,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Sharqia,Zakazik 2,Zagazig,30.5877,31.502,1,National,0,EGY
+EGY9055,2018-12-14,1,Battles,Armed clash,Unidentified Armed Group (Egypt),,Police Forces of Egypt (2014-),,Egypt,Fayoum,Fayoum City,Al Fayyum,29.3099,30.8418,1,National,2,EGY
+EGY9057,2018-12-14,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Beheira,Damanhour City,Damanhur,31.0392,30.4691,3,National,0,EGY
+EGY9058,2018-12-14,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Sharqia,Hehia,Hihya,30.6713,31.588,1,National,0,EGY
+EGY9056,2018-12-14,1,Protests,Peaceful protest,Protesters (Egypt),Labor Group (Egypt),,,Egypt,Dakahlia,Talkha,Talkha,31.0531,31.3739,1,Other,0,EGY
+EGY9054,2018-12-13,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Kafr el-Sheikh,Bella,Biyala,31.1742,31.2218,1,National,0,EGY
+EGY9053,2018-12-13,1,Protests,Peaceful protest,Protesters (Egypt),Christian Group (Egypt),,,Egypt,Menia,Menia City,Minya,28.1099,30.7503,1,National,0,EGY
+EGY9050,2018-12-12,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Kafr el-Sheikh,Bella,Biyala,31.1742,31.2218,1,National,0,EGY
+EGY9049,2018-12-12,1,Violence against civilians,Attack,Police Forces of Egypt (2014-),,Civilians (Egypt),Christian Group (Egypt),Egypt,Menia,Menia City,Minya,28.1099,30.7503,1,National,2,EGY
+EGY9045,2018-12-11,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Beheira,Kafr Al Dawar City,Kafr ad Dawwar,31.134,30.128,1,National,0,EGY
+EGY9037,2018-12-10,1,Strategic developments,Arrests,Police Forces of Egypt (2014-),,Civilians (Egypt),,Egypt,Matrouh,Al Saloom,As Sallum,31.5537,25.1579,2,National,0,EGY
+EGY9031,2018-12-09,1,Protests,Peaceful protest,Protesters (Egypt),Government of Egypt (2014-); Labor Group (Egypt),,,Egypt,Gharbia,Zefta,Zifta,30.7153,31.2471,1,National,0,EGY
+EGY9032,2018-12-09,1,Protests,Peaceful protest,Protesters (Egypt),Health Workers (Egypt); Labor Group (Egypt),,,Egypt,Menoufia,Shebeen Al Kom City,Shibin al Kawm,30.5526,31.009,1,National,0,EGY
+EGY9029,2018-12-08,1,Protests,Peaceful protest,Protesters (Egypt),NCW: National Council for Women; Students (Egypt); Women (Egypt); Teachers (Egypt); Students (Egypt),,,Egypt,Giza,Al Omrania,Al Omraneyah,29.9945,31.1792,1,National,0,EGY
+EGY9025,2018-12-07,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Sharqia,Hehia,Al Idwah,30.6322,31.5771,1,National,0,EGY
+EGY9026,2018-12-07,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Dakahlia,Bani Abied,Bani Ebeid,31.0234,31.646,1,National,0,EGY
+EGY9024,2018-12-07,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Giza,Al Ahram,Pyramids of Giza,29.9748,31.1378,1,National,0,EGY
+EGY9019,2018-12-06,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Menia,Mallawi City,Mallawi,27.7314,30.8417,1,National,0,EGY
+EGY9020,2018-12-06,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt); Women (Egypt),,,Egypt,Giza,Al Omrania,Al Omraneyah,29.9945,31.1792,1,National,0,EGY
+EGY9018,2018-12-05,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Menoufia,Ashmon,Ashmun,30.2986,30.9764,1,National,0,EGY
+EGY9007,2018-12-03,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Beheira,Damanhour City,Damanhur,31.0392,30.4691,1,National,0,EGY
+EGY9006,2018-12-03,1,Violence against civilians,Attack,Unidentified Armed Group (Egypt),,Civilians (Egypt),Judges (Egypt),Egypt,Qena,Qena City,Qina,26.1642,32.7267,1,National,1,EGY
+EGY9000,2018-12-02,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Beni Suef,Samasta,Dayr Samuil,28.9121,30.5073,1,National,0,EGY
+EGY9005,2018-12-02,1,Battles,Armed clash,Unidentified Armed Group (Egypt),,Police Forces of Egypt (2014-),,Egypt,Aswan,Aswan City,Aswan,24.0911,32.8973,2,National,1,EGY
+EGY9001,2018-12-02,1,Violence against civilians,Attack,Unidentified Armed Group (Egypt),,Civilians (Egypt),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,1,New media,0,EGY
+EGY8997,2018-11-30,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Beheira,Damanhour City,Damanhur,31.0392,30.4691,3,National,0,EGY
+EGY8993,2018-11-30,1,Violence against civilians,Attack,Unidentified Armed Group (Egypt),,Civilians (Egypt),,Egypt,Qena,Abu Tesht,Abu Tisht,26.1207,32.0957,1,International,1,EGY
+EGY8987,2018-11-29,1,Violence against civilians,Attack,Unidentified Armed Group (Egypt),,Civilians (Egypt),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,New media-National,0,EGY
+EGY8988,2018-11-29,1,Protests,Peaceful protest,Protesters (Egypt),Lawyers (Egypt); Labor Group (Egypt),,,Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,1,National,0,EGY
+EGY8985,2018-11-28,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Egypt),,Civilians (Egypt),,Egypt,Ismailia,Faied,Sarabiyum,30.3755,32.2911,1,National,0,EGY
+EGY8984,2018-11-28,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt); Teachers (Egypt); Labor Group (Egypt),,,Egypt,Damietta,Damietta 1,Damietta,31.4165,31.8133,1,National,0,EGY
+EGY8983,2018-11-28,1,Violence against civilians,Attack,Unidentified Armed Group (Egypt),,Civilians (Egypt),Bedouin Ethnic Group (Egypt),Egypt,North Sinai,Biear Al Abd,Misfaq,31.0349,33.1665,1,New media,0,EGY
+EGY8981,2018-11-27,1,Battles,Armed clash,Unidentified Armed Group (Egypt),,Police Forces of Egypt (2014-),,Egypt,Gharbia,Zefta,Tafahna al Azab,30.5969,31.253,1,National,0,EGY
+EGY8980,2018-11-27,1,Battles,Armed clash,Unidentified Armed Group (Egypt),,Police Forces of Egypt (2014-),,Egypt,Qalyubia,Banha City,Banha,30.4591,31.1786,2,National,1,EGY
+EGY8982,2018-11-27,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Cairo,Kasr Al Nile,Cairo - Qasr al Nile,30.0488,31.2343,1,National,0,EGY
+EGY8975,2018-11-25,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Beni Suef,Beni Suef City,Bani Suwayf,29.0744,31.0979,1,National,0,EGY
+EGY8974,2018-11-24,1,Battles,Armed clash,Police Forces of Egypt (2014-),,Military Forces of Israel (2009-2021),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,New media-National,0,EGY
+EGY8964,2018-11-20,1,Strategic developments,Disrupted weapons use,Military Forces of Egypt (2014-),,,,Egypt,North Sinai,Rafah,Al Muqataah,31.1724,34.1968,2,New media,1,EGY
+EGY8971,2018-11-18,1,Protests,Peaceful protest,Protesters (Egypt),Labor Group (Egypt),,,Egypt,Red Sea,Hurghada 1,Hurghada,27.2529,33.8181,1,Other,0,EGY
+EGY8996,2018-11-16,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Giza,Al Agouza,Mohandiseen,30.0574,31.1995,1,National,0,EGY
+EGY8970,2018-11-16,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Egypt),,Civilians (Egypt),,Egypt,North Sinai,Biear Al Abd,Bir Al-Abd,31.0189,33.0098,2,National,0,EGY
+EGY8950,2018-11-11,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Egypt (2014-),,,,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,New media,0,EGY
+EGY8949,2018-11-11,1,Strategic developments,Agreement,Government of Egypt (2014-),,Al-Gamaa al-Islamiyya,,Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,1,National,0,EGY
+EGY8947,2018-11-08,1,Violence against civilians,Attack,Police Forces of Egypt (2014-),,Civilians (Egypt),,Egypt,North Sinai,Biear Al Abd,Bir Al-Abd,31.0189,33.0098,2,New media,0,EGY
+EGY8939,2018-11-05,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Cairo,Al Zaytoun,Cairo - Hada'iq al Qubbah,30.0979,31.3048,1,National,0,EGY
+EGY8937,2018-11-04,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Cairo,Nasr City 1,Cairo - Nasr City 1,30.0619,31.3339,1,National,0,EGY
+EGY8921,2018-10-27,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Egypt),,Police Forces of Egypt (2014-),,Egypt,Cairo,Helwan,Cairo - Helwan,29.8414,31.3008,1,National,0,EGY
+EGY8917,2018-10-24,1,Battles,Armed clash,Police Forces of Egypt (2014-),,Islamist Militia (Egypt),,Egypt,New Valley,Al Farafra,Farafra Oasis,27.25,28.1667,2,National,11,EGY
+EGY8948,2018-10-21,1,Protests,Peaceful protest,Protesters (Egypt),Journalists (Egypt),,,Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,1,National,0,EGY
+EGY8904,2018-10-18,1,Explosions/Remote violence,Shelling/artillery/missile attack,Unidentified Armed Group (Egypt),,Civilians (Egypt),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,1,New media,1,EGY
+EGY8969,2018-10-17,1,Protests,Peaceful protest,Protesters (Egypt),Labor Group (Egypt),,,Egypt,Giza,6th of October 1,6th October City,29.9464,30.9169,1,Other,0,EGY
+EGY8903,2018-10-15,1,Battles,Armed clash,Police Forces of Egypt (2014-),,Islamist Militia (Egypt),,Egypt,Assiut,Al Ghanaiem,Al Ghanayim,26.8747,31.3293,2,National,9,EGY
+EGY8891,2018-10-08,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Alexandria,Bab Sharqi,Alexandria,31.1981,29.9192,1,National,0,EGY
+EGY8890,2018-10-08,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,1,National,0,EGY
+EGY8886,2018-10-05,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Egypt),,Civilians (Egypt),,Egypt,Dakahlia,Al Mansoura 2,Al Mansurah,31.0364,31.3807,1,National,0,EGY
+EGY8881,2018-09-30,1,Protests,Peaceful protest,Protesters (Egypt),Students (Egypt),,,Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,1,National,0,EGY
+EGY8880,2018-09-29,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Giza,Al Warak,Warraq al Hadar,30.0998,31.2203,1,National,0,EGY
+EGY8901,2018-09-24,1,Strategic developments,Other,Police Forces of Egypt (2014-),,Civilians (Egypt),Journalists (Egypt),Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,1,Other,0,EGY
+EGY8878,2018-09-23,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Qalyubia,Banha City,Banha,30.4591,31.1786,1,National,0,EGY
+EGY8877,2018-09-17,1,Protests,Peaceful protest,Protesters (Egypt),Labor Group (Egypt),,,Egypt,Fayoum,Fayoum,El Salhiya,29.3667,31.0,1,National,0,EGY
+EGY8876,2018-09-13,1,Protests,Peaceful protest,Protesters (Egypt),Teachers (Egypt); Labor Group (Egypt),,,Egypt,Qalyubia,Qalyub City,Qalyub,30.1792,31.2056,1,National,0,EGY
+EGY8855,2018-08-31,1,Battles,Armed clash,Police Forces of Egypt (2014-),,Unidentified Armed Group (Egypt),,Egypt,Dakahlia,Belkas,Belqas,31.3551,31.4,1,National,1,EGY
+EGY8845,2018-08-26,1,Battles,Armed clash,Unidentified Armed Group (Egypt),,Military Forces of Egypt (2014-),,Egypt,Aswan,Aswan City,Aswan,24.0911,32.8973,2,Subnational,1,EGY
+EGY9848,2018-08-01,1,Violence against civilians,Sexual violence,Police Forces of Egypt (2014-) Prison Guards,,Civilians (Egypt),Prisoners (Egypt); Civilians (United States); Men (Egypt),Egypt,Cairo,Torah,Cairo - Tura,29.941,31.3145,1,Other,0,EGY
+EGY9161,2018-03-06,1,Violence against civilians,Attack,Police Forces of Egypt (2014-),,Civilians (Egypt),,Egypt,Dakahlia,Al Manzala,Manzala,31.1016,31.9718,1,National,0,EGY
+EGY9033,2018-12-09,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Egypt (2014-),,,,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY8869,2018-09-21,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Egypt),,,,Egypt,Dakahlia,Al Mansoura 2,Al Mansurah,31.0364,31.3807,1,National,0,EGY
+EGY9047,2018-12-11,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Egypt (2014-),,,,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY9052,2018-12-12,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Egypt (2014-),,,,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY9108,2018-12-28,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Egypt (2014-),,,,Egypt,North Sinai,Rafah,Ahrash,31.3,34.2167,1,New media,0,EGY
+EGY9009,2018-12-03,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2009-2021),,,,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,0,EGY
+EGY9104,2018-12-26,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Egypt (2014-),,,,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY9002,2018-12-02,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Egypt (2014-),,,,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY9003,2018-12-02,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Egypt (2014-),,,,Egypt,North Sinai,Rafah,Al Mahdiyah,31.173,34.2219,1,New media,0,EGY
+EGY9097,2018-12-26,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2009-2021),,,,Egypt,North Sinai,Rafah,Al Muqataah,31.1724,34.1968,1,New media,0,EGY
+EGY8992,2018-11-29,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Egypt (2014-),,,,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,New media,0,EGY
+EGY8927,2018-10-31,1,Explosions/Remote violence,Remote explosive/landmine/IED,Military Forces of Egypt (2014-),,,,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,New media,0,EGY
+EGY8941,2018-11-06,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Egypt (2014-),,,,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY9008,2018-12-03,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2009-2021),,,,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY9042,2018-12-10,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Egypt (2014-),,,,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY8991,2018-11-29,1,Explosions/Remote violence,Remote explosive/landmine/IED,Military Forces of Egypt (2014-),,,,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,2,New media,0,EGY
+EGY9102,2018-12-26,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2009-2021),,,,Egypt,North Sinai,Rafah,Naj Shabbanah,31.1487,34.2416,1,New media,0,EGY
+EGY8995,2018-12-01,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Egypt (2014-),,,,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY9011,2018-12-03,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2009-2021),,,,Egypt,North Sinai,Rafah,Al Muqataah,31.1724,34.1968,1,New media,0,EGY
+EGY8966,2018-11-22,1,Explosions/Remote violence,Remote explosive/landmine/IED,Military Forces of Egypt (2014-),,,,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY8977,2018-11-25,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Egypt (2014-),,,,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY8979,2018-11-26,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Egypt (2014-),,,,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY9105,2018-12-26,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2009-2021),,,,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,2,New media,0,EGY
+EGY9010,2018-12-03,1,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2009-2021),,,,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,1,New media,0,EGY
+EGY8801,2018-06-03,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Egypt),,Police Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,Local partner-New media,3,EGY
+EGY8818,2018-06-25,1,Explosions/Remote violence,Remote explosive/landmine/IED,Military Forces of Egypt (2014-),,Unidentified Armed Group (Egypt),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,2,Regional,1,EGY
+EGY8860,2018-08-31,1,Violence against civilians,Attack,Islamist Militia (Egypt),,Civilians (Egypt),Coptic Christian Group (Egypt),Egypt,Menia,Menia City,Minya,28.1099,30.7503,2,International,0,EGY
+EGY8641,2018-01-04,1,Riots,Mob violence,Rioters (Egypt),Prisoners (Egypt),Rioters (Egypt),Prisoners (Egypt),Egypt,Giza,Kerdasa,Kirdasah,30.031,31.1111,1,New media,1,EGY
+EGY8646,2018-01-06,1,Protests,Peaceful protest,Protesters (Egypt),,,,Egypt,Qena,Qena City,Qina,26.1642,32.7267,2,National,0,EGY
+EGY8746,2018-03-21,1,Riots,Violent demonstration,Rioters (Egypt),Muslim Group (Egypt),,,Egypt,Qena,Abu Tesht,Abu Tisht,26.1207,32.0957,2,National,0,EGY
+EGY8851,2018-08-28,1,Riots,Violent demonstration,Rioters (Egypt),,Police Forces of Egypt (2014-),,Egypt,Dakahlia,Met Salseel,Mit Salsil,31.1669,31.7995,1,National,0,EGY
+EGY8875,2018-09-05,1,Riots,Mob violence,Rioters (Egypt),,Rioters (Egypt),,Egypt,Qalyubia,Toukh,Toukh,30.3535,31.2022,2,National,0,EGY
+EGY8999,2018-12-01,1,Riots,Violent demonstration,Rioters (Egypt),,Police Forces of Egypt (2014-),,Egypt,Beheira,Kom Hamada,Al Teiriya,30.6422,30.775,1,National,0,EGY
+EGY9043,2018-12-10,1,Riots,Violent demonstration,Rioters (Egypt),,Police Forces of Egypt (2014-),,Egypt,Beni Suef,Al Feshn,Al Fashn,28.8234,30.899,1,National,0,EGY
+EGY9162,2018-03-06,1,Riots,Violent demonstration,Rioters (Egypt),,Police Forces of Egypt (2014-),,Egypt,Dakahlia,Al Manzala,Manzala,31.1016,31.9718,1,National,0,EGY
+EGY8879,2018-09-25,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Egypt),,Civilians (Egypt),,Egypt,Suez,Al Ganaeen,Ahmed Hamdi Tunnel,30.0429,32.5723,1,National,0,EGY
+EGY8852,2018-08-29,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Unidentified Armed Group (Egypt),,Egypt,Giza,Al Wahat Al Baharia,Bahariya Oasis,28.25,28.95,2,National,7,EGY
+EGY8973,2018-11-23,2,Riots,Mob violence,Rioters (Egypt),,,,Egypt,Cairo,Helwan,Cairo - Helwan,29.8414,31.3008,1,National,0,EGY
+EGY8635,2018-01-03,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Police Forces of Egypt (2014-),,Egypt,North Sinai,Biear Al Abd,Bir Al-Abd,31.0189,33.0098,2,Local partner-New media,1,EGY
+EGY8636,2018-01-03,2,Violence against civilians,Attack,Islamic State Sinai Province (IS Sinai),,Civilians (Egypt),Islamic State Sinai Province (IS Sinai),Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,New media,1,EGY
+EGY8638,2018-01-04,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Nakhl,An Nakhl,29.9096,33.7483,2,New media,2,EGY
+EGY8639,2018-01-04,1,Strategic developments,Change to group/activity,Islamic State Sinai Province (IS Sinai),,,,Egypt,North Sinai,Biear Al Abd,Bir Al-Abd,31.0189,33.0098,2,Local partner-New media,0,EGY
+EGY8640,2018-01-04,1,Violence against civilians,Attack,Islamic State Sinai Province (IS Sinai),,Civilians (Egypt),Military Forces of Egypt (2014-); Police Forces of Egypt (2014-),Egypt,North Sinai,Biear Al Abd,Bir Al-Abd,31.0189,33.0098,2,Local partner-New media,3,EGY
+EGY8644,2018-01-04,1,Violence against civilians,Attack,Islamic State Sinai Province (IS Sinai),,Civilians (Egypt),Fawakhreya Ethnic Group (Egypt),Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,National,1,EGY
+EGY8648,2018-01-08,1,Violence against civilians,Attack,Islamic State Sinai Province (IS Sinai),,Civilians (Egypt),Military Forces of Egypt (2014-),Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,Local partner-New media,1,EGY
+EGY8652,2018-01-09,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,Local partner-New media,2,EGY
+EGY8653,2018-01-09,1,Violence against civilians,Attack,Islamic State Sinai Province (IS Sinai),,Civilians (Egypt),Military Forces of Egypt (2014-),Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,Local partner-New media,1,EGY
+EGY8654,2018-01-10,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,El Qawadis,31.1222,33.9852,1,Local partner-New media,1,EGY
+EGY8655,2018-01-10,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,El-Kharouba,31.074,34.186,1,Local partner-New media,1,EGY
+EGY8660,2018-01-13,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,At Tumah,31.17,34.0871,1,Local partner-New media,2,EGY
+EGY8662,2018-01-14,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,At Tumah,31.17,34.0871,1,Local partner-New media,0,EGY
+EGY8664,2018-01-17,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,New media,1,EGY
+EGY8665,2018-01-17,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Police Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,Local partner-New media,1,EGY
+EGY8666,2018-01-17,1,Violence against civilians,Attack,Islamic State Sinai Province (IS Sinai),,Civilians (Egypt),Tarabeen Clan Group (Egypt),Egypt,North Sinai,Rafah,Al Barth,30.9761,34.3031,1,Local partner-New media,1,EGY
+EGY8667,2018-01-20,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Nakhl,An Nakhl,29.9096,33.7483,3,New media,1,EGY
+EGY8668,2018-01-21,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),Police Forces of Egypt (2014-),Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,3,EGY
+EGY8670,2018-01-23,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,New media,2,EGY
+EGY8671,2018-01-23,1,Battles,Armed clash,Police Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,New media,6,EGY
+EGY8674,2018-01-26,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,Local partner-New media,0,EGY
+EGY8675,2018-01-27,1,Explosions/Remote violence,Suicide bomb,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,Local partner-New media,1,EGY
+EGY8677,2018-01-30,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,Local partner-New media,0,EGY
+EGY8678,2018-01-30,1,Strategic developments,Looting/property destruction,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Nakhl,An Nakhl,29.9096,33.7483,3,International,0,EGY
+EGY8680,2018-02-01,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Police Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,Local partner-New media,1,EGY
+EGY8682,2018-02-02,1,Strategic developments,Looting/property destruction,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Nakhl,An Nakhl,29.9096,33.7483,3,Local partner-New media,0,EGY
+EGY8683,2018-02-03,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,Local partner-New media,0,EGY
+EGY8684,2018-02-04,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Police Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,International,2,EGY
+EGY8685,2018-02-04,1,Strategic developments,Looting/property destruction,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Nakhl,An Nakhl,29.9096,33.7483,2,New media,0,EGY
+EGY8686,2018-02-05,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,New media,1,EGY
+EGY8688,2018-02-09,1,Explosions/Remote violence,Air/drone strike,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,International,0,EGY
+EGY8691,2018-02-10,1,Explosions/Remote violence,Air/drone strike,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,New media,8,EGY
+EGY8695,2018-02-11,1,Battles,Armed clash,Police Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,International,10,EGY
+EGY8696,2018-02-12,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,International,12,EGY
+EGY8697,2018-02-12,1,Explosions/Remote violence,Air/drone strike,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,International,0,EGY
+EGY8698,2018-02-13,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,International,10,EGY
+EGY8699,2018-02-13,1,Strategic developments,Arrests,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,International,0,EGY
+EGY8700,2018-02-14,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,New media,15,EGY
+EGY8701,2018-02-14,1,Strategic developments,Arrests,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,New media,0,EGY
+EGY8703,2018-02-16,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,New media,3,EGY
+EGY8704,2018-02-17,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,Local partner-New media,7,EGY
+EGY8705,2018-02-17,2,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Hasana,Al Hasna,30.4669,33.7843,2,Local partner-New media,0,EGY
+EGY8706,2018-02-17,2,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,El Qawadis,31.1222,33.9852,1,Local partner-New media,1,EGY
+EGY8707,2018-02-17,2,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Hasana,Jabal al Halal,30.653,34.0289,1,Local partner-New media,4,EGY
+EGY8708,2018-02-17,2,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,Local partner-New media,3,EGY
+EGY8709,2018-02-17,2,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,2,Local partner-New media,0,EGY
+EGY8710,2018-02-17,2,Explosions/Remote violence,Remote explosive/landmine/IED,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Shiekh Zuwaid,At Tumah,31.17,34.0871,1,Local partner-New media,0,EGY
+EGY8711,2018-02-17,2,Explosions/Remote violence,Remote explosive/landmine/IED,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Rafah,El-Kharouba,31.074,34.186,1,Local partner-New media,3,EGY
+EGY8712,2018-02-17,2,Explosions/Remote violence,Remote explosive/landmine/IED,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,Local partner-New media,0,EGY
+EGY8713,2018-02-17,1,Strategic developments,Disrupted weapons use,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,New media,0,EGY
+EGY8715,2018-02-18,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,National,5,EGY
+EGY8716,2018-02-19,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,Regional,7,EGY
+EGY8717,2018-02-19,2,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,National,5,EGY
+EGY8718,2018-02-19,1,Explosions/Remote violence,Air/drone strike,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,Regional,0,EGY
+EGY8719,2018-02-19,1,Strategic developments,Looting/property destruction,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,Regional,0,EGY
+EGY8720,2018-02-20,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,National,5,EGY
+EGY8721,2018-02-21,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,New media,4,EGY
+EGY8722,2018-02-21,1,Explosions/Remote violence,Air/drone strike,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,New media,0,EGY
+EGY8723,2018-02-22,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,National,11,EGY
+EGY8724,2018-02-24,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,2,Local partner-New media,3,EGY
+EGY8725,2018-02-27,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,International,14,EGY
+EGY8726,2018-02-27,1,Strategic developments,Disrupted weapons use,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,International,0,EGY
+EGY8727,2018-02-27,2,Strategic developments,Arrests,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,International,0,EGY
+EGY8729,2018-03-01,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,Local partner-New media,0,EGY
+EGY8730,2018-03-04,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,International,14,EGY
+EGY8731,2018-03-04,1,Explosions/Remote violence,Air/drone strike,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,New media,0,EGY
+EGY8733,2018-03-05,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,5,EGY
+EGY8734,2018-03-05,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,5,EGY
+EGY8735,2018-03-06,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,New media,2,EGY
+EGY8738,2018-03-08,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,International,4,EGY
+EGY8739,2018-03-09,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,International,4,EGY
+EGY8740,2018-03-10,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,International,5,EGY
+EGY8741,2018-03-11,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,International,5,EGY
+EGY8742,2018-03-15,2,Battles,Government regains territory,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,National,0,EGY
+EGY8743,2018-03-15,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,International,40,EGY
+EGY8756,2018-03-29,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,International,7,EGY
+EGY8757,2018-04-07,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,National,4,EGY
+EGY8758,2018-04-11,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 1,Houseinat,31.1303,33.9779,2,Local partner-New media,0,EGY
+EGY8759,2018-04-11,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,Local partner-New media,0,EGY
+EGY8760,2018-04-12,2,Battles,Armed clash,Police Forces of Egypt (2014-),Military Forces of Egypt (2014-),Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,International,21,EGY
+EGY8761,2018-04-12,2,Explosions/Remote violence,Air/drone strike,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,International,6,EGY
+EGY8764,2018-04-17,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,2,Local partner-New media,1,EGY
+EGY8765,2018-04-18,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Hasana,Al Hasna,30.4669,33.7843,2,National-International,5,EGY
+EGY8767,2018-04-21,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,Local partner-New media,1,EGY
+EGY8768,2018-04-18,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,Al Gorah,31.0988,34.1358,2,New media,10,EGY
+EGY8769,2018-04-22,2,Battles,Armed clash,Police Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,International,20,EGY
+EGY8770,2018-04-22,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,International,4,EGY
+EGY8771,2018-04-22,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Hasana,Al Hasna,30.4669,33.7843,2,International,4,EGY
+EGY8774,2018-04-27,1,Explosions/Remote violence,Remote explosive/landmine/IED,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,Local partner-New media,5,EGY
+EGY8775,2018-04-27,1,Explosions/Remote violence,Remote explosive/landmine/IED,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,Local partner-New media,5,EGY
+EGY8776,2018-04-30,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,1,International,4,EGY
+EGY8777,2018-04-30,2,Explosions/Remote violence,Air/drone strike,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,International,12,EGY
+EGY8779,2018-05-07,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,Local partner-New media,1,EGY
+EGY8780,2018-05-08,1,Explosions/Remote violence,Suicide bomb,Islamic State Sinai Province (IS Sinai),,Police Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,National,8,EGY
+EGY8781,2018-05-08,1,Explosions/Remote violence,Suicide bomb,Islamic State Sinai Province (IS Sinai),,Civilians (Egypt),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,National,1,EGY
+EGY8782,2018-05-10,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Hasana,Al Hasna,30.4669,33.7843,2,National,9,EGY
+EGY8783,2018-05-10,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,National,9,EGY
+EGY8784,2018-05-10,2,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,Local partner-New media,3,EGY
+EGY8788,2018-05-14,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,Local partner-New media,0,EGY
+EGY8792,2018-05-18,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,2,Local partner-New media,2,EGY
+EGY8793,2018-05-18,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Police Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,Local partner-New media,1,EGY
+EGY8795,2018-05-23,2,Explosions/Remote violence,Air/drone strike,Military Forces of Israel (2009-2021),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,0,EGY
+EGY8796,2018-05-19,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,National-International,2,EGY
+EGY8797,2018-05-22,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Hasana,Al Hasna,30.4669,33.7843,2,National-International,2,EGY
+EGY8799,2018-05-25,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,National-International,2,EGY
+EGY8800,2018-05-28,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Hasana,Al Hasna,30.4669,33.7843,2,National-International,4,EGY
+EGY8802,2018-06-05,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,International,15,EGY
+EGY8804,2018-06-09,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,Local partner-New media,0,EGY
+EGY8807,2018-06-13,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Biear Al Abd,Bir Al-Abd,31.0189,33.0098,2,Local partner-New media,3,EGY
+EGY8808,2018-06-19,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,Local partner-New media,1,EGY
+EGY8809,2018-06-19,1,Violence against civilians,Attack,Islamic State Sinai Province (IS Sinai),,Civilians (Egypt),Military Forces of Egypt (2014-),Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,Local partner-New media,2,EGY
+EGY8810,2018-06-20,2,Battles,Armed clash,Police Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,National-International,10,EGY
+EGY8811,2018-06-20,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Hasana,Al Hasna,30.4669,33.7843,2,National-International,6,EGY
+EGY8812,2018-06-21,2,Battles,Armed clash,Police Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,National-International,10,EGY
+EGY8813,2018-06-21,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Hasana,Al Hasna,30.4669,33.7843,2,National-International,6,EGY
+EGY8817,2018-06-25,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,New media,10,EGY
+EGY8823,2018-07-04,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,New media,0,EGY
+EGY8825,2018-07-10,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,0,EGY
+EGY8827,2018-07-11,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,0,EGY
+EGY8828,2018-07-12,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,3,EGY
+EGY8829,2018-07-22,1,Battles,Armed clash,Military Forces of Egypt (2014-),Unidentified Ethnic Militia (Egypt),Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,Regional,1,EGY
+EGY8830,2018-07-23,1,Battles,Armed clash,Military Forces of Egypt (2014-),Unidentified Ethnic Militia (Egypt),Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,Regional,0,EGY
+EGY8831,2018-07-24,1,Battles,Armed clash,Police Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,Local partner-New media,13,EGY
+EGY8834,2018-08-01,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,International,26,EGY
+EGY8836,2018-08-04,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,International,26,EGY
+EGY8837,2018-08-05,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,International,11,EGY
+EGY8839,2018-08-12,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,International,12,EGY
+EGY8842,2018-08-19,2,Explosions/Remote violence,Suicide bomb,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,International,2,EGY
+EGY8843,2018-08-19,2,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,International,3,EGY
+EGY8844,2018-08-25,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Police Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,Regional,8,EGY
+EGY8846,2018-08-26,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,2,New media,2,EGY
+EGY8848,2018-08-27,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Police Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,New media,3,EGY
+EGY8849,2018-08-27,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,As Safa,31.115,33.7941,2,New media,0,EGY
+EGY8850,2018-08-27,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,0,EGY
+EGY8853,2018-08-29,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,National,7,EGY
+EGY8854,2018-08-29,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Hasana,Al Hasna,30.4669,33.7843,2,National,6,EGY
+EGY8856,2018-09-01,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Hasana,Jabal al Halal,30.653,34.0289,1,New media-International,2,EGY
+EGY8858,2018-09-06,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Hasana,Jabal al Halal,30.653,34.0289,2,New media-National,3,EGY
+EGY8859,2018-09-06,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Police Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,New media,2,EGY
+EGY8861,2018-09-09,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,Ash Shallaq,31.2074,34.068,2,New media,2,EGY
+EGY8862,2018-09-10,1,Battles,Armed clash,Police Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,National,11,EGY
+EGY8863,2018-09-11,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,El Fitat,31.1112,34.0894,2,New media,3,EGY
+EGY8864,2018-09-12,1,Explosions/Remote violence,Shelling/artillery/missile attack,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media-Regional,1,EGY
+EGY8865,2018-09-16,2,Violence against civilians,Attack,Islamic State Sinai Province (IS Sinai),,Civilians (Egypt),Bedouin Ethnic Militia (Egypt),Egypt,North Sinai,Rafah,Al Barth,30.9761,34.3031,2,New media,3,EGY
+EGY8866,2018-09-18,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,3,EGY
+EGY8867,2018-09-19,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Naj Shabbanah,31.1487,34.2416,2,New media-Regional,2,EGY
+EGY8868,2018-09-21,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,0,EGY
+EGY8870,2018-09-23,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,0,EGY
+EGY8871,2018-09-26,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY8872,2018-09-26,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,2,New media,0,EGY
+EGY8873,2018-09-27,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,0,EGY
+EGY8874,2018-09-28,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY8882,2018-09-30,1,Violence against civilians,Attack,Islamic State Sinai Province (IS Sinai),,Civilians (Egypt),Government of Egypt (2014-),Egypt,North Sinai,Al Arish 2,As Safa,31.115,33.7941,1,New media-National,1,EGY
+EGY8883,2018-09-30,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,2,New media,3,EGY
+EGY8884,2018-10-02,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,3,EGY
+EGY8885,2018-10-02,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,New media,1,EGY
+EGY8888,2018-10-03,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,National,26,EGY
+EGY8889,2018-10-07,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Rafah,Al Jahamat,31.1562,34.2171,2,New media,0,EGY
+EGY8892,2018-10-08,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 4,Bir Lahfan,31.0031,33.854,2,New media,0,EGY
+EGY8893,2018-10-08,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY8894,2018-10-08,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY8895,2018-10-09,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Rafah,Mowasi,31.1835,34.2346,2,New media,0,EGY
+EGY8896,2018-10-09,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,National,10,EGY
+EGY8897,2018-10-10,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,1,EGY
+EGY8898,2018-10-11,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY8899,2018-10-13,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,0,EGY
+EGY8900,2018-10-13,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,2,New media,0,EGY
+EGY8902,2018-10-15,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,Az Zuhayr,31.157,34.164,2,New media,3,EGY
+EGY8905,2018-10-19,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,2,New media,1,EGY
+EGY8906,2018-10-19,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Hasana,Al Hasna,30.4669,33.7843,2,New media,3,EGY
+EGY8907,2018-10-19,1,Violence against civilians,Attack,Islamic State Sinai Province (IS Sinai),,Civilians (Egypt),,Egypt,North Sinai,Al Arish 1,Houseinat,31.1303,33.9779,1,New media,1,EGY
+EGY8908,2018-10-20,1,Violence against civilians,Attack,Islamic State Sinai Province (IS Sinai),,Civilians (Egypt),Labor Group (Egypt),Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,4,EGY
+EGY8909,2018-10-20,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,2,New media,0,EGY
+EGY8910,2018-10-21,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY8911,2018-10-22,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,Qabr Umayr,31.1868,34.0091,2,New media,1,EGY
+EGY8912,2018-10-22,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,0,EGY
+EGY8915,2018-10-22,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,1,EGY
+EGY8916,2018-10-23,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,El Fitat,31.1112,34.0894,2,New media,0,EGY
+EGY8918,2018-10-25,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Civilians (Egypt),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,2,EGY
+EGY8919,2018-10-25,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY8920,2018-10-27,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY8922,2018-10-29,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,0,EGY
+EGY8923,2018-10-29,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 4,Bir Lahfan,31.0031,33.854,2,New media,0,EGY
+EGY8924,2018-10-29,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,2,New media,0,EGY
+EGY8925,2018-10-29,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 1,Houseinat,31.1303,33.9779,1,New media,0,EGY
+EGY8926,2018-10-30,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,New media,0,EGY
+EGY8928,2018-11-01,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,El Qawadis,31.1222,33.9852,2,New media,2,EGY
+EGY8929,2018-11-02,1,Violence against civilians,Attack,Islamic State Sinai Province (IS Sinai),,Civilians (Egypt),Coptic Christian Group (Egypt),Egypt,Beni Suef,Samasta,Dayr Samuil,28.9121,30.5073,2,New media-National,7,EGY
+EGY8930,2018-11-02,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Rafah,Ahrash,31.3,34.2167,2,New media,0,EGY
+EGY8931,2018-11-02,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Hasana,Al Hasna,30.4669,33.7843,2,National,4,EGY
+EGY8932,2018-11-02,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,2,National,4,EGY
+EGY8933,2018-11-02,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,National,10,EGY
+EGY8934,2018-11-02,2,Strategic developments,Arrests,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,National,0,EGY
+EGY8935,2018-11-03,1,Battles,Armed clash,Police Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,New Valley,Al Farafra,Farafra Oasis,27.25,28.1667,2,National-International,19,EGY
+EGY8936,2018-11-04,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Police Forces of Egypt (2014-),,Egypt,Ismailia,Al Qantara East,Markaz al Qantarah Sharq,30.5448,32.3442,1,National,1,EGY
+EGY8938,2018-11-05,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY8940,2018-11-06,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Police Forces of Egypt (2014-),,Egypt,Ismailia,Al Qantara East,Markaz al Qantarah Sharq,30.5448,32.3442,1,International,4,EGY
+EGY8943,2018-11-07,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,3,EGY
+EGY8944,2018-11-07,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Ahrash,31.3,34.2167,2,New media,1,EGY
+EGY8945,2018-11-08,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,2,EGY
+EGY8946,2018-11-08,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,2,New media,3,EGY
+EGY8951,2018-11-12,1,Battles,Armed clash,Police Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,National-International,1,EGY
+EGY8952,2018-11-12,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,New media,0,EGY
+EGY8953,2018-11-12,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,2,New media,0,EGY
+EGY8954,2018-11-13,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Hasana,Jabal al Halal,30.653,34.0289,2,New media,0,EGY
+EGY8955,2018-11-13,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,2,New media,0,EGY
+EGY8956,2018-11-14,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 1,At Tawil,31.1097,33.9324,2,New media,0,EGY
+EGY8957,2018-11-17,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,0,EGY
+EGY8959,2018-11-18,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY8960,2018-11-18,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,New media,0,EGY
+EGY8961,2018-11-18,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,2,New media,3,EGY
+EGY8962,2018-11-19,1,Explosions/Remote violence,Air/drone strike,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,0,EGY
+EGY8963,2018-11-19,1,Explosions/Remote violence,Air/drone strike,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,2,New media,0,EGY
+EGY8967,2018-11-22,1,Explosions/Remote violence,Shelling/artillery/missile attack,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY8968,2018-11-24,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Al Muqataah,31.1724,34.1968,2,New media,0,EGY
+EGY8972,2018-11-22,1,Violence against civilians,Attack,Islamic State Sinai Province (IS Sinai),,Civilians (Egypt),Military Forces of Egypt (2014-),Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,2,New media-National,1,EGY
+EGY8976,2018-11-25,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY8978,2018-11-26,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,As Safa,31.115,33.7941,2,New media,0,EGY
+EGY8986,2018-11-29,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,As Safa,31.115,33.7941,1,New media,1,EGY
+EGY8989,2018-11-29,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 4,Bir Lahfan,31.0031,33.854,2,New media,0,EGY
+EGY8990,2018-11-29,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Al Muqataah,31.1724,34.1968,2,New media,0,EGY
+EGY8994,2018-12-01,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,New media,0,EGY
+EGY8998,2018-12-01,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,0,EGY
+EGY9004,2018-12-02,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,New media,0,EGY
+EGY9012,2018-12-03,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Hasana,Jabal al Halal,30.653,34.0289,2,New media,3,EGY
+EGY9013,2018-12-03,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,New media,1,EGY
+EGY9014,2018-12-04,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,0,EGY
+EGY9016,2018-12-05,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Police Forces of Egypt (2014-),Bedouin Ethnic Group (Egypt),Egypt,Assiut,Dirot,Dashlut,27.5761,30.7041,2,National,14,EGY
+EGY9021,2018-12-06,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,1,EGY
+EGY9022,2018-12-06,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,2,New media,1,EGY
+EGY9023,2018-12-06,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,Az Zuhayr,31.157,34.164,2,New media,0,EGY
+EGY9027,2018-12-08,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,3,EGY
+EGY9028,2018-12-08,1,Battles,Armed clash,Military Forces of Egypt (2014-),Police Forces of Egypt (2014-),Islamic State Sinai Province (IS Sinai),,Egypt,Menia,Menia City,Minya,28.1099,30.7503,2,National-International,2,EGY
+EGY9030,2018-12-09,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,3,EGY
+EGY9034,2018-12-10,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Militia (Pro-Government),,Egypt,North Sinai,Rafah,Al Mahdiyah,31.173,34.2219,2,New media,0,EGY
+EGY9036,2018-12-10,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,New media-National,9,EGY
+EGY9038,2018-12-10,1,Violence against civilians,Attack,Islamic State Sinai Province (IS Sinai),,Civilians (Egypt),Military Forces of Egypt (2014-),Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,New media,1,EGY
+EGY9040,2018-12-10,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,2,New media,0,EGY
+EGY9041,2018-12-10,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,0,EGY
+EGY9044,2018-12-11,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,New media-National,9,EGY
+EGY9046,2018-12-11,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,New media,0,EGY
+EGY9048,2018-12-12,2,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,New media-National,9,EGY
+EGY9051,2018-12-12,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,New media,0,EGY
+EGY9059,2018-12-14,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,3,EGY
+EGY9060,2018-12-15,1,Violence against civilians,Attack,Islamic State Sinai Province (IS Sinai),,Civilians (Egypt),Military Forces of Egypt (2014-),Egypt,North Sinai,Rafah,Al Barth,30.9761,34.3031,1,New media,2,EGY
+EGY9066,2018-12-15,1,Violence against civilians,Abduction/forced disappearance,Islamic State Sinai Province (IS Sinai),,Civilians (Egypt),Military Forces of Egypt (2014-),Egypt,North Sinai,Al Hasana,Al Hasna,30.4669,33.7843,1,National,0,EGY
+EGY9067,2018-12-15,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,New media,0,EGY
+EGY9068,2018-12-16,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Hasana,Al Hasna,30.4669,33.7843,2,New media-National,4,EGY
+EGY9069,2018-12-16,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Bir Masaid,31.125,33.7402,2,New media,0,EGY
+EGY9070,2018-12-17,1,Explosions/Remote violence,Air/drone strike,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,0,EGY
+EGY9071,2018-12-17,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,New media,3,EGY
+EGY9072,2018-12-17,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,New media,3,EGY
+EGY9073,2018-12-17,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Rafah,Al Muqataah,31.1724,34.1968,1,New media,1,EGY
+EGY9075,2018-12-17,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media-International,2,EGY
+EGY9077,2018-12-18,1,Explosions/Remote violence,Air/drone strike,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Hasana,Al Hasna,30.4669,33.7843,2,New media,0,EGY
+EGY9079,2018-12-18,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,Sharqia,Derb Neg,Diyarb Najm,30.7544,31.4402,1,New media,1,EGY
+EGY9080,2018-12-18,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY9081,2018-12-18,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,Sharqia,Zakazik 2,Zagazig,30.5877,31.502,3,New media,1,EGY
+EGY9082,2018-12-20,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,0,EGY
+EGY9083,2018-12-20,1,Explosions/Remote violence,Air/drone strike,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY9085,2018-12-21,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,0,EGY
+EGY9087,2018-12-21,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,2,New media,0,EGY
+EGY9088,2018-12-21,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,2,New media,1,EGY
+EGY9089,2018-12-22,2,Strategic developments,Looting/property destruction,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,New media,0,EGY
+EGY9090,2018-12-22,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,0,EGY
+EGY9091,2018-12-22,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,New media,3,EGY
+EGY9092,2018-12-23,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,National-International,14,EGY
+EGY9093,2018-12-23,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 4,Bir Lahfan,31.0031,33.854,2,New media,0,EGY
+EGY9096,2018-12-25,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Al Muqataah,31.1724,34.1968,1,New media,0,EGY
+EGY9098,2018-12-26,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Al Muqataah,31.1724,34.1968,1,New media,0,EGY
+EGY9103,2018-12-26,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,New media,1,EGY
+EGY9106,2018-12-27,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,New media,3,EGY
+EGY9107,2018-12-27,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Rafah,Rafah,31.2878,34.2369,1,New media,1,EGY
+EGY9109,2018-12-28,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,0,EGY
+EGY9110,2018-12-28,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Rafah,Al Muqataah,31.1724,34.1968,1,New media,0,EGY
+EGY9114,2018-12-29,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media,0,EGY
+EGY9117,2018-12-29,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,2,New media,0,EGY
+EGY9118,2018-12-30,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Shiekh Zuwaid,Sheikh Zuwayid,31.2161,34.1111,2,New media,0,EGY
+EGY9460,2018-12-06,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,National,1,EGY
+EGY8751,2018-03-26,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media-International,0,EGY
+EGY8752,2018-03-27,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media-International,1,EGY
+EGY8754,2018-03-28,1,Battles,Armed clash,Police Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,New media-International,0,EGY
+EGY8755,2018-03-28,1,Explosions/Remote violence,Suicide bomb,Islamic State Sinai Province (IS Sinai),,Military Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,New media-International,1,EGY
+EGY8634,2018-01-02,1,Strategic developments,Change to group/activity,Government of Egypt (2014-),,,,Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,3,International,0,EGY
+EGY8637,2018-01-04,1,Battles,Armed clash,Islamic State Sinai Province (IS Sinai),,Police Forces of Egypt (2014-),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,2,International,4,EGY
+EGY8649,2018-01-09,1,Battles,Armed clash,Police Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,International,8,EGY
+EGY8661,2018-01-14,1,Violence against civilians,Attack,Islamic State Sinai Province (IS Sinai),,Civilians (Egypt),Coptic Christian Group (Egypt),Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,3,International,1,EGY
+EGY8672,2018-01-23,1,Strategic developments,Arrests,Government of Egypt (2014-),,Civilians (Egypt),,Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,1,International,0,EGY
+EGY8728,2018-03-01,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,International,15,EGY
+EGY8737,2018-03-10,1,Protests,Peaceful protest,Protesters (Egypt),Ghad Political Party,,,Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,1,National-International,0,EGY
+EGY8762,2018-04-14,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Kassima,Al Qusaymah,30.666,34.3689,1,Local partner-New media,22,EGY
+EGY8772,2018-04-22,2,Explosions/Remote violence,Air/drone strike,Military Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,Matrouh,Mersa Matrouh,Marsa Matruh,31.3525,27.2453,3,International,0,EGY
+EGY8803,2018-06-06,1,Violence against civilians,Attack,Militia (Pro-Government),,Civilians (Egypt),CDM: Civil Democratic Movement,Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,1,International,0,EGY
+EGY8816,2018-06-24,1,Strategic developments,Change to group/activity,Government of Egypt (2014-),,,,Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,1,International,0,EGY
+EGY8820,2018-06-27,1,Battles,Armed clash,Police Forces of Egypt (2014-),,Hasam Movement,,Egypt,Assiut,Al Ghanaiem,Al Ghanayim,26.8747,31.3293,1,National-International,4,EGY
+EGY8826,2018-07-11,2,Battles,Armed clash,Police Forces of Egypt (2014-),,Islamist Militia (Egypt),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,International,11,EGY
+EGY8833,2018-07-31,1,Battles,Armed clash,Police Forces of Egypt (2014-),,Hasam Movement,,Egypt,Qalyubia,Al Obor,El Obour City,30.2314,31.4764,1,International,5,EGY
+EGY8847,2018-08-27,1,Battles,Armed clash,Police Forces of Egypt (2014-),,Unidentified Armed Group (Egypt),,Egypt,Sohag,Akhmim,Markaz Akhmim,26.5721,31.7851,2,National-International,5,EGY
+EGY8887,2018-10-06,2,Battles,Armed clash,Police Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,National-International,15,EGY
+EGY8942,2018-11-07,1,Violence against civilians,Attack,Military Forces of Egypt (2014-) Border Guards,,Civilians (International),Fishers (Palestine); Civilians (Palestine),Egypt,North Sinai,Rafah,Ahrash,31.3,34.2167,2,International,1,EGY
+EGY8965,2018-11-22,1,Battles,Armed clash,Police Forces of Egypt (2014-),,Islamic State Sinai Province (IS Sinai),,Egypt,North Sinai,Al Arish 2,Al Arish,31.1316,33.7984,1,National-International,12,EGY
+EGY9078,2018-12-18,1,Battles,Armed clash,Military Forces of Egypt (2014-),,Hasam Movement,Muslim Brotherhood,Egypt,Cairo,Al Waily,Cairo,30.0771,31.2859,1,International,8,EGY
+EGY8766,2018-04-20,1,Protests,Protest with intervention,Protesters (Egypt),Ultras White Knights,Police Forces of Egypt (2014-),,Egypt,Cairo,Al Zamalik,Cairo - Al Zamalik,30.0642,31.2201,3,National,0,EGY
+EGY8785,2018-05-12,1,Protests,Protest with intervention,Protesters (Egypt),,Police Forces of Egypt (2014-),,Egypt,Cairo,Helwan,Cairo - Helwan,29.8414,31.3008,1,International,0,EGY
+EGY8815,2018-06-22,1,Protests,Protest with intervention,Protesters (Egypt),,Police Forces of Egypt (2014-),,Egypt,Cairo,Al Zaytoun,Cairo - Hada'iq al Qubbah,30.0979,31.3048,1,National,0,EGY

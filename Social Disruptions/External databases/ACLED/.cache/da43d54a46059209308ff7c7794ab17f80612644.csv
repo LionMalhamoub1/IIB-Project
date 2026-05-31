@@ -1,0 +1,704 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities
+ALG5572,2018-11-14,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Aomar,Souk Lekhmiss,36.5022,3.7714,2,National,0
+ALG5569,2018-11-13,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Aomar,Souk Lekhmiss,36.5022,3.7714,2,National,0
+ALG5032,2018-01-03,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Tizi Ouzou,Ain-El-Hammam,Ain El Hammam,36.5647,4.3062,1,National,0
+ALG5033,2018-01-04,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tiaret,Sougueur,Sougueur,35.1857,1.4961,1,National,0
+ALG5034,2018-01-04,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Tizi Ouzou,Ain-El-Hammam,Ain El Hammam,36.5647,4.3062,1,National,0
+ALG5037,2018-01-05,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bechar,Bechar,Bechar,31.6167,-2.2167,1,National,0
+ALG5038,2018-01-05,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Tizi Ouzou,Ain-El-Hammam,Ain El Hammam,36.5647,4.3062,1,National,0
+ALG5039,2018-01-06,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Tizi Ouzou,Ain-El-Hammam,Ain El Hammam,36.5647,4.3062,1,National,0
+ALG5052,2018-01-04,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0
+ALG5053,2018-01-07,1,Riots,Violent demonstration,Rioters (Algeria),,,,Algeria,Bejaia,Bejaia,Bejaia,36.75,5.0833,1,National,0
+ALG5054,2018-01-07,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Guelma,Guelma,Guelma,36.4621,7.4261,1,National,0
+ALG5055,2018-01-07,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Relizane,Ben Daoud,Khechab,35.6332,0.55,1,National,0
+ALG5059,2018-01-09,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Relizane,Relizane,Relizane,35.7425,0.5592,1,National,0
+ALG5062,2018-01-10,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tlemcen,Ghazaouet,Ghazaouet,35.1,-1.85,1,National,0
+ALG5063,2018-01-13,1,Protests,Peaceful protest,Protesters (Algeria),RND: National Rally for Democracy,,,Algeria,Bejaia,Bejaia,Bejaia,36.75,5.0833,1,National,0
+ALG5066,2018-01-14,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Mostaganem,Mostaganem,Mostaganem,35.9333,0.0833,1,National,0
+ALG5067,2018-01-14,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Souk Ahras,Souk Ahras,Souk Ahras,36.2864,7.9511,1,National,0
+ALG5068,2018-01-14,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tebessa,Tebessa,Tebessa,35.4042,8.1242,1,National,0
+ALG5069,2018-01-15,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5070,2018-01-15,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tebessa,Tebessa,Tebessa,35.4042,8.1242,1,National,0
+ALG5075,2018-01-17,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5077,2018-01-03,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Biskra,Biskra,Biskra,34.8504,5.7281,1,National,0
+ALG5078,2018-01-07,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Collo,Collo,37.0058,6.5725,1,National,0
+ALG5079,2018-01-08,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,1,National,0
+ALG5080,2018-01-08,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Blida,Bougara,Bougara,36.5418,3.081,1,National,0
+ALG5082,2018-01-10,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Azzaba,Azzaba,36.7394,7.1053,1,National,0
+ALG5083,2018-01-11,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Skikda,Stora,36.9025,6.8779,1,National,0
+ALG5084,2018-01-14,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tiaret,Sougueur,Sougueur,35.1857,1.4961,1,National,0
+ALG5085,2018-01-15,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Biskra,Ourlal,Ourlal,34.6557,5.5243,1,National,0
+ALG5086,2018-01-15,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tiaret,Sougueur,Sougueur,35.1857,1.4961,1,National,0
+ALG5088,2018-01-17,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Biskra,Biskra,Biskra,34.8504,5.7281,2,National,0
+ALG5089,2018-01-20,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Khenchela,El Mahmal,Mahmel,35.3833,7.2167,1,National,0
+ALG5090,2018-01-21,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Biskra,Biskra,Biskra,34.8504,5.7281,1,National,0
+ALG5091,2018-01-21,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Laghouat,Hassi Rmel,Hassi R'Mel,32.928,3.271,1,National,0
+ALG5095,2018-01-24,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Guelma,Oued Zenati,Oued Zenati,36.3161,7.1636,2,National,0
+ALG5096,2018-01-24,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Mila,Mila,Mila,36.4503,6.2644,1,National,0
+ALG5098,2018-01-25,2,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Saida,Saida,Saida,34.8303,0.1517,1,National,0
+ALG5100,2018-01-10,1,Protests,Peaceful protest,Protesters (Algeria),Private Security Forces (Algeria),,,Algeria,Tebessa,Ouenza,Ouenza,35.9533,8.1292,1,National,0
+ALG5101,2018-01-17,1,Protests,Peaceful protest,Protesters (Algeria),Private Security Forces (Algeria),,,Algeria,Tebessa,Ouenza,Ouenza,35.9533,8.1292,1,National,0
+ALG5103,2018-01-20,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tizi Ouzou,Tizi Ouzou,Tizi Ouzou,36.7118,4.0459,1,National,0
+ALG5104,2018-01-21,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tizi Ouzou,Tizi Ouzou,Tizi Ouzou,36.7118,4.0459,1,National,0
+ALG5105,2018-01-24,2,Protests,Peaceful protest,Protesters (Algeria),Private Security Forces (Algeria),,,Algeria,Tebessa,Ouenza,Ouenza,35.9533,8.1292,1,National,0
+ALG5107,2018-01-27,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Biskra,Biskra,Biskra,34.8504,5.7281,1,National,0
+ALG5109,2018-01-28,2,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Djelfa,Djelfa,Djelfa,34.6667,3.25,1,National,0
+ALG5110,2018-01-28,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Mostaganem,Mostaganem,Mostaganem,35.9333,0.0833,1,National,0
+ALG5112,2018-01-30,1,Protests,Peaceful protest,Protesters (Algeria),CNDDC: National Committee for the Defence of the Rights of the Unemployed,,,Algeria,Constantine,Ain Semara,Ali Mendjeli,36.2459,6.5671,1,National,0
+ALG5116,2018-01-31,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Blida,Bougara,Bougara,36.5418,3.081,1,National,0
+ALG5120,2018-02-01,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Laghouat,Laghouat,Laghouat,33.8,2.8651,1,National,0
+ALG5121,2018-02-03,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Laghouat,Laghouat,Laghouat,33.8,2.8651,1,National,0
+ALG5123,2018-02-05,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Laghouat,Laghouat,Laghouat,33.8,2.8651,1,National,0
+ALG5129,2018-02-06,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Azzaba,Azzaba,36.7394,7.1053,1,National,0
+ALG5133,2018-02-12,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5134,2018-02-12,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Mila,Mila,Mila,36.4503,6.2644,1,National,0
+ALG5135,2018-02-12,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,National,0
+ALG5136,2018-02-12,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,1,National,0
+ALG5149,2018-02-06,2,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5150,2018-02-11,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Chlef,Chlef,Chlef,36.1653,1.3345,1,National,0
+ALG5152,2018-02-13,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5153,2018-02-15,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5154,2018-02-17,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Khenchela,Kais,Kais,35.4947,6.9249,2,National,0
+ALG5170,2018-02-16,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tipaza,Sidi Ghiles,Oued El Hammam,36.5931,2.1497,1,National,0
+ALG5171,2018-03-01,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tebessa,Bir El Ater,Bir El-Ater,34.7449,8.0602,1,National,0
+ALG5172,2018-03-03,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tebessa,Bir El Ater,Betita,34.4667,7.9333,1,National,0
+ALG5175,2018-03-06,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,National,0
+ALG5223,2018-04-03,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tizi Ouzou,Bouzeguene,Bouzeguene,36.6168,4.4794,1,National,0
+ALG5229,2018-04-26,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tiaret,Ksar Chellala,Ksar Chellala,35.2122,2.3189,1,National,0
+ALG5239,2018-04-27,2,Protests,Peaceful protest,Protesters (Algeria),Lawyers (Algeria),,,Algeria,Laghouat,Laghouat,Laghouat,33.8,2.8651,1,National,0
+ALG5240,2018-05-07,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Laghouat,Laghouat,Laghouat,33.8,2.8651,1,National,0
+ALG5260,2018-05-21,2,Violence against civilians,Attack,Islamist Militia (Algeria),,Civilians (Algeria),Muslim Group (Algeria),Algeria,Sidi Bel Abbes,Oued Sebaa,Oued Sebaa,34.5551,-0.8235,1,National,2
+ALG5281,2018-01-07,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Boumerdes,Afir,Afir,36.8355,3.9997,1,National,0
+ALG5285,2018-06-02,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Boumerdes,Boumerdes,Boumerdes,36.7664,3.4772,1,National,0
+ALG5286,2018-06-02,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Boumerdes,Zemmouri,Zemmouri,36.7853,3.6036,1,National,0
+ALG5287,2018-06-02,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Boumerdes,Khemis El Khechna,Khemis El Khechna,36.65,3.3308,1,National,0
+ALG5288,2018-06-02,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Boumerdes,Isser,Issers,36.7227,3.6672,1,National,0
+ALG5289,2018-06-02,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Boumerdes,Bordj Menaiel,Bordj Menaiel,36.7433,3.7173,1,National,0
+ALG5381,2018-07-20,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Illizi,Illizi,Illizi,26.5048,8.4812,1,National,0
+ALG5382,2018-07-20,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Ouargla,Ouargla,Ouargla,31.9664,5.3421,1,National,0
+ALG5389,2018-07-23,2,Protests,Peaceful protest,Protesters (Algeria),Farmers (Algeria),,,Algeria,Laghouat,Sidi Makhlouf,Sidi Makhlouf,34.1294,3.0144,1,National,0
+ALG5396,2018-07-23,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Laghouat,Hassi Rmel,Hassi R'Mel,32.928,3.271,1,National,0
+ALG5397,2018-07-25,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Mchedallah,Raffour,36.35,4.2887,1,National,0
+ALG5398,2018-07-25,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Oued El Berdi,Oued El Berdi,36.2595,3.9357,1,National,0
+ALG5404,2018-07-30,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Laghouat,Hassi Rmel,Hassi R'Mel,32.928,3.271,1,National,0
+ALG5413,2018-08-06,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Laghouat,Hassi Rmel,Hassi R'Mel,32.928,3.271,1,National,0
+ALG5415,2018-08-08,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tebessa,Tebessa,Tebessa,35.4042,8.1242,1,National,0
+ALG5423,2018-08-13,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Laghouat,Hassi Rmel,Hassi R'Mel,32.928,3.271,1,National,0
+ALG5452,2018-08-29,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Chlef,Chlef,Chlef,36.1653,1.3345,1,National,0
+ALG5477,2018-09-19,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Annaba,El Bouni,El Bouni,36.8529,7.7438,1,National,0
+ALG5482,2018-09-30,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Ain Defla,Khemis Miliana,Khemis Miliana,36.261,2.2202,1,National,0
+ALG5483,2018-10-01,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Ain Defla,Khemis Miliana,Khemis Miliana,36.261,2.2202,1,National,0
+ALG5484,2018-10-02,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Ain Defla,Khemis Miliana,Khemis Miliana,36.261,2.2202,1,National,0
+ALG5485,2018-10-03,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Ain Defla,Khemis Miliana,Khemis Miliana,36.261,2.2202,1,National,0
+ALG5489,2018-09-23,1,Violence against civilians,Attack,Unidentified Armed Group (Algeria),,Civilians (Algeria),Health Workers (Algeria),Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0
+ALG5580,2018-11-16,1,Violence against civilians,Attack,Unidentified Armed Group (Algeria),,Civilians (Algeria),,Algeria,Tiaret,Ksar Chellala,Ksar Chellala,35.2122,2.3189,2,National,0
+ALG5058,2018-01-09,1,Protests,Peaceful protest,Protesters (Algeria),CAMRA: Autonomous Medical Residents Collective; Health Workers (Algeria),,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,National,0
+ALG5073,2018-01-16,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Chlef,Chlef,Chlef,36.1653,1.3345,1,National,0
+ALG5074,2018-01-17,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Ain Temouchent,Ain Temouchent,Ain Temouchent,35.3034,-1.1452,1,National,0
+ALG5076,2018-01-20,2,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Mascara,Mascara,Mascara,35.3944,0.1397,1,National,0
+ALG5087,2018-01-16,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Biskra,Biskra,Biskra,34.8504,5.7281,1,National,0
+ALG5097,2018-01-24,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Relizane,Relizane,Relizane,35.7425,0.5592,1,National,0
+ALG5108,2018-01-28,1,Protests,Peaceful protest,Protesters (Algeria),Health Workers (Algeria),,,Algeria,Biskra,Biskra,Biskra,34.8504,5.7281,1,National,0
+ALG5113,2018-01-30,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5122,2018-02-04,1,Protests,Peaceful protest,Protesters (Algeria),CAMRA: Autonomous Medical Residents Collective; Health Workers (Algeria),,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,National,0
+ALG5124,2018-02-06,1,Protests,Peaceful protest,Protesters (Algeria),SNCCOPEN: National Union of Common Bodies and Professional Workers in Public Education; Teachers (Algeria),,,Algeria,Mostaganem,Mostaganem,Mostaganem,35.9333,0.0833,1,National,0
+ALG5128,2018-02-06,1,Protests,Peaceful protest,Protesters (Algeria),SNCCOPEN: National Union of Common Bodies and Professional Workers in Public Education; Teachers (Algeria),,,Algeria,Relizane,Relizane,Relizane,35.7425,0.5592,1,National,0
+ALG5151,2018-02-12,1,Protests,Peaceful protest,Protesters (Algeria),CNAPESTE: National Independent Council of Higher Education Teachers; Health Workers (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5270,2018-06-02,1,Protests,Peaceful protest,Protesters (Algeria),Berber Ethnic Group (Algeria); Journalists (Algeria),,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0
+ALG5275,2018-06-05,1,Protests,Peaceful protest,Protesters (Algeria),Berber Ethnic Group (Algeria); Journalists (Algeria),,,Algeria,Tizi Ouzou,Tizi Ouzou,Tizi Ouzou,36.7118,4.0459,1,National,0
+ALG5277,2018-06-06,1,Protests,Peaceful protest,Protesters (Algeria),CAMRA: Autonomous Medical Residents Collective; Health Workers (Algeria),,,Algeria,Tizi Ouzou,Tizi Ouzou,Tizi Ouzou,36.7118,4.0459,1,National,0
+ALG5278,2018-06-06,1,Protests,Peaceful protest,Protesters (Algeria),Berber Ethnic Group (Algeria); Journalists (Algeria),,,Algeria,Bejaia,Bejaia,Bejaia,36.75,5.0833,1,National,0
+ALG5296,2018-06-15,2,Protests,Peaceful protest,Protesters (Algeria),Berber Ethnic Group (Algeria); Journalists (Algeria),,,Algeria,Setif,Setif,Setif,36.1914,5.4094,1,National,0
+ALG5302,2018-06-18,1,Protests,Peaceful protest,Protesters (Algeria),Berber Ethnic Group (Algeria); Journalists (Algeria),,,Algeria,Boumerdes,Naciria,Naciria,36.7463,3.8316,1,National,0
+ALG5169,2018-02-28,1,Protests,Peaceful protest,Protesters (Algeria),CAMRA: Autonomous Medical Residents Collective,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,International,0
+ALG5160,2018-02-26,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bechar,Bechar,Bechar,31.6167,-2.2167,1,National,0
+ALG5159,2018-02-18,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bechar,Bechar,Bechar,31.6167,-2.2167,1,National,0
+ALG5158,2018-02-16,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Jijel,El Milia,El Milia,36.7547,6.2725,1,National,0
+ALG5164,2018-02-26,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Boumerdes,Bordj Menaiel,Bordj Menaiel,36.7433,3.7173,1,International,0
+ALG5163,2018-02-26,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Boumerdes,Boumerdes,Boumerdes,36.7664,3.4772,1,International,0
+ALG5161,2018-02-26,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Boumerdes,Boumerdes,El Karma,36.7744,3.5143,1,International,0
+ALG5162,2018-02-26,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Boumerdes,Ouled Moussa,Ouled Moussa,36.6839,3.3666,1,International,0
+ALG5294,2018-06-09,2,Violence against civilians,Attack,Polisario Front,,Civilians (Algeria),Yagout Ethnic Group (Algeria),Algeria,Tindouf,Tindouf,Tindouf,27.6711,-8.1474,2,International,1
+ALG5330,2018-07-01,2,Riots,Mob violence,Rioters (Algeria),Muslim Group (Algeria),Rioters (Algeria),Muslim Group (Algeria),Algeria,Chlef,Chlef,Chlef,36.1653,1.3345,3,International,0
+ALG5147,2018-02-15,1,Protests,Peaceful protest,Protesters (Algeria),CNAPESTE: National Independent Council of Higher Education Teachers; SNATEGS: Autonomous National Union of Electricity and Gas Workers; UNPEF: National Union of Education and Training Employees,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,International,0
+ALG5142,2018-02-14,1,Protests,Peaceful protest,Protesters (Algeria),CNAPESTE: National Independent Council of Higher Education Teachers; SNATEGS: Autonomous National Union of Electricity and Gas Workers; UNPEF: National Union of Education and Training Employees,,,Algeria,El Oued,El Oued,El Oued,33.3561,6.8632,1,International,0
+ALG5144,2018-02-14,1,Protests,Peaceful protest,Protesters (Algeria),CNAPESTE: National Independent Council of Higher Education Teachers; SNATEGS: Autonomous National Union of Electricity and Gas Workers; UNPEF: National Union of Education and Training Employees,,,Algeria,Tamanrasset,Tamenghasset,Tamanrasset,22.785,5.5228,3,International,0
+ALG5143,2018-02-14,1,Protests,Peaceful protest,Protesters (Algeria),CNAPESTE: National Independent Council of Higher Education Teachers; SNATEGS: Autonomous National Union of Electricity and Gas Workers; UNPEF: National Union of Education and Training Employees; Labor Group (Algeria); Health Workers (Algeria); Teachers (Algeria),,,Algeria,Illizi,Illizi,Illizi,26.5048,8.4812,1,International,0
+ALG5139,2018-02-14,1,Protests,Peaceful protest,Protesters (Algeria),CNAPESTE: National Independent Council of Higher Education Teachers; SNATEGS: Autonomous National Union of Electricity and Gas Workers; UNPEF: National Union of Education and Training Employees,,,Algeria,Batna,Batna,Batna,35.5553,6.1786,1,International,0
+ALG5145,2018-02-14,1,Protests,Peaceful protest,Protesters (Algeria),CNAPESTE: National Independent Council of Higher Education Teachers; SNATEGS: Autonomous National Union of Electricity and Gas Workers; UNPEF: National Union of Education and Training Employees,,,Algeria,Tizi Ouzou,Tizi Ouzou,Tizi Ouzou,36.7118,4.0459,1,International,0
+ALG5072,2018-01-16,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Mezdour,Mesdour,36.0786,4.071,1,National,0
+ALG5764,2018-12-16,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5225,2018-04-23,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,Other,0
+ALG5092,2018-01-22,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Relizane,Relizane,Relizane,35.7425,0.5592,1,Other,0
+ALG5036,2018-01-05,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,Other,0
+ALG5035,2018-01-05,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bejaia,Bejaia,Bejaia,36.75,5.0833,1,Other,0
+ALG5119,2018-01-31,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bejaia,Tichy,Tichy,36.6667,5.1667,1,National,0
+ALG5176,2018-03-08,1,Protests,Peaceful protest,Protesters (Algeria),Women (Algeria),,,Algeria,Bejaia,Bejaia,Bejaia,36.75,5.0833,1,National,0
+ALG5168,2018-02-28,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Relizane,Relizane,Relizane,35.7425,0.5592,1,National,0
+ALG5478,2018-09-20,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Boumerdes,Boumerdes,Boumerdes,36.7664,3.4772,2,National,0
+ALG5140,2018-02-14,1,Protests,Peaceful protest,Protesters (Algeria),CNAPESTE: National Independent Council of Higher Education Teachers; SNATEGS: Autonomous National Union of Electricity and Gas Workers; UNPEF: National Union of Education and Training Employees; Labor Group (Algeria); Health Workers (Algeria); Teachers (Algeria),,,Algeria,Bejaia,Bejaia,Bejaia,36.75,5.0833,1,International,0
+ALG5132,2018-02-12,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Alger,Kouba,Algiers - Kouba,36.7344,3.0848,1,National,0
+ALG5065,2018-01-14,1,Riots,Violent demonstration,Rioters (Algeria),,,,Algeria,Bouira,Chorfa,Chorfa,36.3596,4.3264,1,National,0
+ALG5272,2018-06-03,1,Protests,Peaceful protest,Protesters (Algeria),Journalists (Algeria),,,Algeria,Alger,,Algiers,36.7525,3.042,1,Other,0
+ALG5167,2018-02-28,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Alger,,Algiers,36.7525,3.042,1,National,0
+ALG5131,2018-02-12,1,Protests,Peaceful protest,Protesters (Algeria),CAMRA: Autonomous Medical Residents Collective; Health Workers (Algeria),,,Algeria,Alger,,Algiers,36.7525,3.042,1,International,0
+ALG5114,2018-01-30,1,Protests,Peaceful protest,Protesters (Algeria),CAMRA: Autonomous Medical Residents Collective; Health Workers (Algeria),,,Algeria,Alger,,Algiers,36.7525,3.042,1,International,0
+ALG5094,2018-01-23,1,Protests,Peaceful protest,Protesters (Algeria),CAMRA: Autonomous Medical Residents Collective; Health Workers (Algeria),,,Algeria,Alger,,Algiers,36.7525,3.042,1,International,0
+ALG5056,2018-01-07,1,Protests,Peaceful protest,Protesters (Algeria),CAMRA: Autonomous Medical Residents Collective; Health Workers (Algeria),,,Algeria,Alger,,Algiers,36.7525,3.042,1,International,0
+ALG5763,2018-12-16,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Batna,Batna,Batna,35.5553,6.1786,1,National,0
+ALG5559,2018-11-11,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Blida,Blida,Blida,36.4686,2.8289,3,National,0
+ALG5472,2018-09-12,2,Strategic developments,Arrests,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Sidi Bel Abbes,Sidi Bel Abbes,Sidi Bel Abbes,35.1939,-0.6414,2,National,0
+ALG5557,2018-11-11,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Ain Defla,Ain Defla,Ain Defla,36.2641,1.9679,3,National,0
+ALG5476,2018-09-19,1,Battles,Armed clash,Military Forces of Algeria (1999-2019),,AQIM: Al Qaeda in the Islamic Maghreb,,Algeria,Skikda,Collo,Collo,37.0058,6.5725,1,National,2
+ALG5447,2018-08-29,2,Strategic developments,Agreement,AQIM: Al Qaeda in the Islamic Maghreb,,Military Forces of Algeria (1999-2019),,Algeria,Tamanrasset,Tamenghasset,Tamanrasset,22.785,5.5228,1,National,0
+ALG5481,2018-09-27,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Tipaza,Tipaza,Tipaza,36.5897,2.4475,3,Other,0
+ALG5480,2018-09-26,1,Strategic developments,Agreement,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Tamanrasset,Tamenghasset,Tamanrasset,22.785,5.5228,2,Other,0
+ALG5187,2018-03-19,1,Protests,Protest with intervention,Protesters (Algeria),CAMRA: Autonomous Medical Residents Collective; Health Workers (Algeria),Police Forces of Algeria (1999-2019),,Algeria,Alger,El Achour,Algiers - Ben Aknoun,36.7667,3.0167,1,International,0
+ALG5031,2018-01-03,1,Protests,Protest with intervention,Protesters (Algeria),CAMRA: Autonomous Medical Residents Collective; Health Workers (Algeria),Police Forces of Algeria (1999-2019),,Algeria,Alger,,Algiers,36.7525,3.042,1,International,0
+ALG5251,2018-05-15,1,Protests,Protest with intervention,Protesters (Algeria),CAMRA: Autonomous Medical Residents Collective; Health Workers (Algeria),Police Forces of Algeria (1999-2019),,Algeria,Alger,,Algiers,36.7525,3.042,1,National,0
+ALG5125,2018-02-06,1,Protests,Protest with intervention,Protesters (Algeria),,Police Forces of Algeria (1999-2019),,Algeria,Mila,Mila,Mila,36.4503,6.2644,1,National,0
+ALG5190,2018-03-20,1,Protests,Protest with intervention,Protesters (Algeria),Students (Algeria),Police Forces of Algeria (1999-2019),,Algeria,Constantine,Ain Semara,Ali Mendjeli,36.2459,6.5671,1,National,0
+ALG5279,2018-06-06,1,Protests,Protest with intervention,Protesters (Algeria),CAMRA: Autonomous Medical Residents Collective; Health Workers (Algeria),Police Forces of Algeria (1999-2019),,Algeria,Annaba,Annaba,Annaba,36.9,7.7667,1,National,0
+ALG5244,2018-05-13,1,Protests,Protest with intervention,Protesters (Algeria),CAMRA: Autonomous Medical Residents Collective; Health Workers (Algeria),Police Forces of Algeria (1999-2019),,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,International,0
+ALG5195,2018-03-30,2,Protests,Protest with intervention,Protesters (Algeria),,Polisario Front,,Algeria,Tindouf,Tindouf,Tindouf,27.6711,-8.1474,1,National,0
+ALG5226,2018-04-24,1,Protests,Protest with intervention,Protesters (Algeria),CAMRA: Autonomous Medical Residents Collective; Health Workers (Algeria),Police Forces of Algeria (1999-2019),,Algeria,Alger,,Algiers,36.7525,3.042,1,National,0
+ALG5071,2018-01-15,1,Battles,Armed clash,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Boumerdes,Ben Choud,Ben Choud,36.8632,3.8804,1,Local partner-New media,3
+ALG5130,2018-02-12,1,Riots,Violent demonstration,Rioters (Algeria),CAMRA: Autonomous Medical Residents Collective; PT: Workers Party; Health Workers (Algeria),Police Forces of Algeria (1999-2019),,Algeria,Alger,,Algiers,36.7525,3.042,1,International,0
+ALG5204,2018-04-05,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Skikda,Ain Kechra,Ain Kechra,36.7483,6.4323,2,Local partner-New media,0
+ALG5487,2018-10-03,2,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Boumerdes,Boumerdes,Boumerdes,36.7664,3.4772,3,National,0
+ALG5473,2018-09-12,2,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Tamanrasset,In Guezzam,In Guezzam,19.6633,5.7332,2,National,0
+ALG5453,2018-09-01,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Medea,Medea,Medea,36.2675,2.75,3,National,0
+ALG5271,2018-06-02,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,,,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,2,National,0
+ALG5064,2018-01-14,1,Riots,Violent demonstration,Rioters (Algeria),Students (Algeria),Police Forces of Algeria (1999-2019),,Algeria,Tizi Ouzou,Tizi Ouzou,Tizi Ouzou,36.7118,4.0459,1,International,0
+ALG5386,2018-07-22,2,Strategic developments,Agreement,AQIM: Al Qaeda in the Islamic Maghreb,,Military Forces of Algeria (1999-2019),,Algeria,Tamanrasset,Tamenghasset,Tamanrasset,22.785,5.5228,3,International,0
+ALG5304,2018-06-21,1,Protests,Protest with intervention,Protesters (Algeria),Journalists (Algeria),Police Forces of Algeria (1999-2019),,Algeria,Bejaia,Bejaia,Bejaia,36.75,5.0833,1,National,0
+ALG5174,2018-03-05,1,Protests,Protest with intervention,Protesters (Algeria),Students (Algeria),Police Forces of Algeria (1999-2019),,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0
+ALG5081,2018-01-09,1,Riots,Violent demonstration,Rioters (Algeria),,Police Forces of Algeria (1999-2019),,Algeria,Skikda,Collo,Collo,37.0058,6.5725,1,National,0
+ALG5118,2018-02-02,1,Protests,Protest with intervention,Protesters (Algeria),Private Security Forces (Algeria),Police Forces of Algeria (1999-2019),,Algeria,Tebessa,Ouenza,Ouenza,35.9533,8.1292,1,National,0
+ALG5467,2018-09-05,1,Strategic developments,Agreement,AQIM: Al Qaeda in the Islamic Maghreb,,Military Forces of Algeria (1999-2019),,Algeria,Tamanrasset,Tamenghasset,Tamanrasset,22.785,5.5228,1,National,0
+ALG5456,2018-09-02,2,Strategic developments,Change to group/activity,Military Forces of Algeria (1999-2019),,,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,2,International,0
+ALG5141,2018-02-14,1,Riots,Violent demonstration,Rioters (Algeria),CNAPESTE: National Independent Council of Higher Education Teachers; SNATEGS: Autonomous National Union of Electricity and Gas Workers; UNPEF: National Union of Education and Training Employees; Labor Group (Algeria); Teachers (Algeria); Students (Algeria),Police Forces of Algeria (1999-2019),,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,International,0
+ALG5156,2018-02-19,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Boumerdes,Boumerdes,Boumerdes,36.7664,3.4772,1,International,0
+ALG5173,2018-03-04,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,3,International,0
+ALG5166,2018-02-27,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,International,0
+ALG5370,2018-07-11,1,Strategic developments,Change to group/activity,Military Forces of Algeria (1999-2019),,,,Algeria,El Oued,El Oued,El Oued,33.3561,6.8632,3,Local partner-New media,0
+ALG5368,2018-07-11,1,Strategic developments,Change to group/activity,Military Forces of Algeria (1999-2019),,,,Algeria,Tebessa,Tebessa,Tebessa,35.4042,8.1242,3,Local partner-New media,0
+ALG5148,2018-02-16,1,Battles,Armed clash,Military Forces of Algeria (1999-2019),,Soldiers of the Caliphate,,Algeria,Skikda,Oued Zhour,Oued Zhour,36.923,6.3127,2,Local partner-New media,1
+ALG5111,2018-01-30,1,Battles,Armed clash,Military Forces of Algeria (1999-2019),,AQIM: Al Qaeda in the Islamic Maghreb,,Algeria,Jijel,Bordj Tahar,Mechta Mahcene,36.7753,6.0597,1,Local partner-New media,2
+ALG5137,2018-02-12,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,,,Algeria,Tebessa,Tebessa,Tebessa,35.4042,8.1242,3,Local partner-New media,0
+ALG5369,2018-07-11,1,Strategic developments,Change to group/activity,Military Forces of Algeria (1999-2019),,,,Algeria,Souk Ahras,Souk Ahras,Souk Ahras,36.2864,7.9511,3,Local partner-New media,0
+ALG5193,2018-03-23,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,,,Algeria,Adrar,Bordj Badji Mokhtar,Bordj Badji Mokhtar,21.3292,0.9479,2,Local partner-New media,0
+ALG5117,2018-02-01,1,Strategic developments,Looting/property destruction,Military Forces of Algeria (1999-2019),,,,Algeria,Batna,Beni Foudala El Hakania,Oued Istili,35.4499,6.1828,1,Local partner-New media,0
+ALG5115,2018-01-31,1,Battles,Armed clash,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Medea,Ouled Hellal,Ouled Hellal,35.9371,2.4984,1,Local partner-New media,2
+ALG5057,2018-01-08,1,Strategic developments,Looting/property destruction,Military Forces of Algeria (1999-2019),,,,Algeria,Batna,Taxlent,Taxlent,35.6167,5.8167,1,Local partner-New media,0
+ALG5257,2018-04-15,3,Strategic developments,Agreement,Military Forces of Algeria (1999-2019),,AQIM: Al Qaeda in the Islamic Maghreb,,Algeria,Tamanrasset,Tamenghasset,Tamanrasset,22.785,5.5228,3,Local partner-New media,0
+ALG5138,2018-02-14,1,Explosions/Remote violence,Remote explosive/landmine/IED,AQIM: Al Qaeda in the Islamic Maghreb,,Military Forces of Algeria (1999-2019),,Algeria,Tebessa,Bir El Ater,Bir El-Ater,34.7449,8.0602,2,Local partner-New media,5
+ALG5183,2018-03-14,2,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Boumerdes,Boumerdes,Boumerdes,36.7664,3.4772,3,International,0
+ALG5126,2018-02-07,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,3,International,0
+ALG5200,2018-04-02,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Boumerdes,Boumerdes,Boumerdes,36.7664,3.4772,3,International,0
+ALG5407,2018-07-31,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019) Gendarmerie,,,,Algeria,Boumerdes,Corso,Corso Tahtani,36.7547,3.4428,1,National,0
+ALG5445,2018-08-27,1,Strategic developments,Other,Government of Algeria (1999-2019),,Military Forces of Algeria (1999-2019),,Algeria,Alger,,Algiers,36.7525,3.042,3,National,0
+ALG5430,2018-08-16,2,Strategic developments,Other,Government of Algeria (1999-2019),,Military Forces of Algeria (1999-2019),,Algeria,Alger,,Algiers,36.7525,3.042,3,National,0
+ALG5390,2018-07-23,1,Strategic developments,Other,Government of Algeria (1999-2019),,Police Forces of Algeria (1999-2019),,Algeria,Alger,,Algiers,36.7525,3.042,3,National,0
+ALG5328,2018-06-26,1,Strategic developments,Other,Government of Algeria (1999-2019),,Police Forces of Algeria (1999-2019),,Algeria,Alger,,Algiers,36.7525,3.042,1,International,0
+ALG5336,2018-07-04,1,Strategic developments,Change to group/activity,Government of Algeria (1999-2019),,Military Forces of Algeria (1999-2019) Gendarmerie,,Algeria,Alger,,Algiers,36.7525,3.042,1,International,0
+ALG5106,2018-01-24,1,Protests,Peaceful protest,Protesters (Algeria),Former Military Forces of Algeria (1999-2019),,,Algeria,Tizi Ouzou,Tizi Ouzou,Tizi Ouzou,36.7118,4.0459,1,National,0
+ALG5464,2018-09-04,2,Strategic developments,Arrests,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Tamanrasset,In Guezzam,In Guezzam,19.6633,5.7332,2,International,0
+ALG5230,2018-04-30,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,Other,0
+ALG5231,2018-04-30,1,Protests,Peaceful protest,Protesters (Algeria),SNSAE: National Syndicate of Education Supervisors and Assistants; Labor Group (Algeria),,,Algeria,Relizane,Relizane,Relizane,35.7425,0.5592,1,National,0
+ALG5227,2018-04-25,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Annaba,El Hadjar,El Hadjar,36.8038,7.7368,1,Other,0
+ALG5224,2018-04-18,1,Protests,Peaceful protest,Protesters (Algeria),CAMRA: Autonomous Medical Residents Collective; Health Workers (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5222,2018-04-17,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Relizane,Ouled Sidi Mihoub,Ouled Sidi El Mihoub,35.9742,0.6931,1,National,0
+ALG5221,2018-04-17,1,Protests,Peaceful protest,Protesters (Algeria),UGTA: General Union of Algerian Workers,,,Algeria,Alger,,Algiers,36.7525,3.042,1,International,0
+ALG5220,2018-04-16,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Mostaganem,Hassi Mameche,Hassi Mameche,35.8503,0.0674,1,National,0
+ALG5284,2018-04-16,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Boumerdes,Boumerdes,Boumerdes,36.7664,3.4772,1,National,0
+ALG5213,2018-04-11,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Setif,Setif,Setif,36.1914,5.4094,1,National,0
+ALG5214,2018-04-11,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,1,National,0
+ALG5215,2018-04-11,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5218,2018-04-11,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Alger,,Algiers,36.7525,3.042,1,New media,0
+ALG5211,2018-04-10,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,El Hadaiek,Hammadi Krouma,36.8374,6.8926,1,National,0
+ALG5217,2018-04-10,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Sidi Bel Abbes,Sidi Bel Abbes,Sidi Bel Abbes,35.1939,-0.6414,1,National,0
+ALG5212,2018-04-10,1,Protests,Protest with intervention,Protesters (Algeria),Former Military Forces of Algeria (1999-2019),Police Forces of Algeria (1999-2019),,Algeria,Constantine,Constantine,El Kantara,36.3699,6.6374,1,National,0
+ALG5283,2018-04-09,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Boumerdes,Boumerdes,Boumerdes,36.7664,3.4772,1,National,0
+ALG5208,2018-04-08,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5210,2018-04-08,1,Protests,Peaceful protest,Protesters (Algeria),CAMRA: Autonomous Medical Residents Collective; Health Workers (Algeria),,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,New media,0
+ALG5209,2018-04-08,1,Protests,Peaceful protest,Protesters (Algeria),CAMRA: Autonomous Medical Residents Collective; Health Workers (Algeria),,,Algeria,Alger,,Algiers,36.7525,3.042,1,New media,0
+ALG5207,2018-04-07,1,Protests,Peaceful protest,Protesters (Algeria),SNCCOPEN: National Union of Common Bodies and Professional Workers in Public Education,,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,National,0
+ALG5202,2018-04-04,1,Protests,Peaceful protest,Protesters (Algeria),CNAPESTE: National Independent Council of Higher Education Teachers; UNPEF: National Union of Education and Training Employees; SNTE: National Union of Education Workers,,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,National,0
+ALG5203,2018-04-04,1,Protests,Peaceful protest,Protesters (Algeria),CAPS: Multi-purpose Agricultural Cooperative for Services,,,Algeria,Mostaganem,Sidi Lakhdar,Sidi Lakhdar,36.1667,0.45,1,National,0
+ALG5201,2018-04-04,1,Protests,Peaceful protest,Protesters (Algeria),CAMRA: Autonomous Medical Residents Collective; Health Workers (Algeria),,,Algeria,Alger,,Algiers,36.7525,3.042,1,New media-International,0
+ALG5216,2018-04-03,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Relizane,Oued Rhiou,Oued Rhiou,35.9621,0.9152,1,National,0
+ALG5199,2018-04-02,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5198,2018-04-02,1,Battles,Armed clash,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Skikda,Ain Kechra,Ain Kechra,36.7483,6.4323,2,Local partner-New media,1
+ALG5197,2018-03-31,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Annaba,Annaba,Annaba,36.9,7.7667,1,National,0
+ALG5196,2018-03-31,1,Riots,Violent demonstration,Rioters (Algeria),,Police Forces of Algeria (1999-2019),,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,1,National,0
+ALG5194,2018-03-30,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5191,2018-03-21,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5192,2018-03-21,1,Riots,Violent demonstration,Rioters (Algeria),Students (Algeria),,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0
+ALG5188,2018-03-20,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5186,2018-03-19,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Sour El Ghouzlane,Sour El Ghozlane,36.1477,3.6912,1,National,0
+ALG5185,2018-03-18,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Sour El Ghouzlane,Sour El Ghozlane,36.1477,3.6912,1,National,0
+ALG5184,2018-03-17,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Guelma,Guelma,Guelma,36.4621,7.4261,1,National,0
+ALG5206,2018-03-17,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Batna,Hidoussa,Hidoussa,35.4932,5.9065,1,National,0
+ALG5182,2018-03-14,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Guelma,Guelma,Guelma,36.4621,7.4261,1,National,0
+ALG5205,2018-03-14,1,Protests,Peaceful protest,Protesters (Algeria),SNAPAP: National Independent Union of Public Administration Personnel,,,Algeria,Laghouat,Laghouat,Laghouat,33.8,2.8651,1,Other,0
+ALG5180,2018-03-12,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Relizane,Relizane,Relizane,35.7425,0.5592,1,National,0
+ALG5179,2018-03-06,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Relizane,Relizane,Relizane,35.7425,0.5592,1,National,0
+ALG5178,2018-03-04,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,1,National,0
+ALG5177,2018-02-13,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Setif,El Eulma,El Eulma,36.1528,5.6902,1,National,0
+ALG5282,2018-01-16,1,Protests,Peaceful protest,Protesters (Algeria),UNPEF: National Union of Education and Training Employees; Labor Group (Algeria),,,Algeria,Boumerdes,Boumerdes,Boumerdes,36.7664,3.4772,1,National,0
+ALG5449,2018-08-31,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Relizane,Oued Rhiou,Oued Rhiou,35.9621,0.9152,1,National,0
+ALG5450,2018-08-31,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Skikda,Larbi Ben M'hidi,36.8853,6.9901,1,National,0
+ALG5448,2018-08-30,1,Protests,Protest with intervention,Protesters (Algeria),,Police Forces of Algeria (1999-2019),,Algeria,Alger,,Algiers,36.7525,3.042,1,International,0
+ALG5446,2018-08-28,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Relizane,Relizane,Relizane,35.7425,0.5592,1,National,0
+ALG5451,2018-08-27,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,National,0
+ALG5444,2018-08-27,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tamanrasset,In Guezzam,In Guezzam,19.6633,5.7332,1,Local partner-New media,0
+ALG5442,2018-08-26,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,National,0
+ALG5441,2018-08-26,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tamanrasset,In Guezzam,In Guezzam,19.6633,5.7332,1,Local partner-New media,0
+ALG5443,2018-08-26,1,Violence against civilians,Attack,Military Forces of Algeria (1999-2019),,Civilians (Algeria),,Algeria,Tamanrasset,In Guezzam,In Guezzam,19.6633,5.7332,2,Local partner-New media,1
+ALG5440,2018-08-25,1,Riots,Violent demonstration,Rioters (Algeria),,,,Algeria,Skikda,Kerkera,Kerkera,36.9292,6.5856,2,National,0
+ALG5439,2018-08-20,1,Protests,Peaceful protest,Protesters (Algeria),Berber Ethnic Group (Algeria); Journalists (Algeria),,,Algeria,Bejaia,Ouzzelaguen,Ouzzelaguen,36.5554,4.5728,1,National,0
+ALG5438,2018-08-20,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Djanet,Djanet,Djanet,24.5527,9.4858,1,International,0
+ALG5435,2018-08-19,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Msila,Ain El Hadjel,Ain El Hadjel,35.67,3.8815,1,National,0
+ALG5437,2018-08-19,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,1,National,0
+ALG5434,2018-08-19,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Ahnif,Ahnif,36.3359,4.2622,2,National,0
+ALG5436,2018-08-19,1,Riots,Violent demonstration,Rioters (Algeria),,Military Forces of Algeria (1999-2019),,Algeria,Djanet,Djanet,Djanet,24.5527,9.4858,1,International,3
+ALG5433,2018-08-18,1,Violence against civilians,Attack,Military Forces of Algeria (1999-2019),,Civilians (Algeria),,Algeria,Djanet,Djanet,Djanet,24.5527,9.4858,2,International,1
+ALG5431,2018-08-17,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tizi Ouzou,Makouda,Tazerart,36.8093,4.0513,1,National,0
+ALG5429,2018-08-16,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Relizane,Djidiouia,Djidiouia,35.9299,0.8287,1,National,0
+ALG5428,2018-08-15,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Khenchela,El Mahmal,Mahmel,35.3833,7.2167,1,National,0
+ALG5425,2018-08-14,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bejaia,Amalou,Bouhamza,36.4897,4.6068,1,International,0
+ALG5427,2018-08-14,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Biskra,Biskra,Biskra,34.8504,5.7281,1,National,0
+ALG5422,2018-08-13,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Laghouat,Laghouat,Laghouat,33.8,2.8651,1,National,0
+ALG5424,2018-08-13,1,Protests,Peaceful protest,Protesters (Algeria),Health Workers (Algeria),,,Algeria,Tebessa,Tebessa,Tebessa,35.4042,8.1242,1,National,0
+ALG5419,2018-08-12,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Biskra,Biskra,Biskra,34.8504,5.7281,1,National,0
+ALG5420,2018-08-12,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bordj Bou Arreridj,Bordj Bou Arreridj,Bordj Bou Arreridj,36.0732,4.7611,3,National,0
+ALG5421,2018-08-12,1,Protests,Protest with intervention,Protesters (Algeria),Mouwatana Mouvement,Police Forces of Algeria (1999-2019),,Algeria,Alger,,Algiers,36.7525,3.042,1,International,0
+ALG5417,2018-08-11,1,Strategic developments,Agreement,Katiba Salaheddine,,Government of Algeria (1999-2019),,Algeria,Tamanrasset,Tamenghasset,Tamanrasset,22.785,5.5228,1,Local partner-New media,0
+ALG5416,2018-08-10,1,Violence against civilians,Attack,Unidentified Armed Group (Algeria),,Civilians (Algeria),Journalists (Algeria),Algeria,Tiaret,Tiaret,Tiaret,35.3758,1.3131,1,National,0
+ALG5414,2018-08-08,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,1,National,0
+ALG5412,2018-08-05,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,1,National,0
+ALG5411,2018-08-02,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bejaia,Bejaia,Bejaia,36.75,5.0833,1,National,0
+ALG5410,2018-08-02,1,Explosions/Remote violence,Air/drone strike,Military Forces of Algeria (1999-2019),,AQIM: Al Qaeda in the Islamic Maghreb,,Algeria,Skikda,Azzaba,Bissy,36.7667,7.0167,1,Local partner-New media,0
+ALG5408,2018-08-01,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Ahl El Ksar,Ahl El Ksar,36.2577,4.0415,1,National,0
+ALG5409,2018-08-01,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Sidi Bel Abbes,Sidi Bel Abbes,Sidi Bel Abbes,35.1939,-0.6414,1,International,0
+ALG5406,2018-07-31,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tizi Ouzou,Ain-El-Hammam,Ain El Hammam,36.5647,4.3062,1,National,0
+ALG5403,2018-07-29,1,Protests,Peaceful protest,Protesters (Algeria),Berber Ethnic Group (Algeria); Journalists (Algeria),,,Algeria,Bejaia,Oued Ghir,Oued Ghir,36.7099,4.9786,1,National,0
+ALG5402,2018-07-29,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Djelfa,Djelfa,Djelfa,34.6667,3.25,1,International,0
+ALG5401,2018-07-28,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tizi Ouzou,Tizi Ouzou,Tizi Ouzou,36.7118,4.0459,1,National,0
+ALG5394,2018-07-26,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Ahl El Ksar,Ahl El Ksar,36.2577,4.0415,1,National,0
+ALG5395,2018-07-26,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tizi Ouzou,Tizi Ouzou,Tizi Ouzou,36.7118,4.0459,1,National,0
+ALG5393,2018-07-26,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Ouargla,Ouargla,Ouargla,31.9664,5.3421,1,National,0
+ALG5391,2018-07-24,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Ouargla,Ouargla,Ouargla,31.9664,5.3421,1,International,0
+ALG5387,2018-07-23,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,National,0
+ALG5388,2018-07-23,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Alger,,Algiers,36.7525,3.042,1,National,0
+ALG5385,2018-07-22,1,Riots,Violent demonstration,Rioters (Algeria),Labor Group (Algeria),Police Forces of Algeria (1999-2019),,Algeria,Ouargla,Ouargla,Ouargla,31.9664,5.3421,1,International,0
+ALG5383,2018-07-21,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bechar,Bechar,Bechar,31.6167,-2.2167,1,International,0
+ALG5380,2018-07-18,1,Riots,Violent demonstration,Rioters (Algeria),,,,Algeria,Bejaia,El Kseur,El Kseur,36.6794,4.8555,1,National,0
+ALG5377,2018-07-17,1,Riots,Violent demonstration,Rioters (Algeria),Former Military Forces of Algeria (1999-2019),Police Forces of Algeria (1999-2019),,Algeria,Alger,,Algiers,36.7525,3.042,1,International,0
+ALG5378,2018-07-17,1,Riots,Violent demonstration,Rioters (Algeria),Former Military Forces of Algeria (1999-2019),Police Forces of Algeria (1999-2019),,Algeria,Alger,Rouiba,Algiers - Rouiba,36.7383,3.2808,1,International,0
+ALG5379,2018-07-17,1,Riots,Violent demonstration,Rioters (Algeria),Former Military Forces of Algeria (1999-2019),Police Forces of Algeria (1999-2019),,Algeria,Boumerdes,El Kharrouba,Kharrouba,36.6551,3.4071,1,International,0
+ALG5374,2018-07-16,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Ath Mansour Taourirt,Ath Mansour Taourirt,36.3285,4.3105,1,National,0
+ALG5376,2018-07-16,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Adrar,Adrar,Adrar,27.8709,-0.2856,1,National,0
+ALG5375,2018-07-16,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Djanet,Djanet,Djanet,24.5527,9.4858,1,National,0
+ALG5373,2018-07-15,1,Protests,Peaceful protest,Protesters (Algeria),Protestant Christian Group (Algeria),,,Algeria,Bejaia,Akbou,Colonel Amirouche,36.4164,4.4734,1,National,0
+ALG5371,2018-07-14,1,Protests,Peaceful protest,Protesters (Algeria),CAMRA: Autonomous Medical Residents Collective; Health Workers (Algeria),,,Algeria,Alger,,Algiers,36.7525,3.042,1,National,0
+ALG5372,2018-07-12,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Alger,,Algiers,36.7525,3.042,1,National,0
+ALG5367,2018-07-10,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Djanet,Djanet,Djanet,24.5527,9.4858,1,International,0
+ALG5366,2018-07-08,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Adrar,Adrar,Adrar,27.8709,-0.2856,1,International,0
+ALG5365,2018-07-06,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bechar,Bechar,Bechar,31.6167,-2.2167,1,International,0
+ALG5340,2018-07-06,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Alger,Mahelma,Algiers - Mahelma,36.6824,2.8774,1,National,0
+ALG5337,2018-07-05,1,Riots,Violent demonstration,Rioters (Algeria),,Police Forces of Algeria (1999-2019),,Algeria,Bechar,Bechar,Bechar,31.6167,-2.2167,1,National,0
+ALG5334,2018-07-04,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tizi Ouzou,Idjeur,Idjeur,36.6833,4.5,1,National,0
+ALG5335,2018-07-04,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tlemcen,Ain Youcef,Ain Youcef,35.0481,-1.3725,1,National,0
+ALG5332,2018-07-02,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,1,National,0
+ALG5333,2018-07-02,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Saida,Saida,Saida,34.8303,0.1517,1,National,0
+ALG5331,2018-07-01,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Azzaba,Azzaba,36.7394,7.1053,1,National,0
+ALG5329,2018-06-26,1,Protests,Protest with intervention,Protesters (Algeria),CNFD: National Coordination of the Families of the Missing,Police Forces of Algeria (1999-2019),,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5327,2018-06-25,1,Protests,Peaceful protest,Protesters (Algeria),SNAPAP: National Independent Union of Public Administration Personnel,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5322,2018-06-23,1,Violence against civilians,Attack,Polisario Front,,Civilians (Algeria),,Algeria,Tindouf,Tindouf,Tindouf,27.6711,-8.1474,2,International,0
+ALG5303,2018-06-20,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0
+ALG5299,2018-06-17,1,Protests,Peaceful protest,Protesters (Algeria),CAMRA: Autonomous Medical Residents Collective; Health Workers (Algeria),,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,International,0
+ALG5300,2018-06-17,1,Protests,Peaceful protest,Protesters (Algeria),CAMRA: Autonomous Medical Residents Collective; Health Workers (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,International,0
+ALG5301,2018-06-17,1,Protests,Peaceful protest,Protesters (Algeria),CAMRA: Autonomous Medical Residents Collective; Health Workers (Algeria),,,Algeria,Annaba,Annaba,Annaba,36.9,7.7667,1,International,0
+ALG5298,2018-06-17,1,Protests,Peaceful protest,Protesters (Algeria),CAMRA: Autonomous Medical Residents Collective; Health Workers (Algeria),,,Algeria,Alger,Bouzareah,Algiers - Bab El Oued,36.7924,3.0522,1,New media,0
+ALG5293,2018-06-12,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Alger,Rouiba,Algiers - Rouiba,36.7383,3.2808,2,Other,0
+ALG5292,2018-06-10,1,Violence against civilians,Attack,Unidentified Armed Group (Algeria),,Civilians (International),Civilians (China),Algeria,Alger,,Algiers,36.7525,3.042,1,International,1
+ALG5291,2018-06-09,1,Protests,Peaceful protest,Protesters (Algeria),Women (Algeria),,,Algeria,Alger,,Algiers,36.7525,3.042,1,International,0
+ALG5276,2018-06-05,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tiaret,Tiaret,Tiaret,35.3758,1.3131,1,National,0
+ALG5274,2018-06-04,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Souk Ahras,Sidi Fredj,Merahna,36.1667,8.1667,1,National,0
+ALG5290,2018-06-04,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Boumerdes,Boumerdes,Boumerdes,36.7664,3.4772,1,National,0
+ALG5273,2018-06-03,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tiaret,Tiaret,Tiaret,35.3758,1.3131,1,National,0
+ALG5266,2018-05-31,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Saida,Saida,Saida,34.8303,0.1517,1,National,0
+ALG5269,2018-05-31,1,Protests,Peaceful protest,Protesters (Algeria),Berber Ethnic Group (Algeria); Journalists (Algeria),,,Algeria,Bejaia,Aokas,Aokas,36.6333,5.25,1,National,0
+ALG5265,2018-05-31,1,Battles,Armed clash,Military Forces of Algeria (1999-2019),,AQIM: Al Qaeda in the Islamic Maghreb,,Algeria,Medea,Boughar,Oued Bou Ferhat,36.0112,2.6838,1,International,1
+ALG5268,2018-05-30,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tiaret,Mahdia,Mahdia,35.4306,1.7571,1,National,0
+ALG5264,2018-05-30,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tebessa,Tebessa,Tebessa,35.4042,8.1242,1,National,0
+ALG5263,2018-05-29,1,Battles,Armed clash,Military Forces of Algeria (1999-2019),,AQIM: Al Qaeda in the Islamic Maghreb,,Algeria,Ain Defla,Ain Tork,Hammam Righa,36.3797,2.2989,1,International,1
+ALG5261,2018-05-21,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Relizane,Relizane,Relizane,35.7425,0.5592,1,National,0
+ALG5259,2018-05-20,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Relizane,Ramka,Ramka,35.85,1.3333,1,National,0
+ALG5267,2018-05-20,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tiaret,Tiaret,Tiaret,35.3758,1.3131,1,National,0
+ALG5256,2018-05-19,1,Protests,Peaceful protest,Protesters (Algeria),Farmers (Algeria),,,Algeria,Sidi Bel Abbes,Tassala,Tessala,35.2436,-0.7725,1,National,0
+ALG5254,2018-05-17,2,Protests,Peaceful protest,Protesters (Algeria),SNAPAP: National Independent Union of Public Administration Personnel; Labor Group (Algeria),,,Algeria,Relizane,Relizane,Relizane,35.7425,0.5592,1,National,0
+ALG5255,2018-05-17,1,Protests,Peaceful protest,Protesters (Algeria),UGTA: General Union of Algerian Workers; Health Workers (Algeria),,,Algeria,Guelma,Guelma,Guelma,36.4621,7.4261,1,National,0
+ALG5253,2018-05-16,1,Protests,Peaceful protest,Protesters (Algeria),RCD: Constitutional Democratic Rally; UDS: Democratic and Social Union; LADDH: Algerian League for the Defense of Human Rights,,,Algeria,Bejaia,Bejaia,Bejaia,36.75,5.0833,1,National,0
+ALG5252,2018-05-15,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,National,0
+ALG5258,2018-05-15,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tamanrasset,In Salah,In Salah,27.1968,2.4791,1,Other,0
+ALG5250,2018-05-14,1,Protests,Peaceful protest,Protesters (Algeria),UGCAA: General Union of Algerian Merchants and Artisans,,,Algeria,Ouargla,Ouargla,Ouargla,31.9664,5.3421,1,International,0
+ALG5249,2018-05-14,1,Protests,Peaceful protest,Protesters (Algeria),RCD: Constitutional Democratic Rally,,,Algeria,Bejaia,Bejaia,Bejaia,36.75,5.0833,1,International,0
+ALG5247,2018-05-13,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Laghouat,Laghouat,Laghouat,33.8,2.8651,1,National,0
+ALG5248,2018-05-13,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Biskra,Sidi Khaled,Sidi Khaled,34.387,4.9878,1,National,0
+ALG5245,2018-05-13,1,Protests,Peaceful protest,Protesters (Algeria),CAMRA: Autonomous Medical Residents Collective; Health Workers (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,International,0
+ALG5246,2018-05-13,1,Protests,Protest with intervention,Protesters (Algeria),,Police Forces of Algeria (1999-2019),,Algeria,Relizane,Dar Ben Abdelah,Dar Ben Abdellah,35.701,0.6872,1,National,0
+ALG5243,2018-05-12,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oum El Bouaghi,Ain Beida,Ain Beida,35.7964,7.3928,1,National,0
+ALG5237,2018-05-08,1,Protests,Peaceful protest,Protesters (Algeria),UGTA: General Union of Algerian Workers,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5238,2018-05-08,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Ramdane Djamel,Ramdane Djamal,36.7561,6.8954,1,National,0
+ALG5242,2018-05-08,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Souk Ahras,Souk Ahras,Souk Ahras,36.2864,7.9511,1,National,0
+ALG5235,2018-05-07,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,1,National,0
+ALG5236,2018-05-07,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bejaia,Bejaia,Bejaia,36.75,5.0833,1,National,0
+ALG5241,2018-05-07,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Setif,Guenzet Tassameurt,Aourir Ouelmi,36.359,4.8085,1,National,0
+ALG5234,2018-05-05,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Chlef,Chlef,Chlef,36.1653,1.3345,1,National,0
+ALG5233,2018-05-04,1,Protests,Peaceful protest,Protesters (Algeria),SNSAE: National Syndicate of Education Supervisors and Assistants; Labor Group (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5232,2018-05-01,1,Protests,Peaceful protest,Protesters (Algeria),CST: Workers Solidarity Committee; PST: Socialist Workers' Party,,,Algeria,Bejaia,Bejaia,Bejaia,36.75,5.0833,1,National,0
+ALG5663,2018-11-30,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Algeria),,Civilians (Algeria),Women (Algeria),Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,National,0
+ALG5470,2018-09-08,1,Protests,Protest with intervention,Protesters (Algeria),Mouwatana Mouvement,Police Forces of Algeria (1999-2019),,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,International,0
+ALG5469,2018-09-07,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,National,0
+ALG5468,2018-09-06,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Ouargla,Ouargla,Ouargla,31.9664,5.3421,1,International,0
+ALG5465,2018-09-05,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,1,National,0
+ALG5466,2018-09-05,1,Protests,Peaceful protest,Protesters (Algeria),Health Workers (Algeria),,,Algeria,Alger,,Algiers,36.7525,3.042,1,National,0
+ALG5457,2018-09-02,1,Riots,Violent demonstration,Rioters (Algeria),,,,Algeria,Relizane,Sidi Lazreg,Sidi Lazreg,35.6462,0.778,1,National,0
+ALG5458,2018-09-02,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Es Senia,Ain Beida,35.6372,-0.6683,1,National,0
+ALG5459,2018-09-02,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Hassi Bounif,Hassi Ameur,35.7039,-0.4727,1,National,0
+ALG5460,2018-09-02,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5461,2018-09-02,1,Protests,Peaceful protest,Protesters (Algeria),CAMRA: Autonomous Medical Residents Collective,,,Algeria,Alger,,Algiers,36.7525,3.042,1,Other,0
+ALG5455,2018-09-01,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Collo,Collo,37.0058,6.5725,1,National,0
+ALG5454,2018-09-01,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bejaia,Bejaia,Bejaia,36.75,5.0833,2,Other,0
+ALG5784,2018-12-30,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Ain Turk,Ain El Turk,35.7438,-0.7693,1,Subnational,0
+ALG5778,2018-12-29,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Gdyel,Gdyel,35.7811,-0.4258,1,Subnational,0
+ALG5777,2018-12-27,1,Protests,Protest with intervention,Protesters (Algeria),Labor Group (Algeria),Police Forces of Algeria (1999-2019),,Algeria,Alger,,Algiers,36.7525,3.042,1,Other,0
+ALG5783,2018-12-26,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bejaia,Bejaia,Bejaia,36.75,5.0833,1,Subnational,0
+ALG5775,2018-12-25,1,Riots,Violent demonstration,Rioters (Algeria),,,,Algeria,Annaba,Annaba,Annaba,36.9,7.7667,1,National,0
+ALG5776,2018-12-25,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5774,2018-12-23,1,Strategic developments,Agreement,Unidentified Armed Group (Algeria),,Military Forces of Algeria (1999-2019),,Algeria,Tamanrasset,Tamenghasset,Tamanrasset,22.785,5.5228,1,National,0
+ALG5773,2018-12-22,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0
+ALG5771,2018-12-20,1,Protests,Protest with intervention,Protesters (Algeria),,Police Forces of Algeria (1999-2019),,Algeria,Annaba,Annaba,Annaba,36.9,7.7667,1,National,0
+ALG5770,2018-12-19,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,National,0
+ALG5769,2018-12-19,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Annaba,El Hadjar,El Hadjar,36.8038,7.7368,1,National,0
+ALG5768,2018-12-19,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria); SNAPAP: National Independent Union of Public Administration Personnel,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5767,2018-12-18,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,Subnational,0
+ALG5765,2018-12-17,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria); SNCP: National Union of Permanent Researchers,,,Algeria,Alger,,Algiers,36.7525,3.042,1,National,0
+ALG5762,2018-12-15,1,Riots,Violent demonstration,Rioters (Algeria),,,,Algeria,Annaba,Annaba,Annaba,36.9,7.7667,1,National,0
+ALG5624,2018-11-27,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Constantine,Hamma Bouziane,Hamma Bouziane,36.4121,6.596,1,National,0
+ALG5626,2018-11-27,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Constantine,El Khroub,El Khroub,36.2633,6.6936,1,National,0
+ALG5625,2018-11-27,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5620,2018-11-25,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5614,2018-11-21,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5574,2018-11-15,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Blida,Blida,Blida,36.4686,2.8289,1,National,0
+ALG5575,2018-11-15,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0
+ALG5578,2018-11-15,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tizi Ouzou,Makouda,Makouda,36.7917,4.0672,1,National,0
+ALG5579,2018-11-15,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Tlemcen,Tlemcen,Tlemcen,34.8783,-1.315,3,National,0
+ALG5577,2018-11-15,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Tamanrasset,Tamenghasset,Tamanrasset,22.785,5.5228,3,National,0
+ALG5576,2018-11-15,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Medea,Medea,Medea,36.2675,2.75,3,National,0
+ALG5573,2018-11-15,1,Riots,Mob violence,Rioters (Algeria),,Police Forces of Algeria (1999-2019),,Algeria,Alger,Bouzareah,Algiers - Bab El Oued,36.7924,3.0522,1,National,0
+ALG5571,2018-11-14,1,Violence against civilians,Attack,Police Forces of Algeria (1999-2019),,Civilians (Algeria),Journalists (Algeria),Algeria,Alger,Staoueli,Algiers - Staoueli,36.7532,2.8878,1,National,0
+ALG5568,2018-11-13,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Batna,Taxlent,Taxlent,35.6167,5.8167,1,National,0
+ALG5567,2018-11-13,1,Violence against civilians,Attack,Police Forces of Algeria (1999-2019),,Civilians (Algeria),,Algeria,Alger,,Algiers,36.7525,3.042,1,National,0
+ALG5570,2018-11-13,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Medea,Medea,Medea,36.2675,2.75,3,National,0
+ALG5566,2018-11-13,1,Riots,Mob violence,Rioters (Algeria),,Police Forces of Algeria (1999-2019),,Algeria,Alger,,Algiers,36.7525,3.042,1,National,0
+ALG5563,2018-11-12,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5564,2018-11-12,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Constantine,El Khroub,El Khroub,36.2633,6.6936,1,National,0
+ALG5565,2018-11-12,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Setif,Setif,Setif,36.1914,5.4094,2,National,0
+ALG5562,2018-11-12,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Alger,Dar El Beida,Algiers - Dar El Beida,36.7133,3.2125,1,National,0
+ALG5560,2018-11-11,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Arzew,Arzew,35.8517,-0.3214,1,Subnational,0
+ALG5558,2018-11-11,1,Riots,Violent demonstration,Rioters (Algeria),,,,Algeria,Biskra,El Feidh,Zeribet Ahmed,34.6543,6.6926,1,National,0
+ALG5561,2018-11-11,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tebessa,Bir El Ater,Bir El-Ater,34.7449,8.0602,2,International,0
+ALG5556,2018-11-09,1,Riots,Violent demonstration,Rioters (Algeria),,Police Forces of Algeria (1999-2019),,Algeria,Alger,,Algiers,36.7525,3.042,1,International,0
+ALG5555,2018-11-07,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tizi Ouzou,Tadmait,Tadmait,36.744,3.9,2,National,0
+ALG5554,2018-11-07,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Alger,,Algiers,36.7525,3.042,1,Other,0
+ALG5501,2018-10-18,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0
+ALG5498,2018-10-16,1,Protests,Peaceful protest,Protesters (Algeria),UGTA: General Union of Algerian Workers,,,Algeria,Annaba,Annaba,Annaba,36.9,7.7667,1,Other,0
+ALG5494,2018-10-14,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria); CLA: High Schools Council of Algeria,,,Algeria,Boumerdes,Boumerdes,Boumerdes,36.7664,3.4772,1,National,0
+ALG5495,2018-10-14,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria); CLA: High Schools Council of Algeria,,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0
+ALG5496,2018-10-14,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria); CLA: High Schools Council of Algeria,,,Algeria,Batna,Batna,Batna,35.5553,6.1786,1,National,0
+ALG5497,2018-10-14,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria); CLA: High Schools Council of Algeria,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5493,2018-10-13,1,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Algeria),,Civilians (Algeria),,Algeria,Sidi Bel Abbes,Sidi Bel Abbes,Sidi Dijilali,35.1976,-0.6172,2,National,2
+ALG5492,2018-10-08,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Mchedallah,M'Chedallah,36.3655,4.2701,1,National,0
+ALG5491,2018-10-03,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,,,Algeria,Ain Defla,Ain Defla,Ain Defla,36.2641,1.9679,1,National,0
+ALG5490,2018-10-02,1,Protests,Peaceful protest,Protesters (Algeria),UGTA: General Union of Algerian Workers; SNPSSP: National union of Special Practitioners of Public Health Algeria; Health Workers (Algeria),,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0
+ALG5432,2018-08-17,1,Explosions/Remote violence,Remote explosive/landmine/IED,AQIM: Al Qaeda in the Islamic Maghreb,,Civilians (Algeria),,Algeria,Bouira,Ahnif,Ahnif,36.3359,4.2622,1,International,2
+ALG5426,2018-08-14,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Ouargla,Ouargla,Ouargla,31.9664,5.3421,1,National,0
+ALG5488,2018-10-07,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Ain El Hadjar,Ain El Hadjar,36.3389,3.8073,2,National,0
+ALG5500,2018-10-17,1,Protests,Peaceful protest,Protesters (Algeria),FLN: National Liberation Front (Algeria); MPA: Algerian Popular Movement; RND: National Rally for Democracy; TAJ: Tajamou Amel Al Djazair,,,Algeria,Alger,,Algiers,36.7525,3.042,1,International,0
+ALG5499,2018-10-16,1,Protests,Peaceful protest,Protesters (Algeria),FLN: National Liberation Front (Algeria); MPA: Algerian Popular Movement; RND: National Rally for Democracy; TAJ: Tajamou Amel Al Djazair,,,Algeria,Alger,,Algiers,36.7525,3.042,1,National,0
+ALG5400,2018-07-26,1,Protests,Peaceful protest,Protesters (Algeria),FLN: National Liberation Front (Algeria),,,Algeria,Bouira,Taghzout,Taghzout,36.4064,3.9594,1,National,0
+ALG5399,2018-07-25,1,Protests,Peaceful protest,Protesters (Algeria),FLN: National Liberation Front (Algeria),,,Algeria,Bouira,Taghzout,Taghzout,36.4064,3.9594,1,National,0
+ALG5392,2018-07-24,1,Protests,Peaceful protest,Protesters (Algeria),FLN: National Liberation Front (Algeria),,,Algeria,Bouira,Taghzout,Taghzout,36.4064,3.9594,1,National,0
+ALG5486,2018-10-03,1,Protests,Peaceful protest,Protesters (Algeria),Health Workers (Algeria); Labor Group (Algeria),,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0
+ALG5474,2018-09-15,1,Riots,Violent demonstration,Rioters (Algeria),,Police Forces of Algeria (1999-2019),,Algeria,Ouargla,Ouargla,Ouargla,31.9664,5.3421,1,National,0
+ALG5471,2018-09-12,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Alger,,Algiers,36.7525,3.042,1,Other,0
+ALG5530,2018-10-27,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,2,National,0
+ALG5698,2018-12-06,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Adrar,Bordj Badji Mokhtar,Bordj Badji Mokhtar,21.3292,0.9479,1,National,0
+ALG5629,2018-11-29,1,Strategic developments,Arrests,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Adrar,Adrar,Adrar,27.8709,-0.2856,2,National,0
+ALG5628,2018-11-29,1,Strategic developments,Agreement,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Djanet,Djanet,Djanet,24.5527,9.4858,1,National,0
+ALG5593,2018-11-19,1,Battles,Armed clash,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Mila,Grarem Gouga,Grarem Gouga,36.5138,6.3292,1,National,1
+ALG5586,2018-11-18,1,Strategic developments,Arrests,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Tiaret,Tiaret,Tiaret,35.3758,1.3131,1,National,0
+ALG5585,2018-11-18,1,Strategic developments,Arrests,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Chlef,Chlef,Chlef,36.1653,1.3345,1,National,0
+ALG5542,2018-11-07,1,Strategic developments,Arrests,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Tissemsilt,Tissemsilt,Tissemsilt,35.6078,1.8111,1,National,0
+ALG5165,2018-02-26,1,Protests,Peaceful protest,Protesters (Algeria),Taxi Drivers (Algeria),,,Algeria,Ain Temouchent,Ain Temouchent,Ain Temouchent,35.3034,-1.1452,1,National,0
+ALG5506,2018-10-22,1,Protests,Peaceful protest,Protesters (Algeria),Former Military Forces of Algeria (1999-2019) Municipal Guards,,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0
+ALG6036,2018-12-31,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Batna,Batna,Batna,35.5553,6.1786,1,National,0
+ALG6035,2018-12-30,1,Riots,Violent demonstration,Rioters (Algeria),,,,Algeria,Annaba,El Bouni,El Bouni,36.8529,7.7438,3,National,0
+ALG6034,2018-12-27,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tizi Ouzou,Freha,Freha,36.7523,4.3155,2,National,0
+ALG6033,2018-12-23,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Annaba,Annaba,Annaba,36.9,7.7667,1,National,0
+ALG6032,2018-12-19,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Guelma,Guelma,Guelma,36.4621,7.4261,1,National,0
+ALG6029,2018-12-18,1,Battles,Armed clash,Djelfa Communal Militia (Algeria),,Djelfa Communal Militia (Algeria),,Algeria,Djelfa,Djelfa,Djelfa,34.6667,3.25,1,National,0
+ALG6028,2018-12-18,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Adrar,Bordj Badji Mokhtar,Bordj Badji Mokhtar,21.3292,0.9479,1,National,0
+ALG6031,2018-12-18,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Tipaza,Tipaza,Tipaza,36.5897,2.4475,1,National,0
+ALG6030,2018-12-18,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Mascara,Mascara,Mascara,35.3944,0.1397,1,National,0
+ALG6026,2018-12-16,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Annaba,Annaba,Annaba,36.9,7.7667,1,National,0
+ALG6027,2018-12-16,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bejaia,Aokas,Aokas,36.6333,5.25,1,National,0
+ALG5757,2018-12-14,1,Battles,Armed clash,Ain Mlila Communal Militia (Algeria),Students (Algeria),Ain Mlila Communal Militia (Algeria),,Algeria,Oum El Bouaghi,Ain Mlila,Ain M'Lila,36.0369,6.5758,1,National,0
+ALG5761,2018-12-14,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Msila,Msila,M'Sila,35.7058,4.5419,1,National,0
+ALG5758,2018-12-14,1,Violence against civilians,Attack,Military Forces of Algeria (1999-2019) Gendarmerie,,Civilians (Algeria),,Algeria,El Oued,El Oued,El Oued,33.3561,6.8632,1,National,1
+ALG5759,2018-12-14,2,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0
+ALG5755,2018-12-13,1,Riots,Violent demonstration,Rioters (Algeria),,,,Algeria,Bouira,Mchedallah,M'Chedallah,36.3655,4.2701,2,National,0
+ALG5753,2018-12-13,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Sidi Bel Abbes,Sidi Bel Abbes,Sidi Bel Abbes,35.1939,-0.6414,1,National,0
+ALG5752,2018-12-13,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria),,,Algeria,Constantine,Ain Semara,Ali Mendjeli,36.2459,6.5671,1,National,0
+ALG5750,2018-12-13,1,Protests,Peaceful protest,Protesters (Algeria),Berber Ethnic Group (Algeria),,,Algeria,Boumerdes,Naciria,Naciria,36.7463,3.8316,1,National,0
+ALG5751,2018-12-13,1,Protests,Peaceful protest,Protesters (Algeria),Berber Ethnic Group (Algeria),,,Algeria,Boumerdes,Chabet El Ameur,Chabet El Ameur,36.6371,3.6947,1,National,0
+ALG5754,2018-12-13,1,Protests,Protest with intervention,Protesters (Algeria),,Military Forces of Algeria (1999-2019) Gendarmerie,,Algeria,Oran,Es Senia,Es Senia,35.6478,-0.624,1,Subnational,0
+ALG5756,2018-12-13,1,Riots,Violent demonstration,Rioters (Algeria),,Military Forces of Algeria (1999-2019) Gendarmerie,,Algeria,Boumerdes,Si Mustapha,Si Mustapha,36.7233,3.6181,1,National,0
+ALG5740,2018-12-12,2,Protests,Peaceful protest,Protesters (Algeria),Farmers (Algeria),,,Algeria,Bechar,Bechar,Bechar,31.6167,-2.2167,1,National,0
+ALG5742,2018-12-12,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Tizi Ouzou,Freha,Tamda,36.7052,4.1916,1,National,0
+ALG5741,2018-12-12,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Tizi Ouzou,Azazga,Azazga,36.7447,4.3722,1,National,0
+ALG5744,2018-12-12,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Annaba,El Hadjar,El Hadjar,36.8038,7.7368,1,National,0
+ALG5749,2018-12-12,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Ain Turk,Ain El Turk,35.7438,-0.7693,1,Subnational,0
+ALG5748,2018-12-12,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Ain El Hadjar,Said Abid,36.3492,3.8359,1,National,0
+ALG5746,2018-12-12,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Oued Tlelat,Oued Tlelat,35.5522,-0.4488,1,National,0
+ALG5743,2018-12-12,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria); SNCCOPEN: National Union of Common Bodies and Professional Workers in Public Education,,,Algeria,Biskra,Biskra,Biskra,34.8504,5.7281,1,National,0
+ALG5745,2018-12-12,1,Protests,Peaceful protest,Protesters (Algeria),UGTA: General Union of Algerian Workers; Health Workers (Algeria),,,Algeria,Alger,,Algiers,36.7525,3.042,1,National,0
+ALG5747,2018-12-12,1,Protests,Peaceful protest,Protesters (Algeria),Government of Algeria (1999-2019),,,Algeria,Sidi Bel Abbes,Sidi Bel Abbes,Sidi Bel Abbes,35.1939,-0.6414,1,National,0
+ALG5728,2018-12-11,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bechar,Bechar,Bechar,31.6167,-2.2167,1,National,0
+ALG5729,2018-12-11,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Biskra,Biskra,Biskra,34.8504,5.7281,1,National,0
+ALG5734,2018-12-11,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tizi Ouzou,Draa-Ben-Khedda,Draa-Ben-Khedda,36.7344,3.9622,1,National,0
+ALG5737,2018-12-11,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Ouargla,Rouissat,Rouissat,31.9243,5.3502,1,National,0
+ALG5738,2018-12-11,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Ouargla,Sidi Khouiled,Sidi Khouiled,31.9833,5.4333,1,National,0
+ALG5739,2018-12-11,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Ouargla,Ouargla,Ouargla,31.9664,5.3421,2,National,0
+ALG5733,2018-12-11,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Constantine,Ain Semara,Ain Smara,36.2674,6.5014,1,National,0
+ALG5735,2018-12-11,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Sour El Ghouzlane,Sour El Ghozlane,36.1477,3.6912,1,National,0
+ALG5731,2018-12-11,1,Protests,Peaceful protest,Protesters (Algeria),Teachers (Algeria); Labor Group (Algeria),,,Algeria,Msila,Msila,M'Sila,35.7058,4.5419,1,National,0
+ALG5730,2018-12-11,1,Protests,Peaceful protest,Protesters (Algeria),Health Workers (Algeria); SNPSP: National Union of Public Health Doctors,,,Algeria,Setif,Setif,Setif,36.1914,5.4094,1,National,0
+ALG5732,2018-12-11,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tizi Ouzou,Ait Yahia Moussa,Ait Yahia Moussa,36.6412,3.8884,1,National,0
+ALG5736,2018-12-11,1,Protests,Protest with intervention,Protesters (Algeria),Labor Group (Algeria); RCD: Rally for Culture and Democracy Party; LADDH: Algerian League for the Defense of Human Rights; FM: Future Front Party; Students (Algeria),Military Forces of Algeria (1999-2019) Gendarmerie,,Algeria,Bejaia,Bejaia,Bejaia,36.75,5.0833,1,National-International,0
+ALG5717,2018-12-10,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bejaia,Bejaia,Bejaia,36.75,5.0833,1,National-International,0
+ALG5718,2018-12-10,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,National,0
+ALG5721,2018-12-10,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Bir El Djir,Bir El Djir,35.72,-0.545,1,Subnational-National,0
+ALG5723,2018-12-10,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Tipaza,Tipaza,Tipaza,36.5897,2.4475,1,National,0
+ALG5724,2018-12-10,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Ain-Bessem,Ain Bessem,36.2933,3.6732,1,National,0
+ALG5722,2018-12-10,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,El Bayadh,Kef El Ahmar,Kef El Ahmar,33.8535,0.6396,1,National,0
+ALG5725,2018-12-10,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0
+ALG5720,2018-12-10,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5719,2018-12-10,1,Protests,Peaceful protest,Protesters (Algeria),UGTA: General Union of Algerian Workers,,,Algeria,Alger,,Algiers,36.7525,3.042,1,National,0
+ALG5727,2018-12-10,1,Protests,Protest with intervention,Protesters (Algeria),CNFD: National Coordination of the Families of the Missing,Police Forces of Algeria (1999-2019),,Algeria,Alger,,Algiers,36.7525,3.042,1,National,0
+ALG5714,2018-12-09,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tizi Ouzou,Draa-Ben-Khedda,Draa-Ben-Khedda,36.7344,3.9622,1,Subnational,0
+ALG5709,2018-12-09,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Annaba,El Hadjar,El Hadjar,36.8038,7.7368,1,National,0
+ALG5715,2018-12-09,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tiaret,Tagdemt,Tagdempt,35.3354,1.2273,1,National,0
+ALG5711,2018-12-09,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Taghzout,Taghzout,36.4064,3.9594,1,National,0
+ALG5713,2018-12-09,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0
+ALG5710,2018-12-09,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Skikda,El Hadaiek,Hammadi Krouma,36.8374,6.8926,1,National,0
+ALG5712,2018-12-09,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Sour El Ghouzlane,Sour El Ghozlane,36.1477,3.6912,1,National,0
+ALG5708,2018-12-09,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Ain Defla,Ain Defla,Ain Defla,36.2641,1.9679,1,National,0
+ALG5707,2018-12-08,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Tizi Ouzou,Freha,Tamda,36.7052,4.1916,1,National,0
+ALG5706,2018-12-08,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Tizi Ouzou,Azazga,Azazga,36.7447,4.3722,1,National,0
+ALG5705,2018-12-07,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Chlef,Chlef,Chlef,36.1653,1.3345,1,National,0
+ALG5699,2018-12-07,1,Protests,Peaceful protest,Protesters (Algeria),Berber Ethnic Group (Algeria),,,Algeria,Setif,Babor,Bousselam,36.4312,5.4822,1,National,0
+ALG5704,2018-12-06,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria); RCD: Rally for Culture and Democracy Party,,,Algeria,Bouira,Bechloul,Bechloul,36.3167,4.0667,1,National,0
+ALG5696,2018-12-05,2,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Bejaia,Bejaia,Ibouhathmane,36.756,5.0387,1,National,0
+ALG5695,2018-12-05,1,Protests,Peaceful protest,Protesters (Algeria),Farmers (Algeria),,,Algeria,Bejaia,Amizour,Debha,36.6371,4.8936,1,National,0
+ALG5703,2018-12-05,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Tizi Ouzou,Azazga,Azazga,36.7447,4.3722,1,National,0
+ALG5697,2018-12-05,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Algeria),,Civilians (Algeria),Government of Algeria (1999-2019),Algeria,Chlef,Chlef,Chlef,36.1653,1.3345,1,National,0
+ALG5685,2018-12-04,2,Violence against civilians,Abduction/forced disappearance,Bordj Menaiel Communal Militia (Algeria),,Civilians (Algeria),,Algeria,Boumerdes,Bordj Menaiel,Bordj Menaiel,36.7433,3.7173,1,Subnational,0
+ALG5690,2018-12-04,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,Subnational,0
+ALG5692,2018-12-04,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Ain Turk,Ain El Turk,35.7438,-0.7693,1,Subnational,0
+ALG5686,2018-12-04,1,Violence against civilians,Abduction/forced disappearance,Unidentified Armed Group (Algeria),,Civilians (Algeria),,Algeria,Tiaret,Sougueur,Sougueur,35.1857,1.4961,1,National,0
+ALG5687,2018-12-04,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Biskra,Biskra,El Alia,34.868,5.7396,1,National,0
+ALG5688,2018-12-04,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Ouargla,Ouargla,Ouargla,31.9664,5.3421,1,National,0
+ALG5691,2018-12-04,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria); UGEA: General Union of Algerian Students,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5693,2018-12-04,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Skikda,Stora,36.9025,6.8779,1,National,0
+ALG5694,2018-12-04,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Boumerdes,Tidjelabine,Tidjelabine,36.7305,3.4948,1,National,0
+ALG5689,2018-12-04,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tizi Ouzou,Tizi Ouzou,Bouhinoun,36.6714,4.032,1,National,0
+ALG5702,2018-12-03,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Chlef,Chlef,Chlef,36.1653,1.3345,1,National,0
+ALG5680,2018-12-03,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Annaba,Annaba,Annaba,36.9,7.7667,1,National,0
+ALG5678,2018-12-03,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Annaba,El Bouni,El Bouni,36.8529,7.7438,2,National,0
+ALG5679,2018-12-03,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Annaba,Sidi Amar,Sidi Amar,36.8137,7.7299,1,National,0
+ALG5677,2018-12-03,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Tipaza,Tipaza,Tipaza,36.5897,2.4475,1,International,0
+ALG5682,2018-12-03,1,Protests,Peaceful protest,Protesters (Algeria),SNAPAP: National Independent Union of Public Administration Personnel,,,Algeria,Constantine,El Khroub,El Khroub,36.2633,6.6936,1,National,0
+ALG5681,2018-12-03,1,Protests,Peaceful protest,Protesters (Algeria),SNAPAP: National Independent Union of Public Administration Personnel,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5683,2018-12-03,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Haizer,Betrouna,36.4357,4.0259,1,National,0
+ALG5684,2018-12-03,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Tizi Ouzou,Freha,Tamda,36.7052,4.1916,1,National,0
+ALG5672,2018-12-02,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Bouira,Bechloul,Bechloul,36.3167,4.0667,1,National,0
+ALG5667,2018-12-02,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tizi Ouzou,Tizi Ouzou,Tizi Ouzou,36.7118,4.0459,1,Subnational,0
+ALG5668,2018-12-02,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tizi Ouzou,Draa El Mizan,Draa El Mizan,36.535,3.8336,1,Subnational,0
+ALG5670,2018-12-02,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Djelfa,Djelfa,Djelfa,34.6667,3.25,1,National,0
+ALG5669,2018-12-02,1,Riots,Violent demonstration,Rioters (Algeria),,,,Algeria,Bouira,Mchedallah,Raffour,36.35,4.2887,1,National,0
+ALG5671,2018-12-02,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5675,2018-12-02,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Boumerdes,Tidjelabine,Tidjelabine,36.7305,3.4948,1,National,0
+ALG5674,2018-12-02,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Setif,Setif,Setif,36.1914,5.4094,1,National,0
+ALG5673,2018-12-02,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bejaia,Ait Rzine,Ait Rzine,36.3712,4.4857,1,National,0
+ALG5676,2018-12-02,1,Protests,Protest with intervention,Protesters (Algeria),,Police Forces of Algeria (1999-2019),,Algeria,Alger,,Algiers,36.7525,3.042,1,International,0
+ALG5664,2018-12-01,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tizi Ouzou,Draa El Mizan,Draa El Mizan,36.535,3.8336,1,Subnational,0
+ALG5665,2018-12-01,1,Riots,Violent demonstration,Rioters (Algeria),Labor Group (Algeria),,,Algeria,Batna,Batna,Batna,35.5553,6.1786,1,National,0
+ALG5666,2018-12-01,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0
+ALG5632,2018-12-01,1,Protests,Protest with intervention,Protesters (Algeria),,Police Forces of Algeria (1999-2019),,Algeria,Alger,Bouzareah,Algiers - Bab El Oued,36.7924,3.0522,2,National,0
+ALG5662,2018-11-30,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Mostaganem,Sirat,Sirat,35.7804,0.1905,1,National,0
+ALG5661,2018-11-30,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Mila,Ferdjioua,Ferdjioua,36.4073,5.9304,1,National,0
+ALG5701,2018-11-29,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Chlef,Chlef,Chlef,36.1653,1.3345,1,National,0
+ALG5659,2018-11-29,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Djelfa,El Idrissia,Zenina,34.4489,2.5322,1,Subnational,0
+ALG5660,2018-11-29,1,Protests,Peaceful protest,Protesters (Algeria),Farmers (Algeria),,,Algeria,Tiaret,Hamadia,Hamadia,35.4592,1.8732,1,National,0
+ALG5658,2018-11-29,1,Protests,Peaceful protest,Protesters (Algeria),SNAPAP: National Independent Union of Public Administration Personnel; Labor Group (Algeria),,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0
+ALG5631,2018-11-29,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Alger,,Algiers,36.7525,3.042,1,National,0
+ALG5630,2018-11-29,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Medea,Ouled Antar,Ouled Antar,35.9918,2.6439,2,National,0
+ALG5649,2018-11-28,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tipaza,Sidi Ghiles,Sidi Ghiles,36.5833,2.1229,1,National,0
+ALG5653,2018-11-28,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Mostaganem,Sirat,Sirat,35.7804,0.1905,1,National,0
+ALG5654,2018-11-28,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Boumerdes,Chabet El Ameur,Ouled Ben Salah,36.6016,3.6554,1,National,0
+ALG5655,2018-11-28,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Boumerdes,Thenia,Ouled Brahim,36.6859,3.5474,1,National,0
+ALG5656,2018-11-28,2,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Boumerdes,Ammal,Ammal,36.6347,3.5904,1,National,0
+ALG5657,2018-11-28,2,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Bejaia,Bejaia,Ibouhathmane,36.756,5.0387,1,National,0
+ALG5650,2018-11-28,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Tizi Ouzou,Freha,Tamda,36.7052,4.1916,1,Subnational,0
+ALG5652,2018-11-28,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0
+ALG5627,2018-11-28,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Bechloul,Bechloul,36.3167,4.0667,1,National,0
+ALG5700,2018-11-27,2,Protests,Peaceful protest,Protesters (Algeria),Farmers (Algeria),,,Algeria,Bechar,Abadla,Abadla,31.019,-2.7239,1,National,0
+ALG5623,2018-11-27,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Ouled Attia,Siouane,36.95,6.4,1,National,0
+ALG5647,2018-11-26,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Boumerdes,Thenia,Thenia,36.7254,3.5567,1,Subnational-National,0
+ALG5645,2018-11-26,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,1,National,0
+ALG5648,2018-11-26,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Boumerdes,Djinet,Cap Djinet,36.8778,3.7205,1,Subnational-National,0
+ALG5646,2018-11-26,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0
+ALG5621,2018-11-26,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Tizi Ouzou,Aghni-Goughrane,Agouni Gueghrane,36.5149,4.1145,2,National,0
+ALG5622,2018-11-26,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Mila,Mila,Mila,36.4503,6.2644,1,National,0
+ALG5616,2018-11-25,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tizi Ouzou,Bouzeguene,Bouzeguene,36.6168,4.4794,1,National,0
+ALG5617,2018-11-25,1,Protests,Peaceful protest,Protesters (Algeria),UNPEF: National Union of Education and Training Employees; Teachers (Algeria),,,Algeria,Khenchela,Khenchela,Khenchela,35.4358,7.1433,1,National,0
+ALG5619,2018-11-25,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tizi Ouzou,Tizi Ouzou,Tizi Ouzou,36.7118,4.0459,1,National,0
+ALG5618,2018-11-25,1,Protests,Peaceful protest,Protesters (Algeria),Journalists (Algeria),,,Algeria,Alger,Kouba,Algiers - Hamma,36.7441,3.0662,1,National,0
+ALG5643,2018-11-24,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tizi Ouzou,Tadmait,Tadmait,36.744,3.9,1,Subnational,0
+ALG5611,2018-11-24,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Alger,,Algiers,36.7525,3.042,1,National,0
+ALG5612,2018-11-24,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Adrar,Bordj Badji Mokhtar,Bordj Badji Mokhtar,21.3292,0.9479,1,National,0
+ALG5610,2018-11-23,1,Strategic developments,Arrests,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Mascara,Tighenif,Tighenif,35.4172,0.3298,1,National,0
+ALG5609,2018-11-22,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Taguedit,Souk El Khemis,36.019,3.9924,2,National,0
+ALG5615,2018-11-22,2,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Bejaia,Bejaia,Ibouhathmane,36.756,5.0387,1,National,0
+ALG5642,2018-11-22,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tizi Ouzou,Tadmait,Tadmait,36.744,3.9,1,Subnational,0
+ALG5644,2018-11-22,1,Riots,Violent demonstration,Rioters (Algeria),,,,Algeria,Tizi Ouzou,Ait Aissa Mimoun,Ait Aissa Mimoun,36.7486,4.1161,1,Subnational,0
+ALG5608,2018-11-22,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,3,National,0
+ALG5607,2018-11-22,1,Strategic developments,Arrests,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Adrar,Adrar,Adrar,27.8709,-0.2856,1,National,0
+ALG5604,2018-11-21,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Taguedit,Souk El Khemis,36.019,3.9924,2,National,0
+ALG5640,2018-11-21,1,Protests,Peaceful protest,Protesters (Algeria),UNPEF: National Union of Education and Training Employees; Teachers (Algeria); Labor Group (Algeria),,,Algeria,Bejaia,Toudja,Toudja,36.7469,4.872,1,Subnational,0
+ALG5641,2018-11-21,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Tizi Ouzou,Freha,Tamda,36.7052,4.1916,1,Subnational,0
+ALG5605,2018-11-21,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria); Teachers (Algeria),,,Algeria,Msila,Msila,M'Sila,35.7058,4.5419,1,National,0
+ALG5606,2018-11-21,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Mascara,Sidi Abdelmoumene,Douar Belkheir,35.6838,0.0583,2,National,0
+ALG5601,2018-11-21,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Batna,Batna,Batna,35.5553,6.1786,3,National,0
+ALG5603,2018-11-21,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,3,National,0
+ALG5602,2018-11-21,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Mila,Mila,Mila,36.4503,6.2644,3,National,0
+ALG5599,2018-11-20,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Taguedit,Souk El Khemis,36.019,3.9924,2,National,0
+ALG5598,2018-11-20,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Bejaia,Bejaia,Bejaia,36.75,5.0833,1,National,0
+ALG5600,2018-11-20,1,Protests,Protest with intervention,Protesters (Algeria),Students (Algeria),Police Forces of Algeria (1999-2019),,Algeria,Bejaia,Bejaia,Ibouhathmane,36.756,5.0387,1,National,0
+ALG5597,2018-11-20,1,Violence against civilians,Attack,Police Forces of Algeria (1999-2019),,Civilians (Algeria),Students (Algeria),Algeria,Bejaia,Bejaia,Bejaia,36.75,5.0833,1,National,0
+ALG5594,2018-11-19,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Taguedit,Souk El Khemis,36.019,3.9924,2,National,0
+ALG5638,2018-11-19,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bejaia,Akbou,Akbou,36.4575,4.5349,1,Subnational,0
+ALG5639,2018-11-19,1,Riots,Violent demonstration,Rioters (Algeria),,Police Forces of Algeria (1999-2019),,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0
+ALG5596,2018-11-19,1,Protests,Peaceful protest,Protesters (Algeria),Women (Algeria),,,Algeria,Constantine,El Khroub,El Khroub,36.2633,6.6936,1,National,0
+ALG5595,2018-11-19,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Constantine,Constantine,Mentouri University,36.3319,6.6153,1,National,0
+ALG5589,2018-11-18,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Taguedit,Souk El Khemis,36.019,3.9924,2,National,0
+ALG5637,2018-11-18,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Boumerdes,Ammal,Ammal,36.6347,3.5904,1,Subnational,0
+ALG5590,2018-11-18,1,Protests,Peaceful protest,Protesters (Algeria),Women (Algeria),,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,National,0
+ALG5591,2018-11-18,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tiaret,Frenda,Sidi Amar,35.0698,1.1021,2,National,0
+ALG5587,2018-11-18,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Bejaia,Bejaia,Ibouhathmane,36.756,5.0387,1,National,0
+ALG5588,2018-11-18,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Bejaia,El Kseur,El Kseur,36.6794,4.8555,1,National,0
+ALG5592,2018-11-18,1,Riots,Mob violence,Rioters (Algeria),Labor Group (Algeria),Police Forces of Algeria (1999-2019),,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0
+ALG5583,2018-11-18,1,Battles,Armed clash,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Constantine,Hamma Bouziane,Hamma Bouziane,36.4121,6.596,2,National,4
+ALG5584,2018-11-18,1,Strategic developments,Arrests,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Boumerdes,Boumerdes,Boumerdes,36.7664,3.4772,1,National,0
+ALG5582,2018-11-17,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Taguedit,Souk El Khemis,36.019,3.9924,2,National,0
+ALG5581,2018-11-15,2,Explosions/Remote violence,Remote explosive/landmine/IED,Unidentified Armed Group (Algeria),,Civilians (Algeria),,Algeria,Tebessa,Bir El Ater,Bir El-Ater,34.7449,8.0602,2,National,0
+ALG5636,2018-11-13,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tizi Ouzou,Tadmait,Tadmait,36.744,3.9,1,Subnational,0
+ALG5635,2018-11-13,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Mchedallah,M'Chedallah,36.3655,4.2701,1,National,0
+ALG5552,2018-11-10,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria); Women (Algeria),,,Algeria,El Bayadh,El Bayadh,El Bayadh,33.6861,1.0139,2,National,0
+ALG5553,2018-11-10,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,2,National,0
+ALG5550,2018-11-09,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Boumerdes,Boumerdes,Boumerdes,36.7664,3.4772,1,National,0
+ALG5551,2018-11-09,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Medea,Medea,Medea,36.2675,2.75,1,National,0
+ALG5549,2018-11-08,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Batna,Taxlent,Taxlent,35.6167,5.8167,1,National,0
+ALG5548,2018-11-08,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Batna,Beni Foudala El Hakania,Ben Foudhala El Hakania,35.383,6.047,1,National,0
+ALG5547,2018-11-08,1,Strategic developments,Agreement,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,1,National,0
+ALG5546,2018-11-08,1,Strategic developments,Agreement,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Djanet,Djanet,Djanet,24.5527,9.4858,1,National,0
+ALG5545,2018-11-07,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Oran,Oran,Oran,35.6911,-0.6417,1,Subnational,0
+ALG5544,2018-11-07,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Tizi Ouzou,Tizi Ouzou,Tizi Ouzou,36.7118,4.0459,1,National,0
+ALG5543,2018-11-07,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Tipaza,Tipaza,Tipaza,36.5897,2.4475,1,National,0
+ALG5541,2018-11-07,1,Strategic developments,Arrests,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Boumerdes,Boumerdes,Boumerdes,36.7664,3.4772,1,National,0
+ALG5539,2018-11-06,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Bouira,Bouira,Bouira,36.38,3.9014,1,National,0
+ALG5540,2018-11-06,1,Protests,Protest with intervention,Protesters (Algeria),,Military Forces of Algeria (1999-2019) Gendarmerie,,Algeria,Bouira,Lakhdaria,Lakhdaria,36.5646,3.5933,2,National,0
+ALG5534,2018-11-05,2,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Tebessa,Tebessa,Tebessa,35.4042,8.1242,1,National,0
+ALG5538,2018-11-05,1,Riots,Mob violence,Rioters (Algeria),,Police Forces of Algeria (1999-2019),,Algeria,Skikda,Skikda,Skikda,36.8792,6.9067,2,National,0
+ALG5537,2018-11-05,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Mila,Mila,Mila,36.4503,6.2644,1,National,0
+ALG5536,2018-11-05,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5535,2018-11-05,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Chlef,Breira,Douar Zahraoua,36.4489,1.5869,1,National,0
+ALG5533,2018-11-04,1,Riots,Mob violence,Rioters (Algeria),FLN: National Liberation Front (Algeria),Civilians (Algeria),FLN: National Liberation Front (Algeria); Government of Algeria (1999-2019),Algeria,Tlemcen,Bensekrane,Bensekrane,35.0747,-1.2243,1,National,0
+ALG5528,2018-11-03,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Ouargla,Ouargla,Ouargla,31.9664,5.3421,1,National,0
+ALG5527,2018-11-03,1,Battles,Armed clash,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Skikda,Kerkera,Kerkera,36.9292,6.5856,1,National,1
+ALG5634,2018-11-01,1,Violence against civilians,Attack,Military Forces of Algeria (1999-2019) Gendarmerie,,Civilians (Algeria),,Algeria,Batna,Taxlent,Taxlent,35.6167,5.8167,1,National,0
+ALG5531,2018-11-01,1,Violence against civilians,Attack,Military Forces of Algeria (1999-2019) Gendarmerie,,Civilians (Algeria),,Algeria,Batna,Merouana,Merouana,35.6311,5.9119,1,National,1
+ALG5526,2018-10-31,1,Strategic developments,Arrests,Police Forces of Algeria (1999-2019),,Civilians (Algeria),Mouwatana Mouvement,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5525,2018-10-30,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tebessa,Negrine,Negrine,34.4859,7.5187,2,National,0
+ALG5524,2018-10-29,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Tebessa,Negrine,Negrine,34.4859,7.5187,2,National,0
+ALG5633,2018-10-28,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Djelfa,Deldoul,Deldoul,34.2052,3.2531,1,Subnational,0
+ALG5522,2018-10-28,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Adrar,Bordj Badji Mokhtar,Bordj Badji Mokhtar,21.3292,0.9479,1,National,0
+ALG5523,2018-10-28,1,Protests,Protest with intervention,Protesters (Algeria),,Military Forces of Algeria (1999-2019) Gendarmerie,,Algeria,Tebessa,Negrine,Negrine,34.4859,7.5187,2,National,0
+ALG5515,2018-10-24,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria); Berber Ethnic Group (Algeria),,,Algeria,Tizi Ouzou,Beni Zmenzer,Taourirt Bagour,36.6384,4.0388,1,National,0
+ALG5516,2018-10-24,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria); Berber Ethnic Group (Algeria),,,Algeria,Tizi Ouzou,Tizi-Rached,Tizi Rached,36.6718,4.1918,1,National,0
+ALG5517,2018-10-24,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria); Berber Ethnic Group (Algeria),,,Algeria,Tizi Ouzou,Larbaa-Nath-Irathen,Larbaa Nait Irathen,36.6311,4.1986,1,National,0
+ALG5518,2018-10-24,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria); Berber Ethnic Group (Algeria),,,Algeria,Tizi Ouzou,Ouadhia,Ouadhia,36.5561,4.0897,1,National,0
+ALG5519,2018-10-24,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria); Berber Ethnic Group (Algeria),,,Algeria,Tizi Ouzou,Imsouhal,Illoula Oumalou,36.5833,4.4167,1,National,0
+ALG5520,2018-10-24,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,2,National,0
+ALG5514,2018-10-23,1,Strategic developments,Disrupted weapons use,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Tizi Ouzou,Tizi Ouzou,Tizi Ouzou,36.7118,4.0459,3,National,0
+ALG5613,2018-10-22,2,Violence against civilians,Attack,Military Forces of Algeria (1999-2019) Gendarmerie,,Civilians (Algeria),Journalists (Algeria),Algeria,Alger,,Algiers,36.7525,3.042,1,National,0
+ALG5508,2018-10-22,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria); Berber Ethnic Group (Algeria),,,Algeria,Tizi Ouzou,Azazga,Azazga,36.7447,4.3722,1,National,0
+ALG5510,2018-10-22,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria); Berber Ethnic Group (Algeria),,,Algeria,Tizi Ouzou,Tigzirt,Tigzirt,36.8886,4.1198,1,National,0
+ALG5511,2018-10-22,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria); Berber Ethnic Group (Algeria),,,Algeria,Tizi Ouzou,Ouadhia,Ouadhia,36.5561,4.0897,1,National,0
+ALG5512,2018-10-22,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria); Berber Ethnic Group (Algeria),,,Algeria,Tizi Ouzou,Tizi-Ghenif,Tizi Gheniff,36.5884,3.7745,1,National,0
+ALG5513,2018-10-22,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria); Berber Ethnic Group (Algeria),,,Algeria,Tizi Ouzou,Souk El Tenine,Maatka,36.5833,4.0,1,National,0
+ALG5509,2018-10-22,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria); Berber Ethnic Group (Algeria),,,Algeria,Tizi Ouzou,Bouzeguene,Bouzeguene,36.6168,4.4794,1,National,0
+ALG5507,2018-10-22,1,Protests,Peaceful protest,Protesters (Algeria),Journalists (Algeria),,,Algeria,Alger,Kouba,Algiers - Hamma,36.7441,3.0662,1,National,0
+ALG5505,2018-10-21,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria); Berber Ethnic Group (Algeria),,,Algeria,Tizi Ouzou,Bouzeguene,Bouzeguene,36.6168,4.4794,1,National,0
+ALG5504,2018-10-21,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria); Berber Ethnic Group (Algeria),,,Algeria,Tizi Ouzou,Azazga,Azazga,36.7447,4.3722,1,National,0
+ALG5503,2018-10-15,1,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria),,,Algeria,Blida,Ouled Yaich,Ouled Yaich,36.5039,2.8621,1,Other,0
+ALG5529,2018-10-15,3,Strategic developments,Arrests,Military Forces of Algeria (1999-2019),,Unidentified Armed Group (Algeria),,Algeria,Alger,,Algiers,36.7525,3.042,3,National,0
+ALG5521,2018-09-06,1,Protests,Peaceful protest,Protesters (Morocco),Polisario Front; Labor Group (Algeria),,,Algeria,Tindouf,Tindouf,Rabouni,27.4761,-8.0833,1,National,0
+ALG5844,2018-05-15,3,Protests,Peaceful protest,Protesters (Algeria),Refugees/IDPs (Algeria),,,Algeria,Tindouf,Tindouf,Tindouf,27.6711,-8.1474,2,Other,0
+ALG5845,2018-05-15,3,Protests,Peaceful protest,Protesters (Algeria),Refugees/IDPs (Algeria),,,Algeria,Tindouf,Tindouf,Rabouni,27.4761,-8.0833,1,Other,0
+ALG6025,2018-01-16,1,Protests,Peaceful protest,Protesters (Algeria),Labor Group (Algeria),,,Algeria,Mila,Mila,Mila,36.4503,6.2644,1,International,0
+ALG5384,2018-07-22,1,Protests,Peaceful protest,Protesters (Algeria),Journalists (Algeria),,,Algeria,Tlemcen,Maghnia,Maghnia,34.8472,-1.7286,1,National,0
+ALG5219,2018-04-16,1,Riots,Violent demonstration,Rioters (Algeria),,,,Algeria,Guelma,Ain Ben Beida,Ain Ben Beida,36.6167,7.7,1,National,0
+ALG5228,2018-04-25,2,Riots,Mob violence,Rioters (Algeria),,Civilians (Algeria),,Algeria,Souk Ahras,Bir Bouhouche,Bir Bouhouche,36.0138,7.4295,1,National,0
+ALG5295,2018-06-14,1,Violence against civilians,Attack,Raffour Communal Militia (Algeria),,Civilians (Algeria),Government of Algeria (1999-2019),Algeria,Bouira,Mchedallah,Raffour,36.35,4.2887,1,National,0
+ALG5338,2018-07-05,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,El Oued,El M'Ghair,El Meghair,33.953,5.9293,1,National,0
+ALG5339,2018-07-05,1,Riots,Violent demonstration,Rioters (Algeria),,,,Algeria,Jijel,Jijel,Jijel,36.8212,5.7635,1,National,0
+ALG5418,2018-08-11,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Jijel,Jijel,Jijel,36.8212,5.7635,1,National,0
+ALG5502,2018-09-15,3,Protests,Peaceful protest,Protesters (Algeria),Students (Algeria); Chaamba Ethnic Group (Algeria),,,Algeria,Jijel,Jijel,Jijel,36.8212,5.7635,1,National,0
+ALG5779,2018-12-30,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Jijel,Jijel,Jijel,36.8212,5.7635,1,National,0
+ALG12909,2018-06-24,1,Protests,Excessive force against protesters,Protesters (Algeria),Yagout Ethnic Group (Algeria),Polisario Front,,Algeria,Tindouf,Tindouf,Tindouf,27.6711,-8.1474,1,Regional,0
+ALG12910,2018-06-16,1,Protests,Peaceful protest,Protesters (Algeria),Yagout Ethnic Group (Algeria),,,Algeria,Tindouf,Tindouf,Tindouf,27.6711,-8.1474,1,Regional,0
+ALG5297,2018-06-25,1,Protests,Excessive force against protesters,Protesters (Algeria),Yagout Ethnic Group (Algeria),Polisario Front,,Algeria,Tindouf,Tindouf,Tindouf,27.6711,-8.1474,1,Regional,0
+ALG5325,2018-06-24,2,Protests,Excessive force against protesters,Protesters (Algeria),Yagout Ethnic Group (Algeria),Polisario Front,,Algeria,Tindouf,Tindouf,Tindouf,27.6711,-8.1474,1,Regional,0
+ALG5326,2018-06-25,1,Protests,Protest with intervention,Protesters (Algeria),Yagout Ethnic Group (Algeria),Polisario Front,,Algeria,Tindouf,Tindouf,Tindouf,27.6711,-8.1474,1,Regional,0
+ALG5313,2018-01-15,3,Violence against civilians,Attack,Police Forces of Algeria (1999-2019),Military Forces of Algeria (1999-2019) Gendarmerie,Civilians (International),Migrants (International),Algeria,Tamanrasset,Tamenghasset,Tamanrasset,22.785,5.5228,3,International,1
+ALG5314,2018-02-15,3,Violence against civilians,Attack,Police Forces of Algeria (1999-2019),Military Forces of Algeria (1999-2019) Gendarmerie,Civilians (International),Migrants (International),Algeria,Tamanrasset,Tamenghasset,Tamanrasset,22.785,5.5228,3,International,1
+ALG5315,2018-03-15,3,Violence against civilians,Attack,Police Forces of Algeria (1999-2019),Military Forces of Algeria (1999-2019) Gendarmerie,Civilians (International),Migrants (International),Algeria,Tamanrasset,Tamenghasset,Tamanrasset,22.785,5.5228,3,International,0
+ALG5316,2018-04-15,3,Violence against civilians,Attack,Police Forces of Algeria (1999-2019),Military Forces of Algeria (1999-2019) Gendarmerie,Civilians (International),Migrants (International),Algeria,Tamanrasset,Tamenghasset,Tamanrasset,22.785,5.5228,3,International,0
+ALG5317,2018-05-15,3,Violence against civilians,Attack,Police Forces of Algeria (1999-2019),Military Forces of Algeria (1999-2019) Gendarmerie,Civilians (International),Migrants (International),Algeria,Tamanrasset,Tamenghasset,Tamanrasset,22.785,5.5228,3,International,0
+ALG5318,2018-06-15,3,Violence against civilians,Attack,Police Forces of Algeria (1999-2019),Military Forces of Algeria (1999-2019) Gendarmerie,Civilians (International),Migrants (International),Algeria,Tamanrasset,Tamenghasset,Tamanrasset,22.785,5.5228,3,International,0
+ALG5405,2018-07-31,1,Battles,Armed clash,Military Forces of Algeria (1999-2019),,AQIM: Al Qaeda in the Islamic Maghreb,,Algeria,Skikda,Azzaba,Bissy,36.7667,7.0167,1,Local partner-New media,11
+ALG5462,2018-09-03,1,Battles,Armed clash,Islamist Militia (Algeria),,Military Forces of Algeria (1999-2019),,Algeria,Sidi Bel Abbes,Tafissour,Tafissour,34.6928,-0.2021,1,Local partner-New media,2
+ALG5463,2018-09-03,1,Explosions/Remote violence,Remote explosive/landmine/IED,Islamist Militia (Algeria),,Military Forces of Algeria (1999-2019),,Algeria,Sidi Bel Abbes,Telagh,Telagh,34.7878,-0.5706,1,International,3
+ALG5099,2018-01-26,1,Battles,Armed clash,Military Forces of Algeria (1999-2019),,AQIM: Al Qaeda in the Islamic Maghreb,,Algeria,Khenchela,Chechar,Chechar,35.0381,7.0042,2,Local partner-New media,7
+ALG5155,2018-02-19,1,Explosions/Remote violence,Remote explosive/landmine/IED,AQIM: Al Qaeda in the Islamic Maghreb,,Military Forces of Algeria (1999-2019),,Algeria,Khenchela,Chechar,Chechar,35.0381,7.0042,1,Local partner-New media,2
+ALG5262,2018-05-22,1,Protests,Peaceful protest,Protesters (Algeria),,,,Algeria,Khenchela,Chechar,Chechar,35.0381,7.0042,1,National,0
+ALG5181,2018-03-13,1,Protests,Protest with intervention,Protesters (Algeria),Students (Algeria),Military Forces of Algeria (1999-2019) Gendarmerie,,Algeria,Constantine,Constantine,Constantine,36.365,6.6147,1,National,0
+ALG5475,2018-09-15,1,Protests,Protest with intervention,Protesters (Algeria),Mouwatana Mouvement,Police Forces of Algeria (1999-2019),,Algeria,Bejaia,Bejaia,Bejaia,36.75,5.0833,1,National,0
+ALG5479,2018-09-23,1,Riots,Violent demonstration,Rioters (Algeria),Former Military Forces of Algeria (1999-2019),Police Forces of Algeria (1999-2019),,Algeria,Alger,,Algiers,36.7525,3.042,2,International,0
+ALG5726,2018-12-10,1,Protests,Protest with intervention,Protesters (Algeria),Former Military Forces of Algeria (1999-2019),Police Forces of Algeria (1999-2019),,Algeria,Khenchela,Khenchela,Khenchela,35.4358,7.1433,1,National,0

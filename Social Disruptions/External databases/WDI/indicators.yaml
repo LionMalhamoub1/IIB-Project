@@ -1,0 +1,14 @@
+source_id: 2   # WDI
+
+indicators:
+  # Core
+  inflation_cpi_yoy: "FP.CPI.TOTL.ZG"
+  unemployment_total: "SL.UEM.TOTL.ZS"
+  gdp_growth: "NY.GDP.MKTP.KD.ZG"
+  gov_consumption_pct_gdp: "NE.CON.GOVT.ZS"
+  current_account_pct_gdp: "BN.CAB.XOKA.GD.ZS"
+
+  # Optional additions
+  fiscal_balance_pct_gdp: "GC.BAL.CASH.GD.ZS"
+  gdp_per_capita_growth: "NY.GDP.PCAP.KD.ZG"
+  unemployment_youth: "SL.UEM.1524.ZS"

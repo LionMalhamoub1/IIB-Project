@@ -1,0 +1,118 @@
+15:46:11  INFO      Loading train_backtest...
+15:46:27  INFO      ============================================================
+15:46:27  INFO      Monthly expanding XGB  (reusing quarterly preds for 8 months)
+15:46:27  INFO      ============================================================
+15:46:27  INFO      Panel: 71214 rows x 156 cols | 39 countries
+15:46:27  INFO      Target: protest_7d
+15:46:30  WARNING     No quarterly preds found at C:\Users\lmalh\OneDrive\Documents\GitHub\IIB-Project\Social Disruptions\Likelihood_modelling_social\v3\data\processed\expanding_xgb\preds_protest_7d.parquet
+15:46:30  INFO        Model: model5_xgb  (91 features)
+15:46:37  INFO        2020-01 | model5_xgb | train=42705  test=1209  ROC-AUC=0.865  BSS=0.414
+15:46:45  INFO        2020-02 | model5_xgb | train=43914  test=1131  ROC-AUC=0.890  BSS=0.461
+15:46:52  INFO        2020-03 | model5_xgb | train=45045  test=1209  ROC-AUC=0.846  BSS=0.002
+15:46:59  INFO        2020-04 | model5_xgb | train=46254  test=1170  ROC-AUC=0.841  BSS=0.274
+15:47:06  INFO        2020-05 | model5_xgb | train=47424  test=1209  ROC-AUC=0.875  BSS=0.441
+15:47:13  INFO        2020-06 | model5_xgb | train=48633  test=1170  ROC-AUC=0.880  BSS=0.429
+15:47:20  INFO        2020-07 | model5_xgb | train=49803  test=1209  ROC-AUC=0.850  BSS=0.377
+15:47:27  INFO        2020-08 | model5_xgb | train=51012  test=1209  ROC-AUC=0.862  BSS=0.418
+15:47:34  INFO        2020-09 | model5_xgb | train=52221  test=1170  ROC-AUC=0.901  BSS=0.533
+15:47:41  INFO        2020-10 | model5_xgb | train=53391  test=1209  ROC-AUC=0.876  BSS=0.444
+15:47:48  INFO        2020-11 | model5_xgb | train=54600  test=1170  ROC-AUC=0.876  BSS=0.456
+15:47:55  INFO        2020-12 | model5_xgb | train=55770  test=1209  ROC-AUC=0.906  BSS=0.411
+15:47:58  INFO        2021-01 | model5_xgb | train=56979  test=1209  ROC-AUC=0.832  BSS=0.357
+15:48:02  INFO        2021-02 | model5_xgb | train=58188  test=1092  ROC-AUC=0.825  BSS=0.341
+15:48:08  INFO        2021-03 | model5_xgb | train=59280  test=1209  ROC-AUC=0.878  BSS=0.450
+15:48:17  INFO        2021-04 | model5_xgb | train=60489  test=1170  ROC-AUC=0.911  BSS=0.489
+15:48:23  INFO        2021-05 | model5_xgb | train=61659  test=1209  ROC-AUC=0.861  BSS=0.396
+15:48:29  INFO        2021-06 | model5_xgb | train=62868  test=1170  ROC-AUC=0.862  BSS=0.419
+15:48:36  INFO        2021-07 | model5_xgb | train=64038  test=1209  ROC-AUC=0.867  BSS=0.361
+15:48:43  INFO        2021-08 | model5_xgb | train=65247  test=1209  ROC-AUC=0.869  BSS=0.404
+15:48:51  INFO        2021-09 | model5_xgb | train=66456  test=1170  ROC-AUC=0.904  BSS=0.501
+15:48:58  INFO        2021-10 | model5_xgb | train=67626  test=1209  ROC-AUC=0.858  BSS=0.387
+15:49:05  INFO        2021-11 | model5_xgb | train=68835  test=1170  ROC-AUC=0.899  BSS=0.480
+15:49:14  INFO        2021-12 | model5_xgb | train=70005  test=936  ROC-AUC=0.867  BSS=0.351
+15:49:14  INFO        Saved preds -> C:\Users\lmalh\OneDrive\Documents\GitHub\IIB-Project\Social Disruptions\Likelihood_modelling_social\v3\data\processed\expanding_xgb_monthly\preds_protest_7d.parquet
+15:49:14  INFO        Saved metrics -> C:\Users\lmalh\OneDrive\Documents\GitHub\IIB-Project\Social Disruptions\Likelihood_modelling_social\v3\data\processed\expanding_xgb_monthly\metrics_protest_7d.csv
+15:49:14  INFO        Model: model6_xgb_nolag  (85 features)
+15:49:20  INFO        2020-01 | model6_xgb_nolag | train=42705  test=1209  ROC-AUC=0.861  BSS=0.391
+15:49:25  INFO        2020-02 | model6_xgb_nolag | train=43914  test=1131  ROC-AUC=0.856  BSS=0.396
+15:49:29  INFO        2020-03 | model6_xgb_nolag | train=45045  test=1209  ROC-AUC=0.824  BSS=0.029
+15:49:35  INFO        2020-04 | model6_xgb_nolag | train=46254  test=1170  ROC-AUC=0.852  BSS=0.321
+15:49:40  INFO        2020-05 | model6_xgb_nolag | train=47424  test=1209  ROC-AUC=0.881  BSS=0.454
+15:49:45  INFO        2020-06 | model6_xgb_nolag | train=48633  test=1170  ROC-AUC=0.896  BSS=0.460
+15:49:51  INFO        2020-07 | model6_xgb_nolag | train=49803  test=1209  ROC-AUC=0.854  BSS=0.365
+15:49:56  INFO        2020-08 | model6_xgb_nolag | train=51012  test=1209  ROC-AUC=0.857  BSS=0.364
+15:50:03  INFO        2020-09 | model6_xgb_nolag | train=52221  test=1170  ROC-AUC=0.906  BSS=0.520
+15:50:10  INFO        2020-10 | model6_xgb_nolag | train=53391  test=1209  ROC-AUC=0.884  BSS=0.451
+15:50:16  INFO        2020-11 | model6_xgb_nolag | train=54600  test=1170  ROC-AUC=0.878  BSS=0.456
+15:50:22  INFO        2020-12 | model6_xgb_nolag | train=55770  test=1209  ROC-AUC=0.897  BSS=0.370
+15:50:28  INFO        2021-01 | model6_xgb_nolag | train=56979  test=1209  ROC-AUC=0.829  BSS=0.353
+15:50:33  INFO        2021-02 | model6_xgb_nolag | train=58188  test=1092  ROC-AUC=0.833  BSS=0.336
+15:50:38  INFO        2021-03 | model6_xgb_nolag | train=59280  test=1209  ROC-AUC=0.862  BSS=0.413
+15:50:44  INFO        2021-04 | model6_xgb_nolag | train=60489  test=1170  ROC-AUC=0.908  BSS=0.488
+15:50:49  INFO        2021-05 | model6_xgb_nolag | train=61659  test=1209  ROC-AUC=0.875  BSS=0.418
+15:50:53  INFO        2021-06 | model6_xgb_nolag | train=62868  test=1170  ROC-AUC=0.851  BSS=0.401
+15:50:58  INFO        2021-07 | model6_xgb_nolag | train=64038  test=1209  ROC-AUC=0.870  BSS=0.388
+15:51:04  INFO        2021-08 | model6_xgb_nolag | train=65247  test=1209  ROC-AUC=0.878  BSS=0.412
+15:51:13  INFO        2021-09 | model6_xgb_nolag | train=66456  test=1170  ROC-AUC=0.900  BSS=0.480
+15:51:23  INFO        2021-10 | model6_xgb_nolag | train=67626  test=1209  ROC-AUC=0.843  BSS=0.338
+15:51:29  INFO        2021-11 | model6_xgb_nolag | train=68835  test=1170  ROC-AUC=0.916  BSS=0.515
+15:51:37  INFO        2021-12 | model6_xgb_nolag | train=70005  test=936  ROC-AUC=0.867  BSS=0.355
+15:51:37  INFO        Saved preds -> C:\Users\lmalh\OneDrive\Documents\GitHub\IIB-Project\Social Disruptions\Likelihood_modelling_social\v3\data\processed\expanding_xgb_monthly\preds_protest_7d.parquet
+15:51:37  INFO        Saved metrics -> C:\Users\lmalh\OneDrive\Documents\GitHub\IIB-Project\Social Disruptions\Likelihood_modelling_social\v3\data\processed\expanding_xgb_monthly\metrics_protest_7d.csv
+15:51:37  INFO      Target: strike_7d
+15:51:39  WARNING     No quarterly preds found at C:\Users\lmalh\OneDrive\Documents\GitHub\IIB-Project\Social Disruptions\Likelihood_modelling_social\v3\data\processed\expanding_xgb\preds_strike_7d.parquet
+15:51:39  INFO        Model: model5_xgb  (91 features)
+15:51:47  INFO        2020-01 | model5_xgb | train=42705  test=1209  ROC-AUC=0.863  BSS=0.386
+15:51:54  INFO        2020-02 | model5_xgb | train=43914  test=1131  ROC-AUC=0.852  BSS=0.247
+15:52:01  INFO        2020-03 | model5_xgb | train=45045  test=1209  ROC-AUC=0.868  BSS=0.344
+15:52:08  INFO        2020-04 | model5_xgb | train=46254  test=1170  ROC-AUC=0.905  BSS=0.501
+15:52:15  INFO        2020-05 | model5_xgb | train=47424  test=1209  ROC-AUC=0.930  BSS=0.538
+15:52:22  INFO        2020-06 | model5_xgb | train=48633  test=1170  ROC-AUC=0.923  BSS=0.534
+15:52:29  INFO        2020-07 | model5_xgb | train=49803  test=1209  ROC-AUC=0.884  BSS=0.208
+15:52:37  INFO        2020-08 | model5_xgb | train=51012  test=1209  ROC-AUC=0.933  BSS=0.499
+15:52:45  INFO        2020-09 | model5_xgb | train=52221  test=1170  ROC-AUC=0.889  BSS=0.319
+15:52:52  INFO        2020-10 | model5_xgb | train=53391  test=1209  ROC-AUC=0.930  BSS=0.338
+15:53:00  INFO        2020-11 | model5_xgb | train=54600  test=1170  ROC-AUC=0.908  BSS=0.487
+15:53:08  INFO        2020-12 | model5_xgb | train=55770  test=1209  ROC-AUC=0.860  BSS=0.373
+15:53:17  INFO        2021-01 | model5_xgb | train=56979  test=1209  ROC-AUC=0.950  BSS=0.534
+15:53:25  INFO        2021-02 | model5_xgb | train=58188  test=1092  ROC-AUC=0.917  BSS=0.549
+15:53:34  INFO        2021-03 | model5_xgb | train=59280  test=1209  ROC-AUC=0.867  BSS=0.378
+15:53:43  INFO        2021-04 | model5_xgb | train=60489  test=1170  ROC-AUC=0.876  BSS=0.372
+15:53:51  INFO        2021-05 | model5_xgb | train=61659  test=1209  ROC-AUC=0.888  BSS=0.404
+15:54:00  INFO        2021-06 | model5_xgb | train=62868  test=1170  ROC-AUC=0.913  BSS=0.405
+15:54:08  INFO        2021-07 | model5_xgb | train=64038  test=1209  ROC-AUC=0.923  BSS=0.433
+15:54:17  INFO        2021-08 | model5_xgb | train=65247  test=1209  ROC-AUC=0.918  BSS=0.462
+15:54:26  INFO        2021-09 | model5_xgb | train=66456  test=1170  ROC-AUC=0.919  BSS=0.417
+15:54:36  INFO        2021-10 | model5_xgb | train=67626  test=1209  ROC-AUC=0.915  BSS=0.463
+15:54:45  INFO        2021-11 | model5_xgb | train=68835  test=1170  ROC-AUC=0.898  BSS=0.403
+15:54:57  INFO        2021-12 | model5_xgb | train=70005  test=936  ROC-AUC=0.901  BSS=0.213
+15:54:57  INFO        Saved preds -> C:\Users\lmalh\OneDrive\Documents\GitHub\IIB-Project\Social Disruptions\Likelihood_modelling_social\v3\data\processed\expanding_xgb_monthly\preds_strike_7d.parquet
+15:54:57  INFO        Saved metrics -> C:\Users\lmalh\OneDrive\Documents\GitHub\IIB-Project\Social Disruptions\Likelihood_modelling_social\v3\data\processed\expanding_xgb_monthly\metrics_strike_7d.csv
+15:54:57  INFO        Model: model6_xgb_nolag  (85 features)
+15:55:04  INFO        2020-01 | model6_xgb_nolag | train=42705  test=1209  ROC-AUC=0.857  BSS=0.355
+15:55:11  INFO        2020-02 | model6_xgb_nolag | train=43914  test=1131  ROC-AUC=0.855  BSS=0.261
+15:55:17  INFO        2020-03 | model6_xgb_nolag | train=45045  test=1209  ROC-AUC=0.861  BSS=0.304
+15:55:24  INFO        2020-04 | model6_xgb_nolag | train=46254  test=1170  ROC-AUC=0.919  BSS=0.464
+15:55:30  INFO        2020-05 | model6_xgb_nolag | train=47424  test=1209  ROC-AUC=0.926  BSS=0.519
+15:55:37  INFO        2020-06 | model6_xgb_nolag | train=48633  test=1170  ROC-AUC=0.909  BSS=0.543
+15:55:44  INFO        2020-07 | model6_xgb_nolag | train=49803  test=1209  ROC-AUC=0.885  BSS=0.316
+15:55:51  INFO        2020-08 | model6_xgb_nolag | train=51012  test=1209  ROC-AUC=0.937  BSS=0.512
+15:55:58  INFO        2020-09 | model6_xgb_nolag | train=52221  test=1170  ROC-AUC=0.895  BSS=0.383
+15:56:05  INFO        2020-10 | model6_xgb_nolag | train=53391  test=1209  ROC-AUC=0.924  BSS=0.293
+15:56:12  INFO        2020-11 | model6_xgb_nolag | train=54600  test=1170  ROC-AUC=0.915  BSS=0.447
+15:56:20  INFO        2020-12 | model6_xgb_nolag | train=55770  test=1209  ROC-AUC=0.857  BSS=0.335
+15:56:27  INFO        2021-01 | model6_xgb_nolag | train=56979  test=1209  ROC-AUC=0.932  BSS=0.468
+15:56:34  INFO        2021-02 | model6_xgb_nolag | train=58188  test=1092  ROC-AUC=0.909  BSS=0.537
+15:56:42  INFO        2021-03 | model6_xgb_nolag | train=59280  test=1209  ROC-AUC=0.851  BSS=0.405
+15:56:50  INFO        2021-04 | model6_xgb_nolag | train=60489  test=1170  ROC-AUC=0.875  BSS=0.394
+15:56:57  INFO        2021-05 | model6_xgb_nolag | train=61659  test=1209  ROC-AUC=0.884  BSS=0.394
+15:57:05  INFO        2021-06 | model6_xgb_nolag | train=62868  test=1170  ROC-AUC=0.929  BSS=0.430
+15:57:10  INFO        2021-07 | model6_xgb_nolag | train=64038  test=1209  ROC-AUC=0.931  BSS=0.462
+15:57:15  INFO        2021-08 | model6_xgb_nolag | train=65247  test=1209  ROC-AUC=0.906  BSS=0.426
+15:57:21  INFO        2021-09 | model6_xgb_nolag | train=66456  test=1170  ROC-AUC=0.926  BSS=0.447
+15:57:26  INFO        2021-10 | model6_xgb_nolag | train=67626  test=1209  ROC-AUC=0.922  BSS=0.496
+15:57:32  INFO        2021-11 | model6_xgb_nolag | train=68835  test=1170  ROC-AUC=0.892  BSS=0.395
+15:57:38  INFO        2021-12 | model6_xgb_nolag | train=70005  test=936  ROC-AUC=0.908  BSS=0.206
+15:57:38  INFO        Saved preds -> C:\Users\lmalh\OneDrive\Documents\GitHub\IIB-Project\Social Disruptions\Likelihood_modelling_social\v3\data\processed\expanding_xgb_monthly\preds_strike_7d.parquet
+15:57:38  INFO        Saved metrics -> C:\Users\lmalh\OneDrive\Documents\GitHub\IIB-Project\Social Disruptions\Likelihood_modelling_social\v3\data\processed\expanding_xgb_monthly\metrics_strike_7d.csv
+15:57:38  INFO      Done.

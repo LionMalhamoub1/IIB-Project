@@ -1,0 +1,825 @@
+event_id_cnty,event_date,time_precision,event_type,sub_event_type,actor1,assoc_actor_1,actor2,assoc_actor_2,country,admin1,admin2,location,latitude,longitude,geo_precision,source_scale,fatalities
+BHR10822,2023-01-09,2,Violence against civilians,Attack,Police Forces of Bahrain (1999-) Prison Guards,,Civilians (Bahrain),Prisoners (Bahrain),Bahrain,Southern,,Jaw Prison,25.9916,50.6165,1,Regional,0
+BHR10849,2023-02-02,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Markh,26.2103,50.4733,1,Other,0
+BHR10956,2023-03-30,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Abu Saybi,26.2175,50.5069,1,Regional,0
+BHR10964,2023-04-06,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Markh,26.2103,50.4733,1,Other,0
+BHR10971,2023-04-09,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Ash Shakhurah,26.2147,50.5069,2,Other,0
+BHR11029,2023-05-12,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Barbar,26.2294,50.4806,1,National,0
+BHR11031,2023-05-10,1,Violence against civilians,Attack,Police Forces of Bahrain (1999-) Prison Guards,,Civilians (Bahrain),Prisoners (Bahrain),Bahrain,Southern,,Jaw Prison,25.9916,50.6165,1,National,0
+BHR11063,2023-05-29,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Maamir,26.1333,50.6086,1,Other,0
+BHR11065,2023-05-29,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR11066,2023-05-29,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Ash Shakhurah,26.2147,50.5069,2,Other,0
+BHR11067,2023-05-29,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other,0
+BHR11070,2023-05-30,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Malikiyah,26.098,50.4866,1,Other,0
+BHR11071,2023-05-30,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Southern,,Dar Kulaib,26.0686,50.5039,1,Other,0
+BHR11072,2023-05-30,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Southern,,Nuwaidrat,26.1347,50.5975,1,Other,0
+BHR11074,2023-05-31,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sitrah,26.1547,50.6206,1,Other,0
+BHR11076,2023-05-31,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Malikiyah,26.098,50.4866,1,Other,0
+BHR11077,2023-05-31,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Karzakkan,26.1156,50.4819,1,Other,0
+BHR11079,2023-06-01,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other,0
+BHR11080,2023-06-01,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Southern,,Dar Kulaib,26.0686,50.5039,1,Other-National,0
+BHR11086,2023-05-23,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Akr,26.1431,50.6103,1,Other,0
+BHR11087,2023-05-23,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Maamir,26.1333,50.6086,1,Other,0
+BHR11091,2023-04-14,2,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Abu Saybi,26.2175,50.5069,1,National,0
+BHR11092,2023-06-01,1,Protests,Protest with intervention,Protesters (Bahrain),Prisoners (Bahrain),Police Forces of Bahrain (1999-) Prison Guards,,Bahrain,Southern,,Jaw Prison,25.9916,50.6165,1,National-Regional,0
+BHR11100,2023-06-07,2,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other,0
+BHR11117,2023-06-11,1,Strategic developments,Looting/property destruction,Police Forces of Bahrain (1999-),,Civilians (Bahrain),Shiite Muslim Group (Bahrain),Bahrain,Southern,,Askar,26.0572,50.6171,1,Other-National,0
+BHR11128,2023-06-22,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Karzakkan,26.1156,50.4819,1,Other,0
+BHR11130,2023-06-19,1,Protests,Peaceful protest,Protesters (Bahrain),Prisoners (Bahrain); Shiite Muslim Group (Bahrain),,,Bahrain,Southern,,Jaw Prison,25.9916,50.6165,1,National,0
+BHR11135,2023-06-25,1,Protests,Peaceful protest,Protesters (Bahrain),Prisoners (Bahrain),,,Bahrain,Southern,,Jaw Prison,25.9916,50.6165,1,National,0
+BHR11177,2023-07-22,1,Protests,Peaceful protest,Protesters (Bahrain),Shiite Muslim Group (Bahrain),,,Bahrain,Northern,,Sar,26.1942,50.4819,1,National,0
+BHR11178,2023-07-31,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition; Shiite Muslim Group (Bahrain),,,Bahrain,Capital,,Al Akr,26.1431,50.6103,1,Other,0
+BHR11192,2023-08-07,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sitrah,26.1547,50.6206,1,Other,0
+BHR11200,2023-08-12,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11201,2023-08-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Markh,26.2103,50.4733,1,Other-National,0
+BHR11203,2023-08-13,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Aali,26.1619,50.5164,1,Other,0
+BHR11223,2023-08-18,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Bani Jamrah,26.2097,50.4597,1,Other-National,0
+BHR11245,2023-08-17,1,Strategic developments,Other,Protesters (Bahrain),Prisoners (International),,,Bahrain,Southern,,Jaw Prison,25.9916,50.6165,1,National,0
+BHR11247,2023-08-12,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Karzakkan,26.1156,50.4819,1,National,0
+BHR11248,2023-08-12,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Southern,,Nuwaidrat,26.1347,50.5975,1,National,0
+BHR11250,2023-08-15,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Bani Jamrah,26.2097,50.4597,2,National,0
+BHR11252,2023-08-17,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Bani Jamrah,26.2097,50.4597,1,Other-National,0
+BHR11261,2023-08-20,1,Riots,Violent demonstration,Rioters (Bahrain),,,,Bahrain,Northern,,Abu Saybi,26.2175,50.5069,2,National,0
+BHR11264,2023-08-19,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR11266,2023-08-19,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,2,National,0
+BHR11268,2023-08-18,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,National,0
+BHR11269,2023-08-25,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Maqabah,26.2108,50.4875,1,Other,0
+BHR11278,2023-09-01,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11279,2023-09-01,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Karzakkan,26.1156,50.4819,1,Other-National,0
+BHR11280,2023-09-01,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Al Hamalah,26.1433,50.4594,1,Other-National,0
+BHR11284,2023-08-25,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Bani Jamrah,26.2097,50.4597,1,Other,0
+BHR11304,2023-09-08,1,Protests,Peaceful protest,Protesters (Bahrain),Shiite Muslim Group (Bahrain),,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,National,0
+BHR10992,2023-04-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Southern,,Nuwaidrat,26.1347,50.5975,1,Other,0
+BHR11669,2023-01-03,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other,0
+BHR12056,2023-02-07,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other,0
+BHR12057,2023-02-09,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other,0
+BHR12058,2023-02-10,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Markh,26.2103,50.4733,1,Other,0
+BHR12062,2023-03-10,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other,0
+BHR12063,2023-03-10,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other,0
+BHR12173,2023-05-25,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Ash Shakhurah,26.2147,50.5069,2,Other,0
+BHR12175,2023-06-03,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other,0
+BHR12176,2023-06-05,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Akr,26.1431,50.6103,1,Other,0
+BHR12179,2023-06-23,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Akr,26.1431,50.6103,1,Other,0
+BHR12180,2023-06-27,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Akr,26.1431,50.6103,1,Other,0
+BHR12181,2023-07-07,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Akr,26.1431,50.6103,1,Other,0
+BHR12184,2023-07-15,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Aali,26.1619,50.5164,1,Other,0
+BHR12187,2023-08-16,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Akr,26.1431,50.6103,1,Other,0
+BHR12188,2023-08-24,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other,0
+BHR12189,2023-08-24,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Maamir,26.1333,50.6086,1,Other,0
+BHR12190,2023-08-24,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Aali,26.1619,50.5164,1,Other,0
+BHR12191,2023-08-20,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Ash Shakhurah,26.2147,50.5069,2,Other,0
+BHR12193,2023-08-19,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Karzakkan,26.1156,50.4819,1,Other,0
+BHR12196,2023-08-31,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Salmabad,26.1831,50.5247,1,Other,0
+BHR12198,2023-09-11,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Markh,26.2103,50.4733,1,Other,0
+BHR11084,2023-05-24,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other,0
+BHR11090,2023-04-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other,0
+BHR12065,2023-03-27,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other,0
+BHR12066,2023-03-28,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other,0
+BHR12068,2023-04-01,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other,0
+BHR12169,2023-04-08,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other,0
+BHR12172,2023-05-06,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other,0
+BHR12177,2023-06-05,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other,0
+BHR12204,2023-09-15,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Abu Saybi,26.2175,50.5069,1,Other,0
+BHR12218,2023-09-15,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Karzakkan,26.1156,50.4819,1,Other,0
+BHR12230,2023-09-20,2,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,Police Forces of Bahrain (1999-),,Bahrain,Capital,,Sitrah,26.1547,50.6206,1,Other,0
+BHR12231,2023-09-23,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Akr,26.1431,50.6103,1,Other,0
+BHR12233,2023-09-23,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other,0
+BHR12234,2023-09-23,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Malikiyah,26.098,50.4866,1,Other,0
+BHR12235,2023-09-23,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Buri,26.1514,50.4975,1,Other,0
+BHR12242,2023-09-28,2,Protests,Peaceful protest,Protesters (Bahrain),Prisoners (Bahrain); February 14 Youth Coalition,,,Bahrain,Southern,,Jaw Prison,25.9916,50.6165,1,Other,0
+BHR12244,2023-09-29,1,Protests,Peaceful protest,Protesters (Bahrain),Shiite Muslim Group (Bahrain),,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,National,0
+BHR12246,2023-09-30,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Akr,26.1431,50.6103,1,Other,0
+BHR12249,2023-09-30,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Aali,26.1619,50.5164,1,Other,0
+BHR12251,2023-09-30,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Karzakkan,26.1156,50.4819,1,Other,0
+BHR12260,2023-10-06,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sitrah,26.1547,50.6206,1,Other-National,0
+BHR12267,2023-10-09,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Budaiya,26.2156,50.4524,1,Other,0
+BHR12276,2023-10-13,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Janabiyah,26.1809,50.4674,1,Other,0
+BHR12277,2023-10-13,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Budaiya,26.2156,50.4524,1,Other-National,0
+BHR11229,2023-08-09,1,Riots,Violent demonstration,Rioters (Bahrain),,,,Bahrain,Capital,,Al Maamir,26.1333,50.6086,1,New media,0
+BHR11230,2023-08-09,1,Riots,Violent demonstration,Rioters (Bahrain),,,,Bahrain,Capital,,Sitrah,26.1547,50.6206,1,New media,0
+BHR11231,2023-08-09,1,Riots,Violent demonstration,Rioters (Bahrain),,,,Bahrain,Northern,,Karzakkan,26.1156,50.4819,1,New media,0
+BHR11240,2023-08-09,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,New media,0
+BHR12272,2023-10-13,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR12289,2023-10-20,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Akr,26.1431,50.6103,1,Other,0
+BHR12294,2023-10-20,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Shahrakkan,26.0753,50.5014,1,Other,0
+BHR12301,2023-10-20,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Malikiyah,26.098,50.4866,1,Other,0
+BHR12302,2023-10-20,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Southern,,Nuwaidrat,26.1347,50.5975,1,Other,0
+BHR12314,2023-10-19,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Shahrakkan,26.0753,50.5014,1,Other,0
+BHR12315,2023-10-19,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Southern,,Nuwaidrat,26.1347,50.5975,1,Other,0
+BHR12316,2023-10-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Bu Quwa,26.2047,50.52,1,Other-National,0
+BHR12322,2023-10-22,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Salmabad,26.1831,50.5247,1,Other,0
+BHR12325,2023-10-23,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Salmabad,26.1831,50.5247,1,Other,0
+BHR12331,2023-10-26,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Budaiya,26.2156,50.4524,1,Other,0
+BHR12332,2023-10-26,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Southern,,Nuwaidrat,26.1347,50.5975,1,Other,0
+BHR12335,2023-10-27,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Maamir,26.1333,50.6086,1,Other,0
+BHR12338,2023-10-27,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Budaiya,26.2156,50.4524,1,Other,0
+BHR12339,2023-10-27,1,Protests,Protest with intervention,Protesters (Bahrain),February 14 Youth Coalition,Police Forces of Bahrain (1999-),,Bahrain,Capital,,Sitrah,26.1547,50.6206,1,Other-National,0
+BHR12344,2023-10-27,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Madinat Hamad,26.1153,50.5069,1,Other,0
+BHR10955,2023-02-17,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sitrah,26.1547,50.6206,1,Other-National,0
+BHR12061,2023-02-16,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other,0
+BHR10884,2023-02-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sitrah,26.1547,50.6206,1,Other,0
+BHR10890,2023-02-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Southern,,Nuwaidrat,26.1347,50.5975,1,Other,0
+BHR12059,2023-02-13,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Maqabah,26.2108,50.4875,1,Other,0
+BHR12346,2023-10-28,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Sar,26.1942,50.4819,1,Other,0
+BHR12350,2023-10-30,2,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Karzakkan,26.1156,50.4819,1,Other,0
+BHR12352,2023-11-03,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Akr,26.1431,50.6103,1,Other,0
+BHR12363,2023-10-27,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Malikiyah,26.098,50.4866,1,Other,0
+BHR12364,2023-10-27,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Sar,26.1942,50.4819,1,Other,0
+BHR12365,2023-11-02,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,Police Forces of Bahrain (1999-),,Bahrain,Northern,,Budaiya,26.2156,50.4524,1,Other,0
+BHR12366,2023-11-03,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Karzakkan,26.1156,50.4819,1,Other,0
+BHR12367,2023-11-03,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sitrah,26.1547,50.6206,1,Other,0
+BHR12369,2023-11-04,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Bani Jamrah,26.2097,50.4597,1,National,0
+BHR12376,2023-11-08,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other,0
+BHR12379,2023-11-10,1,Protests,Protest with intervention,Protesters (Bahrain),February 14 Youth Coalition,Police Forces of Bahrain (1999-),,Bahrain,Capital,,Al Akr,26.1431,50.6103,1,Other,0
+BHR12384,2023-11-10,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Aali,26.1619,50.5164,1,Other,0
+BHR12387,2023-11-10,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Malikiyah,26.098,50.4866,1,Other,0
+BHR12388,2023-11-10,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Budaiya,26.2156,50.4524,1,Other,0
+BHR12391,2023-11-11,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Ash Shakhurah,26.2147,50.5069,1,National,0
+BHR12392,2023-11-11,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Maqabah,26.2108,50.4875,1,Other,0
+BHR12394,2023-11-13,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Capital,,Al Akr,26.1431,50.6103,1,Other,0
+BHR12397,2023-11-14,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,Police Forces of Bahrain (1999-),,Bahrain,Capital,,Sitrah,26.1547,50.6206,1,Other,0
+BHR12399,2023-11-15,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Abu Saybi,26.2175,50.5069,1,Other,0
+BHR12407,2023-11-17,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Barbar,26.2294,50.4806,1,Other,0
+BHR10813,2023-01-03,1,Protests,Peaceful protest,Protesters (Bahrain),Al Wefaq National Islamic Society,,,Bahrain,Northern,,Al Markh,26.2103,50.4733,1,New media-National,0
+BHR10816,2023-01-06,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR10819,2023-01-08,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR10821,2023-01-09,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR10824,2023-01-10,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR10826,2023-01-11,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR10829,2023-01-13,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR10835,2023-01-20,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Ash Shakhurah,26.2147,50.5069,2,Other-National,0
+BHR10836,2023-01-20,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR10840,2023-01-27,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Muslim Group (Bahrain),,,Bahrain,Capital,,Sitrah,26.1547,50.6206,1,Other-National,0
+BHR10848,2023-02-03,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR10858,2023-02-10,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sitrah,26.1547,50.6206,1,Other-National,0
+BHR10859,2023-02-10,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Bu Quwa,26.2047,50.52,1,Other-National,0
+BHR10860,2023-02-10,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR10863,2023-02-11,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Markh,26.2103,50.4733,1,Other-New media,0
+BHR10864,2023-02-12,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Al Maamir,26.1333,50.6086,1,National,0
+BHR10867,2023-02-12,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Al Markh,26.2103,50.4733,1,National,0
+BHR10868,2023-02-12,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR10869,2023-02-12,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Sar,26.1942,50.4819,1,Other-National,0
+BHR10870,2023-02-12,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Southern,,Dar Kulaib,26.0686,50.5039,1,Other-National,0
+BHR10874,2023-02-13,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sitrah,26.1547,50.6206,1,National,0
+BHR10875,2023-02-13,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR10877,2023-02-13,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Karzakkan,26.1156,50.4819,1,Other-National,0
+BHR10879,2023-02-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Maamir,26.1333,50.6086,1,Other-National,0
+BHR10886,2023-02-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Ash Shakhurah,26.2147,50.5069,2,Other-National,0
+BHR10887,2023-02-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Barbar,26.2294,50.4806,1,Other-National,0
+BHR10888,2023-02-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR10889,2023-02-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Shahrakkan,26.0753,50.5014,1,Other-National,0
+BHR10892,2023-02-15,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR10912,2023-03-05,1,Protests,Protest with intervention,Protesters (Bahrain),February 14 Youth Coalition,Police Forces of Bahrain (1999-),,Bahrain,Southern,,Sakhir,26.027,50.5063,1,Other-National,0
+BHR10918,2023-03-11,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR10919,2023-03-12,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR10923,2023-03-15,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR10927,2023-03-17,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sitrah,26.1547,50.6206,1,Other-New media,0
+BHR10928,2023-03-17,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR10929,2023-03-14,1,Protests,Peaceful protest,Protesters (Bahrain),Prisoners (Bahrain),,,Bahrain,Southern,,Jaw Prison,25.9916,50.6165,1,New media-National,0
+BHR10931,2023-03-18,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR10935,2023-03-21,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Al Hamalah,26.1433,50.4594,1,National,0
+BHR10936,2023-03-21,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR10937,2023-03-21,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Karzakkan,26.1156,50.4819,1,National,0
+BHR10945,2023-03-29,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Ash Shakhurah,26.2147,50.5069,2,Other-National,0
+BHR10946,2023-03-29,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR10950,2023-03-26,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR10952,2023-03-31,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Maamir,26.1333,50.6086,1,Other-National,0
+BHR10954,2023-03-31,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR10957,2023-04-01,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Maamir,26.1333,50.6086,1,Other-National,0
+BHR10961,2023-04-02,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR10966,2023-04-07,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR10972,2023-04-12,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR10974,2023-04-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Maamir,26.1333,50.6086,1,Other-National,0
+BHR10979,2023-04-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sitrah,26.1547,50.6206,1,Other-National,0
+BHR10980,2023-04-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR10981,2023-04-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Malikiyah,26.098,50.4866,1,Other-National,0
+BHR10982,2023-04-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Ash Shakhurah,26.2147,50.5069,2,Other-National,0
+BHR10983,2023-04-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Shahrakkan,26.0753,50.5014,1,Other-National,0
+BHR10987,2023-04-21,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR10988,2023-04-17,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR10989,2023-04-19,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR10990,2023-04-20,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR10991,2023-04-21,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR11000,2023-04-23,1,Protests,Peaceful protest,Protesters (Bahrain),Prisoners (Bahrain),,,Bahrain,Southern,,Jaw Prison,25.9916,50.6165,1,National,0
+BHR11001,2023-04-28,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11004,2023-04-29,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11007,2023-05-01,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Labor Group (Bahrain),,,Bahrain,Northern,,Ash Shakhurah,26.2147,50.5069,2,Other-National,0
+BHR11009,2023-05-02,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11012,2023-05-04,1,Protests,Protest with intervention,Protesters (Bahrain),February 14 Youth Coalition; Prisoners (Bahrain),Police Forces of Bahrain (1999-) Prison Guards,,Bahrain,Southern,,Jaw Prison,25.9916,50.6165,1,Other-National,0
+BHR11014,2023-05-05,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Bu Quwa,26.2047,50.52,1,Other-National,0
+BHR11015,2023-05-05,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11018,2023-05-07,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Markh,26.2103,50.4733,1,Other-National,0
+BHR11019,2023-05-07,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11023,2023-05-10,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11026,2023-05-11,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11028,2023-05-12,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR11030,2023-05-12,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11033,2023-05-13,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11035,2023-05-14,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR11036,2023-05-14,1,Violence against civilians,Attack,Police Forces of Bahrain (1999-) Prison Guards,,Civilians (Bahrain),Prisoners (Bahrain),Bahrain,Southern,,Jaw Prison,25.9916,50.6165,1,Other-National,0
+BHR11038,2023-05-16,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Maamir,26.1333,50.6086,1,Other-National,0
+BHR11040,2023-05-16,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11042,2023-05-17,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11045,2023-05-19,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Shahrakkan,26.0753,50.5014,1,Other-National,0
+BHR11047,2023-05-23,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR11048,2023-05-26,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR11050,2023-05-23,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11052,2023-05-26,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11054,2023-05-21,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11059,2023-05-22,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR11062,2023-05-28,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11068,2023-05-29,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Southern,,Dar Kulaib,26.0686,50.5039,1,Other-National,0
+BHR11082,2023-06-02,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Ash Shakhurah,26.2147,50.5069,2,Other-National,0
+BHR11083,2023-06-02,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11095,2023-06-04,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11101,2023-06-07,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11106,2023-06-09,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11108,2023-06-11,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11112,2023-06-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11115,2023-06-16,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11120,2023-06-18,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11125,2023-06-23,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11132,2023-06-20,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR11138,2023-06-27,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11140,2023-06-28,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11141,2023-06-30,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Muslim Group (Bahrain),,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR11142,2023-06-30,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11144,2023-07-03,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11147,2023-07-05,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR11149,2023-07-06,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Aali,26.1619,50.5164,1,Other-National,0
+BHR11150,2023-07-07,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR11153,2023-07-09,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR11159,2023-07-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11165,2023-07-16,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR11179,2023-08-01,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11180,2023-08-04,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11181,2023-08-04,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Muslim Group (Bahrain),,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR11185,2023-08-10,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Ash Shakhurah,26.2147,50.5069,2,Other-National,0
+BHR11188,2023-08-08,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR11191,2023-08-09,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11196,2023-08-11,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Karzakkan,26.1156,50.4819,1,Other-National,0
+BHR11204,2023-08-15,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Bani Jamrah,26.2097,50.4597,1,Other-National,0
+BHR11206,2023-08-15,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Karzakkan,26.1156,50.4819,1,Other-National,0
+BHR11210,2023-08-17,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR11211,2023-08-17,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Karzakkan,26.1156,50.4819,1,Other-National,0
+BHR11215,2023-08-25,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Abu Saybi,26.2175,50.5069,1,Other-National,0
+BHR11218,2023-08-22,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Karzakkan,26.1156,50.4819,1,Other-National,0
+BHR11219,2023-08-22,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Sar,26.1942,50.4819,1,Other-National,0
+BHR11221,2023-08-20,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR11224,2023-08-13,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11225,2023-08-17,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11232,2023-08-07,1,Strategic developments,Other,Protesters (Bahrain),February 14 Youth Coalition; Prisoners (Bahrain),,,Bahrain,Southern,,Jaw Prison,25.9916,50.6165,1,Other-National,0
+BHR11233,2023-08-15,1,Strategic developments,Other,Protesters (Bahrain),Prisoners (Bahrain),,,Bahrain,Southern,,Jaw Prison,25.9916,50.6165,1,National,0
+BHR11234,2023-08-15,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR11235,2023-08-18,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11236,2023-08-20,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR11237,2023-08-09,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Southern,,Nuwaidrat,26.1347,50.5975,1,Other-New media,0
+BHR11239,2023-08-10,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Southern,,Nuwaidrat,26.1347,50.5975,1,Other-National,0
+BHR11242,2023-08-07,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR11243,2023-08-11,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR11251,2023-08-17,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Al Hamalah,26.1433,50.4594,1,Other-National,0
+BHR11255,2023-08-18,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Al Maamir,26.1333,50.6086,1,National,0
+BHR11256,2023-08-18,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Karzakkan,26.1156,50.4819,1,Other-National,0
+BHR11271,2023-08-26,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Akr,26.1431,50.6103,1,Other-National,0
+BHR11275,2023-08-28,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Southern,,Nuwaidrat,26.1347,50.5975,1,Other-National,0
+BHR11281,2023-08-30,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR11282,2023-08-28,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR11283,2023-08-31,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR11291,2023-09-03,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR11296,2023-09-05,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Al Hamalah,26.1433,50.4594,1,National,0
+BHR11297,2023-09-05,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR11298,2023-09-05,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Karzakkan,26.1156,50.4819,1,National,0
+BHR11303,2023-09-08,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Abu Saybi,26.2175,50.5069,1,National,0
+BHR11305,2023-09-08,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR12199,2023-09-15,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sitrah,26.1547,50.6206,1,Other-National,0
+BHR12200,2023-09-15,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR12205,2023-09-09,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR12206,2023-09-10,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR12207,2023-09-15,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR12217,2023-09-22,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Markh,26.2103,50.4733,1,Other-National,0
+BHR12222,2023-06-02,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR12224,2023-09-18,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR12225,2023-09-20,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR12226,2023-09-21,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR12228,2023-09-22,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR12237,2023-09-24,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR12245,2023-09-29,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Sar,26.1942,50.4819,1,Other-National,0
+BHR12253,2023-10-01,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR12256,2023-10-03,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR12261,2023-10-06,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Bu Quwa,26.2047,50.52,1,Other-National,0
+BHR12262,2023-10-06,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR12274,2023-10-13,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR12278,2023-10-07,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Abu Saybi,26.2175,50.5069,1,National,0
+BHR12284,2023-10-12,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Southern,,Nuwaidrat,26.1347,50.5975,1,Other-National,0
+BHR12285,2023-10-13,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Southern,,Nuwaidrat,26.1347,50.5975,1,National,0
+BHR12287,2023-10-18,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sitrah,26.1547,50.6206,1,Other-National,0
+BHR12297,2023-10-20,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Aali,26.1619,50.5164,1,Other-National,0
+BHR12298,2023-10-20,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Bani Jamrah,26.2097,50.4597,1,Other-National,0
+BHR12299,2023-10-20,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Karzakkan,26.1156,50.4819,1,Other-National,0
+BHR12303,2023-10-15,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR12304,2023-10-18,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR12308,2023-10-18,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Southern,,Nuwaidrat,26.1347,50.5975,1,Other-National,0
+BHR12317,2023-10-20,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR12319,2023-10-21,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Malikiyah,26.098,50.4866,1,Other-National,0
+BHR12320,2023-10-21,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Salmabad,26.1831,50.5247,1,Other-National,0
+BHR12327,2023-10-24,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR12328,2023-10-26,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sitrah,26.1547,50.6206,1,Other-National,0
+BHR12337,2023-10-27,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR12343,2023-10-27,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Aali,26.1619,50.5164,1,Other-National,0
+BHR12345,2023-10-28,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Malikiyah,26.098,50.4866,1,Other-National,0
+BHR12347,2023-10-28,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sitrah,26.1547,50.6206,1,Other-National,0
+BHR12348,2023-10-29,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Barbar,26.2294,50.4806,1,Other-National,0
+BHR12354,2023-11-03,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR12355,2023-11-03,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Bani Jamrah,26.2097,50.4597,1,Other-National,0
+BHR12356,2023-11-03,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Karzakkan,26.1156,50.4819,1,Other-National,0
+BHR12371,2023-11-05,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR12373,2023-11-06,2,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Karzakkan,26.1156,50.4819,1,National,0
+BHR12385,2023-11-10,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Abu Saybi,26.2175,50.5069,1,Other-National,0
+BHR12386,2023-11-10,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR12408,2023-11-17,1,Protests,Protest with intervention,Protesters (Bahrain),,Police Forces of Bahrain (1999-),,Bahrain,Northern,,Karzakkan,26.1156,50.4819,1,National,0
+BHR12409,2023-11-17,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Maqabah,26.2108,50.4875,1,Other,0
+BHR12411,2023-11-18,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sitrah,26.1547,50.6206,1,National,0
+BHR12419,2023-11-23,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Al Markh,26.2103,50.4733,1,National,0
+BHR12421,2023-11-24,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Tubli,26.1869,50.5494,1,Other-National,0
+BHR12423,2023-11-24,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,National,0
+BHR12406,2023-11-17,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR12405,2023-11-17,1,Protests,Protest with intervention,Protesters (Bahrain),February 14 Youth Coalition,Police Forces of Bahrain (1999-),,Bahrain,Northern,,Aali,26.1619,50.5164,1,Other-National,0
+BHR12416,2023-11-22,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR12429,2023-11-28,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR12433,2023-12-01,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Demistan,26.1264,50.4811,1,Other-National,0
+BHR12422,2023-11-24,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR12424,2023-11-24,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Salmabad,26.1831,50.5247,1,Other-National,0
+BHR12427,2023-12-01,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR12434,2023-12-01,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Southern,,Riffa,26.13,50.555,1,Other-National,0
+BHR12438,2023-12-08,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Salmabad,26.1831,50.5247,1,Other-National,0
+BHR12440,2023-12-08,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Muslim Group (Yemen),,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR12447,2023-12-12,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Markh,26.2103,50.4733,1,Other,0
+BHR12453,2023-12-15,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR12454,2023-12-15,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR12456,2023-12-17,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Mahazzah,26.169,50.626,1,Other-National,0
+BHR12458,2023-12-17,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Ash Shakhurah,26.2147,50.5069,2,Other-National,0
+BHR12464,2023-12-22,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Maqabah,26.2108,50.4875,1,Other,0
+BHR12468,2023-12-13,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Abu Saybi,26.2175,50.5069,1,Other,0
+BHR12469,2023-12-13,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Ash Shakhurah,26.2147,50.5069,1,Other,0
+BHR12470,2023-12-29,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR12471,2023-12-17,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Maqabah,26.2108,50.4875,1,Other,0
+BHR12472,2023-12-22,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Southern,,Nuwaidrat,26.1347,50.5975,1,Other,0
+BHR12476,2023-12-18,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,National,0
+BHR12480,2023-12-29,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0
+BHR12481,2023-12-30,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Aali,26.1619,50.5164,1,Other,0
+BHR12482,2023-12-31,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sitrah,26.1547,50.6206,1,Other,0
+BHR11288,2023-08-31,1,Riots,Mob violence,Rioters (Bahrain),Prisoners (Bahrain),Civilians (Bahrain),Prisoners (Bahrain),Bahrain,Southern,,Jaw Prison,25.9916,50.6165,1,National,0
+BHR10810,2023-01-01,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10811,2023-01-02,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10812,2023-01-03,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10814,2023-01-05,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10815,2023-01-06,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10817,2023-01-07,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR10818,2023-01-08,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR10820,2023-01-09,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10823,2023-01-10,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10825,2023-01-11,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10827,2023-01-12,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10828,2023-01-13,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR10830,2023-01-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10831,2023-01-15,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10832,2023-01-16,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10833,2023-01-17,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10834,2023-01-18,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10838,2023-01-24,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10839,2023-01-27,1,Protests,Protest with intervention,Protesters (Bahrain),February 14 Youth Coalition; Muslim Group (Bahrain),Police Forces of Bahrain (1999-),,Bahrain,Capital,,Manama - Ras Al Ruman,26.2333,50.5833,1,Other-National,0
+BHR10841,2023-01-28,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10842,2023-01-29,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10843,2023-01-30,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR10844,2023-01-31,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10845,2023-02-01,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10846,2023-02-02,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10847,2023-02-03,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10850,2023-02-04,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10851,2023-02-05,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10852,2023-02-06,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10853,2023-02-07,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10854,2023-02-08,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10855,2023-02-09,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10856,2023-02-10,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Karbabad,26.2303,50.5294,1,Other-National,0
+BHR10857,2023-02-10,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10861,2023-02-11,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-New media,0
+BHR10862,2023-02-11,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Southern Sehla,26.2019,50.5368,1,Other-New media,0
+BHR10865,2023-02-12,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10866,2023-02-12,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Muharraq,,Samahij,26.28,50.635,1,Other-National,0
+BHR10871,2023-02-13,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Al Musalla,26.2122,50.5372,1,National,0
+BHR10872,2023-02-13,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Bilad al Qadim,26.2117,50.5619,1,National,0
+BHR10873,2023-02-13,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR10876,2023-02-13,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,Police Forces of Bahrain (1999-),,Bahrain,Northern,,Karranah,26.2292,50.5094,1,Other-National,0
+BHR10878,2023-02-14,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Al Daih,26.225,50.5362,1,National,0
+BHR10880,2023-02-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Musalla,26.2122,50.5372,1,Other-National,0
+BHR10881,2023-02-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Jidd Hafs,26.2167,50.5333,1,Other,0
+BHR10882,2023-02-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Karbabad,26.2303,50.5294,1,Other-National,0
+BHR10883,2023-02-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10885,2023-02-14,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Muharraq,,Al Dair,26.2842,50.6236,1,National,0
+BHR10891,2023-02-15,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10893,2023-02-17,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Shiite Muslim Group (Bahrain),,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR10895,2023-02-18,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10896,2023-02-19,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10897,2023-02-20,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10898,2023-02-21,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10899,2023-02-22,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10900,2023-02-23,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-New media,0
+BHR10901,2023-02-24,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10902,2023-02-25,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10903,2023-02-26,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10904,2023-02-27,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10905,2023-02-28,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10906,2023-03-01,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10907,2023-03-02,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10908,2023-03-03,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10909,2023-02-26,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Shiite Muslim Group (Bahrain),,,Bahrain,Capital,,Al Daih,26.225,50.5362,2,Other-National,0
+BHR10910,2023-03-04,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10911,2023-03-05,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10913,2023-03-06,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR10914,2023-03-08,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10915,2023-03-09,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10916,2023-03-10,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10917,2023-03-11,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10920,2023-03-13,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10921,2023-03-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10922,2023-03-15,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10924,2023-03-16,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-New media,0
+BHR10925,2023-03-17,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Muqsha,26.2197,50.5231,1,Other-National,0
+BHR10926,2023-03-17,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10930,2023-03-18,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR10932,2023-03-19,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10933,2023-03-20,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10934,2023-03-21,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10938,2023-03-22,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR10939,2023-03-23,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR10940,2023-03-24,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR10941,2023-03-25,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Karbabad,26.2303,50.5294,1,Other-National,0
+BHR10942,2023-03-26,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10943,2023-03-28,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10944,2023-03-29,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10947,2023-03-30,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10948,2023-03-31,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10949,2023-03-25,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR10951,2023-03-27,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR10953,2023-03-31,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Southern Sehla,26.2019,50.5368,1,Other-National,0
+BHR10958,2023-04-01,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10960,2023-04-02,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10962,2023-04-04,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10963,2023-04-06,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10965,2023-04-07,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10968,2023-04-08,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10969,2023-04-08,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Muharraq,,Al Muharraq,26.2572,50.6119,1,Other-National,0
+BHR10970,2023-04-12,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Muharraq,,Samahij,26.28,50.635,1,Other-National,0
+BHR10973,2023-04-13,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Muharraq,,Samahij,26.28,50.635,1,Other-National,0
+BHR10975,2023-04-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Musalla,26.2122,50.5372,1,Other-National,0
+BHR10976,2023-04-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Bilad al Qadim,26.2117,50.5619,1,Other-National,0
+BHR10977,2023-04-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Karbabad,26.2303,50.5294,1,Other-National,0
+BHR10978,2023-04-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10984,2023-04-09,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Muharraq,,Al Busaytin,26.2694,50.6078,1,National,0
+BHR10985,2023-04-14,2,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Al Muqsha,26.2197,50.5231,1,National,0
+BHR10993,2023-04-15,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10994,2023-04-16,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10995,2023-04-17,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR10996,2023-04-18,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10997,2023-04-19,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR10998,2023-04-20,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR10999,2023-04-21,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11002,2023-04-28,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Muqsha,26.2197,50.5231,1,Other-National,0
+BHR11003,2023-04-29,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11005,2023-04-30,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11006,2023-05-01,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11008,2023-05-02,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11010,2023-05-03,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11011,2023-05-04,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11013,2023-05-05,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11016,2023-05-06,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11017,2023-05-07,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11020,2023-05-08,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11021,2023-05-09,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11022,2023-05-10,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11024,2023-05-11,1,Protests,Peaceful protest,Protesters (Bahrain),Labor Group (Bahrain),,,Bahrain,Capital,,Manama,26.2279,50.5857,1,National,0
+BHR11025,2023-05-11,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11027,2023-05-12,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11032,2023-05-13,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11034,2023-05-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11037,2023-05-15,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR11039,2023-05-16,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11041,2023-05-17,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11043,2023-05-18,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11044,2023-05-19,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11046,2023-05-24,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11049,2023-05-22,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11051,2023-05-25,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-Regional,0
+BHR11053,2023-05-26,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11055,2023-05-21,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11056,2023-05-20,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11057,2023-05-24,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Jidd Hafs,26.2167,50.5333,1,Other,0
+BHR11058,2023-05-22,1,Strategic developments,Arrests,Police Forces of Bahrain (1999-),,Civilians (Bahrain),Shiite Muslim Group (Bahrain),Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11060,2023-05-27,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11061,2023-05-28,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11064,2023-05-29,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR11069,2023-05-30,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11073,2023-05-31,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11075,2023-05-31,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Southern Sehla,26.2019,50.5368,1,Other,0
+BHR11078,2023-06-01,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11081,2023-06-02,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11085,2023-05-22,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Manama,26.2279,50.5857,1,Other,0
+BHR11088,2023-05-23,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Karbabad,26.2303,50.5294,1,Other,0
+BHR11089,2023-05-22,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Southern Sehla,26.2019,50.5368,1,Other,0
+BHR11093,2023-06-03,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11094,2023-06-04,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11096,2023-06-05,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11097,2023-06-06,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Al Daih,26.225,50.5362,1,Other,0
+BHR11098,2023-06-06,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11099,2023-06-07,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11102,2023-06-07,2,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Karranah,26.2292,50.5094,1,Other,0
+BHR11103,2023-06-08,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11104,2023-06-09,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Daih,26.225,50.5362,1,Other-National,0
+BHR11105,2023-06-09,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11107,2023-06-10,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11109,2023-06-12,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11110,2023-06-13,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11111,2023-06-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11113,2023-06-15,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11114,2023-06-16,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11116,2023-06-16,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Shiite Muslim Group (Bahrain),,,Bahrain,Northern,,Karranah,26.2292,50.5094,1,Other-National,0
+BHR11118,2023-06-17,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11119,2023-06-18,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11121,2023-06-20,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Jidd Hafs,26.2167,50.5333,1,Other-National,0
+BHR11122,2023-06-20,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR11123,2023-06-21,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11124,2023-06-22,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11126,2023-06-21,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Karranah,26.2292,50.5094,1,Other,0
+BHR11127,2023-06-22,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Karranah,26.2292,50.5094,1,Other,0
+BHR11129,2023-06-23,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11131,2023-06-19,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11133,2023-06-24,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR11134,2023-06-25,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR11136,2023-06-26,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11137,2023-06-27,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11139,2023-06-28,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11143,2023-06-30,1,Protests,Peaceful protest,Protesters (Bahrain),Muslim Group (Bahrain),,,Bahrain,Capital,,Manama,26.2279,50.5857,1,National,0
+BHR11145,2023-07-04,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Muharraq,,Samahij,26.28,50.635,1,Other-National,0
+BHR11146,2023-07-05,1,Riots,Violent demonstration,Rioters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR11148,2023-07-06,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR11151,2023-07-08,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11152,2023-07-09,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11154,2023-07-10,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11155,2023-07-11,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11156,2023-07-12,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11157,2023-07-13,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11158,2023-07-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11160,2023-07-15,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11161,2023-07-16,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11162,2023-07-19,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11163,2023-07-20,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11164,2023-07-21,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Muslim Group (Bahrain),,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11166,2023-07-17,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR11167,2023-07-18,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR11168,2023-07-28,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Shiite Muslim Group (Bahrain),,,Bahrain,Capital,,Manama,26.2279,50.5857,1,Other-National,0
+BHR11169,2023-07-27,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR11170,2023-07-26,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR11171,2023-07-26,1,Protests,Peaceful protest,Protesters (Bahrain),Shiite Muslim Group (Bahrain),,,Bahrain,Muharraq,,Al Muharraq,26.2572,50.6119,1,National,0
+BHR11172,2023-07-25,1,Protests,Peaceful protest,Protesters (Bahrain),Shiite Muslim Group (Bahrain),,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR11173,2023-07-25,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR11174,2023-07-24,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Muslim Group (Bahrain),,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11175,2023-07-23,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Muslim Group (Bahrain),,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11176,2023-07-22,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Muslim Group (Bahrain),,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR11182,2023-08-01,1,Protests,Peaceful protest,Protesters (Bahrain),Shiite Muslim Group (Bahrain),,,Bahrain,Capital,,Al Daih,26.225,50.5362,1,National,0
+BHR11183,2023-08-01,1,Protests,Peaceful protest,Protesters (Bahrain),Shiite Muslim Group (Bahrain),,,Bahrain,Capital,,Al Musalla,26.2122,50.5372,1,National,0
+BHR11184,2023-08-06,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11186,2023-08-05,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11187,2023-08-08,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11189,2023-08-09,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11190,2023-08-09,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Southern Sehla,26.2019,50.5368,1,Other-National,0
+BHR11193,2023-08-10,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11194,2023-08-11,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Bilad al Qadim,26.2117,50.5619,1,Other-National,0
+BHR11195,2023-08-11,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11197,2023-08-12,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Az Zinj,26.2153,50.5642,1,Other,0
+BHR11198,2023-08-12,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11199,2023-08-13,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11202,2023-08-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11205,2023-08-17,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Qadam,26.2156,50.5192,2,Other-National,0
+BHR11207,2023-08-15,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11208,2023-08-16,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Muharraq,,Samahij,26.28,50.635,1,Other-National,0
+BHR11209,2023-08-16,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11212,2023-08-17,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11213,2023-08-18,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Muqsha,26.2197,50.5231,1,Other-National,0
+BHR11214,2023-08-18,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Jidd Hafs,26.2167,50.5333,1,Other-National,0
+BHR11216,2023-08-25,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,2,Other-National,0
+BHR11217,2023-08-25,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Jidd Hafs,26.2167,50.5333,2,Other-National,0
+BHR11220,2023-08-21,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11222,2023-08-20,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Karbabad,26.2303,50.5294,1,Other-National,0
+BHR11226,2023-08-22,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Karranah,26.2292,50.5094,1,Other-National,0
+BHR11227,2023-08-18,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Seef,26.2383,50.5386,1,Other-National,0
+BHR11228,2023-08-23,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Muharraq,,Al Dair,26.2842,50.6236,1,Other,0
+BHR11238,2023-08-11,1,Riots,Violent demonstration,Rioters (Bahrain),,,,Bahrain,Capital,,Az Zinj,26.2153,50.5642,1,National,0
+BHR11241,2023-08-07,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR11244,2023-08-10,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Southern Sehla,26.2019,50.5368,1,National,0
+BHR11246,2023-08-12,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Bilad al Qadim,26.2117,50.5619,1,National,0
+BHR11249,2023-08-13,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,2,National,0
+BHR11253,2023-08-17,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Karbabad,26.2303,50.5294,1,Other,0
+BHR11254,2023-08-18,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Muharraq,,Samahij,26.28,50.635,1,National,0
+BHR11258,2023-08-24,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR11259,2023-08-22,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR11260,2023-08-20,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11262,2023-08-20,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Seef,26.2383,50.5386,1,Other-National,0
+BHR11263,2023-08-20,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Al Muqsha,26.2197,50.5231,2,National,0
+BHR11265,2023-08-25,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Al Muqsha,26.2197,50.5231,2,National,0
+BHR11267,2023-08-19,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Al Muqsha,26.2197,50.5231,1,National,0
+BHR11272,2023-08-26,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Karbabad,26.2303,50.5294,1,Other-National,0
+BHR11273,2023-08-26,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Resilience Intersection,26.22,50.5359,1,Other-National,0
+BHR11274,2023-08-27,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11276,2023-08-29,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Karranah,26.2292,50.5094,1,Other-National,0
+BHR11277,2023-08-30,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11285,2023-08-28,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR11286,2023-08-29,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR11287,2023-08-31,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR11289,2023-09-02,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR11290,2023-09-03,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR11292,2023-09-04,1,Strategic developments,Other,Government of Israel (2022-),,,,Bahrain,Capital,,Manama,26.2279,50.5857,1,Other-Regional,0
+BHR11293,2023-09-04,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11294,2023-09-05,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR11295,2023-09-05,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Capital,,Seef,26.2383,50.5386,1,Other-National,0
+BHR11299,2023-09-06,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Shiite Muslim Group (Bahrain); Women (Bahrain),,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11300,2023-09-07,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR11301,2023-09-07,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Karranah,26.2292,50.5094,1,Other-National,0
+BHR11302,2023-09-08,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR11306,2023-09-08,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Karranah,26.2292,50.5094,1,Other-National,0
+BHR11670,2023-01-04,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR12052,2023-01-23,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR12053,2023-01-25,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR12054,2023-01-26,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR12055,2023-01-27,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR12060,2023-02-16,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR12064,2023-03-12,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR12174,2023-05-24,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Manama,26.2279,50.5857,2,Other,0
+BHR12178,2023-06-11,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR12182,2023-07-07,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR12183,2023-07-08,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Karranah,26.2292,50.5094,1,Other,0
+BHR12185,2023-07-28,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR12186,2023-08-15,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Bilad al Qadim,26.2117,50.5619,1,Other,0
+BHR12192,2023-08-19,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12194,2023-08-18,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12195,2023-08-18,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Manama,26.2279,50.5857,1,Other-Regional,0
+BHR12197,2023-09-11,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12201,2023-09-10,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition; Women (Bahrain),,,Bahrain,Northern,,Karranah,26.2292,50.5094,1,Other,0
+BHR12202,2023-09-11,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Muharraq,,Al Dair,26.2842,50.6236,1,Other,0
+BHR12203,2023-09-14,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Muharraq,,Samahij,26.28,50.635,1,Other,0
+BHR12208,2023-09-09,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12209,2023-09-10,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12210,2023-09-12,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12211,2023-09-15,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12212,2023-09-18,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Karbabad,26.2303,50.5294,1,Other-National,0
+BHR12213,2023-09-16,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12214,2023-09-18,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12215,2023-09-20,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12216,2023-09-21,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12219,2023-09-17,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,Police Forces of Bahrain (1999-),,Bahrain,Muharraq,,Al Dair,26.2842,50.6236,1,Other,0
+BHR12220,2023-09-17,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,Police Forces of Bahrain (1999-),,Bahrain,Muharraq,,Samahij,26.28,50.635,1,Other,0
+BHR12221,2023-09-17,1,Strategic developments,Other,Protesters (Bahrain),Prisoners (Bahrain),,,Bahrain,Muharraq,,Dry Dock Prison,26.2226,50.6573,1,Other-National,0
+BHR12223,2023-09-22,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12227,2023-09-22,1,Protests,Peaceful protest,Protesters (Bahrain),Women (Bahrain),,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12229,2023-09-19,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12232,2023-09-23,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12236,2023-09-24,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12238,2023-09-25,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12239,2023-09-26,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12240,2023-09-27,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12241,2023-09-28,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12243,2023-09-29,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12247,2023-09-30,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Manama,26.2279,50.5857,1,National,0
+BHR12248,2023-09-30,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12250,2023-09-30,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Karranah,26.2292,50.5094,1,Other,0
+BHR12252,2023-10-01,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12254,2023-10-02,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12255,2023-10-03,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12257,2023-10-04,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12258,2023-10-05,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12259,2023-10-06,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12263,2023-10-07,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Manama,26.2279,50.5857,2,Other,0
+BHR12265,2023-10-08,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Muharraq,,Samahij,26.28,50.635,1,Other,0
+BHR12266,2023-10-09,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Southern Sehla,26.2019,50.5368,1,Other-National,0
+BHR12268,2023-10-11,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR12269,2023-10-12,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Karbabad,26.2303,50.5294,1,Other-National,0
+BHR12270,2023-10-13,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Manama,26.2279,50.5857,2,Other,0
+BHR12271,2023-10-13,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Manama - Mahooz,26.2089,50.5871,1,Other,0
+BHR12273,2023-10-13,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Qadam,26.2156,50.5192,1,Other-National,0
+BHR12275,2023-10-13,1,Strategic developments,Arrests,Police Forces of Bahrain (1999-),,Civilians (Bahrain),,Bahrain,Capital,,Manama,26.2279,50.5857,3,National,0
+BHR12279,2023-10-08,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12280,2023-10-09,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12281,2023-10-10,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12282,2023-10-11,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Manama,26.2279,50.5857,1,National,0
+BHR12283,2023-10-12,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12286,2023-10-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Muharraq,,Al Busaytin,26.2694,50.6078,1,Other-National,0
+BHR12288,2023-10-18,1,Protests,Protest with intervention,Protesters (Bahrain),February 14 Youth Coalition,Police Forces of Bahrain (1999-),,Bahrain,Capital,,Bilad al Qadim,26.2117,50.5619,1,Other-National,0
+BHR12290,2023-10-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Az Zinj,26.2153,50.5642,1,Other,0
+BHR12291,2023-10-19,1,Protests,Protest with intervention,Protesters (Bahrain),February 14 Youth Coalition,Police Forces of Bahrain (1999-),,Bahrain,Capital,,Karbabad,26.2303,50.5294,1,Other-National,0
+BHR12292,2023-10-20,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Manama,26.2279,50.5857,1,Other,0
+BHR12293,2023-10-20,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12295,2023-10-18,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Manama - Ras Al Ruman,26.2333,50.5833,1,Other-National,0
+BHR12296,2023-10-20,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Daih,26.225,50.5362,1,Other,0
+BHR12300,2023-10-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR12305,2023-10-16,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Manama,26.2279,50.5857,1,Regional,0
+BHR12306,2023-10-18,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Al Muqsha,26.2197,50.5231,1,National,0
+BHR12307,2023-10-18,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12309,2023-10-19,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12310,2023-10-14,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Manama - Mahooz,26.2089,50.5871,1,National,0
+BHR12311,2023-10-15,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12312,2023-10-16,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12313,2023-10-17,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12318,2023-10-21,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12321,2023-10-24,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12323,2023-10-23,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR12324,2023-10-23,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Karranah,26.2292,50.5094,1,Other,0
+BHR12326,2023-10-24,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Muharraq,,Al Dair,26.2842,50.6236,1,Other-National,0
+BHR12329,2023-10-25,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,Police Forces of Bahrain (1999-),,Bahrain,Muharraq,,Bahrain International Airport,26.2743,50.6252,1,Other-National,0
+BHR12330,2023-10-26,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,Police Forces of Bahrain (1999-),,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12333,2023-10-27,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Al Daih,26.225,50.5362,1,Other-National,0
+BHR12334,2023-10-27,1,Protests,Protest with intervention,Protesters (Bahrain),February 14 Youth Coalition,Police Forces of Bahrain (1999-),,Bahrain,Capital,,Al Bidah,26.2253,50.5372,1,Other,0
+BHR12336,2023-10-27,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Manama,26.2279,50.5857,2,Other,0
+BHR12340,2023-10-27,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Karranah,26.2292,50.5094,1,Other-National,0
+BHR12341,2023-10-22,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12342,2023-10-27,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Manama - Adliya,26.216,50.5846,1,Other-National,0
+BHR12349,2023-10-29,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR12351,2023-11-02,1,Protests,Protest with intervention,Protesters (Bahrain),February 14 Youth Coalition,Police Forces of Bahrain (1999-),,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12353,2023-11-03,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Muharraq,,Al Dair,26.2842,50.6236,1,Other-National,0
+BHR12357,2023-11-03,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12358,2023-10-28,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12359,2023-10-30,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12360,2023-10-31,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12361,2023-11-01,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12362,2023-11-02,1,Protests,Protest with intervention,Protesters (Bahrain),,Police Forces of Bahrain (1999-),,Bahrain,Capital,,Karbabad,26.2303,50.5294,1,Other-National,0
+BHR12368,2023-11-04,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Manama - Adliya,26.216,50.5846,1,Other-National,0
+BHR12370,2023-11-05,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12372,2023-11-06,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12374,2023-11-07,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12375,2023-11-08,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12377,2023-11-09,1,Protests,Protest with intervention,Protesters (Bahrain),February 14 Youth Coalition,Police Forces of Bahrain (1999-),,Bahrain,Capital,,Bilad al Qadim,26.2117,50.5619,1,Other-National,0
+BHR12378,2023-11-09,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12380,2023-11-10,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Manama,26.2279,50.5857,1,Other,0
+BHR12381,2023-11-10,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Manama - Adliya,26.216,50.5846,1,Other,0
+BHR12382,2023-11-10,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12383,2023-11-10,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Muharraq,,Al Dair,26.2842,50.6236,1,Other,0
+BHR12389,2023-11-11,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12390,2023-11-11,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Muharraq,,Al Dair,26.2842,50.6236,1,Other,0
+BHR12393,2023-11-12,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12395,2023-11-13,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12396,2023-11-14,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12398,2023-11-15,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR12400,2023-11-15,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Karranah,26.2292,50.5094,1,Other,0
+BHR12401,2023-11-16,1,Protests,Protest with intervention,Protesters (Bahrain),February 14 Youth Coalition,Police Forces of Bahrain (1999-),,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR12402,2023-11-17,1,Protests,Protest with intervention,Protesters (Bahrain),February 14 Youth Coalition,Police Forces of Bahrain (1999-),,Bahrain,Capital,,Bilad al Qadim,26.2117,50.5619,1,Other,0
+BHR12403,2023-11-17,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Manama - Adliya,26.216,50.5846,1,Other-National,0
+BHR12404,2023-11-17,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12410,2023-11-18,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12412,2023-11-18,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Muharraq,,Al Muharraq,26.2572,50.6119,1,Other-National,0
+BHR12413,2023-11-20,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR12414,2023-11-21,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12415,2023-11-22,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12417,2023-11-23,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Al Daih,26.225,50.5362,1,Other,0
+BHR12418,2023-11-23,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12420,2023-11-24,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR12425,2023-12-01,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Manama - Adliya,26.216,50.5846,1,Other-National,0
+BHR12426,2023-12-01,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Southern Sehla,26.2019,50.5368,1,Other-National,0
+BHR12428,2023-11-28,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12430,2023-11-29,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12431,2023-11-30,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12432,2023-12-01,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12435,2023-12-02,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12436,2023-12-04,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12437,2023-12-05,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12439,2023-12-08,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Muharraq,,Samahij,26.28,50.635,1,Other-National,0
+BHR12441,2023-12-06,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12442,2023-12-08,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Manama,26.2279,50.5857,1,National,0
+BHR12443,2023-12-09,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Muharraq,,Al Muharraq,26.2572,50.6119,1,Other,0
+BHR12444,2023-12-10,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR12445,2023-12-11,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12446,2023-12-12,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12448,2023-12-14,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Muharraq,,Al Dair,26.2842,50.6236,1,Other-National,0
+BHR12449,2023-12-15,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Manama - Adliya,26.216,50.5846,1,Other-National,0
+BHR12450,2023-12-15,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Manama - Adliya,26.216,50.5846,1,Other-National,0
+BHR12451,2023-12-15,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12452,2023-12-15,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12455,2023-12-16,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR12457,2023-12-17,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR12459,2023-12-21,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Manama,26.2279,50.5857,1,Other-National,0
+BHR12460,2023-12-21,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12461,2023-12-22,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Manama - Adliya,26.216,50.5846,1,Other-National,0
+BHR12465,2023-12-24,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Bilad al Qadim,26.2117,50.5619,1,Other,0
+BHR12466,2023-12-24,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other,0
+BHR12473,2023-12-24,1,Strategic developments,Other,Protesters (Bahrain),Prisoners (Bahrain),,,Bahrain,Muharraq,,Dry Dock Prison,26.2226,50.6573,1,National,0
+BHR12474,2023-12-09,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12475,2023-12-11,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Al Muqsha,26.2197,50.5231,1,National,0
+BHR12477,2023-12-22,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12478,2023-12-23,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR12479,2023-12-29,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Bilad al Qadim,26.2117,50.5619,1,Other-National,0
+BHR12483,2023-12-31,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Muharraq,,Al Dair,26.2842,50.6236,1,Other-National,0
+BHR12490,2023-12-30,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,Other-National,0
+BHR12491,2023-12-31,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Sanabis,26.2259,50.5452,1,National,0
+BHR11257,2023-08-18,1,Protests,Peaceful protest,Protesters (Bahrain),,,,Bahrain,Capital,,Al Daih,26.225,50.5362,1,Other-New media,0
+BHR11270,2023-09-01,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sitrah,26.1547,50.6206,1,Other-National,0
+BHR12264,2023-10-07,1,Riots,Violent demonstration,Rioters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sitrah,26.1547,50.6206,1,Other,0
+BHR12462,2023-12-22,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Capital,,Sitrah,26.1547,50.6206,1,Other-National,0
+BHR12463,2023-12-22,1,Protests,Peaceful protest,Protesters (Bahrain),February 14 Youth Coalition,,,Bahrain,Northern,,Al Diraz,26.2181,50.4706,1,Other-National,0

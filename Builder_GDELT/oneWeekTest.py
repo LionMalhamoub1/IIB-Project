@@ -13,16 +13,12 @@ from tqdm import tqdm
 from DisruptionExtractor import extract_from_url_llm_single_pass, DEFAULT_MODEL, MAX_WORKERS
 
 
-# ================================
 # CONFIG
-# ================================
 
 YEAR = "2026"
 MONTH = "01"
 
-# ================================
 # PATH RESOLUTION
-# ================================
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -41,9 +37,7 @@ OUTPUT_CSV = os.path.join(BASE_DIR, f"weekly_extractions_{YEAR}{MONTH}.csv")
 ERROR_CSV = os.path.join(BASE_DIR, f"weekly_extractions_{YEAR}{MONTH}_errors.csv")
 
 
-# ================================
 # COLLECT ALL 7 CSV FILES
-# ================================
 
 def collect_week_csvs() -> List[str]:
     csv_paths = []
@@ -62,9 +56,7 @@ def collect_week_csvs() -> List[str]:
     return csv_paths
 
 
-# ================================
 # LOAD URLS FROM ALL FILES
-# ================================
 
 def load_all_urls(csv_files: List[str]) -> List[str]:
     urls = []
@@ -90,9 +82,7 @@ def load_all_urls(csv_files: List[str]) -> List[str]:
     return urls
 
 
-# ================================
 # MAIN RUNNER
-# ================================
 
 def main():
 

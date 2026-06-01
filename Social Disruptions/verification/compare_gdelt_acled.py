@@ -1,26 +1,6 @@
-"""
-compare_gdelt_acled.py
-======================
-Compares GDELT-grouped protest / labour-strike clusters against ACLED protest
-events for each processed day.
-
-For every GDELT cluster the script finds the nearest ACLED protest on the same
-day (±DATE_WINDOW days) in the same country.  If a pair falls within
-GEO_MATCH_KM they are classified as a geographic match; otherwise as a
-country-level match.  ACLED events with no GDELT counterpart are flagged as
-missed detections.
-
-Outputs
--------
-  verification/comparison/YYYYMMDD_comparison.csv   — per-cluster detail rows
-  verification/comparison/summary.csv               — one row per day
-
-Usage
------
-  python compare_gdelt_acled.py
-  python compare_gdelt_acled.py --date 20180101
-  python compare_gdelt_acled.py --start 20180101 --end 20180102
-"""
+# Matches GDELT protest clusters against ACLED per day.
+# Geographic match if nearest same-country ACLED event is within GEO_MATCH_KM, else country-level.
+# ACLED events with no GDELT match are flagged as missed detections.
 
 from __future__ import annotations
 
@@ -40,7 +20,7 @@ import pandas as pd
 # Paths
 # ---------------------------------------------------------------------------
 _HERE    = Path(__file__).resolve().parent
-_ACLED   = _HERE.parent / "External databases" / "ACLED" / "data" / "raw" / "events"
+_ACLED   = _HERE.parent / "External_Databases" / "ACLED" / "data" / "raw" / "events"
 OUT_DIR  = _HERE / "comparison"
 OUT_DIR.mkdir(exist_ok=True)
 

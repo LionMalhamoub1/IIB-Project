@@ -13,7 +13,7 @@ import json
 import pandas as pd
 
 
-# ------------------ LOAD HELPERS (standalone only) ------------------ #
+# LOAD HELPERS (standalone only)
 
 def load_df(input_path: Path) -> pd.DataFrame:
     if not input_path.exists():
@@ -48,7 +48,7 @@ def has_any_date(df: pd.DataFrame) -> pd.Series:
     return df["event_date"].notna() | df["publish_date"].notna()
 
 
-# ------------------ COVERAGE DIAGNOSTICS ------------------ #
+# COVERAGE DIAGNOSTICS
 
 def coverage_stats_known_only(df: pd.DataFrame, label: str):
     print(f"\n================ {label.upper()} =================\n")
@@ -74,7 +74,7 @@ def coverage_stats_known_only(df: pd.DataFrame, label: str):
     print(f"- Any date      : {has_any.sum():5d} / {total} ({100*has_any.mean():5.1f}%)")
 
 
-# ------------------ PUBLIC ENTRY POINT ------------------ #
+# PUBLIC ENTRY POINT
 
 def run_debugger_and_metrics(
     df_before: pd.DataFrame,
@@ -88,11 +88,11 @@ def run_debugger_and_metrics(
         df_after   = consolidated extractions
     """
 
-    # ---- 1) Coverage diagnostics ----
+    # 1) Coverage diagnostics
     coverage_stats_known_only(df_before, "Before Consolidating")
     coverage_stats_known_only(df_after, "After Consolidating")
 
-    # ---- 2) Parsed date coverage ----
+    # 2) Parsed date coverage
     any_before = has_any_date(df_before)
     any_after = has_any_date(df_after)
 
@@ -103,17 +103,17 @@ def run_debugger_and_metrics(
     print(f"With any date (before)   : {any_before.sum()} ({100*any_before.mean():.1f}%)")
     print(f"With any date (after)    : {any_after.sum()} ({100*any_after.mean():.1f}%)")
 
-    # ---- 3) Event_date audit (before only) ----
+    # 3) Event_date audit (before only)
     event_present = df_before["event_date"].notna()
     print("\n=== EVENT_DATE AUDIT (BEFORE) ===\n")
     print(f"With event_date          : {event_present.sum()} ({100*event_present.mean():.1f}%)")
 
-    # ---- 4) Publish_date audit (before only) ----
+    # 4) Publish_date audit (before only)
     publish_present = df_before["publish_date"].notna()
     print("\n=== PUBLISH_DATE AUDIT (BEFORE) ===\n")
     print(f"With publish_date        : {publish_present.sum()} ({100*publish_present.mean():.1f}%)")
 
-    # ---- 5) Strict publish_date validation ----
+    # 5) Strict publish_date validation
     publish_non_null = df_before["publish_date"].dropna()
     failures = 0
 
@@ -129,7 +129,7 @@ def run_debugger_and_metrics(
     print(f"Invalid datetimes            : {failures}")
 
 
-# ------------------ STANDALONE SUPPORT ------------------ #
+# STANDALONE SUPPORT
 
 if __name__ == "__main__":
     base_dir = Path(__file__).resolve().parent

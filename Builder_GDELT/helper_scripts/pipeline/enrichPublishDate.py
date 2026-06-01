@@ -3,13 +3,13 @@ Enrich extractions.jsonl with publish_date and event_date.
 
 Priority for publish_date (when null):
   1. URL-based date extraction  (e.g. /2024/12/31/article-name/)
-  2. GDELT dateadded            (ingest date — closest available proxy)
+  2. GDELT dateadded            (ingest date  -  closest available proxy)
 
 Priority for event_date (when null):
   1. GDELT sqldate              (GDELT's detected event date)
 
 Source of sqldate / dateadded:
-    data/urls/{YYYYMMDD}.csv  — columns url_normalized, ..., sqldate, dateadded
+    data/urls/{YYYYMMDD}.csv   -  columns url_normalized, ..., sqldate, dateadded
 """
 
 from __future__ import annotations

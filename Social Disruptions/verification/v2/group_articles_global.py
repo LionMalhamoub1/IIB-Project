@@ -1,47 +1,6 @@
-"""
-group_articles_global.py
-========================
-Improved clustering that pools ALL articles from a date range before running
-the similarity graph, removing the per-day file boundary that caused cross-day
-event fragmentation in group_gdelt_extractions.py.
-
-Why this matters
-----------------
-group_gdelt_extractions.py processes one day's extraction file at a time.
-A protest that generates news articles on day 1, day 4, and day 7 ends up in
-three separate per-day clustering runs and almost certainly becomes three
-separate Level-1 clusters that are only loosely linked (if at all) by the
-Level-2 movement pass.  This script eliminates that artificial boundary by
-loading all articles from the full date range into a single pool and running
-one global clustering pass.
-
-Key parameter changes vs v1
----------------------------
-  MOVEMENT_THRESHOLD : 0.60  (was 0.72) — more lenient so topic drift across
-                              a long event (e.g. coverage shifts from
-                              "strike begins" → "negotiations" → "settlement")
-                              still links correctly.
-  MOVEMENT_WINDOW    : 30    (was 14)   — catches sustained campaigns that
-                              pause and resume beyond the original 14-day cap.
-  MIN_MULTI_CLUSTERS : 1     (was 2)    — a genuine movement can be detected
-                              even if only one cluster has multiple articles,
-                              provided the centroid similarity is strong.
-
-Level-1 thresholds (EDGE_THRESHOLD, TYPE_WINDOW, MAX_WINDOW) are unchanged —
-article-level clustering quality was already good.
-
-Output
-------
-  v2/output/<START>_<END>_grouped.jsonl    — canonical events (Level-1 clusters)
-  v2/output/<START>_<END>_movements.jsonl  — cross-event movements (Level-2)
-  v2/output/<START>_<END>_report.json      — summary statistics
-
-Usage
------
-  python group_articles_global.py --range 20180101 20180131
-  python group_articles_global.py --range 20180101 20180131 --out path/to/dir
-  python group_articles_global.py --range 20180101 20180131 --threshold 0.45
-"""
+# v2 global clustering — pools the full date range into one pass instead of running per-day.
+# Fixes cross-day fragmentation from group_gdelt_extractions.py.
+# MOVEMENT_THRESHOLD 0.60 and MOVEMENT_WINDOW 30d (vs 0.72/14d in v1) to handle topic drift.
 
 from __future__ import annotations
 

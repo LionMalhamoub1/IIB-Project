@@ -1,58 +1,6 @@
-"""
-run_gdelt_verification.py
-=========================
-Event-level verification of the GDELT protest / labour-strike pipeline.
-
-For every GDELT event extracted by our pipeline, this script checks whether
-a corresponding event exists in ACLED and / or MMAD.  Every GDELT record is
-kept — the output is the full GDELT event list annotated with match flags.
-
-Matching rules
---------------
-vs ACLED  (daily resolution)
-    Same ISO-3 country  AND  event_date within ±ACLED_WINDOW_DAYS of the
-    ACLED event date.  Match flag is True if ≥ 1 ACLED protest event falls
-    in that window for that country.
-
-vs MMAD   (monthly resolution)
-    Same ISO-3 country  AND  same calendar month.  Match flag is True if
-    MMAD records ≥ 1 protest in that country-month.
-
-Events whose country cannot be resolved still appear in the output with
-`iso3 = null` and `acled_match = null` / `mmad_match = null` — they cannot
-be verified but are not discarded.
-
-Expected GDELT input schema
----------------------------
-  disruption_type : "protests" | "labour_strike"
-  event_date      : "YYYY-MM-DD" or ISO-8601 datetime
-  location        : ["country", "region_or_state", "city", "specific_location"]
-  confidence      : float
-  details         : { protest_type, protesting_groups, organizations_or_companies,
-                      target_of_protest, issue, sector, estimated_participants,
-                      event_start_day, reported_day_number }
-
-Outputs
--------
-  verification/gdelt_verified.parquet   — all GDELT events + match columns
-  verification/gdelt_verified.csv       — same, CSV format
-  verification/summary.json             — match-rate statistics
-  verification/figures/
-      fig1_match_rate_by_type.png
-      fig2_match_rate_by_year.png
-      fig3_match_rate_by_country.png
-      fig4_acled_window_sensitivity.png
-
-Usage
------
-  python "Social Disruptions/verification/run_gdelt_verification.py"
-
-  python "Social Disruptions/verification/run_gdelt_verification.py" \\
-      --gdelt  path/to/gdelt_social.jsonl \\
-      --acled  path/to/acled_panel.parquet \\
-      --mmad   path/to/mmad_panel.parquet \\
-      --window 7
-"""
+# Annotates GDELT protest/strike events with ACLED and MMAD match flags.
+# ACLED: same country ±window days. MMAD: same country-month.
+# Unresolved countries kept in output with null match columns.
 
 from __future__ import annotations
 
@@ -92,9 +40,9 @@ _DEDUPED_PATH      = _HERE / "gdelt_social_deduped.jsonl"
 _RAW_FALLBACK_PATH = _ROOT / "Builder_GDELT" / "results" / "combined" / "all_consolidated.jsonl"
 DEFAULT_GDELT_PATH  = _DEDUPED_PATH
 
-DEFAULT_ACLED_PANEL = _SD  / "Likelihood_modelling_social" / "data" / "processed" / "acled_country_day_2017_2025.parquet"
-DEFAULT_ACLED_RAW   = _SD  / "External databases" / "ACLED" / "data" / "raw" / "events"
-DEFAULT_MMAD_PANEL  = _SD  / "External databases" / "MMAD" / "data" / "processed" / "mmad_country_month_2017_2025.parquet"
+DEFAULT_ACLED_PANEL = _SD  / "Likelihood_Modelling" / "data" / "processed" / "acled_country_day_2017_2025.parquet"
+DEFAULT_ACLED_RAW   = _SD  / "External_Databases" / "ACLED" / "data" / "raw" / "events"
+DEFAULT_MMAD_PANEL  = _SD  / "External_Databases" / "MMAD" / "data" / "processed" / "mmad_country_month_2017_2025.parquet"
 DEFAULT_OUT_DIR     = _HERE
 
 SOCIAL_TYPES: frozenset[str] = frozenset({"protests", "labour_strike"})

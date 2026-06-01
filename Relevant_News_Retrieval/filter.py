@@ -11,65 +11,86 @@ NEGATIVE_PATH_KEYWORDS = [
     "sport","sports","football","soccer","nba","nfl","mlb","nhl","mma","ufc",
     "boxing","wrestling","tennis","golf","cricket","rugby","f1","formula-1",
     "motorsport","nascar","cycling","olympics","athletics","baseball",
-    "basketball","hockey","esports","gaming",
+    "basketball","hockey","esports","gaming","afcon","chelsea","hat-trick",
 
     # --- ENTERTAINMENT ---
     "entertainment","celebrity","celebrities","hollywood","bollywood",
-    "movies","movie","film","tv","television",
+    "movies","movie","film","tv","television","cinema","anime",
     "streaming","netflix","hulu","prime-video","amazon-prime","disney",
     "disney-plus","hbomax","spotify","music","album","song","songs",
     "concert","tour","festival","theatre","theater","broadway","oscars",
-    "emmys","grammys","kardashian","royal-family","celeb",  # <-- FIXED COMMA
+    "emmys","grammys","kardashian","royal-family","celeb",
+    "showbiz","tvshowbiz","arts","art","magazine",
 
     # --- LIFESTYLE / POP CULTURE ---
     "lifestyle","fashion","beauty","makeup","skincare","hair","diet",
     "fitness","yoga","workout","gym","weightloss","wellness",
     "relationships","dating","wedding","weddings","sex","parenting",
-    "horoscope","astrology","zodiac","tarot",
+    "horoscope","astrology","zodiac","tarot","jewelry",
 
-    # --- FOOD / RECIPES ---
+    # --- FOOD / DINING ---
     "recipe","recipes","cooking","cook","baking","kitchen","restaurant",
     "food","cuisine","dining","mayo","mayonnaise","chocolate","cake",
     "dessert","wine","beer","cocktail","coffee","tea",
+    "pizza","burger","mcdonalds","candy","salmon","oyster",
 
     # --- TRAVEL / TOURISM ---
     "holiday","holidays","vacation","tourism","hotel","hotels",
-    "cruise","beach","airport-guide",
+    "cruise","beach","airport-guide","airbnb",
 
     # --- TECH / GADGET REVIEWS ---
     "gadget","gadgets","smartphone","iphone","android",
     "laptop","tablet","camera","headphones","earbuds","tv-review",
-    "gaming-console","ps5","xbox","nintendo",
+    "gaming-console","ps5","xbox","nintendo","geforce",
 
-    # --- GENERAL CLICKBAIT ---
+    # --- CLICKBAIT / VIRAL ---
     "quiz","giveaway","contest","sweepstakes","lottery",
     "viral","meme","memes","funny","top-10","top10",
     "slideshow","gallery","photos","pictures","wallpaper",
 
-    # --- LOCAL HUMAN INTEREST / MISC ---
+    # --- CRIME / VIOLENCE ---
+    "homicide","stabbing","stabbed","carjacking","kidnap","ransom",
+    "rape","raped","raping","trafficking","paedophile","robbers","fraud",
+    "school-shooting","missing-person",
+
+    # --- DRUGS ---
+    "cocaine","drug","cannabis","heroin","fentanyl","marijuana",
+    "methamphetamine","meth","opioid",
+
+    # --- PERSONAL LIFE / GOSSIP ---
     "obituary","obituaries","funeral","wedding-announcement","birth",
-    "anniversary","missing-person","pet","pets","dog","dogs","cat","cats","museum",
-    "baby","babies","season","anime","laundry","ransom","scream","covid","equaliser",
-    "hat-trick","school-shooting","homicide","candy","drugs","bicycle","burger",
-    "methamphetamine","swimming","hiking","pizza","mcdonalds","magazine","turle",
-    "elephant","flower","balloon","cinema","monster","cult","meth","demon","showbiz",
-    "bishop","legend","moon","queer","roma","jewelery","mom","dad","horse","geforce",
-    "sickle","casino","love","crypto","seals","honda","gender",
-    "israel","gaza","palestine","israeli","genocide","child","children","schools",
-    "epstein","university","palestinian","woman","arts","fraud","son","daughter",
-    "art","wife","husband","gay","rape","parents","tvshowbiz","father","stabbing",
-    "abortion","suicide","bitcoin","birthday","somalia","stabbed","cannabis","heroin",
-    "biography","childcare","motel","diabetes","paedophile","virgin","graduates",
-    "measles","baptist","mortgage","carjacking","motorcycle","jewelry","salmon",
-    "afcon","robbers","vaccination","airbnb","dementia","spiritual","holocaust",
-    "pornography","chelsea","chatgpt","childhood","cryptocurrency","opioid",
-    "kidnap","pregnancy","raping","jews","raped","racism","priests","bishops",
-    "somali","porn","boyfriend","girlfriend","somaliland","tiktok","fentanyl",
-    "marijuana","antisemitism","teachers","podcast","jewish","trafficking",
-    "migrants","oyster","church","mosque","synagogue", "cocaine", "drug"
+    "anniversary","birthday","biography","childhood",
+    "mom","dad","son","daughter","wife","husband","boyfriend","girlfriend",
+    "parents","father","baby","babies","pregnancy","graduates","woman",
+    "porn","pornography","epstein","virgin",
+
+    # --- RELIGION & SOCIAL ISSUES ---
+    "church","mosque","synagogue","baptist","bishop","bishops","priests",
+    "racism","antisemitism","gay","queer","gender","abortion","suicide",
+    "holocaust","jewish","jews","spiritual",
+
+    # --- GEOPOLITICS / CIVIL CONFLICT (non-supply-chain) ---
+    "israel","gaza","palestine","israeli","palestinian","genocide",
+    "somali","somalia","somaliland","migrants",
+
+    # --- EDUCATION & WELFARE ---
+    "university","teachers","childcare","child","children","schools",
+
+    # --- HEALTH / MEDICAL ---
+    "measles","dementia","diabetes","vaccination","covid",
+
+    # --- ANIMALS ---
+    "pet","pets","dog","dogs","cat","cats","elephant","horse","turtle","seals",
+
+    # --- MISCELLANEOUS NOISE ---
+    "anime","laundry","bicycle","swimming","hiking","museum","casino",
+    "love","flower","balloon","monster","cult","demon","moon","legend",
+    "motel","mortgage","bitcoin","cryptocurrency","crypto",
+    "chatgpt","tiktok","motorcycle","season","sickle","honda",
+    "podcast","scream","equaliser","roma",
 ]
 
-# skip obvious non-article pages
+# Skip standard category/tag/author navigation pages that don't contain article content
 NEGATIVE_PATH_PATTERNS = [
     r"/tag/", r"/tags/", r"/category/", r"/author/", r"/gallery/", r"/video/", r"/podcast/"
 ]
@@ -128,11 +149,11 @@ def is_irrelevant_url(url: str) -> tuple[bool, str]:
             if not kw_l:
                 continue
 
-            # token-level match (best for single words)
+            # Token-level match works best for single words (exact boundary check)
             if kw_l in tokens:
                 return True, f"neg_kw_token:{kw_l}"
 
-            # substring match (best for multiword/with hyphens like 'formula-1')
+            # Substring match catches compound keywords like 'formula-1' that survive tokenization
             if kw_l in full:
                 return True, f"neg_kw_substr:{kw_l}"
 

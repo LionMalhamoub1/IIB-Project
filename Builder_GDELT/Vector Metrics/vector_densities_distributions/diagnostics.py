@@ -35,7 +35,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-# ------------------ PATHS ------------------ #
+# PATHS
 
 COMBINED_RESULTS_DIR = Path("Builder_GDELT/results/combined")
 INPUT_STEM = "all_consolidated"
@@ -44,7 +44,7 @@ OUT_DIR = Path("Builder_GDELT") / "Vector Metrics" / "vector_densities_distribut
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 
-# ------------------ LOAD ------------------ #
+# LOAD
 
 def _load_all_consolidated() -> pd.DataFrame:
     csv_path = COMBINED_RESULTS_DIR / f"{INPUT_STEM}.csv"
@@ -58,7 +58,7 @@ def _load_all_consolidated() -> pd.DataFrame:
     raise FileNotFoundError(f"Could not find {csv_path.name} or {jsonl_path.name}")
 
 
-# ------------------ HELPERS ------------------ #
+# HELPERS
 
 def _is_nan(x: Any) -> bool:
     try:
@@ -119,7 +119,7 @@ def _filled_value(v: Any, feature: str) -> bool:
     return str(v).strip() != ""
 
 
-# ------------------ MAIN ------------------ #
+# MAIN
 
 def main() -> None:
     df = _load_all_consolidated()
@@ -161,11 +161,11 @@ def main() -> None:
         "num_articles": df["num_articles"] if "num_articles" in df.columns else None,
     })
 
-    # ---- save per-record densities ----
+    # save per-record densities
     records_out = OUT_DIR / "vector_density_records.csv"
     df_out.to_csv(records_out, index=False)
 
-    # ---- summary by type ----
+    # summary by type
     by_type = (
         df_out.groupby("disruption_type")
         .agg(
@@ -183,7 +183,7 @@ def main() -> None:
     by_type_out = OUT_DIR / "vector_density_by_type.csv"
     by_type.to_csv(by_type_out, index=False)
 
-    # ---- histogram overall ----
+    # histogram overall
     hist_out = OUT_DIR / "vector_density_hist.png"
     plt.figure()
     plt.hist(df_out["density"], bins=20)
@@ -194,7 +194,7 @@ def main() -> None:
     plt.savefig(hist_out, dpi=200)
     plt.close()
 
-    # ---- boxplot by type (top 20 types by n for readability) ----
+    # boxplot by type (top 20 types by n for readability)
     top_types = by_type["disruption_type"].head(20).tolist()
     plot_df = df_out[df_out["disruption_type"].isin(top_types)].copy()
 

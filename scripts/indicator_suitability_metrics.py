@@ -1,23 +1,20 @@
 import pandas as pd
-#once databse numbers are in use to quantify the scoring metrics for the indicators. (like bayesian inference)
-# -------------------------------------------------------------
-# Indicator Suitability Metric (ISM)
-# Likelihood/frequency indicators only
-# -------------------------------------------------------------
-# Each indicator is scored for:
-# - Causal relevance
-# - Supply chain relevance
-# - Spatial coverage
-# - Temporal resolution
-# - Temporal coverage
-# - Ease of access
-# - Data reliability
-# - Alignment with GDELT
-#
-# Scores: 1 (poor) → 5 (excellent)
-# Weighted and aggregated into a 0–100 scale.
 
-# -------------------------------Criteria and weights -------------------------------#
+# Indicator Suitability Metric (ISM) — likelihood/frequency indicators only.
+# Each indicator is scored 1 (poor) to 5 (excellent) across eight criteria,
+# then weighted and aggregated to a 0–100 composite score.
+#
+# Criteria scored:
+#   - Causal relevance        (does this indicator causally drive the disruption?)
+#   - Supply chain relevance  (does it affect traded goods or logistics?)
+#   - Spatial coverage        (how globally available is the data?)
+#   - Temporal resolution     (daily/monthly/annual?)
+#   - Temporal coverage       (how far back does the series go?)
+#   - Ease of access          (API vs manual download vs restricted?)
+#   - Data reliability        (measurement error, revision frequency)
+#   - Alignment with GDELT    (do spikes in this indicator correlate with GDELT events?)
+
+# Criteria and weights
 criteria = [
     "Causal relevance", 
     "Supply chain relevance", 
@@ -28,7 +25,7 @@ criteria = [
     "Data reliability",
     "Alignment with GDELT",
 ]
-# -------------------------------weighting each criteria by importance (total sums to 1) -------------------------------#
+# weighting each criteria by importance (total sums to 1)
 weights = {
     "Causal relevance": 0.10, 
     "Supply chain relevance": 0.10,
@@ -40,7 +37,7 @@ weights = {
     "Alignment with GDELT": 0.05,
 }
 
-# ------------------------------- Indicator scores (likelihood/frequency indicators only) -------------------------------#
+# Indicator scores (likelihood/frequency indicators only)
 indicator_data = {
     # Earthquake
     "Seismic activity frequency": ("Earthquake", {"Causal relevance": 4, "Supply chain relevance": 3, "Spatial coverage": 4, "Temporal resolution": 2, "Temporal coverage": 4, "Ease of access": 4, "Data reliability": 4, "Alignment with GDELT": 2}),
@@ -104,15 +101,15 @@ indicator_data = {
     "Exploration success rate": ("Resource depletion / reserve exhaustion", {"Causal relevance": 3, "Supply chain relevance": 3, "Spatial coverage": 2, "Temporal resolution": 2, "Temporal coverage": 3, "Ease of access": 2, "Data reliability": 2, "Alignment with GDELT": 2}),
 }
 
-# -------------------------------Compute indicator-level suitability scores -------------------------------#
+# Compute indicator-level suitability scores
 records = []
 for indicator, (disruption, scores) in indicator_data.items():
-    total = sum(scores[c] * weights[c] for c in criteria) * 20  # Convert to 0–100 scale
+    total = sum(scores[c] * weights[c] for c in criteria) * 20  # Convert to 0-100 scale
     records.append({"Disruption": disruption, "Indicator": indicator, "Suitability Score": total})
 
 df = pd.DataFrame(records).sort_values("Suitability Score", ascending=False).reset_index(drop=True)
 
-# -------------------------------Compute average suitability per disruption type -------------------------------#
+# Compute average suitability per disruption type
 disruption_summary = (
     df.groupby("Disruption")["Suitability Score"]
     .agg(["mean", "max", "count"])
@@ -121,7 +118,7 @@ disruption_summary = (
     .reset_index()
 )
 
-# ------------------------------- Output ranked results  -------------------------------#
+# Output ranked results
 print("\nTop 20 Indicators by Suitability Score:\n")
 print(df.head(20).to_string(index=False))
 

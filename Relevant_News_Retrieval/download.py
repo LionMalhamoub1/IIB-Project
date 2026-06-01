@@ -11,13 +11,9 @@ from typing import Optional, List, Tuple, Dict
 MASTER = "http://data.gdeltproject.org/gdeltv2/masterfilelist.txt"
 TARGET_SUFFIX = ".export.CSV.zip"
 
-# One file per day
+# One output file per calendar day, appended across all 96 GDELT 15-minute updates
 OUT_DIR = Path("data/interim/gdelt_event_context_daily")
-OUT_DIR.mkdir(parents=True, exist_ok=True)
-
-# Track processed 15-min files so reruns don't duplicate
 STATE_DIR = Path("data/interim/_state/gdelt")
-STATE_DIR.mkdir(parents=True, exist_ok=True)
 
 
 HEADER = [
@@ -69,7 +65,7 @@ def url_timestamp(url: str) -> Optional[datetime]:
 
 
 def safe_get(row: List[str], idx: int, default: str = "") -> str:
-    # supports negative indices too
+    # Supports negative indices for tail-of-row field extraction
     try:
         return row[idx]
     except Exception:
@@ -77,26 +73,14 @@ def safe_get(row: List[str], idx: int, default: str = "") -> str:
 
 
 def processed_marker(ts: datetime) -> Path:
-    # one marker file per 15-min interval
+    # One marker file per 15-minute update interval so we can skip already-processed chunks on resume
     return STATE_DIR / f"{ts.strftime('%Y%m%d%H%M%S')}.done"
 
 
 def daily_output_path(ts: datetime) -> Path:
-    """
-    Creates and returns path for data/interim/gdelt_event_context_daily/YYYY/MM/DD/
-    """
-    year = ts.strftime("%Y")
-    month = ts.strftime("%m")
-    day_folder = ts.strftime("%d")  # Extract just the day for the folder name
-    day_file = ts.strftime("%Y%m%d") # For the filename
-
-    # Build the full directory path
-    out_dir = OUT_DIR / year / month / day_folder
-    
-    # Create the nested directory structure if it doesn't exist
+    out_dir = OUT_DIR / ts.strftime("%Y") / ts.strftime("%m") / ts.strftime("%d")
     out_dir.mkdir(parents=True, exist_ok=True)
-    
-    return out_dir / f"{day_file}_event_context.csv"
+    return out_dir / f"{ts.strftime('%Y%m%d')}_event_context.csv"
 
 
 def ensure_header(path: Path) -> None:
@@ -108,10 +92,7 @@ def ensure_header(path: Path) -> None:
 
 
 def extract_rows_from_zip(url: str) -> List[List[str]]:
-    """
-    Returns extracted rows (as list-of-fields) from one zipped export file.
-    We return structured fields already mapped to HEADER order.
-    """
+    """Download and unpack one GDELT export zip, returning rows mapped to HEADER order."""
     ingest_dt = url_timestamp(url)
     ingest_time = ingest_dt.strftime("%Y%m%d%H%M%S") if ingest_dt else ""
 
@@ -139,7 +120,7 @@ def extract_rows_from_zip(url: str) -> List[List[str]]:
                 if not sourceurl:
                     continue
 
-                # Tail fields (robust)
+                # Tail fields extracted by negative index — stable across GDELT schema versions
                 actiongeo_fullname = safe_get(row, -9)
                 actiongeo_country = safe_get(row, -8)
                 actiongeo_adm1 = safe_get(row, -7)
@@ -149,7 +130,7 @@ def extract_rows_from_zip(url: str) -> List[List[str]]:
                 actiongeo_featureid = safe_get(row, -3)
                 dateadded = safe_get(row, -2)
 
-                # Core fields (common indices for Events export)
+                # Core event fields at fixed column positions in the Events export schema
                 globaleventid = safe_get(row, 0)
                 sqldate = safe_get(row, 1)
                 eventcode = safe_get(row, 26)
@@ -188,20 +169,19 @@ def extract_rows_from_zip(url: str) -> List[List[str]]:
 
 
 def main(target_day: str) -> None:
-    """
-    target_day: format 'YYYYMMDD' (e.g., '20230501')
-    """
-    # 1. Fetch the master list
+    """Download all GDELT export files for target_day (YYYYMMDD) and append to a single daily CSV."""
+    OUT_DIR.mkdir(parents=True, exist_ok=True)
+    STATE_DIR.mkdir(parents=True, exist_ok=True)
+
+    # 1. Fetch the master file list from GDELT
     master_txt = requests.get(MASTER, timeout=60).text
     rows = parse_masterfile(master_txt)
 
-    # 2. Filter for files matching that specific day
+    # 2. Filter down to export files matching the target day
     targets = []
     for _, _, url in rows:
         if not url.endswith(TARGET_SUFFIX):
             continue
-        
-        # Extract the timestamp from the URL
         ts = url_timestamp(url)
         if ts and ts.strftime("%Y%m%d") == target_day:
             targets.append((ts, url))
@@ -213,7 +193,7 @@ def main(target_day: str) -> None:
     targets.sort()
     print(f"Found {len(targets)} files for {target_day}. Processing...")
 
-    # 3. Process and concatenate
+    # 3. Process each 15-minute chunk, skipping any already marked as done
     for ts, url in targets:
         marker = processed_marker(ts)
         if marker.exists():
@@ -236,7 +216,7 @@ def main(target_day: str) -> None:
             writer.writerows(extracted)
 
         marker.touch()
-    
+
     print(f"Done! Daily file is at: {daily_output_path(targets[0][0])}")
 
 if __name__ == "__main__":

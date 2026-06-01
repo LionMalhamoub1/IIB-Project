@@ -19,7 +19,7 @@ from typing import Optional
 import pandas as pd
 
 
-# ------------------ LOAD (standalone only) ------------------ #
+# LOAD (standalone only)
 
 def load_extractions(input_path: Path) -> pd.DataFrame:
     if not input_path.exists():
@@ -33,7 +33,7 @@ def load_extractions(input_path: Path) -> pd.DataFrame:
     raise ValueError("Input must be .csv or .jsonl")
 
 
-# ------------------ HELPERS ------------------ #
+# HELPERS
 
 def _truncate(s: str, max_chars: int) -> str:
     s = str(s)
@@ -55,7 +55,7 @@ def _print_coverage_stats(df: pd.DataFrame):
     total = len(known)
 
     if total == 0:
-        print("\nNo known disruption types found — skipping coverage stats.\n")
+        print("\nNo known disruption types found  -  skipping coverage stats.\n")
         return
 
     known["event_date"] = pd.to_datetime(known.get("event_date"), errors="coerce")
@@ -92,7 +92,7 @@ def _print_coverage_stats(df: pd.DataFrame):
     print("\n=========================================================\n")
 
 
-# ------------------ PUBLIC ENTRY POINT ------------------ #
+# PUBLIC ENTRY POINT
 
 def run_display_extractions(
     df_after: pd.DataFrame,
@@ -116,10 +116,10 @@ def run_display_extractions(
         "- YYYY/MM/DD : article publish date (metadata proxy, used when no event date)\n"
     )
 
-    # ---- Coverage diagnostics ----
+    # Coverage diagnostics
     _print_coverage_stats(df_after)
 
-    # ---- Disruption type counts (BEFORE vs AFTER) ----
+    # Disruption type counts (BEFORE vs AFTER)
     print("\n=== Disruption Type Counts ===\n")
 
     after_counts = df_after["disruption_type"].value_counts().sort_index()
@@ -146,7 +146,7 @@ def run_display_extractions(
     print("\n=== Classification Source Breakdown (Pre-Consolidation) ===\n")
     print(df_before["classification_source"].value_counts().to_string())
 
-    # ---- Date parsing for display ----
+    # Date parsing for display
     df_after["event_date"] = (
         pd.to_datetime(df_after.get("event_date"), errors="coerce", utc=True)
         .dt.tz_convert(None)
@@ -192,7 +192,7 @@ def run_display_extractions(
     pd.set_option("display.width", 140)
     pd.set_option("display.max_colwidth", None)
 
-    # ---- Print floods first, then the rest ----
+    # Print floods first, then the rest
     ordered_types = []
     if "flood" in view["type"].unique():
         ordered_types.append("flood")
@@ -212,7 +212,7 @@ def run_display_extractions(
             print(f"\n... ({len(group) - max_rows} more rows not shown) ...\n")
 
 
-# ------------------ STANDALONE SUPPORT ------------------ #
+# STANDALONE SUPPORT
 
 if __name__ == "__main__":
     # Example: compare raw vs consolidated using the default naming convention

@@ -50,6 +50,8 @@ FULL_END   = "20211231"
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
 def _month_windows(start: str, end: str, overlap_days: int):
+    """Monthly windows with an overlap buffer on each side to catch cross-month events.
+    win_start/end includes the buffer; lbl_start/end is the core month only."""
     cur = datetime.strptime(start, "%Y%m%d").replace(day=1)
     fin = datetime.strptime(end,   "%Y%m%d")
     while cur <= fin:
@@ -73,6 +75,7 @@ def _month_windows(start: str, end: str, overlap_days: int):
 
 
 def _output_exists(lbl_start: str, lbl_end: str) -> bool:
+    """True if this month's grouped output file already exists."""
     return (OUT_DIR / f"{lbl_start}_{lbl_end}_grouped.jsonl").exists()
 
 

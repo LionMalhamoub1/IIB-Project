@@ -11,7 +11,7 @@ Rules applied per event
     1. Geocode location_name via Nominatim (result cached to avoid repeat calls).
     2. Pre-screen: if the resolved place's bounding box spans > BBOX_MAX_SPAN_KM,
        the location is too coarse (e.g. a country or continent centroid) to be
-       useful for localised flood enrichment — discard the Nominatim result and
+       useful for localised flood enrichment  -  discard the Nominatim result and
        fall back to GDELT coords.
     3. Country validation: if location_name starts with a recognisable country
        name, check it matches Nominatim's returned country_code.
@@ -41,7 +41,7 @@ Post-processing: actiongeo coord rejection
 
   - Distance > COORD_SUSPICIOUS_KM: GDELT coord is implausible (likely a
       country centroid assigned by GDELT when it couldn't resolve the location).
-      lat/lon            <- None  (nulled — enrichment will skip as no_coords)
+      lat/lon            <- None  (nulled  -  enrichment will skip as no_coords)
       geo_source         <- None
       _geo_verified      <- False
       _coord_rejected_km <- rounded distance (diagnostic, for write-up)
@@ -52,15 +52,15 @@ Post-processing: actiongeo coord rejection
 _geo_verified flag
 ------------------
   Every event receives a boolean _geo_verified field:
-    True  — coordinates have been cross-validated against an independent
+    True   -  coordinates have been cross-validated against an independent
             geocode of the LLM-extracted location name; the two sources agree
             within COORD_SUSPICIOUS_KM km of each other.
-    False — coordinates are unverified: either only GDELT actiongeo is
+    False  -  coordinates are unverified: either only GDELT actiongeo is
             available with no independent reference to compare against, or the
             Nominatim result was too coarse / mismatched / rejected.
 
   Intended use in analysis: compute results on all records, then repeat on
-  _geo_verified=True only as a sensitivity check — if findings are stable,
+  _geo_verified=True only as a sensitivity check  -  if findings are stable,
   coordinate uncertainty is not materially affecting conclusions.
 
 Country sanity check
@@ -90,7 +90,7 @@ import requests
 
 log = logging.getLogger(__name__)
 
-# ── Config ────────────────────────────────────────────────────────────────────
+# -- Config --------------------------------------------------------------------
 
 CONFIDENCE_THRESHOLD = 0.7
 NOMINATIM_URL        = "https://nominatim.openstreetmap.org/search"
@@ -100,7 +100,7 @@ NOMINATIM_DELAY      = 1.1   # seconds between requests (Nominatim ToS: max 1/s)
 # If the place Nominatim resolves has a bounding box whose diagonal span
 # exceeds this threshold, the result is considered too coarse to be useful
 # as a flood event location.  For example, "South Asia" might resolve to a
-# point in India but with a bounding box spanning thousands of km — assigning
+# point in India but with a bounding box spanning thousands of km  -  assigning
 # rainfall/soil moisture data to that centroid would be meaningless.
 # 500 km accepts city and district-level resolutions while rejecting country-
 # and large-region-level ones.  The GDELT actiongeo coord is used instead.
@@ -121,7 +121,7 @@ GEOCODE_CACHE_PATH = (
 )
 
 
-# ── Haversine distance ────────────────────────────────────────────────────────
+# -- Haversine distance --------------------------------------------------------
 
 def _haversine_km(lat1: float, lon1: float, lat2: float, lon2: float) -> float:
     """Great-circle distance between two points in kilometres."""
@@ -133,7 +133,7 @@ def _haversine_km(lat1: float, lon1: float, lat2: float, lon2: float) -> float:
     return 2 * R * math.asin(math.sqrt(a))
 
 
-# ── Cache I/O ─────────────────────────────────────────────────────────────────
+# -- Cache I/O -----------------------------------------------------------------
 
 def _load_cache() -> dict:
     if GEOCODE_CACHE_PATH.exists():
@@ -163,7 +163,7 @@ def _save_cache(cache: dict) -> None:
         json.dump(cache, f, indent=2)
 
 
-# ── Nominatim call ────────────────────────────────────────────────────────────
+# -- Nominatim call ------------------------------------------------------------
 
 def _nominatim_geocode(location_name: str) -> tuple[float, float, str, float] | None:
     """
@@ -172,7 +172,7 @@ def _nominatim_geocode(location_name: str) -> tuple[float, float, str, float] | 
     Returns (lat, lon, country_code, bbox_span_km) or None if not found.
       - country_code   ISO 3166-1 alpha-2 lowercase, e.g. "my", "gb"
       - bbox_span_km   diagonal extent of Nominatim's bounding box for the
-                       matched place — used downstream to screen out coarse
+                       matched place  -  used downstream to screen out coarse
                        resolutions such as countries or continents
     """
     try:
@@ -214,7 +214,7 @@ def _nominatim_geocode(location_name: str) -> tuple[float, float, str, float] | 
         time.sleep(NOMINATIM_DELAY)
 
 
-# ── Country validation ────────────────────────────────────────────────────────
+# -- Country validation --------------------------------------------------------
 
 def _expected_country_code(location_name: str) -> str | None:
     """
@@ -241,11 +241,11 @@ def _country_check_passes(location_name: str, geocoded_cc: str) -> bool:
     """
     expected = _expected_country_code(location_name)
     if expected is None:
-        return True   # can't determine expected country → don't penalise
+        return True   # can't determine expected country -> don't penalise
     return expected == geocoded_cc.lower()
 
 
-# ── Core geocoding function ───────────────────────────────────────────────────
+# -- Core geocoding function ---------------------------------------------------
 
 def geocode_events(
     events: list[dict],
@@ -273,7 +273,7 @@ def geocode_events(
         cache = _load_cache()
 
     # Collect unique location names not yet in cache that meet the confidence
-    # bar — these are the only ones worth calling Nominatim for.
+    # bar  -  these are the only ones worth calling Nominatim for.
     to_geocode = {
         e["location_name"]
         for e in events
@@ -294,7 +294,7 @@ def geocode_events(
             _save_cache(cache)
         log.info(f"[geocode] Done. Cache now has {len(cache)} entries.")
 
-    # ── Assign coordinates to each event ──────────────────────────────────────
+    # -- Assign coordinates to each event --------------------------------------
 
     updated       = []
     n_nominatim   = 0
@@ -342,13 +342,13 @@ def geocode_events(
                     row["lat"]           = round(geo_lat, 5)
                     row["lon"]           = round(geo_lon, 5)
                     row["geo_source"]    = "nominatim_location_name"
-                    # Both the bounding box and country checks passed — this is
+                    # Both the bounding box and country checks passed  -  this is
                     # the highest-confidence coordinate assignment in the pipeline.
                     row["_geo_verified"] = True
                     n_nominatim += 1
 
                 else:
-                    # Country mismatch — Nominatim resolved the string to a
+                    # Country mismatch  -  Nominatim resolved the string to a
                     # different country than expected (e.g. a city name that
                     # exists in multiple countries).  Fall back to GDELT's coord.
                     log.debug(
@@ -369,7 +369,7 @@ def geocode_events(
                 n_no_coords += 1 if not row.get("lat") else 0
 
         else:
-            # LLM confidence too low or no location extracted — GDELT's
+            # LLM confidence too low or no location extracted  -  GDELT's
             # actiongeo coord is the only option available.
             _set_actiongeo_source(row)
             n_actiongeo += 1 if row.get("lat") else 0
@@ -377,7 +377,7 @@ def geocode_events(
 
         updated.append(row)
 
-    # ── Actiongeo coord validation and _geo_verified assignment ───────────────
+    # -- Actiongeo coord validation and _geo_verified assignment ---------------
     #
     # Events still using GDELT's actiongeo coord are validated by comparing
     # the GDELT coord against the Nominatim result for the same location_name
@@ -389,11 +389,11 @@ def geocode_events(
     #
     # Three outcomes:
     #   1. Nominatim reference available, distance ok (<= COORD_SUSPICIOUS_KM):
-    #        _geo_verified = True   — GDELT coord confirmed by independent geocode
+    #        _geo_verified = True    -  GDELT coord confirmed by independent geocode
     #   2. Nominatim reference available, distance too large:
     #        coord nulled, _geo_verified = False, _coord_rejected_km recorded
     #   3. No Nominatim reference available:
-    #        _geo_verified = False  — coord kept but cannot be verified
+    #        _geo_verified = False   -  coord kept but cannot be verified
 
     n_coord_verified    = 0
     n_coord_rejected    = 0
@@ -413,7 +413,7 @@ def geocode_events(
         cached = cache.get(loc) if loc else None
 
         if not cached:
-            # No Nominatim reference available — the actiongeo coord is kept
+            # No Nominatim reference available  -  the actiongeo coord is kept
             # but we cannot confirm whether it is accurate.  This is the
             # residual uncertainty that cannot be resolved without additional
             # data sources.  Flagged for downstream sensitivity analysis.
@@ -425,7 +425,7 @@ def geocode_events(
         dist = _haversine_km(row["lat"], row["lon"], cached[0], cached[1])
 
         if dist <= COORD_SUSPICIOUS_KM:
-            # The two independent coordinate sources agree — the GDELT coord
+            # The two independent coordinate sources agree  -  the GDELT coord
             # is in the right general area even if not precisely accurate.
             row["_geo_verified"] = True
             n_coord_verified += 1
@@ -456,7 +456,7 @@ def _set_actiongeo_source(row: dict) -> None:
     row["geo_source"] = "actiongeo" if (row.get("lat") and row.get("lon")) else None
 
 
-# ── File-level entry point (used by pipelineRunner) ───────────────────────────
+# -- File-level entry point (used by pipelineRunner) ---------------------------
 
 def geocode_jsonl_inplace(jsonl_path: Path) -> None:
     """

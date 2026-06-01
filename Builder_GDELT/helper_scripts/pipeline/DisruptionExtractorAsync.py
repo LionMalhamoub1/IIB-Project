@@ -30,7 +30,7 @@ from pathlib import Path
 from tqdm import tqdm
 
 
-# ------------------ ENV + CLIENT SETUP ------------------ #
+# ENV + CLIENT SETUP
 
 ENV_CANDIDATES = [
     Path(__file__).resolve().parents[3] / ".env",
@@ -84,7 +84,7 @@ META_DATE_TAGS = [
 ]
 
 
-# ------------------ DATA MODEL ------------------ #
+# DATA MODEL
 
 @dataclass
 class ExtractRecord:
@@ -110,7 +110,7 @@ class ExtractRecord:
     event_description: Optional[str]
 
 
-# ------------------ DATE NORMALISATION ------------------ #
+# DATE NORMALISATION
 
 def _normalise_date(value: Any, *, date_only: bool) -> Optional[str]:
     if value is None:
@@ -141,7 +141,7 @@ def _prep(s: str) -> str:
     return " ".join(s.split()).strip()
 
 
-# ------------------ ASYNC WEB SCRAPER ------------------ #
+# ASYNC WEB SCRAPER
 
 async def _fetch_html(url: str, session: aiohttp.ClientSession) -> Optional[str]:
     """Fetch raw HTML for a URL, capped at SCRAPE_MAX_BYTES."""
@@ -244,7 +244,7 @@ async def fetch_article_async(
     return art
 
 
-# ------------------ ASYNC LLM CALL ------------------ #
+# ASYNC LLM CALL
 
 async def _call_openai_async(
     url: str,
@@ -391,7 +391,7 @@ TEXT: {text}
     return data
 
 
-# ------------------ SINGLE URL (ASYNC) ------------------ #
+# SINGLE URL (ASYNC)
 
 async def extract_from_url_async(
     url: str,
@@ -414,7 +414,7 @@ async def extract_from_url_async(
     publish_date = art.get("publish_date")
 
     if len(body.strip()) < 50:
-        # Dead link, paywall, or empty page — skip LLM to avoid wasting tokens
+        # Dead link, paywall, or empty page  -  skip LLM to avoid wasting tokens
         llm_out = {
             "disruption_type": "unknown",
             "event_date": None,
@@ -461,7 +461,7 @@ async def extract_from_url_async(
     return rec.__dict__
 
 
-# ------------------ ASYNC BATCH RUNNER ------------------ #
+# ASYNC BATCH RUNNER
 
 async def _run_async(
     records_input: List[Tuple],
@@ -520,7 +520,7 @@ async def _run_async(
     return results, errors
 
 
-# ------------------ PUBLIC ENTRY POINT ------------------ #
+# PUBLIC ENTRY POINT
 
 def run_batch(
     input_csv: str,

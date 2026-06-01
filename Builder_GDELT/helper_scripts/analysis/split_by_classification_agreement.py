@@ -29,7 +29,7 @@ def check_url_status(url: str) -> int | str:
     """Return HTTP status code, or 'error' if the request fails."""
     try:
         resp = requests.head(url, timeout=REQUEST_TIMEOUT, headers=HEADERS, allow_redirects=True)
-        # Some servers reject HEAD — fall back to GET
+        # Some servers reject HEAD  -  fall back to GET
         if resp.status_code in (405, 403):
             resp = requests.get(url, timeout=REQUEST_TIMEOUT, headers=HEADERS, stream=True)
         return resp.status_code

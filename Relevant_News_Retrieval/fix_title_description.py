@@ -7,7 +7,7 @@ from ftfy import fix_text
 # State files stay in the flat _state folder for easy cross-referencing
 STATE_DIR = Path("data/interim/_state")
 
-# --- Mojibake Mapping (Unchanged logic) ---
+# Lookup tables for common mojibake sequences — UTF-8 smart quotes decoded as latin-1
 EM_DASH_BAD = "\u00e2\u20ac\u201d"
 EN_DASH_BAD = "\u00e2\u20ac\u201c"
 
@@ -46,7 +46,7 @@ def fix_meta_str(x):
         s2 = _try_redecode(s)
         if s2 != s:
             s = fix_text(s2)
-            # Re-apply maps after re-decoding
+            # Re-apply maps since redecoding can reintroduce the same bad sequences
             for m in [CONTROL_MAP, LITERAL_MAP]:
                 for bad, good in m.items(): s = s.replace(bad, good)
                 
@@ -65,12 +65,11 @@ def main(target_date: str):
 
     print(f"Cleaning encoding issues for {target_date}...")
     
-    # Use low_memory=False to handle mixed types in large caches
     df = pd.read_csv(
-    in_file,
-    engine="python",        # more tolerant parser
-    on_bad_lines="skip"     # skip malformed rows
-    )         
+        in_file,
+        engine="python",
+        on_bad_lines="skip",
+    )
 
     for col in ["title", "meta_description"]:
         if col in df.columns:
@@ -78,7 +77,7 @@ def main(target_date: str):
 
     df.to_csv(out_file, index=False)
 
-    # Validation
+    # Quick check for remaining suspicious marker characters after cleaning
     t_bad = df["title"].astype(str).str.contains(r"[âÂÃ]", na=False).sum() if "title" in df.columns else 0
     print(f"Done! Cleaned cache saved to: {out_file.name}")
     print(f"Remaining suspicious markers: {t_bad}")

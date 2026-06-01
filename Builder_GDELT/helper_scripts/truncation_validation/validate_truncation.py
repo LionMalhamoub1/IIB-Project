@@ -9,14 +9,14 @@ Design
 The title is intentionally EXCLUDED from the truncated call (--no-title mode
 is the default) so that the test isolates what information is carried by the
 body text alone.  Without this, low caps (e.g. 50 chars) pass because the
-title — which is never truncated — already contains type/location/date.
+title  -  which is never truncated  -  already contains type/location/date.
 
 Four metrics are compared between full-body and truncated-body extraction:
-  1. disruption_type  — high-level event class (flood, earthquake, etc.)
-  2. event_date       — date of the event
-  3. country          — first element of the location array
-  4. details_fields   — count of populated indicator fields (rainfall_anomaly,
-                        death_toll, river_discharge, etc.) — these only appear
+  1. disruption_type   -  high-level event class (flood, earthquake, etc.)
+  2. event_date        -  date of the event
+  3. country           -  first element of the location array
+  4. details_fields    -  count of populated indicator fields (rainfall_anomaly,
+                        death_toll, river_discharge, etc.)  -  these only appear
                         deep in the article body, not in the headline.
 
 Efficiency
@@ -63,9 +63,7 @@ DEFAULT_N    = 50
 DEFAULT_CAPS = [50, 100, 200, 400, 800, 1600, 3200]
 
 
-# ---------------------------------------------------------------------------
 # Data loading / scraping
-# ---------------------------------------------------------------------------
 
 def _load_successful_urls(urls_file: str | None = None) -> list[str]:
     """Load URLs from a plain-text file (one per line) or from the general scrape cache."""
@@ -97,9 +95,7 @@ def _scrape(url: str) -> dict:
         return {"url": url, "text": "", "title": "", "error": str(e)}
 
 
-# ---------------------------------------------------------------------------
 # LLM extraction
-# ---------------------------------------------------------------------------
 
 def _extract(url: str, title: str, text: str) -> dict:
     system_prompt = """\
@@ -245,9 +241,7 @@ TEXT: {text}
     return data
 
 
-# ---------------------------------------------------------------------------
 # Completeness helpers
-# ---------------------------------------------------------------------------
 
 def _details_count(details) -> int:
     """Count non-empty fields in the details dict."""
@@ -289,9 +283,7 @@ def _agg_completeness(results: list[dict]) -> dict:
     }
 
 
-# ---------------------------------------------------------------------------
 # Plotting
-# ---------------------------------------------------------------------------
 
 def _plot(cap_stats: list[dict], highlight: int | None, label: str = "", plot_file: Path | None = None) -> None:
     try:
@@ -300,10 +292,10 @@ def _plot(cap_stats: list[dict], highlight: int | None, label: str = "", plot_fi
         import matplotlib.pyplot as plt
         import matplotlib.ticker as mtick
     except ImportError:
-        print("matplotlib not available — skipping plot. Install with: pip install matplotlib")
+        print("matplotlib not available  -  skipping plot. Install with: pip install matplotlib")
         return
 
-    # "full" entry has cap=None — plot it at a synthetic x position to the right
+    # "full" entry has cap=None  -  plot it at a synthetic x position to the right
     full_stat  = next((s for s in cap_stats if s["cap"] is None), None)
     trunc_stats = [s for s in cap_stats if s["cap"] is not None]
 
@@ -326,9 +318,10 @@ def _plot(cap_stats: list[dict], highlight: int | None, label: str = "", plot_fi
         ax1.axhline(full_stat["pct_country"], color="#2ca02c", linestyle=":", linewidth=1, alpha=0.5)
         ax1.axhline(full_stat["pct_details"], color="#d62728", linestyle=":", linewidth=1, alpha=0.5)
 
-    ax1.set_xlabel("Character cap (body text only, log scale)", fontsize=12)
-    ax1.set_ylabel("Articles with field populated (%)", fontsize=11)
+    ax1.set_xlabel("Character cap (body text only, log scale)", fontsize=14)
+    ax1.set_ylabel("Articles with field populated (%)", fontsize=13)
     ax1.yaxis.set_major_formatter(mtick.PercentFormatter())
+    ax1.tick_params(axis="both", labelsize=12)
     ax1.set_ylim(0, 105)
     ax1.set_xscale("log")
 
@@ -337,8 +330,8 @@ def _plot(cap_stats: list[dict], highlight: int | None, label: str = "", plot_fi
     ax2.plot(caps, avg_det, "o-", color="#9467bd", linewidth=2, label="avg detail fields filled")
     if full_stat:
         ax2.axhline(full_stat["avg_det_fields"], color="#9467bd", linestyle=":", linewidth=1, alpha=0.5)
-    ax2.set_ylabel("Avg detail fields populated", fontsize=11, color="#9467bd")
-    ax2.tick_params(axis="y", labelcolor="#9467bd")
+    ax2.set_ylabel("Avg detail fields populated", fontsize=13, color="#9467bd")
+    ax2.tick_params(axis="y", labelcolor="#9467bd", labelsize=12)
     ax2.set_ylim(bottom=0)
 
     # Grey fill for % articles truncated (tertiary info via ax1 scale)
@@ -350,12 +343,12 @@ def _plot(cap_stats: list[dict], highlight: int | None, label: str = "", plot_fi
 
     lines1, labels1 = ax1.get_legend_handles_labels()
     lines2, labels2 = ax2.get_legend_handles_labels()
-    ax1.legend(lines1 + lines2, labels1 + labels2, loc="lower right", fontsize=9)
+    ax1.legend(lines1 + lines2, labels1 + labels2, loc="lower right", fontsize=12)
 
     full_note = f"  (dotted lines = full-text baseline)" if full_stat else ""
     type_label = f" — {label}" if label else ""
     ax1.set_title(f"LLM extraction completeness vs body-text character cap{type_label}\n"
-                  f"(title excluded from truncated call){full_note}", fontsize=12)
+                  f"(title excluded from truncated call){full_note}", fontsize=13)
     ax1.grid(True, alpha=0.3, which="both")
 
     out = plot_file or PLOT_FILE
@@ -365,9 +358,7 @@ def _plot(cap_stats: list[dict], highlight: int | None, label: str = "", plot_fi
     print(f"Plot saved to: {out}")
 
 
-# ---------------------------------------------------------------------------
 # Main
-# ---------------------------------------------------------------------------
 
 def main():
     parser = argparse.ArgumentParser()
@@ -376,7 +367,7 @@ def main():
     parser.add_argument("--highlight",  type=int, default=3300)
     parser.add_argument("--seed",       type=int, default=42)
     parser.add_argument("--with-title", action="store_true",
-                        help="Include title in truncated call (less strict — default is to exclude it)")
+                        help="Include title in truncated call (less strict  -  default is to exclude it)")
     parser.add_argument("--urls-file",  type=str, default=None,
                         help="Path to plain-text file with one URL per line (overrides scrape cache)")
     parser.add_argument("--label",      type=str, default="",

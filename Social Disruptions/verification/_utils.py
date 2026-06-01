@@ -1,12 +1,4 @@
-"""
-_utils.py
-=========
-Shared utilities for the GDELT social event verification pipeline.
-
-Centralising these here means a fix in the alias table or fuzzy matcher
-propagates to deduplicate_gdelt_social.py, run_gdelt_graph_matching.py, and
-run_gdelt_verification.py automatically.
-"""
+# Shared utilities for the verification pipeline — country alias table, ISO3 extraction, fuzzy matching.
 
 from __future__ import annotations
 

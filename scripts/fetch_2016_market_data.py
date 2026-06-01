@@ -132,7 +132,7 @@ for iso3, ticker in EM_FX.items():
                 .values
             )
 
-    # Check warmup resolved
+    # Verify the 90-day rolling feature warmup NaN is resolved for this country
     n_nan = panel.loc[country_mask, "fx_pct_90d"].isna().sum()
     print(f"OK (fx_pct_90d NaN remaining: {n_nan})")
 

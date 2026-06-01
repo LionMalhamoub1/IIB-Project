@@ -37,7 +37,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-# ------------------ PATHS ------------------ #
+# PATHS
 
 COMBINED_RESULTS_DIR = Path("Builder_GDELT/results/combined")
 INPUT_STEM = "all_consolidated"
@@ -46,7 +46,7 @@ OUT_DIR = Path("Builder_GDELT") / "Vector Metrics" / "feature_fill_rate_diagnost
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 
-# ------------------ LOAD ------------------ #
+# LOAD
 
 def _load_all_consolidated() -> pd.DataFrame:
     csv_path = COMBINED_RESULTS_DIR / f"{INPUT_STEM}.csv"
@@ -62,7 +62,7 @@ def _load_all_consolidated() -> pd.DataFrame:
     )
 
 
-# ------------------ HELPERS ------------------ #
+# HELPERS
 
 def _is_nan(x: Any) -> bool:
     try:
@@ -148,7 +148,7 @@ def _compute_fill_rates(df: pd.DataFrame, features: list[str]) -> dict:
     return result
 
 
-# ------------------ HEATMAP ------------------ #
+# HEATMAP
 
 def _plot_heatmap(matrix: pd.DataFrame, out_path: Path):
     plt.figure(figsize=(12, max(6, 0.4 * len(matrix))))
@@ -169,7 +169,7 @@ def _plot_heatmap(matrix: pd.DataFrame, out_path: Path):
     plt.close()
 
 
-# ------------------ MAIN ------------------ #
+# MAIN
 
 def main():
     df = _load_all_consolidated()
@@ -177,7 +177,7 @@ def main():
     if "disruption_type" not in df.columns:
         raise ValueError("Column 'disruption_type' missing.")
 
-    # ---- FIXED FEATURE ORDER ----
+    # FIXED FEATURE ORDER
     features = [
         "urls",
         "num_articles",

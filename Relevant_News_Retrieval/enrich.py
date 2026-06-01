@@ -42,7 +42,7 @@ MAX_WORKERS = 40  # tune based on your machine / error rate
 MAX_TITLE_CHARS = 300
 MAX_DESC_CHARS = 800
 
-# Cache writer flush behavior
+# Cap the queue so a stalled disk writer doesn't let memory grow unbounded
 CACHE_QUEUE_MAXSIZE = 50_000
 
 
@@ -282,12 +282,12 @@ def process_row(
     if url_norm in existing and (existing[url_norm].get("http_status") == "200"):
         return existing[url_norm]
 
-    # Non-http
+    # Skip non-HTTP URLs before attempting a network request
     if not url_norm.startswith("http"):
         row.update({"title": "", "meta_description": "", "http_status": "", "fetch_error": "non_http"})
         return row
 
-    # Cached
+    # Cache hit — use stored result from a previous run rather than fetching again
     if url_norm in cache:
         c = cache[url_norm]
         row.update(

@@ -1,52 +1,5 @@
-"""
-build_labels_modelling.py
-=========================
-Standalone script that reads the already-clustered grouped output and builds
-label panels for likelihood modelling.  Run this independently — it does not
-re-run clustering.
-
-Produces four label files:
-
-  labels_country_day.parquet
-      One row per (iso3, date).  Columns:
-        protest_today      1 if any protest event active on this day
-        strike_today       1 if any labour_strike event active on this day
-        protest_7d         1 if any protest in the next 7 days (forward-looking)
-        strike_7d          1 if any strike in the next 7 days
-        protest_30d        1 if any protest in the next 30 days
-        strike_30d         1 if any strike in the next 30 days
-        n_protest_events   count of distinct protest events active today
-        n_strike_events    count of distinct strike events active today
-        n_articles         total supporting articles across all events today
-        has_movement       1 if any event belongs to a movement
-        gdelt_n_raw        raw GDELT article count for this country-day
-        coverage_flag      low / medium / high
-
-  labels_country_month.parquet
-      One row per (iso3, year_month).  Columns:
-        protest_this_month   1 if any protest occurred in this month
-        strike_this_month    1 if any strike occurred in this month
-        protest_next_month   1 if any protest occurred in the following month
-        strike_next_month    1 if any strike occurred in the following month
-        n_protest_events     count of distinct protest events this month
-        n_strike_events      count of distinct strike events this month
-        n_protest_days       number of days with at least one protest active
-        n_strike_days        number of days with at least one strike active
-        n_articles           total articles across all events this month
-        gdelt_n_raw          total raw GDELT articles for this country-month
-        coverage_flag        low / medium / high  (based on monthly total)
-
-Usage
------
-  # Run with defaults (reads from v2/output, writes to v2/labels)
-  python build_labels_modelling.py
-
-  # Specify date range
-  python build_labels_modelling.py --range 20180101 20201201
-
-  # Custom paths
-  python build_labels_modelling.py --grouped v2/output --out v2/labels
-"""
+# Builds country-day and country-month label panels from the grouped cluster output.
+# Does not re-run clustering. Forward-looking targets (protest_7d etc.) computed here.
 
 from __future__ import annotations
 

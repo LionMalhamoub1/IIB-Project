@@ -17,16 +17,10 @@ DATE_FMT = "%Y%m%d"
 
 
 def _parse_dates(user_input: str) -> list[str]:
-    """
-    Accepts:
-      - "YYYYMMDD"
-      - "YYYYMMDD-YYYYMMDD"
-      - "YYYYMMDD,YYYYMMDD,YYYYMMDD"
-    Returns a sorted list of YYYYMMDD strings (duplicates removed).
-    """
+    """Parse a date string into a sorted list of YYYYMMDD strings — single date, range, or comma list."""
     s = (user_input or "").strip()
 
-    # Comma-separated list
+    # Comma-separated list — split and validate each token individually
     if "," in s:
         parts = [p.strip() for p in s.split(",") if p.strip()]
         dates = []
@@ -35,7 +29,7 @@ def _parse_dates(user_input: str) -> list[str]:
             dates.append(p)
         return sorted(set(dates))
 
-    # Range
+    # Hyphen-separated range — expand every day between start and end inclusive
     if "-" in s:
         a, b = [p.strip() for p in s.split("-", 1)]
         _validate_date(a)
@@ -43,7 +37,7 @@ def _parse_dates(user_input: str) -> list[str]:
         start = datetime.strptime(a, DATE_FMT)
         end = datetime.strptime(b, DATE_FMT)
         if end < start:
-            start, end = end, start  # swap
+            start, end = end, start  # swap so we always iterate forward
 
         out = []
         cur = start
@@ -60,7 +54,7 @@ def _parse_dates(user_input: str) -> list[str]:
 def _validate_date(d: str) -> None:
     if not re.fullmatch(r"\d{8}", d or ""):
         raise ValueError(f"Invalid date '{d}'. Expected YYYYMMDD.")
-    # also validates real calendar date
+    # Parse through strptime to catch impossible dates like 20230231
     datetime.strptime(d, DATE_FMT)
 
 
@@ -90,57 +84,13 @@ def run_one_date(date: str) -> None:
     print("\nDONE:", date)
 
 
-def start_pipeline():
-    user_in = input(
-        "Enter date(s) to process:\n"
-        "  - Single: YYYYMMDD\n"
-        "  - Range:  YYYYMMDD-YYYYMMDD\n"
-        "  - List:   YYYYMMDD,YYYYMMDD,...\n"
-        "> "
-    ).strip()
-
-    try:
-        dates = _parse_dates(user_in)
-    except Exception as e:
-        print(f"\nError: {e}")
-        return
-
-    print(f"\nWill process {len(dates)} date(s): {', '.join(dates)}")
-
-    for i, d in enumerate(dates, start=1):
-        print(f"\n[{i}/{len(dates)}]")
-        try:
-            run_one_date(d)
-        except Exception as e:
-            # Don’t kill the whole run; move on to next date.
-            print(f"\n!!! Failed for {d}: {repr(e)}")
-            continue
-
-    print("\nALL STEPS COMPLETE")
-
-
-if __name__ == "__main__":
-    start_pipeline()
 def start_pipeline(start_date=None, end_date=None):
-    """
-    Can be called in two ways:
-
-    1) Programmatically:
-        start_pipeline("20240801", "20240831")
-
-    2) From terminal (no args):
-
-    """
-
-    # --- Programmatic mode ---
+    """Run the retrieval pipeline over a date range. If called without arguments, prompts interactively."""
     if start_date is not None:
-
         if end_date is None:
             dates = _parse_dates(start_date)
         else:
             dates = _parse_dates(f"{start_date}-{end_date}")
-
-    # --- Interactive mode ---
     else:
         user_in = input(
             "Enter date(s) to process:\n"
@@ -167,3 +117,7 @@ def start_pipeline(start_date=None, end_date=None):
             continue
 
     print("\nALL STEPS COMPLETE")
+
+
+if __name__ == "__main__":
+    start_pipeline()

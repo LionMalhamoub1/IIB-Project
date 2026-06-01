@@ -160,7 +160,7 @@ def print_field_completeness(records: list[dict]) -> None:
     if n == 0:
         return
 
-    # Mirror the reference builder field list — using GDELT equivalents.
+    # Mirror the reference builder field list  -  using GDELT equivalents.
     # LLM detail fields (deaths, affected, etc.) live inside the 'extras' dict;
     # _field_val() checks both top-level and extras so counts are correct.
     fields = [

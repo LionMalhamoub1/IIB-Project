@@ -14,14 +14,14 @@ from typing import Dict, Any, List, Optional, Tuple
 import pandas as pd
 
 
-# ------------------ CONFIG ------------------ #
+# CONFIG
 
 EVENT_EVENT_TOLERANCE_DAYS = 1
 EVENT_PUBLISH_TOLERANCE_DAYS = 2
 PUBLISH_PUBLISH_TOLERANCE_DAYS = 3
 
 
-# ------------------ LOAD ------------------ #
+# LOAD
 
 def load_extractions(input_path: Path) -> pd.DataFrame:
     if not input_path.exists():
@@ -59,7 +59,7 @@ def load_extractions(input_path: Path) -> pd.DataFrame:
     return df
 
 
-# ------------------ HELPERS ------------------ #
+# HELPERS
 
 def location_tokens(location: str) -> set[str]:
     if not location:
@@ -100,7 +100,7 @@ def dates_close_asymmetric(
     return delta_days <= tol
 
 
-# ------------------ MERGING ------------------ #
+# MERGING
 
 def merge_cluster(cluster: List[Dict[str, Any]]) -> Dict[str, Any]:
     merged: Dict[str, Any] = {}
@@ -182,7 +182,7 @@ def merge_cluster(cluster: List[Dict[str, Any]]) -> Dict[str, Any]:
     return merged
 
 
-# ------------------ DEDUPLICATION ------------------ #
+# DEDUPLICATION
 
 def dedupe_events(df: pd.DataFrame) -> pd.DataFrame:
     records = df.to_dict(orient="records")
@@ -223,7 +223,7 @@ def dedupe_events(df: pd.DataFrame) -> pd.DataFrame:
     return pd.DataFrame(merged_events)
 
 
-# ------------------ SAVE ------------------ #
+# SAVE
 
 def save_outputs(df: pd.DataFrame, output_csv: Path, output_jsonl: Path):
     df.to_csv(output_csv, index=False)
@@ -239,7 +239,7 @@ def save_outputs(df: pd.DataFrame, output_csv: Path, output_jsonl: Path):
             f.write(json.dumps(record, ensure_ascii=False) + "\n")
 
 
-# ------------------ PUBLIC ENTRY POINT ------------------ #
+# PUBLIC ENTRY POINT
 
 def run_consolidation(input_path: Path) -> pd.DataFrame:
     with warnings.catch_warnings():

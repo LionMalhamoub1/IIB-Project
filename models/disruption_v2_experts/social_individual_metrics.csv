@@ -1,7 +1,0 @@
-disruption_type,roc_auc,avg_precision,accuracy,positive_f1,tn,fp,fn,tp,n_test,n_pos
-Labour Strike,0.999,0.985,0.999,0.978,1954,1,1,44,2000,45
-Protests,1.0,0.999,0.998,0.973,1924,2,2,72,2000,74
-Trade Embargo,1.0,1.0,0.999,0.968,1951,1,2,46,2000,48
-Country Relations,0.998,0.931,0.991,0.85,1923,16,1,48,2000,49
-Tariffs,1.0,1.0,0.998,0.947,1960,2,2,36,2000,38
-Average / Total,0.999,0.983,0.997,0.943,9712,22,8,246,10000,254

@@ -110,7 +110,7 @@ def _fetch_url_lookup(date_str: str, target_urls: set[str]) -> dict[str, tuple[s
                         if norm not in target_urls:
                             continue
                         if norm in lookup:
-                            continue  # keep first occurrence
+                            continue  # Keep the first GDELT occurrence per URL (earliest 15-min file)
                         sqldate   = row[1].strip()   if len(row) > 1  else ""
                         dateadded = row[-2].strip()  if len(row) > 1  else ""
                         lookup[norm] = (sqldate, dateadded)

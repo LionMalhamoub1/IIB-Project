@@ -40,7 +40,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-# ------------------ PATHS ------------------ #
+# PATHS
 
 COMBINED_RESULTS_DIR = Path("Builder_GDELT/results/combined")
 INPUT_STEM = "all_consolidated"
@@ -49,7 +49,7 @@ OUT_DIR = Path("Builder_GDELT") / "Vector Metrics" /"feature_richness"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 
-# ------------------ LOAD ------------------ #
+# LOAD
 
 def _load_all_consolidated() -> pd.DataFrame:
     csv_path = COMBINED_RESULTS_DIR / f"{INPUT_STEM}.csv"
@@ -63,7 +63,7 @@ def _load_all_consolidated() -> pd.DataFrame:
     raise FileNotFoundError(f"Could not find {csv_path.name} or {jsonl_path.name}")
 
 
-# ------------------ HELPERS ------------------ #
+# HELPERS
 
 def _is_nan(x: Any) -> bool:
     try:
@@ -111,7 +111,7 @@ def _bucket_label(url_count: int) -> str:
     return "6+"
 
 
-# ------------------ PLOTS ------------------ #
+# PLOTS
 
 def _plot_logfreq(url_counts: pd.Series, out_path: Path) -> None:
     freq = url_counts.value_counts().sort_index()
@@ -183,7 +183,7 @@ def _plot_bucket_stacked_by_type(df: pd.DataFrame, out_path: Path, top_n_types: 
     plt.close()
 
 
-# ------------------ MAIN ------------------ #
+# MAIN
 
 def main() -> None:
     df = _load_all_consolidated()
@@ -199,11 +199,11 @@ def main() -> None:
     })
     out["url_bucket"] = out["url_count"].map(_bucket_label)
 
-    # ---- save simple per-record table ----
+    # save simple per-record table
     table_out = OUT_DIR / "url_count_per_record.csv"
     out.to_csv(table_out, index=False)
 
-    # ---- plots ----
+    # plots
     logfreq_out = OUT_DIR / "url_count_distribution_logy.png"
     _plot_logfreq(out["url_count"], logfreq_out)
 

@@ -1,57 +1,6 @@
-"""
-build_labels.py
-===============
-Converts grouped event clusters into a country-day label panel for use in
-likelihood modelling.
-
-The core problem this solves
------------------------------
-In the v1 pipeline, events are extracted at article-publication granularity.
-If a strike runs from Jan 5 to Jan 15 and generates 30 news articles across
-that period, the clustering output has event_date=Jan5, event_end_date=Jan15.
-But there was no step converting that into 11 labelled country-days.  This
-script does that conversion.
-
-Labelling logic
----------------
-For each canonical event cluster:
-  - Every calendar day in [event_date, event_end_date] is labelled as an
-    active event day for that country.
-  - This correctly treats a multi-day strike as 10 labelled days rather than
-    one labelled start-day.
-
-For each country-day, the panel records:
-  event_binary       1 if any event is active, 0 otherwise
-  n_events           count of distinct events active on this day
-  n_articles         total supporting articles across active events
-  max_confidence     max confidence_max across active events on this day
-  has_movement       1 if any active event belongs to a cross-event movement
-  disruption_types   comma-separated set of active disruption types
-  gdelt_n_raw        total raw articles extracted by GDELT for this country on
-                     this date (loaded from raw extraction files).  Low values
-                     flag potential false-negative label days — days where GDELT
-                     simply had thin coverage rather than no events occurring.
-  coverage_flag      "low" / "medium" / "high" based on gdelt_n_raw thresholds
-                     (< LOW_COVERAGE_THRESHOLD → "low", etc.)
-
-Usage
------
-  # From v2 global grouped output
-  python build_labels.py --grouped v2/output --raw-dir path/to/daily/extractions
-  python build_labels.py --grouped v2/output --out labels.parquet
-
-  # From v1 per-day grouped output (same format, works identically)
-  python build_labels.py --grouped verification/grouped
-
-  # Restrict to a date range
-  python build_labels.py --grouped v2/output --range 20180101 20180131
-
-Output
-------
-  labels.parquet    country-day panel with all label columns
-  labels.csv        same, CSV format
-  label_report.json summary statistics
-"""
+# Converts grouped event clusters into a country-day label panel.
+# Each cluster is expanded across its full date span — a 10-day strike gets 10 labelled days.
+# gdelt_n_raw flags thin-coverage days where a zero label is unreliable.
 
 from __future__ import annotations
 

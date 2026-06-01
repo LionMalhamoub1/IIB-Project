@@ -1,24 +1,70 @@
-# Data files
+# ── Data files ────────────────────────────────────────────────────────────────
 *.parquet
+*.csv
 *.jsonl
+*.json
 *.xlsx
 *.xls
+*.db
+*.sqlite
+
+# ── Model weights ─────────────────────────────────────────────────────────────
 *.joblib
 *.pkl
+*.pickle
 *.h5
 *.hdf5
+*.pt
+*.pth
 
-# Large output / cache directories
-cache/
-outputs/
+# ── Figures and output files ──────────────────────────────────────────────────
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.html
+*.svg
+
+# ── Logs and run outputs ──────────────────────────────────────────────────────
+*.log
+train_log.txt
+*_log.txt
+analysis_report.txt
+feature_importance.txt
+top_features_summary.txt
+panel_features.txt
+*interesting_urls.txt
+summary.txt
+wgi_indicator_descriptions.txt
+
+# ── Python cache ──────────────────────────────────────────────────────────────
 __pycache__/
 *.py[cod]
+*.pyo
 
-# Secrets
+# ── Cache directories ─────────────────────────────────────────────────────────
+.cache/
+cache/
+*.cache
+
+# ── Data and result directories ───────────────────────────────────────────────
+data/
+results/
+results*/
+outputs/
+output/
+
+# ── Secrets ───────────────────────────────────────────────────────────────────
 .env
 .env.*
-data/secrets/
+secrets/
+*tokens*.json
 
-# OS
+# ── OS ────────────────────────────────────────────────────────────────────────
 .DS_Store
 Thumbs.db
+desktop.ini
+*.mp4
+*.mov
+*.avi

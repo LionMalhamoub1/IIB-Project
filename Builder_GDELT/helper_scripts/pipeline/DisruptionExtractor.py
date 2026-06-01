@@ -15,7 +15,7 @@ from tqdm import tqdm
 
 from .webscraper import extract_article_text
 
-# ------------------ ENV + OPENAI CLIENT SETUP ------------------ #
+# ENV + OPENAI CLIENT SETUP
 from pathlib import Path
 
 # Try repo-root .env (common) + fallback to script-folder .env
@@ -46,7 +46,7 @@ DEFAULT_MODEL = "gpt-5-mini"
 MAX_WORKERS = 20
 
 
-# ------------------ DATA MODEL ------------------ #
+# DATA MODEL
 
 @dataclass
 class ExtractRecord:
@@ -71,7 +71,7 @@ class ExtractRecord:
     lon: Optional[float]
 
 
-# ------------------ DATE NORMALISATION ------------------ #
+# DATE NORMALISATION
 
 def _normalise_date(value: Any, *, date_only: bool) -> Optional[str]:
     if value is None:
@@ -92,7 +92,7 @@ def _normalise_date(value: Any, *, date_only: bool) -> Optional[str]:
     return ts.date().isoformat() if date_only else ts.isoformat()
 
 
-# ------------------ LLM EXTRACTION ------------------ #
+# LLM EXTRACTION
 
 def _call_chatgpt_extractor(
     url: str,
@@ -218,7 +218,7 @@ TEXT: {text}
     return data
 
 
-# ------------------ SINGLE URL EXTRACTION ------------------ #
+# SINGLE URL EXTRACTION
 
 def extract_from_url_llm_single_pass(
     url: str,
@@ -234,7 +234,7 @@ def extract_from_url_llm_single_pass(
     publish_date = art.get("publish_date")
 
     if len(body.strip()) < 50:
-        # Dead link, paywall, or empty page — skip LLM to avoid wasting tokens
+        # Dead link, paywall, or empty page  -  skip LLM to avoid wasting tokens
         llm_out = {
             "disruption_type": "unknown",
             "event_date": None,
@@ -277,7 +277,7 @@ def extract_from_url_llm_single_pass(
     )
 
 
-# ------------------ BATCH RUNNER ------------------ #
+# BATCH RUNNER
 
 def run_batch(
     input_csv: str,

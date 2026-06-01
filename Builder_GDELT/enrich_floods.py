@@ -5,14 +5,14 @@ Geocode and enrich GDELT flood events with hydro-climate indicators.
 
 Pipeline stages
 ---------------
-1. Geocode   — Attach lat/lon from GDELT URL CSVs (actiongeo_lat/lon),
+1. Geocode    -  Attach lat/lon from GDELT URL CSVs (actiongeo_lat/lon),
                then Nominatim for any remaining events with a location_name.
-2. CHIRPS    — 3/7/14/30-day rainfall totals + 7-day anomaly.
-3. GPM       — 1/3/7-day totals, peak daily and 3-hourly intensity.
-4. ERA5      — Soil moisture (day0, 7d, 30d mean), precipitation, runoff.
-5. Static    — Population density (WorldPop), JRC surface water occurrence/recurrence.
-6. SPI       — 30-day Standardized Precipitation Index.
-7. Merge     — Left-join all layers into one final JSONL.
+2. CHIRPS     -  3/7/14/30-day rainfall totals + 7-day anomaly.
+3. GPM        -  1/3/7-day totals, peak daily and 3-hourly intensity.
+4. ERA5       -  Soil moisture (day0, 7d, 30d mean), precipitation, runoff.
+5. Static     -  Population density (WorldPop), JRC surface water occurrence/recurrence.
+6. SPI        -  30-day Standardized Precipitation Index.
+7. Merge      -  Left-join all layers into one final JSONL.
 
 Input
 -----
@@ -27,7 +27,7 @@ Outputs
     Builder_GDELT/outputs/gdelt_floods_era5.jsonl
     Builder_GDELT/outputs/gdelt_floods_static.jsonl
     Builder_GDELT/outputs/gdelt_floods_spi.jsonl
-    Builder_GDELT/outputs/gdelt_floods_enriched.jsonl   ← final product
+    Builder_GDELT/outputs/gdelt_floods_enriched.jsonl   <- final product
 
 Usage
 -----
@@ -54,9 +54,7 @@ logging.basicConfig(
 )
 log = logging.getLogger(__name__)
 
-# ---------------------------------------------------------------------------
 # Paths
-# ---------------------------------------------------------------------------
 
 ROOT        = Path(__file__).resolve().parent.parent
 INPUT_PATH  = ROOT / "Builder_GDELT" / "results" / "combined" / "all_consolidated.jsonl"
@@ -90,18 +88,14 @@ ENRICHMENT_FIELDS = {
 }
 
 
-# ---------------------------------------------------------------------------
-# Event key — stable identifier based on sorted URLs
-# ---------------------------------------------------------------------------
+# Event key  -  stable identifier based on sorted URLs
 
 def _event_key(e: dict) -> str:
     urls = sorted(e.get("urls") or [e.get("url", "")])
     return "|".join(urls)
 
 
-# ---------------------------------------------------------------------------
 # Stage 0: Load base events
-# ---------------------------------------------------------------------------
 
 def _load_base_events() -> list[dict]:
     if not INPUT_PATH.exists():
@@ -126,9 +120,7 @@ def _load_base_events() -> list[dict]:
     return floods
 
 
-# ---------------------------------------------------------------------------
 # Stage 1: Geocode
-# ---------------------------------------------------------------------------
 
 def _build_url_coord_index() -> dict[str, tuple[float, float]]:
     """Read all data/urls/*.csv and return {url_normalized: (lat, lon)}."""
@@ -170,10 +162,10 @@ def geocode_events(events: list[dict]) -> list[dict]:
     Attach lat/lon to events.
 
     Priority:
-      1. Already has lat/lon  → keep, mark geo_source='original'
-      2. URL matches GDELT CSV → use actiongeo_lat/lon, geo_source='gdelt_csv'
-      3. Has location_name    → Nominatim query, geo_source='nominatim'
-      4. Otherwise            → lat/lon remain None, geo_source=None
+      1. Already has lat/lon  -> keep, mark geo_source='original'
+      2. URL matches GDELT CSV -> use actiongeo_lat/lon, geo_source='gdelt_csv'
+      3. Has location_name    -> Nominatim query, geo_source='nominatim'
+      4. Otherwise            -> lat/lon remain None, geo_source=None
     """
     url_index = _build_url_coord_index()
 
@@ -252,9 +244,7 @@ def geocode_events(events: list[dict]) -> list[dict]:
     return geocoded
 
 
-# ---------------------------------------------------------------------------
 # Stage 7: Merge all enrichment layers
-# ---------------------------------------------------------------------------
 
 def _merge(all_events: list[dict]) -> None:
     """
@@ -300,9 +290,7 @@ def _merge(all_events: list[dict]) -> None:
     )
 
 
-# ---------------------------------------------------------------------------
 # Main
-# ---------------------------------------------------------------------------
 
 def main():
     parser = argparse.ArgumentParser(description="Geocode and enrich GDELT flood events.")
@@ -351,7 +339,7 @@ def main():
     log.info(f"{len(enrichable):,} events have coordinates and will be enriched")
 
     if not enrichable:
-        log.error("No events with coordinates — cannot run GEE enrichment.")
+        log.error("No events with coordinates  -  cannot run GEE enrichment.")
         sys.exit(1)
 
     # --- CHIRPS ---
@@ -396,7 +384,7 @@ def main():
 
     # --- Merge ---
     log.info("=== Stage 8: Merge all layers ===")
-    _merge(events)  # all events — un-geocoded ones get null hydro fields
+    _merge(events)  # all events  -  un-geocoded ones get null hydro fields
 
     log.info("Done. Final output: %s", OUT_DIR / "gdelt_floods_enriched.jsonl")
 

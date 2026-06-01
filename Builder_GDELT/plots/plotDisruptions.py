@@ -17,7 +17,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 
 
-# ------------------ PUBLIC ENTRY POINT ------------------ #
+# PUBLIC ENTRY POINT
 
 def run_plots(
     df_consolidated: pd.DataFrame,
@@ -38,7 +38,7 @@ def run_plots(
     plots_dir = project_root / "plots"
     plots_dir.mkdir(exist_ok=True)
 
-    # ---- Filter to known disruptions only ---- #
+    # Filter to known disruptions only
     df = df_consolidated.copy()
     df = df[df["disruption_type"].fillna("unknown") != "unknown"]
 
@@ -46,9 +46,7 @@ def run_plots(
         print("No known disruptions to plot.")
         return
 
-    # ==============================
-    # 1) BAR CHART – TYPE COUNTS
-    # ==============================
+    # 1) BAR CHART - TYPE COUNTS
 
     type_counts = (
         df["disruption_type"]
@@ -71,9 +69,7 @@ def run_plots(
     print(f"Saved: {type_path}")
 
 
-    # ======================================
     # 2) CONFIDENCE SCORE DISTRIBUTION
-    # ======================================
 
     df["confidence"] = pd.to_numeric(df["confidence"], errors="coerce")
 

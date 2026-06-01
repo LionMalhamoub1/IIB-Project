@@ -1,10 +1,10 @@
 """
-Master automated pipeline — Stage 2: extraction and consolidation only.
+Master automated pipeline  -  Stage 2: extraction and consolidation only.
 
 Flow (per day):
 1) Run extraction from data/urls/YYYYMMDD.csv
 2) Enrich publish_date from GDELT dateadded
-3) Geocode location_name → lat/lon
+3) Geocode location_name -> lat/lon
 4) Split extractions by disruption type
 5) Run consolidation (deduplication)
 6) Save consolidated file in daily folder
@@ -28,7 +28,7 @@ import shutil
 import pandas as pd
 
 
-# ---- Project paths ---- #
+# Project paths
 
 BASE_DIR = Path("data/urls")
 DAILY_URL_DIR = Path("data/urls")
@@ -37,12 +37,12 @@ COMBINED_RESULTS_DIR = Path("Builder_GDELT/results/combined")
 COMBINED_BY_TYPE_DIR = Path("Builder_GDELT/results/combined/by_type")
 
 
-# ---- Expert filter ---- #
+# Expert filter
 
 EXPERT_TYPES = {"flood", "protests", "labour_strike"}
 
 
-# ---- Import stages ---- #
+# Import stages
 
 from .helper_scripts.pipeline.DisruptionExtractorAsync import run_batch
 from .helper_scripts.pipeline.enrichPublishDate import enrich_publish_dates
@@ -53,7 +53,7 @@ from .helper_scripts.analysis.DisplayExtractionsPandas import run_display_extrac
 from .plots.plotDisruptions import run_plots
 
 
-# ------------------ UTIL ------------------ #
+# UTIL
 
 def split_jsonl_by_type(jsonl_path: Path, skip_types: set[str] | None = None) -> None:
     """Split a .jsonl file into per-type subfolders alongside the source file.
@@ -98,7 +98,7 @@ def daterange(start, end):
         d += timedelta(days=1)
 
 
-# ------------------ CORE ------------------ #
+# CORE
 
 def run_pipeline_date_range(start_date, end_date, postprocess=False):
 
@@ -107,7 +107,7 @@ def run_pipeline_date_range(start_date, end_date, postprocess=False):
     COMBINED_BY_TYPE_DIR.mkdir(parents=True, exist_ok=True)
 
     consolidated_paths = []
-    raw_paths = []   # ← ADDED
+    raw_paths = []   # <- ADDED
 
     for d in daterange(start_date, end_date):
 
@@ -124,7 +124,7 @@ def run_pipeline_date_range(start_date, end_date, postprocess=False):
         raw_path = day_dir / "extractions.jsonl"
         consolidated_path = day_dir / "extractions_consolidated.jsonl"
 
-        # ---- 1) Extraction ---- #
+        # 1) Extraction
         if not raw_path.exists():
             df_urls = pd.read_csv(url_csv)
             df_urls.columns = [c.strip().lower() for c in df_urls.columns]
@@ -145,17 +145,17 @@ def run_pipeline_date_range(start_date, end_date, postprocess=False):
 
         raw_paths.append(raw_path)
 
-        # ---- 1b) Enrich publish_date from GDELT dateadded ---- #
+        # 1b) Enrich publish_date from GDELT dateadded
         enrich_publish_dates(raw_path, yyyymmdd)
 
-        # ---- 1c) Geocode location_name → improve lat/lon coords ---- #
+        # 1c) Geocode location_name -> improve lat/lon coords
         print(f"[GEOCODE] Resolving coordinates from LLM location names for {yyyymmdd}...")
         geocode_jsonl_inplace(raw_path)
 
         # Split AFTER geocoding so by_type files carry improved coords
         split_jsonl_by_type(raw_path)
 
-        # ---- 2) Consolidation ---- #
+        # 2) Consolidation
         if not consolidated_path.exists():
             df_after = run_consolidation(raw_path)
             with open(consolidated_path, "w", encoding="utf-8") as _f:
@@ -169,7 +169,7 @@ def run_pipeline_date_range(start_date, end_date, postprocess=False):
                     _f.write(json.dumps(_rec, ensure_ascii=False) + "\n")
             print(f"[OK] Consolidated saved: {consolidated_path}")
 
-        # Floods are consolidated globally after enrichment — skip per-day flood split
+        # Floods are consolidated globally after enrichment  -  skip per-day flood split
         split_jsonl_by_type(consolidated_path, skip_types={"flood"})
 
         consolidated_paths.append(consolidated_path)
@@ -177,25 +177,25 @@ def run_pipeline_date_range(start_date, end_date, postprocess=False):
         # GEE enrichment has moved to Stage 3 (Builder_GDELT/run_enrichment.py)
         # and is no longer run inline here.
 
-    # ------------------ OPTIONAL GLOBAL POSTPROCESS ------------------ #
+    # OPTIONAL GLOBAL POSTPROCESS
 
     if postprocess and consolidated_paths:
 
         print("\n=== Running global post-processing ===\n")
 
-        # ---- Load AFTER (consolidated) ---- #
+        # Load AFTER (consolidated)
         dfs_after = [pd.read_json(p, lines=True) for p in consolidated_paths]
         df_after_all = pd.concat(dfs_after, ignore_index=True)
 
         combined_raw = COMBINED_RESULTS_DIR / "all_consolidated.jsonl"
         df_after_all.to_json(combined_raw,orient="records",lines=True,force_ascii=False,date_format="iso")
-        # ---- Load BEFORE (raw) ---- #
-        dfs_before = [pd.read_json(p, lines=True) for p in raw_paths]   # ← ADDED
-        df_before_all = pd.concat(dfs_before, ignore_index=True)        # ← ADDED
+        # Load BEFORE (raw)
+        dfs_before = [pd.read_json(p, lines=True) for p in raw_paths]   # <- ADDED
+        df_before_all = pd.concat(dfs_before, ignore_index=True)        # <- ADDED
 
-        # ---- Analytics ---- #
-        run_debugger_and_metrics(df_after_all, df_before_all)           # ← MODIFIED
-        run_display_extractions(df_after_all, df_before=df_before_all)  # ← MODIFIED
+        # Analytics
+        run_debugger_and_metrics(df_after_all, df_before_all)           # <- MODIFIED
+        run_display_extractions(df_after_all, df_before=df_before_all)  # <- MODIFIED
         run_plots(df_after_all, project_root=BASE_DIR)
 
         print(f"\n[OK] Combined dataset saved to: {combined_raw}")
@@ -203,7 +203,7 @@ def run_pipeline_date_range(start_date, end_date, postprocess=False):
     print("\nPipeline complete.\n")
 
 
-# ------------------ CLI ------------------ #
+# CLI
 
 def main():
 

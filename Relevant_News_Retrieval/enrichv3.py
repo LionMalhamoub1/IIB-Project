@@ -34,7 +34,7 @@ TIMEOUT_S = 10
 MAX_RETRIES = 2
 BACKOFF_BASE_S = 0.6
 
-MAX_CONCURRENT = 200        # aiohttp handles this cheaply; tune up/down as needed
+MAX_CONCURRENT = 200        # aiohttp is lightweight; raise this on a fast connection
 SLEEP_BETWEEN_REQ = (0.0, 0.03)
 
 MAX_TITLE_CHARS = 300

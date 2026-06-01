@@ -41,8 +41,10 @@ from collections import defaultdict
 import requests
 import pandas as pd
 import matplotlib.pyplot as plt
+from tqdm import tqdm
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# ── Configuration ────────────────────────────────────────────────────────────
+# -- Configuration ------------------------------------------------------------
 
 ROOT = Path(__file__).parent.parent
 ENRICHED_DIR   = ROOT / "Builder_GDELT" / "results" / "enriched_floods"
@@ -55,7 +57,7 @@ NULL_ISLAND_DEG = 1.0   # lat/lon within this of (0,0) = null island
 NOMINATIM_DELAY = 1.1   # seconds between Nominatim requests (ToS: max 1/s)
 NOMINATIM_UA    = "IIB-Project-CoordVerification/1.0 (cambridge.ac.uk)"
 
-# ── Haversine ────────────────────────────────────────────────────────────────
+# -- Haversine ----------------------------------------------------------------
 
 def haversine_km(lat1, lon1, lat2, lon2):
     R = 6371.0
@@ -66,7 +68,7 @@ def haversine_km(lat1, lon1, lat2, lon2):
     return 2 * R * math.asin(math.sqrt(a))
 
 
-# ── Nominatim geocoder ───────────────────────────────────────────────────────
+# -- Nominatim geocoder -------------------------------------------------------
 
 def geocode_location(location_name: str, cache: dict) -> tuple[float, float] | None:
     """Return (lat, lon) for a location string, using cache to avoid repeat calls."""
@@ -98,18 +100,22 @@ def geocode_location(location_name: str, cache: dict) -> tuple[float, float] | N
         time.sleep(NOMINATIM_DELAY)
 
 
-# ── Data loading ─────────────────────────────────────────────────────────────
+# -- Data loading -------------------------------------------------------------
 
 def load_enriched_data() -> pd.DataFrame:
-    """Load all enriched JSONL files into a DataFrame."""
+    """Load all enriched JSONL files, tagging each record with its source date folder."""
+    paths = sorted(ENRICHED_DIR.glob("*/floods_enriched.jsonl"))
     records = []
-    for path in sorted(ENRICHED_DIR.glob("*/floods_enriched.jsonl")):
+    for path in tqdm(paths, desc="Loading enriched files", unit="day"):
+        date_str = path.parent.name
         with open(path, encoding="utf-8") as f:
             for line in f:
                 line = line.strip()
                 if line:
                     try:
-                        records.append(json.loads(line))
+                        rec = json.loads(line)
+                        rec["_source_date"] = date_str
+                        records.append(rec)
                     except json.JSONDecodeError:
                         pass
     df = pd.DataFrame(records)
@@ -117,42 +123,63 @@ def load_enriched_data() -> pd.DataFrame:
     return df
 
 
-def load_url_coords(needed_urls: set[str], enriched_dates: list[str]) -> dict[str, tuple[float, float]]:
+def _read_one_csv(date_str: str, needed: set[str]) -> dict[str, tuple[float, float]]:
+    """Read one URL CSV and return only the coords for URLs in `needed`."""
+    path = URL_CSV_DIR / f"{date_str}.csv"
+    if not path.exists():
+        return {}
+    try:
+        chunk = pd.read_csv(path, usecols=["url_normalized", "actiongeo_lat", "actiongeo_lon"])
+        chunk = chunk[chunk["url_normalized"].isin(needed)]
+        return {
+            row["url_normalized"]: (float(row["actiongeo_lat"]), float(row["actiongeo_lon"]))
+            for _, row in chunk.iterrows()
+            if pd.notna(row["actiongeo_lat"]) and pd.notna(row["actiongeo_lon"])
+        }
+    except Exception as e:
+        tqdm.write(f"  [csv error] {date_str}.csv: {e}")
+        return {}
+
+
+def load_url_coords(date_to_urls: dict[str, set[str]], max_workers: int = 16) -> dict[str, tuple[float, float]]:
     """
-    Load GDELT coords only for URLs we actually need.
-    Only reads the URL CSVs for dates that have enriched data.
+    Load GDELT coords in parallel, reading only the CSVs for dates that
+    have records with a location_name (skips all other date CSVs entirely).
     """
-    url_to_coords = {}
-    for date_str in enriched_dates:
-        path = URL_CSV_DIR / f"{date_str}.csv"
-        if not path.exists():
-            continue
-        try:
-            chunk = pd.read_csv(path, usecols=["url_normalized", "actiongeo_lat", "actiongeo_lon"])
-            chunk = chunk[chunk["url_normalized"].isin(needed_urls)]
-            for _, row in chunk.iterrows():
-                if pd.notna(row["actiongeo_lat"]) and pd.notna(row["actiongeo_lon"]):
-                    url_to_coords[row["url_normalized"]] = (
-                        float(row["actiongeo_lat"]),
-                        float(row["actiongeo_lon"]),
-                    )
-        except Exception as e:
-            print(f"  [csv error] {path.name}: {e}")
+    url_to_coords: dict[str, tuple[float, float]] = {}
+    with ThreadPoolExecutor(max_workers=max_workers) as pool:
+        futures = {
+            pool.submit(_read_one_csv, date_str, urls): date_str
+            for date_str, urls in date_to_urls.items()
+        }
+        for fut in tqdm(as_completed(futures), total=len(futures),
+                        desc="Loading URL CSVs", unit="day"):
+            url_to_coords.update(fut.result())
     print(f"Loaded GDELT coords for {len(url_to_coords)} matching URLs "
-          f"(from {len(enriched_dates)} enriched-day CSVs)")
+          f"(from {len(date_to_urls)} date CSVs)")
     return url_to_coords
 
 
-# ── Main ──────────────────────────────────────────────────────────────────────
+# -- Main ----------------------------------------------------------------------
 
 def main():
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    # 1. Load enriched data and derive which dates/URLs we need
+    # 1. Load enriched data and build a date->{urls} map restricted to records
+    #    that have a location_name  -  those are the only ones we'll geocode-verify,
+    #    so there's no point loading coords for any other URLs.
     enriched = load_enriched_data()
-    enriched_dates = sorted(p.parent.name for p in ENRICHED_DIR.glob("*/floods_enriched.jsonl"))
-    needed_urls = set(enriched["url"].dropna().unique())
-    url_coords = load_url_coords(needed_urls, enriched_dates)
+    has_loc = enriched["location_name"].notna() & (enriched["location_name"].str.strip() != "")
+    date_to_urls: dict[str, set[str]] = (
+        enriched[has_loc]
+        .groupby("_source_date")["url"]
+        .apply(lambda s: set(s.dropna()))
+        .to_dict()
+    )
+    date_to_urls = {k: v for k, v in date_to_urls.items() if v}
+    print(f"Need URL coords from {len(date_to_urls)} date CSVs "
+          f"({len(enriched) - has_loc.sum():,} records without location_name skipped)")
+    url_coords = load_url_coords(date_to_urls)
 
     # 2. Attach GDELT coords to enriched rows
     enriched["gdelt_lat"] = enriched["url"].map(lambda u: url_coords.get(u, (None, None))[0])
@@ -177,7 +204,7 @@ def main():
     print(f"With BOTH (usable for check):    {n_usable}")
 
     if n_usable == 0:
-        print("\nNo rows with both location_name and GDELT coords — nothing to verify.")
+        print("\nNo rows with both location_name and GDELT coords  -  nothing to verify.")
         print("Tip: run more days through the enrichment pipeline first.")
         return
 
@@ -217,22 +244,22 @@ def main():
     ]
     print(f"New locations to geocode: {len(unique_locations)}")
 
-    if unique_locations:
-        print("Geocoding via Nominatim (1 req/s)...")
-        for i, loc in enumerate(unique_locations, 1):
-            result = geocode_location(loc, geocache)
-            if i % 10 == 0 or i == len(unique_locations):
-                print(f"  {i}/{len(unique_locations)} done")
-
-        # Save updated cache — preserve all elements of each entry (the
-        # pipeline stores [lat, lon, country_code, bbox_span_km]; writing
-        # back as a full list ensures those fields are not stripped here).
+    def _save_cache():
         with open(GEOCACHE_FILE, "w", encoding="utf-8") as f:
             json.dump(
                 {k: list(v) if v is not None else None for k, v in geocache.items()},
                 f, indent=2
             )
-        print(f"Cache saved to {GEOCACHE_FILE.name}")
+
+    SAVE_EVERY = 50   # flush to disk every N geocodes so interruptions lose minimal work
+    if unique_locations:
+        for i, loc in enumerate(tqdm(unique_locations, desc="Geocoding (1 req/s)", unit="loc"), 1):
+            geocode_location(loc, geocache)
+            if i % SAVE_EVERY == 0:
+                _save_cache()
+
+        _save_cache()   # final save
+        print(f"Cache saved to {GEOCACHE_FILE.name}  ({len(geocache):,} total entries)")
 
     # 7. Compute distances
     rows = []

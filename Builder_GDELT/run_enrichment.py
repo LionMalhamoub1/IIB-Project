@@ -28,7 +28,7 @@ consumers are unaffected.
 
 Resumability
 ------------
-enrich_day_floods() is resume-safe — already-written events are skipped
+enrich_day_floods() is resume-safe  -  already-written events are skipped
 by URL key, so the script can be interrupted and re-run freely.
 
 Usage
@@ -138,7 +138,7 @@ def _assemble_combined() -> None:
     enriched_day_files = sorted(ENRICHED_ROOT.glob("*/floods_enriched.jsonl"))
 
     if not enriched_day_files:
-        log.warning("No per-day enriched files found — combined file not written")
+        log.warning("No per-day enriched files found  -  combined file not written")
         return
 
     seen_keys: set[str] = set()

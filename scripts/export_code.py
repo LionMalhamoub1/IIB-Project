@@ -49,7 +49,7 @@ def collect_files(src: Path) -> list[Path]:
 
 
 def flat_name(rel: Path) -> str:
-    """Convert a/b/c.py  →  a__b__c.py"""
+    """Convert a/b/c.py  ->  a__b__c.py"""
     parts = list(rel.parts)
     stem = "__".join(parts[:-1] + [rel.stem])
     return stem + rel.suffix
@@ -62,7 +62,7 @@ def write_hierarchy(files: list[Path], src: Path, dest: Path) -> None:
         f"Source project : {src}",
         f"Exported on    : {datetime.now().strftime('%Y-%m-%d %H:%M')}",
         "",
-        "Each line shows:  <flat filename>  →  <original path>",
+        "Each line shows:  <flat filename>  ->  <original path>",
         "=" * 60,
         "",
     ]

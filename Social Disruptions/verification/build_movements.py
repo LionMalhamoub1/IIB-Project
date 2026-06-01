@@ -1,30 +1,6 @@
-"""
-build_movements.py
-==================
-Post-processing script that builds cross-date movements from all Level-1
-grouped cluster files produced by group_gdelt_extractions.py.
-
-The daily grouping script only links clusters within a single day's extraction
-file, so a movement like the Iranian protests (Dec 25 – Jan 15) would be
-re-discovered independently on each daily run.  This script pools all clusters
-across all dates, re-computes centroid embeddings from article content, and
-runs the Level-2 movement linking pass across the full date range.
-
-Output
-------
-  verification/grouped/movements_global.jsonl
-      One record per movement, with child_cluster_ids spanning multiple dates.
-
-  verification/grouped/YYYYMMDD_grouped.jsonl  (updated in-place)
-      parent_event_id field populated for every cluster that belongs to a
-      movement; remains null for standalone clusters.
-
-Usage
------
-  python build_movements.py
-  python build_movements.py --grouped path/to/grouped/dir
-  python build_movements.py --range 20180101 20180115
-"""
+# Runs the Level-2 movement pass across all dates at once.
+# The per-day grouper can't link across file boundaries, so cross-month protests
+# end up as separate clusters — this fixes that by pooling everything first.
 
 from __future__ import annotations
 

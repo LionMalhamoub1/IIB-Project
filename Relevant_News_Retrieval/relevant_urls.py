@@ -89,7 +89,7 @@ def _load_gdelt_latlon(target_date: str) -> pd.DataFrame:
         if extra in all_cols:
             cols.append(extra)
     geo = pd.read_csv(enriched, usecols=cols, encoding="utf-8", engine="python")
-    # Keep the first occurrence per URL (multiple events may share the same URL)
+    # Deduplicate on URL since multiple GDELT events can reference the same article
     return geo.drop_duplicates(subset="url_normalized", keep="first")
 
 
@@ -152,7 +152,7 @@ def main(target_date: str, top_k: int = 0, force: bool = False):
                 "All expert models must use the same embedding model."
             )
 
-        # Use fallback flag (conservative OR)
+        # If any expert was trained with URL fallback enabled, apply it across all — conservative OR
         use_url_fallback = use_url_fallback or bool(b.get("use_url_fallback", True))
 
     # 4) Build text once

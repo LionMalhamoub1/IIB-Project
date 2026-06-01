@@ -6,17 +6,17 @@ or were skipped during the main pipeline run.
 
 Targets two categories of fixable failures found in floods_enriched.jsonl:
 
-  1. gee_failed  — _enriched=True but all hydro fields are None.
+  1. gee_failed   -  _enriched=True but all hydro fields are None.
                    GEE was reached but returned nothing (connection pool
                    exhaustion, transient server error, etc.).  Retrying
                    with the fixed pool size usually recovers these.
 
-  2. no_date     — _enriched=False, _enrich_skip_reason="no_date".
+  2. no_date      -  _enriched=False, _enrich_skip_reason="no_date".
                    Event has coords but no event_date or publish_date.
                    Re-enriched using the YYYYMMDD folder name as a
                    date-of-last-resort (flagged as _date_source="yyyymmdd_fallback").
 
-  no_coords events (_enrich_skip_reason="no_coords") are NOT retried —
+  no_coords events (_enrich_skip_reason="no_coords") are NOT retried  - 
   there is no coordinate data to enrich with.
 
 For each retried event the enriched file is rewritten in-place with the
@@ -68,9 +68,7 @@ from Builder_GDELT.helper_scripts.pipeline.enrich_floods_daily import (
 )
 
 
-# ---------------------------------------------------------------------------
 # Scan and categorise
-# ---------------------------------------------------------------------------
 
 def _scan_day(day_path: Path) -> dict:
     """
@@ -130,9 +128,7 @@ def scan_all_days(enriched_root: Path, days: list[str] | None = None) -> list[di
     return results
 
 
-# ---------------------------------------------------------------------------
 # Re-enrich a single day's failures
-# ---------------------------------------------------------------------------
 
 def _inject_yyyymmdd_date(event: dict, yyyymmdd: str) -> dict:
     """Return a copy of event with date_start set from the folder name."""
@@ -155,7 +151,7 @@ def reenrich_day(summary: dict) -> tuple[int, int]:
     yyyymmdd   = summary["yyyymmdd"]
     jsonl_path = summary["path"]
 
-    # Build the list of events to retry and map old key → new injected event
+    # Build the list of events to retry and map old key -> new injected event
     retry_map: dict[str, dict] = {}
 
     for e in summary["gee_failed"]:
@@ -173,7 +169,7 @@ def reenrich_day(summary: dict) -> tuple[int, int]:
     _ensure_gee()
 
     # Run enrichment on all retry candidates concurrently
-    results: dict[str, dict] = {}   # key → enriched result
+    results: dict[str, dict] = {}   # key -> enriched result
     counters   = [0, 0]             # [n_recovered, n_still_failed]
     write_lock = threading.Lock()
     stop_beat  = threading.Event()
@@ -230,9 +226,7 @@ def reenrich_day(summary: dict) -> tuple[int, int]:
     return n_recovered, n_still_failed
 
 
-# ---------------------------------------------------------------------------
 # CLI entry point
-# ---------------------------------------------------------------------------
 
 def main():
     parser = argparse.ArgumentParser(

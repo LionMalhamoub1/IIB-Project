@@ -1,54 +1,6 @@
-"""
-run_gdelt_graph_matching.py
-===========================
-Graph-based event-level matching of GDELT social events against ACLED.
-
-Builds a weighted bipartite graph (GDELT ↔ ACLED) and finds the globally
-optimal 1-to-1 assignment via max-weight bipartite matching.
-
-Run deduplicate_gdelt_social.py first.  This script defaults to the deduped
-JSONL; pass --gdelt to override.
-
-Scoring
--------
-Each candidate pair (g, a) with the same ISO-3 and event_date within ±MAX_DAYS:
-
-    score = W_T * temporal(g, a)
-          + W_L * location(g, a)
-          + W_E * event_type(g, a)
-
-    temporal(g, a)   = 1 - |days_apart| / MAX_DAYS          ∈ [0, 1]
-    location(g, a)   = fuzzy(g.subloc, a.admin1 / a.location) ∈ [0, 1]
-                       0.3 flat when g has no sub-national info
-    event_type(g, a) = TYPE_COMPAT lookup                    ∈ [0, 1]
-
-Weights W_T=0.40, W_L=0.40, W_E=0.20.
-
-Matching
---------
-scipy.optimize.linear_sum_assignment (Hungarian algorithm).
-Only matches above MATCH_THRESHOLD are kept.
-
-Outputs
--------
-  verification/gdelt_graph_matched.parquet
-  verification/gdelt_graph_matched.csv
-  verification/graph_match_report.json
-  verification/figures/
-      fig_graph_score_distribution.png
-      fig_graph_score_components.png
-      fig_graph_match_rate_by_type.png
-      fig_graph_match_rate_by_year.png
-      fig_graph_match_rate_by_country.png
-
-Usage
------
-  python "Social Disruptions/verification/run_gdelt_graph_matching.py"
-  python "Social Disruptions/verification/run_gdelt_graph_matching.py" \\
-      --gdelt  path/to/gdelt_social_deduped.jsonl \\
-      --acled  path/to/acled_raw_events_dir \\
-      --window 7 --threshold 0.35
-"""
+# Optimal 1-to-1 GDELT↔ACLED matching via the Hungarian algorithm.
+# Score = 0.40*temporal + 0.40*location + 0.20*event_type per same-country pair.
+# Run deduplicate_gdelt_social.py first.
 
 from __future__ import annotations
 
@@ -81,8 +33,8 @@ _SD   = _HERE.parent
 _ROOT = _SD.parent
 
 DEFAULT_GDELT_PATH  = _HERE / "gdelt_social_deduped.jsonl"
-DEFAULT_ACLED_PANEL = _SD  / "Likelihood_modelling_social" / "data" / "processed" / "acled_country_day_2017_2025.parquet"
-DEFAULT_ACLED_RAW   = _SD  / "External databases" / "ACLED" / "data" / "raw" / "events"
+DEFAULT_ACLED_PANEL = _SD  / "Likelihood_Modelling" / "data" / "processed" / "acled_country_day_2017_2025.parquet"
+DEFAULT_ACLED_RAW   = _SD  / "External_Databases" / "ACLED" / "data" / "raw" / "events"
 DEFAULT_OUT_DIR     = _HERE
 
 # ---------------------------------------------------------------------------

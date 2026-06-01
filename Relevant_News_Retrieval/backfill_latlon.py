@@ -1,10 +1,3 @@
-"""
-Backfill actiongeo_lat / actiongeo_lon into existing data/urls/{date}.csv files.
-
-For each CSV that lacks lat/lon columns, looks up the corresponding enriched
-GDELT file and left-joins the coordinates on url_normalized, then overwrites
-the CSV in place.
-"""
 from pathlib import Path
 
 import pandas as pd

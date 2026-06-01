@@ -1,54 +1,5 @@
-"""
-evaluate_clusters.py
-====================
-Internal quality evaluation of event clusters — no ACLED or MMAD required.
-
-Instead of asking "does ACLED confirm this event?" (which depends on an
-imperfect reference database and only measures country-day coincidence, not
-event-level correctness), this script measures cluster quality directly:
-
-  1. Cohesion          — mean pairwise internal similarity within each cluster.
-                         Low cohesion in a multi-article cluster suggests
-                         over-merging (different events grouped together).
-
-  2. Size distribution  — how many articles per canonical event?
-                         Many 1-article clusters = poor coverage or noisy events.
-                         A healthy distribution has a fat tail of multi-article
-                         clusters corresponding to well-reported events.
-
-  3. Temporal span      — how many days does each event span?
-                         Compares v1 (per-day) and v2 (global) to show whether
-                         global clustering correctly captures multi-day events.
-
-  4. Country coverage   — how many countries and events per country?
-                         Flags countries with suspiciously few or many events.
-
-  5. Movement quality   — mean centroid similarity within movements vs between
-                         unlinked clusters.  A good movement should have
-                         significantly higher internal similarity.
-
-  6. Singleton rate     — fraction of 1-article clusters.  These are either
-                         unique events with sparse coverage or noise; a very
-                         high singleton rate (> 60%) suggests the similarity
-                         threshold is too strict.
-
-  7. Reduction ratio    — raw articles → canonical events.  A healthy ratio is
-                         roughly 3–8× depending on event density.
-
-Can compare two grouped directories (e.g. v1 vs v2) by passing --compare.
-
-Usage
------
-  # Evaluate a single grouped directory
-  python evaluate_clusters.py --grouped v2/output --out v2/eval
-
-  # Compare v1 and v2
-  python evaluate_clusters.py --grouped verification/grouped \\
-      --compare v2/output --out v2/eval
-
-  # Restrict to a date range
-  python evaluate_clusters.py --grouped v2/output --range 20180101 20180131
-"""
+# Internal cluster quality metrics (cohesion, size distribution, singleton rate, etc.).
+# No ACLED/MMAD required. Pass --compare to diff two grouped directories, e.g. v1 vs v2.
 
 from __future__ import annotations
 

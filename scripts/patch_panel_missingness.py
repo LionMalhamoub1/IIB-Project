@@ -2,7 +2,7 @@
 import pandas as pd
 import numpy as np
 
-PANEL_PATH = "Social Disruptions/Likelihood_modelling_social/v2/data/interim/modelling_panel_gdelt.parquet"
+PANEL_PATH = "Social_Disruptions/Likelihood_Modelling/v2/data/interim/modelling_panel_gdelt.parquet"
 
 panel = pd.read_parquet(PANEL_PATH)
 panel['date'] = pd.to_datetime(panel['date'])

@@ -16,7 +16,7 @@ ROOT           = Path(__file__).resolve().parents[1]
 CONSOLIDATED   = ROOT / "Builder_GDELT/results/combined/all_consolidated.jsonl"
 DAILY_DIR      = ROOT / "Builder_GDELT/results/daily"
 SVM_DAILY_DIR  = ROOT / "data/processed/model_scored_daily"
-PANEL_PARQUET  = ROOT / "Social Disruptions/Likelihood_modelling_social/v2/data/interim/modelling_panel_gdelt.parquet"
+PANEL_PARQUET  = ROOT / "Social_Disruptions/Likelihood_Modelling/v2/data/interim/modelling_panel_gdelt.parquet"
 OUT_FILE       = ROOT / "notes" / "clustering_stats.txt"
 
 YEARS = [2017, 2018, 2019, 2020, 2021]

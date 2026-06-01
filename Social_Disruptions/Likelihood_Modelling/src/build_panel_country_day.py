@@ -26,7 +26,7 @@ USE_GTA: bool                    = True
 
 MOD_ROOT  = _SRC.parent
 REPO_ROOT = MOD_ROOT.parent
-EXT       = REPO_ROOT / "External_Databases"
+EXT       = REPO_ROOT / "Data_Sources"
 
 ACLED_DAY_FILE = MOD_ROOT / "data" / "processed" / "acled_country_day_2017_2025.parquet"
 MARKETS_FILE   = EXT / "Markets"       / "data" / "processed" / "markets_country_day_20170101_20251231.parquet"

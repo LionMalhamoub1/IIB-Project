@@ -17,7 +17,7 @@ import pandas as pd
 # Paths
 # ---------------------------------------------------------------------------
 HERE    = Path(__file__).resolve().parent
-DATA_DIR = HERE.parent.parent.parent / "Verification" / "grouped"
+DATA_DIR = HERE.parent.parent.parent / "GDELT_Verification" / "grouped"
 OUT_DIR  = HERE / "output"
 OUT_DIR.mkdir(exist_ok=True)
 

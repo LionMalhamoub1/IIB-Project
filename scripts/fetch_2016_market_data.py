@@ -15,7 +15,7 @@ import numpy as np
 import pandas as pd
 import yfinance as yf
 
-PANEL_PATH = "Social Disruptions/Likelihood_modelling_social/v2/data/interim/modelling_panel_gdelt.parquet"
+PANEL_PATH = "Social_Disruptions/Likelihood_Modelling/v2/data/interim/modelling_panel_gdelt.parquet"
 
 FETCH_START = "2016-01-01"
 FETCH_END   = "2016-12-31"

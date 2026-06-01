@@ -31,8 +31,8 @@ log = logging.getLogger(__name__)
 # ---------------------------------------------------------------------------
 # Paths
 # ---------------------------------------------------------------------------
-_HERE = Path(__file__).resolve().parent          # Social Disruptions/verification/
-_SD   = _HERE.parent                             # Social Disruptions/
+_HERE = Path(__file__).resolve().parent          # Social_Disruptions/verification/
+_SD   = _HERE.parent                             # Social_Disruptions/
 _ROOT = _SD.parent                               # repo root
 
 # Prefer the deduplicated output; fall back to the raw consolidated file.
@@ -41,8 +41,8 @@ _RAW_FALLBACK_PATH = _ROOT / "Builder_GDELT" / "results" / "combined" / "all_con
 DEFAULT_GDELT_PATH  = _DEDUPED_PATH
 
 DEFAULT_ACLED_PANEL = _SD  / "Likelihood_Modelling" / "data" / "processed" / "acled_country_day_2017_2025.parquet"
-DEFAULT_ACLED_RAW   = _SD  / "External_Databases" / "ACLED" / "data" / "raw" / "events"
-DEFAULT_MMAD_PANEL  = _SD  / "External_Databases" / "MMAD" / "data" / "processed" / "mmad_country_month_2017_2025.parquet"
+DEFAULT_ACLED_RAW   = _SD  / "Data_Sources" / "ACLED" / "data" / "raw" / "events"
+DEFAULT_MMAD_PANEL  = _SD  / "Data_Sources" / "MMAD" / "data" / "processed" / "mmad_country_month_2017_2025.parquet"
 DEFAULT_OUT_DIR     = _HERE
 
 SOCIAL_TYPES: frozenset[str] = frozenset({"protests", "labour_strike"})

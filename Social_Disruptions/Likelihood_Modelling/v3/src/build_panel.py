@@ -20,7 +20,7 @@ _HERE  = Path(__file__).resolve().parent               # v2/src
 _V2    = _HERE.parent                                  # v2  (Likelihood_Modelling/v2)
 _MOD   = _V2.parent                                    # Likelihood_Modelling
 _SD    = _MOD.parent                                   # Social Disruptions
-_VER   = _SD / "Verification"                          # Social Disruptions/verification
+_VER   = _SD / "GDELT_Verification"                          # Social_Disruptions/verification
 
 GDELT_LABELS_FILE  = _VER / "v2" / "output" / "labels_country_day.parquet"
 FEATURE_PANEL_FILE = _MOD / "data" / "interim" / "modelling_panel.parquet"

@@ -24,8 +24,8 @@ SKIP_DIRS = {
     "results (3month)",
     "outputs",
     "plots",
-    "Social Disruptions",
-    "Supply Chain Chokepoints",
+    "Social_Disruptions",
+    "Supply_Chain_Chokepoints",
     "API Costs",
 }
 

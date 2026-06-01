@@ -3,10 +3,10 @@ ACLED Event Proximity to Supply-Chain Chokepoints
 --------------------------------------------------
 Loads all cached raw ACLED parquet files (event-level, with lat/lon),
 then computes distance from every event to:
-  - ICMM mining assets   (Supply Chain Chokepoints/Mining Datasets/ICMM)
-  - WPI ports            (Supply Chain Chokepoints/Port Datasets/World Port Index)
+  - ICMM mining assets   (Supply_Chain_Chokepoints/Mining Datasets/ICMM)
+  - WPI ports            (Supply_Chain_Chokepoints/Port Datasets/World Port Index)
 
-Produces figures in Social Disruptions/External_Databases/ACLED/figures/
+Produces figures in Social_Disruptions/External_Databases/ACLED/figures/
 """
 
 from pathlib import Path
@@ -25,8 +25,8 @@ from scipy.spatial import cKDTree
 HERE      = Path(__file__).parent
 ROOT      = HERE.parent.parent.parent          # IIB-Project root
 ACLED_GLOB = HERE / "data/raw/events/**/*.parquet"
-ICMM_PATH  = ROOT / "Supply Chain Chokepoints/Mining Datasets/ICMM/global-mining-dataset.xlsx"
-WPI_PATH   = ROOT / "Supply Chain Chokepoints/Port Datasets/World Port Index/WPI.csv"
+ICMM_PATH  = ROOT / "Supply_Chain_Chokepoints/Mining Datasets/ICMM/global-mining-dataset.xlsx"
+WPI_PATH   = ROOT / "Supply_Chain_Chokepoints/Port Datasets/World Port Index/WPI.csv"
 OUTDIR     = HERE / "figures"
 OUTDIR.mkdir(exist_ok=True)
 

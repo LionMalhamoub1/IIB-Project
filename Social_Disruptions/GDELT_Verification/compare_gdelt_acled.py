@@ -20,7 +20,7 @@ import pandas as pd
 # Paths
 # ---------------------------------------------------------------------------
 _HERE    = Path(__file__).resolve().parent
-_ACLED   = _HERE.parent / "External_Databases" / "ACLED" / "data" / "raw" / "events"
+_ACLED   = _HERE.parent / "Data_Sources" / "ACLED" / "data" / "raw" / "events"
 OUT_DIR  = _HERE / "comparison"
 OUT_DIR.mkdir(exist_ok=True)
 

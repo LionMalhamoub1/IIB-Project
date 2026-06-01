@@ -34,7 +34,7 @@ _ROOT = _SD.parent
 
 DEFAULT_GDELT_PATH  = _HERE / "gdelt_social_deduped.jsonl"
 DEFAULT_ACLED_PANEL = _SD  / "Likelihood_Modelling" / "data" / "processed" / "acled_country_day_2017_2025.parquet"
-DEFAULT_ACLED_RAW   = _SD  / "External_Databases" / "ACLED" / "data" / "raw" / "events"
+DEFAULT_ACLED_RAW   = _SD  / "Data_Sources" / "ACLED" / "data" / "raw" / "events"
 DEFAULT_OUT_DIR     = _HERE
 
 # ---------------------------------------------------------------------------

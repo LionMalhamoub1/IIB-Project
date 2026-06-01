@@ -7,10 +7,10 @@ from pathlib import Path
 
 # ── Paths ─────────────────────────────────────────────────────────────────────
 _HERE    = Path(__file__).resolve().parent          # v2/
-_SD      = _HERE.parent.parent                      # Social Disruptions/
+_SD      = _HERE.parent.parent                      # Social_Disruptions/
 _ROOT    = _SD.parent                               # repo root
 
-BACKFILL_SCRIPT  = _SD / "Verification" / "v2" / "run_backfill.py"
+BACKFILL_SCRIPT  = _SD / "GDELT_Verification" / "v2" / "run_backfill.py"
 BUILD_PANEL_DIR  = _HERE / "src"
 TRAIN_BT_DIR     = _HERE / "src"
 

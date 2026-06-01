@@ -13,9 +13,9 @@ import numpy as np
 import pandas as pd
 import yfinance as yf
 
-PANEL_PATH   = "Social Disruptions/Likelihood_modelling_social/v2/data/interim/modelling_panel_gdelt.parquet"
-GIDX_FILE    = "Social Disruptions/Likelihood_modelling_social/v2/data/interim/global_indices_daily.parquet"
-FX_HI_FILE   = "Social Disruptions/Likelihood_modelling_social/v2/data/interim/fx_missing_countries.parquet"
+PANEL_PATH   = "Social_Disruptions/Likelihood_Modelling/v2/data/interim/modelling_panel_gdelt.parquet"
+GIDX_FILE    = "Social_Disruptions/Likelihood_Modelling/v2/data/interim/global_indices_daily.parquet"
+FX_HI_FILE   = "Social_Disruptions/Likelihood_Modelling/v2/data/interim/fx_missing_countries.parquet"
 
 EM_FX: dict[str, str] = {
     "ARG": "USDARS=X", "BOL": "USDBOB=X", "BRA": "USDBRL=X",

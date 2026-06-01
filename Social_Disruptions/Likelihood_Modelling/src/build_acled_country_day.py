@@ -11,7 +11,7 @@ MOD_ROOT  = _SRC.parent
 REPO_ROOT = MOD_ROOT.parent
 
 ACLED_EVENTS_DIR: Path = (
-    REPO_ROOT / "External_Databases" / "ACLED" / "data" / "raw" / "events"
+    REPO_ROOT / "Data_Sources" / "ACLED" / "data" / "raw" / "events"
 )
 
 START_DATE: str = "2017-01-01"

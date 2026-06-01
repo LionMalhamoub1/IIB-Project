@@ -1,6 +1,6 @@
 """
-Plot data coverage by year for all official datasets in Social Disruptions/External_Databases.
-Saves bar charts to Social Disruptions/External_Databases/Coverage_Plots/
+Plot data coverage by year for all official datasets in Social_Disruptions/External_Databases.
+Saves bar charts to Social_Disruptions/External_Databases/Coverage_Plots/
 """
 
 import os
